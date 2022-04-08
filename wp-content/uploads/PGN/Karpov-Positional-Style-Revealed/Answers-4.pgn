@@ -1,0 +1,254 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Karpov, Anatoly"]
+[Black "Tarinin, X."]
+[Result "1-0"]
+[ECO "C73"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "105"]
+[EventDate "1962.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. O-O Bg4 8.
+dxe5 fxe5 9. Qd3 Be7 10. c4 Nf6 11. h3 Bxf3 12. Qxf3 O-O 13. Nc3 Nd7 14. Qg4
+Bf6 15. Be3 Qe8 16. Rad1 Rb8 17. b3 Rf7 18. Rd3 Nf8 19. Ne2 Qd7 {Diagram #} 20.
+Qxd7 $1 {Karpov has plenty of good moves here, but he exchanges the queens
+because Black has weaknesses; so, he would like to drive the game into the
+endgame and press the opponent's weak pawns.} (20. f3 $5) (20. Rc1 $5) (20. Ba7
+$5) (20. Qg3 $5) (20. Rd2 $5) 20... Rxd7 21. Rfd1 {A nice prophylactic move!
+He stopped the advance of d5 and pinned the d6-pawn at the same time.} Rbd8 22.
+Nc3 Kf7 23. g3 {This is another interesting move because he would like to
+limit the mobility of the darck-squared bishop on f6 and, in the future, he
+may play the f4 breakthrough.} Ke6 24. Kg2 Kf7 25. f4 $1 {The other breakthrough,
+c5, is interesting, but not very effective because Black would not touch
+the pawn.} (25. c5 $5 Ne6) 25... exf4 (25... g6 26. f5 gxf5 27. exf5 $16 {
+Black is cramped because his pieces don't have active squares. White is not
+winning a spot, but he has a clear advantage.}) 26. gxf4 Bxc3 27. Rxc3 c5 28.
+Kf3 $16 {White has a clear advantage here because his pieces are more active
+and he can improve his position by the Bf2 and Bh4 maneuver. The rook will
+return to the d-line by R3d3. In the appropriate moment, White will play the
+e5 break. After a long and fighting game, Karpov managed to win.} g6 29. Bf2
+Ne6 30. Rcd3 c6 31. Bh4 Nd4+ 32. Rxd4 cxd4 33. Bxd8 Rxd8 34. Rxd4 Ke7 35. c5 d5
+36. exd5 cxd5 37. Ra4 Ra8 38. Ke3 Kd7 39. Kd4 Kc6 40. Rb4 a5 41. Rb6+ Kc7 42.
+Kxd5 Rd8+ 43. Rd6 Rf8 44. Ra6 Rf5+ 45. Kc4 Rxf4+ 46. Kb5 a4 47. Ra7+ Kb8 48.
+Rxh7 axb3 49. axb3 Rf6 50. c6 Rf3 51. b4 Rf4 52. Ka5 Rc4 53. b5 1-0
+
+[Event "Candidates final"]
+[Site "Kuala Lumpur"]
+[Date "1990.03.26"]
+[Round "9"]
+[White "Timman, Jan H"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2680"]
+[BlackElo "2730"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "112"]
+[EventDate "1990.03.??"]
+[EventType "match"]
+[EventRounds "12"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15.
+Bb1 c5 16. d5 Nd7 17. Ra3 f5 18. Rae3 f4 $5 {This is a very interesting move
+and, probably, the best way to explore the weakness. Black created the
+backward pawn on e5 and, at the same time, a very strong post for his knight,
+the e5.} (18... fxe4 $5 19. Rxe4 (19. Nxe4 Nxd5 20. R3e2 $15) 19... Rxe4 20.
+Nxe4 Nxd5 21. Qe2 $36 {
+Here White has a strong compensation for the sacrificed pawn.} N5f6 (21... N7f6
+$2 22. Nxc5 $1 dxc5 23. Qe6+ Kh8 24. Ne5 $18) (21... Qb6 22. Neg5 $5 $40) 22.
+Nxd6 Bxd6 23. Qe6+ Kh8 24. Qxd6 $14) (18... Nf6 19. exf5 Rxe3 20. Rxe3 Nfxd5
+21. Re1 Qd7 22. Nh4 $13 {The position is unclear.}) 19. R3e2 (19. Ra3 Qf6 $6
+20. Nb3 Nb6 $6 21. Na5 Rab8 22. axb5 axb5 23. Nxb7 Rxb7 24. Bd2 Nc4 25. Bc3 Ne5
+26. Qe2 $16) 19... Ne5 20. Nf1 $2 (20. Nxe5 dxe5 {The position is evaluated by
+the computer as equal. However, White cannot advance his d-pawn, his bishops
+are locked behind his own pawns and he cannot create active play in the center
+or on the kingside. On the other hand, Black has potentially energetic pieces
+and queenside pawn majority. In the light of the above evaluation, White tried
+to avoid the above continuation, but he played a terrible move, Nf1.}) 20...
+Nxf3+ {When you put pressure on your opponent, it's natural to make mistakes,
+and this particular position isn't an exception to the rule.} (20... c4 $5) (
+20... g5 $5) 21. gxf3 Qh4 {White tried to play actively by opening the g-line,
+but he created new weaknesses around his king, and Black immediately explored
+them by the queen expedition.} 22. Nh2 Re5 (22... Qxh3 23. Bxf4 Rac8 $15) 23.
+Qd2 Qxh3 $5 {After some calculations, he realizes that he cannot perform a
+direct attack against the enemy king; thus, he tried to explore the weaknesses
+on the other side of the board.} (23... Rg5+ $5 24. Ng4 Rh5 (24... h5 $5) 25.
+Qxf4 Qxh3 26. Qh2 Qxh2+ 27. Nxh2 bxa4 $17 {
+Again the disaster will come on the other side of the board.}) (23... g5 $5 24.
+Ng4 $2 Qxh3 25. Nxe5 dxe5 {with the idea to play g4... Black is winning!}) 24.
+Qxf4 bxa4 $17 {
+Karpov has a clear advantage here and he manages to win the game afterwards.}
+25. Qg4 Qxg4+ 26. Nxg4 Ree8 27. f4 a5 28. f3 Ba6 29. Rg2 Kf7 30. Rd1 Bc4 31.
+Ne3 Bb3 32. Re1 c4 33. e5 dxe5 34. Bg6+ Kg8 35. Ng4 Nd3 36. Nxh6+ gxh6 37.
+Bxd3+ Kh8 38. Bg6 Red8 39. Bd2 Bb4 40. Bc3 Bxc3 41. bxc3 a3 42. fxe5 Rxd5 43.
+e6 Rd1 44. Rxd1 Bxd1 45. e7 Ba4 46. Bf7 Rb8 47. Re2 Rb1+ 48. Kf2 Rb2 49. Bxc4
+Kg7 50. Ke1 Rxe2+ 51. Kxe2 h5 52. Bb3 Bd7 53. Ke3 Kf6 54. Kf4 Bc6 55. c4 Kxe7
+56. c5 Be8 0-1
+
+[Event "Candidates final"]
+[Site "Kuala Lumpur"]
+[Date "1990.03.23"]
+[Round "8"]
+[White "Karpov, Anatoly"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2730"]
+[BlackElo "2680"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "1990.03.??"]
+[EventType "match"]
+[EventRounds "12"]
+[EventCountry "MAS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 dxc4 7. Ne5 Bb4+ 8. Kf1
+Nfd7 9. Nxc4 c6 10. Bb2 O-O 11. Nbd2 b5 12. Ne3 Bb7 13. Qc2 Qb6 14. Nf3 Nf6 15.
+Ne5 Be7 16. N3g4 Nxg4 17. Nxg4 Nd7 18. Bf3 Rac8 19. Rd1 a5 20. Qe4 Rc7 21. Kg2
+a4 22. bxa4 Ra8 23. axb5 cxb5 24. Qb1 Bxf3+ 25. exf3 h5 26. Ne3 h4 {Diagram #}
+27. d5 $1 {It's a very typical strategy with the isolated pawn to push forward.
+Black didn't manage to control the d5-square, and his pieces are not well
+placed. After d5, he cannot recapture because the knight will deliver a fork
+to the queen and rook.} (27. Ba1 $5) (27. Rhe1 $5) 27... Bc5 28. Rhe1 {
+White's pieces have fantastic positions and they are extremely energetic.
+Right now, he's threatening to capture on e6, and then, to give a discovered
+attack with the knight. For that reason, Black tried to block the position.} e5
+29. Ng4 Rca7 30. Nxe5 Nxe5 31. Rxe5 Rxa2 32. d6 $1 {Black recaptures one pawn
+but, after the d6 move, White's pieces are highlighting how active they are.
+Black cannot create counterplay because his pieces are stuck on the queenside,
+and they are not ready to create something real.} h3+ (32... Bxd6 33. Rh5 Rxb2
+$8 34. Qxb2 $18) 33. Kxh3 Bxd6 34. Rh5 $18 {The idea behind the h3 move was to
+keep closed the h-line; however, White can attack on h7 in any case. Karpov
+has a fantastic advantage and he manages to convert it into a full point.} Qxf2
+35. Qh7+ Kf8 36. Qxg7+ Ke8 37. Rh8+ Kd7 38. Qxf7+ 1-0
+
+[Event "Candidates sf1"]
+[Site "Linares"]
+[Date "1992.??.??"]
+[Round "7"]
+[White "Karpov, Anatoly"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "D58"]
+[WhiteElo "2725"]
+[BlackElo "2685"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "89"]
+[EventDate "1992.04.??"]
+[EventType "match"]
+[EventRounds "10"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. Be2
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c5 12. bxc5 bxc5 13. Rb1 Qa5 14. Qd2 cxd4
+15. Nxd4 Bxd4 16. exd4 Ba6 17. Nb5 Qd8 18. O-O Nc6 19. Rfd1 Qf6 20. Bf1 Rab8
+21. a4 Rfc8 22. Rb3 Bxb5 23. axb5 Nd8 {Diagram #} 24. Qa2 $1 {This is a very
+instructive game on how to explore weaknesses. Black has a weakness on a7, and
+on d5 as well. White's pawn on b5 is a weakness, but it cramps Black's pieces
+and is protected very well by the f1-bishop. With his last move, he higlights
+both weaknesses on a7 and d5.} Rc7 25. Ra3 Qf5 (25... Rxb5 26. Bxb5) 26. Re3 $1
+{White exerts a heavy pressure against a7 and d5, so it's difficult for Black
+to continue with normal moves. In such cases, you should be extremely careful
+with your opponent's counterplay. Please take a note on how Karpov protects
+himself and resists the temptation to capture a pawn on a7.} (26. Rxa7 Rc2 $132
+) 26... Ne6 (26... Rc2 $2 27. Re8+ Kh7 28. Qxc2 Qxc2 29. Bd3+ Qxd3 30. Rxd3 $18
+) 27. Re5 {Black successfully managed to create some counter-chances against
+White's second rank, but Karpov regroups his pieces in order to attack the
+weakness on d5.} Qg4 (27... Rc2 28. Rxf5 Rxa2 29. Rxd5 $16) 28. Be2 Qg6 29. g3
+$1 {Everything is over-protected and Black's pieces push backwards. Black's
+knight can jump to f4 now, but it cannot create any strong threats. Black's
+pawn weaknesses are still there on a7 and d5.} (29. Qxd5 Rd8 $1 (29... Nf4 30.
+Qf3 $14) 30. Qe4 Qxe4 31. Rxe4 Rcd7 $10) 29... Rbc8 (29... Nf4 30. Bf1 $1 $16)
+30. Bh5 Qf6 31. Qxd5 $16 {
+Karpov manages to win a clear pawn and the game afterwards.} g6 32. Be2 Rc3 33.
+h4 Ra3 34. Qe4 Rcc3 35. Kg2 Kg7 36. d5 Nc5 37. Qd4 Rc2 38. Re8 Raa2 39. Rg8+
+Kxg8 40. Qxf6 Rxe2 41. Ra1 Ne4 42. Rxa2 Rxa2 43. Qd4 Rxf2+ 44. Kg1 Re2 45. d6
+1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Adams, Michael"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2660"]
+[BlackElo "2740"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "1994.05.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "1994.10.01"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nc3 d6 6. Qd2 g5 7. O-O-O Bg7 8.
+e5 dxe5 9. dxe5 Qe7 10. f4 Nc6 11. Nf3 Bd7 12. h4 gxf4 13. Qxf4 O-O-O 14. Ne4 {
+Diagram #} Nb8 $1 {This is an amazing regrouping move with the idea to plan
+Bc6 and Nd7. I hope you spotted the weakness on e5. Black tried to decrease
+White's initiative in the center by exchanging one of the knights with his
+light-squared bishop. The f7-pawn is also a weakness, but White didn't
+prepared any attack against it.} (14... Nb4 $2 15. Nd6+ $1 cxd6 16. Qxb4 $16) (
+14... Kb8 $5) (14... Rhg8 $5) 15. Be2 Bc6 16. Nf6 Nd7 {Black is attacking the
+intruder on f6 three times, so he forced the knight to go back.} 17. Nh5 Bxf3 {
+A very strong strategical exchange and well calculated. He's eliminating the
+defender of the e5-pawn in order to attack it in the near future.} 18. Bxf3 (
+18. Nxg7 Bxe2 $19) 18... Bxe5 $17 {Karpov managed to win the weakness on e5,
+so he has a material advantage. He used his advantage in order to win the game
+afterwards.} 19. Qe4 c6 20. Rxd7 Bxb2+ 21. Kxb2 Rxd7 22. Qe3 Rhd8 23. a3 Rd4
+24. g3 Qc5 25. Re1 Rc4 26. Qxc5 Rxc5 27. Re2 Rd1 28. Nf4 Rb5+ 29. Ka2 Rbb1 30.
+Bh5 Ra1+ 31. Kb3 Rdb1+ 32. Kc4 Rxa3 33. Bxf7 Rxg3 34. Bxe6+ Kc7 35. Nd3 a5 36.
+Rf2 Re3 37. Rf7+ Kb8 38. Re7 Re4+ 39. Kc3 Rb5 0-1
+
+[Event "Cap d'Agde KO"]
+[Site "Cap d'Agde"]
+[Date "2000.11.04"]
+[Round "3.1"]
+[White "Karpov, Anatoly"]
+[Black "Gurevich, Mikhail"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2699"]
+[BlackElo "2667"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "51"]
+[EventDate "2000.11.01"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2001.01.25"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd2 O-O 8. Bd3
+dxc4 9. Bxc4 e5 $6 10. O-O Qe7 11. h3 Bb8 12. Bb3 h6 13. Nh4 Rd8 14. Nf5 Qe8
+15. f4 exd4 16. exd4 Nf8 17. Rae1 Be6 {Diagram #} 18. d5 $3 {This is an
+interesting move because it blows up the position and uses his extremely active 
+pieces. Usually, when you manage to create positional domination, then it's the 
+time to search for tactics.} (18. Nxh6+ $5 gxh6 19. d5 Nxd5 20. f5 $18 {
+Transposition.}) (18. Nxg7 $5 Kxg7 19. d5 $16) (18. Bxe6 $5 Nxe6 19. Nxh6+ $18)
+18... Nxd5 19. Nxd5 cxd5 20. Nxh6+ $1 gxh6 21. f5 {White will take back the
+sacrificed piece and his position is winning. White's pieces are extremely
+active, the d5-pawn is a weakness, and Black doesn't have a good kingside
+safety.} Qc6 22. fxe6 Nxe6 (22... Qxc2 23. exf7+ $1 Kg7 24. Bxc2 $18) (22...
+fxe6 23. Rxf8+ $1 Rxf8 24. Qg6+ Kh8 25. Qxh6+ Kg8 26. Qg6+ Kh8 27. Rxe6 $18)
+23. Qf5 $40 {Black is a pawn up, but White has a lot of threats and he manages
+to win the game afterwards.} Qc7 24. Rxe6 Qh2+ 25. Kf2 Qg3+ 26. Ke2 1-0
+

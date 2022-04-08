@@ -1,0 +1,70 @@
+[Event "level 2"]
+[Site "https://lichess.org/study/1PtB"]
+[Date "2016.01.27"]
+[Round "2"]
+[White "bishop vs knight"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Asaf_Givon"]
+[SetUp "1"]
+[FEN "r3r1k1/1bq2ppp/p2ppn2/1p2b1B1/4P3/P1NB1Q1P/1PP2PP1/4RRK1 w - - 0 17"]
+[PlyCount "26"]
+[EventDate "2016.??.??"]
+
+17. Bf4 {[%csl Ge5][%cal Ge6e5]} Bxc3 $1 (17... Bxf4 18. Qxf4 {
+[%csl Gd3][%cal Ge4e5,Gd3h7,Ge1e5]}) 18. bxc3 e5 $1 {[%csl Ye1,Yf1]} 19. Bg5
+Nd7 {[%cal Gc7c3]} 20. Qg3 {[%csl Gd7,Gc7,Gb7]} f6 21. Bh6 Nc5 {
+[%csl Gc3,Gc2,Ga3]} 22. Bd2 Kh8 23. h4 Qf7 24. f4 Rad8 25. Qh2 exf4 26. Rxf4
+Re5 27. g4 Rde8 28. Qg2 d5 29. Ref1 dxe4 {0-1 White resigns.} 0-1
+
+[Event "Danish Team Championship"]
+[Site "https://lichess.org/study/1PtB"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Pedersen, C."]
+[Black "Mortensen, E."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "r1b2rk1/1pq2p1p/p1n1p1p1/8/N3BP2/5Q2/PPP3PP/R4R1K w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2009.??.??"]
+
+1. Bxc6 $1 {Creating weaknesses on c5 and c6.} (1. Nc5 $6 {
+is less precise due to} Nd4 $1 2. Qc3 Nb5) (1. Rad1 Ne7 {
+[%csl Gc6][%cal Gc8d7,Gd7c6]}) 1... bxc6 (1... Qxc6 2. Qxc6 bxc6 3. Nc5 {
+with a superior endgame, reminiscent of the encounter P.Benko-S.Reshevsky, US
+Championship, New York 1968.  [%csl Gc6,Ga6,Rc8,Gc5][%cal Ga1d1,Gd1d6]}) 2. Qc3
+{[%csl Gh7,Gg6,Gf7,Ge6,Gc6,Ga6,Rc8]} Rb8 3. Nc5 {White already has the better
+chances thanks to his strong knight and the sad bishop on c8.  [%csl Gc5]} f6
+4. Rae1 Qe7 5. a4 Rd8 6. a5 Rd5 7. b4 $1 {
+Fixing the knight.  [%csl Ge3,Ye6,Yc6,Ya6][%cal Ge1e3,Gf1e1,Yc5e6]} e5 $6 8.
+fxe5 fxe5 9. Nd3 {. Now the e5-pawn is doomed, and White soon won the game. .
+(press F10 for the next exercise)} *
+
+[Event "Manila Olympiad"]
+[Site "https://lichess.org/study/1PtB"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Piket, J."]
+[Black "Oll, L."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "2rq1rk1/1b3pp1/3Pp2p/p3Q3/2pP1n2/5N2/1PB2PPP/3RR1K1 b - - 0 1"]
+[PlyCount "15"]
+[EventDate "1992.??.??"]
+
+1... Bxf3 $1 {A timely exchange that damages White's pawn structure and
+secures the f4-square for the knight.} (1... Nd5 2. Qe4 g6 3. Ne5 {
+[%csl Gg6,Gf7][%cal Ge5g6,Ge5f7]}) (1... g5 {[%cal Gc2h7]}) 2. gxf3 (2. Qxf4 $2
+{loses the exchange after} Bxd1 {.}) 2... Qg5+ $1 {Exploiting the mating
+threat in order to swap the active white queen as well.  [%cal Gg5g2]} 3. Qxg5
+hxg5 {[%csl Gf4,Yf2,Yf3,Yh2,Yd4,Yd6,Yb2,Gg8]} 4. Ba4 {[%csl Gd7][%cal Gd6d7]}
+Rb8 $1 {Heading for b4 to intimidate the bishop and protect the c4-pawn. 
+[%csl Gb4][%cal Gb8b4]} 5. Rd2 Rb4 6. Ra1 (6. Bc6 Rb6 7. d5 Nxd5 $1 {
+with a clear edge - Oll. Here} 8. Bxd5 {is met by} Rxd6 {.}) 6... Rd8 7. d7 Kf8
+8. Rc2 Ke7 {. The passed pawn has been neutralized, while the white rooks lack
+active prospects. Next Black may consider ...Rdb8 and ...Nd3 to put pressure
+on b2. . (press F10 for the next exercise)  [%csl Gb8][%cal Gd8b8]} *
+

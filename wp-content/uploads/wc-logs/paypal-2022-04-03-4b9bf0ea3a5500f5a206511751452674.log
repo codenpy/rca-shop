@@ -1,0 +1,37 @@
+2022-04-03T16:12:06+00:00 INFO Generating payment form for order 58320. Notify URL: https://online.chess-teacher.com/wc-api/WC_Gateway_Paypal/
+2022-04-03T16:12:06+00:00 INFO PayPal Request Args for order 58320: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 2
+    [upload] => 1
+    [return] => https://online.chess-teacher.com/checkout/order-received/58320/?key=wc_order_Pl48awyEJkqZj&utm_nooverride=1
+    [cancel_return] => https://online.chess-teacher.com/cart/?cancel_order=true&order=wc_order_Pl48awyEJkqZj&order_id=58320&redirect&_wpnonce=8dfd8448ba
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-58320
+    [custom] => {"order_id":58320,"order_key":"wc_order_Pl48awyEJkqZj"}
+    [notify_url] => https://online.chess-teacher.com/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => The Grandmaster’s Positional Understanding
+    [quantity_1] => 1
+    [amount_1] => 50
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+

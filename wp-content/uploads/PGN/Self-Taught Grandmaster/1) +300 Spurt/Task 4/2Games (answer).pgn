@@ -1,0 +1,304 @@
+[Event "open"]
+[Site "Sankt_Peterburg"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Petrushin, A."]
+[Black "Yakovich, Y."]
+[Result "0-1"]
+[WhiteElo "2485"]
+[BlackElo "2555"]
+[SetUp "1"]
+[FEN "5r2/3Q1pk1/3p1bp1/3Pp2p/1q2P2P/6PK/6B1/2R5 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1995.??.??"]
+[Source "63/(558)"]
+
+{Black has the only forcing move} 1... Bxh4 {!} 2. Kxh4 (2. gxh4 Qa3+ $19) (2.
+Rc6 Rd8 $19) 2... Qd2 3. Qxd6 (3. Rg1 Qf2 $19) 3... Qxg2 {! (threatening Qh2)}
+(3... Qxg2 4. Qxe5+ f6 5. Rc7+ Kh6 {following with g5}) 0-1
+
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Ulloa"]
+[Black "Gomez, A."]
+[Result "0-1"]
+[BlackElo "2355"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/3q4/3p4/1b1PpBnP/2N3KN/PP4P1/R2Q1B1R b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1994.??.??"]
+[Source "63/(586)"]
+
+{The 1st move is pretty obvious since black has the only forcing move. The
+only problem is to make all the appropriate calculations.} 1... Rxf4 {!} 2.
+Nxf4 Qxf4+ {! (we should calculate checks first of all)} 3. Kxf4 Bd6+ 4. Kg5 {
+(There are 2 candidate moves here: Be7 and h6)} Be7+ $1 (4... h6+ 5. Kh5 Ne3 {
+(this also wins, but not so forcing as in the main line)} 6. Qe2 Kh7 {and g6})
+5. Kf4 {(Black has 2 forcing moves: Bd6 and g5. Bd6 leads to a repetition)} (5.
+Kh5 g6#) 5... g5+ {!} 6. Kg3 (6. hxg5 Bd6#) 6... Bd6+ (6... Bd6+ 7. Kh3 Nf2#)
+0-1
+
+[Event "La Habana (rapid) 89c/2"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Dominguez, L."]
+[Black "Vasquez Ramirez, R."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r2rbk1/3qn1pp/p2pb3/2nN1p2/1pP2PP1/1P4N1/PB4BP/R2Q1R1K w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2003.??.??"]
+
+{The candidate moves on the black's territory are Nf6, Ne7, Bg7, gf, Nf5, Nh5} 
+1. Nf6+ {!!} gxf6 {(Here the candidate moves are Bf6, gf and Nh5. The last one
+certainly looks the most promising)} 2. Nh5 {!} Bg7 (2... Kf7 3. Qd4 Ng8 4.
+gxf5 Bxf5 5. Bd5+ Ne6 6. Ng3 Bh3 7. f5 $18) 3. Bxf6 {(If you make search of
+the candidate moves at EVERY move, you will find Bf6 easily)} Bf8 (3... Bh8 {?}
+4. Bxh8 Kxh8 5. Qd4+ $18) (3... Bh6 {?} 4. g5 Bf8 5. Bd4 $18 {and then Nf6}) 4.
+Bb2 Kf7 $8 5. Qd4 Ng8 6. gxf5 Bxf5 7. Bd5+ Ne6 (7... Re6 8. Ng7 {!} Be4+ 9.
+Qxe4 {!} Nxe4 10. f5 $18) 8. Ng7 {(You should mainly try to find moves on the
+opponent's territory.)} Ke7 9. Nxe6 Bxe6 10. Bxe6 Qxe6 (10... Kxe6 11. Qe4+ Kf7
+12. Qxh7+) 11. Rae1 1-0
+
+[Event "Santa Clara"]
+[Site "Santa Clara"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Martinez, B."]
+[Black "Fernandez, Y."]
+[Result "1-0"]
+[WhiteElo "2205"]
+[SetUp "1"]
+[FEN "r2r2k1/pb3pb1/1p1qp1p1/2p1N3/3P1P2/2P4Q/PP4P1/1BKR3R w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1995.??.??"]
+[Source "63/(573)"]
+
+{The candidate moves are: Qh7, Bg6, Ng6, Nf7, dc.} 1. Bxg6 {!} fxg6 $8 2. Qh7+
+(2. dxc5 $5 {(Actually it's the simplest way for a win. Of course you would
+never find "dc" if you don't detect candidate moves at every turn.)} Qe7 {
+(black has to protect the e6 pawn)} 3. Qh7+ Kf8 4. Nxg6+ $18) 2... Kf8 3. Nxg6+
+Kf7 4. Ne5+ {(we should calculate checks first)} Kf8 (4... Kf6 5. Qg6+ Ke7 6.
+Qf7#) 5. Rh6 {(White is threatening Rf6 following with Qf7. It's important to
+think about your EVERY piece while trying to detect all the candidate moves.)}
+1-0
+
+[Event "Koszalin 76c/26"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Stohl, I."]
+[Black "Urban, K."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rr1k2/2q2p1p/3p2p1/pp2n3/4N3/P1QR3P/1PR2PP1/6K1 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1999.??.??"]
+
+{The main candidate moves are Qc7, Qe5, Rd6, Nd6.} 1. Qxe5 {!} (1. Qxc7 {?}
+Rxc7 2. Rxc7 (2. Rxd6 Rxc2 3. Rxd8+ Ke7 $11) 2... Nxd3 $11) 1... Qxc2 (1...
+dxe5 2. Rxc7 $18) 2. Qh8+ Ke7 3. Qf6+ {(These are the only forcing moves)} Kf8
+{(The candidate moves are Ng5, Nd6, Rd6)} (3... Kd7 {?} 4. Qxd6+ Ke8 5. Nf6#) (
+3... Ke8 4. Nxd6+ Rxd6 5. Qxd6 {and then Re3}) 4. Ng5 {!} (4. Nxd6 $2 Rxd6 5.
+Rxd6 $14) 4... Qc1+ (4... Rd7 5. Qh8+ Ke7 6. Re3+ $18) (4... Qc4 5. b3) (4...
+Qc7 5. Ne6+ $18) 5. Kh2 Rd7 6. Ne6+ (6. Rf3 {is also winning}) 6... Ke8 7. Re3
+{!} Qxe3 8. fxe3 (8. fxe3 fxe6 9. Qh8+ Ke7 10. Qxc8 $18) 1-0
+
+[Event "Yerevan 76c/23"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Budnikov, O."]
+[Black "Vuckovic, Bo"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1br2rk1/pp4pp/2nq4/3p4/4n3/4BN2/PPN1QPPP/2RR2K1 b - - 0 1"]
+[PlyCount "25"]
+[EventDate "1999.??.??"]
+
+{The 1st move is obvious, but it's necessary to calculate the line until the
+end.} 1... Rxf3 2. Qxf3 Qxh2+ 3. Kf1 Rf8 4. Qg4 (4. Qh3 Ng3+ 5. Ke1 Qg1+ 6. Kd2
+Rxf2+ {(The whole variation is pretty simple because black always makes the
+only forcing moves. A hard part of this calculation is to visualize the
+position for many moves ahead.)} 7. Bxf2 (7. Kd3 Qxg2 8. Qxg2 Rxg2 $19) 7...
+Qxf2+ 8. Kc3 (8. Kd3 Qe2+ 9. Kc3 Qc4+ 10. Kd2 Bf4+ 11. Ne3 Qe2+ 12. Kc3 Be5+
+$19) 8... Qc5+ 9. Kb3 (9. Kd3 Ne5+ 10. Kd2 Ne4+ 11. Ke1 Qf2#) 9... Na5+ 10. Ka4
+b5+ 11. Kxa5 Bc7+ 12. Ka6 Qb6#) 4... Ng3+ 5. Ke1 Qxg2 {! (Black has a minor
+piece+2 pawns for a rook. Thus black continue attacking without any material
+sacrifice. You should have calculated the variation until this position before
+playing 1...Rf3)} (5... Qg1+ 6. Kd2 Rxf2+ 7. Kc3 Qxg2 {Perhaps it's also
+winning, but the position is more unclear}) 6. Qe6+ Kh8 7. Qxd5 Ne4 {[/\ Bg3!]}
+8. Ke2 Ne5 9. Rd4 Rxf2+ {!} 10. Bxf2 Qxf2+ 11. Kd1 Qf3+ 12. Ke1 Nd3+ 13. Rxd3
+Bg3# 0-1
+
+[Event "Cuba 89c/17"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Delgado, N."]
+[Black "Alvarez Pedraza, A."]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r3r/1b1pbk1p/3R1pp1/ppqpB3/4P3/P4Q2/1PP2PPP/4R1K1 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2003.??.??"]
+
+{The moves candidates are: Qf6, Rf6, Bf6, ed, b4. Did you find them all?} 1.
+Rxf6+ {! (we should calculate checks first)} (1. Bxf6 $2 dxe4 $1 $19) (1. exd5
+$2 {(doesn't do much)} f5 $19) 1... Ke8 (1... Kg8 2. Rf7 Bf8 3. Qf6 $18) 2. Bd6
+{!! (If you are looking for an attacking and forcing moves on the black's
+territory - you will find Bd6 easily)} (2. exd5 {?} Qxd5) 2... Bxd6 (2... Qxd6
+3. Rxd6 Bxd6 4. exd5+ Be7 5. Qf6 $18) 3. exd5+ Be7 4. Rf7 {! (White is
+threatening Qf6)} (4. d6 {??} Qxd6 $19) 4... Bxd5 (4... Qd6 5. Qf4 $18 {!}) 5.
+Qxd5 {!} Rc8 6. Qxc5 Rxc5 7. Rexe7+ Kd8 8. Rxd7+ 1-0
+
+[Event "Romania 77c/11"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Grigore, Ge"]
+[Black "Sanduleac, V."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/3r1p2/RRp1q1pb/1pP1p2p/1P2P1nP/5BP1/4QPK1/4B3 b - - 0 1"]
+[PlyCount "23"]
+[EventDate "1999.??.??"]
+
+1... Rd2 {! (The only attacking move)} 2. Rb8 $5 (2. Bxd2 Rxd2 3. Bxg4 $2 (3.
+Qe1 $2 Nxf2 {(threatening Qh3)} 4. Qxf2 Rxf2+ 5. Kxf2 Qb3 $19) (3. Rxc6 $1 {
+(counterblow!)} Rxe2 4. Bxe2 $13) 3... hxg4 4. Qe1 Qb3 5. Ra1 Qf3+ 6. Kg1 Rxf2
+{!} 7. Qxf2 Be3 $19) 2... Ne3+ {!} (2... Rxb8 $2 3. Bxd2 Bxd2 4. Qxd2 $14) 3.
+Kh2 (3. Kg1 Rxe2 4. Rxd8+ Kg7 5. Bxe2 Qh3 {! (we should try to make moves as
+forward as it possible)} 6. Bf3 (6. fxe3 Bxe3+ 7. Bf2 Qxg3+ $19) 6... Qf1+ $19)
+3... Rxb8 4. Bxd2 Nf1+ 5. Qxf1 Bxd2 $17 {(Black has a stable advantage because
+of the white's passive bishop and weak pawns. Black should have calculated the
+variation until this position before playing 1...Rd2)} 6. Qb1 (6. Rb6 Rd8 $17)
+6... Rd8 7. Be2 Bc3 {!} 8. Bxb5 (8. Ra2 Bxb4 $19 {!}) 8... Rd2 9. Qf1 (9. Rxc6
+Rxf2+ 10. Kg1 Bd4 $19 {!}) 9... Qg4 {!} 10. Bc4 Qf3 {!} 11. Ra2 Bb2 {!} 12. Kg1
+Rxf2 {!} (12... Rxf2 13. Qxf2 Bd4 $19) 0-1
+
+[Event "Berlin 6c/22"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Ortega, Ro"]
+[Black "Fuchs, R."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4R3/5pkp/1bB2qp1/p2N4/5n2/2P5/PP3PPP/3R3K b - - 0 2"]
+[PlyCount "42"]
+[EventDate "1968.??.??"]
+
+2... Qxc6 {!} (2... Nxd5 $2 3. Bxd5 Qxf2 4. Re7 $18) 3. Rg8+ {! (you should
+make search of the OPPONENT'S candidate moves as well)} Kh6 (3... Kxg8 {?} 4.
+Ne7+ $18) 4. Nxf4 Bxf2 {? (black didn't try to find ALL the possibilities, but
+just made the most obvious move.)} (4... Qa4 $1 {(double attack)} 5. Rd3 {!}
+Qc2 (5... Qxf4 $2 6. Rh3+ Kg5 7. Rg3+ $11 Kf5 $2 8. Rf3 $18) (5... Qxa2 $5 {
+Black will take a couple of white's pawns and then will push his a-pawn. You
+see: all the forcing moves forward are good.}) 6. Rh3+ Kg5 7. g3 Qxf2 $19) 5.
+Nh3 $16 Bc5 6. Rgd8 Qe6 7. R8d5 Bb6 8. Ng5 Qe8 9. Re5 Qa4 (9... Qf8 10. Rd7 $18
+) 10. Nxf7+ Kg7 11. Rf1 Qc4 12. Ree1 Qh4 (12... Qxa2 13. Re7 Qxb2 14. Ng5+ Kh6
+15. h4) 13. Ne5 h5 14. Rf7+ Kh6 15. Nf3 Qc4 16. Rfe7 Qxa2 17. Ne5 Kg5 18. c4
+Qxb2 19. Nf7+ Kf6 20. h4 Bc5 21. R1e6+ Kf5 {?} (21... Kg7 {!} 22. Nd6+ Kg8 {!}
+(22... Kh8 {?} 23. Rf7 $18 {!}) 23. Rxg6+ Kh8) 22. Nh6+ Kf4 23. Rf7+ 1-0
+
+[Event "Jugoslavija 74c/26"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Vuckovic, Bo"]
+[Black "Djukic, Ni"]
+[Result "1-0"]
+[BlackElo "20"]
+[SetUp "1"]
+[FEN "2rqr3/1b2b1kp/p2pQnp1/1p2p1B1/2nNP3/P1NB4/1PP3PP/4RR1K w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1998.??.??"]
+
+{The candidate moves are Qc4, Qf6, Qe7, Qh3, Rf6, Bf6, Bh6, Bc4, Nf5, Nd5.  
+Of course it's quite a huge choice. However: 1) Most of these moves don't work
+and you will detect it quickly. 2) We are going to calculate the most forsing
+moves mainly.} 1. Bh6+ {!! (we should calculate checks first)} (1. Qxc4 $2 bxc4
+2. Ne6+ Kf7 3. Nxd8+ Rexd8 $11) (1. Nd5 $5 Bxd5 2. exd5 exd4 3. Qh3 $40 {
+threatening Re7 or Qh6}) 1... Kxh6 (1... Kh8 2. Qf7 Rg8 3. Ne6 $18) 2. Qh3+ Nh5
+(2... Kg7 3. Ne6+ $18) 3. Ne6 Qd7 (3... Qb6 4. g4 $18 {white will take back
+the piece saving a decisive attack}) 4. Rf7 {! (the black's king is in the
+cage while white has a lot of attacking possibilities.)} d5 (4... Rf8 5. Rxh7+
+Kxh7 6. Nxf8+ $18) (4... Rh8 5. g4 Qxe6 6. g5+ Bxg5 7. Qxe6 $18) 5. exd5 {[/\Rh7]} Rh8
+6. Bxc4 Rxc4 7. Rxe5 g5 8. g4 Rxg4 9. Qxg4 Qd6 10. Rxg5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.04.15"]
+[Round "?"]
+[White "WFM_Abrahamyan"]
+[Black "WGM_Baginskate"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "2370"]
+[BlackElo "2386"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3rr1k1/ppp1qppp/5n2/n3P3/1b6/4QP2/P1BN1P1P/1RB1R1K1 b - - 0 20"]
+[PlyCount "98"]
+[EventDate "2011.??.??"]
+
+20... Bxd2 (20... Nd5 $1 {(Since Bd2 doesn't give something real, a simple
+move 20...Nd5 is the best)} 21. Qe4 g6 $17 {Black is a pawn up while white has
+numerous weaknesses.}) 21. Bxd2 (21. exf6 $2 Qxe3 22. Rxe3 Bxe3 23. Bxe3 gxf6
+$19) 21... Nc4 (21... Nd5 $2 22. Qe4 g6 23. Bxa5 $18) 22. exf6 {(we should
+calculate checks and captures first)} Qf8 (22... Nxe3 $2 23. fxe7 Rxd2 24. Ba4
+$1 $18) 23. Qf4 $2 (23. Qg5 $1 {(we should move the pieces as forward as it
+possible)} Nxd2 24. Rxe8 Nxf3+ 25. Kg2 Nxg5 26. Rxf8+ Kxf8 27. fxg7+ Kxg7 28.
+Rxb7 Rd2 29. Rxc7 Ne6 30. Rc4 $11) 23... Nxd2 24. Rxe8 Qxe8 25. Rd1 Rd4 $1 (
+25... Qe2 $5) 26. Be4 (26. Qg3 {doesn't do much after} g6) 26... Qd8 27. Kg2
+Nxe4 $2 {(Black did a lot of careful calculation, but is making a mistake in
+the end)} (27... Qxf6 $17) 28. Qg4 $1 {(the white player is looking for ALL
+the candidate moves)} Nxf6 (28... g6 $2 29. Rxd4 Qxd4 30. Qc8+ $18) 29. Rxd4
+Qe8 30. Qf4 $16 Qe7 31. Qf5 g6 32. Qc8+ Kg7 33. Qxb7 Qe5 34. Rd1 Nh5 35. Qe4
+Qg5+ 36. Kh1 Nf4 37. Rg1 Qf6 38. Re1 Kh6 39. Qe5 Kg7 40. Qxf6+ Kxf6 41. Re4 Ne6
+42. Ra4 Ke5 43. Rxa7 c5 44. Kg2 Kd4 45. Kf1 Kd3 46. Ke1 Kc2 47. Rxf7 c4 48. a4
+c3 49. a5 Nc5 50. Rc7 Nd3+ 51. Ke2 Nf4+ 52. Kf1 Nd5 53. Rc5 Nb4 54. Ke2 Kb3 55.
+Kd1 Kb2 56. Rc4 Na6 57. Ke2 Kb3 58. Kd3 Nb4+ 59. Rxb4+ Kxb4 60. Kc2 Kxa5 61.
+Kxc3 Kb5 62. Kd4 Kc6 63. Ke5 Kd7 64. Kf6 Ke8 65. Kg7 Ke7 66. Kxh7 Kf6 67. Kh6
+g5 68. Kh5 Kf5 69. h3 {White wins} 1-0
+
+[Event "Lanzarote (Spain)"]
+[Site "Lanzarote (Spain)"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Martin Gonzalez Angel (ESP)"]
+[Black "Miles Anthony J (ENG)"]
+[Result "0-1"]
+[ECO "B78"]
+[WhiteElo "2340"]
+[BlackElo "2555"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r3k1/pp2pqbp/4bnp1/4B3/3N2P1/2r2P2/PPP4Q/1K1R3R w - - 0 24"]
+[PlyCount "26"]
+[EventDate "1977.??.??"]
+
+{White has 2 main moves: Ne6 and bc. The task is to figure out the best one.} 
+24. Nxe6 $2 ({Since Ne6 doesn't work, white should play bc.} 24. bxc3 $1 Bxa2+
+25. Kb2 {with a good position}) 24... Rxc2 {(The position seems very
+complicated, but if you keep the proper thinking system and focus on the
+forcing moves - everything becomes simple.)} (24... Qxe6 $2 25. Bxc3 $18) 25.
+Qxc2 Rxc2 26. Rd8+ (26. Kxc2 $2 Qxe6 $19) 26... Ne8 27. Nxg7 $2 {(white made
+the most obvious move and forgot to find all the possibilities)} (27. Ng5 $1 {
+(suddenly the black's queen is trapped!! It shows again an importance of
+candidate moves)} Bxe5 28. Nxf7 Rxb2+ 29. Kc1 Kxf7 30. Rxh7+ Ng7 31. f4 {
+(white is down material, so he has to do something)} Bc3 32. Rc8 Bd4 33. Rc4
+Bf6 34. g5 Rxa2 35. gxf6 Kxf6 $15) 27... Qxf3 {(actually it's the only logical
+forcing move)} 28. Rhd1 (28. Kxc2 Qe4+ {and then black will take either bishop
+e5 or rook h1}) 28... Rc8 $1 29. Bc3 (29. Nxe8 $2 Qe4+ 30. Ka1 Rxd8 31. Rxd8
+Qe1+ $19) 29... Rxc3 {(black simply makes forcing moves all the time)} 30. Nxe8
+(30. bxc3 Kxg7 31. Rxe8 Qxd1+ $19) 30... Rc8 $1 {(this tricky move works
+again!)} 31. Nf6+ Kf7 32. Nxh7 Rxd8 33. Ng5+ Kf6 34. Nxf3 Rxd1+ 35. Kc2 Rf1 36.
+Nd2 Rf2 0-1
+

@@ -1,0 +1,252 @@
+[Event "Linares 11th"]
+[Site "Linares"]
+[Date "1993.??.??"]
+[Round "10"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "*"]
+[WhiteElo "2725"]
+[BlackElo "2805"]
+[SetUp "1"]
+[FEN "r1bq1rk1/5pbp/2pQ1np1/1p2n3/4P3/1PN1BP2/P3N1PP/3RKB1R b K - 0 13"]
+[PlyCount "0"]
+[EventDate "1993.02.??"]
+[Source "ChessBase"]
+[SourceDate "1993.06.01"]
+
+{black to move}  *
+
+[Event "World Championship 32th-KK2"]
+[Site "Moscow"]
+[Date "1985.10.15"]
+[Round "16"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "*"]
+[WhiteElo "2720"]
+[BlackElo "2700"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p3ppp/p4n2/2bP4/1n6/N1N2B2/PP3PPP/R1BQ1RK1 b - - 0 13"]
+[PlyCount "0"]
+[EventDate "1985.09.03"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "WchT 2nd"]
+[Site "Luzern"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "De Firmian, Nick E"]
+[Black "Ivanchuk, Vassily"]
+[Result "*"]
+[WhiteElo "2595"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "2r2rk1/1q2bpp1/p2pbn1p/1p2p3/1P2P3/P1N3QP/1P1B1PPN/3RR1K1 b - - 0 22"]
+[PlyCount "0"]
+[EventDate "1989.10.??"]
+[Source "ChessBase"]
+[SourceDate "1990.06.01"]
+
+{black to move}  *
+
+[Event "WchT 4th"]
+[Site "Luzern"]
+[Date "1997.10.27"]
+[Round "3"]
+[White "Arencibia Rodriguez, Walter"]
+[Black "Ivanchuk, Vassily"]
+[Result "*"]
+[WhiteElo "2550"]
+[BlackElo "2725"]
+[SetUp "1"]
+[FEN "2rqk2r/1b1nbppp/p2ppn2/1p4B1/3NPP2/P1NB3Q/1PP3PP/2KR3R b k - 0 12"]
+[PlyCount "0"]
+[EventDate "1997.10.??"]
+[Source "ChessBase"]
+[SourceDate "1998.01.31"]
+
+{black to move}  *
+
+[Event "Detroit"]
+[Site "Detroit"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Fine, Reuben"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r2k1/p4pp1/2bp2p1/2p1pPq1/2PnP3/2NQ2P1/PP1R2BP/5RK1 w - - 0 22"]
+[PlyCount "0"]
+[EventDate "1933.09.??"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+
+ *
+
+ seems that Black has an acceptable position. The bishop is controlling the
+d5 square and the knight on d4 is well placed} 22. f6 $1 {
+gaining space on the kingside} 22... Rb7 23. Rdf2 gxf6 24. b3 f5 (24... Kg7 25.
+h4) 25. exf5 {now the bishops are going to be exchanged and white knight is
+getting an access to the d5-square} 25... Bxg2 26. Kxg2 gxf5 27. Rxf5 $1 {
+an obvious and very strong sacrifice. The knight d4 is going to disappear, in
+return the knight on d5 is going to play animportantrole} 27... Nxf5 28. Rxf5
+Qh6 29. Qe4 {White is not in a hurry to play Nd5 but he appearance of this
+knight on e4 or on d5 is going to be very unpleasant for Black} 29... Re7 30.
+Qg4+ Kf8 31. Rh5 Qg7 (31... Qd2+ 32. Kh3 Re6 33. Qh4 Rde8 34. Ne4) 32. Qh4 Ke8
+33. Nd5 {appearance of the knight on d5 ends the game} 33... f5 34. Nxe7 1-0
+
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1907.09.12"]
+[Round "17"]
+[White "Maroczy, Geza"]
+[Black "Rubinstein, Akiba"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr1bk1/ppq2pp1/2b1p2p/8/2P2PQ1/2BB4/PP4PP/3R1RK1 b - - 0 21"]
+[PlyCount "0"]
+[EventDate "1907.08.20"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "WchT 6th"]
+[Site "Beersheba"]
+[Date "2005.11.08"]
+[Round "7"]
+[White "Bruzon Batista, Lazaro"]
+[Black "Ivanchuk, Vassily"]
+[Result "*"]
+[WhiteElo "2226"]
+[BlackElo "2748"]
+[SetUp "1"]
+[FEN "2rqk2r/1p2bpp1/p2p1n1p/n2Pp3/6P1/4BB2/PPPN1P1P/R2QK1R1 b Qk - 0 14"]
+[PlyCount "0"]
+[EventDate "2005.11.01"]
+[Source "ChessBase"]
+[SourceDate "2006.01.31"]
+
+{black to move}  *
+
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Ivkov, Borislav"]
+[Black "Larsen, Bent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1pq1ppbp/2rp2p1/pQ6/P1P1P2P/1P2BP2/6P1/2KR3R b - - 0 20"]
+[PlyCount "0"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+{black to move}  *
+
+[Event "Moscow"]
+[Site "Moscow RUS"]
+[Date "2001.11.28"]
+[Round "1.2"]
+[White "Yermolinsky, A."]
+[Black "Milov, V."]
+[Result "*"]
+[WhiteElo "2577"]
+[BlackElo "2602"]
+[SetUp "1"]
+[FEN "r1b1qrk1/ppp2pbp/n4np1/4p3/2P1P3/1PN2N2/P3BPPP/R1BQR1K1 b - - 0 10"]
+[PlyCount "0"]
+[EventDate "2001.11.28"]
+
+{black to move}  *
+
+[Event "?"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Toran"]
+[Black "Tal, M."]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rqk1/ppp3bp/2np2p1/5bN1/2PP4/4B1P1/PP1Q2BP/R5K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1961.??.??"]
+
+{black to move}  *
+
+[Event "?"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Robatsch, K."]
+[Black "Tal, M."]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1b1q2pp/pB1p1n2/1p6/2r1PP2/PPN4R/2P1Q1PP/R6K b - - 0 8"]
+[PlyCount "0"]
+[EventDate "1960.??.??"]
+
+{black to move}  *
+
+[Event "URS-ch18"]
+[Site "Moscow"]
+[Date "1950.11.20"]
+[Round "6"]
+[White "Alatortsev, Vladimir"]
+[Black "Boleslavsky, Isaak"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/ppp4p/3p2p1/6q1/2P2P2/1P4Pb/PQ2B2P/R4RK1 b - - 0 20"]
+[PlyCount "0"]
+[EventDate "1950.??.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "URS-ch31"]
+[Site "Leningrad"]
+[Date "1963.11.??"]
+[Round "11"]
+[White "Stein, Leonid"]
+[Black "Klovans, Janis"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp1bb1pp/1q2p3/3r4/3pRB2/PQ4P1/1PP2P1P/4RNK1 w - - 0 23"]
+[PlyCount "0"]
+[EventDate "1963.11.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+ *
+
+ Qxd5 $1 {giving up the queen for the rook and the bishop White is bringing
+his rook on the 7th rank and besides Black won`t be able to cover his g7-pawn}
+23... exd5 24. Rxe7 Bf5 25. Be5 Rc8 26. c3 dxc3 27. bxc3 Rc4 28. Rxg7+ $6 (28.
+Bd4 {White has a strong attack} 28... Qd6 29. Rxg7+ Kf8 30. Ne3) 28... Kf8 29.
+Nd2 Rg4 30. Rc7 (30. Re7) 30... Be4 (30... Rg6 $142 {and Black is not worse})
+31. c4 Rg5 32. c5 Qa5 33. Bd6+ Ke8 34. Re2 Qc3 35. Nxe4 dxe4 36. Rxe4+ (36.
+Rxe4+ Kd8 37. Rf4 Rg8 38. h4 $18) 1-0
+
+[Event "World Championship 35th-KK5"]
+[Site "Lyon/New York"]
+[Date "1990.10.15"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "*"]
+[WhiteElo "2730"]
+[BlackElo "2800"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppp1qpbp/5np1/3Np3/2P1P3/4BN2/PP2BPPP/R2QK2R b KQ - 0 9"]
+[PlyCount "0"]
+[EventDate "1990.10.08"]
+[Source "ChessBase"]
+[SourceDate "1991.04.01"]
+
+{black to move}  *
+

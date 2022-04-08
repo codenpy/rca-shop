@@ -1,0 +1,225 @@
+[Event "?"]
+[Site "?"]
+[Date "2015.10.27"]
+[Round "?"]
+[White "8.d5-Qc3"]
+[Black "Variation"]
+[Result "1-0"]
+[ECO "B30"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "27"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 cxb4 4. d4 d5 {This is the main line of Smirnov
+gambit.} 5. exd5 Qxd5 6. c4 bxc3 7. Nxc3 Qa5 8. d5 $5 {Along with a more solid
+8.Bd2 move, White has this 8.d5 idea, continuing his gambit style play.} Qxc3+
+9. Bd2 Qf6 {Black can move his queen elsewhere, but it doesn't change the
+overall situation. White is ahead in development and is going to play actively.
+} 10. dxc6 bxc6 (10... Qxc6 {would give White an extra tempo after} 11. Rc1 Qd6
+{White's position is so powerful that he can rush into the attack:} 12. Rxc8+
+Rxc8 13. Qa4+ Kd8 (13... Qc6 $2 {fails due to} 14. Bb5) 14. Qxa7 {White is
+playing in the gambit style of 'old masters'. Now he's threatening Ba5 with a
+powerful attack of Black's centralized king.}) 11. Rc1 e6 $2 {This move is
+wrong, but it's not so easy for Black to find a safe way to continue his
+development.} (11... e5 12. Qa4 {attacking c6-pawn} Bd7 13. Bc4 {threatening
+Ng5, along with many other threats}) 12. Bb5 $1 {The only reason for this
+shocking sacrifice is to secure White's king! Sounds strange, but you'll get
+it soon.} ({Instant} 12. Bg5 {does not work because of} Bb4+ (12... Qf5 $2 13.
+Qd8#) 13. Ke2 Qb2+ {White's exposed king causes troubles to White.}) 12... cxb5
+13. Bg5 Bb4+ 14. Kf1 {Since White gave away his f1-bishop, now he can use this
+square for his king. Now Black loses his queen in view of Qd8 checkmate threat.
+} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.27"]
+[Round "?"]
+[White "4.c3-Nc6"]
+[Black "5.d4-d5"]
+[Result "*"]
+[ECO "B30"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "29"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 Nxb4 4. c3 Nc6 5. d4 d5 {Black refrains from the
+eventual exchange on d4. In this line, White can't develop his knight to c3,
+but it has another perspective root.} 6. exd5 Qxd5 7. Na3 $1 {The knight is
+ready to continue his way to b5 (threatening Nc7 fork), and in the meanwhile
+it's supporting Bc4 move.} Bg4 {The most aggressively looking response.} 8. Bc4
+{developing his piece with a tempo} Bxf3 9. gxf3 Qh5 {Black broke White's pawn
+structure, but had to pay his price for it: for lack of light-squared bishop,
+Black's light squares became vulnerabe.} 10. Qb3 {Taking aim at b7 and f7
+pawns.} (10. Rb1 {is interesting as well}) 10... O-O-O 11. Bxf7 {It's not that
+White wants the f7-pawn that much, rather he wants to get control over
+e6-square.} Qxf3 12. Be6+ {From here the bishop is blockading Black's position,
+and taking control over g4-squre.} Kb8 13. O-O {White can castle safely: even
+though his castling is exposed, Black has only his queen available for the
+attack, but it doesn't have any good squares to go.} Nf6 $2 {Surprizingly,
+this standard move is losing quickly.} 14. Rb1 b6 (14... Na5 15. Qb5 {doesn't
+help Black - he's still defenseless}) 15. dxc5 {and White is winning} *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.27"]
+[Round "?"]
+[White "4.d4-e6"]
+[Black "5.d5-Qf6"]
+[Result "*"]
+[ECO "B30"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "23"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 cxb4 4. d4 e6 {Black uses a tricky way to
+counter-attack} 5. d5 (5. a3 {is a more solid way for White} d5 6. e5 bxa3 7.
+c3 {for the sacrificed pawn, White obtained good attacking chances. He can
+trade off the dark-squared bishops by playing Ba3, while the b1-knight can be
+transferred to a3-b5-d6.}) 5... Qf6 {attacking White's rook} 6. c3 {the only
+normal way to close f6-a1 diagonal for Black's queen.} bxc3 7. dxc6 c2 {Black
+managed to capture White's rook, but it's not the end...} 8. Qxc2 Qxa1 9. e5 $1
+{Suddenly, the a1-queen has no way to escape.} Bb4+ {This natual move turns
+out to be a mistake. It closes b-file, and gives White an extra tempo for a3
+move in some variations.} (9... bxc6 $1 {Black is ready to play Rb8, and White
+needs to close the line.} 10. Bc4 Rb8 11. Bb3 {now White is ready to capture
+the queen by playing Bb2, Black has to hurry up with his counter-threats.} Bb4+
+12. Kd1 Ba6 13. Bb2 Bd3 {it's quite unlikely that your opponent can find such
+moves during a practical game} 14. Bxa1 Bxc2+ 15. Kxc2 {dust settled, and we
+reached an approximately equal endgame.}) 10. Kd1 {White can't move his minor
+pieces as it would free Black's a1-prisoner!} bxc6 (10... Ne7 11. a3 Ba5 12.
+Bb2 {and the queen is trapped} Qa2 13. Bc4 $18) 11. Bc4 $1 {preparing Bb2} (11.
+a3 {leads to unnecessary complications:} Rb8 12. axb4 Rxb4) 11... d5 12. Bb3 {
+Black has no normal defense against Bb2 move.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.27"]
+[Round "?"]
+[White "9.d5-Bb4"]
+[Black "10.Qc1-ed"]
+[Result "*"]
+[ECO "B30"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "45"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 cxb4 4. d4 d5 5. exd5 Qxd5 6. c4 bxc3 7. Nxc3 Qa5 8.
+Bd2 (8. d5 e6 9. Bd2 Bb4 {could transpose into the same position}) 8... e6 9.
+d5 {White sacrifices a pawn to open up more lines for his attack. It's a risky
+choice for White, but Black is not safe either :)} Bb4 {counterblow. Black
+doesn't want to slow down his development,} 10. Qc1 {not only protecting
+c3-knight but also preparing a3-move.} exd5 11. a3 {attacking the bishop, and
+indirectly - Black's queen!} Bd6 (11... Bxc3 12. Bxc3 {[%cal Gc3a5,Gc3g7]}) 12.
+Bb5 {White should strive for a quick development and active play.} Nge7 13. Ne4
+$1 {[%cal Gd2a5] discovered attack} Qd8 (13... Qxb5 {fails to} 14. Nxd6+ {fork}
+) 14. Nxd6+ Qxd6 15. Bb4 {taking advantage of a pin on Black's c6-knight} Qe6+
+16. Kd1 {Played to enable Re1 on the next move.} Qf6 17. Re1 {Despite of
+White's somewhat unusual play, he has finished development of his pieces. Most
+of the Black's pieces are either undeveloped or pinned.} Kd8 ({perhaps Black
+should have given up the exchange} 17... O-O 18. Bxc6 Nxc6 19. Bxf8 Kxf8 20.
+Qc5+ {with an unclear position}) 18. Bc3 {White keeps attacking by his every
+move.} Qd6 (18... Qg6 19. Qf4 {with multiple threats: Ng5/Ne5, Rc1 etc}) 19.
+Bxc6 {eliminating the defenders of Black's king} Qxc6 (19... Nxc6 20. Qg5+ {
+with a strong attack}) 20. Rxe7 $1 {now Black's king is left alone...} Kxe7 21.
+Qg5+ Ke8 (21... Kd6 22. Bb4+ Kc7 23. Rc1 {winning the queen and the game}) (
+21... Kd7 22. Ne5+ {fork}) 22. Qxg7 Rf8 23. Bb4 {Black is defenseless.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.27"]
+[Round "?"]
+[White "4.d4-g6"]
+[Black "5.d5"]
+[Result "*"]
+[ECO "B30"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "17"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 cxb4 4. d4 g6 {Black uses a sudden way to take
+advantage of the weakned diagonal a1-h8.} 5. d5 (5. a3 {probably this solid
+move is the best option for White. It opens the rook, renews d5-threat, and
+saves a strong control in the center.} bxa3 6. d5 Bg7 7. Rxa3 {with an active
+position}) 5... Bg7 {[%cal Gg7a1] attacking the a1-rook.} 6. c3 bxc3 $2 {looks
+winning for Black but turnes the other way round...} (6... Ne5 7. Nd4 {
+(threatening f4) leads to a very complex position}) 7. dxc6 c2 {Black is happy
+with the discovered attack which wins a1-rook.} 8. Qxc2 Bxa1 {Black is almost
+winning, but} 9. c7 {this pawn has made a great career, and now is winning the
+game alone!} *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.27"]
+[Round "?"]
+[White "10.Bd3-Bb4"]
+[Black "11.Qc2-Nf6"]
+[Result "*"]
+[ECO "B30"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "49"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 Nxb4 (3... cxb4 {could transpose into the same
+position} 4. d4 d5 5. exd5 Qxd5 6. c4 bxc3 7. Nxc3) 4. c3 {White is gaining
+tempos to build a strong pawn center.} Nc6 5. d4 cxd4 6. cxd4 d5 7. exd5 Qxd5
+8. Nc3 Qa5 9. Bd2 {Protecting the knight and preparing an eventual discovered
+attack on Black's queen.} e6 10. Bd3 {This bishop is going to attack Black's
+castling in the middlegame.} Bb4 {developing a piece with a tempo} 11. Qc2 {
+White needs to protect the knight. Additionally White's Q+B battery will
+pressure h7 pawn.} Nf6 ({Here Black can use a sudden opportunity to equalize
+the game:} 11... Bxc3 12. Bxc3 Nb4 13. Qb1 Nxd3+ 14. Qxd3 Qa6 {Now White has
+to trade off the queens, otherwise he will not be able to castle.} 15. Qxa6
+bxa6 {Although Black is a pawn up, this doubled pawn doesn't have much value.
+The opposite-colored bishops guarantee a draw. If White dislikes his isolated
+pawn-d4, he can trade it off right away:} 16. d5) 12. O-O O-O 13. a3 {White
+has finished his opening development, and now should start attacking.} Bxc3 (
+13... Be7 {is not losing but looks scary for Black} 14. Ne4 {Attacking the
+queen, and (after the exchange of knights) h7-pawn.} Qh5 15. Rfb1 {planning to
+keep chasing Black's queen by playing Rb5}) 14. Bxc3 Qd5 15. Rab1 {Taking aim
+at b7-pawn and preparing Rb5.} b6 {Black needs to develop his bishop somehow.}
+16. Rb5 Qd6 17. d5 {opening the lines for all of White's pieces.} Nxd5 $2 {
+This natural move loses the game} (17... exd5 18. Bxf6 Qxf6 19. Bxh7+ {looks
+dangerous for Black, but in reality White can't continue his attack
+effectively.}) 18. Bxh7+ Kh8 19. Be4 {putting pressure on Black's central
+pieces, and brining White's light-squared bishop 'back to home'.} Ba6 20. Ng5
+$1 {White ignores Black's threats. Who cares about the rook, when you can
+simply checkmate your opponent?} Bxb5 21. Bxd5 {[%cal Gc2h7] Threatening Qh7#}
+f5 22. Qd1 {the queen finds another root to h-file.} exd5 23. Qh5+ Qh6 (23...
+Kg8 24. Qh7#) 24. Qxh6+ {the pawn is pinned and can't move.} Kg8 25. Qxg7# *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.27"]
+[Round "?"]
+[White "6.c4-Qe4"]
+[Black "7.Be3-Bf5"]
+[Result "*"]
+[ECO "B30"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "37"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 cxb4 4. d4 d5 5. exd5 Qxd5 6. c4 Qe4+ {It's
+dangerous for Black to leave 2 White's pawns in the center - they can move
+forward and push away Black's pieces.} ({better was} 6... bxc3) 7. Be3 {Now
+White is going to take advantage of Black's exposed queen by playing Bd3 or
+Nbd2.} Bf5 8. Nbd2 Qc2 {Black managed to exchange the queens, but White's
+attack is going on even in an endgame.} 9. Qxc2 Bxc2 10. d5 Na5 11. c5 {
+preparing Bb5+} (11. Nd4 {is probably the most powerful move for White:
+attacking c2-bishop and threatening Nb5.} Ba4 12. N2b3 Nxb3 13. axb3 Bd7 14. c5
+{and the c-pawn is ready to move forward}) 11... Ba4 (11... Nf6 12. Bb5+ Kd8
+13. Ne5 {the f7-pawn is attacked, and White has a very promising position.})
+12. Rb1 {b4-pawn falls} Nf6 13. Rxb4 Bd7 14. Rb5 $1 {White has found a
+creative way to continue his attack.} Bxb5 15. Bxb5+ Kd8 16. Ne5 {This time
+f7-pawn falls, while Black has to address the dual threat to his king and rook.
+} Rg8 17. Nxf7+ Kc8 18. Nc4 Nxc4 19. Bxc4 {Despite of Black's formal material
+advantage, he's totally paralyzed. In fact it's not that easy to find any
+normal moves for Black here.} *
+

@@ -1,0 +1,177 @@
+[Event "URS-ch23"]
+[Site "Leningrad"]
+[Date "1956.??.??"]
+[Round "2"]
+[White "Khasin, Abram"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "B88"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "72"]
+[EventDate "1956.01.10"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O a6 8. Be3
+Qc7 9. Bb3 Be7 10. f4 b5 11. f5 Nxd4 12. Qxd4 O-O 13. fxe6 Bxe6 14. Rad1 Rac8
+15. Kh1 Rfd8 16. Nd5 Bxd5 17. exd5 Nd7 18. Qf4 Bf6 19. Bd4 Re8 20. c3 Re7 21.
+Bc2 {Diagram #} Bxd4 $1 {White has a very aggressive position with a lot of
+threats. The d3-bishop is very active and White manages to concentrate all of
+his pieces on the kingside. In such situations, you need to exchange some of
+the pieces in order to relieve the bind.} 22. Qh4 Nf8 {This is a double threat
+on the h7-pawn and the e7-rook; however, Black has everything under control,
+and he calmly plays knight to f8. With the last move, he protects the rook and
+the vulnerable h7-square.} 23. Rxd4 Re2 $17 {Black has a fantastic knight on
+f8, which stops all possible attacks. Black's rook is very active, and it
+already creates problems on the c2-bishop and the b2-pawn. Black successfully
+slows down White's attack, and now, it is his turn to start his counterplay on
+the queenside or on the open e-line, which he controls. Please also note that
+the d5-pawn is in the same color with the bishop, and this is a clear problem
+for White because this pawn is limiting the bishop's activity. Black has a
+clear advantage and he manages to win the game afterwards.} (23... Rce8 $5) 24.
+Bf5 Rce8 25. Rb4 Rd2 26. Be4 Qe7 27. Qe1 Rxd5 28. Qf2 Re5 29. Bd3 Nd7 30. Rf4
+Nc5 31. Rxf7 Nxd3 32. Qf3 Re1 33. Qd5 Qxf7 34. Qxf7+ Kh8 35. Kg1 Rxf1+ 36. Qxf1
+Re1 0-1
+
+[Event "Munich ol (Men) fin-A"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "10"]
+[White "Lokvenc, Josef"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "B94"]
+[BlackElo "2625"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "82"]
+[EventDate "1958.09.30"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Austria"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "URS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8.
+Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. f3 Be7 12. Kb1 b4 13. Nd5 {Diagram #} exd5 {
+This is a typical Sicilian sacrifice with knight to d5. White gives up his
+central pawn in order to put his pieces actively there. On the other hand,
+Black is trying to keep close the lines because his king is uncastled. In
+order to open the position, White should invest a lot of material, a sacrifice
+of the knight in this particular position. Black should base his defense in
+his material advantage. The key maneuver is to run away the king to the
+queenside.} 14. Nf5 Bf8 15. exd5 Qb6 {There are a lot of interesting options
+here; however, Tal chooses an aggressive approach. I think that one of the
+reasons to retrieve the queen is to advance the a-pawn. The other idea is to
+overprotect the d6 vulnerable pawn.} (15... h6 $5) (15... Kd8 $5) 16. Rhe1+ Kd8
+17. Re2 Rc8 18. Rde1 Kc7 $17 {Black manages to perform the key defensive
+maneuver, to run with the king to the queenside, and now Black has a clear
+advantage because White's attack is over.} 19. Be3 Nc5 20. Bd4 Kb8 21. Ne3 Nxb3
+22. axb3 Qb5 23. Nc4 Nxd5 24. Bf2 Bc6 25. Qd4 Rc7 26. Bg3 Ka8 27. Bf2 Rg8 28.
+Qh4 Nf6 29. Qf4 h6 30. Rd2 Nd5 31. Rxd5 Bxd5 32. Nb6+ Kb7 33. Qd4 Be6 34. Nc4
+Kb8 35. Nxd6 Bxd6 36. Qxd6 Qc6 37. Qxb4+ Ka8 38. Qd2 Rgc8 39. c4 Bf5+ 40. Ka2
+Rb7 41. Qa5 Bc2 0-1
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.12.08"]
+[Round "4"]
+[White "Tal, Mikhail"]
+[Black "Franz, Joachim"]
+[Result "1-0"]
+[ECO "A80"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "69"]
+[EventDate "1959.12.05"]
+[EventRounds "13"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 e6 2. Nf3 f5 3. Bf4 Nf6 4. e3 b6 5. Nbd2 Bb7 6. c3 Be7 7. Bd3 c5 8. h3
+cxd4 9. exd4 Nc6 10. O-O O-O 11. Re1 Rc8 12. Nc4 Ne4 13. Nfd2 b5 14. Ne3 Nxd2
+15. Qxd2 Bg5 16. Nc2 Bxf4 17. Qxf4 Ne7 18. Bxb5 Ng6 19. Qd6 Qg5 {Diagram #} 20.
+Qg3 $1 {Black's threat is obvious, to checkmate on g2. The best method to
+defend in such position is to exchange the strongest attacking piece of your
+opponent, I mean the black queen. White has material advantage -a clear pawn
+up; so, if he manages to stop White's attack, then he can convert his extra
+pawn into a win.} Qd2 21. Rac1 {Sometimes, when you are defending, you need to
+make some simple moves, to protect your pieces. Black's queen looks very
+active in White's position; however, White can kick it away soon with Qe3.} Rf6
+$2 (21... Rcd8 $5) 22. Bxd7 $18 {
+White won more material and the game afterwards.} Rd8 23. Qc7 Rxd7 24. Qxd7
+Bxg2 25. Kxg2 Nf4+ 26. Kh1 Qxf2 27. Qe8+ Rf8 28. Qc6 g5 29. Rf1 Qh4 30. Rxf4
+Qxh3+ 31. Kg1 Qg3+ 32. Qg2 Qxf4 33. Rf1 Qh4 34. d5 exd5 35. Nd4 1-0
+
+[Event "Prague radio sim"]
+[Site "Prague"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Drahorad, St"]
+[Result "1-0"]
+[ECO "D01"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "1960.??.??"]
+[EventRounds "1"]
+[EventCountry "CSR"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bh4 g5 8.
+Bf2 c6 9. exf5 Qb6 10. Rb1 O-O-O 11. Bd3 e5 12. fxe6 fxe6 13. Ne2 h5 14. O-O h4
+15. c4 N5f6 16. h3 Qc7 17. Qa4 Kb8 18. b4 Bd6 19. Rfd1 g4 {Diagram #} 20. fxg4
+{When you have opposite-side castles on the board, the position is very sharp.
+In such cases, you need to open lines against the enemy king. We can see here
+that Black can open lines faster, but it doesn't mean that he can guarantee
+the victory. The main problem for Black is that the d7-knight and the d8-rook
+are far away from the action. Of course, White should recapture the g4-pawn in
+order to keep the g-line closed. Both captures on g4 are correct, but it's
+safer with the f-pawn. After that, Black should sacrifice more material in
+order to open the kingside totally.} Rdf8 21. Rf1 $1 {The situation is still
+critical for White and, before starting his own activities on the queenside,
+he should secure his king's position.} Nxg4 22. hxg4 Nf6 23. d5 $1 {Black doesn
+'t have any direct threat and, for that reason, White strikes in the center.
+He opens lines for his f2-bishop. Now he threatens the a7-pawn. White has a
+winning advantage, and he converts into a full point afterwards.} c5 24. bxc5
+Bxc5 25. Qc6 Bxf2+ 26. Rxf2 Qg7 27. Nd4 Ka8 28. Nxe6 bxc6 29. Nxg7 Nxg4 30.
+Rxf8+ Rxf8 31. dxc6 1-0
+
+[Event "URS-ch30"]
+[Site "Yerevan"]
+[Date "1962.11.22"]
+[Round "1"]
+[White "Korelov, Alexander Pavlovich"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "B84"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "1962.11.22"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Qc7 8. f4
+Nbd7 9. Bf3 Rb8 10. a4 Be7 11. Kh1 O-O 12. Qe2 Re8 13. g4 Kh8 14. g5 Ng8 15.
+Bg2 b6 16. Rf3 Bb7 17. Rh3 g6 18. f5 exf5 19. exf5 {Diagram #} Bxg5 $1 {
+Black uses the discovered attack on the e-line in order to eliminate one of
+the aggressive white pawns on the kingside. Of course, before doing such moves,
+you need to calculate the continuations very accurately.} (19... Bf6 $5 20. Qf2
+Bxg2+ 21. Kxg2 Be5 22. Bf4 Ne7 23. fxg6 fxg6) 20. Ne6 $5 {This is an amazing
+tactical move in order to close the e-line and open the kingside.} (20. Bxg5
+Rxe2 $19) 20... Bxc1 {
+Tal calmly continues to exchange the pieces in order to stop White's attack.} (
+20... fxe6 21. fxg6 Bxc1 22. Rxh7#) 21. Nxc7 Rxe2 22. Nxe2 Bxb2 {Black manages
+to stop White's attack because the queen is off the board and he cannot create
+other threats.} 23. fxg6 fxg6 24. Rf1 Bxg2+ 25. Kxg2 Rc8 26. Rf7 Ngf6 27. Nd5
+Rxc2 28. Nxf6 Nxf6 29. Kf1 Be5 30. Rb3 Rc6 31. Rb7 Nd5 32. h3 Rc4 33. Rf3 Nf6
+34. Re7 Rc6 35. Rb7 Kg8 36. Rb3 Nd5 37. Rd3 Rc5 38. Rf3 Rc7 39. Rb8+ Kg7 40.
+Rff8 Rc4 41. Rf3 Rxa4 42. Rb7+ Kh6 43. Rff7 Kg5 0-1
+

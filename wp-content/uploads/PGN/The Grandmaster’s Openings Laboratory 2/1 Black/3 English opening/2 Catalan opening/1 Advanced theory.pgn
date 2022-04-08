@@ -1,0 +1,88 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.09.02"]
+[Round "?"]
+[White "Catalan opening"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "E06"]
+[Annotator "RCA"]
+[PlyCount "22"]
+[EventDate "2013.08.21"]
+[SourceDate "2013.08.30"]
+
+1. c4 Nf6 2. g3 {This is an extremely tricky move order. The point is that
+White wants to disallow all forms of b6 lines by Black. At the same time, we
+have no knight on c3. so our Bb4 plans will not be possible here. It's time to
+go for classical chess and strike in the centre.} e6 3. Nf3 (3. Bg2 d5 {Just
+transposes after Nf3.} 4. b3 {Has some independent significance, not because
+we cannot play our same Be7 0-0 stuff but because we have a chance here to win
+a pawn.} dxc4 5. bxc4 {Can you spot the surprising tactical motif?} Qd4 $1 {Of
+course, White can cut his losses and play Nc3, but it would mean he is a pawn
+down. Hence he goes for...} 6. Qb3 $2 Qxa1 7. Bxb7 Bxb7 8. Qxb7 Nfd7 $1 {He
+finds himself in a position where he is losing a piece.} 9. Qc8+ Ke7 10. Ba3+
+Kf6 $19) 3... d5 $1 {The good old classical days are back! d5 is an extremely
+logical move, taking centre control.} 4. Bg2 Be7 5. O-O O-O {Both sides have
+finished their king side development and now it is for White to decide whether
+he would like to take the game into Catalan territory with d4 or to double
+fianchetto positions with b3.} 6. d4 (6. b3 {This is a hypermodern approach.
+White fianchettos both his bishops. I think the most irritating thing for
+White in such positions is when Black doesn't try to do anything special but
+just logically keeps developing his pieces.} c5 $1 {More central control.} 7.
+Bb2 Nc6 {Once Black has played Nc6 and c5, he is really threatening to play d4
+because it will be excellently guarded. Hence White must either now take on d5
+or play e3.} 8. e3 {Once White chooses this double fianchetto setup, it is
+much more probable that he will go for this line with e3 followed by Nc3.} (8.
+cxd5 Nxd5 {This makes White's task to search for an advantage very difficult.}
+(8... exd5 9. d4 Ne4 10. dxc5 Bxc5 11. e3 $14 {Leads to a favourable position
+for White.}) 9. Nc3 (9. d4 cxd4 10. Nxd4 Bd7 {Is seen in the game
+Murshed-Kasimdzhanov.}) 9... Bf6 {In this position White has 2 main moves -
+Qc1 and Rc1.} 10. Qc1 (10. Rc1 b6 {Was excellently played by Black in
+Praznik-Horvath.}) 10... Nxc3 11. Bxc3 e5 $1 {Setting up the Maroczy Setup and
+taking more space.} 12. d3 Be6 {Is analysed in the game Speelman-Ganguly.})
+8... b6 {We just continue with our natural play.} 9. Nc3 (9. Qe2 {Doesn't
+really have much independent value, as anyhow White will send his queen to e2
+in future.}) 9... Ba6 $1 {The bishop is very well placed here, as it puts
+pressure on the c4 pawn.} 10. d3 (10. Qe2 {Usually transposes to the same
+thing.}) 10... Qd7 11. Qe2 Rad8 12. Rfd1 (12. Rad1 Rfe8 {Is analysed in the
+game Radjabov-Naiditsch.}) 12... Rfe8 13. a3 d4 {Was played nicely by black in
+the game which we have analysed - Chuchelov-Ghaem Maghami.}) 6... c6 7. Qc2 b6
+{We first develop our light-squared bishop and keep open the option of
+developing our b8 knight either to d7 or to a6.} 8. Rd1 (8. Nbd2 Bb7 9. e4 {Is
+another major opening tabiya and here I recommend, instead of the normal Nbd7,
+the more active and a little unusual...} Na6 $1 {When Black has interesting
+play.} 10. a3 (10. e5 Nd7 {Is analysed in Wang-Kovalyov.}) 10... c5 {Is seen
+in Gonzalez-Kovalyov.}) (8. b3 Nbd7 9. Rd1 Ba6 10. Nbd2 c5 11. e4 {Is seen in
+the game Heubner-Anand.}) 8... Nbd7 $1 {Once this rook has been developed to
+d1, we no longer need to retain the option of developing the knight to a6 but
+instead we will now have to keep open the option of playing Bb7 or Ba6. Hence
+now, if White decides to develop his knight to c3, then the ideal position for
+the bishop will be on a6; and if the knight is developed on d2, then Bb7 is
+fine. If White continues with the main line of Bf4, then we shall continue
+with Bb7. Thus we see the amount of subtlety required to gain a good position
+with the Black pieces is quite high in such Catalan-type positions.} (8... Bb7
+$6 {The main reason why I felt that this is inaccurate is because of White's
+move.} 9. b3 $1 {The idea is now to play Nc3 and e4, when we no longer have an
+option of playing Ba6 as we have already developed the bishop.} Nbd7 (9... Na6
+{Might be an interesting option here, but White can keep an edge after...} 10.
+Nc3 c5 11. dxc5 Nxc5 12. Bf4 $14) 10. Nc3 Rc8 11. e4 $14 {Leads to a very
+pleasant position for White.} dxe4 12. Nxe4 c5 {Is now bad due to...} 13. Nxf6+
+Bxf6 14. Ng5 $1 Bxg5 15. Bxb7 {And Black has a long fight ahead for a draw.})
+9. Bf4 (9. b3 Ba6 $1 10. Nbd2 c5 11. e4 {Leads to highly complex and
+interesting play. However, we will be well prepared if we follow the analysis
+given in the game Huebner-Anand.}) (9. Nc3 Ba6 {Also leads to interesting
+positions. There are lot of variations and novelties which are all analysed in
+the game Poldauf-Hansen. This is the brief outline of variations.} 10. b3 (10.
+Ne5 Nxe5 11. dxe5 Ng4 12. cxd5 exd5 $1 $146 {Gives Black an excellent position.
+}) 10... dxc4 11. Ne5 Nxe5 12. dxe5 Nd5 13. bxc4 Bxc4 {Is the critical
+position of the opening.}) 9... Bb7 {This is the main position of this opening.
+From here almost 500-odd games have been played and it is extensively analysed.
+However, this is a classical position, and if we play more such positions then
+our understanding of the game will surely improve. Here Black has in mind to
+engineer the c5 break and open his position. But it is difficult because of
+the rook on d1 standing opposite the queen. So we must try to improve our
+pieces and only then go for the c5 break.} 10. Nc3 (10. Ne5 {Has been analysed
+in the game Caruana-Adams.} Nh5 11. Bd2 Nhf6 12. cxd5 cxd5 13. Nc6 Bxc6 14.
+Qxc6 Rc8) 10... Nh5 $1 11. Bc1 f5 $1 {This position is analysed in two games,
+Harika v Adams and Bauer v Almasi.} *
+

@@ -1,0 +1,660 @@
+[Event "Ch Russia (club)"]
+[Site "Ekaterinburg (Russia)"]
+[Date "2002.??.??"]
+[Round "6"]
+[White "Lastin Alexander (RUS)"]
+[Black "Malakhov Vladimir (RUS)"]
+[Result "0-1"]
+[WhiteElo "2636"]
+[BlackElo "2677"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/5p2/1p2pkp1/1r5p/1PR2P2/4K1PP/8/8 b - - 0 45"]
+[PlyCount "45"]
+[EventDate "2002.??.??"]
+
+{Black has the pawn majority on the king-side and he should push it forward.  
+The "e" pawn has no counterpart and black should try to advance it most of all.
+That's why black played} 45... g5 {(After an exchange of the white's f4 pawn,
+the black's "e" pawn will go forward)} 46. g4 gxf4+ 47. Kxf4 {(Now black has
+the passed pawn on the "e" file)} Kg6 48. Kg3 hxg4 49. hxg4 Kg5 50. Kf3 f6 51.
+Kf2 e5 52. Ke3 Rd5 53. Rc6 b5 54. Rc5 Rd4 55. Rxb5 Rxg4 {(Black got 2
+connected passed pawns, which guarantee a win.)} 56. Rb8 Kf5 57. b5 Rg3+ 58.
+Kd2 Ke4 59. Kc2 f5 60. Rc8 Rg7 61. b6 Rb7 62. Rc6 f4 63. Re6 Kf3 64. Rxe5 Rxb6
+65. Kd2 Kf2 66. Re2+ Kg3 67. Re8 f3 0-1
+
+[Event "It (open)"]
+[Site "Oberwart (Austria)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Hansen Kay (AUT)"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2240"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r4r/3nk3/1p2pp1p/p2p3P/5PP1/1P5R/P1PB4/2K1R3 w - - 0 25"]
+[PlyCount "65"]
+[EventDate "1999.??.??"]
+
+{White has rooks and the bishop. It means that white should open the position
+to make his pieces more active.} 25. g5 {(It also helps white to create a
+passed pawn on the "h" file.)} hxg5 26. fxg5 fxg5 27. Bxg5+ Kd6 28. h6 {(A
+passed pawn should go forward)} Rh7 29. Rg1 e5 30. Bd2 Rf8 31. a4 Ke6 32. Kd1
+Nf6 33. Rf3 Nd7 34. Rg6+ Rf6 35. Rfxf6+ Nxf6 36. Bg5 Kf5 37. Rxf6+ Kxg5 38.
+Rxb6 d4 39. b4 {(White is creating the second passed pawn on the "a" file.
+This will tear the black's defense.)} axb4 40. a5 Kf4 41. Kd2 Ke4 42. a6 Ra7
+43. Rb8 Rh7 44. Rf8 Ra7 45. Kc1 Ke3 46. Rf5 e4 47. Rh5 Rh7 48. a7 Rxa7 49. h7
+Ra1+ 50. Kb2 Ra8 51. h8=Q Rxh8 52. Rxh8 d3 53. cxd3 Kxd3 54. Rd8+ Ke2 55. Kc2
+e3 56. Rb8 Kf2 57. Kd3 1-0
+
+[Event "Bundesliga 2004/05"]
+[Site "Germany"]
+[Date "2005.01.30"]
+[Round "9"]
+[White "Gurevich Mikhail (BEL)"]
+[Black "Holzke Frank (GER)"]
+[Result "1-0"]
+[WhiteElo "2634"]
+[BlackElo "2484"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5k2/pr3p1p/1p4p1/5p2/3P4/2R1P1P1/P3KP1P/8 w - - 0 32"]
+[PlyCount "53"]
+[EventDate "2005.??.??"]
+
+{White has the pawn majority in the center and he should push it forward.} 32.
+f3 h5 {(Black should move his queen-side pawns. When you have passed pawns you
+should focus an attention on their advancement.)} 33. e4 fxe4 34. fxe4 Ke7 35.
+Ke3 Rd7 36. d5 f5 37. Kd4 fxe4 38. Kxe4 Kd8 39. Rc2 Re7+ 40. Kf4 Rf7+ 41. Kg5
+Rf5+ 42. Kxg6 Rxd5 43. h3 a5 44. g4 hxg4 45. hxg4 Ke7 46. g5 b5 47. Kh6 b4 48.
+g6 Rd3 49. Rh2 Kf8 50. Kh7 Rg3 51. Rh5 a4 52. Rh4 Rg2 53. Rf4+ Ke7 54. Rxb4
+Rh2+ 55. Kg8 Rxa2 56. g7 a3 57. Rb3 Ra1 58. Rh3 1-0
+
+[Event "Jugoslavija 65/201"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Rublevsky S"]
+[Black "Nevednichy V"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2480"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/1p1k4/1K5p/PP1b4/7P/8/3N4/8 w - - 0 58"]
+[PlyCount "15"]
+[EventDate "1995.??.??"]
+
+{Though white can play a6, it would be a principle mistake. First an attacker
+should avoid pawn exchanges. Secondly, white has 2 pawns on the queen-side and
+he should try to create 2 connected passed pawns, because they win usually.} 
+58. Nb1 $1 Kd6 59. Nc3 Bf3 60. Na4 Kd7 61. Nc5+ Kc8 62. Ka7 Kc7 63. Nxb7 {
+(white got 2 connected passed pawns now)} Bxb7 64. a6 Be4 65. b6+ 1-0
+
+[Event "Aerosvit GM"]
+[Site "?"]
+[Date "2006.06.19"]
+[Round "3"]
+[White "Rublevsky S"]
+[Black "Ponomariov R"]
+[Result "1-0"]
+[WhiteElo "2687"]
+[BlackElo "2738"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2bk1r2/p1pp3p/1np5/5P2/2P5/1P5B/PK1N3P/4R3 w - - 0 23"]
+[PlyCount "63"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{White has a passed pawn f5. Therefore white should focus himself on its
+advancement. Now white needs to bring all the pieces towards the passed pawn
+to support its advancement.} 23. Nf3 c5 24. Rg1 d5 25. Ng5 h6 26. Nh7 Rf7 27.
+Rg8+ Ke7 28. f6+ {(White realized his plan insistently and got a winning
+position)} Kd6 29. Rd8+ Ke5 30. Re8+ Kd6 31. Bxc8 Nxc8 32. Nf8 Rxf6 33. Rxc8
+dxc4 34. bxc4 Rf2+ 35. Kb3 Rf3+ 36. Kc2 Rf2+ 37. Kd3 Rf3+ 38. Kd2 Rf2+ 39. Ke3
+Rxh2 40. Re8 c6 41. Re6+ Kc7 42. Ng6 Rxa2 43. Ne5 h5 44. Rxc6+ Kb7 45. Rxc5 h4
+46. Nf3 h3 47. Rh5 Ra3+ 48. Ke4 Rc3 49. Nd2 Ra3 50. Kd4 a5 51. Ne4 a4 52. Nc3
+Ra1 53. Rxh3 a3 54. Rh2 1-0
+
+[Event "Ch World (match) (cand.) (1/4)"]
+[Site "Rotterdam (Netherlands)"]
+[Date "1977.??.??"]
+[Round "3"]
+[White "Larsen Bent (DEN)"]
+[Black "Portisch Lajos (HUN)"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2625"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "6k1/6p1/8/p2r2r1/8/4R1P1/PP2R1K1/8 w - - 0 36"]
+[PlyCount "101"]
+[EventDate "1977.??.??"]
+
+{What is the white's plan here? White has a pawn majority on the queen-side
+and certainly he should use it.   White can play a3 and b4, but the separate
+passed is not very powerful and it will be diffucult for white to move it
+forward.   Instead of that white should try to create 2 connected passed pawns.
+They guarantee a win. White needs to bring all the pieces to the queen-side.
+After that white will win the a5 pawn or trade it on the g3 pawn. In any case
+2 connected passed pawns will bring white a win.} 36. b3 Rc5 37. Re8+ Kh7 38.
+R8e4 Rc3 39. R4e3 Rcc5 40. Kf2 Kg8 41. Rd2 Rg4 42. Rd8+ Kh7 43. a3 Rgg5 44. Rd4
+Rgf5+ 45. Ke2 Rg5 46. Rh4+ Kg8 47. Rc4 Rcd5 48. Rf4 Rd6 49. Rfe4 Rdg6 50. Kf2
+Rf6+ 51. Rf3 Rd6 52. Ke2 Rb5 53. Ree3 Rbd5 54. Rd3 Rh5 55. Ke3 Re6+ 56. Kd2 Rc6
+57. Rc3 Rd6+ 58. Rfd3 Rb6 59. Rc8+ Kh7 60. Rc4 Rg5 61. Rh4+ Kg8 62. Rd8+ Kf7
+63. Rf4+ Kg6 64. Rd3 Kh7 65. g4 Rgb5 66. Kc2 Kg6 67. Rfd4 Kg5 68. a4 Rc5+ 69.
+Kb2 Rbc6 70. Rh3 g6 71. Rh8 Rc2+ 72. Ka3 R6c5 73. Rb8 Kh4 74. Rb5 g5 75. Rd5
+Rxd5 76. Rxd5 Kxg4 77. Rxa5 Rc8 78. Rd5 Kf4 79. a5 g4 80. Rd1 g3 81. b4 g2 82.
+b5 Ke5 83. b6 Rd8 84. b7 Rxd1 85. b8=Q+ Ke4 86. Qe8+ 1-0
+
+[Event "It"]
+[Site "San Roque (Spain)"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Garcia Luque Agustin (ESP)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "0-1"]
+[WhiteElo "2350"]
+[BlackElo "2670"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r1k2/pppb1p1p/6p1/3P4/8/3BR3/PPP3PP/2K5 b - - 0 25"]
+[PlyCount "57"]
+[EventDate "1996.??.??"]
+
+{Black has the pawn majority on the king-side, so black should push it forward.
+The "f" pawn has no counterpart, therefore black should move the "f" pawn
+first of all.} 25... f5 26. g3 {(The correct plan for white is to push his
+pawn majority on the queen-side. However white doesn't have the right FOCUS,
+and that's why black realizes his plan more successfully)} Kf7 27. Be2 Kf6 28.
+Rc3 c6 29. Rb3 Rb8 30. dxc6 Bxc6 31. Ra3 a6 32. Rc3 Re8 33. Kd2 Re6 34. b4 g5
+35. Bf3 Bxf3 36. Rxf3 g4 37. Rc3 Kg5 38. Rc7 Rh6 39. Rg7+ Kf6 40. Rxb7 Rxh2+
+41. Ke3 Rg2 42. c4 Rxg3+ 43. Kd4 Rg1 44. Rxh7 g3 45. Rh6+ Kg5 46. Rh8 Kf4 47.
+Kc5 Ra1 48. b5 axb5 49. cxb5 g2 50. Rg8 g1=Q+ 51. Rxg1 Rxg1 52. b6 Ke5 53. b7
+Rb1 0-1
+
+[Event "Championship UKR of men 2006"]
+[Site "Poltava"]
+[Date "2006.11.24"]
+[Round "1.1"]
+[White "Miroshnichenko, Evgenij"]
+[Black "Zhornik, Nikolay"]
+[Result "1-0"]
+[WhiteElo "2627"]
+[BlackElo "2377"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/n6p/6p1/N4k2/1pK2P2/8/PP5P/8 w - - 0 40"]
+[PlyCount "23"]
+[EventDate "2006.??.??"]
+
+{What should white do now? Should white care about the black's counterplay on
+the king-side? NO! White can get 2 connected passed pawns, which are very
+powerful and often guarantee a win.} 40. Kxb4 Kg4 41. Kc5 Kh3 42. Nc6 Nc8 43.
+b4 Kxh2 44. Ne5 {(preventing h5)} Kg3 45. b5 Kxf4 46. a4 {(White doesn't even
+need that knight. 2 connected passed pawns will give him the new queen.)} Kxe5
+47. a5 Ke6 48. b6 Kd7 49. a6 Nd6 50. a7 Nb7+ 51. Kd5 1-0
+
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Kupchik Abraham (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2480"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/p5pk/7p/8/2R5/2P5/r5P1/6K1 b - - 0 35"]
+[PlyCount "31"]
+[EventDate "1915.??.??"]
+
+{Black has the passed pawn a7 and the pawn majority on the king-side.   If
+black starts pushing the "a" pawn and white moves his "c" pawn - these pawns
+will probably be exchanged in the end. Thus it leads to a draw.  Therefore the
+only chance for black is to move his king-side pawns.} 35... h5 36. Rc7 Kh6 37.
+c4 h4 38. c5 g5 39. Rc8 g4 40. c6 g3 41. Kf1 Kg7 42. Rd8 Rc2 43. Rd7+ Kg6 44.
+Rxa7 Rc1+ 45. Ke2 h3 46. c7 hxg2 47. c8=Q Rxc8 48. Ra1 Rf8 49. Rg1 Rf2+ 50. Ke3
+Kg5 0-1
+
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Lasker Edward (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/1p3ppp/4p3/2k5/2P5/3K1P2/P5PP/8 b - - 0 32"]
+[PlyCount "17"]
+[EventDate "1915.??.??"]
+
+{Black has the pawn majority on the king-side and the "E" pawn has no
+counterpart. Thus black should move it.} 32... e5 33. g4 f6 (33... g6 $2 34. g5
+{fixing the pawns}) 34. h4 g6 35. Ke4 Kd6 36. f4 exf4 37. Kxf4 Kc5 38. h5 Kxc4
+39. Ke4 b5 40. a3 Kb3 0-1
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Banks N"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "6k1/1p4pp/p1p5/3pr3/8/3R2P1/PPP4P/5K2 b - - 0 22"]
+[PlyCount "67"]
+[EventDate "1916.??.??"]
+
+{The black's plan is to use his pawn majority and mainly the "D" pawn. Since
+it's an endgame, black should not hurry up. Quite the contrary black should
+prepare the realization of his plan as good as he can. First black needs to
+transfer the king in a center to support his pawns' advancement.} 22... Kf7 23.
+Rb3 Re7 24. Rf3+ Ke8 25. Rb3 Kd8 26. Rf3 Kc7 27. Rf8 c5 28. b3 d4 29. Kf2 Kb6
+30. a3 Re3 31. Rf7 Rc3 32. Rxg7 Rxc2+ 33. Ke1 Rxh2 34. Rd7 Kc6 35. Rd8 Rb2 36.
+b4 cxb4 37. axb4 Rxb4 38. Rh8 a5 39. Rxh7 a4 40. Kd2 a3 41. Rh1 Rb2+ 42. Kd3 a2
+43. Ra1 Kd5 44. g4 b5 45. g5 Rg2 46. g6 b4 47. g7 Rxg7 48. Rxa2 Rg3+ 49. Ke2
+Rg2+ 50. Kd3 Rg3+ 51. Ke2 b3 52. Ra8 b2 53. Rb8 Kc4 54. Rc8+ Kb3 55. Rb8+ Kc2
+0-1
+
+[Event "Ch World (match)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1927.??.??"]
+[Round "32"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/pp2bpp1/6k1/3p2Pp/3P1B1P/4P1K1/PPr2P2/1R6 w - - 0 28"]
+[PlyCount "71"]
+[EventDate "1927.??.??"]
+
+{White has a pawn majority in the center. The "e" pawn has no counterpart,
+thus white should prepare its advancement.} 28. f3 f6 {!} (28... Kf5 {?} 29.
+e4+ {!} dxe4 30. fxe4+ Kxe4 31. Re1+) 29. gxf6 Bxf6 30. a4 Kf5 31. a5 Re2 32.
+Rc1 (32. a6 $1 bxa6 33. Ra1 {! Alekhin}) 32... Rxb2 33. Rc5 Ke6 34. e4 $1 {
+(white is creating 2 connected passed pawns)} Bxd4 (34... dxe4 35. d5+ Kf5 36.
+d6+ Ke6 37. fxe4) 35. Rxd5 Bc3 36. Rxh5 a6 37. Bc7 Be1+ 38. Kg4 Rg2+ 39. Kh3 (
+39. Kf4 {?} Bd2#) 39... Rf2 40. Kg4 Rg2+ 41. Kh3 Rf2 42. f4 {!} Rf3+ 43. Kg2
+Rf2+ 44. Kh3 Rf3+ 45. Kg2 Rf2+ 46. Kg1 Rc2 47. Bb6 Rc4 {?} 48. Kg2 g6 49. Re5+
+Kd7 50. h5 {!} gxh5 51. Kf3 h4 52. Rh5 Rc3+ 53. Kg4 Rc4 54. Kf5 {!} Bxa5 55.
+Rh7+ {!} (55. Bxa5 {?} Rc5+ 56. Kg4 Rxh5 57. Kxh5 h3) 55... Kc6 56. Bxa5 Rc5+
+57. Ke6 {!} Rxa5 58. f5 Ra3 59. f6 Rf3 60. f7 b5 61. Rh5 h3 62. Rf5 Rxf5 63.
+exf5 1-0
+
+[Event "4th FIDE GP w"]
+[Site "Jermuk ARM"]
+[Date "2010.06.25"]
+[Round "2"]
+[White "Dzagnidze, N."]
+[Black "Danielian, E."]
+[Result "1-0"]
+[WhiteElo "2478"]
+[BlackElo "2473"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/5pp1/4p2p/2q1k2P/8/3Q2P1/1P3P2/6K1 w - - 0 36"]
+[PlyCount "53"]
+[EventDate "2010.??.??"]
+
+{White has a passed pawn and it should go forward. It is the main thing white
+should think about.} 36. b3 f5 37. Qd2 Kf6 38. b4 Qb6 39. Qb2+ e5 40. b5 {(a
+queen supports passed pawns advancement very well)} Ke6 41. Qa2+ {(White is
+stretching the black's defense)} Kd6 42. Qf7 Qxb5 43. Qxg7 Qb1+ 44. Kh2 Qc2 45.
+Qxh6+ Ke7 46. Qe3 Kf6 47. Qb6+ Kg7 48. Qg6+ Kh8 49. Qb6 Kg7 50. Qe3 Kf6 51. Kh3
+Qd1 52. Qh6+ Ke7 53. Qg5+ Ke6 54. Qg6+ Ke7 55. Qxf5 Qf1+ 56. Kh4 Qc4+ 57. Kg5
+Qg8+ 58. Kh6 Qb8 59. Kg7 Qb2 60. Qf6+ Ke8 61. Qf7+ Kd8 62. h6 {White wins} 1-0
+
+[Event "8th ICT"]
+[Site "?"]
+[Date "2008.05.30"]
+[Round "3"]
+[White "RYBKA"]
+[Black "DEEP SJENG"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1k2b1r/p1p2pp1/1pb3np/2p1P3/2P5/1P3N1P/PB1RNPP1/5RK1 w - - 0 17"]
+[PlyCount "77"]
+[EventDate "2008.??.??"]
+[Source "The Week in Ches"]
+
+{White has a pawn majority in the center and white should move it forward.} 17.
+Ne1 Kb7 18. f4 Be7 19. f5 Bg5 20. fxg6 {(getting 2 connected passed pawns,
+which are very powerful)} Bxd2 21. gxf7 Bd7 22. e6 Bxe6 23. Bxg7 Bxf7 24. Bxh8
+Rxh8 25. Rxf7 Bxe1 26. Kf1 Bd2 27. Nf4 Bxf4 28. Rxf4 Rd8 29. Ke2 Rd6 30. g4 a5
+31. h4 Kc8 32. h5 Kb7 33. Ke3 a4 34. bxa4 Re6+ 35. Re4 Rf6 36. Re5 Rf1 37. Ke4
+Rc1 38. Kf5 Rxc4 39. Re4 Rc2 40. g5 hxg5 41. h6 Rxa2 42. Kxg5 Rd2 43. Rh4 Rg2+
+44. Kf6 Rf2+ 45. Kg6 Rg2+ 46. Kh5 Rg8 47. h7 Rh8 48. Kg6 Ka6 49. Kg7 Re8 50.
+h8=Q Rxh8 51. Rxh8 c4 52. Kf6 Ka5 53. Rh4 Kb4 54. Ke5 Kb3 55. Rh6 1-0
+
+[Event "26th Open Dutch CCCh"]
+[Site "?"]
+[Date "2006.11.04"]
+[Round "5"]
+[White "RYBKA"]
+[Black "FRUIT"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r5k1/pp6/5rp1/1N1p1b2/4n2R/3BP3/PP3P1P/R3K3 w Q - 0 25"]
+[PlyCount "49"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{In an endgame the pawns' value go up, that's why white decided to trade the
+knight+bishop on the opponent's rook with pawns.} 25. Nc7 Rd8 26. Nxd5 Rxd5 27.
+Bc4 Rfd6 28. Rd1 Nf6 29. Bxd5+ Rxd5 30. Rxd5 Nxd5 {(Now white should move his
+passed pawns and attack opponent's weak pawns.)} 31. Ra4 a6 32. e4 Bd7 33. Rd4
+Nb6 34. Rd6 Bc6 35. Rxg6+ Kf7 36. Rg4 Nc4 37. f3 Nxb2 38. h4 Nd3+ 39. Kd2 Ne5
+40. Rg3 Kf8 41. h5 Nf7 42. Ke3 Be8 43. f4 Nh6 44. f5 Bxh5 45. Rh3 Nxf5+ 46.
+exf5 Bf7 47. a4 b5 48. a5 Kg7 49. Rh4 1-0
+
+[Event "26th Open Dutch CCCh"]
+[Site "?"]
+[Date "2006.11.03"]
+[Round "1"]
+[White "RYBKA"]
+[Black "LOOP"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r4/5pkp/3n4/3Pp1P1/8/P7/4B2P/1KR5 w - - 0 35"]
+[PlyCount "44"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{White has a passed pawn and certainly white should push it. It should be your
+initial thought when you look at such a position.} 35. a4 Ne4 36. Bb5 Rxd5 37.
+Bc6 Nd2+ 38. Kb2 Rd4 39. Kc3 Nc4 40. Kb4 {(a king works well with pawns,
+that's why white wants to support his pawn advancement by bringing the king
+there.)} Nd2+ 41. Kb5 Rd8 42. a5 Nb3 43. Rc4 Rb8+ 44. Ka4 Nd4 45. Bd5 Rb1 46.
+Rc3 f5 47. gxf6+ Kxf6 48. a6 Rb6 49. Bc4 Rb8 50. Rh3 h5 51. Rxh5 e4 52. Rd5 Nf5
+53. Ka5 e3 54. Rd1 Ne7 55. Rd6+ Kf5 56. Re6 Nc8 1-0
+
+[Event "It (cat.14)"]
+[Site "Tilburg (Netherlands)"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Huebner Robert Dr (GER)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2690"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1r5/p2k2bp/1p2ppp1/3n4/8/P2P2P1/1B1NPPKP/2R2R2 b - - 0 22"]
+[PlyCount "55"]
+[EventDate "1977.??.??"]
+
+{Black has the forcing variation, which brings him some passed pawns in the
+end.} 22... Bh6 23. e3 (23. Rfd1 Rxc1 24. Bxc1 Nc3 25. Re1 Na2 26. Nb3 Nxc1 27.
+Nxc1 Rc8 $17) 23... Bxe3 $1 24. fxe3 Nxe3+ 25. Kf3 Nxf1 26. Nxf1 Rxc1 27. Bxc1
+Rc8 28. Bb2 Rc2 {(Black wants to get 2 connected passed pawns on the
+queen-side. It is one of the main winning plans in an endgame.)} 29. Bxf6 Ra2
+30. Ke3 Rxa3 31. Nd2 b5 32. Ne4 b4 {?} (32... a5 {!}) 33. Kd4 a5 34. Kc4 {
+'with the idea' 35. Bb2 Ra2 36. Kb3} Ra2 35. h4 Kc6 36. Bd4 Re2 37. Be5 Re1 38.
+Bf6 Rb1 39. Be7 e5 40. g4 Rc1+ 41. Kb3 Kd5 42. Bg5 (42. Bd8 Kd4 43. Bxa5 Kxd3
+44. Nf6 Rb1+ 45. Ka2 Kc2 $19) 42... Rb1+ 43. Kc2 Rh1 44. Kb3 Rh3 45. Nf6+ Kd4
+46. Nxh7 Rxd3+ 47. Kc2 a4 48. Be7 Rc3+ 49. Kb1 Rc7 0-1
+
+[Event "Tournament (candidates)"]
+[Site "Curasao (Netherlands)"]
+[Date "1962.??.??"]
+[Round "2"]
+[White "Geller Efim P (RUS)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1-0"]
+[WhiteElo "2455"]
+[BlackElo "2780"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2b3k1/1pq2ppp/p7/P1rPp3/1QP5/8/4BPPP/1R4K1 w - - 0 29"]
+[PlyCount "25"]
+[EventDate "1962.??.??"]
+
+{White needs to find a way to push his central passed pawns.} 29. Qa4 {White
+is threatening Qe8. Also white wants to play Rb6 and d6 then.} Bd7 30. Qa3 Rxa5
+31. Rxb7 {(now white got 2 connected passed pawns and therefore a winning
+position.)} Qxb7 32. Qxa5 g6 33. h3 Qb1+ 34. Kh2 Bf5 35. Qc3 Qe4 36. Bf3 Qd4
+37. Qxd4 exd4 38. g4 Bc8 39. c5 a5 40. c6 Kf8 41. d6 1-0
+
+[Event "Cracovia A"]
+[Site "?"]
+[Date "2006.01.03"]
+[Round "8.9"]
+[White "Smirnov, Igor"]
+[Black "Daulyte, Deimante"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b4r/pp2kppp/8/2NBp1b1/4P3/2P5/PP4PP/R3K2R w KQ - 0 18"]
+[PlyCount "51"]
+[EventDate "2006.??.??"]
+
+{Here white can realize both of the endgame plans: attack opponent's weak
+pawns and move your passed pawns.   White has a pawn majority on the
+queen-side and white should push it.   Also white can attack the b7 and f7
+weak pawns.} 18. a4 Rb8 19. a5 {(It helps white to fix the weak pawn b7 and it
+is the pawn majority advancement.)} Rd8 20. Kf2 Be6 21. Rhd1 Bxd5 22. exd5 Bh6
+23. Ra4 f5 24. Rb4 b6 25. Na6 Rb7 26. c4 Rdd7 27. axb6 axb6 28. Rd3 Bf4 29.
+Rdb3 Rd6 30. g3 Bd2 31. Rb5 f4 32. c5 Rh6 33. h4 fxg3+ 34. Kxg3 Be1+ 35. Kg2
+Rg6+ 36. Kf1 Bxh4 37. c6 Rf6+ 38. Kg2 Ra7 39. Rxb6 Kd6 40. c7+ Kd7 41. Rxf6
+Bxf6 42. Rc3 Ra8 43. Nb8+ 1-0
+
+[Event "Ch URS"]
+[Site "Minsk (Belarus)"]
+[Date "1979.??.??"]
+[Round "13"]
+[White "Beliavsky Alexander G (SLO)"]
+[Black "Kasparov Garry (RUS)"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2545"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1r1r2k1/1p4bp/p2N2p1/P1pP3n/4p3/4BPP1/1P5P/R4RK1 w - - 0 26"]
+[PlyCount "19"]
+[EventDate "1979.??.??"]
+
+26. Nc4 $1 {(After this powerful move white gets a passed pawn, which is a
+serious advantage in an endgame.)} (26. Nxe4 Rxd5 27. Rad1 Rxd1 28. Rxd1 Bxb2
+29. Bxc5 Nf6 30. Nxf6+ Bxf6 31. Rd7 $14) 26... Rxd5 (26... exf3 27. Rad1 {
+White has a passed pawn, while black has only a lot of weaknesses.}) 27. fxe4
+Rd7 28. e5 {(A passed pawn should go forward!)} Bf8 29. Rad1 Rbd8 30. Rxd7 Rxd7
+31. e6 Rc7 $2 (31... Rd8 $8 32. Rf7 Re8 33. Rxb7 Rxe6 34. Rc7 $16) 32. Bg5 Ng7
+33. Bd8 Nxe6 34. Bxc7 Nxc7 35. Rd1 1-0
+
+[Event "Ch Arabskih stran"]
+[Site "Amman (Jordan)"]
+[Date "2006.05.??"]
+[Round "?"]
+[White "Smirnov, Igor"]
+[Black "Taleb Moussa"]
+[Result "1-0"]
+[BlackElo "2452"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/1p6/4kp1p/NPPb1p2/3K4/6P1/7P/8 w - - 0 45"]
+[PlyCount "5"]
+[EventDate "2006.??.??"]
+
+{White has 2 powerful pawns on the queen-side and should try to create 2
+connected passed pawns.} 45. Nxb7 $1 Bxb7 46. c6 Bc8 47. Kc5 {Black has no
+defense against b6-b7. 2 connected passed pawns often brings you a new queen.}
+1-0
+
+[Event "Pius Brinzeu Mem"]
+[Site "?"]
+[Date "2006.03.22"]
+[Round "5"]
+[White "Dragomirescu C"]
+[Black "Malaniuk V"]
+[Result "0-1"]
+[WhiteElo "2259"]
+[BlackElo "2532"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2b5/1pk4p/6p1/r1p2p2/P4R1P/4P1P1/5P2/3B2K1 b - - 0 44"]
+[PlyCount "21"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{When you have a passed pawn or a pawn majority you should start thinking from
+the question "Can I move my pawns?".} 44... b5 $1 45. Bc2 (45. axb5 Ra1 $19)
+45... b4 {(Black got 2 connected passed pawns and a winning position)} 46. e4
+Kd6 47. h5 Ke5 48. hxg6 hxg6 49. Rh4 Be6 50. exf5 gxf5 51. f4+ Kd4 52. g4 b3
+53. Bb1 Rxa4 54. gxf5 Bd5 0-1
+
+[Event "It \"]
+[Site "Moscow (Russia)"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Azmaiparashvili Zurab (GEO)"]
+[Black "Korchnoi Viktor (SUI)"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2635"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/2k2p2/3n3p/p2B1pp1/3P4/4PKP1/PP5P/8 w - - 0 34"]
+[PlyCount "47"]
+[EventDate "1995.??.??"]
+
+34. g4 $1 {(This helps white to push his central pawns afterwards and to
+attack the h6 weakness.)} fxg4+ 35. Kxg4 Kd7 36. a3 Ke7 37. b4 axb4 38. axb4
+f5+ 39. Kh5 {(White is realizing both of the main endgame plans.)} f4 40. exf4
+gxf4 41. Kxh6 Nb5 42. Kg5 Kd6 43. Be4 f3 44. Bxf3 Nxd4 45. Be4 Ke5 46. Bg2 Ne6+
+47. Kg4 Nf4 48. Bf3 Nd3 49. b5 Kf6 50. b6 Nc5 51. h4 Kg6 52. Bc6 Kf6 53. h5 Kf7
+54. Kf5 Ke7 55. Ke5 Ne6 56. h6 Nd8 57. Bd5 1-0
+
+[Event "It"]
+[Site "London (England)"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Wahltuch Victor"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "6r1/4k3/1p2p3/p1rp1p1p/P2RpP2/1KP1R1PP/1P6/8 b - - 0 34"]
+[PlyCount "13"]
+[EventDate "1922.??.??"]
+
+{Black has a pawn majority in the center and should think how to move it
+forward.} 34... h4 $1 35. gxh4 e5 36. fxe5 f4 {(2 connected passed pawns
+guarantee a win.)} 37. Re1 Ke6 38. c4 Kxe5 39. Rxd5+ Rxd5 40. cxd5 f3 0-1
+
+[Event "Panormo 82/127"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Rublevsky S"]
+[Black "Georgiev Ki"]
+[Result "1-0"]
+[WhiteElo "2639"]
+[BlackElo "2695"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r2r2/ppN2k1p/2p2pp1/2p1n3/4P3/1P1P3P/b1PN2P1/R4RK1 w - - 0 24"]
+[PlyCount "49"]
+[EventDate "2001.??.??"]
+
+24. Na6 $1 {(It totally breaks the black's pawn structure. Since a pawn
+structure becomes the most important thing in an endgame, it gives white a
+strong advantage.)} Bxb3 25. Nxb3 bxa6 (25... c4 26. Nbc5 cxd3 (26... bxa6 27.
+d4 {!$18}) 27. Nxb7 dxc2 28. Nd6+ $18) 26. Nxc5 $16 Ke7 27. Rxa6 Rc7 28. Rfa1
+Kd6 29. d4 Rff7 (29... Nd7 30. Nd3 Re8 31. Rxa7 Rxe4 32. Rxc7 Kxc7 33. Ra7+ Kd6
+34. Rxd7+ $18) 30. Kf2 Nc4 (30... f5 31. Ke3 Nd7 (31... f4+ 32. Kf2 $16) 32.
+Nxd7 Rfxd7 33. e5+ Ke7 34. c4 Rb7 35. R1a3 $16) 31. Ke2 Nb6 32. Kd3 Nd7 33. Nb3
+Ke6 34. c4 (34. Rxa7 {??} Rxa7 (34... Ne5+ {?} 35. dxe5 Rxa7 36. Nd4+ Kxe5 37.
+Rxa7 Rxa7 38. Nxc6+ $18) 35. Rxa7 Ne5+ $19) 34... Re7 35. Kc3 Nb8 36. d5+ Ke5 (
+36... Kf7 {?} 37. d6 $18) 37. R6a5 cxd5 (37... f5 38. Rd1 {!}) 38. exd5 Rf7 (
+38... Kd6 39. Kd4 $18) 39. Re1+ (39. d6+ {!} Kxd6 40. Rd5+ Ke7 (40... Kc6 {?}
+41. Na5+ Kb6 42. Rb5+ Ka6 43. Nc6#) 41. Re1+ Kf8 42. Rd8+ Kg7 43. Rxb8 $18)
+39... Kf4 40. Nd4 Rc8 41. Ne6+ Kg3 42. Re3+ Kh4 (42... Kxg2 43. Ra2+ Kf1 44.
+Rf3+ Ke1 (44... Kg1 45. Rd3) 45. Ra1+ Ke2 46. Nd4#) (42... Kf2 43. Rd3 Nd7 44.
+Ra2+ Kg1 45. g4) 43. c5 g5 44. Nd4 Kh5 45. Nf5 Rd8 46. g4+ Kg6 47. Ne7+ Kg7 48.
+c6 1-0
+
+[Event "Cup Russia \"]
+[Site "Internet"]
+[Date "2004.12.28"]
+[Round "?"]
+[White "Van Wely Loek (NED)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "0-1"]
+[WhiteElo "2681"]
+[BlackElo "2672"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/1r2kp2/8/1p2PKP1/1R6/8/8/8 w - - 0 60"]
+[PlyCount "38"]
+[EventDate "2004.??.??"]
+
+{In the game white made a terrible mistake} 60. g6 $2 {which is just loosing} (
+60. e6 $1 {(Gives white a passed pawn)} fxe6+ 61. Kg6 {(Maybe Ke5 is good
+enough for a draw)} Kd6 62. Kf6 Kc5 63. Rxb5+ Rxb5 64. Kxe6 {=}) 60... fxg6+
+61. Kxg6 Ke6 62. Kg5 Kxe5 63. Kg4 Kd5 64. Kf3 Kc5 65. Rb1 b4 66. Ke2 b3 67. Kd2
+Kb4 68. Rh1 Rc7 69. Rh8 b2 70. Rb8+ Ka3 71. Ra8+ Kb3 72. Rb8+ Ka2 73. Ra8+ Kb1
+74. Rb8 Rc5 75. Rb7 Rc6 76. Rb8 Rd6+ 77. Kc3 Kc1 78. Rxb2 Rc6+ 0-1
+
+[Event "It"]
+[Site "Strumica (Macedonia)"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Rashkovsky Nukhim N (RUS)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "0-1"]
+[WhiteElo "2560"]
+[BlackElo "2620"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1r1r4/p2nkppp/1p2p3/2pPP3/2K2P2/6P1/PP4BP/R2R4 b - - 0 20"]
+[PlyCount "45"]
+[EventDate "1995.??.??"]
+
+{Black has a pawn majority on the queen-side and he should move it forward. It
+is the only thing black should think about really.} 20... b5+ 21. Kc3 exd5 {
+(Otherwise white will play d6 getting a strong passed pawn)} 22. Bxd5 Nb6 23.
+Bf3 b4+ 24. Kb3 a5 25. Rxd8 Rxd8 26. Rd1 Rxd1 27. Bxd1 Ke6 28. Kc2 Kd5 29. Kd3
+c4+ 30. Ke3 a4 31. Bc2 h6 32. Be4+ Kc5 33. h4 Nd5+ 34. Kd2 c3+ 35. Kc1 cxb2+
+36. Kxb2 Ne3 37. h5 Nd1+ 38. Ka1 b3 39. axb3 axb3 40. Bf3 Ne3 41. Be2 Nf5 42.
+g4 Nd4 {In the starting position of this example white had an edvantage.
+However white didn't know what to do with that while black was realizing his
+plan step by step.} 0-1
+
+[Event "Sankt_Peterburg (open) 64/128"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Rublevsky S"]
+[Black "Volzhin A"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2460"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r5k1/3R1pp1/pp2p2p/1P6/2P5/5PB1/n1K3PP/8 w - - 0 39"]
+[PlyCount "11"]
+[EventDate "1995.??.??"]
+
+{In an endgame you should always think about an advancement of your passed
+pawns.} 39. c5 $1 {(it helps white to create a passed pawn)} Rc8 (39... Nb4+
+40. Kb2 bxc5 (40... Nd5 41. Rxd5 exd5 42. cxb6) 41. b6 Nc6 42. b7 Rf8 43. Bd6
+Re8 44. Rc7 Na5 45. Rc8) 40. bxa6 Nb4+ (40... Rxc5+ 41. Kb2 Ra5 42. a7 Kh7 43.
+Be1 Ra6 44. Rxf7) 41. Kd2 bxc5 42. a7 c4 (42... Ra8 43. Bb8 Nc6 44. Rc7) 43.
+Rc7 Rd8+ 44. Ke2 1-0
+

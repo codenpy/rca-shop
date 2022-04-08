@@ -1,0 +1,172 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg"]
+[Date "2018.12.28"]
+[Round "14.1"]
+[White "Carlsen, Magnus"]
+[Black "Andreikin, Dmitry"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2903"]
+[BlackElo "2725"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "121"]
+[EventDate "2018.??.??"]
+[WhiteTeam "Norway"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Ba4 O-O 6. O-O d6 7. c3 Bb6 8. Nbd2
+Ne7 9. Nc4 Ng6 10. h3 h6 11. Bc2 Be6 12. Nxb6 axb6 13. d4 b5 14. Be3 c6 15. Re1
+Qc7 16. a3 Rad8 17. Qd2 Rfe8 18. Rad1 Qe7 19. Qc1 Nh5 20. dxe5 dxe5 21. Rxd8
+Rxd8 22. Rd1 Nhf4 23. Kh2 f6 24. Rxd8+ Qxd8 25. Qd2 Qc8 26. Ng1 Bf7 27. g3 Ne6
+28. h4 Qd8 29. Qxd8+ Nxd8 30. Nf3 Nf8 31. Nd2 g5 $6 {Diagram #} (31... Nd7 $14
+{It was better for Black to stay passive.}) 32. f4 $1 {After this pawn break,
+Carlsen will try to target Black's kingside pawns. White also has the bishop
+pair, so it makes sense to open the position.} (32. Kg2 $14) 32... gxf4 (32...
+gxh4 33. gxh4 $14 (33. f5 $5 hxg3+ 34. Kxg3 Kh7 $4 (34... Nd7 35. Bxh6 $14) 35.
+Bb6 $1 $18)) (32... exf4 33. gxf4 gxh4 34. Nf3 $16 {regains the pawn}) (32...
+Nde6 $6 33. fxe5 fxe5 34. Nf3 $16) 33. gxf4 exf4 34. Bxf4 Ng6 35. Kg3 $5 (35.
+Bxh6 Nxh4 $14) 35... Nxf4 36. Kxf4 $14 {White gives the bishop pair, but has a
+better position thanks to his more active king.} Kf8 37. e5 Ke7 38. exf6+ Kxf6
+39. Ne4+ Ke7 40. Nf2 Be6 41. Bf5 Nf7 42. Ng4 h5 $2 (42... Kd6 $14) 43. Ne3 Kf6
+44. Bxe6 Kxe6 45. Nf5 $16 Kf6 46. Ng3 Kg6 47. b3 Nh6 48. Ke5 $1 Ng4+ 49. Kd6
+Ne3 50. Kc7 c5 51. Kxb7 c4 52. b4 Nd1 53. Ne2 Kf5 54. Kc6 Kg4 55. Kxb5 Kxh4 56.
+a4 Kg4 57. a5 Ne3 58. a6 Nd5 59. a7 h4 60. Kc6 h3 61. a8=Q 1-0
+
+[Event "FIDE World Rapid Championship"]
+[Site "St. Petersburg"]
+[Date "2018.12.26"]
+[Round "4.1"]
+[White "Carlsen, Magnus"]
+[Black "Vlassov, Nikolai"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2903"]
+[BlackElo "2492"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "89"]
+[EventDate "2018.??.??"]
+[WhiteTeam "Norway"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "RUS"]
+
+1. c4 f5 2. b4 d6 3. Bb2 e5 4. e3 Nf6 5. d4 e4 6. d5 g6 7. Ne2 Bg7 8. Nf4 O-O
+9. h4 Qe8 10. Be2 a5 11. b5 Nh5 12. Bxg7 Nxg7 13. b6 $5 {
+Trying to open the b file and create a weakness on d6.} cxb6 14. Nc3 Na6 (14...
+Qd8 15. Rb1 Nd7 16. Na4 $13) 15. Rb1 (15. Na4 $5) 15... Nc5 16. Rxb6 Ra6 17.
+Rb2 Bd7 18. Qd4 Qe7 19. g3 Be8 {Diagram #} 20. h5 $1 {With this advance, White
+will either damage Black's pawn structure or will create weaknesses and open
+files on Black's camp. This is a typical idea in the Dutch defence.} (20. Kf1
+Bd7 21. Kg2 $14) 20... g5 (20... Nxh5 21. Bxh5 gxh5 $14 {
+Black has many weak pawns (d6 - f5 - h5) and his bishop is too passive}) (20...
+Rf6 21. hxg6 hxg6 22. Rh6 $16) 21. h6 $1 gxf4 22. Qxg7+ Qxg7 23. hxg7 Kxg7 24.
+exf4 $14 {Black has a worse pawn structure. The pawns on f5, d6 and b7 can
+become targets.} Rf6 25. Kd2 Rh6 26. Rhb1 Kf8 27. Ke3 $1 {Activating the king.}
+Ke7 28. Rxb7+ $1 {
+Carlsen converts his advantage with a nice exchange sacrifice.} Nxb7 29. Rxb7+
+Kd8 (29... Bd7 30. c5 $1 (30. Nxe4 $5 {is also good} fxe4 31. Bg4 $16) 30...
+dxc5 31. Bxa6 Rxa6 32. Na4 Rd6 33. Nb6 $18) 30. c5 $1 $18 Ra8 31. c6 Rc8 32.
+Nb5 Bxc6 33. dxc6 Rxc6 34. Ra7 Rh1 35. Rxa5 Rb1 36. Nd4 Rcb6 37. Rxf5 R6b2 38.
+Rb5 Rxb5 39. Nxb5 d5 40. Nc3 Rb2 41. Nxd5 Rxa2 42. Nf6 h6 43. g4 Ke7 44. Nxe4
+Ra3+ 45. Bd3 1-0
+
+[Event "FIDE World Rapid Championship"]
+[Site "St. Petersburg"]
+[Date "2018.12.26"]
+[Round "2.2"]
+[White "Ragger, Markus"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2632"]
+[BlackElo "2844"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "64"]
+[EventDate "2018.??.??"]
+[WhiteTeam "Austria"]
+[BlackTeam "United States"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Re1 h6 8. Nbd2
+a5 9. Nf1 Ba7 10. Ng3 Ne7 11. Bb3 Ng6 12. h3 Re8 13. d4 c6 14. Bc2 Be6 15. Be3
+Qc7 16. a4 Rad8 17. Qd2 Bb8 18. Rad1 d5 19. exd5 Bxd5 20. Bxg6 $2 {Diagram #} (
+20. Nxe5 $1 {
+was possible, but extremely hard to evaluate correctly during a game.} Nxe5 21.
+dxe5 Bf3 (21... Qxe5 22. Bb6 $18) (21... Bxg2 22. exf6 $1 Rxd2 23. Bxd2 $3
+Rxe1+ 24. Rxe1 {Threatening mate with Re8} Qd8 25. Kxg2 $18 Qxd2 $4 26. Re8#)
+22. Qxd8 $1 Rxd8 23. Rxd8+ Qxd8 24. exf6 Bxg3 25. fxg3 Bd5 26. fxg7 Kxg7 27.
+Bd4+ Kf8 28. Kh2 $14 {The material is roughly equal but White's king is safer.}
+) 20... Bxf3 $1 {A very important intermediate move. With this exchange, Black
+destroys White's pawn structure on the kingside.} (20... fxg6 21. Nxe5 Bb3 22.
+f4 Bxd1 23. Qxd1 $44) 21. Bxf7+ Qxf7 22. gxf3 exd4 23. cxd4 Nd5 $19 {
+Black is a pawn down, but White's pawns will start falling.} 24. Kg2 Rf8 25.
+Qe2 Rde8 26. Kh2 Qxf3 27. Qxf3 Rxf3 28. Kg2 Rexe3 $1 29. fxe3 Rxg3+ 30. Kf2
+Rxh3 31. e4 Bg3+ 32. Kg2 Nf4+ 0-1
+
+[Event "FIDE World Rapid Championship"]
+[Site "St. Petersburg"]
+[Date "2018.12.27"]
+[Round "6.25"]
+[White "Ragger, Markus"]
+[Black "Artemiev, Vladislav"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2632"]
+[BlackElo "2812"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "80"]
+[EventDate "2018.??.??"]
+[WhiteTeam "Austria"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Qc7 8. O-O
+Be7 9. Be3 Nc6 10. Nxc6 bxc6 11. Na4 Nd7 12. c4 Rb8 13. Qe2 c5 14. Rad1 Bb7 15.
+Rd2 O-O 16. g4 $6 {Diagram #} f5 $1 {
+Black takes advantage of the fact that the a8-h1 diagonal cannot be opened.} (
+16... Qa5 $11) 17. f4 (17. gxf5 exf5 18. Bf4 (18. exf5 $4 Bxg2 19. Kxg2 Qc6+ {
+wins a piece}) 18... fxe4 19. Bg3 Nf6 $15) (17. f3 fxg4 18. fxg4 Rxf1+ 19. Qxf1
+Ne5 $17 {Black has more active pieces and Whiteâ []s pawns are targets.}) 17...
+Bxe4 18. Bxe4 fxe4 19. Nc3 Qb7 $15 {Black is a pawn up} 20. Rfd1 g5 $1 {
+A positional pawn sacrifice to gain the e5 square for the knight.} 21. Rf1 (21.
+fxg5 Ne5 $17 {and Nf3+}) 21... Rf7 22. fxg5 Rxf1+ 23. Kxf1 Rf8+ 24. Kg2 Ne5 $19
+25. Rd1 Nd3 (25... Bxg5 $1 26. Bxg5 e3+ $19) 26. Rf1 d5 27. Rxf8+ Bxf8 28. Bd2
+Qxb2 29. cxd5 Qxc3 $1 30. Bxc3 Nf4+ 31. Kf2 Nxe2 32. Kxe2 exd5 {
+The ending is easily winning} 33. Be5 d4 34. h4 Kf7 35. a4 Ke6 36. Bf6 Bd6 37.
+h5 Bf4 38. Bd8 d3+ 39. Kf2 e3+ 40. Kf3 e2 0-1
+
+[Event "FIDE World Rapid Championship"]
+[Site "St. Petersburg"]
+[Date "2018.12.27"]
+[Round "7.14"]
+[White "Kamsky, Gata"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2757"]
+[BlackElo "2674"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "79"]
+[EventDate "2018.??.??"]
+[WhiteTeam "United States"]
+[BlackTeam "Espana"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ESP"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 cxd4 5. exd4 Bf5 6. c3 Nc6 7. Qb3 Qc8 8.
+Be2 h6 9. O-O e6 10. Nbd2 Be7 11. Rfe1 O-O 12. h3 Ne4 13. Nxe4 Bxe4 14. Nd2 Bg6
+15. a4 Rd8 16. a5 Bd6 17. Bxd6 Rxd6 18. Qa3 Qc7 19. Nb3 Rad8 20. Bb5 f6 21. Nc5
+Bf7 {Diagram #} 22. a6 $1 {After the exchange of pawns White will activate his
+rook on a1 and the a7 pawn will become a target for the rest of the game. A
+simple but very effective move.} (22. Re2 $14) 22... bxa6 (22... b6 $2 23. Nb7
+{wins the exchange}) 23. Bxa6 Rb8 24. Bf1 Ra8 25. b4 $1 {
+Advancing the queenside majority.} Nd8 26. Qa5 $1 {
+I like the idea of exchanging queens to avoid complications.} Rb6 27. Na4 Rc6
+28. Qxc7 Rxc7 29. Nc5 Nb7 30. Ra6 e5 31. Rea1 Nxc5 32. dxc5 d4 33. cxd4 exd4
+34. Bd3 Rb8 35. Rxa7 Rxa7 36. Rxa7 Be8 (36... Rxb4 37. Ra8+ $18) 37. Ra6 $1
+Rxb4 38. c6 Kf7 39. c7 Bd7 40. Ra8 1-0
+

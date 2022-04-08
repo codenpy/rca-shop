@@ -1,0 +1,65 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.05.18"]
+[Round "?"]
+[White "4.g3 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "E20"]
+[Annotator "RCA"]
+[PlyCount "34"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 (4. Nf3 c5 5. g3 {Transposes into the main
+line in this section.} (5. e3 {Transposes to e3 lines.})) 4... c5 5. Nf3 cxd4
+6. Nxd4 Ne4 {In order to defend the c3 knight, White has now two options: Qd3
+is the main line and the recently popular Qc2.} 7. Qd3 (7. Qc2 {For many years
+this was considered a mistake. But now it has become a very popular move.} Qa5
+8. Bg2 $1 {This is the best move in this position. He is ready to sacrifice a
+pawn so that he will have a very strong bishop on the g2-a8 diagonal.} (8. Qxe4
+Bxc3+ $15) (8. Ndb5 {Is another option available to White, but I think it is
+hardly any good.} a6 9. Qxe4 axb5 10. Bd2 bxc4 11. Qxc4 Nc6 12. Bg2 d5 {Black
+has comfortably equalised and is maybe even slightly better. Check the game
+Lehmann-Miroschnichenko for more analysis.}) 8... Nxc3 9. O-O $1 {Surprisingly,
+the knight on c3 doesn't have any good squares to go to.} (9. bxc3 Bxc3+ 10.
+Bd2 Bxd2+ 11. Qxd2 Nc6 $15 {Is clearly in Black's favour.}) 9... Nc6 {I
+recommend this simple developing move. Any attempt to save the c3 knight just
+gives White an advantage. All these moves of the Black knight are analysed in
+the game Rogozenco-Fish.} 10. bxc3 (10. Nxc6 dxc6 11. bxc3 Bxc3 12. Rb1 O-O $11
+{White has an extra pawn and this time his lead in development is not so
+threatening, because the bishop on g2 has been blunted by the c6 pawn.}) 10...
+Bxc3 11. Nb3 Nd4 (11... Qe5 {Is an option that is analysed in our illustrative
+game.}) 12. Nxd4 Bxd4 (12... Bxa1 13. Nb3 $18) 13. Rb1 Bc5 $1 {Is the best
+move here, the analysis of which is done in the game Rogozenco-Fish.}) 7... Qa5
+8. Nb3 (8. Qxe4 Bxc3+ $15) (8. Bd2 Nxc3 9. Nb3 {Is a mere transposition.} Ne4
+10. Nxa5 Bxd2+ 11. Qxd2 Nxd2 12. Kxd2 Nc6 13. Nxc6 dxc6 $11) 8... Nxc3 9. Bd2 (
+9. Nxa5 Ne4+ 10. Bd2 (10. Kd1 Nxf2+ 11. Kc2 Nxd3 $19) 10... Bxd2+ 11. Qxd2 Nxd2
+12. Kxd2 Nc6 13. Nxc6 dxc6 $11 {And here I cannot believe that Black can be
+worse. He is equal and it can be an interesting endgame.}) 9... Ne4 $1 10. Qxe4
+{This is the only way for White to fight for an advantage.} (10. Nxa5 {Is
+again no good.} Bxd2+ 11. Qxd2 Nxd2 12. Kxd2 Nc6 $11) 10... Bxd2+ 11. Nxd2 O-O
+{Black completes his development. White, on the other hand, needs to play Bg2,
+defend the d2 knight and only then can he 0-0. In the meantime, Black will
+develop his pieces and capture the centre.} 12. Bg2 Nc6 13. Qe3 (13. Qd3 $5 {
+Is an interesting option for White, but not played so often.} d5 $1 {Black can
+play in an energetic fashion to gain the initiative in this position.} 14. cxd5
+exd5 15. Qxd5 {Taking the pawn seems like the most principled reaction but
+also the one that involves a lot risk because White has not 0-0 yet.} (15. O-O
+Be6 {Leaves Black with an isolated pawn, but not with any problems as he is so
+active.} 16. Nb3 Qb6 17. Rfd1 Rfd8 18. Rac1 Rac8 $11) 15... Qb4 16. Qb3 Rd8 $1
+17. Rd1 (17. Qc3 $5 {Is not an easy move for White to make.} Be6 18. Bxc6 Qxc3
+19. bxc3 bxc6 20. Kd1 Bf5 21. f3 Rd7 22. Kc1 (22. e4 Rad8 $17) 22... Bg6 {So
+as to meet e4 with f5.} 23. Rd1 (23. e4 f5 $1) 23... Re7 24. e4 f5 $132 {Truth
+be told, to play with the White pieces requires immense precision. He has an
+extra pawn but piece coordination is poor. While Black has to make natural
+moves and keep positing problems for White to solve, I think black should not
+be unhappy with his position. And how many people can find 17.Qc3!? A
+computer-like move!}) 17... Qa5 18. Qa3 Qxa3 19. bxa3 Nd4 20. Rc1 Bg4 21. Bxb7
+(21. e3 Rac8 $11) 21... Rab8 22. Bf3 Bh3 $44 {White is in some trouble here.
+He cannot easily develop and Black pieces are very active. Black has full
+compensation for the two pawns.}) 13... d5 {We continue naturally and break in
+the centre.} 14. O-O d4 15. Qd3 e5 (15... Rd8 {Is another opportunity, but I
+like this normal play with e5.}) 16. a3 f5 17. b4 Qc7 $13 {With a very
+interesting game.} *
+

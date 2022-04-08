@@ -1,0 +1,199 @@
+[Event "World Championship 13th"]
+[Site "Buenos Aires"]
+[Date "1927.10.15"]
+[Round "15"]
+[White "Capablanca, Jose Raul"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r2b1rk1/1b3pp1/pp2pn1p/8/7B/P1N1P3/1P1RBPPP/5RK1 b - - 0 17"]
+[PlyCount "26"]
+[EventDate "1927.09.16"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{Simplyfication is the easiest way to equality} 17... Ne4 $1 18. Nxe4 Bxh4 19.
+Nd6 Bd5 $1 (19... Bc6 20. Rc1) (19... Rfd8 20. Rd4 Bd5 21. Nxf7 Kxf7 22. Rxh4
+$16) 20. e4 Rfd8 21. Nxf7 Kxf7 22. exd5 Rxd5 23. Rxd5 exd5 24. Rd1 Bf6 25. Bf3
+Rc8 26. Bxd5+ Ke7 {almost by force we are having an endgame where White has an
+extra pawn but opposite color bishops is a sign of the coming draw} 27. b3 Bb2
+28. a4 Rc1 29. Rxc1 Bxc1 30. Bc4 1/2-1/2
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.11.12"]
+[Round "15"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[SetUp "1"]
+[FEN "r4rk1/pp1q1ppp/2np4/2b1p3/8/1P2P1PP/PB1P1PB1/R2Q1RK1 b - - 0 15"]
+[PlyCount "51"]
+[EventDate "1981.10.01"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+15... d5 {Taking control of the d5-square} (15... Bb6 {is worse:} 16. Qf3 Rfd8
+17. Qd5 Rab8 18. f4 $1 {with an attack}) 16. Bxe5 Nxe5 17. d4 Bd6 18. dxe5 Bxe5
+19. Rc1 d4 (19... Rad8 20. Rc5) 20. Rc5 Bf6 21. Rd5 Qc7 22. exd4 Rad8 {Black
+doesn`t mind to lose a pawn as the d-pawn is going to be blocked and the
+opposite colored bishops don`t promise White any winning chances} 23. Qc1 Qb6
+24. Rxd8 Rxd8 25. d5 g6 26. Bf3 Kg7 27. Re1 Rd7 28. Qf4 Re7 29. Rxe7 Bxe7 30.
+Kg2 a5 31. h4 h5 32. Be2 Bc5 33. Bc4 Qf6 34. Qd2 b6 35. a4 Qe5 36. Qd3 Qf6 37.
+Qd2 Qe5 38. Be2 Qe4+ 39. Bf3 Qe5 40. Bd1 Qe4+ 1/2-1/2
+
+[Event "Interpolis"]
+[Site "Tilburg"]
+[Date "1983.10.16"]
+[Round "4"]
+[White "Spassky, Boris V"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2710"]
+[SetUp "1"]
+[FEN "3q1bk1/3n1ppp/3p4/1Bp3N1/3Pb3/7P/1P3PP1/2BQ2K1 b - - 0 23"]
+[PlyCount "27"]
+[EventDate "1983.10.12"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+23... Bg6 $1 24. Bxd7 Qxd7 25. dxc5 25... Bf5 {
+for the pawn Black is getting the bishops pair and is simplifying the position}
+26. cxd6 Bxd6 27. Qf3 h6 28. Ne4 Be5 29. Nc3 Qd3 30. Qxd3 Bxd3 31. Nd5 31... f6
+{the black king is going to the center and the draw becomes inevitable} 32.
+Ne7+ Kf7 33. Nc6 Ke6 34. Nxe5 Kxe5 35. f3 h5 36. Be3 h4 1/2-1/2
+
+ f3 h5 36. Be3 h4 1/2-1/2
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Bakulin"]
+[Black "Dvoretsky, M."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5rk1/pp2nppp/3r4/3p4/N7/8/PPP2PPP/3RR1K1 b - - 0 1"]
+[PlyCount "17"]
+[EventDate "1974.??.??"]
+
+{Instead of defending passively after 1...Nc6 Black is exchanging rooks and
+transferring the game into the rook endgame} 1... Re6 (1... Nc6 2. Nc5 $14) 2.
+Nc5 (2. Rxe6 fxe6 3. Nc5 Rc8) 2... Rxe1+ 3. Rxe1 Rc8 4. Rxe7 Kf8 5. Rxb7 Rxc5
+6. c3 d4 7. Kf1 dxc3 8. bxc3 Rxc3 9. Rxa7 Rc2 {this is a theoretical draw}
+1/2-1/2
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "23"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2560"]
+[SetUp "1"]
+[FEN "2r2k2/pp3p2/3b2p1/2pN1nP1/3pR3/P2P4/1PP2PB1/5K2 b - - 0 33"]
+[PlyCount "94"]
+[EventDate "1992.09.??"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+{white position is more pleasant. 1...Kg7 was possible but Black prefers to
+simplify the position} 33... Re8 34. Rxe8+ Kxe8 35. Nf6+ Kd8 36. Bxb7 36... Bf4
+{Black lost a pawn but the weakness on g5 and the opposite color bishops
+should be enough for a draw} 37. Ne4 Bc1 38. a4 Bxb2 39. Nxc5 Bc1 40. Be4 (40.
+Ne4 40... Bf4 {/\Nd6}) 40... Bxg5 41. Bxf5 gxf5 42. Nb3 Bf6 43. Kg2 Kd7 44. Kg3
+44... Ke6 $11 45. Na5 Be5+ 46. Kh4 Bf6+ 47. Kh5 Kd5 48. Kh6 Kc5 49. Kh7 Kb4 50.
+Nc6+ Kc3 51. Kg8 Kxc2 52. Kxf7 Bh8 53. a5 Kxd3 54. a6 Ke2 55. Nxa7 d3 56. Nc6
+d2 57. a7 d1=Q 58. a8=Q Qd5+ 59. Kg6 Qe6+ 60. Kh7 Bc3 61. Nd8 Qe7+ 62. Kg6 Qf6+
+63. Kh5 Qh8+ 64. Kg6 Qg7+ 65. Kxf5 Qf6+ 66. Kg4 Qg6+ 67. Kf4 Bd2+ 68. Ke5 Bc3+
+69. Kf4 Qd6+ 70. Kf5 Qd7+ 71. Kg5 Qe7+ 72. Kf5 Qf6+ 73. Kg4 Qg7+ 74. Kf5 Qf6+
+75. Kg4 Qg6+ 76. Kf4 Bd2+ 77. Ke5 Qg5+ 78. Ke6 Qg4+ 79. Kf7 Qd7+ 80. Kg6
+1/2-1/2
+
+. Kf7 Qd7+ 80. Kg6
+1/2-1/2
+
+[Event "Candidates m3 g/45"]
+[Site "Wijk aan Zee"]
+[Date "1991.??.??"]
+[Round "12"]
+[White "Jussupow, Artur"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2620"]
+[SetUp "1"]
+[FEN "r3r1k1/pb3pbp/1p4p1/2p5/4P3/3N2PP/PP3PB1/2RR2K1 w - - 0 25"]
+[PlyCount "49"]
+[EventDate "1991.01.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+25. e5 $1 {Giving up the paw White is getting rid of black bishops and is
+activating his rook} 25... Bxg2 26. Kxg2 Bxe5 27. Nxe5 Rxe5 28. Rd7 a5 29. Rb7
+Re6 30. Rc3 Rd8 31. Rf3 f6 32. Rb3 Rdd6 33. g4 g5 34. a4 h6 35. h4 Re4 36. hxg5
+hxg5 37. Kg3 Ree6 (37... Rb4 38. Re3) 38. Kf3 Kf8 39. Kg2 Re4 40. Kg3 Rxa4 41.
+Re3 Rf4 42. Ree7 Rd3+ 43. Kg2 Rxg4+ 44. Kf1 {
+in spite of 3 extra pawn there is no win} 44... Rd8 45. Rf7+ Kg8 46. Rg7+ Kh8
+47. Rh7+ Kg8 48. Rhg7+ Kf8 49. Rgf7+ 1/2-1/2
+
+Rhg7+ Kf8 49. Rgf7+ 1/2-1/2
+
+[Event "URS-ch41"]
+[Site "Moscow"]
+[Date "1973.10.20"]
+[Round "13"]
+[White "Karpov, Anatoly"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2625"]
+[SetUp "1"]
+[FEN "3r1k1r/pb2bp2/1q2p1pp/3nP3/1pB5/5N2/PPRBQPPP/2R3K1 b - - 0 20"]
+[PlyCount "30"]
+[EventDate "1973.10.02"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+20... Rc8 $5 {inviting White to win the pawn though 20...Kg7 was possible too.
+May be Black was worried about 21.h4} 21. Bxd5 Rxc2 22. Rxc2 Bxd5 23. Rc8+ Kg7
+24. Rxh8 Kxh8 25. Bxh6 25... Qc7 {
+thanks to his active pieces Black has enough compensation for the pawn} (25...
+Bxa2 26. Ng5 $36) 26. b3 Qc3 27. h4 a5 28. Bg5 Bxf3 29. Qxf3 Bxg5 30. hxg5 Qa1+
+31. Kh2 Qxe5+ 32. Qg3 Qb2 33. Qb8+ Kg7 34. f4 Qxa2 35. Qe5+ 1/2-1/2
+
+4. f4 Qxa2 35. Qe5+ 1/2-1/2
+
+[Event "New York Manhattan CC"]
+[Site "New York"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Marshall, Frank James"]
+[Black "Capablanca, Jose Raul"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2r2k1/pb3ppp/1pp1q3/8/3NP3/2Q5/PP3PPP/2R1R1K1 b - - 0 18"]
+[PlyCount "43"]
+[EventDate "1918.10.23"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{Black position looks dangerous due to the white combination queen+knight and
+the central e-pawn} 18... Qe5 $1 ({after} 18... Qd7 19. Nf5 f6 20. Qg3 Kh8 21.
+Rcd1 Qf7 22. h4 {White has an initiative}) 19. Nxc6 Qxc3 20. Rxc3 20... Rd2 {
+this position Black was aiming for when playing 18...Qe5. An active rook and
+the unfortunate position of the knight on c6 are compensatingthepawn} 21. Rb1
+$2 ({better was} 21. Ne7+ 21... Kf8 22. Rc7 Re8 23. Rxb7 Rxe7 24. Rb8+ Re8 25.
+Rxe8+ 25... Kxe8 {but here too, Black is not in danger of losing}) 21... Re8
+22. e5 22... g5 {preventing f2-f4} 23. h4 23... gxh4 {
+here already Black is slightly better} 24. Re1 Re6 25. Rec1 Kg7 26. b4 b5 27.
+a3 Rg6 28. Kf1 Ra2 29. Kg1 h3 30. g3 a6 31. e6 Rxe6 32. g4 Rh6 33. f3 Rd6 34.
+Ne7 Rdd2 35. Nf5+ Kf6 36. Nh4 Ke5 37. Nf5 Rg2+ 38. Kf1 h2 39. f4+ Kxf4 0-1
+
+ Rg2+ 38. Kf1 h2 39. f4+ Kxf4 0-1
+

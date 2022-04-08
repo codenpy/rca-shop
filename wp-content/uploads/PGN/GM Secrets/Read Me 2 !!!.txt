@@ -1,0 +1,13 @@
+IMPORTANT
+==========
+
+-----------------------------
+The PRACTICAL part:
+-----------------------------
+
+The task folders are NOT presented in consecutive order. This is CORRECT and you do not miss something. 
+
+You should use a graphical menu of the course (file "autorun.exe") that will guide you through the course. Use this menu and follow the presented instructions to ensure a flawless study of the course.
+
+Not all the tasks contain chess games. That's why not all the tasks are presented in these folders. 
+You should read the instruction for a certain task from the e-book. If it's necessary - go to the task's folder and perform the task. If it's not required - just perform the task following the corresponding instruction from the e-book.  

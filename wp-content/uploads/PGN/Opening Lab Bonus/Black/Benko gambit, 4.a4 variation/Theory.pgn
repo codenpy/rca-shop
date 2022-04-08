@@ -1,0 +1,45 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko gambit, 4.a4 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "A57"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "26"]
+[SourceDate "2013.12.24"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. a4 {In this variation White is trying to keep
+the queen-side position closed. That's why it is difficult for Black to use
+the standard plan - an attack on the queen-side. Therefore Black should change
+his plan.} b4 {This move gives Black a space advantage on the queen-side. In
+particular, b4-pawn does not allow the White's knight to go to c3.} (4... bxc4
+{Although it's a possible option, it gives White a very simple game.} 5. Nc3 d6
+6. e4 g6 7. Bxc4 Bg7 8. Nf3 {It is difficult for black to develop an attack on
+the queen-side in such situations. Hence Black should not go into this line.})
+5. b3 {White may use other ways of development, but Black will use a similar
+set up of his pieces in all the variations.} g6 6. Bb2 {White's b2-bishop is
+good, but it's counterpart on g7 is not worse.} Bg7 7. e4 {White is using a
+pin to advance in a center.} d6 {Preventing the eventual e5-move, and opening
+a diagonal for Black's light-squared bishop.} (7... Nxe4 $4 8. Bxg7) 8. Bd3 (8.
+Nf3 {doesn't change much} O-O 9. Bd3 e5 {with a transposition into the main
+line}) 8... O-O 9. Nf3 e5 $1 {This is a key move for Black in this variation.
+Since Black can't attack on the queen-side anymore, he should start playing in
+the center. The e5-pawn makes a lot of good things for black: 1) Prevents
+white from playing e5. 2) Makes the white's b2-bishop totally passive. 3)
+Allows black to attack on the king-side in the future by playing f5.} 10. dxe6
+(10. O-O Nh5 {Black's main plan here is to attack on the king-side. His
+typical maneuvers are: 1) Nh5-f4; 2) Bh6 to put this bishop on an open
+diagonal; 3) f5-f4 with the future pawn assault on the king-side.}) 10... Bxe6
+{After an exchange of d5-pawn, Black has more free space and can develop his
+pieces to the most active squares.} 11. O-O Nc6 12. Nbd2 Ng4 $1 {Black is
+going to occupy dark squares in a center with his minor pieces.} (12... Re8 {
+Alternatively Black may bring his rooks into play first.}) 13. Bxg7 Kxg7 {In
+this pawn structure Black's light-squared bishop is a good one, while the
+white's d3-bishop is a bad one. In addition to that Black can exploit White's
+weakened dark squares. The typical maneuvers for Black are: 1) Qf6 to increase
+the control over the dark sqaures; 2) Ng4-e5; 3) Nc6-d4; 4) Re8 to put the
+rook on an open file. After that Black will have all the pieces on the most
+active squares and will dominate in the center.} *
+

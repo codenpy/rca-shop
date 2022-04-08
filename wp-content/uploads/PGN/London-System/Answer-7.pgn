@@ -1,0 +1,16 @@
+﻿[Event "Schweden"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Svenn"]
+[Black "Kinnmark"]
+[Result "1-0"]
+[Annotator "T1A"]
+[SetUp "1"]
+[FEN "4rbnk/2pq2pp/p2p1p2/1p1P2N1/1P1P4/4BQ1P/P4PP1/5RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1971.??.??"]
+[EventType "game"]
+
+1. Qf5 Qxf5 2. Nf7# 1-0
+

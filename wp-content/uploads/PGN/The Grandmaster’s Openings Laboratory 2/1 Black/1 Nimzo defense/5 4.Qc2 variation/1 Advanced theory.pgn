@@ -1,0 +1,54 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.05.18"]
+[Round "?"]
+[White "4.Qc2 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "E32"]
+[Annotator "RCA"]
+[PlyCount "26"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 {This is one of the most critical
+variations in the Nimzo Indian. The main advantage of this move is that White
+wants to get the bishop pair without ruining his pawn structure. Of course, if
+he gains something, he also loses something; and in this case he is losing
+time and falling behind in development, which Black can take advantage of by
+developing as quickly as possible.} O-O $1 {Now White has two choices. the
+very popular a3 and the aggressive e4.} 5. a3 (5. e4 $5 {Is very interesting.}
+d5 6. e5 Ne4 7. Bd3 c5 8. Nf3 (8. Nge2 {Now we can just take on d4 and
+transpose into the main line - or we could play something different just so
+that you have two choices.} Nc6 9. cxd5 exd5 10. O-O cxd4 11. Nxd5 Qxd5 12.
+Bxe4 Qxe5 13. Bxh7+ Kh8 {Is the very interesting position that you can reach
+out of this opening.}) 8... cxd4 9. Nxd4 {Leads to the main position analysed
+in the game Mekhitarian-Mareco.} Nd7 10. Bf4 Ndc5 11. O-O Bxc3 12. bxc3 Bd7 $5)
+5... Bxc3+ 6. Qxc3 b5 $1 {The Adorjan Gambit named after the highly original
+player Andras Adorjan. The main point of this move is to open up the position
+before White can develop his pieces.} 7. cxb5 (7. Qf3 {A surprising move - but
+if Black knows what to play, then Black will take the initiative.} Nc6 (7... c6
+{Is a possibility.}) 8. cxb5 Nxd4 9. Qxa8 Nc2+ 10. Kd1 Nxa1 {Black has the
+advantage.} 11. Qxa7 c6 $44) 7... c6 8. Bg5 $1 {This move, pinning the knight,
+is a very unpleasant one.} (8. bxc6 Nxc6 9. e3 Bb7 {Followed by Rc8 and Na5
+will give Black more than enough compensation.}) (8. f3 $5 {White is trying to
+build a strong centre but Black now has a very powerful move...} Nd5 $1 9. Qd3
+cxb5 10. e4 Nb6 {And in the game Karpov-Ghaem Maghami, Black was able to play
+excellently and won the game. This game is analysed in quite a lot of detail.})
+(8. e3 cxb5 9. Bxb5 Ne4 {Followed by Nd6 and Ba6 gives Black a very good
+position.}) (8. Qg3 {Was played against me recently by a strong IM. I think it
+only has surprise value. Objectively, moving the queen again is not such a
+good idea.} Ne4 9. Qd3 d5 $11 {I think Black has a very good position.} 10.
+bxc6 $2 Ba6 11. Qc2 Qb6 {With Rc8 coming up and Nc6, Black has very
+threatening activity.}) 8... cxb5 9. e3 Bb7 10. Nf3 h6 11. Bh4 (11. Bxf6 Qxf6
+12. Be2 Rc8 13. Qd3 a6 14. O-O Nc6 15. Rfc1 Na5 16. Nd2 Bd5 17. b3 Rxc1+ 18.
+Rxc1 Qe7 19. b4 Nc4 $11) 11... a6 12. Bd3 Nc6 13. O-O Rc8 $11 {Is analysed in
+the game Zhukova-Hunt. This position holds a lot of possibilities for both
+sides, but I think Black is totally fine. CONCLUSION: the general thing that I
+would like to say about the pawn sacrifice with b5 is that there aren't many
+variations. It's more important to know the ideas and typical motifs of
+creating counterplay. If you know that, then you can be confident even if your
+opponent produces some novelty; and the way to learn this is to keep seeing
+many games in this line and trying to guess the moves of the Black player 
+(good players).} *
+

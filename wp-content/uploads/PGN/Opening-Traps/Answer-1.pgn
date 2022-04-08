@@ -1,0 +1,14 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Legal's Trap"]
+[Black "Natural Move Order"]
+[Result "*"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "r2qkbnr/ppp2ppp/2np4/4N3/2B1P3/2N4P/PPPP1PP1/R1BbK2R w KQkq - 0 7"]
+[PlyCount "3"]
+
+7. Bxf7+ Ke7 8. Nd5# {Cheron - Jeanlose (simul)} *
+

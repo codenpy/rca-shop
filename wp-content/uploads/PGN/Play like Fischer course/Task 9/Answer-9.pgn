@@ -1,0 +1,734 @@
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.07.11"]
+[Round "1"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[ECO "E56"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "5k2/pp4pp/3bpp2/1P6/8/P2KP3/5PPP/2B5 b - - 0 29"]
+[PlyCount "54"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+29... Bxh2 $2 {Fischer intended to win the World Chess Championship Match at
+any cost. He had a very fighting spirit and, because of that, he was ready to
+complicate the game at every turn. His move was objectively wrong and he took
+great risk. He sacrificed his only piece, the bishop, in order to advance his
+pawns.} (29... Ke7 30. h3 e5 31. -- Ke6 $11) 30. g3 h5 31. Ke2 h4 32. Kf3 Ke7 (
+32... h3 33. Kg4 Bg1 34. Kxh3 Bxf2 35. Bd2 $1 $18 {
+The bishop is totally trapped.}) 33. Kg2 hxg3 34. fxg3 Bxg3 35. Kxg3 Kd6 $16 {
+White has a big advantage, but the game is not over yet.} 36. a4 Kd5 37. Ba3
+Ke4 $2 (37... a6 $1 {This is the best practical move. Black should try to
+exchange all the pawns to be able to achieve the draw.} 38. Bf8 $1 {
+This is the only winning chance.} (38. b6 $2 Kc6 39. a5 Kb5 $11 {
+White must fight for the draw here.}) 38... axb5 39. axb5 Ke4 $5 (39... g6 $5)
+40. Kf2 $1 g6 41. Be7 f5 42. Bg5 e5 43. Kg3 f4+ 44. exf4 exf4+ 45. Kf2 b6 $11)
+38. Bc5 $1 {White has a very dominant position now.} a6 (38... b6 39. Bxb6 $1
+axb6 40. a5 $18) 39. b6 $1 f5 (39... e5 40. Kg4 g6 41. Kg3 $1 f5 42. Kh4 f4 43.
+exf4 Kxf4 (43... exf4 44. Kg5 $18) 44. Be7 $1 e4 45. Bg5+ Kf3 46. Bc1 $1 e3 47.
+Kg5 e2 48. Bd2 Kf2 49. Kxg6 $18 {
+White is winning because he will capture the pawns on the queenside.}) 40. Kh4
+f4 41. exf4 Kxf4 42. Kh5 $1 {
+The king is a very active piece in the endgame and we should use it!} Kf5 43.
+Be3 Ke4 44. Bf2 Kf5 45. Bh4 e5 46. Bg5 e4 47. Be3 Kf6 48. Kg4 Ke5 49. Kg5 Kd5
+50. Kf5 a5 (50... Kc4 51. Kxe4 Kb4 52. Kd5 Kxa4 53. Kd6 Kb5 54. Kc7 $18) 51.
+Bf2 {Zugzwang} g5 52. Kxg5 Kc4 53. Kf5 Kb4 54. Kxe4 Kxa4 55. Kd5 Kb5 56. Kd6 (
+56. Kd6 a4 57. Kc7 Ka6 58. Bc5 Kb5 59. Bf8 Ka6 60. Be7 $18) 1-0
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.07.16"]
+[Round "3"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A77"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pp1n1pbp/3p1np1/2pP4/4P3/2N5/PPQNBPPP/R1B2RK1 b - - 0 11"]
+[PlyCount "61"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+11... Nh5 $5 {A very interesting and aggressive move! Fischer was behind in
+the match with 0-2, and he wanted to come back and play aggressively. The idea
+is to attack on White's kingside.} 12. Bxh5 (12. g3 Ne5 13. f4 Ng4 14. Nc4 Bxc3
+{With the idea of b5.}) (12. Rd1 Nf4 13. Bf1 Ne5 14. Nc4 g5 $1 {
+Black has good chances to attack.}) 12... gxh5 13. Nc4 Ne5 14. Ne3 Qh4 {
+The queen is the most powerful piece and we should place it close to the
+opponent's kingside.} 15. Bd2 (15. f3 $1 {
+This is a nice move that stops Black's attack.}) 15... Ng4 16. Nxg4 hxg4 {
+Black has a better position because his pieces are more active. The e4-pawn is
+weak and under attack. Black can easily block it on e5 and double the rooks on
+the e-line.} 17. Bf4 (17. Ne2 $5 Bf5 18. Ng3 (18. exf5 Rxe2 $17) 18... Bg6)
+17... Qf6 18. g3 $2 (18. Bg3 $1) 18... Bd7 19. a4 b6 {
+With the idea of a6 and b5. Black made a brilliant game that he won afterwards.
+} (19... a6 $2 20. a5) 20. Rfe1 a6 21. Re2 b5 $1 22. Rae1 (22. axb5 axb5 23.
+Rxa8 Rxa8 24. e5 dxe5 25. Rxe5 b4 26. Ne4 (26. Nb1 Qg6 $1 $17) 26... Ra1+ 27.
+Kg2 Qa6 $19 {With the idea of Qf1.}) 22... Qg6 23. b3 Re7 24. Qd3 Rb8 25. axb5
+axb5 26. b4 $8 c4 (26... cxb4 27. Na2) 27. Qd2 Rbe8 28. Re3 h5 29. R3e2 Kh7 30.
+Re3 Kg8 31. R3e2 Bxc3 32. Qxc3 Rxe4 33. Rxe4 Rxe4 34. Rxe4 Qxe4 $19 35. Bh6 Qg6
+36. Bc1 Qb1 37. Kf1 Bf5 38. Ke2 Qe4+ 39. Qe3 Qc2+ 40. Qd2 Qb3 41. Qd4 (41. Ke1
+Qf3 42. Qg5+ Bg6 43. Qe3 Qh1+ 44. Kd2 Qxd5+ $19) 41... Bd3+ $1 (41... Bd3+ 42.
+Ke1 (42. Kd2 Qc2+ 43. Ke1 Qxc1#) (42. Ke3 Qd1 $1 43. Qb2 Qf3+ 44. Kd4 Qe4+ 45.
+Kc3 Qe1+ $1 46. Qd2 Qe5#) 42... Qxb4+ $19) 0-1
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.07.18"]
+[Round "4"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[ECO "B88"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "b4rk1/5pp1/3Np3/p1b1P1q1/2B4p/P7/1PP1Q1PP/3R3K w - - 0 24"]
+[PlyCount "43"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+24. h3 $6 {This is a critical position. Spassky was very well prepared and he
+managed to get a strong attack. Thus, White has limited available options and,
+at the same time, he could defend very accurately. Any mistake or some small
+inaccuracies can cost the game.} (24. Ne4 $1 {
+The best defensive method was to bring the knight back to the kingside.} Qxe5
+25. Nxc5 Qxc5 26. h3 $11) (24. Rd3 $2 Bxg2+ 25. Qxg2 Qc1+ $19) 24... Be3 {
+With the idea of Bf4 and Qg3.} 25. Qg4 Qxe5 (25... Qxg4 26. hxg4 h3 (26... Bf4
+27. Be2 $1 Bxe5 28. Nc4 {With the idea of Bf3.}) 27. Bf1 Bf4 28. Nc4 $10) 26.
+Qxh4 (26. Nxf7 $2 Kxf7 27. Bxe6+ Kf6 $1 (27... Qxe6 $4 28. Rd7+ $18) 28. Rf1+
+Ke7 $19) 26... g5 $1 {Spassky is fighting for the dark squares.} (26... Bg5 $5
+27. Qd4 Qxd4 (27... Qg3 $2 28. Ne4 Bxe4 29. Qxe4 Bf4 30. Kg1 $1) 28. Rxd4 Bf6
+$17) (26... Qxb2 $5) 27. Qg4 Bc5 28. Nb5 Kg7 {With the idea of Rh8 and Rh4!}
+29. Nd4 Rh8 (29... Bd6 30. Nf5+ $1 exf5 31. Qxg5+ Kh7 32. Qh5+ $11) 30. Nf3
+Bxf3 31. Qxf3 Bd6 $2 $10 {
+The danger has passed. Fischer manages to draw the game afterwards.} (31... Rh4
+$1 {With attack.}) 32. Qc3 Qxc3 33. bxc3 Be5 34. Rd7 Kf6 35. Kg1 Bxc3 36. Be2
+Be5 37. Kf1 Rc8 38. Bh5 Rc7 39. Rxc7 Bxc7 40. a4 Ke7 41. Ke2 f5 42. Kd3 Be5 43.
+c4 Kd6 44. Bf7 Bg3 45. c5+ 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.07.20"]
+[Round "5"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E41"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r1bq1rk1/p5p1/1p3npp/2pPp3/P1P1P3/2PBB3/6PP/R2Q1RK1 b - - 0 16"]
+[PlyCount "23"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+16... a5 $1 {This is a very strong idea. White cannot organize an attack on
+the queenside and it is almost impossible to attack the weak b6-pawn. On the
+other hand, Fischer has stopped the a4-pawn to attack it later on.} 17. Rb1 Bd7
+18. Rb2 Rb8 {He is over-protecting the b6-pawn and starting to attack the
+a4-pawn at the same time.} 19. Rbf2 Qe7 20. Bc2 g5 {Black has made of f4 a
+very strong square and he is planning to place his knight there. Black has a
+very good positional advantage and active pieces. Please note that the b8-rook
+can be easily transferred to the f-line.} 21. Bd2 Qe8 {
+Black is in total domination and he manages to win the game afterwards.} 22.
+Be1 Qg6 23. Qd3 Nh5 24. Rxf8+ Rxf8 25. Rxf8+ Kxf8 26. Bd1 Nf4 27. Qc2 Bxa4 (
+27... Bxa4 28. Qxa4 Qxe4 29. Bf3 Qxe1#) 0-1
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.07.23"]
+[Round "6"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[ECO "D59"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "rnr3k1/p3qpp1/1p2b2p/2pp4/3P4/Q3PN2/PP3PPP/2R1KB1R w K - 0 14"]
+[PlyCount "55"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+14. Bb5 $1 {This was a very new idea at that time. Fischer is playing against
+the knight. He would like to isolate Black's c5- and d5-pawns. Those pawns are
+called hanging pawns.} a6 (14... Kf8 15. dxc5 bxc5 $5 (15... Rxc5 $5 16. Rxc5
+Qxc5 $1 17. Kd2 (17. Qxc5+ bxc5 18. Kd2 Ke7 19. Rc1 Kd6) 17... Qxa3 18. bxa3
+Nd7 19. Bxd7 Bxd7 20. Ne5 Be8 21. Rc1 Ke7 $14) 16. b3 c4 17. Qxe7+ Kxe7 18. Nd4
+a6 19. Ba4 $14) (14... Qb7 15. dxc5 bxc5 16. Rxc5 Rxc5 17. Qxc5 a6 18. Bd3 Qxb2
+19. O-O Nd7 (19... Qxa2 $2 20. Nd4) 20. Qc6 Rb8 21. Nd4 Qb6 22. Rc1 $14) 15.
+dxc5 bxc5 16. O-O Ra7 17. Be2 {White has active pieces and he expects to bring
+his rooks against Black's hanging pawns.} Nd7 18. Nd4 $1 {This was another
+very strong move! White managed to use the unprotected queen to create a
+favorable situation for himself: a middlegame position with bishop vs knight.
+Black has a lot of pawn weaknesses and Fischer manages to win the game
+atferwards.} Qf8 (18... Kf8 $142 $5 $16) 19. Nxe6 $1 fxe6 20. e4 d4 21. f4 Qe7
+22. e5 Rb8 23. Bc4 Kh8 24. Qh3 Nf8 25. b3 a5 26. f5 exf5 27. Rxf5 Nh7 28. Rcf1
+Qd8 29. Qg3 Re7 30. h4 Rbb7 31. e6 $1 Rbc7 32. Qe5 Qe8 33. a4 Qd8 34. R1f2 Qe8
+35. R2f3 Qd8 36. Bd3 Qe8 37. Qe4 Nf6 38. Rxf6 gxf6 39. Rxf6 Kg8 40. Bc4 {
+With the idea of Rf7.} Kh8 41. Qf4 1-0
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.07.25"]
+[Round "7"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "3r3r/5pk1/1p1N3p/1N1n2p1/P4p2/4b1P1/2P1R2P/5R1K b - - 0 30"]
+[PlyCount "38"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+30... Bc5 $5 {Black is a pawn up and has a big positional advantage. Fischer's
+decision was to regroup his pieces in order to put the knight on e3. This
+wasn't a bad decision, however, it was much better to activate his king.} (
+30... Kg6 $142 $1 31. c4 Nf6 32. Rg2 (32. a5 bxa5 33. gxf4 Bxf4 34. c5 Ne8 $19)
+32... Nh5 $1 $17) 31. Nb7 Rc8 (31... Ne3 $1 $19 {When you start with a plan,
+you should follow it. Tactics justify this strategic rule.} 32. Rfe1 (32. Nxd8
+Nxf1) 32... f3 $1 33. Rf2 (33. Nxd8 Rxd8 34. Rf2 Ng4 35. Rxf3 Rd2 $1 $19) 33...
+Ng2) 32. c4 Ne3 33. Rf3 Nxc4 34. gxf4 g4 35. Rd3 h5 36. h3 $1 Na5 37. N7d6 Bxd6
+38. Nxd6 Rc1+ 39. Kg2 Nc4 40. Ne8+ Kg6 41. h4 f6 42. Re6 Rc2+ 43. Kg1 (43. Kg3
+Rf8 {With the strong idea os 44... Nd2 and 45... Nf1#}) 43... Kf5 44. Ng7+ Kxf4
+(44... Kg6 $2 45. f5+ Kxg7 46. Rd7+ Kf8 47. Rd8+ Kf7 (47... Kg7 48. Re7+ Kh6
+49. Rxh8#) 48. Rxh8 $19) 45. Rd4+ Kg3 (45... Kf3 46. Rd3+ $10) 46. Nf5+ Kf3 47.
+Ree4 Rc1+ 48. Kh2 Rc2+ 49. Kg1 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.07.27"]
+[Round "8"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[ECO "A39"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "1r4k1/4ppbp/p2p1np1/q7/2b5/2N3P1/P2QPPBP/2RR2K1 b - - 0 19"]
+[PlyCount "36"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+19... Nd7 $2 {This is a mistake. The best move was queen to h5.} (19... Qh5 $5
+20. Nd5 Bxd5 21. Bxd5 Nxd5 22. Qxd5 Qxe2 23. Re1 Qb2 24. Qd3 $16 {
+With the threat of Rb1.}) (19... Kf8 $2 20. Nd5 Qxa2 21. Nxe7 $18) 20. Nd5 $1 {
+Spassky didn't play accurately and he lost material. Fischer, and every strong
+player in the world, is capable of punishing small mistakes.} Qxd2 21. Nxe7+
+Kf8 22. Rxd2 Kxe7 23. Rxc4 $18 Rb1+ 24. Bf1 Nc5 25. Kg2 {White has won the
+Exchange and he manages to win the game without many troubles.} a5 26. e4 Ba1
+27. f4 f6 28. Re2 Ke6 29. Rec2 Bb2 30. Be2 h5 31. Rd2 Ba3 32. f5+ gxf5 33.
+exf5+ Ke5 34. Rcd4 Kxf5 35. Rd5+ Ke6 36. Rxd6+ Ke7 37. Rc6 1-0
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.01"]
+[Round "9"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r4rk1/1b3ppp/1qn1p3/8/1p1PP3/3B1N2/3Q1PPP/1R3RK1 b - - 0 18"]
+[PlyCount "23"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+18... Nxd4 {Black's position is cramped. Black pieces are not active and White
+has a great potential for creating a passed pawn in the center, so he develops
+some attacking threats against Black's kingside. Hence, Fischer understood the
+dangers and exchanged the d- for his b-pawn.} (18... Rfd8 $2 19. d5 exd5 20.
+exd5 Ba6 (20... Rxd5 $4 21. Bxh7+ $18) 21. Ng5 $36) 19. Nxd4 Qxd4 20. Rxb4 Qd7
+{After this forcing development of the game, Black has a nice pin across the
+d-line, although it is not so serious.} 21. Qe3 (21. Rfb1 $2 Ba6) 21... Rfd8 (
+21... Ra3 $2 22. Bb5 $1 $18) 22. Rfb1 {White avoided the small traps and,
+after some more exchanges, the game ended in a draw.} Qxd3 23. Qxd3 Rxd3 24.
+Rxb7 g5 25. Rb8+ Rxb8 26. Rxb8+ Kg7 27. f3 Rd2 28. h4 h6 29. hxg5 hxg5 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.03"]
+[Round "10"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "r3rbk1/1b3ppp/p4n2/Ppp5/2P1Pq2/7P/1BBN1PP1/1R1QR1K1 w - - 0 22"]
+[PlyCount "69"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+22. Bxf6 {This is definitely a critical position for White because he has a
+lot of good options. Fischer exchanges the key defender, f6-the knight, and he
+is dreaming to attack Black's kingside one day.} (22. e5 $5 Rad8 (22... Nd7 23.
+e6 $1) 23. exf6 $1 Rxe1+ 24. Qxe1 Qxd2 25. fxg7 Qxc2 26. gxf8=Q+ Kxf8 27. Ba3
+$14) (22. Re3 $5) 22... Qxf6 23. cxb5 Red8 (23... Rad8 $5 24. Qc1 Qc3 25. bxa6
+Bxa6 26. Ba4 $14) (23... axb5 $5 24. Rxb5 Ba6 25. Rb1 $11 {
+The position is unclear with good chances for both sides.}) 24. Qc1 Qc3 (24...
+Qf4 $6 25. Nf3 Qxc1 26. Rexc1 axb5 27. Rxb5 Ba6 28. Rbb1 $16 {Now it is a bit
+more difficult for Black to create a counterplay. White has a small plus.}) 25.
+Nf3 {Step by step, White is bringing his pieces close to Black's kingside.}
+Qxa5 (25... c4 $5 {With the idea of 26... Ba3} 26. b6 Ba3 27. Qe3 $1) (25...
+axb5 $6 26. Rxb5 Ba6 27. Re3 $16) 26. Bb3 $1 {
+White has a clear target, the pawn on f7...} axb5 27. Qf4 Rd7 (27... c4 28.
+Bxc4 bxc4 29. Rxb7 $14) 28. Ne5 Qc7 29. Rbd1 $1 {The final tactical finesse!
+Again, Fischer uses the same rule to exchange the key defensive piece. After
+that, Black's position is collapsing. You may enjoy the rest of this brilliant
+game.} Re7 $6 (29... Rad8 $5 30. Bxf7+ Rxf7 (30... Kh8 $2 31. Ng6+ hxg6 32.
+Qh4#) 31. Qxf7+ Qxf7 32. Nxf7 Rxd1 33. Rxd1 $16) (29... Rxd1 $4 30. Bxf7+ Kh8
+31. Ng6+ hxg6 32. Qh4#) 30. Bxf7+ Rxf7 31. Qxf7+ Qxf7 32. Nxf7 Bxe4 33. Rxe4
+Kxf7 34. Rd7+ Kf6 35. Rb7 Ra1+ 36. Kh2 Bd6+ 37. g3 b4 38. Kg2 h5 (38... Be5 $5
+39. f4 Bd4 40. g4 Ra2+ 41. Kf1 Ra3 42. h4 b3 43. f5 $18) 39. Rb6 Rd1 40. Kf3
+Kf7 (40... g5 $5) 41. Ke2 Rd5 42. f4 $1 {With the idea of Rb5.} (42. Rb5 g6 43.
+Rexb4 $4 Re5+) 42... g6 43. g4 $1 {He stops Rf5, so Black has no counterplay.}
+(43. Rb5 Rf5) 43... hxg4 44. hxg4 g5 45. f5 Be5 46. Rb5 Kf6 (46... Bd4 47. Rb7+
+Kf8 48. Ree7 $18) 47. Rexb4 Bd4 48. Rb6+ Ke5 49. Kf3 Rd8 50. Rb8 Rd7 51. R4b7
+Rd6 52. Rb6 Rd7 53. Rg6 Kd5 54. Rxg5 Be5 55. f6 Kd4 56. Rb1 $1 (56. Rb1 Bxf6
+57. Rd1+ Kc4 58. Rxc5+ Kxc5 59. Rxd7 $18) 1-0
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.06"]
+[Round "11"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r3kb1r/1p1b1p2/p3pp2/3P1n1p/1qP2P2/1N2Q3/P3B1PP/RN3R1K w k - 0 18"]
+[PlyCount "27"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+18. Qd3 $1 {Spassky was at that time a great player and he knew the basic
+strategic rules. He centralizes the queen and prevents Black's potential
+threats at the same time.} h4 {
+Black is dreaming with a check on g3, but this attack won't work.} (18... exd5
+$5 19. Nc3 $1 dxc4 20. Qe4+ Be7 21. Nd5 $16) (18... Rc8 $5) 19. Bg4 {This maneu
+ver stops Black's intentions. White can block the check on h3 and he is ready
+to eliminate the strong knight from f5.} Nd6 (19... Ng3+ $2 20. hxg3 hxg3+ 21.
+Bh3) 20. N1d2 f5 21. a3 {
+A counterblow! Spassky is using Fischer's techniques in order to win him!} Qb6
+(21... Qa4 22. Nc5 Qa5 23. Nxd7 Kxd7 24. dxe6+ fxe6 25. Nb3 Qd8 26. c5 $18) 22.
+c5 Qb5 23. Qc3 fxg4 24. a4 h3 25. axb5 hxg2+ 26. Kxg2 Rh3 27. Qf6 Nf5 28. c6
+Bc8 29. dxe6 fxe6 30. Rfe1 Be7 31. Rxe6 1-0
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.08"]
+[Round "12"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[ECO "D66"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "r4rk1/qb1n1pp1/p3pn1p/8/1b1NB3/2N1P1B1/1P3PPP/2RQ1RK1 w - - 0 21"]
+[PlyCount "70"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+21. Nc6 $1 {
+It's a nice move which is forcing his opponent to give up the bishop pair.}
+Bxc6 22. Bxc6 Rac8 23. Na4 {
+He is protecting the c6-bishop and controlling the c5- and b6-squares.} Rfd8
+24. Bf3 a5 25. Rc6 {The prophylactic Qe2 was better.} (25. Qe2 $5) 25... Rxc6
+26. Bxc6 Rc8 27. Bf3 Qa6 28. h3 $1 {White creates a flight square for his king.
+} Qb5 29. Be2 Qc6 30. Bf3 Qb5 31. b3 Be7 32. Be2 Qb4 33. Ba6 Rc6 34. Bd3 Nc5
+35. Qf3 Rc8 (35... Nce4 $1 {This was the best move to block the white bishops.
+After a hard-fought game, the result was a draw. This was a well played game
+from both players.} 36. Be5 Rc8 37. Bxf6 Nxf6 38. Rb1 $15) 36. Nxc5 Bxc5 37.
+Rc1 Rd8 (37... Qxb3 $4 38. Rxc5 Rxc5 39. Qa8+ Qb8 40. Qxb8+ Rc8 41. Qxc8+ Ne8
+42. Qxe8#) 38. Bc4 Qd2 39. Rf1 Bb4 40. Bc7 Rd7 41. Qc6 {
+With the idea of 42.e4 and 43.e5} Qc2 42. Be5 Rd2 43. Qa8+ Kh7 44. Bxf6 gxf6
+45. Qf3 f5 46. g4 Qe4 47. Kg2 Kg6 48. Rc1 Ba3 49. Ra1 Bb4 50. Rc1 Be7 {
+With the idea of 51... Bh4} 51. gxf5+ exf5 52. Re1 Rxf2+ (52... Bh4 53. Re2 $11
+) 53. Kxf2 Bh4+ 54. Ke2 Qxf3+ 55. Kxf3 Bxe1 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.10"]
+[Round "13"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r3r3/5k2/3Pp1p1/1ppbBpP1/p7/2P4P/2P4K/3R1R2 b - - 0 37"]
+[PlyCount "75"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+37... Rh8 $1 {The best practical choice!  It is not a good decision for White
+to capture the h8-rook because the d6-pawn would become very weak. Black would
+have a very solid position thanks to his d5-bishop. The a4-pawn could create a
+lot of problems in the future.} 38. Bf6 (38. Bxh8 Rxh8 $44) 38... a3 39. Rf4 a2
+{Black's position is winning. The a2-pawn is super-powerful and threatens to
+promote to a new queen.} 40. c4 $5 {A cool idea! However, White cannot make
+the Exchange sacrifice on c4 because it will not work tactically. White's idea
+is to control the a1-square with the f6-bishop.} Bxc4 41. d7 (41. Rxc4 $2 bxc4)
+41... Bd5 42. Kg3 Ra3+ 43. c3 Rha8 (43... a1=Q $5 44. Rxa1 Rxa1 45. Rh4 $5 f4+
+$1) 44. Rh4 e5 $1 {
+We can call it a flight square because he is creating some space for his king.}
+45. Rh7+ Ke6 46. Re7+ Kd6 47. Rxe5 Rxc3+ $1 {A nice idea! Black not only
+captured a pawn but blocked the a1-h8 diagonal. Black has a winning position
+that Fischer converted successfully.} 48. Kf2 Rc2+ 49. Ke1 Kxd7 50. Rexd5+ Kc6
+51. Rd6+ Kb7 52. Rd7+ Ka6 53. R7d2 Rxd2 54. Kxd2 b4 55. h4 Kb5 56. h5 c4 57.
+Ra1 gxh5 58. g6 h4 59. g7 h3 60. Be7 Rg8 61. Bf8 h2 62. Kc2 Kc6 63. Rd1 b3+ 64.
+Kc3 h1=Q 65. Rxh1 Kd5 66. Kb2 f4 67. Rd1+ Ke4 68. Rc1 Kd3 69. Rd1+ Ke2 70. Rc1
+f3 71. Bc5 Rxg7 72. Rxc4 Rd7 $1 73. Re4+ Kf1 74. Bd4 f2 0-1
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.15"]
+[Round "14"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "5rk1/pp3pp1/1bn2q1p/3p4/Q3nB2/P3PN2/1P2BPPP/5RK1 w - - 0 21"]
+[PlyCount "40"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+21. Bb5 $5 {The position is almost equal. Black has the isolated pawn in the
+center, a very typical middlegame scenario. The main goal of both sides is to
+control the square in front of the isolated pawn. For that reason, Fischer
+played his bishop to b5, in order to eliminate the c6-knight. However, the
+best move for White was to protect the b2-pawn with Qb5 or b3. There was no
+need to give up a pawn for almost nothing.} (21. Qb3 Rd8 22. h3 d4 $15 {
+Black manages to open the center and he has the initiative.}) 21... Qxb2 22.
+Bxc6 Nc3 23. Qb4 Qxb4 24. axb4 bxc6 25. Be5 {After the forcing exchanges,
+Black is a solid pawn up. White has active pieces and a good control over the
+center, but he is only fighting for the draw.} Nb5 26. Rc1 Rc8 27. Nd4 f6 $2 {
+Spassky wasn't careful and he allowed Fischer to find a cool tactic to win the
+pawn. The game ended in a draw.} 28. Bxf6 Bxd4 (28... gxf6 $2 29. Nxb5 $14) 29.
+Bxd4 Nxd4 30. exd4 Rb8 31. Kf1 Rxb4 32. Rxc6 Rxd4 33. Ra6 Kf7 34. Rxa7+ Kf6 35.
+Rd7 h5 36. Ke2 g5 37. Ke3 Re4+ 38. Kd3 Ke6 39. Rg7 Kf6 40. Rd7 Ke6 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.17"]
+[Round "15"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "7Q/kb1r4/p3p3/q1n3N1/P7/2P3P1/2B4P/2K1R3 b - - 0 33"]
+[PlyCount "21"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+33... Nd3+ $5 {Here, Fischer missed a golden opportunity to strip White's king
+and continue his attack. After the best move, Nxa4, Black is not winning, but
+he could create threats with his very active pieces. Instead, after some
+forcing exchanges, the game ended in a draw.} (33... Nxa4 $1 34. Bxa4 Qxa4 $40
+{Black can continue the attack against the enemy king.}) 34. Bxd3 Rxd3 35. Kc2
+Rd5 36. Re4 {
+White is on time to protect the a4-pawn and consolidate his position.} Rd8 37.
+Qg7 Qf5 38. Kb3 Qd5+ 39. Ka3 Qd2 40. Rb4 Qc1+ 41. Rb2 Qa1+ 42. Ra2 Qc1+ 43. Rb2
+Qa1+ 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.20"]
+[Round "16"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "1r3rk1/2p3pp/p1pb4/1p6/2P1n3/3RBN2/PP3PPP/R5K1 w - - 0 16"]
+[PlyCount "90"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+16. Rc1 {The rooks belong to the open lines. For that reason, Fischer played
+Rc1 to open the c-line and attack the c6-pawn.} (16. Nd2 $5) (16. Rad1 $5)
+16... bxc4 17. Rd4 (17. Rxc4 $5) 17... Rfe8 (17... Nf6 $5 18. Rc2 {
+In the next move, White will capture on c4.}) 18. Nd2 Nxd2 19. Rxd2 {Indeed, Bl
+ack is a pawn up, but his pawn structure is totally destroyed. White will
+collect some pawns soon.} Re4 20. g3 {
+White creates a flight square for his king.} Be5 21. Rcc2 Kf7 22. Kg2 {
+The king is an important piece that we should activate in the endgame.} Rxb2
+23. Kf3 c3 24. Kxe4 cxd2 25. Rxd2 {White has active pieces, but no more than
+that. The position ended in a draw after a long fight.} Rb5 26. Rc2 Bd6 27.
+Rxc6 Ra5 28. Bf4 Ra4+ 29. Kf3 Ra3+ 30. Ke4 Rxa2 31. Bxd6 cxd6 32. Rxd6 Rxf2 33.
+Rxa6 Rxh2 34. Kf3 Rd2 35. Ra7+ Kf6 36. Ra6+ Ke7 37. Ra7+ Rd7 38. Ra2 Ke6 39.
+Kg2 Re7 40. Kh3 Kf6 41. Ra6+ Re6 42. Ra5 h6 43. Ra2 Kf5 44. Rf2+ Kg5 45. Rf7 g6
+46. Rf4 h5 47. Rf3 Rf6 48. Ra3 Re6 49. Rf3 Re4 50. Ra3 Kh6 51. Ra6 Re5 52. Kh4
+Re4+ 53. Kh3 Re7 54. Kh4 Re5 55. Rb6 Kg7 56. Rb4 Kh6 57. Rb6 Re1 58. Kh3 Rh1+
+59. Kg2 Ra1 60. Kh3 Ra4 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.22"]
+[Round "17"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r4rk1/ppq1pp1p/3p1npB/n4P2/4P3/1B1R1Q1P/P1P3P1/5RK1 b - - 0 19"]
+[PlyCount "52"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+19... Nxb3 $1 {Here is a critical position because Black has a lot of options.
+He has found a very cool idea to fight for the initiative and continue the
+game. First things first, he captures the very strong b3-bishop.} (19... Rfc8
+$5) 20. cxb3 Qc5+ 21. Kh1 Qe5 {This was Fischer's idea: he doesn't mind to
+sacrifice the Exchange in order to totally dominate in the center. Black could
+transfer his knight to e5 or c5, via d7, and he could control the c-line with
+the rook. Right now, we can see that the knight is pressing the e4-pawn, so
+White should defend it.} 22. Bxf8 Rxf8 23. Re3 Rc8 $44 {This was a hard-fought
+game where Fischer was very creative in order to continue the game all the
+time, by finding ideas and putting pressure on White's position. However,
+Spassky defended himself very well and the game ended in a draw after many
+moves.} 24. fxg6 hxg6 25. Qf4 Qxf4 26. Rxf4 Nd7 27. Rf2 Ne5 28. Kh2 Rc1 29.
+Ree2 Nc6 30. Rc2 Re1 31. Rfe2 Ra1 32. Kg3 Kg7 33. Rcd2 Rf1 34. Rf2 Re1 35. Rfe2
+Rf1 36. Re3 a6 37. Rc3 Re1 38. Rc4 Rf1 39. Rdc2 Ra1 40. Rf2 Re1 41. Rfc2 g5 42.
+Rc1 Re2 43. R1c2 Re1 44. Rc1 Re2 45. R1c2 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.24"]
+[Round "18"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[ECO "B69"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "r3k2r/3bbp1p/2nppp2/2q2P2/pp2PN2/3B1N2/PPPQ2PP/1K1R3R w k - 0 17"]
+[PlyCount "62"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+17. Rc1 {As we have already said, the rooks belong to the open files. In the
+light of that, Fischer places his rook on c1 in order to play c3, and then
+open the c-line.} (17. Rhf1 $5) (17. Rhe1 $5) 17... Rb8 18. c3 b3 19. a3 {
+Black's advanced pawns look scary because they are very close to our king.
+However, Black cannot open the lines there and that makes the white king be
+totally safe.} Ne5 20. Rhf1 Nc4 21. Bxc4 Qxc4 22. Rce1 {It's very important to
+move all of your pieces towards the center and this is exactly what the best
+players in the world do. Here I'd like to say something about the pawn
+structure: This is a typical Sicilian Najdorf's pawn structure. It's true that
+Black has the bishop pair and, in general, this is an advantage. However, the
+center is closed and it was very important to have played f5 in order to shut
+down everything. If or when Black moves the e-pawn, then White will have a
+juicy square on d5 for his knight.} Kd8 23. Ka1 {
+After a long fight, the game ended in a draw.} Rb5 24. Nd4 Ra5 25. Nd3 Kc7 26.
+Nb4 h5 27. g3 Re5 28. Nd3 Rb8 29. Qe2 Ra5 30. fxe6 fxe6 31. Rf2 e5 32. Nf5 Bxf5
+33. Rxf5 d5 34. exd5 Qxd5 35. Nb4 Qd7 36. Rxh5 Bxb4 37. cxb4 Rd5 38. Rc1+ Kb7
+39. Qe4 Rc8 40. Rb1 Kb6 41. Rh7 Rd4 42. Qg6 Qc6 43. Rf7 Rd6 44. Qh6 Qf3 45. Qh7
+Qc6 46. Qh6 Qf3 47. Qh7 Qc6 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.27"]
+[Round "19"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r5k1/p2R2pp/2n1P3/2Pp4/3b4/7P/P5P1/5R1K b - - 0 27"]
+[PlyCount "27"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+27... Be5 $1 {Black could protect the d5-pawn, but his priority is to
+coordinate his pieces in order to defend himself against the very strong
+White's passed pawns.} (27... Re8 $5 28. Rc7 Nb8 29. Rf5 Na6 30. Rxa7 Nxc5 31.
+Rxd5 Nxe6 32. Ra4 Bf6 33. Re4 {Black pieces are pinned and White has a strong
+a2-pawn, which can create a lot of problems in the future.}) 28. Rxd5 Re8 29.
+Re1 Rxe6 {The dangerous c5-pawn is very well blocked by Black's pieces.
+Black's position is extremely solid now, and his king can come to the center
+easily.  By contrast, it's difficult for White to bring his king to the center.
+} 30. Rd6 (30. Kg1 Bh2+ 31. Kxh2 Rxe1 $19) 30... Kf7 $1 {Black wanted to keep
+the rooks in the game, but Spassky played very accurately. And now Fischer
+keeps his pieces active all the time.} (30... Rxd6 $5 31. cxd6 Kf8 {
+Black can fight for the draw here but, in practice, it's very difficult.} 32.
+Rc1 Nd8 33. Rc8 Ke8 34. Rc7 Nf7 35. Re7+ Kf8 36. Rxa7 Nxd6 $11) 31. Rxc6 Rxc6
+32. Rxe5 {White is a pawn up, but his pieces are not well coordinated. Black
+achieved an easy draw here.} Kf6 33. Rd5 Ke6 34. Rh5 h6 35. Kh2 Ra6 36. c6 Rxc6
+37. Ra5 a6 38. Kg3 Kf6 39. Kf3 Rc3+ 40. Kf2 Rc2+ 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.29"]
+[Round "20"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[ECO "B68"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "r2r4/1p1bkpp1/p1nRp2p/8/5P2/2N2N2/PPP3PP/2KR4 w - - 0 18"]
+[PlyCount "74"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+18. Na4 $5 {White is controlling the d-line in an effective way. He wants to
+activate the rest of his pieces. A very logical move is Na4. Immediately,
+Fischer creates the tactical threat of capturing on d7 because the a8-rook
+would be unprotected.} (18. Ne4 $5) 18... Be8 (18... g6 19. Rxd7+ Rxd7 20.
+Rxd7+ Kxd7 21. Nb6+ Kd6 22. Nxa8 $18) 19. Rxd8 Rxd8 20. Nc5 {White has relocate
+d his knight from c3 to c5 and this is a great progress in the position. This
+knight is pressing the queenside pawns so much that Black has to defend them
+passively.} Rb8 21. Rd3 a5 22. Rb3 b5 23. a3 a4 24. Rc3 Rd8 25. Nd3 f6 26. Rc5
+{White has a clear advantage and active pieces. However, the position ended in
+a draw after a long fight.} Rb8 27. Rc3 g5 28. g3 Kd6 29. Nc5 g4 30. Ne4+ Ke7
+31. Ne1 Rd8 32. Nd3 Rd4 33. Nef2 h5 34. Rc5 Rd5 35. Rc3 Nd4 36. Rc7+ Rd7 37.
+Rxd7+ Bxd7 38. Ne1 e5 39. fxe5 fxe5 40. Kd2 Bf5 41. Nd1 Kd6 42. Ne3 Be6 43. Kd3
+Bf7 44. Kc3 Kc6 45. Kd3 Kc5 46. Ke4 Kd6 47. Kd3 Bg6+ 48. Kc3 Kc5 49. Nd3+ Kd6
+50. Ne1 Kc6 51. Kd2 Kc5 52. Nd3+ Kd6 53. Ne1 Ne6 54. Kc3 Nd4 1/2-1/2
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.31"]
+[Round "21"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B46"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[SetUp "1"]
+[FEN "r2q1rk1/5ppp/p1pbbn2/3p4/3B4/2NB1Q2/PPP2PPP/R3R1K1 b - - 0 13"]
+[PlyCount "56"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+13... c5 {Black's position is very solid. The e6-bishop does a great job
+because it shuts down the e-file and the e1-rook cannot do anything there.
+Additionaly, it's important to increase the control in the center; and Fischer
+thinks that this is the best moment to do that, by pushing White's pieces back.
+} 14. Bxf6 Qxf6 15. Qxf6 gxf6 16. Rad1 Rfd8 $15 {We can reach this position
+from the Scotch Opening. Black's destroyed pawn structure does not play the
+key role here. The queens were exchanged, so White cannot create any real
+threat against Black's Monarch. I can agree with you that Black's pawns are
+weak, but there is no obvious way for White to attack them. Similarly, the
+destroyed pawn structure leaves open files that Black can use. Fischer won
+this game brilliantly and this is something which you should check out.} 17.
+Be2 Rab8 18. b3 c4 19. Nxd5 Bxd5 20. Rxd5 Bxh2+ 21. Kxh2 Rxd5 22. Bxc4 Rd2 23.
+Bxa6 Rxc2 24. Re2 Rxe2 25. Bxe2 Rd8 $17 26. a4 Rd2 27. Bc4 Ra2 28. Kg3 Kf8 29.
+Kf3 Ke7 30. g4 f5 31. gxf5 f6 32. Bg8 h6 33. Kg3 Kd6 34. Kf3 Ra1 35. Kg2 Ke5
+36. Be6 Kf4 37. Bd7 Rb1 38. Be6 Rb2 39. Bc4 Ra2 40. Be6 h5 41. Bd7 0-1
+

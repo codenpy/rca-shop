@@ -1,0 +1,17 @@
+﻿[Event "Santander"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Aljechin"]
+[Black "Ricondo"]
+[Result "1-0"]
+[Annotator "T1A"]
+[SetUp "1"]
+[FEN "r2qrbk1/1bp2ppp/p2p1n2/2p2NB1/4P3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1945.??.??"]
+[EventType "game"]
+
+1. Nh6+ gxh6 (1... Kh8 2. Nxf7+ Kg8 3. Nxd8 Raxd8 4. Bxf6 gxf6 5. Qxf6 Be7) 2.
+Bxf6 Bg7 (2... Qxf6 3. Qxf6) 3. Bxd8 1-0
+

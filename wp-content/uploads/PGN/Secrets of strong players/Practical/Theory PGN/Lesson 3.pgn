@@ -1,0 +1,116 @@
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.03.17"]
+[Round "7.4"]
+[White "Peters, Helmut"]
+[Black "Henneberger, Sven"]
+[Result "0-1"]
+[ECO "A31"]
+[WhiteElo "1980"]
+[BlackElo "2061"]
+[PlyCount "30"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Muenster SK III"]
+[BlackTeam "Rheine Klein Berlin"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nf3 Nc6 6. Nc3 Bb4 7. Bd2 Bc5 8.
+Bg5 Qb6 9. e3 {Diagram #} Qxb2 10. Qc1 Ba3 $1 (10... Qxc1+ $6 11. Rxc1) 11. e4
+(11. Qxb2 Bxb2) 11... Qb4 12. Qd2 Bb2 13. Rb1 Bxc3 14. Rxb4 Bxb4 15. Qxb4 Nxb4
+0-1
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.01.03"]
+[Round "4.22"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2832"]
+[BlackElo "2786"]
+[PlyCount "69"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. d3 e6 7. Ng5 Be7 8.
+f4 O-O 9. c4 Nb8 10. Nc3 Nc6 11. Be3 d5 {Diagram #} 12. Bf2 $1 (12. cxd5 exd5
+13. exd5 Nxd5 14. Nxd5 Qxd5 15. -- Rad8) (12. e5 d4 13. exf6 Bxf6 $1 $17 (13...
+gxf6 $4 14. Nxh7 Kxh7 15. Qh5+ Kg8 16. Rf3 $18)) 12... h6 13. Nf3 dxe4 14. dxe4
+e5 15. f5 Re8 16. Re1 Nd4 17. Nxe5 Bd6 18. Nf3 Ng4 19. h3 Nxf2 20. Kxf2 Qb6 21.
+b3 Nxf3 22. Qxf3 Be5 23. Nd5 Qa5 24. Rad1 Qxa2+ 25. Re2 Qa5 26. f6 Re6 27. fxg7
+Rae8 28. Kg1 Rg6 29. Rf1 Rxg7 30. Kh1 Qd8 31. Qe3 Qd6 32. Rf5 Qg6 33. Qf3 Re6
+34. Rd2 Kh7 35. Rxe5 1-0
+
+[Event "PRO League Stage"]
+[Site "chess.com INT"]
+[Date "2018.01.31"]
+[Round "3"]
+[White "Quesada Perez, Yuniesky"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "C96"]
+[WhiteElo "2627"]
+[BlackElo "2811"]
+[PlyCount "74"]
+[EventDate "2018.01.18"]
+[EventType "swiss (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2018.02.23"]
+[WhiteTeam "Miami Champions"]
+[BlackTeam "Saint Louis Arch Bishops"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. a4 b4 13. Nbd2 Rb8 14. Nf1 b3 15. Bd3 {
+Diagram #} exd4 (15... cxd4 16. cxd4 exd4 17. Nxd4) 16. cxd4 c4 17. Be2 c3 $1
+18. Ng3 (18. bxc3 b2) 18... Nf6 19. Bd3 Nc6 20. d5 Ne5 21. Nd4 Qa5 22. Bf1 Bd7
+23. Ngf5 Rfe8 24. Re3 Bf8 25. Nxb3 Qb4 26. Nfd4 Bxa4 27. Rxc3 Nxe4 28. Re3 Nc5
+29. Bd2 Qb6 30. Ra3 g6 31. Qb1 Bd7 32. Re1 Nxb3 33. Nxb3 Bxh3 34. Rxe5 dxe5 35.
+Be3 Qd8 36. gxh3 Bxa3 37. bxa3 Qxd5 0-1
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.03.17"]
+[Round "7.2"]
+[White "Vos, Thomas"]
+[Black "Borrink, Joern"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2159"]
+[BlackElo "2104"]
+[PlyCount "70"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Neuenkirchen"]
+[BlackTeam "Muenster SK II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. d4 Nbd7 5. Nc3 c6 6. Bd2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 e5 10. Qc2 Qe7 11. h3 e4 12. Ng5 Nb6 13. Bb3 Nbd5 14. f3 Nxc3 15.
+bxc3 {Diagram #} Bf5 (15... exf3 16. Rxf3 -- (16... h6 17. Rxf6 $1 hxg5 18. Rh6
+$3 (18. Raf1 $5) 18... gxh6 19. Qg6+ Kh8 20. Qxh6+ Kg8 21. Rf1 Be6 22. Rf6 Bxb3
+23. Qxg5+ Kh7 24. Rh6#) 17. Rxf6 Qxf6 18. Qxh7#) 16. g4 (16. fxe4 Bg6 17. Qd1
+Nxe4 18. Nxe4 Qxe4) 16... Bg6 17. f4 h6 18. f5 Bh7 19. Nxh7 Nxh7 20. Be1 Qg5
+21. Qxe4 Rae8 22. Qg2 Qxe3+ 23. Bf2 Qxc3 24. Rad1 Ng5 25. h4 Nh3+ 26. Kh1 Re2
+27. g5 hxg5 28. hxg5 Nxg5 29. Qg4 Rfe8 30. Rc1 Qh3+ 31. Qxh3 Nxh3 32. Kg2 R8e3
+33. Rc2 Rg3+ 34. Kh1 Nxf2+ 35. Rxf2 Re1+ 0-1
+

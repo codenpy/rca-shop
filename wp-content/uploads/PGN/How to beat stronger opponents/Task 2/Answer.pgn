@@ -1,0 +1,410 @@
+[Event "It"]
+[Site "Semmering (Austria)"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Keres Paul (EST)"]
+[Black "Flohr Salomon M (CZE)"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2ppbp/6p1/8/3p4/B1P2NP1/P3PPBP/R2Q1RK1 w - - 0 11"]
+[PlyCount "27"]
+[EventDate "1937.??.??"]
+
+11. Nxd4 {! (the question "what else I can do?" can help you to avoid of an
+automatic move "cd" and start thinking about Nd4. It weakens the pawn
+structure, but makes the bishop g2 and the knight d4 very active. Since the
+pieces activity is the most important factor, this move is the best.)} Qc7 12.
+Qb3 Bf6 (12... Nc6 13. Nxc6 bxc6 14. Qa4 $14) 13. Rfd1 Nd7 14. c4 (14. Rac1 {!?
+} Nb6 (14... Nc5 15. Qc4 Ne6 16. Qxc7 Nxc7 17. Rb1 $14) 15. c4 $14) 14... Nc5
+15. Qb4 Ne6 {?} (15... Na6 $8 16. Qb5 Rb8 17. c5 Rd8 18. e3 Bd7 19. c6 Bxd4 20.
+Rxd4 Bxc6 21. Rxd8+ Rxd8 22. Bxc6 Qxc6 23. Qxc6 bxc6 24. Bxe7 $14) 16. Nb5 Qe5
+17. Rac1 Rd8 (17... Qxe2 18. Nc3 Bxc3 (18... Qe5 19. Nd5 $16) 19. Qxc3 $16) 18.
+Rd5 {( keeping and increasing the tension)} (18. Rxd8+ Nxd8 19. Qc5) 18... Rxd5
+19. cxd5 a6 20. Na7 {!} (20. Nc3 Nd4) 20... Nd4 (20... Rxa7 21. Rxc8+ Nf8 22.
+Qb6 Qd4 23. Bc5 $18) (20... Bd7 21. dxe6 $18) 21. Rxc8+ Rxc8 22. Nxc8 Qxe2 23.
+h4 Nf5 24. Qe4 1-0
+
+[Event "Glorney Cup U20"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Demoulin Joachim"]
+[Black "Neumann Andreas"]
+[Result "0-1"]
+[WhiteElo "2080"]
+[BlackElo "2210"]
+[SetUp "1"]
+[FEN "r4rk1/p3ppbp/6p1/q2Q1b2/8/4BP2/PPP3PP/2KR1B1R b - - 0 20"]
+[PlyCount "3"]
+[EventDate "1995.??.??"]
+[Source "EXT 1999"]
+
+20... Rfc8 {(counterblow)} 21. c3 Rxc3+ 0-1
+
+[Event "East Kilbridge op"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Rowson Jonathan"]
+[Black "Hodgson Julian M"]
+[Result "1/2-1/2"]
+[WhiteElo "2415"]
+[BlackElo "2615"]
+[SetUp "1"]
+[FEN "1r4k1/p1q1ppbp/6p1/5b2/8/1Q1B1P2/PBP3PP/1K1R3R b - - 0 20"]
+[PlyCount "20"]
+[EventDate "1996.??.??"]
+[Source "EXT 2001"]
+
+20... Be6 {(the question "what else" can help you not to take Rb3 and find Be6.
+It forces white to play c4, which weakens the white's king)} 21. c4 Rxb3 22.
+axb3 a5 23. Bxg7 Kxg7 24. Kc2 a4 25. Ra1 axb3+ 26. Kxb3 Qb8+ 27. Kc2 Qb4 28. g3
+Bxc4 29. Bxc4 Qxc4+ 30. Kd2 1/2-1/2
+
+[Event "ICC 5 0"]
+[Site "Internet Chess Club"]
+[Date "2008.08.19"]
+[Round "?"]
+[White "Smallville"]
+[Black "renegator"]
+[Result "1-0"]
+[WhiteElo "2706"]
+[BlackElo "2147"]
+[SetUp "1"]
+[FEN "5rk1/p2r1pbp/qpp1n1p1/2p1p3/4P3/P1PP1QNP/1P3PP1/2BRR1K1 w - - 0 19"]
+[PlyCount "9"]
+[EventDate "2008.??.??"]
+
+19. Nf5 {(we need to look at the opponent's territory and find ALL the
+attacking and forcing moves there. Remember that you should calculate the
+attacking moves, even if it looks like you may not do it.)} Rfd8 (19... gxf5
+20. exf5 Nf4 21. Bxf4 exf4 22. f6 Bxf6 23. Qg4+ Kh8 24. Qxd7 $18) 20. Nh6+ Bxh6
+21. Bxh6 Rxd3 22. Rxd3 Qxd3 23. Qf6 {and white got some counter chances} 1-0
+
+[Event "Kostroma 40c/2"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Kuporosov, V."]
+[Black "Yudasin, L."]
+[Result "1-0"]
+[Annotator "Kuporosov,V"]
+[SetUp "1"]
+[FEN "1kb1q1r1/pp2np2/3rpb1p/NP3p2/8/PQ2PB2/2R2PPP/2R1N1K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1985.??.??"]
+
+1. Nc6+ {! (it is also an example of the rule "may not" - when it looks like
+you may not do something, you should try to figure out how to do it anyway.
+And as usual you should focus your attention on the black's terrotory and find
+the forcing moves there)} bxc6 (1... Nxc6 2. bxc6) (1... Ka8 2. Nxe7) 2. bxc6+
+Kc7 3. Qb8+ {! ("may not")} (3. Qb8+ Kxb8 4. c7#) 1-0
+
+[Event "ICC 3 0"]
+[Site "Internet Chess Club"]
+[Date "2008.08.26"]
+[Round "?"]
+[White "WhYsOSeRiOus"]
+[Black "Smallville"]
+[Result "0-1"]
+[WhiteElo "3327"]
+[BlackElo "3557"]
+[SetUp "1"]
+[FEN "r2qkb1r/1b1p2pp/p1n1ppn1/1p6/3NPP2/1BN1B3/PP4PP/R2Q1RK1 b kq - 0 12"]
+[PlyCount "11"]
+[EventDate "2008.??.??"]
+
+12... Bc5 {white played f4 with an idea of pushing f5 starting an attack. As
+you know, you should try to counterblow first of all. Here black has a lot of
+ideas for making a successful counterblow.)} 13. f5 Qb6 14. Nce2 Nxd4 15. Nxd4
+e5 16. fxg6 exd4 17. Bf2 hxg6 {with an advantage} 0-1
+
+[Event "Athens 7c/24"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Tringov, G."]
+[Black "Ciocaltea, V."]
+[Result "1/2-1/2"]
+[Annotator "Ciocaltea,V"]
+[SetUp "1"]
+[FEN "r1b2rk1/2q3p1/p2p2N1/np1P1pp1/4p3/2P4P/PPB2P1K/R2QR3 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1969.??.??"]
+
+1... Qa7 {!? (counterblow)} 2. Rg1 Nc4 {(ignoring idea)} 3. Qh5 (3. Nxf8 {?}
+Qxf2+ 4. Rg2 (4. Kh1 Qh4 $17) 4... Qxg2+) 3... Rf6 4. Rxg5 Rxg6 {!} (4... Bb7 {
+?} 5. Qh8+ Kf7 6. Ne5+ {!}) 5. Qxg6 Qxf2+ 6. Kh1 (6. Rg2 {!?} Qf4+ 7. Kh1 Qe5
+$13) 6... Qf3+ 1/2-1/2
+
+[Event "Ljubljana 7c/71"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Matanovic, A."]
+[Black "Barcza, G."]
+[Result "1-0"]
+[Annotator "Milic,B"]
+[SetUp "1"]
+[FEN "4rrk1/1p3p1p/p1bpqbp1/4n3/P2BP3/2N3Q1/1PP1B1PP/3R1R1K w - - 0 1"]
+[PlyCount "67"]
+[EventDate "1969.??.??"]
+
+1. Bc4 $16 {! ("may not")} Qe7 (1... Nxc4 {?} 2. Bxf6 {/\ Qh4+-}) 2. Nd5 Bxd5
+3. Bxd5 $14 Bg7 4. Rf2 Qd7 5. Qb3 {!} Re7 6. h3 Nc6 7. Bf6 {!} (7. Bxg7 Kxg7 8.
+Rdf1 f6) 7... Bxf6 8. Rxf6 Kg7 9. Rdf1 Ne5 10. Qb4 Rd8 11. Qd4 {! [/\ Rf7!]}
+Kg8 12. Bb3 Qc7 13. c3 Rdd7 14. Rd1 Nc6 15. Qd5 Re5 16. Qc4 Rde7 17. Qd3 Qb6
+18. Qc2 {!} Kg7 (18... Rxe4 {?} 19. Rxf7 $18 {!}) 19. Rdf1 (19. Rfxd6 {?} Rxe4
+{!}) 19... Nd8 20. Bd5 Qe3 21. R6f3 Qg5 22. Qf2 Rd7 23. Rg3 Qe7 24. c4 Ne6 25.
+Rf3 (25. a5 {!?}) 25... g5 {?} (25... Ng5 {!?} 26. Rf4 Nxe4 27. Rxf7+ Qxf7 28.
+Qxf7+ Rxf7 29. Rxf7+ Kh6 30. Rxb7 $16) 26. Rf6 $18 Kf8 27. Qf3 Kg7 28. a5 Qe8
+29. g3 Qe7 30. b4 Qe8 31. Qh5 Nd8 (31... Qe7 32. Qh6+ Kg8 33. Rxf7 $18 {!}) 32.
+Kh2 Kh8 (32... Kg8 33. Rh6) 33. Qh6 {!} Qe7 (33... Ne6 34. Bxe6 Rxe6 35. Rxe6
+$18 {!}) 34. Rg6 {!! %08DA} 1-0
+
+[Event "17th WCCC"]
+[Site "?"]
+[Date "2009.05.17"]
+[Round "9"]
+[White "SHREDDER"]
+[Black "JOKER"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2qrn1k1/3b1ppp/1p4n1/rNp1P1b1/p7/P1N2BB1/1PP1Q1PP/3RR2K w - - 0 24"]
+[PlyCount "7"]
+[EventDate "2009.??.??"]
+[Source "The Week in Ches"]
+
+24. Bd5 {(white has 2 logical moves-candidates Nd6 and Bd5. So white should
+calculate these both moves. Some chess players will stop calculating the line
+24.Bd5 because of 24...Bg4. However we should figure out how to make move when
+it seems impossible.} Bg4 25. Bxf7+ {(counterblow)} Kxf7 26. e6+ {(the next
+counterblow helps white to open the position for an attack)} Bxe6 27. Ne4 $18 {
+white has a lot of threats and black has no defense} 1-0
+
+[Event "USSR 14c/71"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Belev"]
+[Black "Leipson"]
+[Result "0-1"]
+[Annotator "Yudovich,M"]
+[SetUp "1"]
+[FEN "r5k1/1p2pp1p/3p3Q/p3nPPp/8/1BP2q2/P7/1K1R4 b - - 0 1"]
+[PlyCount "17"]
+[EventDate "1972.??.??"]
+
+1... Qxf5+ $19 {!! (the rule "may not")} 2. Bc2 Qg6 {!} 3. Bxg6 fxg6 4. Re1 Ng4
+5. Rxe7 Nxh6 6. gxh6 Rc8 7. Rg7+ Kh8 8. Rxb7 h4 9. Rf7 Rg8 0-1
+
+[Event "17th IPCCC"]
+[Site "?"]
+[Date "2007.12.29"]
+[Round "6"]
+[White "RYBKA"]
+[Black "ISICHESS"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2qnrk1/1b2b1pp/p4p2/2ppP3/Pp6/1B1PB2P/1P2NPP1/R2QR1K1 w - - 0 18"]
+[PlyCount "61"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{Here it seems like white should take 18.ef. However you should ask yourself
+"what else white can do?". Then you will find a lot of alternative moves like
+Nf4, Qc2, Rc1)} 18. Qc2 fxe5 19. Bxc5 {(this variation looks bad because of
+Rc8))} Bd6 (19... Rc8 {( let's use some counterblows)} 20. Bxe7 Qxe7 21. Bxd5+
+Bxd5 22. Qxc8 $18) 20. Bxd6 Qxd6 21. Ng3 {with an initiative position} Rf7 22.
+Qe2 Qf6 23. Qxe5 Qxf2+ 24. Kh2 Nf6 25. Ne4 Qh4 26. Qe6 Rd8 27. Rf1 Bc8 28. Qb6
+Rff8 29. Nxf6+ gxf6 30. Rae1 Kh8 31. Re7 Qg5 32. Qa7 Bf5 33. Rf3 h5 34. Qd4 Bh7
+35. Rg3 Qh6 36. Ra7 Rg8 37. Rxg8+ Bxg8 38. Rxa6 Kg7 39. a5 Qg5 40. Rb6 Ra8 41.
+a6 h4 42. Qxb4 Qg3+ 43. Kh1 Re8 44. Qg4+ Qxg4 45. hxg4 Re1+ 46. Kh2 Ra1 47.
+Rb7+ Kh6 48. a7 1-0
+
+[Event "ICC 5 0"]
+[Site "Internet Chess Club"]
+[Date "2008.04.02"]
+[Round "?"]
+[White "PhilHellmuth"]
+[Black "Smallville"]
+[Result "0-1"]
+[WhiteElo "2266"]
+[BlackElo "2734"]
+[SetUp "1"]
+[FEN "2rqr1k1/1p1nbpp1/p1n1p2p/P1p5/2N1BB2/1QPP2P1/1P3P1P/R3R1K1 b - - 0 18"]
+[PlyCount "9"]
+[EventDate "2008.??.??"]
+
+18... g5 {Black's position is very bad of course. White is attacking b7, so
+black should think about the counterblows)} 19. Qxb7 gxf4 20. Bxc6 {(a lot of
+players would stop the calculation here, but you should use the principle "may
+not" and try to figure out how to realize this idea anyway)} Rc7 21. Qxa6 Nb8
+22. Qb5 Nxc6 $17 0-1
+
+[Event "Wijk aan Zee II 7c/32"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Honfi, Karoly"]
+[Black "Ciocaltea, V."]
+[Result "1-0"]
+[Annotator "Maric,R"]
+[SetUp "1"]
+[FEN "3r1rk1/p1q4b/2pn3p/4Npp1/4nQ2/1P4PP/PBP3PK/3RRB2 w - - 0 1"]
+[PlyCount "43"]
+[EventDate "1969.??.??"]
+
+1. Ng4 {!! (it seems like white has to move the queen, but you should ask
+yourself "what else I can do?")} Bg6 (1... fxg4 2. Bc4+ Rf7 3. Qe5 Kf8 4. Bxf7
+Qxf7 5. Rf1 Bf5 6. hxg4 $18) 2. Qe5 Kh7 3. Rxe4 $16 {!} fxg4 (3... fxe4 4. Nf6+
+Rxf6 5. Qxf6 {/\ Rd6+-}) 4. Red4 Rfe8 5. Rxd6 {!!} (5. Qf6 {!}) 5... Rxe5 6.
+Rxd8 Bf5 7. hxg4 Bxg4 8. Bd3+ Kg7 9. Re8 Kf7 10. Bxe5 Qa5 (10... Qb7 11. Rh8 {!
+}) (10... Qb6 11. Re1 $18 {!}) 11. b4 $18 {!} Qa4 (11... Qxb4 12. Rb8) (11...
+Qa3 12. Re1 {!}) (11... Qxa2 12. Ra1 Qd5 13. Ra5 $18 {!}) 12. Rd8 Bxd1 13. Bc4+
+Ke7 14. Rxd1 Qxc2 15. Bb3 Qe2 16. Bc7 Ke8 17. Rd8+ Ke7 18. Rd6 Qb2 19. Rxc6 h5
+20. Rh6 Qg7 21. Bd6+ Kd7 22. Ba4+ {[/\ Re6] %08DA} 1-0
+
+[Event "USSR 8c/53"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Shatalov"]
+[Black "Ivlev, V."]
+[Result "0-1"]
+[Annotator "Yudovich,M"]
+[SetUp "1"]
+[FEN "r1bq4/6bk/p5pp/3B4/4P3/4B1Q1/Pp4PP/5RK1 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "1969.??.??"]
+
+1... Bb7 {! (it is an example of the thinking rule "may not")} (1... Be6 {
+(another "impossible" move works as well)} 2. Bxe6 Qd3 {and b1=Q}) 2. Bxh6 (2.
+Bxb7 Rb8 $19) 2... Bxd5 (2... Bxh6 {?} 3. Rf7+ $18) 3. exd5 Rb8 (3... Bxh6 $19)
+4. Bf4 Bd4+ 5. Kh1 b1=Q 6. Qh3+ Kg8 7. Qe6+ Kg7 0-1
+
+[Event "FI32"]
+[Site "Internet Chess Club"]
+[Date "2008.04.04"]
+[Round "2"]
+[White "Smallville"]
+[Black "BlackHorse96"]
+[Result "1-0"]
+[WhiteElo "3518"]
+[BlackElo "2759"]
+[SetUp "1"]
+[FEN "r5k1/pp1b2pp/2nqpr2/3p1p2/3Pn3/1NPB1N2/PP3PPP/R2QR1K1 w - - 0 14"]
+[PlyCount "5"]
+[EventDate "2008.??.??"]
+
+14. Ne5 {(we should calculate the logical forcing moves on an opponent's
+territory, even if they look bad)} Nxe5 15. dxe5 Qxe5 16. c4 $2 {(in the game
+white didn't play 16.f3, because he was scared about Rh6 answer. As you know
+we should try to figure out how to realize such ideas and don't stop the
+calculation)} (16. f3 $1 Rh6 17. g3 Rxh2 18. f4 $1 {("what else?")} Rh1+ 19.
+Kxh1 Nxg3+ 20. Kg2 Qxf4 21. Qf3 Qxf3+ 22. Kxf3 $16) 1-0
+
+[Event "28th Dutch CC"]
+[Site "Leiden NED"]
+[Date "2008.11.16"]
+[Round "7"]
+[White "DEEP SJENG"]
+[Black "RYBKA"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1r3k1/1p2bpp1/pnn1p2p/1q1pP3/3P4/P3QN2/1PRBNPPP/2R3K1 w - - 0 19"]
+[PlyCount "17"]
+[EventDate "2008.??.??"]
+[Source "Mark Crowther"]
+
+19. b3 {("may not")} Bxa3 20. Rc5 {(counterblow)} Bxc5 21. Rxc5 Nc4 {(also a
+counterblow)} 22. bxc4 Qb1+ 23. Ne1 b6 24. Nc3 Qb3 25. Rxc6 Rxc6 26. Nxd5 Qxe3
+27. Nxe3 $13 0-1
+
+[Event "Oesterreich 7c/11"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Beni, A."]
+[Black "Schwarzbach, W."]
+[Result "1-0"]
+[Annotator "Maric,R"]
+[SetUp "1"]
+[FEN "r4rk1/1p1n1ppp/p1bp1b2/q4P2/3RP3/1BN1BQ2/PPP4P/2K3R1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1969.??.??"]
+
+1. Rxd6 {!! ("may not")} Bxc3 2. bxc3 Qa3+ (2... Qxc3 3. Bd4 $18 {!}) 3. Kb1
+Qxd6 4. Bd4 Qh6 (4... Ne5 5. Qg2 {!}) (4... g6 5. fxg6 hxg6 6. Qh5 $18 {!}) 5.
+Qh3 $18 {!! (distructing the queen)} Qxh3 6. Rxg7+ Kh8 7. Rxf7+ Kg8 8. Rg7+ Kh8
+9. Rg8# 1-0
+
+[Event "ICC 5 0"]
+[Site "Internet Chess Club"]
+[Date "2008.08.19"]
+[Round "?"]
+[White "Smallville"]
+[Black "scary"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2307"]
+[SetUp "1"]
+[FEN "rnb1k2r/1p1n1pp1/p3p2p/2bqP3/3NN2B/4Q3/2P3PP/3RKB1R w Kkq - 0 16"]
+[PlyCount "59"]
+[EventDate "2008.??.??"]
+
+16. Nxe6 {(may not)} Bb4+ 17. c3 Qxe6 18. cxb4 $44 O-O 19. Be2 Nc6 20. O-O Qxe5
+21. Bg3 Qe6 22. Rf4 Nde5 23. Rf6 {(may not)} Ng4 24. Bxg4 Qxg4 25. Rdf1 Re8 26.
+R6f4 Qe6 27. Rxf7 Bd7 28. Qc3 Qg6 29. Rxd7 Rxe4 30. Rxb7 Nd4 31. Kh1 Ne2 32.
+Qb3+ Qe6 33. Qxe6+ Rxe6 34. Bb8 Nd4 35. h3 Nc6 36. Bg3 Rae8 37. Ra1 Re4 38.
+Rxa6 Rxb4 39. Rc7 Ne7 40. Ra5 Re4 41. Be5 Ng6 42. Rxg7+ Kf8 43. Rxg6 R4xe5 44.
+Rxe5 Rxe5 45. Rxh6 {Black resigns} 1-0
+
+[Event "DDR 35c/10"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Moehring, G."]
+[Black "Knaak, R."]
+[Result "1/2-1/2"]
+[Annotator "Knaak,R"]
+[SetUp "1"]
+[FEN "2k3r1/ppr1q3/4p3/P1NbPp1R/1Q1PpP2/2R3P1/5K2/8 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "1983.??.??"]
+
+1. Na6 {!! (one of the possible forcing moves on an opponent's territory)} (1.
+Re3 Qe8 {/\ Rh8-/+}) 1... e3+ {!} 2. Ke2 {!} Rxc3 {! ("may not" rule again)} (
+2... Qxb4 3. Rxc7+ Kd8 4. Nxb4 Kxc7 5. Rg5 $16) 3. Qxe7 Rd8 {!?} (3... Bc4+ $1
+4. Kd1 {!} e2+ $2 (4... Bb3+ $1 5. Ke1 (5. Ke2 Rc2+ 6. Kd3 e2) 5... Rc1+ 6. Ke2
+Rc2+ 7. Kd3 e2 8. Rg5 e1=N+ 9. Ke3 Ng2+ 10. Kf3 Ne1+ $11) 5. Kd2 Rd3+ 6. Kxe2
+Rdxg3+ 7. Kd2 Bxa6 8. Qxe6+ Kb8 9. Rg5 $18 {!}) 4. Qb4 (4. Qc5+ {!?} Rxc5 5.
+Nxc5 b6 6. axb6 axb6 7. Nd3 Bc4 {!} 8. Kxe3 Kc7 {! (/\ Ra8)} 9. Nb4 b5) 4...
+Bc4+ 5. Kf3 (5. Kd1) 5... Bd5+ 1/2-1/2
+
+[Event "Jugoslavija 7c/30"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Stupica, J."]
+[Black "Cvetkovic, Sr"]
+[Result "0-1"]
+[Annotator "Milic,B"]
+[SetUp "1"]
+[FEN "4r1k1/5p1p/1p3nr1/5Q2/2qP4/4PP2/1R1B3P/6RK b - - 0 1"]
+[PlyCount "15"]
+[EventDate "1969.??.??"]
+
+1... Qe2 {!! ("may not" rule works. It seems like Qe2 is impossible, because
+it loses the knight, but we should continue the calculation)} 2. Qxf6 (2. Bc3 {
+?} Qxe3 $17) (2. Rxg6+ {?} hxg6 3. Qh3 Ra8 $19 {!}) (2. Bc1 {?} Rxg1+ $19) 2...
+Re6 $2 {(in the game black blundered, but white didn't find the right move
+either. You see that very often the aggressive ideas works great, because they
+confuse your opponent.)} (2... Qf2 $1 3. Rbb1 Re6 4. Qf4 Qxd2 $40) 3. Rxg6+ $2
+(3. Qd8+ $1 Kg7 4. Qf8+ Kxf8 5. Bb4+ Ke8 6. Rxe2 $18) 3... hxg6 4. Qd8+ Kg7 5.
+Kg1 {?} (5. Qf8+ $1) 5... Qxf3 {(now black really has an objectively good
+position)} 6. Qg5 (6. Be1 Qxe3+ $17 {!}) (6. Qh4 Re4 $17 {!}) 6... Rf6 $15 7.
+Rb1 Qf2+ 8. Kh1 Qxd2 {with better position, because of the white's opened
+king-side and pawn weaknesses.} 0-1
+

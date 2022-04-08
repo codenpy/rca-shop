@@ -1,0 +1,10 @@
+2022-04-03T11:35:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/tutor/content-single-course-rca.php:102
+Stack trace:
+#0 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/tutor/includes/tutor-template-functions.php(115): include()
+#1 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/tutor/single-course.php(20): tutor_load_template('content-single-...')
+#2 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-includes/template-loader.php(106): include('/home2/lalpksmy...')
+#3 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-blog-header.php(19): require_once('/home2/lalpksmy...')
+#4 /home2/lalpksmy/public_html/online-chess-teacher-com/index.php(17): require('/home2/lalpksmy...')
+#5 {main}
+  thrown in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/tutor/content-single-course-rca.php on line 102
+

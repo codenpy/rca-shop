@@ -1,0 +1,405 @@
+[Event "New York"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Fischer Robert James"]
+[Black "Fine Reuben"]
+[Result "1-0"]
+[ECO "C52"]
+[Annotator "Smirnov"]
+[PlyCount "33"]
+[EventDate "1963.??.??"]
+[Source "Fischer"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O dxc3 {
+(Black spent a few moves for capturing pawns. When your opponent makes
+something dubious - it's time for you to attack.)} 8. Qb3 Qe7 (8... Qf6 9. e5
+Qg6 10. Nxc3 Nge7 11. Ne2 $13 {Chigorin,M} (11. Ba3 $13 {Chigorin,M})) 9. Nxc3
+Nf6 {? (the white's knight is going to d5 and black should have prevented it)}
+(9... Bxc3 10. Qxc3 f6 (10... Nf6 11. Ba3 d6 12. e5 {(we should open a
+position in order to start a direct attack)} Ne4 13. Qb2 Nxe5 14. Nxe5 Qxe5 15.
+Rfe1 $16) 11. Ba3 d6 12. Bd5 {! (we should always make attacking moves on the
+opponent's side)} Bd7 13. Rab1 O-O-O 14. Nd4 $18) (9... Qb4 {!} 10. Bxf7+ Kd8
+11. Bg5+ (11. Bxg8 {?} Qxb3 {!}) 11... Nge7 12. Nd5 Qxb3 13. axb3 $40) 10. Nd5
+{!} (10. Ba3 $5 d6 11. e5 $40) 10... Nxd5 (10... Qxe4 11. Ng5 $40) 11. exd5 {
+(an exchange of developed pieces is favor  side with an advantage in activity)}
+Ne5 (11... Nd8 12. Ba3 d6 13. Qb5+ $18) 12. Nxe5 Qxe5 13. Bb2 {(Now white will
+use ALL his pieces while black has only 2 active ones)} Qg5 14. h4 {! (The
+principle of time - it's important to attack by your every move. Otherwise an
+opponent will bring more pices to defense)} (14. Qa3 $1 {was very powerful as
+well. It cuts off the black's king in the center and prevents the d6 move})
+14... Qxh4 (14... Qh6 15. Qa3 $18 {'with the idea' Rfe1+}) (14... Qg4 15. Rfe1+
+Bxe1 (15... Kd8 16. Qe3 Bb4 17. d6 Bxd6 18. Bxf7 $40) 16. Rxe1+ Kd8 17. Qe3
+Qxh4 18. g3 $18) 15. Bxg7 Rg8 16. Rfe1+ Kd8 17. Qg3 {!} (17. Qg3 {!} Qxg3 18.
+Bf6#) 1-0
+
+[Event "USSR 42/(152)"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Tal M"]
+[Black "Oll L"]
+[Result "*"]
+[ECO "B17"]
+[WhiteElo "2600"]
+[BlackElo "2430"]
+[Annotator "Smirnov"]
+[PlyCount "29"]
+[EventDate "1986.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Ng5 h6 $2 {(This
+well-known mistake only helps white start an attack)} 7. Ne6 {(Of course we
+should try to move forward if possible)} Qa5+ $2 {(This gives white an extra
+tempo for development)} (7... fxe6 $4 8. Bg6#) 8. Bd2 Qb6 9. Nf3 $1 {(Black
+has made a few mistakes already. Therefore white may and should start an
+attack immediately.)} (9. Nxf8 $2 Nxf8 {unblocks the black's position and
+leads to equality}) 9... fxe6 10. Bg6+ Kd8 {(The worse thing about centralized
+king is that it makes impossible to activate his rooks. This gives white a
+huge advantage in activity.)} 11. O-O c5 $2 {(An attacking side should open a
+position, so the c5 move rather helps white)} 12. c4 $2 (12. Ne5 $1 {(We
+should consider attacking moves on an opponent's terrirory mainly)} Nxe5 13.
+dxc5 Qc7 14. Ba5+ $18) 12... cxd4 $2 {(black removes a tension and activates
+the white's knight)} 13. Nxd4 e5 14. c5 $1 {(an attacking move on the black's
+side)} Nxc5 15. Ba5 $18 *
+
+[Event "Rockaden - Trud 42/769"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Wiedenkeller M"]
+[Black "Tal M"]
+[Result "0-1"]
+[ECO "E70"]
+[WhiteElo "2460"]
+[BlackElo "2600"]
+[Annotator "Smirnov"]
+[PlyCount "82"]
+[EventDate "1986.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. Bd3 d6 7. Nge2 e6 8. O-O
+exd5 9. exd5 Ng4 10. Bf4 Ne5 11. Qd2 Nbd7 12. b3 f5 13. Bg5 Nf6 14. f4 $2 {
+(white loses a bishop and weakens his position)} Nxd3 15. Qxd3 Bd7 16. Bh4 Re8
+17. h3 Qe7 18. Rae1 {(Black has finished the main opening tasks, so it's time
+for an attack)} (18. Bf2 Ne4) 18... Qe3+ {(In order to find attacking moves
+you should move your pieces as forward as it possible onto the opponent's
+territory)} 19. Qxe3 Rxe3 20. Nd1 Ree8 (20... Rd3 {%04?!} 21. Nc1 Rd2 22. Re7
+$14) 21. Nec3 Nh5 $1 {(This helps black to attack the white's weaknesses f4,
+g3 and d4)} 22. Re7 Rxe7 23. Bxe7 Ng3 $1 {(counterblow! You should try to make
+attacking moves even when your opponent attacks something)} 24. Rf3 (24. Re1
+Re8 $17) 24... Bd4+ {(The only forcing move)} (24... Ne4 25. Nxe4 fxe4 26. Rg3
+Bd4+ 27. Ne3) 25. Kh2 Ne4 $17 26. Ne2 (26. Nxe4 $2 fxe4 27. Rf1 e3 {(pay
+attention on the fact that black realizes his plan persistently and ignores
+the white's threat)} 28. Re1 Re8 29. Bxd6 e2 $19) 26... Bg7 27. Re3 Re8 28. Bh4
+b5 $1 {(White covered his weaknesses on the king-side, so black starts
+attacking on another wing.)} 29. cxb5 Bxb5 {(opening of a position gives you a
+direct attack)} 30. a4 Ba6 31. Nec3 Bd4 {(the only attacking move on the
+white's side)} 32. Re1 Bd3 {(black occupies the white's territory constantly)}
+33. Ne2 Bf6 {(an attacking move!)} 34. Bxf6 Nxf6 35. Ndc3 Re3 {(one more move
+forward)} 36. Kg1 Bxe2 37. Nxe2 Rxb3 38. Nc1 Rb1 39. Kf2 Nxd5 40. Nd3 Rxe1 41.
+Kxe1 Kf7 0-1
+
+[Event "Yerevan 41/157"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Tal M"]
+[Black "Mnatsakanian E"]
+[Result "1-0"]
+[ECO "B30"]
+[Annotator "Smirnov"]
+[PlyCount "45"]
+[EventDate "1986.??.??"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 $2 {(Black makes the 2nd move of the
+knight and therefore breaks the principle of the least active piece.)} 5. e5 $1
+{(After an opponent's mistake you may and should start an attack!)} Nxb5 6.
+Nxb5 Nd5 7. Ng5 {(In order to attack you should make moves forward onto an
+opponent's territory)} f6 8. Ne4 $6 {(White is making a move back which is not
+that great)} (8. Qf3 $1 {(counterblow! We should attack by every move)} e6 $2
+9. Ne4 {and Nd6}) 8... f5 $8 (8... a6 9. Nbc3 Nxc3 10. dxc3 {with much more
+active position}) 9. c4 $1 {(counterblow!)} (9. Nxc5 $2 Qb6) (9. Nec3 {(it's a
+move back and it's too passive)} Nxc3 10. Nxc3 d5 {=}) 9... Nc7 (9... Nb6 10.
+Nxc5 Nxc4 11. Qh5+ g6 12. Qe2 $40) (9... Nf4 10. Qf3 Nxg2+ 11. Qxg2 fxe4 12.
+Qxe4 $16) 10. Nxc5 {(Of course white should go forward)} Nxb5 11. cxb5 Qb6 $2 {
+(Black wants to capture the pawn, but ignores development. This can't be good.)
+} (11... d6 12. exd6 exd6 13. Qe2+ Kf7 {leads to a position with mutual chances
+}) 12. d4 Qxb5 13. Nd3 $16 {(Though it's a move back, but white needs to
+prepare castle and black would anyway push the knight back after b6 or d6)} e6
+14. O-O Be7 15. a4 {(An advantage in activity is a temporary factor. Thus it
+must be used immediately.)} Qc4 (15... Qb6 16. d5 $1 exd5 17. Nf4 $40) 16. Be3
+O-O 17. Rc1 Qa6 (17... Qd5 18. Nf4 Qa5 19. d5 $40) 18. d5 $1 {(In order to
+start an attack we should make moves on an opponent's side, and we should open
+a position.)} (18. Rc7 {is fine too, but black can push it back after} Bd8)
+18... b6 $2 (18... d6 {(it's the only move to stop white's pawns)} 19. exd6
+Qxd6 (19... Bxd6 20. Bc5 Bxc5 21. Nxc5 Qb6 22. a5 $18) 20. Bc5 $40) 19. dxe6 $6
+(19. Qb3 $1 {this flexible move saves both threats (d6 and de) and makes the
+black's defense very hard.}) (19. d6 $5 Bd8 20. b4 {totally blocks the black's
+position}) 19... dxe6 20. Qb3 (20. Rc7 $6 {(looks good, but doesn't work so
+well)} Bd8 {!} (20... Rd8 {?} 21. Rxe7 Qxd3 22. Qh5 $18) (20... Re8 {?} 21. b4
+b5 22. Bc5 $18) 21. Nb4 Qxf1+ 22. Qxf1 Bxc7 $13) 20... b5 $6 {( a bad move in
+a tight position)} (20... Qb7 21. Nf4 Bg5 22. Nxe6 Qf7 23. Rxc8 Raxc8 24. Bxg5
+Rfe8 25. Nd4 $18) 21. axb5 Rb8 22. Rc7 {(the attacking move!)} Rxb5 (22... Bd8
+23. bxa6 Rxb3 24. Rxc8 Rxd3 25. Bxa7 $18) 23. Qc2 {(now both black's bishops
+are in danger)} (23. Qc2 Rd5 $8 24. Nf4 Rd7 25. Rc6 Qb7 26. Nxe6 Re8 27. Rc1
+$18) 1-0
+
+[Event "European Individual Chess Championship "]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "2.97"]
+[White "Polgar Judit"]
+[Black "Philippe Christophe"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2686"]
+[BlackElo "2409"]
+[Annotator "Smirnov"]
+[PlyCount "55"]
+[EventDate "2011.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. Be3 Nf6 8. g4
+$5 {(Do you know why such plans works well for white in Sicilian? It's because
+black made a lot of pawn moves (d6, e6, a6) - so black broke the principle of
+maximum activity. After an opponent's mistake you may start an attack
+immediately.)} h6 9. h4 Bd7 $2 {(It's too slow. White is preparing a quick
+attack and black has to counter somehow)} (9... e5 {would be more aggressive.
+A central counterplay is usually the best reaction to an opponent's side
+attack.}) 10. Rg1 {(White is realizing his plan persistently)} d5 {(Black
+wants to open a position (and to use the white's weaknesses), but it doesn't
+work really)} 11. exd5 Nxd5 12. Nxd5 exd5 {(The central position is still
+static, so the black's attempt was useless)} 13. Qd2 (13. g5 {is also possible,
+but gives black a new open file after} hxg5 14. hxg5) 13... Rc8 $2 {(This move
+doesn't do much and eliminates black's long-castle)} 14. O-O-O Bb4 15. c3 {(of
+course white should make an attacking move)} Be7 16. f4 $5 (16. g5 $1 {(a move
+on the opponent's side should be more aggressive)} hxg5 17. hxg5 {and then g6
+or Rh1}) 16... b5 17. Kb1 {(black has nothing to withstand against the white's
+king-side attack, so white may not hurry up.)} Na5 18. Nf3 {(Though it's a
+move back, but in this position it's the only logical attacking move)} Bc6 (
+18... Nc4 $2 19. Bxc4 dxc4 20. Bb6 $18) 19. Bd4 {(the only attacking move)} O-O
+20. g5 h5 21. Ne5 {(white is attacking by every move)} Nc4 22. Bxc4 {(white
+wants to save the active knight on e5)} dxc4 23. Qe2 Qe8 (23... g6 24. Nxc6
+Rxc6 25. Qe5 $18) 24. Nxc6 {(When you focus on forcing moves, you will find
+attacking ideas easily)} Rxc6 25. Qe5 f6 26. Qd5+ Kh8 27. g6 f5 28. Qf3 1-0
+
+[Event "European Championship"]
+[Site "?"]
+[Date "2011.03.22"]
+[Round "1"]
+[White "Jakovenko Dmitry"]
+[Black "Smirnov Artem"]
+[Result "0-1"]
+[ECO "E32"]
+[Annotator "Smirnov"]
+[PlyCount "86"]
+[EventDate "2011.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 f5 8.
+Nf3 b6 9. g3 Bb7 10. Bg2 Nf6 11. O-O Be4 12. Qc3 Qe8 13. b3 d6 14. Bb2 Nbd7 15.
+Rfd1 {(Black has finished development and now he should compose a middlegame
+plan.)} Qh5 {(The black's plan in to attack on the king-side. First black
+needs to bring his pieces there.)} 16. Qd2 Rae8 17. Rac1 h6 {(In order to
+start a direct attack we need to open lines and diagonals for our pieces.
+Usually we do it by making pawn moves.)} 18. b4 g5 19. a4 Ng4 $1 {(an
+immediate move g4 doesn't open a king-side position. That's why black provokes
+white to play h3)} 20. h3 Ngf6 {(now the g4 move becomes a real threat)} 21. c5
+Nd5 22. cxd6 cxd6 23. Bf1 N7f6 {(White has no real counterplay so black has
+enough time for preparation)} 24. Nh2 g4 25. e3 (25. hxg4 $2 Nxg4 26. Nxg4 Qh1#
+) 25... gxh3 {(Black took a pawn, open a position and got great attacking
+chances)} 26. b5 Ng4 {(Black brings his pieces on the white's territory)} 27.
+Qe2 Bg2 $2 {(this move doesn't do anything really)} (27... Qg6 $1 {created a
+very strong threat of Nge3. Additionally black is preparing h5-h4. We can open
+a position by making pawn moves or by using a positional sacrifice. Here black
+uses both methods. This gave black a decisive attack.}) 28. Ba3 Rd8 29. Rc6 Rf7
+$2 (29... Ndf6 $1 {(You should realize your plan persistently. The white's
+king is in the cage and black only needs to attack it somehow.)} 30. Bxd6 Rxd6
+31. Rxd6 Ne4 32. Rxe6 Ng5 33. Re5 Nxh2 34. Qxh5 Ngf3+ 35. Qxf3 Nxf3#) 30. Rdc1
+Bxf1 31. Rxf1 Rfd7 32. e4 Ndf6 33. d5 exd5 34. exf5 Qxf5 35. Bb2 Re8 (35...
+Nxh2 $1 36. Kxh2 Re8 37. Qc2 Ng4+ 38. Kg1 Qf3 39. Qg6+ Kf8 $19) 36. Qc2 Qe4 37.
+Qxe4 dxe4 38. f3 exf3 39. Bxf6 f2+ 40. Kh1 Nxf6 41. Rxf2 Ne4 42. Rfc2 Nxg3+ 43.
+Kg1 Ne2+ 0-1
+
+[Event "Subotica (izt) 43/314"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Tal M"]
+[Black "Marjanovic Slavo"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2605"]
+[BlackElo "2505"]
+[Annotator "Smirnov"]
+[PlyCount "83"]
+[EventDate "1987.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nf3 Qc7 8. Bg5
+Nbd7 9. Nd2 h6 10. Bh4 Be7 11. Nc4 b6 12. Ne3 Bb7 13. Bc4 Qc5 14. O-O Rc8 15.
+Qe2 {(White has finished a realization of the main opening tasks and is
+starting an attack. Right now the a6 pawn is hanging)} g5 $6 {(Black has quite
+a lot of weaknesses already and now he is weakening his position again. Of
+course this is favor white who has more active position)} ({better was} 15...
+a5) 16. Bg3 Nxe4 {(Black tries to play actively, but in fact he opens a
+position which hastens the white's attack.)} 17. Nxe4 Bxe4 {%02 (starting from
+here)} 18. Bxa6 Rc7 19. Ra3 $1 {(We should attack by every move. White brings
+the least active piece into a game and creates a powerful threat of Rc3)} d5
+20. f3 Bg6 21. Rc3 Qd6 22. Nxd5 {(The forcing move on the black's territory)}
+Rc5 23. Nxe7 Kxe7 24. Rd1 {(White is attacking by every move and black has no
+time to activate his h8-rook.)} Qc7 25. Bb5 Rd8 26. Be1 $2 {(this move back
+looks strange and pauses the white's attack)} (26. Rxc5 $1 {(we should make
+forcing moves first of all)} Qxc5+ 27. Bf2 Qc7 28. b4 $18) 26... f6 27. Rd5
+Rxc3 28. Bxc3 Nc5 29. Rxd8 Qxd8 30. b3 Qd6 31. Be1 Ne6 32. c3 Nc5 33. b4 Nd3
+34. Qd2 h5 35. Bf2 Ke6 36. Qe3 Nxf2 37. Kxf2 h4 38. a5 bxa5 39. bxa5 Qa3 40. a6
+Ke7 41. a7 Bf7 42. a8=Q 1-0
+
+[Event "Malta ol (Men)"]
+[Site "?"]
+[Date "1980.11.25"]
+[Round "5"]
+[White "Tal Mihail"]
+[Black "Radulov Ivan"]
+[Result "1-0"]
+[ECO "B66"]
+[WhiteElo "2705"]
+[BlackElo "2490"]
+[Annotator "Smirnov"]
+[PlyCount "55"]
+[EventDate "1980.??.??"]
+[Source "EXT 2000"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Nxd4 $6 {(Black is removing the tension which gives white more
+activity)} 10. Bxd4 b5 $2 {(Black makes all the pawn moves ignoring
+development. White should punish black for his mistakes and start an attack.)}
+11. f4 $1 {(That's right! White should NOT think about a defense of his e4
+pawn. White should be an attacking side and so he needs to open a position.)}
+b4 12. Bxf6 Qxf6 13. Ne2 (13. Na4 $2 {(Though it's a move forward, the knight
+is offside there)} Rb8) 13... Rb8 14. Nd4 {(An attacking move: white is
+threatening Nc6)} Rb6 15. Bc4 {(When you have no immediate attack, you should
+bring the least active piece into an attack)} g6 16. Bb3 {(Threatening Ba4)}
+Bd7 17. Nf3 {(White needs to open a position by making a central pawn move e5)}
+a5 $6 {(The black's position is already bad, but making one more pawn move
+makes it hopeless)} 18. Ne5 {(The attacking move on the black's side)} Bb5 19.
+Ng4 {(White prevents black from finishing development by making constant
+threats)} Qg7 20. e5 {(opening a position and threatening Nf6)} Be7 21. Qd4 Bd8
+22. Nf6+ {(white simply moves forward and attacks something)} Kf8 23. g4 {(The
+black's king-side pieces are blocked and are out of game)} g5 24. Nh5 (24. f5
+$1 {opening a position was very powerful as well}) 24... Qg8 25. exd6 Rb7 26.
+f5 exf5 27. Rhe1 {(It's quite instructive to compare positions of white's and
+black's pieces)} Bd7 28. Qe5 1-0
+
+[Event "Negroponte op"]
+[Site "?"]
+[Date "2010.08.14"]
+[Round "6"]
+[White "Papaioannou Ioannis"]
+[Black "Pap Misa"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2621"]
+[BlackElo "2509"]
+[Annotator "Smirnov"]
+[PlyCount "117"]
+[EventDate "2010.??.??"]
+[Source "CBM 137 Extra"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 b6 5. Nc3 Bb7 6. Bg5 a6 $6 {(White
+wasn't threatening Nb5 now, and so a6 wasn't necessary. Therefore black broke
+the principle of maximum activity and white may try to use it. You see how
+it's important to understand the base strategic principles)} 7. e4 $1 {
+(Threatening e5 and opening a position. We can open a position by a pawn move
+or by a positional sacrifice. Here white uses both methods together)} Nxe4 8.
+Nxe4 Bxe4 9. Qg4 {(attack!)} Bg6 (9... Bb7 10. O-O-O $40) 10. f4 (10. g3 $5 {
+makes sense also. Here white is going to use the weak diagonal h1-a8.}) 10...
+f6 (10... Nc6 11. f5 $1 {(we should realize our plan persistently and develop
+an attack quickly)} Nxd4 12. fxg6 Nc2+ 13. Kd2 Nxa1 14. gxf7+ Kxf7 15. Bd3 $40
+{White has developed all his pieces while black developed only his king :) Of
+course this will give white great attacking chances.}) 11. f5 {(counterblow -
+we should try to attack by every move)} Bf7 12. Be3 e5 13. fxe6 {(of course
+white needs to open a position)} dxe6 14. O-O-O (14. Nxe6 $2 Qe7) 14... Qc8 15.
+Bd3 $6 {(This natural move is suddenly a mistake)} ({Usually we should move
+the pieces as forward as possible, but in this particular position the move} 
+15. Be2 {was better. Now black can't play} Nc6 {because of} 16. Nxc6 Qxc6 17.
+Bf3 $18) 15... Nc6 16. Nxc6 Qxc6 {(Now white can't play Be4 and that's why 15.
+Be2 was better)} 17. Kb1 Rc8 18. Ka1 (18. Be4 $2 Qxe4+ 19. Qxe4 Bg6) 18... g6
+19. Be4 Qc7 (19... Qxc4 $2 20. Rc1 $18) 20. Qf3 {(Black is ready to finish his
+development and white has to attack immediately)} Bg7 21. Bb7 O-O (21... Rb8 $2
+22. Bc6+ Kf8 23. Rd7) 22. Bxc8 Rxc8 {(White won an exchange and got an
+advantage)} 23. g4 f5 24. Rc1 Be8 25. Qf2 Bc6 26. Bxb6 Qf7 27. Rhf1 Be4 28.
+gxf5 gxf5 29. Rg1 Kh8 30. Bd4 e5 31. Bc3 Bf6 32. Rce1 (32. Qb6 $1 $16) 32...
+Qxc4 33. Qb6 Qc6 34. Qa5 Qb5 35. Qa3 Re8 36. Rd1 Bd5 37. Rge1 Bf7 38. b3 f4 39.
+Qd6 Bg7 40. Qc7 Bg6 41. Rd7 Bf6 42. Qd6 Kg8 43. Kb2 Bf7 44. h4 Be6 45. Rc7 (45.
+Rg1+ $1 Kh8 46. Rf7 $18 {threatening Rf8 and Rf6}) 45... Qd5 46. Rg1+ Kh8 47.
+Qb6 Qb5 48. Qf2 Qd3 49. h5 a5 50. Qa7 f3 51. Re1 Bg8 52. Qf2 a4 53. Rc6 Rb8 54.
+Re3 a3+ 55. Kc1 Qf5 56. Rxf6 Qxf6 57. Bxe5 Rc8+ 58. Kd2 Rd8+ 59. Ke1 1-0
+
+[Event "Khanty Mansiysk ol (Men) 39th"]
+[Site "?"]
+[Date "2010.09.25"]
+[Round "5.1"]
+[White "Papaioannou Ioannis"]
+[Black "Gruenfeld Yehuda"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2622"]
+[BlackElo "2464"]
+[Annotator "Smirnov"]
+[PlyCount "65"]
+[EventDate "2010.??.??"]
+[Source "CBM 139"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. g3 d5 6. Bg2 e5 7. Nb3 d4 8. O-O
+Nc6 9. f4 exf4 $2 {(black removes a tension and activates the white's bishop)}
+(9... Be7 {or Bd6 was better}) 10. Bxf4 Be6 11. N1d2 (11. Bxc6+ $5 bxc6 12.
+Qxd4 Qxd4+ 13. Nxd4 Bc5 14. e3 Bxd4 15. exd4 Bxc4 16. Rc1 Bd5 17. Nc3 $14)
+11... a5 $2 {(We should activate our pieces first of all. A pawn move a5
+doesn't do anything and ignores development)} ({better was} 11... Be7) 12. Nf3
+{(After an opponenet's mistake we may and should attack. Right now white is
+attacking the d4 pawn)} Bxc4 13. Rc1 $1 {(principle of time - we should attack
+quickly and should bring more pieces in a game with tempos)} Bd5 14. Nfxd4 {
+(Black has only a few developed pieces. If white exchanges them - black will
+have no pieces in the game at all)} Bxg2 15. Kxg2 Qd5+ 16. e4 $1 {(An attacked
+should open a position by making pawn moves in a center)} Nxe4 17. Nxc6 bxc6
+18. Qf3 Nf6 {(Now we can clearly see a situation where white uses all his
+pieces, while black only 2. Of course it will be simple for white to gain a
+victory in any variation)} 19. Rxc6 (19. Nd4 $1) 19... Bb4 20. a3 Be7 21. Re1
+Qxf3+ 22. Kxf3 Nd5 23. Rc5 {(White keeps attacking by every move)} Nxf4 24.
+gxf4 Kf8 (24... a4 25. Rc7 $18) 25. Rxa5 Rc8 26. Rc1 Rd8 27. Nc5 g6 28. Ra7
+Bxc5 29. Rxc5 Rd3+ 30. Ke4 Rb3 31. Rcc7 Rxb2 32. Rxf7+ Ke8 33. Rfb7 {It's the
+33rd move and the h8-rook is still on its initial place...} 1-0
+
+[Event "Aeroflot 2011"]
+[Site "Moscow, Russia"]
+[Date "2011.02.13"]
+[Round "6"]
+[White "GM_Khismatullin"]
+[Black "GM_Kurnosov"]
+[Result "1-0"]
+[ECO "D70"]
+[WhiteElo "2649"]
+[BlackElo "2662"]
+[Annotator "Smirnov"]
+[PlyCount "61"]
+[EventDate "2011.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+f5 9. e5 Be6 10. Nh3 {(Threatening Nf4 or Ng5)} Nc4 11. Bxc4 Bxc4 12. O-O-O c5
+{(White has finished the main opening tasks and now it's time for an attack.
+White has even more reasons to play aggressively because black didn't develop
+his queen-side pieces yet.)} 13. Bh6 $1 {(In order to start an attack we
+should move the pieces forward on an opponent's territory)} Qxd4 14. Qg5 $1 {
+(We should attack quickly making each move with a threat)} Qxe5 15. Rhe1 {(An
+attacker can bring more pieces in a game with tempos, while a defender has to
+react on white's threats)} Qf6 16. Bxg7 {(forcing move)} Qxg5+ 17. Nxg5 Kxg7
+18. Rxe7+ $1 {(even if this move is not the best objectively, it will bring
+great practical result for sure. Tight defense is a hard task and most players
+can't do it well)} Kf6 19. Rxh7 Kxg5 20. Rd6 {(now the black's king is almost
+captured. White is going to play g3 and h4.)} Bg8 21. h4+ Kf4 22. Rxb7 {(This
+not only captures a pawn, but also not allows black to develop his knight)} Bc4
+23. Re7 {(White is still keeping the king in a cage)} Na6 ({computer suggests} 
+23... Rc8 {but it's a hard move for a human. The black's position is still
+hard in any case.}) 24. b3 Bf1 25. Nd5+ Kg3 26. Rxg6+ {(White keeps making
+forcing moves all the time)} Kf2 $2 {fatal mistake} (26... Kh2 {avoided an
+immediate loss}) 27. Nf4 {(White threatens Nh3 and black has no sufficient
+defense)} Bxg2 (27... Kg1 28. Re1) 28. Nd3+ Kxf3 29. Ne1+ Kf2 30. Rxg2+ Kf1 31.
+Ree2 {It's the 31st move and the a8 rook is still there...} 1-0
+

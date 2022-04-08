@@ -1,0 +1,293 @@
+[Event "Lindores Abbey"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "1.1"]
+[White "Karjakin, Sergey"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2733"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "131"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Re8 11. Nd2 e5 12. Bg5 Nd4 13. Qb1 Bf5 14. Bd3 Bxd3 15.
+Qxd3 Ne4 {Diagram #} 16. Ndxe4 $1 {White is fighting for central domination by
+exchanging an important knight. If Black closes the e-line with his pawn, then
+it could be possible to capture the d4-knight. Please also notice that the
+double attack with b4 is always in the air.} (16. exd4 $2 exd4 17. O-O (17. Ne2
+dxc4 $19) 17... dxc3 $17 {
+And Black has a fantastic central control and a big advantage here.}) (16.
+Ncxe4 $5 {This was another interesting continuation.} dxe4 17. Qxe4 Qb6 18. b4
+{White is forcing back the black pieces and, for that reason, he dominates in
+the center.} Bf8 19. Qd3) 16... dxe4 17. Qd2 $1 {White is fighting for the
+center. The d4-knight is under attack, and White manages to close the e-line;
+so, the e8-rook is not so active. White starts dominating in the center.} (17.
+Qxe4 $2 {The queen has defensive duties; so, it should not leave the c3-knight
+"unprotected".} Bxa3) 17... Ne6 18. Nxe4 $5 {This is an interesting move in
+order to exchange queens and transpose the game into an endgame with a pawn up.
+} (18. Bh4) 18... Qa6 19. O-O Qxc4 20. Qd5 {White is playing in the center.
+Even with material equality, White finalizes his development, and he has a
+good control over the center.} Qxd5 21. Rxd5 $14 {White has a small advantage
+and, after a long fight, he manages to win the game.} Bf8 22. Bf6 Rac8 23. Bxe5
+Nc7 24. Bxc7 Rxc7 25. Nd2 Rc2 26. Rb1 Re6 27. Kf1 Rb6 28. b4 a5 29. Nf3 axb4
+30. axb4 Be7 31. b5 g6 32. g4 h6 33. Kg2 Bf6 34. Kg3 Re6 35. h3 Re7 36. Ne1 Ra2
+37. Nd3 Kg7 38. Kf3 Bh4 39. Rb2 Ra1 40. Rc2 Rb1 41. Rc1 Rb3 42. Rc8 Re6 43. Ke2
+Ra3 44. Nc5 Ra2+ 45. Kd3 Re7 46. Rd7 Rxd7+ 47. Nxd7 Bxf2 48. Rc7 Ra3+ 49. Kc4
+Rxe3 50. Rxb7 Rxh3 51. Ne5 Kf6 52. Kd5 Kg5 53. Rxf7 Be3 54. Rg7 Kf4 55. Rxg6
+Kg3 56. b6 Rh1 57. b7 Rb1 58. Rg7 Bf4 59. Nc4 Rd1+ 60. Kc5 Rc1 61. Rf7 Rb1 62.
+Kc6 Bb8 63. Rf8 Rb4 64. Rxb8 Rxc4+ 65. Kb5 Rc1 66. Rg8 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.01.13"]
+[Round "5.7"]
+[White "Hanewinkel, Martin"]
+[Black "Kamp, Aaron"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1864"]
+[BlackElo "1802"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "73"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Beelen"]
+[BlackTeam "Muenster SK II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. Bf4 O-O 5. h3 b6 6. e3 Bb7 7. Nbd2 d5 8. Bd3
+Nbd7 9. Qe2 c5 {Diagram #} 10. Ne5 $6 {This wasn't the best move. It was much
+better to finalize the development first, and then, to put his pieces in the
+center.} (10. O-O $5) (10. Ba6 $5) (10. Bc2 $5) (10. Rd1 $5) 10... Nh5 (10...
+Nxe5 $5 11. Bxe5 Nd7 {And the position is about equal, or we can say that
+Black has a small initiative.}) 11. Bh2 Nxe5 $6 {It was bad to capture the
+central knight because the h5-knight is out of the game, and White has a good
+control over the center.} (11... c4) (11... e6) 12. dxe5 c4 13. Bc2 {White has 
+a central control and, in the next move, he would like to play Nf3 and Nd4.
+Thus, the d4 was the only realistic move for Black to continue fighting for
+the center and activate his pieces. If White manages to place the knight on d4,
+then both bishops, Bb7 and Bg7, will be close and inactive.} d4 $5 14. exd4
+Bxg2 15. Rg1 Bxh3 16. Nf3 $2 {White played a bad move and lost his initiative
+but, after a long fight, he managed to win the game.} (16. Nxc4 $5) (16. Be4 $5
+) 16... Qd7 17. Nh4 Be6 18. f4 f5 19. Nxg6 hxg6 20. Rxg6 Qd5 21. Qxh5 Bf7 22.
+O-O-O Bxg6 23. Qxg6 Qf7 24. Qg5 e6 25. Rg1 Kh7 26. Bd1 Bh6 27. Qh4 Rg8 28. Rh1
+Qb7 29. Bg3 Rg6 30. Qh5 Qg7 31. Bh4 Kg8 32. Bf6 Bxf4+ 33. Kc2 Qh6 34. Qf3 Bh2
+35. Qxa8+ Kf7 36. Qb7+ Kg8 37. Qc8+ 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.01.13"]
+[Round "5.5"]
+[White "Langhans, Joerg"]
+[Black "Broemmel, Rudolf"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "1937"]
+[BlackElo "1901"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "47"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Rheine Klein Berlin"]
+[BlackTeam "Raesfeld Erle"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Bg4 4. Nc3 Nf6 5. Be3 e6 6. h3 Bh5 {Diagram #} 7. d5
+$1 {White started immediately a center assault in order to kick Black's pieces
+from good positions. It looks strange to attack the center so early and move
+the pawns in the opening, but you should start the attack after your
+opponent's mistake. It was a mistake from Black's point of view to play d6 and
+e6.} (7. g4 $5) (7. Be2 $5) 7... exd5 8. exd5 Bxf3 9. Qxf3 Ne5 10. Qf4 {
+White is playing in the center and keeps an eye on the a4. From f4, the queen
+can go fast to the king or queenside.} (10. Qg3 $5 {This was another very
+interesting move. If you can prevent or harm your opponent's development, then
+you may do it. After this move, it's difficult for Black to develop the
+f8-bishop.}) 10... Be7 11. O-O-O {White has a fantastic development, good
+control over the center, space advantage and the bishop pair.Later on, he can
+attack on the kingside by starting pushing the pawns there. He has a good
+advantage, and he manages to win the game afterwards.} O-O 12. g4 Nfd7 13. Qg3
+Ng6 14. f4 Re8 15. g5 Bf8 16. h4 Ne7 17. Bd3 c6 18. h5 Nxd5 19. Nxd5 cxd5 20.
+Bd4 Re4 21. Bxe4 dxe4 22. g6 fxg6 23. hxg6 h6 24. Qb3+ 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.4"]
+[White "Quante, Lennart"]
+[Black "Diehlmann, Christian"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2054"]
+[BlackElo "1909"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Muenster SK II"]
+[BlackTeam "Ahaus Wessum"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nf3 Nf6 6. Nc3 Nc6 {Diagram #} 7. c5
+{White is playing for the control of the center. If Black doesn't know what to
+do here, he will face huge problems because White has a dominant position.
+Black's problem is that the c8- and f8-bishops are very passive. Similalry,
+it's difficult for Black to perform the e5 move.} Bd7 (7... Be7) (7... Ne4 {
+Black should try to do something dynamic, as Ne4 or Be7, and then, Ne4 because
+he has activity problems and his pieces are extremely passive.}) 8. Rb1 (8. a3
+$5 {This is a very strong idea in order to play b4. By that White will win
+space on the queenside, a potential breakthrough with b5 and c6, in the
+appropriate moment. As we mentioned earlier, the e5 move is difficult to
+perform because Black has no active pieces and counterplay.} b6 9. b4) 8... b6
+9. b4 bxc5 10. bxc5 Rb8 11. Bf4 $16 {White has a fantastic central domination,
+total control over the e5-square and a connected passed pawn on c5. He uses
+this advantages and wins the game afterwards.} Rxb1 12. Qxb1 Nh5 13. Bd2 Be7
+14. Bd3 h6 15. O-O O-O 16. Re1 g5 17. Qd1 Ng7 18. h4 f5 19. hxg5 hxg5 20. Bb5
+Bf6 21. Qa4 g4 22. Ne5 Nxe5 23. dxe5 Bxb5 24. Nxb5 Bg5 25. Bb4 g3 26. fxg3 Nh5
+27. Qxa7 Rf7 28. Qa6 Qb8 29. c6 Bd8 30. Bc5 Nxg3 31. a4 Ne4 32. Bd4 Bc7 33.
+Nxc7 Rxc7 34. Qb5 Qe8 35. Rc1 Qf7 36. Qb8+ Kh7 37. Bb6 f4 38. Qxc7 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.8"]
+[White "Radinger, Rudolf"]
+[Black "Redemann, Rolf"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "1574"]
+[BlackElo "1404"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Beelen"]
+[BlackTeam "Muenster SK III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bc2 d6 8. d4
+exd4 9. cxd4 Bb6 10. h3 h6 11. Nc3 O-O 12. Bf4 Bb7 13. Rc1 Re8 14. Re1 Rc8 15.
+Bb1 Nh5 16. Bh2 Nf6 17. a3 Nd7 18. Nd5 Ba7 {Diagram #} 19. b4 {White's control
+over the center is impressive, isn't it? He played b4 in order to stop, or
+make harder the liberating advancement to c5. If Black stays with the c7 pawn,
+then it is weak and White can start attacking it hardly. Similalry, if this
+pawn stays there, it will hamper Black's pieces activity. White enjoys the
+central control and domination; so, he can easily maneuver or regroup his
+pieces behing his strong center.} Ne7 20. Nc3 $1 {When you have more space
+it's important to keep the material on the board; this is a fundamental rule
+in chess. With more space, you can regroup more easily your pieces and create
+better plans. With less space, it's difficult to play and find accurate moves.}
+Ng6 21. Nd5 (21. a4 $5 {This was a very intresting move to open lines on the
+queenside and take use of Black's cramped pieces. Please note that the
+a7-bishop is unprotected; so, it could be a potential tactical problem for the
+future.}) 21... Nf6 (21... Bxd5 $5 22. exd5 {Yes, Black can harm White's
+central domination, but the c7-pawn will be weak forever. Similarly, the
+a7-bishop is stil out of play. Even if it was a good decision to capture on d5
+with the bishop, Black is afraid of the c7-weakness and the a7-bishop
+passivity; so, he doesn't play that move.}) 22. Nxf6+ Qxf6 23. Qd2 $14 {
+Black manages to exchange one pair of knighs, and this is very good for him.
+However, still White has central domination and active pieces; so, he has the
+advantage. After a long fight, White's player manages to win the game.} Nh4 24.
+Nxh4 Qxh4 25. Bg3 Qf6 26. Rcd1 Bb6 27. f3 d5 28. e5 Qe7 29. Qd3 g6 30. f4 Rcd8
+31. Bf2 Bc8 32. g4 h5 33. Qg3 hxg4 34. hxg4 Kg7 35. Kg2 Rh8 36. Rh1 Rxh1 37.
+Rxh1 Rh8 38. Rxh8 Kxh8 39. f5 Qg5 40. Be3 Qe7 41. Qh3+ Kg7 42. f6+ 1-0
+
+[Event "Olympiad-43"]
+[Site "Batumi"]
+[Date "2018.09.27"]
+[Round "4.3"]
+[White "Caruana, Fabiano"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "E03"]
+[WhiteElo "2827"]
+[BlackElo "2771"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "51"]
+[EventDate "2018.09.24"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GEO"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "US of America"]
+[BlackTeam "India"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "IND"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Be3 Bd6 8.
+Qc2 O-O 9. Nh3 e5 10. O-O h6 11. dxe5 Nxe5 12. Nc3 Qe7 13. Rad1 Re8 14. Nf4 c6
+15. Bd4 g5 16. Nd3 Nxd3 17. Rxd3 Be5 {Diagram #} 18. Qd2 {White steps aside to
+the potential dangerous diagonal, h7-b1. Similarly, he increases the control
+over the d-line. Of course, White had other interesting alternatives here, and
+if you guessed any of then, please accept my congratulations.} (18. e4 $5) (18.
+Bxe5 $5) (18. Rfd1 $5) 18... Bf5 19. e4 {White is driving back the bishop and,
+similarly, he increases his central control by placing his pawn in a good
+square.} Bg6 20. f4 {Caruana plays in a fantastic way with his pawns! Not only
+in this game, but in almost every game, he is really talented on how to move
+his pawns. White continues dominating in the center and drives back the enemy
+pieces. Similalry, White is trying to take advantage of the weak kingside pawn
+formation on g5 and h6.} gxf4 21. Bxe5 Qxe5 22. gxf4 $16 {
+White has a clear advantage, and he manages to win the game afterwards.} Qc5+
+23. Kh1 Nxe4 24. Nxe4 Rxe4 25. Rg3 Rd4 26. Qe3 1-0
+
+[Event "Greek Team Championship"]
+[Site "?"]
+[Date "2016.07.07"]
+[Round "?"]
+[White "Svoboda, Vaclav"]
+[Black "Gogolis, Alexandros"]
+[Result "1-0"]
+[ECO "B01"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "91"]
+[EventDate "2016.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nf6 4. Nf3 c6 5. Be2 g6 6. O-O Bg7 7. c4 Qd8 8. Nc3
+O-O 9. Be3 Bf5 10. Qb3 Qb6 11. Qa3 Na6 12. Rad1 Qb4 13. Qxb4 Nxb4 14. a3 Na6
+15. Ne5 h5 16. h3 Rad8 17. Bf3 Nd7 {Diagram #} 18. Nxd7 $1 {White gives up his
+centralized knight, but he still dominates in the center. Black's problem is
+the a6-knight because it's out of the game. Black's strategy is to give the
+central superiority to White, and attack it afterwards with his pawns and
+pieces. However, Black doesn't manage to find a good counterplay over the
+d4-pawn and, step by step, White is driving out the black pieces.} (18. Rfe1
+Nxe5 19. dxe5 $11) (18. g4 Nxe5 19. dxe5 hxg4 20. hxg4 Be6 $15) 18... Rxd7 19.
+Rd2 {This is a prophylactic move. Before starting other things, he
+overprotects the weak d4-pawn. In the light of that, he postpones the g4
+advancement; but he will do it for sure in the future.} Rfd8 20. g4 {It's not
+time to limit the bishop's mobility from f5. In general, you need to increase
+your pieces' activity or decrease your opponent's activity.} hxg4 21. hxg4 Be6
+22. d5 {When all of your pieces are fully active and in good positions, then
+you need to search for tactics. This is exactly what White is doing; he takes
+advantage of the moment in order to use the bad located a6-knight. In such
+situations, White will be able to take a winning advantage.} Bxc3 23. bxc3 cxd5
+24. cxd5 f5 25. gxf5 $5 {White has a clear advantage, thanks to his space
+advantage, mobile pawns, bishop pair and coordination of his pieces; and also
+Black's knight is out of the game. White uses his advantages, and he manages
+to win the game afterwards.} (25. Rfd1 $1) 25... Bxf5 26. Bxa7 Rc8 27. Bd4 Nc5
+28. Re1 Nb3 29. Rb2 Nxd4 30. cxd4 Ra8 31. Re3 Kf7 32. d6 exd6 33. Bxb7 Ra7 34.
+Bc6 Rdc7 35. Rb6 Kf6 36. Be8 Rc1+ 37. Kg2 Rh7 38. Rxd6+ Kg5 39. Rg3+ Kf4 40.
+Bxg6 Be4+ 41. Bxe4 Rhh1 42. Rf6+ Kxe4 43. Rg4+ Kd3 44. Rf3+ Ke2 45. Re3+ Kd2
+46. d5 1-0
+

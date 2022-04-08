@@ -1,0 +1,25 @@
+﻿[Event "Pamplona op 14th"]
+[Site "Pamplona"]
+[Date "2004.12.21"]
+[Round "1"]
+[White "Cheparinov, Ivan"]
+[Black "Otazu Ojer, Inigo"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2576"]
+[SetUp "1"]
+[FEN "r6k/pp1Pn1p1/6Rp/4N2r/n2P1p1B/5P1K/P7/R7 w - - 0 27"]
+[PlyCount "14"]
+[EventDate "2004.12.21"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Poland"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "POL"]
+
+27. Re6 g5 28. Rxe7 Rxh4+ 29. Kg2 Rh2+ 30. Kxh2 Nc5 31. dxc5 Rd8 32. Re8+
+Kg7 33. Rxd8 b5 1-0
+

@@ -1,0 +1,610 @@
+[Event "Capablanca Memorial Elite 33rd"]
+[Site "Havana"]
+[Date "1998.05.20"]
+[Round "10"]
+[White "Becerra Rivero, Julio"]
+[Black "Vera Gonzalez Quevedo, Reynaldo"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2465"]
+[BlackElo "2535"]
+[PlyCount "73"]
+[EventDate "1998.05.07"]
+[EventRounds "11"]
+[EventCountry "CUB"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "1998.08.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. h4 b4 14. Nce2 Nc5 15.
+Ng3 g6 16. h5 Rf8 17. hxg6 hxg6 18. Qe3 e5 19. fxe5 dxe5 20. Nf3 Be6 21. Kb1
+Na4 22. Bh3 Rc8 23. Qe2 Qb6 24. Ka1 Qa5 25. Rd5 Bxd5 26. exd5 Rc7 27. Nxe5 b3
+28. cxb3 Nc3 29. bxc3 Qxc3+ 30. Kb1 Qxg3 31. Nc4 Rh8 32. d6 Rxh3 33. Rxh3 Qxh3
+34. dxc7 Kf8 35. Nb6 Qf5+ 36. Qc2 Qf1+ 37. Kb2 1-0
+
+[Event "RUS-Cup01 Chigorin Memorial"]
+[Site "St Petersburg"]
+[Date "1997.11.04"]
+[Round "4"]
+[White "Brodsky, Michail"]
+[Black "Biriukov, Oleg V"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2545"]
+[BlackElo "2410"]
+[PlyCount "57"]
+[EventDate "1997.11.01"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1998.01.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Be2 h6 10. Bxf6 Bxf6 11. Qd3 Nd7 12. O-O-O Be7 13. h4 Nf8 14. Qg3 g6 15.
+f5 Bd7 16. Rhf1 Qd8 17. f6 Bxf6 18. Qf3 Nh7 19. e5 Bc6 20. Qf2 Bxg2 21. exf6
+Bxf1 22. Rxf1 Qc7 23. Bg4 Nf8 24. Qe3 Kd8 25. Nd4 Qc5 26. Ne4 Qc7 27. Rd1 Kc8
+28. Nb5 axb5 29. Nxd6+ 1-0
+
+[Event "St Petersburg White Nights"]
+[Site "St Petersburg"]
+[Date "1999.07.02"]
+[Round "7"]
+[White "Chehlov, Aleksander"]
+[Black "Biriukov, Oleg V"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2288"]
+[BlackElo "2407"]
+[PlyCount "77"]
+[EventDate "1999.06.26"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "1999.10.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. Be2 Nc6 12. Nb3 Na5 13. O-O Nxb3 14. Rxb3
+Qc5+ 15. Kh1 Bg7 16. Na4 Qc7 17. Nb6 Rb8 18. f5 O-O 19. Bc4 Kh8 20. Qe2 Qc5 21.
+Qh5 Qe5 22. Rh3 h6 23. Bd3 Qd4 24. Nc4 d5 25. exd5 exf5 26. Ne3 f4 27. Nf5 Qe5
+28. Nxg7 Qxh5 29. Nxh5 Bxh3 30. gxh3 Rbc8 31. Rxf4 Rfd8 32. Nxf6 Rd6 33. a4 Kg7
+34. Nh5+ Kf8 35. Bc4 b5 36. axb5 axb5 37. Bb3 Ke7 38. Ng3 Rf6 39. d6+ 1-0
+
+[Event "Cannes masters k.o."]
+[Site "Cannes"]
+[Date "2000.02.20"]
+[Round "2.1"]
+[White "David, Alberto"]
+[Black "Fressinet, Laurent"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2520"]
+[BlackElo "2501"]
+[PlyCount "55"]
+[EventDate "2000.02.19"]
+[EventRounds "5"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2000.05.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nc6 8. Qd3
+h6 9. Bh4 g5 10. fxg5 Ng4 11. Nxc6 bxc6 12. O-O-O hxg5 13. Bg3 Qb6 14. Rd2 Ne5
+15. Bxe5 dxe5 16. Na4 Qc7 17. Be2 Rb8 18. Rhd1 Be7 19. Bg4 Rb4 20. Nc3 Rd4 21.
+Qf3 Rxd2 22. Rxd2 Rxh2 23. Bh5 Rh1+ 24. Nd1 Bc5 25. g4 Re1 26. Qf6 Bd6 27. Qh8+
+Bf8 28. Rf2 1-0
+
+[Event "USA-ch"]
+[Site "Greenville"]
+[Date "1983.??.??"]
+[Round "6"]
+[White "De Firmian, Nick E"]
+[Black "Tarjan, James Edward"]
+[Result "1-0"]
+[ECO "B60"]
+[WhiteElo "2520"]
+[BlackElo "2535"]
+[PlyCount "65"]
+[EventDate "1983.07.??"]
+[EventRounds "13"]
+[EventCountry "USA"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Bxf6 gxf6 8.
+Bc4 Qb6 9. Nde2 Bg7 10. O-O O-O 11. Bb3 f5 12. Ng3 fxe4 13. Ncxe4 Na5 14. Re1
+Nxb3 15. axb3 Bxb2 16. Ra4 Bg7 17. Nh5 Be5 18. Qd3 f5 19. Ng5 Qc6 20. Rc4 Qe8
+21. Rh4 Qg6 22. f4 Bd7 23. Rh3 Kh8 24. fxe5 Qxg5 25. e6 Bc6 26. Qd4+ Rf6 27.
+Nf4 Rg8 28. Rh5 Qg4 29. Re3 Be4 30. Reh3 Rg7 31. R3h4 Qf3 32. Rxh7+ Rxh7 33.
+Rxh7+ 1-0
+
+[Event "MK Cafe Cup-A"]
+[Site "Koszalin"]
+[Date "1999.08.10"]
+[Round "7"]
+[White "Dvoirys, Semen I"]
+[Black "Lesiege, Alexandre"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2590"]
+[BlackElo "2553"]
+[PlyCount "45"]
+[EventDate "1999.08.03"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "1999.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. f5
+Nc6 9. fxe6 fxe6 10. Bc4 Nxd4 11. Qxd4 Be7 12. Bb3 b5 13. a4 Rb8 14. axb5 axb5
+15. Ra7 Qb6 16. Nxb5 Bd7 17. Nc7+ Kf7 18. Nxe6 Bxe6 19. Bxe6+ Kxe6 20. Qc4+ d5
+21. exd5+ Kf5 22. Rxe7 Kxg5 23. h4+ 1-0
+
+[Event "Yopal"]
+[Site "Yopal"]
+[Date "1997.06.27"]
+[Round "7"]
+[White "Garcia, Gildardo"]
+[Black "Morovic Fernandez, Ivan"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2485"]
+[BlackElo "2580"]
+[PlyCount "81"]
+[EventDate "1997.06.20"]
+[EventRounds "9"]
+[EventCountry "COL"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "1997.09.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. a3
+Nc6 9. Nb3 Be7 10. Qf3 Qc7 11. O-O-O Bd7 12. g4 h6 13. Bxf6 Bxf6 14. Bg2 O-O-O
+15. h4 g6 16. Rh3 h5 17. g5 Bxc3 18. Qxc3 e5 19. Rhd3 Bg4 20. R1d2 exf4 21. Qf6
+Qe7 22. Qxf4 Ne5 23. Rc3+ Kb8 24. Na5 Ka8 25. Qf2 Be6 26. Qb6 Rc8 27. Rxd6 Rxc3
+28. bxc3 Bc8 29. c4 Bg4 30. c5 Rc8 31. Rd5 Nc6 32. Nc4 Rb8 33. Qb2 Be6 34. Nb6+
+Ka7 35. Rd6 Re8 36. e5 Bf5 37. Nc4 Qc7 38. Qb6+ Qxb6 39. cxb6+ Kb8 40. Bxc6
+bxc6 41. Rxc6 1-0
+
+[Event "Linares Anibal op 04th"]
+[Site "Linares"]
+[Date "1997.01.??"]
+[Round "9"]
+[White "Georgiev, Vladimir"]
+[Black "Herrera, Irisberto"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2515"]
+[BlackElo "2450"]
+[PlyCount "85"]
+[EventDate "1997.02.??"]
+[EventRounds "10"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1997.06.01"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. a3 Rb8 12. Bxf6 Nxf6 13. g5 Nd7 14. h4 b4 15.
+axb4 Rxb4 16. Bh3 Nc5 17. f5 Qb6 18. Rhf1 Rxd4 19. Rxd4 Nb3+ 20. cxb3 Qxd4 21.
+fxe6 fxe6 22. e5 Qxe5 23. Qa8 Qe3+ 24. Kb1 Kd8 25. Bg2 d5 26. Rc1 Qd3+ 27. Rc2
+Kd7 28. Nxd5 Bc5 29. Be4 Qd4 30. Nf4 Bd6 31. Bb7 Bc7 32. Bxc8+ Rxc8 33. Qc6+
+Ke7 34. Qxe6+ Kd8 35. Qg8+ Ke7 36. Qxc8 Bxf4 37. Qc5+ Qxc5 38. Rxc5 Bd2 39.
+Rc7+ Kf8 40. Kc2 Bb4 41. h5 a5 42. g6 hxg6 43. hxg6 1-0
+
+[Event "Excelsior Cup"]
+[Site "Gothenburg"]
+[Date "1998.01.07"]
+[Round "1"]
+[White "Hartman, Christer"]
+[Black "Svensson, Bengt"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2345"]
+[BlackElo "2390"]
+[PlyCount "137"]
+[EventDate "1998.01.07"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "1998.03.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1 O-O-O 12. a3 Be7 13. Qe2 Nc5 14. Bxb5 axb5
+15. Ndxb5 Qb6 16. e5 dxe5 17. fxe5 Nd5 18. Bxe7 Nxe7 19. b4 Kb8 20. bxc5 Qxc5
+21. Rxd8+ Rxd8 22. Qe3 Rc8 23. Kb2 Nf5 24. Qxc5 Rxc5 25. g3 h5 26. a4 Bc6 27.
+Kb3 Bxb5 28. Nxb5 Rd5 29. Kc3 Rc5+ 30. Kb2 Rd5 31. Re2 Rd1 32. c4 Kb7 33. Kc2
+Ra1 34. Kb3 Rb1+ 35. Kc3 Kb6 36. Nd6 Kc5 37. Ne4+ Kc6 38. Rb2 Re1 39. Ng5 Re3+
+40. Kb4 Nh6 41. Rf2 Ng4 42. Rxf7 Nxe5 43. Rxg7 Nd3+ 44. Kc3 Nc5+ 45. Kd4 Re2
+46. Rg6 Rd2+ 47. Ke3 Rxh2 48. Nxe6 Nxa4 49. Rh6 Kd7 50. Nf4 Rc2 51. Nd3 Rg2 52.
+Kf3 Rh2 53. Ra6 Nc3 54. Nf2 Kc7 55. Ra3 Nb1 56. Rd3 Kc6 57. Ne4 h4 58. Rd6+ Kc7
+59. g4 Rc2 60. g5 Nc3 61. Rd2 Rc1 62. g6 Nxe4 63. Kxe4 h3 64. Kf5 Rf1+ 65. Ke6
+Rg1 66. Kf7 Rg2 67. Rd3 h2 68. Rh3 Rf2+ 69. Kg8 1-0
+
+[Event "VISA GP"]
+[Site "Reykjavik"]
+[Date "1998.03.11"]
+[Round "2"]
+[White "Hector, Jonny"]
+[Black "Hillarp Persson, Tiger"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2505"]
+[BlackElo "2410"]
+[PlyCount "65"]
+[EventDate "1998.03.10"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1998.06.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. a3 Nbd7 10. g4 Be7 11. Bxf6 gxf6 12. f5 Ne5 13. Qh3 Qb6 14. Nce2 Nc6 15.
+Nxc6 Qxc6 16. O-O-O Qc5 17. Nf4 Ra7 18. Rd2 Bd8 19. Bg2 Ba5 20. c3 Bd8 21. Rhd1
+a5 22. fxe6 fxe6 23. Rxd6 Be7 24. Nxe6 Bxe6 25. Rxe6 Kf7 26. g5 Qxg5+ 27. Kb1
+b4 28. Rc6 bxa3 29. e5 Qxe5 30. Bd5+ Kf8 31. Qc8+ Kg7 32. Rg1+ Kh6 33. Qh3+ 1-0
+
+[Event "Vikings GM 1st"]
+[Site "York"]
+[Date "1999.12.15"]
+[Round "3"]
+[White "Hector, Jonny"]
+[Black "Sutovsky, Emil"]
+[Result "1-0"]
+[ECO "B60"]
+[WhiteElo "2505"]
+[BlackElo "2587"]
+[PlyCount "85"]
+[EventDate "1999.12.13"]
+[EventRounds "10"]
+[EventCountry "ENG"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2000.04.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Bxf6 gxf6 8.
+Be2 h5 9. f4 h4 10. Bf3 e6 11. Qd3 Qb6 12. Nb3 Bd7 13. O-O-O O-O-O 14. Nd2 Qd4
+15. Qe2 Na5 16. Bh5 Rh7 17. Kb1 Be7 18. Bxf7 Rxf7 19. Qh5 Rg7 20. Qxa5 Rxg2 21.
+Nb3 Qf2 22. Rd2 Qf3 23. Rd3 Qxf4 24. Nd5 exd5 25. Rc3+ Kb8 26. Qc7+ Ka8 27. Nc5
+Bc6 28. Ra3 dxc5 29. Qxf4 Rdg8 30. Rc1 c4 31. exd5 Bxd5 32. Ra5 R2g5 33. Qxh4
+c3 34. Qd4 cxb2 35. Rd1 Bc6 36. Rxg5 Rxg5 37. Rg1 Bg2 38. h4 Rd5 39. Qc4 Bf3
+40. Rf1 Bg2 41. Rg1 Bf3 42. Re1 Bd8 43. h5 1-0
+
+[Event "Yerevan zt 1.5"]
+[Site "Yerevan"]
+[Date "2000.06.11"]
+[Round "5"]
+[White "Kotronias, Vasilios"]
+[Black "Ilincic, Zlatko"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2539"]
+[BlackElo "2554"]
+[PlyCount "55"]
+[EventDate "2000.06.07"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "ChessBase"]
+[SourceDate "2000.10.18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 h5 12. O-O Nd7 13. f5 Nc5 14. Kh1 Bd7 15.
+Rab1 b5 16. fxe6 fxe6 17. e5 dxe5 18. Nxc5 Bxc5 19. Ne4 Be7 20. Rb3 Qxa2 21.
+Nxf6+ Bxf6 22. Rxf6 Rc8 23. Bd1 e4 24. Rf1 Rg8 25. Qd6 Kd8 26. Rg3 Re8 27. Rg7
+Rc7 28. Rff7 1-0
+
+[Event "Asker 75th"]
+[Site "Asker"]
+[Date "1997.11.27"]
+[Round "6"]
+[White "Nataf, Igor Alexandre"]
+[Black "Akesson, Ralf"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2440"]
+[BlackElo "2520"]
+[PlyCount "45"]
+[EventDate "1997.11.22"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "1998.01.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. Be2 Nc6 12. Nxc6 bxc6 13. O-O Be7 14. Kh1 Qa5
+15. Qe3 O-O 16. Rf3 Kh8 17. Rh3 Rg8 18. Rh5 Qc7 19. Rf1 Rg7 20. Rf3 Qa7 21. Qd2
+Bd7 22. Qe1 Rag8 23. Qh4 1-0
+
+[Event "Lee Cup 4th"]
+[Site "Beijing"]
+[Date "1997.08.24"]
+[Round "2"]
+[White "Oll, Lembit"]
+[Black "Xu Jun"]
+[Result "1-0"]
+[ECO "B98"]
+[WhiteElo "2645"]
+[BlackElo "2505"]
+[PlyCount "73"]
+[EventDate "1997.08.23"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 10. Nxc6 bxc6 11. e5 dxe5 12. fxe5 Nd5 13. Bxe7 Nxe7 14. Re1
+Rb8 15. Qg3 Nf5 16. Qf2 O-O 17. Qc5 a5 18. b3 Rd8 19. Bc4 Bb7 20. Rhf1 Ba8 21.
+Ne4 a4 22. bxa4 Bb7 23. g4 Nh6 24. Nd6 Qe7 25. h3 Ra8 26. Bb3 Ba6 27. Rf3 Qh4
+28. Re4 Qe7 29. Ref4 f6 30. Ne4 Qxc5 31. Nxc5 fxe5 32. Nxe6 exf4 33. Nxd8+ Kh8
+34. Ne6 Bc8 35. Nc7 Rb8 36. Rxf4 Bd7 37. Rd4 1-0
+
+[Event "Tan Chin Nam Cup 3rd "]
+[Site "Beijing"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Oll, Lembit"]
+[Black "Zhang Zhong"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2645"]
+[BlackElo "2475"]
+[PlyCount "109"]
+[EventDate "1997.08.11"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Nc6 9. O-O-O Qxd4 10. Qxd4 Nxd4 11. Rxd4 Nd7 12. Be2 b6 13. f5 Rb8 14. Rhd1 b5
+15. Kb1 Ne5 16. g4 h5 17. gxh5 b4 18. Na4 exf5 19. exf5 Bxf5 20. h4 Be7 21. b3
+f6 22. Be3 Kf7 23. Rf4 Be6 24. Nb6 a5 25. Nd5 Bd8 26. Rfd4 Rc8 27. Rf1 Rc5 28.
+Nf4 Bf5 29. Rd2 Rc6 30. Bb5 Rc8 31. Ba6 Rb8 32. Rxd6 Bc7 33. Rdd1 Bb6 34. Bc1
+Rhd8 35. Rde1 Bc7 36. h6 Rb6 37. Rxe5 Bxe5 38. Bc4+ Kf8 39. Nd5 Rxd5 40. Bxd5
+Bh7 41. Be3 Rb5 42. Bc6 Rb8 43. Bc5+ Kg8 44. Rg1 g6 45. Rd1 Rc8 46. Bd5+ Kh8
+47. Bb6 g5 48. Bc4 g4 49. Bxa5 g3 50. Bxb4 Be4 51. Be1 Bf3 52. Rd7 Bg4 53. Re7
+Rd8 54. Bd3 g2 55. Rh7+ 1-0
+
+[Event "RSFSR-ch"]
+[Site "Sverdlovsk"]
+[Date "1979.06.??"]
+[Round "?"]
+[White "Petrushin, Alexander I"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2370"]
+[BlackElo "2520"]
+[PlyCount "84"]
+[EventDate "1979.05.??"]
+[EventRounds "15"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. O-O-O b4 10. Nd5 exd5 11. Bxf6 gxf6 12. exd5 Qc5 13. Bd3 Ra7 14. Bf5 Bxf5
+15. Nxf5 Kd8 16. Rhe1 Rc7 17. Qe4 Kc8 18. Rd4 a5 19. b3 Kb7 20. Rc4 Qb6 21.
+Rxc7+ Qxc7 22. Qd3 Qd7 23. g3 h5 24. h4 Rg8 25. Re3 Ka8 26. Kb2 Rh8 27. a3
+bxa3+ 28. Kxa3 Kb7 29. Nd4 f5 30. Qc4 Qc7 31. Qxc7+ Kxc7 32. Nxf5 Kd7 33. Ka4
+Na6 34. Kxa5 Nc7 35. c4 Rg8 36. Kb4 Na6+ 37. Ka5 Nc7 38. b4 Rg6 39. Kb6 Rf6 40.
+Nd4 Be7 41. Rxe7+ Kxe7 42. Kxc7 Rg6 1-0
+
+[Event "ISR-chT"]
+[Site "Israel"]
+[Date "1996.??.??"]
+[Round "11"]
+[White "Psakhis, Lev"]
+[Black "Gruenfeld, Yehuda"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2610"]
+[BlackElo "2520"]
+[PlyCount "101"]
+[EventDate "1996.??.??"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "1996.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Bxg5+ 14. Kb1 Ne5
+15. Qh5 Qd8 16. h4 Bf6 17. fxe6 O-O 18. Bh3 Re8 19. Nc6 Qc7 20. Nxe5 Bxe5 21.
+Nd5 Qa7 22. exf7+ Qxf7 23. Qxf7+ Kxf7 24. Nc7 Bb7 25. Bg2 b4 26. Rhf1+ Ke7 27.
+h5 a5 28. Rd2 Rf8 29. Nxa8 Rxf1+ 30. Bxf1 Bxa8 31. Re2 Bc6 32. Bh3 Be8 33. Bg4
+g6 34. hxg6 Bxg6 35. Bf5 Bxf5 36. exf5 Kf6 37. Rf2 h5 38. Rf3 Kg5 39. c3 bxc3
+40. bxc3 h4 41. Kc2 Kg4 42. Rf1 Kg5 43. c4 h3 44. Kd3 h2 45. Ke4 Kf6 46. a4 Bc3
+47. Kf4 Bd4 48. Kg3 Be5+ 49. Kg2 Kg5 50. f6 Bxf6 51. Kxh2 1-0
+
+[Event "Czerniak Memorial"]
+[Site "Tel Aviv"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Shmuter, Leonid"]
+[Black "Kaspi, Alexander"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2490"]
+[BlackElo "2475"]
+[PlyCount "71"]
+[EventDate "1996.??.??"]
+[EventRounds "11"]
+[EventCountry "ISR"]
+[EventCategory "9"]
+[Source "ChessBase"]
+[SourceDate "1996.08.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15.
+gxf6 Bf8 16. Rg1 Bd7 17. Rg7 b4 18. Nd5 exd5 19. exd5 O-O-O 20. Rxf7 Bh6+ 21.
+Kb1 Rdf8 22. Rxf8+ Rxf8 23. Ne6 Nxe6 24. dxe6 Bxe6 25. Bh3 Qc4 26. b3 Qc5 27.
+Bxe6+ Kc7 28. Bd5 Kb6 29. Qf5 Be3 30. Qd7 Qc7 31. Qe6 Bg5 32. f7 a5 33. Bc4 Be7
+34. Re1 Bg5 35. Qe8 Bh6 36. Qb5+ 1-0
+
+[Event "Saintly Cup"]
+[Site "Sydney"]
+[Date "1999.01.31"]
+[Round "9"]
+[White "Solomon, Stephen J"]
+[Black "Mas, Hafizulhelmi"]
+[Result "1-0"]
+[ECO "B98"]
+[WhiteElo "2435"]
+[BlackElo "2401"]
+[PlyCount "63"]
+[EventDate "1999.01.22"]
+[EventRounds "9"]
+[EventCountry "AUS"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "1999.06.08"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qa5 9. O-O-O Bd7 10. e5 dxe5 11. Nb3 Qc7 12. fxe5 Bc6 13. Qg3 Nh5 14. Qe3 h6
+15. Bxe7 Qxe7 16. h4 g6 17. Na5 Ng7 18. Rh3 h5 19. Ne4 Nf5 20. Qf4 Qc7 21. Nxc6
+Nxc6 22. Nd6+ Kf8 23. Bd3 Qa5 24. Bxf5 gxf5 25. Re3 Rb8 26. a3 Ne7 27. Qg5 Rh7
+28. b4 Qa4 29. Rc3 Nc6 30. Rg3 Ne7 31. Nxb7 f4 32. Nc5 1-0
+
+[Event "Ubeda op 5th"]
+[Site "Ubeda"]
+[Date "2000.01.26"]
+[Round "8"]
+[White "Stocek, Jiri"]
+[Black "Paragua, Mark"]
+[Result "1-0"]
+[ECO "B95"]
+[WhiteElo "2496"]
+[BlackElo "2368"]
+[PlyCount "85"]
+[EventDate "2000.01.19"]
+[EventRounds "10"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2000.04.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 Be7 8.
+O-O-O h6 9. Bh4 Nbd7 10. f4 g5 11. fxg5 Ne5 12. Qd2 Nfg4 13. h3 Ng6 14. Nf3
+N4e5 15. Bg3 hxg5 16. Qd4 Qa5 17. Bc4 Qc7 18. Bb3 b5 19. Nd5 exd5 20. Nxe5 dxe5
+21. Qxd5 O-O 22. Qxa8 Bb7 23. Qa7 Bc5 24. Rd7 Qxd7 25. Qxc5 Bxe4 26. Bxe5 a5
+27. Bc3 a4 28. Rd1 Qf5 29. Qd4 Qf4+ 30. Kb1 Ne5 31. Bd5 Bxd5 32. Qxf4 gxf4 33.
+Rxd5 Ng6 34. Rxb5 Re8 35. Kc1 Re3 36. h4 Ne7 37. Re5 f5 38. Rxe3 fxe3 39. g3
+Nd5 40. Kd1 Kf7 41. Bd4 Ke6 42. c4 Nb4 43. Bxe3 1-0
+
+[Event "New York op"]
+[Site "New York"]
+[Date "1998.03.17"]
+[Round "4"]
+[White "Stripunsky, Alexander"]
+[Black "Granda Zuniga, Julio E"]
+[Result "1-0"]
+[ECO "B94"]
+[WhiteElo "2475"]
+[BlackElo "2630"]
+[PlyCount "31"]
+[EventDate "1998.03.16"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1998.06.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. Nd5 Rb8 12. Rb3 Qa4 13. Bxa6 e5 14. Rb4
+Qxa2 15. Nb3 bxa6 16. Qc3 1-0
+
+[Event "Bundesliga 9900"]
+[Site "Germany"]
+[Date "2000.03.13"]
+[Round "13.1"]
+[White "Tischbierek, Raj"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2526"]
+[BlackElo "2751"]
+[PlyCount "47"]
+[EventDate "1999.10.??"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2000.05.31"]
+[WhiteTeam "Dresden"]
+[BlackTeam "Luebeck"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nc6 8. Nxc6
+bxc6 9. e5 h6 10. Bh4 g5 11. fxg5 Nd5 12. Ne4 Qb6 13. Bd3 hxg5 14. Bg3 dxe5 15.
+Bxe5 Rh4 16. Qd2 f5 17. Nf6+ Nxf6 18. Bxf6 Bb4 19. c3 Bd6 20. Bxg5 Rg4 21. Be2
+Rxg5 22. Qxg5 Qxb2 23. Bh5+ Kd7 24. Qg7+ 1-0
+
+[Event "ISR-ch op"]
+[Site "Ramat Aviv"]
+[Date "1999.??.??"]
+[Round "5"]
+[White "Tseitlin, Mark D"]
+[Black "Avrukh, Boris"]
+[Result "1-0"]
+[ECO "B67"]
+[WhiteElo "2490"]
+[BlackElo "2609"]
+[PlyCount "67"]
+[EventDate "1999.03.28"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "1999.06.08"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. Qd2 Nc6 10. O-O-O Bd7 11. Kb1 h5 12. Bc4 Rg8 13. Nxc6 bxc6 14. f5 Qa7
+15. Bb3 Qc5 16. fxe6 fxe6 17. e5 Qxe5 18. Rhe1 Qg5 19. Qd4 O-O-O 20. Qa7 Qc5
+21. Qxa6+ Kb8 22. Bxe6 Bxe6 23. Rxe6 Rxg2 24. Rxf6 Rg7 25. Qf1 Be7 26. Rf5 Qb6
+27. Rf3 Rg4 28. a3 Ka8 29. Rf7 Rb8 30. b3 Bg5 31. h3 Rg3 32. Qc4 Rb7 33. Rf8+
+Rb8 34. Qa4+ 1-0
+
+[Event "Gothenburg Interzonal"]
+[Site "Gothenburg"]
+[Date "1955.09.06"]
+[Round "14"]
+[White "Keres, Paul"]
+[Black "Najdorf, Miguel"]
+[Result "1-0"]
+[ECO "B98"]
+[PlyCount "49"]
+[EventDate "1955.09.15"]
+[EventType "tourn"]
+[EventRounds "21"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 g5 10. fxg5 Nfd7 11. Nxe6 fxe6 12. Qh5+ Kf8 13. Bb5 Kg7 14. O-O Ne5
+15. Bg3 Ng6 16. gxh6+ Rxh6 17. Rf7+ Kxf7 18. Qxh6 axb5 19. Rf1+ Ke8 20. Qxg6+
+Kd7 21. Rf7 Nc6 22. Nd5 Rxa2 23. h4 Qh8 24. Nxe7 Nxe7 25. Qg5 1-0
+
+[Event "Gothenburg Interzonal"]
+[Site "Gothenburg"]
+[Date "1955.09.06"]
+[Round "14"]
+[White "Spassky, Boris V"]
+[Black "Pilnik, Herman"]
+[Result "1-0"]
+[ECO "B98"]
+[PlyCount "61"]
+[EventDate "1955.09.15"]
+[EventType "tourn"]
+[EventRounds "21"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 g5 10. fxg5 Nfd7 11. Nxe6 fxe6 12. Qh5+ Kf8 13. Bb5 Kg7 14. O-O Ne5
+15. Bg3 Ng6 16. gxh6+ Rxh6 17. Rf7+ Kxf7 18. Qxh6 axb5 19. Rf1+ Ke8 20. Qxg6+
+Kd7 21. Rf7 Nc6 22. Nd5 Rxa2 23. h3 Qh8 24. Nxe7 Nxe7 25. Qg5 Ra1+ 26. Kh2 Qd8
+27. Qxb5+ Kc7 28. Qc5+ Kb8 29. Bxd6+ Ka8 30. Bxe7 Ra5 31. Qb4 1-0
+

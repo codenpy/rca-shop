@@ -1,0 +1,357 @@
+[Event "CZE"]
+[Site "Czechia"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Vesely, Jiri"]
+[Black "Oburka, Vladislav"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1660"]
+[BlackElo "1905"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1bqk2r/4bppp/p1np1n2/1p1Np1B1/2P1P3/N7/PP3PPP/R2QKB1R b KQk - 0 10"]
+[PlyCount "15"]
+[EventDate "2003.??.??"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+
+{Black is on the move. Please try to evaluate the position.} 10... Nxd5 {Here
+is the evaluation based on the calculation. Black has a winning combination.}
+11. cxd5 (11. Bxe7 Ndxe7 $19 {Black gets a piece and a winning position!})
+11... Bxg5 12. dxc6 Qa5+ $1 13. Ke2 {After this move it is obvious that King
+on e2 will be in a great danger in next few moves. Black has a winning
+position.} O-O 14. Qd3 f5 $1 {After oppening of the position, Black's pieces
+will easily mate White's King.} 15. f3 fxe4 16. fxe4 Bg4+ 17. Qf3 Qd2# 0-1
+
+[Event "Muensterland Verbandsklasse playoff0304"]
+[Site "Germany"]
+[Date "2004.07.10"]
+[Round "1.2"]
+[White "Wigger, Frank"]
+[Black "Wetterau, Georg"]
+[Result "1-0"]
+[ECO "D58"]
+[WhiteElo "1821"]
+[BlackElo "1952"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "rn3rk1/1bp2pp1/pp1q3p/3p4/3Pn3/1QN1PN2/PP2BPPP/2R2RK1 w - - 0 14"]
+[PlyCount "33"]
+[EventDate "2003.??.??"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{In this position White is on the move. Try to evaluate the position. Who is
+better?} 14. Nxe4 $1 {White is better. Why? White has already developed all of
+his pieces and found very good squares for them. Black has some problems with
+the devopment with the Knight on b8 and with the backward pawn on c7. With Ne4
+White exchanges the best Black's piece.} dxe4 15. Ne5 $6 {Here this move is
+not the best one. When you are better - you need to try not to exchange your
+better pieces for opponent worse one. Now after Nd7 Black will exchange his
+worst and undevelop piece and position will be very close to equal.} b5 $4 {A
+very bad move. Black is worse and he needs to defend his position, but not to
+attack the opponent.} (15... Nd7 $1 {The best option. Black exchanges a strong
+Knight and is very close to the equality.}) 16. Rc5 Nd7 17. Nxd7 Qxd7 18. Qc2 {
+Now you can see how Black's position is bad. Bishop on b7 is without of any
+good squares and backward pawn on c7 is very bad. White has a huge positional
+advantage.} Qd6 19. Rxc7 Rac8 20. Rc1 Qe6 21. Qd2 Rxc7 22. Rxc7 Bd5 23. b3 Qd6
+24. Rc5 f5 25. Qc1 f4 26. exf4 Bb7 27. Rc7 Rb8 28. Rxb7 Rxb7 29. Qc8+ Kh7 30.
+Qxb7 $18 {White takes the piece and has a winning advantage.} 1-0
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "4.5"]
+[White "Stauber, Volker"]
+[Black "Putz, Ernst"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "1872"]
+[BlackElo "1788"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp3p2/2n1pn1p/3p2p1/2pP4/2P1PNB1/PP1N1PPP/R2QKB1R w KQk - 0 9"]
+[PlyCount "69"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{White is on the move. Who is better?} 9. Be2 {It is not easy to evaluate this
+position. White has a litle advantage in the development, but black has a
+litle bit more space on the queen-side. However, White is without weaknesses
+and Black will have some problems on the king-side because of the pawn on g5
+potentialy and also on ths queen-side maybe after b3, if White manages to
+destroy Black's queen-side.} Bg7 10. Ne5 (10. b3 $1 {This is a better
+alternative. White needs first to destroy Black's queen-side and get some
+space on the queen-side.} cxb3 11. axb3 O-O 12. Ne5 $1 {Now is white better.})
+10... h5 $6 {This is bad move. Black is worse and needs to defend his position,
+but not to attack his opponent.} 11. Nxc6 bxc6 12. Be5 g4 13. h3 $1 {Now you
+can see how this advancing pawn becomes an easy target for White's pieces.} Rg8
+14. hxg4 hxg4 15. Bxg4 Nxg4 16. Qxg4 {White manages to get the pawn and have
+an easy winning position.} f6 17. Qg6+ Kf8 18. Bg3 a5 19. Rh7 Ra7 20. Ke2 Ba6
+21. Bh4 Rb7 22. Rb1 Qe7 23. Nf3 Qf7 24. Qc2 Rh8 25. Bg3 Kg8 26. Rxh8+ Bxh8 27.
+Rh1 Rb5 {You can see that all White pieces have attacking ideas and are
+threatening black King and Black is completely without of a defensive plan.
+Better option is  tring to exchange the Rooks with Rb7 and maybe h7 later on.}
+28. Bd6 Qd7 29. Ba3 Rb7 30. Qg6+ Bg7 31. Rh3 Qc8 32. Qh7+ Kf7 33. Rg3 Qh8 34.
+Qg6+ Kg8 35. Qe8+ Kh7 36. Qxe6 Qb8 37. Rh3+ Bh6 38. Qxf6 Rxb2+ 39. Bxb2 Qxb2+
+40. Nd2 Qc2 41. Qf7+ Kh8 42. Rxh6+ Qh7 43. Rxh7# 1-0
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "4.8"]
+[White "Maier, Ullrich"]
+[Black "Zboril, Josef"]
+[Result "0-1"]
+[ECO "C13"]
+[WhiteElo "1584"]
+[BlackElo "1769"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1br2k1/1p2bp1p/pq2pnp1/8/1P1R3P/2PQ1NN1/P1B2PP1/R5K1 b - - 0 20"]
+[PlyCount "29"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{Black is on the move. Who is better? Try to evaluate this position.} 20...
+Rxd4 {White is slightly better developed, however, on the other hand Black has
+a Bishops' pair and White has some weaknesses on the king-side (h4 pawn) and
+on the queen-side (c3, b4 pawns). Because of this Black is a litle bit better.
+It is, first of all, very important to neutralize White's attack on the d file
+with the Rooks exchange.} 21. Nxd4 e5 (21... Bd7 $5 {This is also a nice
+option. Black developed last undeveloped piece and he wants to create attack
+on the c3 pawn.}) 22. Nf3 Ng4 23. Rf1 Be6 {Now you can see that Black has
+already developed all the pieces and he has the initiative. Now White needs to
+try to simplify the position.} 24. Qe2 $6 (24. Ng5 $5 {This is a much better
+defensive move. White needs to exchange some pieces and simplify the position.}
+h5 25. Nxe6 Qxe6 26. Bb3 $1 {And the position is very close to equal.}) 24...
+f6 $5 {Mistake. Black is better and needs to attack. Instead of this Black
+played very passively and White completely equalized.} (24... a5 $1 {Black is
+better on the queen-side and he needs to try to take some White pawns on the
+queen-side.}) 25. h5 Kg7 $4 {Now Black even managed to lose this position.} (
+25... Kf7 {This is the only move that holds on White's attack on the king-side.
+}) 26. hxg6 hxg6 27. Nh4 f5 28. Nf3 $4 {Another big mistake. Ng6 easily wins
+the game! Now Black is even better.} (28. Nxg6 $1 Kxg6 29. Qxg4+ $18) 28... Bf6
+{White didn't take the advantage on the king-side and now he has big problems.}
+29. Rd1 Rc8 30. Bb3 Bxb3 31. Rd7+ Bf7 32. Qc2 e4 33. Nh2 Rxc3 34. Qd1 Qxf2+ $19
+0-1
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "5.6"]
+[White "Benicke, Bernd"]
+[Black "Sellmayer, Johann"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1846"]
+[BlackElo "1758"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r2q1rk1/4npb1/4b1pp/2Bnp3/8/P4N2/1P1NBPPP/R2Q1RK1 w - - 0 18"]
+[PlyCount "40"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{White is on the move. Who is better?} 18. Nc4 {White have extra pawn but
+black has two extra-strong Bishops and open files on the queen-side. Position
+is about equal. Black has a suficient compensation.} e4 $6 {This is a very bad
+move. Black opens d4 square for white Knight and allow him to get some
+activity. Much better option was Rc8 or even Nf4 with a nice iniciative.} 19.
+Nd4 Qc8 $4 {Another bad move. Try to find a winning combination for White.} 20.
+Bxe7 Nxe7 21. Nb6 $1 {White takes the Rook for a Knight and has a completely
+winning position.} Qc5 22. Nxe6 Qxb6 23. Nxf8 Rxf8 24. Rb1 Nf5 25. Re1 Bd4 26.
+Rf1 Rd8 27. Qa4 e3 28. f3 Bg7 29. Qb5 Qa7 30. Qa6 Qe7 31. g3 Rd2 32. Rfd1 Qc5
+33. Qc4 Qa7 34. Qa6 {Here White makes a really bad move. Completely
+overestimate Black's attack, even more,White even managed to lose a completely
+winning position.} Qc5 35. Qc4 Qa7 36. Rxd2 exd2+ 37. Kf1 Ne3+ $19 0-1
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "5.8"]
+[White "Hamberger, Corinna"]
+[Black "Koenig, Karl"]
+[Result "0-1"]
+[ECO "A23"]
+[WhiteElo "1534"]
+[BlackElo "1661"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "2rq1rk1/pp3ppp/5n2/3pn3/5Nb1/2P1P1P1/P2Q1PBP/R1B2RK1 b - - 0 16"]
+[PlyCount "49"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{Black is on the move. Try to evaluate this position.} 16... Nf3+ {None of the
+sides has a material advantage but Black is way ahead in the development and
+all Black pieces can easily attack White's King. So Black is much better and
+needs to attack white King. Nf3 is a great attacking move. After the exchange
+of lightsquare Bishop black has an almost winning position.} 17. Bxf3 Bxf3 18.
+Qd4 Qa5 19. Qb4 Qc7 20. Bb2 Rfe8 21. Qd4 b6 22. Ng2 Re4 23. Qd2 Qc4 24. Rfc1
+Ng4 {Black have big advantage on hole board and easy winning position. White
+need to try to exchange some pieces but this is very hard to acieve.} 25. Ne1
+$2 Nxh2 $1 {NIce tactic and winning move!} 26. Qd3 Qxd3 27. Nxd3 Be2 {Big
+mistake. With Re6 and Rh6 black is winning in two moves. Now position is equal.
+} (27... Re6 $1 28. c4 dxc4 29. Ne5 Bb7 $19) 28. Nf4 Nf3+ 29. Kg2 Rxf4 30. exf4
+Nd2 {Another mistake. Now white have nice option in wiev of c4 and some
+defensive posibility.} 31. Rc2 Bf3+ 32. Kg1 Ne4 {Try to evaluate position now.
+White have exchange more. But all black pieces are better and there is some
+mating idea with rook on c6 and h6. Black is close to winning even with
+exchange down.} 33. g4 Rc6 34. g5 h6 35. Kh2 hxg5 36. fxg5 Nxg5 37. Kg3 Rf6 38.
+Bc1 Ne4+ 39. Kh4 Rf5 40. Be3 Rh5# 0-1
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "5.4"]
+[White "Stutzke, Christian"]
+[Black "Tauber, Rainer"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "1759"]
+[BlackElo "1969"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p2bppp/p1n1pn2/8/4N3/2PB1N2/PP3PPP/R1BQR1K1 w - - 0 12"]
+[PlyCount "7"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{White is on the move. Who is better?} 12. Qe2 {White is way ahead in
+development and is much better. Black need to try to defend his king.} b5 $4 {
+Clasic mistake. Black is worse and need to think about defense not attack. Now
+with combination white win the game.} 13. Nxf6+ Bxf6 14. Qe4 g6 15. Qxc6 $18
+1-0
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "5.7"]
+[White "Fischer, Semen"]
+[Black "Breininger, Heinz"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1691"]
+[BlackElo "1784"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "3q1rk1/3bbp1p/1p2p1pn/1N1pP3/2r2PP1/2PQ1N1P/PP3B2/R3K2R w KQ - 0 24"]
+[PlyCount "17"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+24. Nbd4 {Here Black is on the move. Who is better?} Qc7 {White has an extra
+pawn and more space and nice attack on the king-side. Black needs to try to
+defend his position.} 25. Nd2 Ra4 26. O-O Rfa8 27. a3 b5 28. Be3 Qb8 $6 {A
+very bad play of Black, it might be so because of wrong evaluation of this
+position. Instead of trying to defend this worse position Black attacks White
+on the queen-side and now doesn't have pieces for protection of his bad and
+unprotected King.} 29. f5 $1 {A crushing move. Black is defensless.} Bf8 30.
+Bf4 exf5 31. g5 Be6 32. gxh6 $18 {White wins the piece and has easy winning
+position.} 1-0
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "6.2"]
+[White "Bacholke, Michael"]
+[Black "Koelbl, Stefan"]
+[Result "0-1"]
+[ECO "B09"]
+[WhiteElo "1869"]
+[BlackElo "1656"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1br2k1/pp1n1pbp/1qnNp1p1/2p1P3/5P2/4BN2/PPP1B1PP/R2Q1RK1 w - - 0 13"]
+[PlyCount "50"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{White is on the move. Who is better?} 13. Ng5 {White has a huge advantage.
+All Black's pieces are much more worse than White's and the black King is in a
+great danger.} Ndxe5 $1 {A great move. Black can not wait with the passive
+defense. This is the only way for trying to make something.} 14. fxe5 Nxe5 15.
+Nxc8 Raxc8 {Now Black has two pawns for piece. White is better but Black has
+some compensation.} 16. Qc1 f5 17. Rb1 h6 18. Nf3 Ng4 $5 {Very nice defense.
+Black do not want to leave white with those two huge Bishops. Now he has an
+idea of pushing central pawns and creating some attack on White's king-side.}
+19. Bc4 Kh7 20. c3 e5 21. h3 Nxe3 22. Qxe3 Rd6 23. Rbd1 Rxd1 24. Rxd1 Qxb2 $4 {
+After a very creative defensive tehnic black made a huge mistake. Much better
+was e4.} (24... e4 $1 25. Nd2 Rd8 $44 {Black has a huge compensation and is
+close to equalize. A very nice defense. Active defense.}) 25. Nxe5 {Now White
+is winning.} Re8 26. Rd7 b5 27. Bd5 b4 28. Qg3 g5 29. Ng4 $4 {An unbelieveble
+mistake. Now Black is again winning.} (29. Nd3 Qxc3 30. Qf2 $18) 29... fxg4 30.
+hxg4 Qc1+ 31. Kh2 Qxc3 32. Qxc3 bxc3 33. Bb3 Re2 34. Rd1 Bd4 35. Rc1 Kg7 36.
+Rc2 Rxc2 37. Bxc2 Bf2 $19 0-1
+
+[Event "Niederbayernliga 0203"]
+[Site "Germany"]
+[Date "2003.??.??"]
+[Round "6.6"]
+[White "Oberberger, Hans"]
+[Black "Huber, Franz"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1593"]
+[BlackElo "1637"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r5k1/pp1br2p/2nq1p2/3p2p1/3P2P1/2PB1N1P/PPQ3P1/R4RK1 w - - 0 22"]
+[PlyCount "9"]
+[EventDate "2002.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[WhiteTeam "Germany"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{White is on the move. Who is better?} 22. Rae1 {White has a huge advantage. A
+pawn up and great pieces and whole Black's king-side is compromised.} Rae8 $6 (
+22... Rf8 $5 {Black for now defending his king-side.}) 23. Rxe7 (23. Bxh7+ {
+White takes another pawn and the game is over.} Rxh7 24. Qg6+ Rg7 25. Rxe8+
+Bxe8 26. Qxe8+ $18) 23... Rxe7 24. Qf2 Nd8 $6 {Now Black overlooked the second
+pawn and the game is over.} (24... Qf4 $1 {Great defensive move. Black needs
+to simplify the position.}) 25. Nxg5 Rg7 26. Nf3 $18 1-0
+

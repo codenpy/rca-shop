@@ -1,0 +1,157 @@
+[Event "SWIFT-Chess World Championship"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Kasparov Garry"]
+[Black "Timman Jan H"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2735"]
+[BlackElo "2590"]
+[Annotator "Smirnov I."]
+[PlyCount "31"]
+[EventDate "1987.??.??"]
+[Source "CBM 002"]
+
+1. d4 e6 2. g3 c5 3. Nf3 cxd4 4. Bg2 e5 $6 {(It breaks the principle of
+maximum activity: black made the second move of 1 piece in an opening; and
+it's a pawn move instead of a piece move.)} 5. O-O d6 $2 {(Black is breaking
+the same principle again!)} ({Of course a piece move is better} 5... Nc6) 6. c3
+dxc3 7. Nxc3 $30 Nf6 8. Bg5 Be7 9. Nd2 Nbd7 $2 {(This move puts the knight on
+the less active square than c6 and it closes the bishop's diagonal. Thus black
+broke the principles of maximum activity and harmony.)} ({better was} 9... Nc6)
+10. Nc4 Qc7 $2 {(A development of a queen is the last opening task. We should
+not develop it too early because it can be an object of an attack for
+opponent's minor pieces.)} (10... h6 $1 {(principle of an attack - attacking
+moves are always the best)}) 11. b3 h6 {? (Though it's an attacking move, but
+it doesn't work. We should be very careful with pawn moves in an opening,
+because often they don't support our development.)} (11... O-O {The black's
+position is already bad, but at least it's not loosing yet.}) 12. Nb5 $18 Qc5
+13. Nbxd6+ Kf8 14. Be3 Qc7 15. Rc1 Ng4 $2 {(The final mistake which breaks the
+principle of the least active piece.)} (15... Nc5) 16. Qd5 1-0
+
+[Event "Amber-blindfold 05th"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "11"]
+[White "Anand Viswanathan"]
+[Black "Ljubojevic Ljubomir"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteElo "2725"]
+[BlackElo "2600"]
+[Annotator "Smirnov I"]
+[PlyCount "39"]
+[EventDate "1996.??.??"]
+[Source "CBM 052 ext"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 $6 {(The second move of the knight
+breaks the principle of the least active piece)} 5. Ba4 c6 6. O-O Nxf3+ {?! 
+(Black is removing the tension and is helping white to activate the queen.
+It's a consequence of the previous mistake.)} 7. Qxf3 d6 $6 (7... Bc5 {
+Following the principle of maximum activity, black should have placed the
+bishop on c5 instead of e7.}) 8. d3 Be7 9. Nd5 Qa5 $2 {(It's a big mistake.
+First we should finish the main opening tasks and only then we may start an
+attack)} ({better was} 9... O-O) 10. Nxe7 Qxa4 $6 (10... Kxe7 {Allowed black
+to finish his development quickly.} 11. Bb3 Be6 {and black has finished the
+realization of the main opening tasks (though the centralized king is
+certainly still a problem).}) 11. Nxc8 Rxc8 12. Bg5 (12. Bh6 $1 O-O 13. Qf5 {
+threatening Bg7 and Qg5}) 12... Nd7 13. b3 Qa5 14. Qg4 h6 15. Be3 Ke7 16. f4
+Rhg8 17. fxe5 Nxe5 18. Qf5 f6 19. d4 Qc3 20. Rae1 {Black resigned because
+white will crush his position after the next move e5!} 1-0
+
+[Event "St Petersburg Winter-A"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Potemkin Peter Petrovich"]
+[Black "Alekhine Alexander"]
+[Result "0-1"]
+[ECO "B20"]
+[Annotator "Smirnov I"]
+[PlyCount "34"]
+[EventDate "1912.??.??"]
+[Source "EXT 2001"]
+
+1. e4 c5 2. g3 $6 {(This pawn move doesn't prepare development (the bishop
+could be developed immediately) and so it's a time wasting.)} g6 3. Bg2 Bg7 4.
+Ne2 $6 {(breaking the principle of maximum activity. Nf3 was better)} Nc6 5. c3
+$6 {(another unnecessary pawn move which takes away the c3 square from the
+b1-knight)} Nf6 6. Na3 $2 {(We should develop the pieces towards a center.)} (
+6. d4 $1) 6... d5 7. exd5 Nxd5 8. Nc2 $6 {(the second move of a knight breaks
+the principle of the least active piece. Castle or d3 was better)} O-O 9. d4
+cxd4 10. cxd4 $2 {(This creates a weakness and it's a pawn move instead of a
+piece move.)} (10. Nexd4) 10... Bg4 11. f3 $2 {(one more unnecessary pawn move,
+which only creates new weaknesses.)} (11. O-O) 11... Bf5 12. Ne3 $2 {(White is
+ignoring development (and principle of the least active piece) again.)} (12.
+O-O) 12... Qa5+ 13. Kf2 Ndb4 14. Nxf5 Qxf5 15. g4 Nd3+ 16. Kg3 Nxd4 17. gxf5
+Nxf5+ 0-1
+
+[Event "Tilburg Fontys"]
+[Site "?"]
+[Date "1998.10.31"]
+[Round "8"]
+[White "Anand Viswanathan"]
+[Black "Kortschnoj Viktor"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2795"]
+[BlackElo "2625"]
+[Annotator "Smirnov I"]
+[PlyCount "37"]
+[EventDate "1998.??.??"]
+[Source "EXT 1999"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 cxd4 $6 {(We should not remove
+a tension without any tactical reasons).} 6. Qxd4 {(White activated the queen)}
+Nxd5 7. e4 Nxc3 8. Qxc3 Nc6 9. a3 {!?} (9. Bb5 Bd7 10. O-O Qb6 11. a4 Qc5 12.
+Qd3 Qd6 13. Qe2 Qc7 14. e5 Bc5 15. Rd1 a6 16. Bd3 h6 17. Bf4 Nb4 18. Be4 Bc6 {
+1/2-1/2 Anand,V-Adams,M/Groningen 1997/CBM 63 (48)}) 9... Bd7 $6 (9... Qa5 {?}
+10. b4 Qd8 (10... Nxb4 {??} 11. Bd2 $18) 11. Bb2 Bd7 12. Rd1 $16) ({black
+needs to finish the development first of all} 9... f6 {following with Bd6 and
+castle}) 10. Be2 Rc8 (10... Qf6 {?} 11. e5 (11. Qxf6 {?!} gxf6 {=}) 11... Qg6
+12. O-O Be7 13. Rd1 $16) 11. O-O Na5 12. Qd3 {!} (12. Qe3 Bc5 13. Qf4 Nb3 14.
+Qg3 Nxc1 15. Raxc1 O-O 16. Ne5 f6 17. Nxd7 Qxd7 18. Qb3 Kh8 19. Bc4 e5 {1/2-1/
+2 Topalov,V-Adams,M/Linares 1997/CBM 57 (32)}) 12... Ba4 {Black is trying to
+use the b3 weakness, but such an attack can't be effective. Black should have
+finished the main opening tasks first.} (12... Be7 13. b4 {!} (13. Rd1 Ba4 {=})
+13... Nc6 (13... Nc4 14. Qd4 Nb6 15. Bb2 $14) 14. Bb2 $14) 13. Qxd8+ Rxd8 14.
+Be3 $14 Nb3 (14... a6 15. Rac1 $14 (15. Bb6 Nb3 16. Rad1 (16. Bxd8 Nxa1 17.
+Rxa1 Kxd8 18. Ne5 Ke7 {=}) 16... Rc8)) 15. Bd1 b5 (15... a6 16. Bxb3 Bxb3 17.
+Rac1 Bd6 18. Bb6 Ra8 19. Nd4 Ba4 20. Rc4 Bd7 21. Rd1 {also gives white a big
+advantage in activity}) 16. Bxb3 Bxb3 17. Rfc1 e5 {another pawn move in so
+undeveloped position can't be good.} (17... a6 18. Bb6 Ra8 19. Nd2 Bc4 20. Nxc4
+bxc4 21. Rxc4 $18) 18. Nxe5 a6 19. Nc6 $18 (19. Nc6 Rd6 20. Nd4 Bc4 (20... Be6
+21. Nxe6 Rxe6 22. Rc8+ Kd7 23. Rac1 $18) 21. b3 $18) 1-0
+
+[Event "GRE-chT Div-A 38th"]
+[Site "?"]
+[Date "2010.07.10"]
+[Round "6"]
+[White "Kritz Leonid"]
+[Black "Nikolaidis Ioannis"]
+[Result "1-0"]
+[ECO "C79"]
+[WhiteElo "2618"]
+[BlackElo "2493"]
+[Annotator "Smirnov I."]
+[PlyCount "95"]
+[EventDate "2010.??.??"]
+[Source "CBM 137 Extra"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. Re1 {(Actually even this
+standard move is not the best, because it breaks the principle of the least
+active piece.)} b5 7. Bb3 Na5 $6 {(Now black is breaking the principle of the
+least active piece)} 8. d4 Nxb3 9. axb3 Nd7 $6 {(This is a move backward,
+which breaks the principle of maximum of activity)} 10. dxe5 Nxe5 11. Bf4 Ng6
+$6 {(Black moves back, making the same mistake again.)} 12. Bg5 Be7 13. Bxe7
+Nxe7 14. e5 O-O 15. exd6 cxd6 {(Now white has a clear and simple plan - attack
+the weak pawn d6.)} 16. Nc3 Bb7 17. Ne4 Nf5 18. Qd2 Nh4 $6 {(Breaking the
+principle of the least active piece.)} (18... Re8 {or Rc8 would be better}) 19.
+Nxh4 Qxh4 20. Ng3 {(moves back rarely can be a good idea)} (20. f3 $1) 20...
+Qf6 21. c3 $16 Rfe8 22. Rad1 h6 23. Rxe8+ Rxe8 24. Qxd6 Re1+ 25. Nf1 Qg5 26.
+Qd8+ Qxd8 27. Rxd8+ Kh7 28. b4 f5 29. f3 Rb1 30. Rd2 f4 31. Kf2 Bc8 32. h4 h5
+33. Nh2 g5 34. hxg5 Kg6 35. Nf1 Kxg5 36. Re2 Kg6 37. Nd2 Rxb2 38. Ne4 Rxe2+ 39.
+Kxe2 h4 40. Kd3 Be6 41. Kd4 Kf5 42. Nd6+ Kf6 43. Ke4 h3 44. gxh3 Bxh3 45. Nb7
+Ke7 46. Nc5 Bc8 47. Ke5 Kd8 48. Kxf4 1-0
+

@@ -1,0 +1,229 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1956.??.??"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Tal, Mihail"]
+[Result "1-0"]
+[ECO "E80"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "75"]
+[EventDate "1956.01.10"]
+[EventRounds "17"]
+[EventCountry "URS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 e5 6. d5 Nh5 7. Be3 f5 8. Qd2 Na6
+9. O-O-O Nf6 10. exf5 gxf5 11. Bd3 O-O 12. Nge2 Qe7 13. Rde1 c5 $6 (13... Qf7
+$15) 14. Ng3 $1 Ne8 (14... f4 $2 15. Bxf4 $17) 15. Nh5 Nac7 16. g4 $1 $16 Kh8 (
+16... fxg4 17. Nxg7 Nxg7 18. Bg5 Qf7 19. fxg4 Bxg4 20. Rhg1 $16 {
+and White's attack is too strong}) 17. Rhg1 Qf7 18. Nxg7 Nxg7 19. f4 e4 (19...
+fxg4 20. fxe5 $18) 20. Bc2 b5 {Desperation} (20... fxg4 21. Nxe4 $18) 21. cxb5
+Rb8 22. gxf5 Bxf5 23. Bxe4 Bxe4 24. Nxe4 Qxd5 (24... Nxb5 25. a4 Nc7 $2 26.
+Rxg7 $1 Qxg7 27. Rg1 $18 {and Qc3+}) 25. Qxd5 Nxd5 26. Nxd6 Rbd8 27. Bxc5 Nxf4
+{Diagram #} 28. Bd4 {White is two pawns up, so he simply exchanges pieces. For
+sure, other moves are possible but this is by far the simplest one.} Ng6 29.
+Re7 $5 {Following the same principle} (29. Bxg7+ Kxg7 30. Rd1 $18) 29... Nxe7
+30. Bxg7+ Kg8 31. Bxf8+ Kxf8 32. Rf1+ Kg8 33. Rd1 $18 {
+White is 2 pawns up and has more active pieces.} Rf8 34. a4 $1 Rf2 35. Nc4 {
+Going after the a7 pawn} Rxh2 36. Rd7 Nf5 37. Rxa7 Nd4 38. Rc7 1-0
+
+[Event "Corus"]
+[Site "Wijk aan Zee NED"]
+[Date "2008.01.23"]
+[Round "10"]
+[White "Loek van Wely"]
+[Black "Magnus Carlsen"]
+[Result "0-1"]
+[ECO "A58"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "98"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 {
+The Volga gambit. Black sacrifices a pawn to open files on the queenside.} 5.
+bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8. g3 Bg7 9. Bg2 Nbd7 10. Rb1 Qa5 $6 (10... O-O {
+was much more natural}) 11. Bd2 Nb6 12. b3 Qa3 13. O-O O-O 14. Ne1 $1 {
+Planning to kick the queen away with Nc2} Bb7 15. Nc2 Qa6 16. e4 Ne8 17. a4 $16
+Nc7 18. Re1 Rae8 19. b4 Nd7 20. Nb5 Rc8 (20... Nxb5 21. axb5 Qxb5 $2 22. bxc5
+$18 Qa6 23. c6) 21. Bh3 f5 22. Bg5 Ne5 23. bxc5 (23. Bxe7 {was also good})
+23... Qxa4 (23... dxc5 24. f4 Nc4 25. Bxe7 $18) 24. Nxc7 Rxc7 25. c6 $18 Bc8
+26. exf5 Rxf5 {Carlsen tries to complicate the game in a lost position} 27. f4
+Nc4 28. Rb4 Qa7+ 29. Kg2 Qc5 30. Rb8 Nb2 31. Qf3 Qxc2+ 32. Re2 Qb1 33. Bxf5 (
+33. Bxe7 $1) 33... Qxf5 34. g4 Qf7 35. Bxe7 h5 36. Bxd6 hxg4 37. Qe4 Kh7 38.
+Bxc7 Bf5 {Diagram #} 39. Qe3 $2 {Now the position gets messy} (39. Rh8+ $3 {
+White is 2 exchanges and 2 pawns up. From the practical point of view, it made
+sense to force the exchange of queens, even at the cost of material.} Bxh8 (
+39... Kxh8 40. Qe8+ {is similar}) 40. Qe7 $1 Qxe7 41. Rxe7+ Kg8 42. Re8+ Kh7
+43. d6 Bf6 44. d7 Nd3 45. Be5 $1 $18 {and White pawns are unstoppable}) 39...
+Qxd5+ 40. Kg3 $2 (40. Kg1 $1 Bd4 41. Rh8+ Kxh8 42. Be5+ $1 Qxe5 43. fxe5 Bxe3+
+44. Rxe3 Nc4 45. Rc3 Nxe5 46. c7 Kg7 47. c8=Q Bxc8 48. Rxc8 $16 {
+and Whte should try to win this ending}) 40... Nc4 $1 41. Qf2 $4 {
+losing on the spot} (41. Qb3 Bd3 42. Rf2 Bd4 43. Qa2 $13 {
+the position is just crazy}) 41... Qd3+ $1 42. Kg2 (42. Kh4 Bf6#) 42... Be4+
+43. Rxe4 Qxe4+ 44. Kf1 (44. Kg1 Bd4 $19) 44... Qd3+ 45. Qe2 (45. Kg2 Ne3+ 46.
+Kg1 Qd1+ 47. Qf1 Qxf1#) 45... Nd2+ 46. Ke1 Nf3+ 47. Kf1 Nxh2+ 48. Ke1 Bc3+ 49.
+Kf2 g3+ 0-1
+
+[Event "Canarias"]
+[Site "Canarias"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Peter Leko"]
+[Black "Robert Fontaine"]
+[Result "1-0"]
+[ECO "A29"]
+[Annotator "Remote Chess Aademy"]
+[PlyCount "125"]
+[EventDate "1995.??.??"]
+
+1. a3 $6 {Not the most common opening!} e5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 $11
+5. Nf3 Nc6 6. d3 Be7 7. g3 O-O 8. Bg2 Be6 9. O-O Kh8 10. Bd2 f5 11. Rc1 Bf6 12.
+Na4 Qe7 $6 (12... e4 $13) 13. Nc5 $14 e4 14. dxe4 fxe4 15. Ng5 $1 Bg8 (15...
+Bxg5 16. Bxg5 Qxg5 17. Nxe6 $16) (15... Bf5 $14) 16. Ngxe4 Bxb2 17. Rb1 Bxa3
+18. Bg5 Qf7 19. Nxb7 Be7 20. Bxe7 Ndxe7 21. Qd7 $1 Qc4 22. Nec5 $16 Rad8 (22...
+Rac8 23. Bxc6 $18) 23. Qxc7 (23. Nxd8 $1 Rxd8 24. Rbc1 $1 $18) 23... Rc8 24.
+Qd7 Qxe2 25. Rbe1 Qh5 26. Rxe7 Nxe7 27. Qxe7 {
+White has a bishop and knight for a rook, but the position is complicated.}
+Rce8 28. Qd6 $6 (28. Qc7 Bc4 29. Nd6 Bxf1 30. Nxe8 Qxe8 31. Bxf1 Qf7 32. Qxf7
+Rxf7 {and we reach a complex ending since Black has a strong passed pawn.})
+28... Bc4 29. Rc1 $2 (29. Ra1 Rxf2 $1 30. Kxf2 Re2+ 31. Kg1 Rxg2+ 32. Kxg2 Qe2+
+33. Kh3 Qh5+ $11 {would lead to perpetual check}) 29... Qe2 $2 (29... Rxf2 $1
+30. Kxf2 (30. Rxc4 Re1+ 31. Kxf2 Qe2#) 30... Qe2+ $1 31. Kg1 Qe3+ 32. Kh1 Qxc1+
+33. Bf1 Qxf1#) 30. Ne4 Bd3 31. Nbc5 $1 Rd8 32. Qc7 $2 (32. Qe7 $16) 32... Bxe4
+$2 (32... Rc8 33. Qe5 Bxe4 $19 {and the rook on c1 is pinned}) 33. Nxe4 h6 34.
+Qxa7 $18 {now White has a clear material advantage} Rd1+ 35. Rxd1 Qxd1+ 36. Bf1
+Qf3 37. Nd2 Qd5 38. Qe3 Rd8 39. Nf3 Qd1 40. Kg2 Qd7 41. Nh4 Qf7 42. Bd3 Rd6 43.
+Qe4 g5 44. Qe5+ Rf6 45. Nf5 Qe6 46. Qd4 Qb6 47. Qe5 Qe6 48. Qb8+ $1 Qg8 49. Qb7
+Qf7 {Diagram #} 50. Qxf7 $1 {A practical decision, since after the exchange of
+queens White wins another pawn.} (50. Qb2 $18) 50... Rxf7 51. Nxh6 Rd7 52. Be4
+Kg7 53. Ng4 Rd4 54. f3 Rd2+ 55. Kh3 Re2 56. Ne5 Kf6 57. Nc6 Rd2 58. Nb4 Ke5 59.
+Kg4 Rxh2 60. Kxg5 Rd2 61. g4 Rd7 62. Nd3+ Kd4 63. Kf6 1-0
+
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.13"]
+[Round "18"]
+[White "Mikhail Chigorin"]
+[Black "Nicholas MacLeod"]
+[Result "1-0"]
+[ECO "B00"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "81"]
+[EventDate "1889.03.25"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 Nf6 4. f3 d6 5. Nh3 e6 6. O-O Nc6 7. c3 Be7 8. Be3 h6
+$6 (8... O-O $14) 9. Nd2 Nh7 $6 10. f4 d5 $6 11. e5 $1 $16 {
+White gains space advantage and the knight on h7 is misplaced.} Qd7 12. Qh5 Bf8
+13. f5 $1 O-O-O 14. Nf4 Kb8 15. fxe6 fxe6 16. Bxh7 {This move wins a pawn} Rxh7
+17. Qg6 $1 Rh8 18. Nxe6 (18. Qxe6 $5 {Was even simpler. White gained a pawn
+and dominates the open f file so it makes sense to exchange queens.}) 18... Re8
+19. Nf4 Nd8 20. Rf3 c5 21. Raf1 cxd4 22. cxd4 Ba6 23. Rc1 Ne6 {Diagram #} 24.
+Nxe6 $5 {As already explained, White has a material advantage so exchanging
+more pieces is fine. The knight on e6 is also a strong blocking piece.} (24.
+Rf2 $16) (24. Nb1 $16 {and Nc3}) 24... Rxe6 25. Qf7 $1 Re7 26. Qf4 (26. Qf5 $5)
+26... Re6 27. a3 g5 28. Qf7 Be7 29. Rf6 $1 Bc8 $2 30. Rxc8+ $1 Qxc8 31. Qxe6
+Bxf6 32. Qxf6 $18 {now White has a decisive material advantage.} Ka8 33. h3 g4
+34. hxg4 Rf8 35. Qd6 Rd8 36. Qe7 Rg8 37. Qf7 Qxg4 38. Qxd5+ Kb8 39. e6 Qg3 40.
+Nf1 Qg6 41. Bf4+ 1-0
+
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.26"]
+[Round "26"]
+[White "Max Weiss"]
+[Black "Joseph Henry Blackburne"]
+[Result "0-1"]
+[ECO "B01"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "114"]
+[EventDate "1889.03.25"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Qxd5 4. Nc3 Qa5 5. Nf3 c6 6. Ne5 Nbd7 7. Nc4 Qd8 8.
+Be2 g6 9. d5 cxd5 10. Nxd5 Nxd5 11. Qxd5 Bg7 12. h4 $6 {
+This pawn push is too optimistic. Developing pieces was more logical.} (12. O-O
+) 12... O-O 13. h5 $6 Nf6 14. Qxd8 Rxd8 15. hxg6 hxg6 $15 {
+Black has better development.} 16. Bd3 $6 Be6 17. Bd2 Rac8 18. Ne5 $6 Nd7 $1
+19. Nxd7 Rxd7 $17 20. Bc1 Bc4 $1 21. Rh3 (21. Bxc4 Rxc4 22. c3 Rxc3 $1 $17)
+21... Bxd3 22. Rxd3 Rxd3 23. cxd3 Rc2 {Invading the second rank} 24. Rb1 Bd4 $1
+25. Bd2 (25. Be3 Bxe3 26. fxe3 Rxg2 $19) 25... Rxb2 26. Rxb2 Bxb2 27. Be3 a6
+28. Kd2 Kf8 29. Kc2 Be5 30. Kb3 Ke8 31. Kc4 Kd7 32. Kc5 Bc7 33. f3 e6 34. a4
+b6+ 35. Kc4 Kc6 36. Bf2 f6 37. Be3 Bd6 38. Bd4 e5 39. Be3 {Diagram #} b5+ $1 {
+Black is a pawn up and with this favourable exchange he gets a passed pawn
+that will keep White's pieces busy on the queenside.} (39... f5 $17) 40. axb5+
+(40. Kb3 Kd5 {is similar to the game}) 40... axb5+ 41. Kb3 Kd5 42. Bf2 f5 43.
+Kc3 g5 44. g4 $6 {White's idea seems logical. He wants to exchange as many
+pawns as possible and give his bishop for the remaining pawn, in order to
+reach a drawn king plus bishop versus king position. However, he creates weak
+pawns in this process.} (44. Be3 $17 {it was better to wait}) 44... fxg4 $1 45.
+fxg4 Bc5 46. Be1 (46. Bxc5 Kxc5 47. Kb3 Kd4 $19) 46... e4 $1 {
+Another good exchange, this time to penetrate with the king.} 47. dxe4+ (47.
+Bg3 b4+ 48. Kc2 e3 $19) 47... Kxe4 48. Bd2 Be3 $1 (48... Be7 49. Bxg5 $1 Bxg5
+50. Kb4 $11 {And White achieves his goal}) 49. Be1 Kf3 50. Kb4 Kxg4 51. Kxb5
+Kf3 52. Kc4 g4 53. Kd3 Bf2 54. Ba5 g3 55. Bc7 g2 56. Bh2 Bb6 57. Kd2 Kg4 {
+and Kh3} 0-1
+
+[Event "Gibraltar Masters"]
+[Site "Catalan Bay GIB"]
+[Date "2019.01.25"]
+[Round "4.26"]
+[White "Damian Lemos"]
+[Black "Varuzhan Eduardovich Akobian"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2474"]
+[BlackElo "2643"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "83"]
+[EventDate "2019.01.22"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 d5 5. b3 cxd4 6. exd4 Bb4+ 7. c3 Bd6 8. O-O
+Nc6 9. Re1 b6 10. Ne5 Bb7 11. Bf4 O-O 12. Nd2 Rc8 13. Re3 $5 {
+Planning to attack} Be7 14. Rg3 g6 15. Bh6 Nxe5 $5 {
+Black sacrifices the exchange to stop Whiteâ []s attack} (15... Re8 16. Nxg6
+hxg6 17. Bxg6 fxg6 18. Qc2 $1 $16) 16. dxe5 Ne4 $6 {The wrong follow up} (16...
+Nd7 $1 17. Bxf8 Bxf8 18. Qe2 Rxc3 $44 {
+Black has the bishop pair and a pawn for the exchange}) 17. Bxe4 $1 dxe4 18.
+Bxf8 Bxf8 19. Nc4 $14 Qc7 20. a4 Rd8 21. Qe2 Bg7 22. Rd1 Rxd1+ 23. Qxd1 Bd5 24.
+Qd4 Bxc4 25. Qxc4 Qxe5 26. Re3 $16 {White is an exchange up in an open
+position, where the rook easily dominates the bishop} f5 27. Re1 h5 (27... Qxc3
+28. Qxe6+ $16) 28. Rd1 e3 29. f4 e2 30. Re1 Qe3+ 31. Kh1 Kh7 32. Qxe2 Qxf4 33.
+Qxe6 Bxc3 34. Qe7+ Kh6 {Diagram #} (34... Bg7 35. Qxa7 $18) (34... Kg8 35. Rd1
+$18) 35. Qe3 $1 {As mentioned on move 26, White enters a winning ending} (35.
+Rd1 $16) 35... Qxe3 36. Rxe3 Bb4 37. g3 Kg5 38. Re6 h4 (38... Bc5 39. Kg2 a5
+40. Kf3 Bg1 41. h4+ Kh6 42. Kf4 Bd4 43. Rd6 Bc5 44. Rc6 Bd4 45. Rc2 Bc5 46. Ke5
+$18 {and the king enters the kingside}) 39. gxh4+ Kxh4 40. Rxg6 Bc5 41. Kg2 a5
+42. Kf3 1-0
+
+[Event "Hastings 1967/68"]
+[Site "Hastings ENG"]
+[Date "1968.01.03"]
+[Round "7"]
+[White "Alexey Suetin"]
+[Black "Raymond Keene"]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "123"]
+[EventDate "1967.12.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Qb8 11. g4 b5 12. Bb3 a5 13. Nd5 Nxd5 14. Bxd5 Ne5 $6
+{An unnecessary exchange sacrifice} (14... Bxd4 15. Bxd4 Nxd4 16. Qxd4 (16.
+Bxa8 Nxf3 17. Qf4 Ne5 18. Bd5 e6 19. Bb3 a4 $17) 16... Ra6 $11) (14... Rc8 $11)
+15. Bxa8 Nc4 16. Qf2 Qxa8 17. Kb1 $14 b4 18. h4 a4 19. h5 b3 $2 {
+Again, Black's play is too optimistic} (19... Nxe3 $14) 20. cxb3 axb3 21. axb3
+Nxe3 22. Qxe3 Qa6 23. hxg6 hxg6 24. Rd3 Ra8 25. Rhd1 Be6 26. Rc3 Qa2+ 27. Kc2
+Rb8 28. Rdd3 Bd7 29. Rc7 Be6 30. Rcc3 Bd7 31. Qg5 Qa7 {Diagram #} 32. Nc6 $1 {
+White is an exchange and a pawn up so it makes sense to keep on exchanging
+pieces.} (32. Qd2 $16) 32... Bxc6 33. Rxc6 Ra8 34. Rc4 Bf6 35. Qe3 Qa1 36. Qc1
+$1 {Offering another favourable exchange} Qa7 37. f4 Qb7 38. Qe3 g5 39. fxg5
+Be5 40. g6 $1 Ra2 (40... fxg6 41. Qh6 $18) 41. gxf7+ Kxf7 42. Qf3+ Kg7 43. Rdc3
+$1 Qb6 (43... Bxc3 44. Qxc3+ Kg6 45. Ra4 $1 Rxa4 46. bxa4 $18 {
+and White is two pawns up} Qxe4+ $2 47. Qd3 {and the a pawn queens}) 44. Rc7 $6
+{An inaccuracy} (44. Rc8 $18) 44... Rxb2+ $1 45. Kxb2 Qxc7 46. Kc2 Qa5 (46...
+Bxc3 47. Qxc3+ Qxc3+ 48. Kxc3 $18) 47. Rc8 Qa2+ 48. Kd1 Qa1+ 49. Ke2 Qa6+ 50.
+Rc4 Qa2+ 51. Kf1 Qb1+ 52. Kg2 Qb2+ 53. Qf2 Qxb3 54. Rc8 $1 e6 (54... Qf7 55.
+Qxf7+ Kxf7 $18 {and White wins thanks to the g pawn}) 55. Rc1 Qb7 56. Re1 Bc3
+57. Re2 Bf6 58. Qf3 Qb5 59. Rf2 Qg5 60. Qf4 Qh4 61. Rf3 e5 62. Qf5 {
+Black resigned in view of Qd7+} 1-0
+

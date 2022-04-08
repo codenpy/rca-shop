@@ -1,0 +1,90 @@
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.8"]
+[White "Borrink, Guido"]
+[Black "Messelink, Gerrit"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "1699"]
+[BlackElo "1803"]
+[PlyCount "95"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Muenster SK II"]
+[BlackTeam "Ahaus Wessum"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 d6 3. g3 g6 4. Bg2 Bg7 5. O-O c6 6. Nbd2 O-O 7. Re1 Na6 8. c3
+{Diagram #} Qa5 9. e4 Qh5 10. e5 $1 Ng4 (10... dxe5 11. Rxe5) 11. h3 Nxe5 (
+11... Nh6 12. g4) 12. dxe5 Bxh3 13. Nh4 $6 Qxd1 14. Rxd1 Bxg2 15. Kxg2 Bxe5 16.
+Nb3 b6 17. Bg5 Rfe8 18. Rd2 Bg7 19. Re1 f6 20. Be3 c5 21. c4 Rad8 22. Red1 Rd7
+23. f4 Red8 24. f5 g5 25. Nf3 h6 26. g4 Kf7 27. Bf2 Nc7 28. Bg3 Bf8 29. Nc1 e6
+30. fxe6+ Nxe6 31. Ne2 Ng7 32. Nc3 f5 33. Ne5+ Ke6 34. Nxd7 Rxd7 35. Re2+ Kf7
+36. gxf5 Nxf5 37. Rf1 Kg6 38. Re6+ Kf7 39. Rxf5+ Kxe6 40. Rxf8 a6 41. Rh8 b5
+42. Rxh6+ Kf5 43. Rxd6 Re7 44. Rd5+ Kg4 45. Rxc5 b4 46. Re5 Rd7 47. Nd5 Rd8 48.
+Nf6# 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.2"]
+[White "Ottens, Stephan"]
+[Black "Monsma, Menno"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2116"]
+[BlackElo "2055"]
+[PlyCount "78"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Rheine Klein Berlin"]
+[BlackTeam "Gronau"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 a6 5. Bxd7+ Bxd7 6. dxc5 dxc5 7. Ne5 e6 8.
+Qh5 g6 9. Qf3 Qf6 10. Qg3 Qe7 11. Bf4 Nf6 12. Bg5 Bg7 13. Nxd7 Qxd7 {Diagram #}
+14. Qf3 $2 (14. Nc3 -- 15. O-O -- 16. Rad1) 14... Qd4 (14... Nxe4 $1 15. Qxe4
+Bxb2) 15. Nc3 O-O 16. Rd1 Qe5 17. Bf4 Qh5 18. Qxh5 Nxh5 19. Bd6 Bxc3+ 20. bxc3
+Rfc8 21. c4 Nf6 22. f3 Ne8 23. Bg3 Rd8 24. a4 Rxd1+ 25. Kxd1 Rd8+ 26. Kc1 Rd4
+27. Rd1 Rxd1+ 28. Kxd1 Nf6 29. Kd2 Nd7 30. Kc3 e5 31. Kb3 Kf8 32. a5 Ke7 33. c3
+Ke6 34. Bf2 f5 35. Bh4 fxe4 36. fxe4 h6 37. Bd8 Nf6 38. Bxf6 Kxf6 39. h4 g5 0-1
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.03.17"]
+[Round "7.6"]
+[White "Schroeder, Lennart"]
+[Black "Kornick, Ulrich"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "1747"]
+[BlackElo "1947"]
+[PlyCount "42"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Muenster SK III"]
+[BlackTeam "Rheine Klein Berlin"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 c5 4. d5 e5 5. e4 a6 6. a4 Bd6 7. Bxc4 Ne7 8. Nge2
+O-O 9. O-O b6 10. f4 exf4 11. Bxf4 Ng6 12. Bxd6 Qxd6 13. Ng3 Nd7 14. Nf5 Qe5 {
+Diagram #} 15. h4 $2 (15. d6 $1 Nf6 16. Nd5 Nxd5 17. Bxd5 $5 (17. Qxd5 $1 Qxd5
+18. Bxd5 Rb8 19. a5 (19. Ra3))) 15... Nf6 16. h5 Nf4 17. Ne7+ Qxe7 18. Rxf4 Qe5
+19. Rf2 Ng4 20. d6 Qh2+ 21. Kf1 Ne3+ 0-1
+

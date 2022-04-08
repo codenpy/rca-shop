@@ -1,0 +1,106 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.04.26"]
+[Round "?"]
+[White "3...Nf6 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "C14"]
+[Annotator "RCA"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+[SourceDate "2013.04.26"]
+
+1. e4 e6 {This is known as the French Defence. The idea is to play d5 and
+create a pawn chain in the centre and then attack it with c5.} 2. d4 {
+Controlling the centre...} d5 3. Nc3 {This move doesn't define the position of
+the "e" pawn and also follows the principle of least active piece and maximum
+activity. So I think it is the best choice for White.} Nf6 {Putting pressure
+on e4.} (3... c5 {This is a typical move in the French, but Black usually
+tries to force White to play e5 first because White can now win a pawn.} 4.
+exd5 exd5 5. dxc5 {And if Black recaptures on c5, the d5 pawn falls...}) 4. Bg5
+Be7 {This move goes more into the spirit of the French than...} (4... dxe4 {
+Black removes the pressure in the centre, but White gets a freer position with
+good development and space advantage.} 5. Nxe4 Be7 6. Bxf6 Bxf6 (6... gxf6 {
+This is a double-edged move. Black obtains a better pawn centre and the open
+"g" file, but his pawn structure is very weak...} 7. Nf3 b6 (7... f5 8. Nc3 Bf6
+9. Qd2 c5 10. d5 O-O 11. O-O-O e5 12. h4 {With good attacking chances for
+White.}) (7... a6 8. Bd3 b5 9. Qe2 Bb7 10. O-O-O Nd7 11. Rhe1 {White has
+finished the main opening tasks and has a better pawn structure; Black
+compensates for this with the bishop pair...}) 8. Bb5+ {This move has the
+purpose of closing the a8-h1 diagonal.} c6 {Blocking the diagonal with a piece
+leaves the pieces with a lack of coordination...} (8... Nd7 9. Bc6) (8... Bd7
+9. Bxd7+) 9. Bd3 Bb7 {Now you can see the objective of 8.Bb5+.} 10. Qe2 Qc7 11.
+O-O-O Nd7 12. Kb1 O-O-O 13. Ba6 {To remove Black's bishop pair...} Rhg8 14.
+Bxb7+ Kxb7 15. g3 {White is slightly better due to the pawn structure.}) 7. Nf3
+{White can simply develop his pieces and obtain an attacking position...} O-O
+8. Qd2 b6 9. O-O-O Bb7 10. Qf4 Nd7 11. Bd3 {And white has better chances of
+attacking on the kingside than Black on the queen side...}) 5. e5 Nfd7 (5...
+Ne4 {It's a secondary move - not very dangerous for White...} 6. Nxe4 dxe4 (
+6... Bxg5 7. Nxg5 Qxg5 8. Nf3 Qe7 9. c3 {White has more space and a good
+development.}) 7. Bxe7 Qxe7 8. Qe2 {Attacking the weak e4 pawn and preparing
+to castle queen side.} b6 9. O-O-O (9. Qxe4 Qb4+ {Gives Black excellent play.}
+10. c3 Qxb2 11. Rd1 Qxc3+ 12. Rd2 c6) 9... Bb7 10. g3 {Now it's time to attack
+e4!} c5 11. Bg2 Nc6 12. dxc5 {And after all these complications, White has
+obtained a slight advantage. For example...} Nxe5 (12... O-O 13. Bxe4 Nxe5 {
+Transpose...}) (12... Qxc5 13. Bxe4 {And White is a pawn up...}) (12... bxc5
+13. Bxe4) 13. Bxe4 O-O 14. f4 Rfd8 15. Rxd8+ Rxd8 16. Nh3 Nc6 17. cxb6 Nd4 18.
+Qg2 Bxe4 19. Qxe4 {The position is complicated - but the advantages is on
+White's side due to the material advantage; Black's compensation isn't very
+clear...}) 6. Bxe7 Qxe7 7. f4 {In this kind of French structure, Black usually
+tries to attack White's centre with c5. Against this, White normally has two
+options: 1. support d4 with c3; 2. give enough support to e5. In this case the
+knight is on c3 so option 1 doesn't look very good. This is why White chooses
+option number 1 and gives e5 support.} a6 {In this kind of position, it's
+important to prevent the manoeuvre Nb5-d6 - this is why c5 directly was
+inaccurate...} (7... O-O 8. Nf3 {Maximum activity and least active piece...} c5
+9. Qd2 {Preparing to castle queen side - now the manoeuvre Nb5-d6 is not so
+strong because the Black king has already castled.} Nc6 10. dxc5 {White can
+make this move when the d4 square is under his control, because it's very
+important in this variation to control this square.} Qxc5 (10... Nxc5 11. Bd3 (
+11. O-O-O {Is the normal move here but after...} a6 {I think that Black has
+good options on the queen side.}) 11... f6 12. exf6 Qxf6 13. g3 Bd7 14. O-O {
+And White has some positional advantage and his plan is very clear: create a
+blockade over the central dark squares - always prevent the break on the e5
+square.}) (10... f6 11. exf6 Qxf6 12. g3 Nxc5 13. O-O-O {And the plan against
+this is: 1. control the dark squares in the centre; 2. prevent Black's
+counterplay on the queen side.}) 11. O-O-O {Now we have on the board an
+opposite castling position, when the normal plan for both sides is attack the
+opponent's king.} Nb6 12. Kb1 {A prophylactic move - the king is much better
+on b1 than on c1.} Bd7 13. Bd3 {Following the principle of maximum activity
+and pointing towards Black's king.} Na5 (13... Nc4 14. Bxc4 Qxc4 15. f5 exf5
+16. Qxd5 Qxd5 17. Nxd5 {And this endgame is slightly preferable for White.})
+14. Bxh7+ {A typical sacrifice - White doesn't win directly but obtains
+excellent compensation. The remaining moves are forced.} Kxh7 15. Ng5+ Kg8 16.
+Qd3 Rfe8 17. Qh7+ Kf8 18. Qh8+ Ke7 19. Qxg7 Kd8 20. Nxf7+ Kc7 21. Nd6 $16 {
+Three pawns for a piece and excellent attacking possibilities are almost
+always evidence of good business!}) (7... c5 $6 8. Nb5 $1 {And the knight is
+going to d6 while creating the threat of Nc7 and capturing the rook.}) 8. Nf3 {
+Least active piece and maximum activity.} c5 (8... b6 {The idea is to play c5
+and then recapture with the pawn to control the d4 square.} 9. Qd2 c5 10. Nd1 {
+To support the centre with c3...} Nc6 11. c3 Bb7 12. Ne3 f6 13. Bd3 {White has
+excellent possibilities because of his space advantage and the difference
+between the bishops. He should finish development and then wait for the
+position in the centre to become clear.}) 9. dxc5 {This move is typical and
+now we reach a normal structure in this kind of variation. The usual idea for
+White is to establish control of the d4 square and take advantage of Black's
+bad bishop.} Nc6 (9... Qxc5 10. Qd2 Nc6 11. O-O-O b5 12. Ne2 {A natural
+manoeuvre, with the idea of controlling d4.} Nb6 13. Ned4 Bd7 14. Nxc6 Bxc6 15.
+Nd4) (9... Nxc5 10. Bd3 Nc6 11. O-O {Normally when Black takes on c5 with the
+knight, it is preferable to castle king side because this will give White a
+positional advantage with no risk. Castling queen side is very risky due to
+the advance of the queen side pawns with a6-b5-b4, etc.} b5 12. Ne2 {And this
+knight is going to d4, with a solid positional advantage for White.}) 10. Bd3 (
+10. Qd2 {Is another alternative. The thing is that after...} Nxc5 {White
+always wants to castle king side and Qd2 doesn't help that objective.}) 10...
+Qxc5 (10... Nxc5 11. O-O {Transpose to the 9...Nxc5 variation.}) 11. Qd2 b5 (
+11... Nb6 12. a3 {White is going to play b4, push away Black's queen and
+castle king side.} Nc4 13. Bxc4 Qxc4 14. b3 {Here White has an excellent
+forcing way for getting a clear advantage...} Qc5 15. Na4 Qe7 16. c4 $1 dxc4
+17. Nb6 Rb8 18. Nxc4 $16 {White will have a dominating knight on d6.}) 12. a3 {
+To prevent b4 followed by a5 and Ba6, exchanging Black's bad bishop.} Bb7 13.
+Qf2 {The endgames are normally in White's favour, because of his good minor
+pieces and great control of the dark squares.} Qxf2+ 14. Kxf2 Nc5 15. Ne2 {
+With a slight but enduring advantage for White. The plan here is to use the d4
+square and to attack slowly but surely on both flanks, seizing space.} *
+

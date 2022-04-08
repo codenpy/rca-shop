@@ -1,0 +1,238 @@
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1968.06.20"]
+[Round "4"]
+[White "Troianescu, Octavio"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B99"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "1968.06.17"]
+[EventRounds "13"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Kb1 b5 11. Bd3 b4 12. Nce2 Bb7 13. Rhe1 h6 14. Bxf6 Bxf6
+15. Qe3 Qc5 {Centralization of the queen} 16. Qg1 g5 {Fighting for the control
+of the e5-square, which will be a strong square for Black's knight.} 17. Nb3
+Qxg1 18. Rxg1 Bd8 {Transfer of the bishop to an active position, and also
+preventing White from playing Na5.} 19. g3 Ke7 {Centralization of the king.
+The following moves are a good illustration of the gradual improvement of the
+positions of all of Black's pieces.} 20. c3 a5 21. cxb4 axb4 22. Bc2 Bb6 23.
+Rge1 Rhg8 24. f5 Rgc8 25. Nec1 Ne5 26. Nd3 Nf3 27. Re2 Ba6 28. Rg2 Rc4 29. Ne1
+Ne5 30. Rgd2 Rd8 31. f6+ Kxf6 32. Rxd6 Rxd6 33. Rxd6 Rc6 34. Rxc6 Nxc6 35. Bd3
+Bb7 36. Nd2 g4 37. Be2 h5 38. Nc4 Bg1 39. Nd3 Nd4 40. e5+ Ke7 41. Bf1 0-1
+
+[Event "Candidates qf3"]
+[Site "Vancouver"]
+[Date "1971.05.18"]
+[Round "2"]
+[White "Fischer, Robert James"]
+[Black "Taimanov, Mark E"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2740"]
+[BlackElo "2620"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "177"]
+[EventDate "1971.05.16"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. Bf4 e5 7. Be3 Nf6 8. Bg5
+Qa5+ 9. Qd2 Nxe4 10. Qxa5 Nxa5 11. Be3 Kd7 12. N1c3 Nxc3 13. Nxc3 Kd8 14. Nb5
+Be6 15. O-O-O b6 16. f4 exf4 17. Bxf4 Nb7 18. Be2 Bd7 19. Rd2 {
+Doubling rooks to increase the pressure on the d-file} Be7 20. Rhd1 Bxb5 21.
+Bxb5 Kc7 22. Re2 {Black has protected his d6-pawn, and White is relocating his
+rooks on the open e-file.} Bf6 23. Rde1 Rac8 24. Bc4 Rhf8 25. b4 {
+Limitation of Black's knight} a5 26. Bd5 {
+Coutnerblow! White is threatening Re7+} Kb8 27. a3 Rfd8 28. Bxf7 Bc3 29. Bd2 d5
+30. Rd1 d4 31. Bxc3 Rxc3 32. Kb2 d3 33. Kxc3 dxe2 34. Re1 Nd6 35. Bh5 Nb5+ 36.
+Kb2 axb4 37. axb4 Rd4 38. c3 Rh4 39. Bxe2 Nd6 40. Rd1 Kc7 41. h3 Rf4 42. Rf1
+Re4 43. Bd3 Re5 44. Rf2 h5 45. c4 Rg5 46. Kc3 Kd7 47. Ra2 Kc8 48. Kd4 Kc7 49.
+Ra7+ Kd8 50. c5 bxc5+ 51. bxc5 Ne8 52. Ra2 Nc7 53. Bc4 Kd7 54. Rb2 Kc6 55. Bb3
+Nb5+ 56. Ke3 Kxc5 57. Kf4 Rg6 58. Bd1 h4 59. Kf5 Rh6 60. Kg5 Nd6 61. Bc2 Nf7+
+62. Kg4 Ne5+ 63. Kf4 Kd4 64. Rb4+ Kc3 65. Rb5 Nf7 66. Rc5+ Kd4 67. Rf5 g5+ 68.
+Kg4 Ne5+ 69. Kxg5 Rg6+ 70. Kxh4 Rxg2 71. Bd1 Rg8 72. Bg4 Ke4 73. Kg3 Rg7 74.
+Rf4+ Kd5 75. Ra4 Ng6 76. Ra6 Ne5 77. Kf4 Rf7+ 78. Kg5 Rg7+ 79. Kf5 Rf7+ 80. Rf6
+Rxf6+ 81. Kxf6 Ke4 82. Bc8 Kf4 83. h4 Nf3 84. h5 Ng5 85. Bf5 Nf3 86. h6 Ng5 87.
+Kg6 Nf3 88. h7 Ne5+ 89. Kf6 1-0
+
+[Event "Western open-ch"]
+[Site "Bay City"]
+[Date "1963.07.04"]
+[Round "2"]
+[White "Reinhard, Allen"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B25"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "48"]
+[EventDate "1963.07.04"]
+[EventRounds "8"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 c5 7. Nc3 Nc6 8. h3
+Rb8 9. Be3 b5 10. e5 dxe5 11. Bxc5 b4 {From this move onwards, Black keeps
+attacking, while improving the position of his pieces simultaneously.} 12. Ne4
+Nxe4 13. dxe4 Qa5 14. Be3 Ba6 {The bishop was placed on an open diagonal.} 15.
+Re1 Rfd8 {The rook should stand on an open line.} 16. Qc1 Nd4 {
+The knight is fixed on a strong square in the center.} 17. Kh2 Rdc8 18. Nxd4
+exd4 19. Bg5 d3 {Counterblow!} 20. a3 Rxc2 21. axb4 Qb6 22. Qe3 Bd4 23. Qf3
+Rxf2 24. Qg4 d2 0-1
+
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1965.??.??"]
+[Round "11"]
+[White "Burger, Karl"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E61"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "90"]
+[EventDate "1965.??.??"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 e5 4. Bg2 d6 5. e3 Nf6 6. Nge2 O-O 7. O-O c6 8. d4
+Qe7 9. Qc2 Re8 10. e4 Nbd7 11. d5 a5 {
+Securing the strong c5-square for Black's knight.} 12. h3 cxd5 13. cxd5 b6 {
+The bishop is going to be placed on a6, on an open diagonal.} 14. Nb5 Ba6 15.
+Nec3 Rec8 {The rook should stand on an open line.} 16. a4 Ne8 {
+Black plans to play Nc7 and trade off White's strong knight.} 17. Re1 Bxb5 {
+White was preparing the Bf1-move to strengthen his control over the b5-square.
+Therefore, Black decided to take on b5 immediately.} (17... Nc7 18. Bf1 Nxb5
+19. axb5 Bb7) 18. axb5 {Now White's b5-pawn is covering Black's potential
+weakness on b6. Therefore, Black doesn't have to worry about that b6-pawn
+anymore.} Qf8 {Preparing an exchange of Black's passive bishop after Bh6.} 19.
+h4 {White plans Bh3, attacking Black's knight and rook.} Nc5 {
+The c5 is an ideal square for Black's knight.} 20. Bh3 Rcb8 ({
+Sadly for Black, he can't keep his rook on the open c-line} 20... Rc7 {due to}
+21. b4) 21. Ra3 Bh6 22. Bg5 Bxg5 23. hxg5 h6 {
+Black is opening up the h-file to activate his heavy pieces.} 24. gxh6 Qxh6 25.
+Kg2 Nf6 26. Nb1 Kg7 27. Nd2 Rh8 28. Rh1 Rh7 29. b4 Nb7 30. Nf1 Rah8 31. Rf3
+axb4 32. Qc7 Nc5 33. Rxf6 Kxf6 34. Qxd6+ Kg7 35. Qxe5+ Kg8 36. Ne3 Qg7 37. Qb8+
+Qf8 38. Qxb6 Nxe4 39. Qd4 f5 {Fixing the knight on a strong central square.}
+40. d6 Qxd6 41. Qc4+ Kg7 42. Rd1 Qe7 43. Nd5 Qc5 44. Qa2 Rxh3 45. Qb2+ Kf7 0-1
+
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1966.??.??"]
+[Round "5"]
+[White "Byrne, Donald"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A21"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "87"]
+[EventDate "1966.??.??"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 d6 5. e4 f5 6. exf5 gxf5 7. Qh5+ Kf8 8. d3
+Nf6 9. Qe2 Kf7 10. Bg5 c6 11. Nf3 Rf8 12. Qd2 Kg8 13. d4 exd4 {Usually, you
+should not disconnect your pawns, but in this position, Black wants to take
+advantage of White's king in the center and attack it via the open e-file.} 14.
+Nxd4 Qe8+ 15. Nde2 Nbd7 {
+Counterattack! Black is preparing Ne5, attacking White's c4-pawn.} 16. O-O Ne5
+17. Qxd6 Nxc4 18. Qf4 Ne5 19. Bh6 Nd3 20. Qd2 Bxh6 21. Qxh6 Nxb2 22. Nf4 Qf7
+23. Rfe1 Nc4 24. Rad1 Bd7 25. Bh3 Rae8 26. Rxe8 Rxe8 27. Nce2 Ne5 28. Nd4 Nfg4
+{Counterattack!} 29. Qg5+ Qg7 30. Qxg7+ Kxg7 31. f3 Ne3 32. Re1 c5 {
+Another counterattack!} 33. Rxe3 cxd4 34. Rb3 b6 35. Kf2 Rc8 36. Rb2 d3 37. Rb1
+d2 38. Rd1 Nc4 39. Ke2 Ba4 40. Rxd2 Re8+ 41. Kd3 Nxd2 42. Kxd2 Re5 43. Ne2 Bd7
+44. Nc3 0-1
+
+[Site "New York"]
+[Date "1963.12.26"]
+[Round "7"]
+[White "Addison, William"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "C70"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r2qkb1r/1bppnppp/p7/1p6/3QPB2/1PP2N2/1P3PPP/RN2K2R b KQkq - 0 10"]
+[PlyCount "57"]
+[EventDate "1963.12.15"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+10... d5 $1 {Black is on time to open the center. Generally, this is something
+that White should not allow.} 11. e5 (11. exd5 Nxd5 12. Qe5+ Qe7 $15) 11... c5
+$1 {Black is gaining more and more space. Black's center is impressive and the
+e5-pawn is not dangerous. In the game, Black performed a really cool maneuver
+with the knight and he totally blocked the white pawn.} 12. Qd3 (12. Qxc5 Nf5 $19 {
+The queen is trapped.}) 12... Ng6 13. Bg3 Be7 14. Nbd2 Nf8 $1 {
+Black is transferring the knight to the central blockading e6-square.} 15. O-O
+Ne6 16. Rad1 g5 $1 {White's bishop is locked on the kingside, and Black can
+attack it, while, simultaneously, is executing a pawn assault of White's king.}
+17. h3 (17. Rfe1 $2 g4 $19 {The knight is trapped. :-)}) 17... h5 18. Rfe1 Qb6
+19. Nf1 d4 $1 {Opening up the long diagonal for Black's bishop.} 20. N3d2 g4
+21. h4 Qc6 $1 {Centralizing the queen. It is always a good idea to combine the
+power of the queen and bishop. Black is threatening to checkmate on g2.} 22. Qe4 (22.
+Ne4 c4 $1) 22... O-O-O 23. Qxc6+ Bxc6 24. c4 Kd7 $1 {
+In the endgame, you should centralize your king.} 25. Ra1 Ra8 26. Ne4 Bxe4 $1 {
+Exchanging White's most active piece. Fischer always sought to eliminate the
+opponent's knights from the center.} 27. Rxe4 Ng7 $1 {Vacating the central
+e6-square for its king, and preparing ...Nf5 to attack White's weaknesses.}
+28. Nd2 Nf5 29. Rf4 Ke6 30. Ne4 bxc4 {Opening lines for Black's rook.} 31.
+bxc4 Rhb8 32. Ra2 Rb4 33. Nd2 Nxh4 34. Bxh4 Bxh4 35. Re4 Bg5 36. f4 gxf3 37.
+Nxf3 Be3+ 38. Kh2 Rxc4 0-1
+
+[Event "Candidates sf1"]
+[Site "Denver"]
+[Date "1971.07.06"]
+[Round "1"]
+[White "Fischer, Robert James"]
+[Black "Larsen, Bent"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2760"]
+[BlackElo "2660"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r3k2r/ppqbn1pp/2n1pp2/3pP3/P1pP4/2P2N2/2P1BPPP/R1BQ1RK1 w kq - 0 12"]
+[PlyCount "59"]
+[EventDate "1971.07.06"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+12. Re1 $1 {We should put the rooks on the center of the board. We can imagine
+that, after some moves, the e-file could be potentially opened. For that
+reason, it is wise to place the rook on e1.} (12. Ba3 $5) 12... Ng6 (12... fxe5 13.
+dxe5 Nxe5 $2 (13... O-O-O 14. Ba3 $14) 14. Nxe5 Qxe5 15. Bh5+) 13. Ba3 {
+This is another very important positional development move. White should
+activate his pieces and the dark-squared bishop could be a very strong piece
+on this open diagonal.} fxe5 14. dxe5 Ncxe5 15. Nxe5 Nxe5 (15... Qxe5 $6 16. Bxc4 $16) 16.
+Qd4 $1 {We learned from the video lessons that we should centralize the queen 
+and this is exactly what Fischer is doing here.} Ng6 17. Bh5 Kf7 $5 (17... O-O-O
+18. a5 $1 -- 19. Bc5 $40) 18. f4 $5 $16 {This is another logical move which 
+follows the basic strategic principles. It is important to open lines 
+when your opponent's king position is not secure. It is logical 
+to try to open the f-line.} (18. Re3 $5) 18... Rhe8 19. f5 exf5 20. Qxd5+ $16 {
+Finally, the queen released her centralized power and she captured a central
+pawn with decisive effects. Black's king is not secure and this creates real
+problems for Black. White won the game afterwards.} Kf6 21. Bf3 Ne5 22. Qd4 Kg6 23. Rxe5 Qxe5 24.
+Qxd7 Rad8 25. Qxb7 Qe3+ 26. Kf1 Rd2 27. Qc6+ Re6 28. Bc5 Rf2+ 29. Kg1 Rxg2+ 30.
+Kxg2 Qd2+ 31. Kh1 Rxc6 32. Bxc6 Qxc3 33. Rg1+ Kf6 34. Bxa7 g5 35. Bb6 Qxc2 36.
+a5 Qb2 37. Bd8+ Ke6 38. a6 Qa3 39. Bb7 Qc5 (39... c3 40. Bb6 c2 41. a7 c1=Q 42.
+Rxc1 Qxc1+ 43. Bg1) 40. Rb1 c3 41. Bb6 (41. Bb6 c2 42. Re1+ Qe5 43. Rxe5+ Kxe5
+44. a7 c1=Q+ 45. Bg1) 1-0
+

@@ -1,0 +1,481 @@
+2022-02-19T12:47:54+00:00 INFO Generating payment form for order 56465. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T12:47:54+00:00 INFO PayPal Request Args for order 56465: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56465/?key=wc_order_gIh78YJrjE2ZO&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_gIh78YJrjE2ZO&order_id=56465&redirect&_wpnonce=e59e311a65
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56465
+    [custom] => {"order_id":56465,"order_key":"wc_order_gIh78YJrjE2ZO"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => My Thinking System
+    [quantity_1] => 1
+    [amount_1] => 17
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:07:26+00:00 INFO Generating payment form for order 56584. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:07:26+00:00 INFO PayPal Request Args for order 56584: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56584/?key=wc_order_EDdmIvSRabETT&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_EDdmIvSRabETT&order_id=56584&redirect&_wpnonce=dc17eb7f41
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56584
+    [custom] => {"order_id":56584,"order_key":"wc_order_EDdmIvSRabETT"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => My Thinking System
+    [quantity_1] => 1
+    [amount_1] => 17
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:11:56+00:00 INFO Generating payment form for order 56586. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:11:56+00:00 INFO PayPal Request Args for order 56586: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56586/?key=wc_order_c0gQul8yaXbm3&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_c0gQul8yaXbm3&order_id=56586&redirect&_wpnonce=aaf951ac74
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56586
+    [custom] => {"order_id":56586,"order_key":"wc_order_c0gQul8yaXbm3"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => GM Igor Smirnov's Super Pack
+    [quantity_1] => 1
+    [amount_1] => 997
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:26:55+00:00 INFO Generating payment form for order 56610. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:26:55+00:00 INFO PayPal Request Args for order 56610: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56610/?key=wc_order_ovrPmh6Xp4mYW&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_ovrPmh6Xp4mYW&order_id=56610&redirect&_wpnonce=7110822d69
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56610
+    [custom] => {"order_id":56610,"order_key":"wc_order_ovrPmh6Xp4mYW"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => The Grandmaster’s Secrets
+    [quantity_1] => 1
+    [amount_1] => 57
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:28:52+00:00 INFO Generating payment form for order 56612. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:28:52+00:00 INFO PayPal Request Args for order 56612: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56612/?key=wc_order_jvZeDBIG2pVtR&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_jvZeDBIG2pVtR&order_id=56612&redirect&_wpnonce=5aac812a4f
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56612
+    [custom] => {"order_id":56612,"order_key":"wc_order_jvZeDBIG2pVtR"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => 3 Steps to 2000 ELO
+    [quantity_1] => 1
+    [amount_1] => 129
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:30:15+00:00 INFO Generating payment form for order 56615. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:30:15+00:00 INFO PayPal Request Args for order 56615: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56615/?key=wc_order_Qi4aFhaVDZKjF&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_Qi4aFhaVDZKjF&order_id=56615&redirect&_wpnonce=63bf0b9e48
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56615
+    [custom] => {"order_id":56615,"order_key":"wc_order_Qi4aFhaVDZKjF"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => RCA Beginners Package
+    [quantity_1] => 1
+    [amount_1] => 199
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:31:42+00:00 INFO Generating payment form for order 56619. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:31:42+00:00 INFO PayPal Request Args for order 56619: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56619/?key=wc_order_xJBuiBLrvE1HX&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_xJBuiBLrvE1HX&order_id=56619&redirect&_wpnonce=2d5842ed99
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56619
+    [custom] => {"order_id":56619,"order_key":"wc_order_xJBuiBLrvE1HX"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => GM Igor Smirnov's Super Pack
+    [quantity_1] => 1
+    [amount_1] => 997
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:32:33+00:00 INFO Generating payment form for order 56619. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:32:33+00:00 INFO PayPal Request Args for order 56619: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56619/?key=wc_order_xJBuiBLrvE1HX&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_xJBuiBLrvE1HX&order_id=56619&redirect&_wpnonce=2d5842ed99
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56619
+    [custom] => {"order_id":56619,"order_key":"wc_order_xJBuiBLrvE1HX"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => GM Igor Smirnov's Super Pack
+    [quantity_1] => 1
+    [amount_1] => 997
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:33:31+00:00 INFO Generating payment form for order 56664. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:33:31+00:00 INFO PayPal Request Args for order 56664: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56664/?key=wc_order_hGv52PIo9um2O&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_hGv52PIo9um2O&order_id=56664&redirect&_wpnonce=be972ade86
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56664
+    [custom] => {"order_id":56664,"order_key":"wc_order_hGv52PIo9um2O"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => GM Igor Smirnov's Super Pack
+    [quantity_1] => 1
+    [amount_1] => 997
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:35:07+00:00 INFO Generating payment form for order 56688. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:35:07+00:00 INFO PayPal Request Args for order 56688: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56688/?key=wc_order_e753gYyFLfxnD&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_e753gYyFLfxnD&order_id=56688&redirect&_wpnonce=4b141f58ab
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56688
+    [custom] => {"order_id":56688,"order_key":"wc_order_e753gYyFLfxnD"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => The Grandmaster’s Secrets
+    [quantity_1] => 1
+    [amount_1] => 57
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:36:48+00:00 INFO Generating payment form for order 56690. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:36:48+00:00 INFO PayPal Request Args for order 56690: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56690/?key=wc_order_TwxUUhpYsNrmL&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_TwxUUhpYsNrmL&order_id=56690&redirect&_wpnonce=d7de2af4a4
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56690
+    [custom] => {"order_id":56690,"order_key":"wc_order_TwxUUhpYsNrmL"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => The Grandmaster’s Secrets
+    [quantity_1] => 1
+    [amount_1] => 57
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:38:43+00:00 INFO Generating payment form for order 56692. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:38:43+00:00 INFO PayPal Request Args for order 56692: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56692/?key=wc_order_ZJfVBfDANjnaa&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_ZJfVBfDANjnaa&order_id=56692&redirect&_wpnonce=81871578e4
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56692
+    [custom] => {"order_id":56692,"order_key":"wc_order_ZJfVBfDANjnaa"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => The Grandmaster’s Positional Understanding
+    [quantity_1] => 1
+    [amount_1] => 139
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2022-02-19T13:40:05+00:00 INFO Generating payment form for order 56694. Notify URL: http://localhost/shop/wc-api/WC_Gateway_Paypal/
+2022-02-19T13:40:05+00:00 INFO PayPal Request Args for order 56694: Array
+(
+    [cmd] => _cart
+    [business] => paypal4chess@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/shop/checkout/order-received/56694/?key=wc_order_pQS3pu7u5mMKv&utm_nooverride=1
+    [cancel_return] => http://localhost/shop/cart/?cancel_order=true&order=wc_order_pQS3pu7u5mMKv&order_id=56694&redirect&_wpnonce=1d5fb3f072
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-56694
+    [custom] => {"order_id":56694,"order_key":"wc_order_pQS3pu7u5mMKv"}
+    [notify_url] => http://localhost/shop/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Winning The Middlegame
+    [quantity_1] => 1
+    [amount_1] => 119
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+

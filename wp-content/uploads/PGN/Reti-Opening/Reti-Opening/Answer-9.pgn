@@ -1,0 +1,17 @@
+﻿[Event "London"]
+[Site "London"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Conquest"]
+[Black "Hodgon"]
+[Result "1-0"]
+[Annotator "T1A"]
+[SetUp "1"]
+[FEN "r1b4k/3q2rp/8/2pP1Q2/1pB3n1/7R/PP4PP/3R2K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1990.??.??"]
+[EventType "swiss"]
+[EventCountry "ENG"]
+
+1. Rxh7+ Rxh7 2. Qf8# 1-0
+

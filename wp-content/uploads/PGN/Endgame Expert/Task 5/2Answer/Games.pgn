@@ -1,0 +1,357 @@
+[Event "Match (exhibition)"]
+[Site "Izmir (Turkey)"]
+[Date "2002.??.??"]
+[Round "1"]
+[White "Yildiz Betul (TUR)"]
+[Black "Gurevich Mikhail (BEL)"]
+[Result "0-1"]
+[WhiteElo "2021"]
+[BlackElo "2634"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4rr1k/1b4b1/p5pp/1p1N4/2p1PP1p/P5P1/1PPN3P/2KR3R b - - 0 23"]
+[PlyCount "27"]
+[EventDate "2002.??.??"]
+
+{Rooks and bishops need open files. Therefore you should move pawns to open a
+position.} 23... g5 $1 24. Rhf1 hxg3 25. hxg3 Kg8 26. Rde1 gxf4 27. gxf4 {(Now
+the black's pieces become very active)} Bxd5 28. exd5 Rxe1+ 29. Rxe1 Rxf4 30.
+Ne4 Rf5 31. d6 Rd5 32. Rg1 Kf7 33. c3 Be5 34. Rf1+ Ke6 35. Re1 Kf5 36. Nd2 Bf4
+0-1
+
+[Event "4th Open A"]
+[Site "?"]
+[Date "2008.02.07"]
+[Round "6"]
+[White "Malakhov V"]
+[Black "Krylov M RUS"]
+[Result "1-0"]
+[WhiteElo "2689"]
+[BlackElo "2371"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4r3/R5pp/1pp2kn1/8/3P4/1P2B1P1/5K1P/8 w - - 0 28"]
+[PlyCount "125"]
+[EventDate "2008.??.??"]
+[Source "The Week in Ches"]
+
+{The bishop is passive, because it doesn't have open diagonals.} 28. d5 $1 cxd5
+29. Bxb6 {(White got an active bishop and a distant passed pawn on the "b"
+file.)} Ne5 30. Bd4 Kg6 31. h3 h5 32. Rb7 Nd3+ 33. Kf1 Re4 34. Ba7 h4 35. gxh4
+Rxh4 36. Ke2 Rxh3 37. b4 Nxb4 38. Rxb4 Kf5 39. Rd4 Ra3 40. Bc5 Rc3 41. Bf8 g6
+42. Rxd5+ Kf6 43. Bh6 Rb3 44. Be3 Ke6 45. Ra5 Rb4 46. Kd3 Rg4 47. Bd4 Rg2 48.
+Kc4 Re2 49. Rg5 Kf7 50. Kd5 Ra2 51. Rg1 Ra5+ 52. Ke4 Rb5 53. Ra1 Rf5 54. Ra7+
+Ke6 55. Ra6+ Kf7 56. Be5 Rf1 57. Kd5 g5 58. Ke4 Rf2 59. Bd4 Rf1 60. Be3 Rf6 61.
+Ra5 g4 62. Bf4 Re6+ 63. Kf5 Re7 64. Ra6 Rb7 65. Rh6 Rd7 66. Be5 g3 67. Bxg3 Kg7
+68. Rg6+ Kf7 69. Be5 Re7 70. Bd6 Rd7 71. Rf6+ Kg7 72. Bf8+ Kg8 73. Ke6 Ra7 74.
+Rf1 Ra2 75. Bd6 Rg2 76. Be5 Kh7 77. Kf5 Kg8 78. Kf6 Rg6+ 79. Ke7 Kh7 80. Kf7
+Rg7+ 81. Kf6 Rg6+ 82. Kf5 Kg8 83. Ra1 Rb6 84. Ra7 Kf8 85. Bf6 Rb3 86. Kg6 Rg3+
+87. Bg5 Ke8 88. Re7+ Kf8 89. Re1 Rb3 90. Bh6+ 1-0
+
+[Event "Ch Belarus"]
+[Site "Minsk (Belarus)"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Litvinov Viktor (BLR)"]
+[Black "Boleslavsky Isaak (BLR)"]
+[Result "0-1"]
+[WhiteElo "2470"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2b2rk1/4npp1/p2Rp2p/1r2P3/Np2B3/8/PPP3PP/2K1R3 b - - 0 21"]
+[PlyCount "47"]
+[EventDate "1959.??.??"]
+
+21... Nf5 {Black is provoking white to exchange his bishop} 22. Bxf5 $2 (22.
+Rb6 Rxe5 23. Rxb4 $11) 22... exf5 {(Now black has an advantage because R+B is
+more powerful than R+K.)} 23. Rb6 $2 {(white doesn't know what to do)} (23. c4
+$1 bxc3 24. Nxc3 {=}) 23... Bb7 24. g3 Rc8 25. Rxb5 axb5 26. Nb6 Rc7 27. Rd1
+Be4 {(The rook and the bishop have a goor harmony, while the white's pieces
+can't do anything)} 28. Rd8+ Kh7 29. Rc8 Rb7 30. Na8 Re7 31. Nb6 Rb7 32. Na8
+Ra7 33. Nb6 Rxa2 34. Nd7 Kg6 35. Nf8+ Kg5 36. Rc7 Kg4 37. Rxf7 b3 38. cxb3 Kf3
+39. Kd2 b4 {The black's pieces cooperate so well, that he can even mate the
+white's king!} 40. Rc7 (40. e6 $1 Rxb2+ 41. Kd1 Rxb3 42. Rc7 Re3 $17 43. e7 b3
+44. Kc1 Bd5 45. Rc5 Re1+ 46. Kb2 Re2+ 47. Kc3 b2 48. Rb5 Rxe7 49. Rxb2 Bf7 $19)
+40... Rxb2+ 41. Kd1 Rxh2 (41... Rxb3 {!?} 42. e6 Re3 $17) 42. Rxg7 $2 (42. e6
+$7 Bd5 43. Rxg7 Bxb3+ 44. Kc1 Rc2+ 45. Kb1 Re2 46. e7 Bc4 $19) 42... Ke3 43.
+Kc1 Rc2+ 44. Kd1 Rc3 0-1
+
+[Event "Moscow"]
+[Site "Ìîñêâà"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Boleslavskij"]
+[Black "Scherbakov"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3p1p/2p1n1p1/4p2n/2B1P3/4BP2/PPPN2PP/R4RK1 w kq - 0 1"]
+[PlyCount "75"]
+
+{The white's plan is to attack the black's weak pawns and squares. Next you
+should ask yourself "How should I use my forces to realize this plan?"} 1. a4 {
+(After a4-a5 white is fixing the black's weak pawns on the queen-side. Thus
+black will not be able to neutralize the bishop's pressure on the a7 pawn.)}
+Ke7 2. Rfd1 Rd8 3. Ba2 {(White wants to place the knight on c4 to attack the
+e5 and d6 weaknesses.)} f6 4. Nc4 b6 5. Rxd8 Nxd8 6. a5 Be6 7. Bb3 Bxc4 8. Bxc4
+b5 9. Bc5+ Ke8 10. Bg8 {(The white's bishops are controlling the whole board)}
+Nb7 11. Bf2 a6 12. Bb6 Kf8 13. Bb3 Ke7 14. g3 Ng7 15. c4 Rc8 16. Rc1 b4 17. c5
+Nd8 18. Bc4 Ra8 19. Kf2 Nde6 20. Ke3 Nd4 21. f4 Nge6 22. Rf1 Nc2+ 23. Kd3 Ncd4
+24. f5 gxf5 25. exf5 Ng7 26. Ke4 Ne8 27. g4 Nc2 28. Rf2 Nd4 29. g5 Nb5 30. Bxb5
+axb5 31. h4 Kf7 32. Rd2 Ke7 33. b3 Rb8 34. a6 Rc8 35. a7 Ra8 36. Rd8 Nc7 37.
+Bxc7 Rxa7 38. gxf6+ 1-0
+
+[Event "?"]
+[Site "Íèööà"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Karpov"]
+[Black "Kavalek"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r3k1/2r1p1bp/p2p2p1/1p1P1p1P/2P1nP2/1P1KBB2/P5P1/2R4R w - - 0 5"]
+[PlyCount "39"]
+
+{(The white's pieces need open files and therefore white is opening the
+position.)} 5. g4 $1 bxc4+ 6. Rxc4 Rxc4 7. bxc4 Nc5+ 8. Bxc5 Rxc5 9. h6 Bf8 10.
+Kc3 fxg4 11. Bxg4 Kf7 12. Be6+ Kf6 13. Bg8 Rc7 14. Bxh7 e6 15. Bg8 exd5 16. h7
+Bg7 17. Bxd5 Bh8 18. Kd3 Kf5 19. Ke3 Re7+ 20. Kf3 a5 21. a4 Rc7 22. Be4+ Kf6
+23. Rh6 Rg7 24. Kg4 1-0
+
+[Event "?"]
+[Site "Ñòîêãîëüì"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vaitonis"]
+[Black "Geller"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4n1k1/5p1p/p2p2p1/B1pP4/P1Pb1P2/8/5PBP/6K1 b - - 0 1"]
+[PlyCount "35"]
+
+{When you are fighting against bishops - you should keep the position closed.} 
+1... f5 {(This fixes the white's weak pawn and not allows white to play f5)} 2.
+Kf1 Kf7 3. Ke2 Nf6 4. Bf3 Nd7 5. h3 Bb2 6. Kd2 Ba3 7. Bc7 Ke7 8. a5 Nf6 9. Kc2
+Kd7 10. Bb6 Kc8 11. Kd2 Nd7 12. Bd1 Nxb6 13. axb6 Bb4+ 14. Kc1 Kb7 15. Ba4 Kxb6
+16. Be8 Be1 17. Kc2 Kc7 18. Bf7 Kd8 0-1
+
+[Event "?"]
+[Site "Ñåíò-Äæîí"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shuba"]
+[Black "Grospeter"]
+[Result "1/2-1/2"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1n3k1/5ppp/p3pn2/3p4/8/B2P2P1/P4P1P/1R1B2K1 w - - 0 1"]
+[PlyCount "52"]
+
+{Though white is down a pawn, but in an open position the rook with bishops
+are really active and are in a good harmony. It gives white an enough
+compensation.} 1. Rb7 Na7 2. Bb2 Ne8 3. h4 Nb5 4. h5 h6 5. f4 Rc8 6. Kf2 d4 7.
+Bb3 Nf6 8. Rb6 Nd5 9. Rxa6 Nb4 10. Rb6 Nxd3+ 11. Ke2 Nxb2 12. Rxb5 Rc3 13. Rb8+
+Kh7 14. Rd8 Nc4 15. Rxd4 Na5 16. Rd3 Rc5 17. g4 Nxb3 18. axb3 g5 19. hxg6+ Kxg6
+20. b4 Rc4 21. Rb3 Rxf4 22. b5 Rd4 23. b6 Rd8 24. b7 Rb8 25. Ke3 Kg5 26. Rb4 f5
+1/2-1/2
+
+[Event "XIII TCh-RUS"]
+[Site "?"]
+[Date "2006.04.25"]
+[Round "6"]
+[White "Malakhov V"]
+[Black "Galkin A"]
+[Result "1-0"]
+[WhiteElo "2691"]
+[BlackElo "2618"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/5p1p/p3p3/1k1nP1p1/2pK4/5PPP/PP3B2/8 w - - 0 37"]
+[PlyCount "39"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{The bishop is much stronger than a knight in an endgame. You need to
+centralize a bishop to use its full power - in this case it controls both
+sides of the board.} 37. Be1 Nb6 38. Bd2 Na4 39. Bc1 {(Now we can see the
+bishop's advantage clearly: it works on both flanks, while the knight works
+only on 1 flank.)} Kb4 40. g4 Kb5 (40... h6 $2 41. f4 gxf4 42. Bxf4 Nxb2 43.
+Bxh6 {and the "h" pawn will go forward}) 41. Bxg5 Nxb2 42. Bd2 Nd3 43. h4 Nb4
+44. a4+ Kxa4 45. Kxc4 Nd5 46. f4 Ka3 47. f5 a5 48. fxe6 fxe6 49. Bxa5 Ne3+ 50.
+Kc5 Nxg4 51. Kd6 Ka4 52. Bd8 Kb5 53. Kxe6 Kc6 54. Bf6 h5 55. Ke7 Kd5 56. e6 1-0
+
+[Event "Moscow"]
+[Site "Ìîñêâà"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Smyslov"]
+[Black "Tal"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/p3k2p/1p6/2p2p1b/2Pp1P2/3P2P1/P2K3P/4N3 b - - 0 11"]
+[PlyCount "52"]
+
+11... a6 $1 {(Black is threatening b5 and is provoking white to move a pawn.)}
+12. a4 a5 {(Now white has a new weak pawn on a4, which is already fixed.)} 13.
+Kc2 Be8 14. Kb3 Bc6 {(The bishop plays on both flanks)} 15. Ka3 Kf6 16. Kb3 Kg6
+17. Ka3 Kh5 18. h3 Kg6 19. Kb3 Kg7 20. Ka3 Kf6 21. Kb3 Be8 22. Ng2 Bh5 23. Kc2
+Be2 24. Ne1 Bf1 25. Nf3 (25. h4 Be2 26. Kd2 Bh5 27. Kc2 Be8 28. Kb3 Bc6 29. Ka3
+Kg6 {and the king will go to g4}) 25... Bxh3 26. Ng5 Bg2 27. Nxh7+ Kg7 28. Ng5
+Kg6 29. Kd2 Bc6 30. Kc1 Bg2 31. Kd2 Kh5 32. Ne6 Kg4 33. Nc7 Bc6 34. Nd5 Kxg3
+35. Ne7 Bd7 36. Nd5 Bxa4 37. Nxb6 0-1
+
+[Event "?"]
+[Site "Ðèãà"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shtein"]
+[Black "Averbah"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r4k/p1r2pb1/1p2n1pp/4pn2/8/2NPP1P1/P2B1PBP/1RR2K2 w - - 0 1"]
+[PlyCount "29"]
+
+{Bishops need open space to be active. That's why the bishops' power raise
+after the exchanges.} 1. Nb5 $1 Rxc1+ 2. Rxc1 Rxc1+ 3. Bxc1 a6 4. Nc3 Nc5 5.
+Ke2 Kg8 6. g4 Nd6 7. Bc6 Bf8 8. Nd5 f5 (8... b5 9. Bb2 Bg7 10. Ba3 {(The
+white's bishops are dominating)} Ncb7 11. Nc7 $18) 9. gxf5 gxf5 10. Nxb6 e4 11.
+d4 Nd3 12. Bd2 Nb5 13. Bb7 Nb4 14. a4 Nd6 15. Ba8 1-0
+
+[Event "Dos Hermanas 75/360"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kramnik V"]
+[Black "Anand V"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2781"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/5pk1/B7/1pP5/3n4/P7/5P2/6K1 w - - 0 57"]
+[PlyCount "27"]
+[EventDate "1999.??.??"]
+
+57. c6 $1 {Usually an attacker side should avoid pawn exchanges in an endgame.
+However, in this position white should do it because of 2 reasons:  1) it
+makes the white's bishop active.   2) a knight struggles against side pawns
+badly.} (57. Bb7 $2 Kf6 58. c6 Ne6 {and black is keeping a defense}) 57... Nxc6
+58. Bxb5 Na5 {(now black has to keep the knight on the side file and white
+will stretch the black's defense )} 59. Kf1 Kf6 60. Ke2 Ke5 61. Ke3 Nb7 62. Bc4
+f6 (62... f5 {?} 63. f4+ Kd6 64. Bd3 Ke6 65. Kd4 $18) 63. a4 Na5 64. Bf7 {!}
+Nc6 (64... Nb7 65. f4+ Kd6 66. Kd4) 65. Kd3 {!} (65. f4+ Kd6 66. Ke4 Ne7 67. a5
+Kc7 68. a6 Kb6 69. Bc4 Ka7 70. Bd3 Kb6 71. Kd4 Ka7 72. Kc5 f5 73. Kd4 Ng6 74.
+Ke3 Kb6 {=}) 65... Kd6 (65... Na5 66. Kc3 Ke4 67. Be8 {!}) 66. Ke4 Ne7 (66...
+Ke7 67. Bd5 Na5 68. Kd4 Kd6 69. f3 f5 70. f4 $18) (66... Na5 67. Bd5 (67. Kf5
+Ke7 68. Bd5 Kd6) 67... Kc5 68. f3 (68. f4 Kd6 69. Kd4 f5) 68... Kb4 69. Kf5
+Kxa4 70. Kxf6 Kb4 71. f4 Kc5 72. Ke6) 67. a5 Kc5 68. a6 Nc8 (68... Kb6 69. Bc4
+Ka7 70. Kf4 Kb6 71. Kg4 Ka7 72. Kh5 Kb6 73. Kh6 Nc6 74. Kg7 $18) 69. Bh5 {!} (
+69. Kf5 {?} Kb6 70. Bc4 Nd6+) 69... Kd6 (69... Nd6+ 70. Kf4 Kb6 71. Be2 Ka7 72.
+Bd3 Kb6 73. Kg4 Ka7 74. Kh5 $18) 70. Bf3 {!} (70. Bf3 Na7 71. Kd4 Nb5+ 72. Kc4
+Na7 73. Bb7 Kc7 74. Kc5 f5 75. f4 Kb8 76. Kb6) 1-0
+
+[Event "It (open) \"]
+[Site "Moscow (Russia)"]
+[Date "2004.02.19"]
+[Round "3"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Markowski Tomasz (POL)"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2603"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/1n1n1kpp/p1b2p2/1p2p3/1P2P3/1N3P1P/P2K1BP1/5B2 w - - 0 40"]
+[PlyCount "59"]
+[EventDate "2004.??.??"]
+
+{White has 2 bishops advantage. However these bishops are not very active,
+because they don't have enough open lines. Therefore white needs to trade some
+material to open a position.} 40. Na5 $1 {(Quite often exchanges raise a
+bishop's power)} Nxa5 41. bxa5 {(Now white can bring the king to b4)} Bb7 42.
+Kc3 Ke6 43. Kb4 Kd6 44. Ba7 Bc8 45. a4 bxa4 46. Kxa4 {(The position becomes
+more open and now the white's bishops are dominating)} Bb7 47. Kb4 Bc8 48. Bc4
+Bb7 49. h4 h6 50. h5 Kc6 51. Be3 Kd6 52. Bb6 Ke7 53. Bc5+ Ke8 54. Bd6 Kd8 55.
+Kc3 Ke8 56. Kd3 Kd8 57. g3 Ke8 58. Ke3 Nf8 59. f4 Nd7 60. Kf3 exf4 61. Kxf4 Nf8
+62. e5 $1 fxe5+ 63. Kxe5 Nd7+ 64. Kf5 Nf8 65. Bxf8 Kxf8 66. Ke6 Ke8 67. Be2
+Bc8+ 68. Kd6 Kd8 69. Kc6 1-0
+
+[Event "?"]
+[Site "Ñàí-Ñåáàñòüÿí"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tarrash"]
+[Black "Rubinstain"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r3r1k1/pb4p1/2p2p2/1p1p4/5P1p/2PPb1P1/PP3N1P/R2B1K1R b - - 0 5"]
+[PlyCount "69"]
+
+{Black needs to open more lines to make his rooks and bishops active.} 5... a5
+$1 6. Bf3 b4 7. Kg2 bxc3 8. bxc3 Ba6 {(Now black is going to play Rab8 and all
+his pieces will be on the most active positions.)} 9. c4 Rad8 10. cxd5 cxd5 11.
+Rhd1 Re7 12. Ng4 hxg3 13. hxg3 Bd4 14. Rac1 Rb7 {(As usual the rooks and
+bishops supplement each other well.)} 15. Rc2 Kf7 16. Nf2 Rb2 17. Rxb2 Bxb2 18.
+Rd2 Bd4 19. Nh3 Ke6 20. Rc2 Kd6 21. f5 Rc8 22. Bd1 Rxc2+ 23. Bxc2 Ke5 24. g4
+Be3 25. Kf3 Kd4 26. Bb3 Bb7 27. Ke2 Ba6 28. Bc2 Bb5 29. a4 Bd7 30. Kf3 Kc3 31.
+Kxe3 d4+ 32. Ke2 Kxc2 33. Nf4 Bxa4 34. Ne6 Bb3 35. Nxd4+ Kb2 36. Nb5 a4 37. Ke3
+a3 38. Nxa3 Kxa3 39. Kd4 Kb4 0-1
+
+[Event "WCC Places 9-16"]
+[Site "?"]
+[Date "2005.12.09"]
+[Round "5.1"]
+[White "Malakhov V"]
+[Black "Dreev A"]
+[Result "1-0"]
+[WhiteElo "2670"]
+[BlackElo "2694"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1k1b4/pp1r2p1/2pn2p1/4rpP1/7P/4PP2/PP2B3/1KBR3R w - - 0 36"]
+[PlyCount "33"]
+[EventDate "2005.??.??"]
+[Source "The Week in Ches"]
+
+36. Rd3 $2 (36. e4 $1 {(When you have rooks and bishops you should always
+consider pawn moves. In this position white can open the position with a great
+effect.)} Bc7 (36... fxe4 $2 37. Bf4 Re6 38. Bc4 $18 {the white's pieces are
+attacking the whole board!}) 37. h5 $1 {(another pawn move helps white to open
+a position even more)} fxe4 38. h6 gxh6 39. gxh6 Rh7 40. fxe4 Nxe4 41. Bd3 {
+The white's rooks and bishops are tearing the black's defense. Now white has a
+lot of threats (Re1, Rf1 etc) and black can't protect all the holes.}) 36...
+Bc7 37. Rhd1 Re6 38. Bf1 Rd8 39. Rd4 Rh8 40. Be2 c5 41. Rd5 Rxh4 42. Rxc5 Rh2
+43. Rc2 Re7 44. b3 a6 45. Ba3 Re6 46. Bc5 Nc8 47. Bd4 Re7 48. Rdc1 Nd6 49. a4
+Ne8 50. f4 Rh3 51. Bc4 Bd6 52. Bf1 1-0
+
+[Event "corr-10 WCH"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Palciauskas, V."]
+[Black "Boey, J."]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2k5/1pp4p/p2rnnp1/3p4/3P4/2P2B1P/PP4P1/2B1R1K1 w - - 0 26"]
+[PlyCount "49"]
+[EventDate "1978.??.??"]
+
+{White certainly has an advantage because of 2 bishops. He found an
+interesting way to realize this advantage} 26. h4 Kd7 27. Bg5 {(it looks
+strange that white is trading his powerful bishop. However in this position it
+gives white a few other advantages:  1) His g5 pawn will fix the black's weak
+pawns on the king-side.  2) The light squares bishops will be placed on the
+long diagonal h3-c8.  3) White is exchanging one of the black's defenders and
+will then be able to move his pieces towards an opponent's position.} Nxg5 28.
+hxg5 Ng8 29. Kf2 Kd8 30. Bg4 h5 31. Be6 Ne7 32. g4 {(white is opening the
+position for his rook and bishop)} hxg4 33. Bxg4 Ke8 34. Re6 Kf7 35. Rxd6 cxd6
+36. Ke3 {(White is going to use the principle of 2 weaknesses to stretch an
+opponent's defense)} a5 37. Kd3 Nc6 38. Kc2 a4 39. b3 axb3+ 40. Kxb3 Ke8 41.
+Be6 Ne7 42. Kb4 Kd8 43. Kb5 Kc7 44. a4 Kb8 45. Kb6 Nc8+ 46. Bxc8 Kxc8 47. a5
+Kb8 48. a6 bxa6 49. Kxa6 Kc7 50. Ka7 1-0

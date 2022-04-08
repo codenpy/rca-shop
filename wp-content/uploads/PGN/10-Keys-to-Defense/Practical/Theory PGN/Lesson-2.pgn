@@ -1,0 +1,53 @@
+[Event "URS-ch10 Final"]
+[Site "Tbilisi"]
+[Date "1937.04.21"]
+[Round "7"]
+[White "Panov, Vasily N"]
+[Black "Kan, Ilia Abramovich"]
+[Result "0-1"]
+[ECO "B70"]
+[PlyCount "60"]
+[EventDate "1937.04.13"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Qd2 Nc6 8.
+Nb3 O-O 9. O-O-O Be6 10. Kb1 Rc8 11. f3 Re8 12. g4 Ne5 13. Be2 Nfd7 14. Bh6 Bh8
+15. h4 Nb6 16. h5 Nec4 17. Bxc4 Nxc4 18. Qh2 {Diagram #} g5 $1 $17 (18... Nxb2
+19. hxg6 (19. Kxb2 Bxc3+) 19... fxg6 (19... Bxc3 20. Bf4 fxg6 21. Qxh7+ Kf8 22.
+Bh6+ Bg7 23. Qxg7#) 20. Bc1) 19. Rd3 (19. Bxg5 Nxb2 $19 20. Kxb2 Bxc3+ 21. Kb1
+a5) 19... Be5 20. Qg1 f6 21. Qxa7 Qd7 22. Qg1 Qc6 23. Nd4 Qb6 24. Nb3 Qa6 25.
+Qc1 Bf4 26. Qd1 Ne5 27. Ne2 (27. Rd4 Nf7) 27... Nxd3 28. cxd3 Ra8 29. a3 Qb6
+30. Nbd4 Be5 0-1
+
+[Event "Andorra op 21st"]
+[Site "Andorra"]
+[Date "2003.07.07"]
+[Round "3"]
+[White "Ris, Robert"]
+[Black "Ramos Dominguez, Joaquin"]
+[Result "1-0"]
+[ECO "B78"]
+[WhiteElo "2205"]
+[BlackElo "2020"]
+[Annotator "Robert Ris"]
+[PlyCount "40"]
+[EventDate "2003.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AND"]
+[Source "ChessBase"]
+[SourceDate "2003.09.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rb8 11. h4 b5 12. Bb3 Ne5 13. Bh6 a5 14. h5 {Diagram #
+} Bxh6 (14... Nxh5 15. g4 Nf6 16. Bxg7 Kxg7 17. Qh6+ Kg8 18. Nd5) (14... a4 15.
+Bxg7 Kxg7 16. hxg6 fxg6 17. Qh6+ Kh8 18. Ne6 Bxe6 19. Bxe6) 15. Qxh6 b4 (15...
+g5 $3 16. Qxg5+ Kh8 17. h6 Rg8) 16. Nd5 e6 (16... Nxd5 17. hxg6 Nf6) (16...
+Nxh5 17. g4) 17. Nf5 (17. Nxf6+ Qxf6) (17. hxg6 exd5 18. gxh7+ (18. Bxd5) 18...
+Kh8) 17... exf5 (17... gxf5 18. Nxf6+ Kh8 19. Qxh7#) 18. hxg6 Re8 19. Nxf6+
+Qxf6 20. Qxh7+ (20. gxh7+ Kh8 21. Qxf6#) 20... Kf8 1-0
+

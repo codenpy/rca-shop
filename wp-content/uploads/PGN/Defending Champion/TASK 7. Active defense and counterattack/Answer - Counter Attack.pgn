@@ -1,0 +1,252 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1996.12.21"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B81"]
+[WhiteElo "2730"]
+[BlackElo "2750"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7"]
+[PlyCount "34"]
+[EventDate "1996.12.08"]
+[EventRounds "10"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+7. g4 $5 {Ivanchuk demonstrates his fighting spirit} h6 8. f4 b5 9. Bg2 Bb7 10.
+g5 $5 {This line is double-edged, but after the defeat in the previous round,
+Ivanchuk tries to create complications at any costs.} hxg5 11. fxg5 {Black's
+turn.} b4 $1 {If the position is approximately equal and your opponent tries
+to attack your King, then it is necessary to counterblow; now both Knights are
+kicked off from the center. Black's plan is to attack the Knight and then
+capture the pawn to e4.} (11... Nfd7 $2 12. g6 $1) (11... Nh5 $2 12. O-O Qd7
+13. Qf3 $16) 12. Na4 Nh5 (12... Nxe4 $5 13. Qg4 d5 14. O-O-O {White has a
+dangerous attack, but this variation was preferable from the game continuation.
+}) 13. O-O Nd7 14. g6 Nhf6 {Black tries to close the lines around his King. In
+the Sicilian, Black's King may stay in the center of the board, instead of the
+short castling. Thus, more important than to castle is to protect the King
+with the pieces. This strategy is a very risky one. On the other hand, White
+pieces are very active here and he manages to play g6. The move g6 is the most
+critical attacking move which can create a lot of problems for the Black's
+King.} 15. c3 Ne5 (15... Qe7 $5 {This is a very interesting alternative. Queen
+is the most powerful defensive piece, so it is logical to put it close to the
+King.} 16. Qb3 d5 17. exd5 Bxd5 18. Bxd5 exd5 19. Rae1 $18) 16. gxf7+ Kxf7 17.
+cxb4 Rh4 $1 {This is a counterattack. Black's Rook becomes a very active piece
+and White must consider both 18... Bxe4 and 18... Rg4.} 18. Qb3 Qe8 19. Rac1
+Bxe4 20. Rc7+ Kg8 21. Nxe6 (21. Qxe6+ Qxe6 22. Nxe6 Rg4 $19 {Black's pieces
+are extremelly active and they control all of the central squares.}) 21... Rg4
+$1 {WOW! What a move. Discovered checks are not dangerous, because Black can
+cover the King with the Bishop to d5. Black who pinned the g2 Bishop will
+capture it in the next move.} 22. Rxf6 {Here 22... gxf6 fails to 23.Ng5+} Rxg2+
+23. Kf1 Qb5+ (23... Qb5+ $1 {This is the finall killing move.} 24. Rc4 gxf6 $19
+{Black has a Rook up and White's pieces are not active anymore.}) 0-1
+
+[Event "Internet game"]
+[Site "Main Playing Hall"]
+[Date "2013.05.07"]
+[Round "?"]
+[White "Yazan12"]
+[Black "Kesaris"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "1661"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1b2rk1/2p2pp1/1p1p1q1p/p2P1n2/P4QN1/2P5/5PPP/R1B1R1K1 b - - 0 19"]
+[PlyCount "21"]
+[EventDate "2013.05.07"]
+
+19... Qd8 $6 {Black's turn.} (19... Qxc3 $1 {This is a very strong
+counter-attacking move. The Black's Queen is totally active and ready to
+create the problems.}) 20. c4 Re8 {As we have aready learned one very
+important technique is to exchnage the attacking pieces.} 21. Bb2 Bd7 22. Rxe8+
+{To take is a mistake, but White exchnages the pieces because he would like to
+open the Black's King.} Qxe8 23. Nf6+ gxf6 24. g4 Qe2 $1 {Another
+counterattacking move. Black doesn't go back but he is trying to attack in the
+most dangerous White piece, the Bishop on b2.} 25. Bxf6 Ng7 26. h3 Qd3 $1 {
+Queen is the most powerfull attacking piece and the most usefull defender in
+the same time. If things are difficult we can put it in the defense and
+everything should be OK.} 27. Qxh6 Qg6 {Black's intention is to exchnage
+pieces. White cannot do much about it.} 28. Qf4 Re8 29. Kg2 Qe4+ {This is the
+final exchnage. After the Queens exchnage White resigned because his positon
+is a dead lost.} 0-1
+
+[Event "Bern Cup"]
+[Site "Bern"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Petursson, Margeir"]
+[Black "Lagunow, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[WhiteElo "2585"]
+[BlackElo "2420"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "1k1r4/ppp2p2/6rp/2bPP3/2P2B2/7q/P3Q2P/R4R1K w - - 0 25"]
+[PlyCount "19"]
+[EventDate "1996.??.??"]
+[EventCountry "SUI"]
+
+25. Rad1 $1 {White's turn, Black has a strong attack in the White's King.
+White brings all the pieces in the center and he tries to sacrifice material
+in order to stop Black's attack.} Rdg8 26. d6 {Up to now Black doesn't have
+any threats, so White is using this fact in order to open lines as soon as
+possible.} Rg2 27. dxc7+ Kc8 28. Qe4 {The Queen runs away from the threat and
+White is aiming to attack the b7 pawn.} R2g6 29. Rd8+ {White is sacrificing
+back the pawn in order open the Black's King position.} Rxd8 30. cxd8=Q+ Kxd8
+31. Rb1 Qd7 32. Qf3 Ke8 33. Bg3 {Now White's King is safe and the game ended
+up in a draw after few moves.} Bb6 34. Rd1 1/2-1/2
+
+[Event "FIDE Candidates Tournament 2014"]
+[Site "Khanty-Mansiysk"]
+[Date "2014.03.15"]
+[Round "3"]
+[White "Svidler, Peter"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[WhiteElo "2758"]
+[BlackElo "2787"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "5bk1/3r1p2/2QP3p/4p1pP/1p4P1/1P1R1P2/q4BK1/8 b - - 0 41"]
+[PlyCount "20"]
+[EventDate "2014.??.??"]
+
+41... e4 $3 {Black's turn. This is a fantastic move. The White Queen attacks
+the Rook, however Black counter-attacks the opponent's Rook.} (41... Rd8 $2 42.
+d7 $1 $18 {Black is completely paralized and White's d7 pawn is very strong.})
+(41... Qe2 $2 42. Re3 $1 {The Rook on d7 will drop.}) (41... Qb1 $6 42. Rd2 {
+The Queen attacks the Rook and it is imposible to maintain the blockade.}) 42.
+fxe4 (42. Qxe4 Rxd6 $11) (42. Qxd7 $2 exd3 $19 {Black's passed pawn is more
+dangerous.}) 42... Qe2 $1 {This is the brilliant defensive idea of Kramnik.
+Black is counter-attacking the Rook and the g4 pawn.} 43. Rf3 Rxd6 44. Qe8 f6
+45. e5 f5 $1 {Svidler keeps find new attacking resources but Kramnik calmly
+close the lines. The e pawn is pinned, so everything is under Black's control.}
+46. gxf5 Rf6 $3 {Wow! This is incredibly strong! The Rook cannot captured
+because the Queen on e8 is pinned. Black is threaten to capture the pawn on f5.
+Black's idea is to remove the Rook from f3 in order to give check on g4. White
+cannot do much.} 47. Kg3 {Once again the ball is in Black's court. What should
+he play? His threat is the simple move Re3 when the f6 Rook will hang.} (47.
+Re3 Qg4+ 48. Bg3 Ra6 $11) (47. Qb8 Rxf5 $1 48. Rxf5 Qg4+ 49. Bg3 Qxf5 $11)
+47... Qe4 $1 {Black is threatening Qh4+.} 48. Bc5 Qe1+ {White cannot stop the
+checks and the game ended in a draw afterwards.} 49. Bf2 (49. Kg2 Qe2+ 50. Bf2
+Qe4 $11) 49... Qe4 50. Bc5 Qe1+ 51. Bf2 1/2-1/2
+
+[Event "Riga"]
+[Site "Moscow"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Gutman, Lev"]
+[Black "Vitolinsh, Alvis"]
+[Result "0-1"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "rn1q1r1k/2pp4/5pQ1/1b1PB3/8/4P3/PP1K1P1P/R7 b - - 0 20"]
+[PlyCount "17"]
+[EventDate "1957.01.24"]
+
+20... Bd3 $3 {Black's turn. White's attack is a very scary one because the
+Queen can go to h6 and then the Rook can give a check to g1. Black has two
+extra pieces, so he is trying to give back some of the material in order to
+cover the h7 square.} 21. Kxd3 Qe7 22. e4 {White closed the b1-h7 diagonal and
+he would like to give a check to h6. However Black is in time to bring the
+Queen into the defense.} (22. Qh6+ Qh7+ $1 {This is a check and White is
+forced to exchnage the Queens. After the exchnage of the attacking pieces
+White's attack will be over.}) 22... Qg7 23. Qh5+ Kg8 24. Bd4 c5 {A very nice
+attacking move. Black forces White to open lines or to go back. In similar
+positions we need to activate our pieces as soon as posiible.} 25. Bxc5 Rc8 26.
+f4 Na6 27. Bf2 Nb4+ 28. Ke2 Rxa2 {White's position is a dead lost. White has
+nothing else to do but to resign.} 0-1
+
+[Event "Russian U-16 Championship, Serpukhov"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Moiseev, M."]
+[Black "Tarakanov, M."]
+[Result "1-0"]
+[ECO "E99"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r4bk1/1p4r1/p2p4/B2Pp3/P1N1PpNq/8/1P4K1/R2Q1R2 w - - 0 29"]
+[PlyCount "29"]
+[EventDate "1999.??.??"]
+
+29. Rg1 $1 {White's turn. It seems White is in a trouble. His g4 Knight in
+pinned and attacted, however White found a brilliand defensive idea. White is
+planning to sacrifice temporarly the Queen on g4 and then to pinned it once
+again on the "g" line.} Rxg4+ 30. Qxg4+ Qxg4+ 31. Kf2 {This is a beautiful
+picture, isn't it?} Qxg1+ 32. Rxg1+ Kf7 33. Bc7 $18 {White's position is
+totally winning.} b5 34. Nxd6+ Kf6 35. Rc1 bxa4 36. Rc6 Ke7 37. Nf5+ Kd7 38.
+Bxe5 Re8 39. Bd6 Bxd6 40. Rxd6+ Kc7 41. Rc6+ Kd7 42. Kf3 Rb8 43. Rxa6 1-0
+
+[Event "Riga Interzonal"]
+[Site "Riga"]
+[Date "1979.??.??"]
+[Round "12"]
+[White "Gruenfeld, Yehuda"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2430"]
+[BlackElo "2625"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r3kb1r/1bq2pp1/p3p2p/1pn1P3/7B/2N4Q/PPP1B1PP/2KRR3 b kq - 0 17"]
+[PlyCount "73"]
+[EventDate "1979.09.04"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[EventCategory "12"]
+
+17... b4 $1 {Black's turn. White has already placed his pieces activelly in
+the center. Black's King is safe because the "e" line is closed. Black's Queen
+is very well placed opposite to the White's King. Thus, Black is
+counter-attacking the Knight.} (17... Rc8 $5) (17... Be7 $5) 18. Nb5 {This is
+a very good and creative move. White who is attacking is trying to open the
+positon for his heavy pieces.} axb5 19. Bxb5+ Bc6 20. Qf3 {This was a White's
+idea and it is quite strong. However Black found a beautiful counterblow!!}
+Nb3+ $3 21. Kb1 (21. cxb3 Bxb5+ $19 {Check!}) (21. axb3 $5 {Probably this is
+the best move. After a huge forcing line, the position is about equal.} Ra1+
+22. Kd2 Qd7+ 23. Ke3 Bc5+ 24. Kf4 g5+ 25. Kg3 Rxd1 26. Rxd1 gxh4+ 27. Kh3 Bxf3
+28. Rxd7 Bxg2+ 29. Kxg2 Rg8+ 30. Kf3 Be7 $11 {The position is about equal,
+thanks to opposite color Bishops.}) 21... Na5 {Black who consolidates his
+position is better and manage to win the game afterwards.} 22. Rd4 Rc8 23. Red1
+g5 24. Bxc6+ Qxc6 25. Qd3 Be7 26. Be1 O-O 27. Bxb4 Bxb4 28. Rxb4 Nc4 29. b3
+Nxe5 30. Qe2 Qc3 31. Re4 Nc6 32. Rd3 Qa5 33. Rh3 Nb4 34. c4 Rfd8 35. a4 Qf5 36.
+Rf3 Qg6 37. Kb2 Qg7+ 38. Kb1 Rc6 39. c5 Nd5 40. Rc4 Nf4 41. Qb2 Rd1+ 42. Ka2
+Qf8 43. Rfc3 Qd8 44. Rc2 Nd3 45. Qc3 Qd5 46. Ka3 Ne5 47. Rb4 Rd3 48. Rb8+ Kg7
+49. Qb4 Rd1 50. Ka2 Ra6 51. Rb6 Rd4 52. Qxd4 Qxd4 53. Rxa6 Qd3 0-1
+
+[Event "Rated game, 3m + 1s"]
+[Site "Main Playing Hall"]
+[Date "2015.06.19"]
+[Round "?"]
+[White "Kesaris"]
+[Black "Bocachicapeter1"]
+[Result "0-1"]
+[ECO "C24"]
+[BlackElo "2024"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r4rk1/pp3p2/1n1q1n1p/6p1/2P1p3/1P3N2/P2N1PPP/R2Q1RK1 w - - 0 17"]
+[PlyCount "22"]
+[EventDate "2015.06.19"]
+
+17. Qc2 {White's turn.} (17. Nxe4 $3 {This is the best move which leads to a
+draw. White can sacrifice the Knight temporary and then take it back after
+some forcing moves.} Nxe4 (17... Qxd1 18. Nxf6+ Kg7 19. Nh5+ Kg6 20. Raxd1 Kxh5
+21. c5 Nc8 22. Rd7 $16) 18. Qxd6 Nxd6 19. c5 {Thanks to this double attack
+White can capture back the sacrificed piece.} Ne4 20. cxb6 axb6 $11) (17. Ne1
+$2 {White cannot just remove the Knight because the pin in the "d" line is
+deadly.} Rfd8 $19) 17... exf3 18. c5 {This is an intresting try but it doesn't
+work.} Rac8 $1 19. cxd6 Rxc2 20. Nxf3 {Black won the game easily afterwards.}
+Rd8 21. Rfd1 Ne4 22. Rd4 f5 23. h4 Rxd6 24. Rxd6 Nxd6 25. hxg5 hxg5 26. Nxg5
+Ne4 27. f3 Nxg5 0-1
+

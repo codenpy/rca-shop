@@ -1,0 +1,238 @@
+[Event "It"]
+[Site "Sochi (Russia)"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Suba Mihai (ROM)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[WhiteElo "2455"]
+[BlackElo "2620"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbp2ppp/1p1p1n2/4p3/1PP5/P1QPPN2/1B3PPP/R3KB1R b KQ - 0 10"]
+[PlyCount "53"]
+[EventDate "1977.??.??"]
+
+{Certainly black can just play Nbd7 with a simple position. Let's try to
+complicate it somehow.} 10... Ng4 {(you know that to complicate a position we
+should move the pieces forward and increase the tension. Here black also wants
+to play f5, which will probably gives him some chances for an attack.)} 11. h3
+(11. Be2 f5 12. h3 Nf6 13. O-O Nbd7 14. Rac1 Qe8 {and then Qg6 with an attack})
+11... Nh6 12. d4 {(white is trying to break the black's plan f5)} (12. Be2 {!?}
+Nd7 13. O-O Qe7 14. Qc2 f5) 12... f6 {(you can see that the position became
+very sharp)} (12... e4 {?} 13. d5 $14) (12... exd4 {?} 13. Nxd4 $14) 13. dxe5 (
+13. d5) 13... fxe5 14. c5 bxc5 15. bxc5 Bxf3 (15... Nd7 {?} 16. c6 $18) (15...
+Nc6 {?} 16. Qb3+ $18) 16. gxf3 Nd7 17. O-O-O Qe7 18. c6 Nf6 19. Ba6 Rab8 20.
+Bb7 Nf7 21. f4 Ne4 22. Qc2 Nc5 23. fxe5 (23. Rhg1 Nxb7 24. cxb7 Rxb7 $15) 23...
+Nxe5 24. f4 Nf3 {(to increase the tension we should go forward and don't worry
+too much :)} 25. Qc3 Rf7 26. Rhf1 Qe4 27. Rxf3 Qxf3 28. Rg1 Kf8 29. Rxg7 Nd3+
+30. Qxd3 Rxg7 31. Bxg7+ Kxg7 32. Qd4+ Kf7 33. Ba6 Qxc6+ 34. Bc4+ d5 35. Qxd5+
+Qxd5 36. Bxd5+ Ke7 $19 0-1
+
+[Event "Ch URS"]
+[Site "Baku (Azerbaijan)"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Nezhmetdinov Rashit (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[WhiteElo "2450"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1pqn1ppp/p2ppn2/8/3NPP2/2N5/PPP1B1PP/R1BQ1RK1 w kq - 0 9"]
+[PlyCount "41"]
+[EventDate "1961.??.??"]
+
+9. g4 {(white breaks the balance: he has created some weaknesses but got some
+attacking ideas.)} b5 10. a3 Bb7 11. Bf3 Nc5 12. Qe2 e5 13. Nf5 {?!} (13. Nd5
+$1 {(counterblow)} Bxd5 (13... Nxd5 {!?} 14. exd5 Be7 15. Nf5 O-O 16. Be3) 14.
+exd5 O-O-O (14... Be7 {?} 15. fxe5 dxe5 16. g5 Nfd7 17. Nf5 $16 (17. d6 $16))
+15. Nc6 e4 16. Bg2 $16) 13... g6 14. fxe5 dxe5 15. Nh6 {(we should go forward
+and keep the tension)} Ne6 16. Bg2 Bg7 17. Rxf6 {a positional sacrifice is
+another way to break the balance. Here white starts the direct attack on the
+black's centralized king.)} Bxf6 18. Nd5 Qd8 (18... Bxd5 19. exd5 Nd4 20. Qf2
+Qb6 21. g5 Ne2+ 22. Kf1 Qxf2+ 23. Kxf2 Nxc1 24. gxf6 $18) 19. Qf2 Nf4 20. Bxf4
+exf4 21. e5 {(opening of the position)} Bxe5 {?} (21... Bxd5 {?} 22. exf6 {!}
+Bxg2 23. Re1+ Kd7 24. Rd1+ Kc7 25. Rxd8 Rhxd8 26. Kxg2 $18) 22. Re1 f6 (22...
+Bxd5 23. Rxe5+ Be6 24. Bc6+ Kf8 25. Bxa8 Qxa8 26. Qd4 Kg7 27. Rf5+ {!} Kxh6 28.
+Rh5+ gxh5 29. Qf6#) 23. Nxf6+ Qxf6 24. Qd4 {!} Kf8 25. Rxe5 Qd8 (25... Rd8 26.
+Re8+ {!} Kg7 27. Re7+ $18) 26. Rf5+ gxf5 27. Qxh8+ Ke7 28. Qg7+ Ke6 29. gxf5+
+1-0
+
+[Event "TCh-RUS"]
+[Site "?"]
+[Date "2008.04.11"]
+[Round "9"]
+[White "Grigoriants S RUS"]
+[Black "Shirov A"]
+[Result "0-1"]
+[WhiteElo "2573"]
+[BlackElo "2740"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppp2ppp/4p3/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq - 0 3"]
+[PlyCount "31"]
+[EventDate "2008.??.??"]
+[Source "The Week in Ches"]
+
+3... d4 {(black goes forward and gets a space advantage. It forces white to
+start fighting against this pawn. This will allow black to create the contact
+between the pieces and increase the tension.)} 4. e3 Nc6 5. exd4 Nxd4 6. Bb2
+Bc5 {(keeping the tension)} 7. b4 Qf6 {(and increasing the tension)} 8. Nxd4
+Bxd4 9. Bxd4 Qxd4 {(the position became asymmetrical and more complex)} 10. Na3
+Ne7 11. Be2 O-O 12. Nc2 Qf6 13. d4 Rd8 14. Qd3 Nf5 15. Rd1 Nxd4 16. Nxd4 e5 17.
+Qf3 exd4 18. Qxf6 gxf6 $17 0-1
+
+[Event "1st ACP World Rapid Cup"]
+[Site "?"]
+[Date "2007.01.05"]
+[Round "1.1"]
+[White "Smirin I"]
+[Black "Shirov A"]
+[Result "0-1"]
+[WhiteElo "2654"]
+[BlackElo "2715"]
+[SetUp "1"]
+[FEN "r1bqkb1r/5ppp/p1p1p1n1/8/3PN3/5N2/PP1B1PPP/R2QK2R b KQkq - 0 11"]
+[PlyCount "23"]
+[EventDate "2007.??.??"]
+
+11... f5 {(breaking the balance: black creates weaknesses, but push away an
+active knight.)} 12. Nc3 c5 {(creating the contact between the pawns)} 13. O-O
+cxd4 14. Bg5 Be7 15. Bxe7 Qxe7 16. Qxd4 O-O 17. Ne5 Qf6 {(increasing the
+tension)} 18. Rfe1 Bb7 19. f3 Rad8 20. Qe3 Nxe5 21. Qxe5 Qxe5 22. Rxe5 Rd2 {
+black got an active position and won the game in the end.} 0-1
+
+[Event "Aerosvit"]
+[Site "?"]
+[Date "2007.06.23"]
+[Round "6"]
+[White "Shirov A"]
+[Black "Nisipeanu LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2699"]
+[BlackElo "2693"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp2pppp/1npq1n2/4N3/3P1P2/2N5/PPP3PP/R1BQKB1R w KQkq - 0 8"]
+[PlyCount "14"]
+[EventDate "2007.??.??"]
+
+8. g4 {(breaking the balance and trying to create problems for an opponent.)}
+g6 9. g5 Nfd5 10. Ne4 {(white is trying to attack by every move)} Qd8 11. c4
+Nc7 12. Qe2 {(white is theatening c5 and Nd6+. White really puts the strong
+pressure on the black's position. Most often an aggressive side wins such
+positions easily.)} Bg7 13. c5 Ne6 (13... Nbd5 14. Nd6+ exd6 15. Nxc6+ Kd7 16.
+Nxd8 Re8 17. Ne6 Rxe6 18. Bh3 $18) 14. cxb6 Nxd4 {and position became very
+complex and quite promising for white} 1/2-1/2
+
+[Event "ETCC"]
+[Site "?"]
+[Date "2007.11.04"]
+[Round "7"]
+[White "Socko B"]
+[Black "Shirov A"]
+[Result "1-0"]
+[WhiteElo "2646"]
+[BlackElo "2739"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p2bppp/p1np1n2/4p3/2B1P1b1/2NQBN2/PPP2PPP/R4RK1 w - - 0 11"]
+[PlyCount "31"]
+[EventDate "2007.??.??"]
+
+11. a3 {(white allow black to take, because it will break the balance. We
+should take risks in case if we want to beat strong opponents.)} Bxf3 12. gxf3
+Nd7 13. b4 Nd4 14. Kg2 Rc8 15. Ba2 Bg5 16. f4 {(increasing the tension)} Bh6
+17. fxe5 Bxe3 18. fxe3 Nb5 19. Rxf7 {(a positional sacrifice makes a situation
+very difficult for black.)} Rxf7 20. Bxf7+ Kxf7 21. Qd5+ Kg6 22. Qe6+ Kh5 23.
+Nd5 dxe5 24. Ne7 Nf6 25. Kh1 Nxe4 26. Qf7+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2006.12.06"]
+[Round "?"]
+[White "IM_Nepomniachtchi"]
+[Black "GM_Rublevsky"]
+[Result "1-0"]
+[WhiteElo "2545"]
+[BlackElo "2688"]
+[SetUp "1"]
+[FEN "rnb1kbnr/1pqp1ppp/p3p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[PlyCount "65"]
+[EventDate "2006.??.??"]
+
+{Probably you were surprised with this position. It is a theoretical position
+and white has a lot of well-known moves like Be2, Bd3 etc. However if you try
+to find something new, something more complex - you will find it. And this
+game is a good illustration of the fact that even in a very standard position
+you can find a lot of interesting ideas.} 6. Qf3 {(white is preparing castling
+queen-side to create asymmetry.)} Nf6 7. Bg5 Qe5 8. Be3 Bb4 9. O-O-O {(this
+positional sacrifice makes the position totally complicated.)} Bxc3 10. bxc3
+O-O 11. Bd3 d6 12. Nb3 d5 13. exd5 exd5 14. h3 Nc6 15. Bf4 Qe7 16. Bg5 Be6 17.
+Qg3 Rfe8 18. Kb1 a5 19. Rhe1 a4 20. Nc5 Ra5 21. Nd7 Nh5 22. Bxe7 Nxg3 23. Bb4
+Ra7 24. Bc5 Ra5 25. Bb4 Ra7 26. Nc5 Nh5 27. Bb5 Nf4 28. g3 Nxh3 29. f4 Raa8 30.
+Nxb7 Rec8 31. Nd6 Nf2 32. Nxc8 Rxc8 33. Rd2 Ne4 34. Rxe4 dxe4 35. Bxc6 e3 36.
+Rd4 e2 37. c4 Rb8 38. Kc1 {White wins} 1-0
+
+[Event "ICC 15 0"]
+[Site "Internet Chess Club"]
+[Date "2008.08.22"]
+[Round "?"]
+[White "string"]
+[Black "Smallville"]
+[Result "0-1"]
+[WhiteElo "1765"]
+[BlackElo "2329"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp2ppbp/2np1np1/2p3B1/3P1P2/2PBP3/PP1N2PP/R2QK1NR b KQkq - 0 7"]
+[PlyCount "39"]
+[EventDate "2008.??.??"]
+
+7... Ng4 {(black goes forward and creates the tension)} 8. Qe2 Nxe3 {(a
+positional sacrifice makes it more unbalanced and difficult for white)} 9. Qxe3
+cxd4 10. cxd4 Bxd4 11. Qe4 h6 12. Bh4 Bxb2 13. Rd1 Bf5 14. Qf3 Nd4 15. Qg3 Nc2+
+16. Bxc2 Bxc2 17. Ne2 Bxd1 18. Kxd1 Qd7 19. Re1 g5 20. fxg5 Rc8 21. g6 Qa4+ 22.
+Nb3 Qxa2 23. gxf7+ Kd7 24. Qg4+ Kc7 25. Bxe7 Qxb3+ 26. Kd2 Kb6 {White resigns}
+0-1
+
+[Event "37th Olympiad"]
+[Site "?"]
+[Date "2006.05.24"]
+[Round "4"]
+[White "Macieja B"]
+[Black "Nakamura H"]
+[Result "0-1"]
+[WhiteElo "2584"]
+[BlackElo "2664"]
+[SetUp "1"]
+[FEN "r1bqkb1r/3n1ppp/p1n1p3/1pppP3/3P1P2/P1N1BN2/1PPQ2PP/R3KB1R b KQkq - 0 9"]
+[PlyCount "63"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+9... g5 {(another example of the idea, that you can complicate even a very
+standard position.)} 10. Nxg5 cxd4 11. Bxd4 Nxd4 12. Qxd4 Bc5 {(black got a
+powerful bishop and some open lines)} 13. Qd2 Qb6 14. Nd1 f6 {(next part of
+this game is a good illustration of the attacking ideas)} 15. exf6 Nxf6 16. Bd3
+O-O 17. Rf1 Ra7 18. Nf3 Ng4 19. g3 e5 20. fxe5 Ne3 21. Nxe3 Bxe3 22. Qg2 Raf7
+23. g4 Kh8 24. Rd1 d4 25. Nd2 Bf2+ 26. Rxf2 Rxf2 27. Qxf2 Rxf2 28. Kxf2 Qh6 29.
+Nf1 Qh4+ 30. Ng3 Bxg4 31. Rh1 Qg5 32. Nf1 Qf4+ 33. Ke1 Qxe5+ 34. Kf2 Qf4+ 35.
+Ke1 Qc1+ 36. Kf2 Bd1 37. Ng3 Qd2+ 38. Ne2 Bxc2 39. Bxc2 Qxc2 40. Rc1 Qf5+ 0-1
+
+[Event "17th WCCC"]
+[Site "?"]
+[Date "2009.05.12"]
+[Round "4"]
+[White "JUNIOR"]
+[Black "HIARCS"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1qkb1r/5ppp/p2pp3/2n5/1p1NbPP1/4B2P/PPP1N1B1/R2Q1RK1 w kq - 0 13"]
+[PlyCount "39"]
+[EventDate "2009.??.??"]
+[Source "The Week in Ches"]
+
+{The position is already quite complicated. However white found the way how to
+increase the tension.)} 13. a3 {(creating the contact between the pawns)} bxa3
+14. b4 {(and keeping the initiative)} Bxg2 15. Kxg2 Na4 16. Ng3 d5 17. f5 {(an
+attack.)} e5 18. Rxa3 {(counterblow)} Nb2 19. Qf3 Qd7 20. f6 g6 21. Re1 Nc4 22.
+Rd3 Qb7 23. Ndf5 {(and a final positional sacrifice to open the position.)}
+gxf5 24. Rxd5 Qc6 25. Nxf5 Nd7 26. Bc5 Rc8 27. Red1 Rc7 28. Qe4 Bxc5 29. bxc5
+Rg8 30. Kh2 Qxf6 31. Qxc4 Rg5 32. Qe4 1-0
+

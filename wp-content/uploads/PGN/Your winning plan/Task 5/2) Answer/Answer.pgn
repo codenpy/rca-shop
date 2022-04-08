@@ -1,0 +1,281 @@
+[Event "29th Mem Nezhmetdinov"]
+[Site "?"]
+[Date "2007.06.09"]
+[Round "9"]
+[White "Khismatullin D"]
+[Black "Iliushkin E"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2292"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnb1r1k1/1p3ppp/p2q4/2pPp3/4P3/6P1/PP1Q1PBP/2RRN1K1 w - - 0 17"]
+
+{In positions with the closed center we should play on a side. White has a
+space advantage on the queen-side, so he should attack there.} 17.Nd3
+b6 18.b4 {(For an attacker it is necessary to use the pawn assault.)}
+cxb4 19.Nxb4 Bg4 20.Re1 Bd7 21.Nc2 Bb5 22.Ne3 g6 23.Qc2 a5 24.Rb1
+Ba6 25.Rec1 Nd7 26.Qc6 {(the white's plan was realized successfully and white is winning.)}
+Qxc6 27.dxc6 Nc5 28.Rxb6 Ne6 29.c7 Bc8 30.Nd5 Kg7 31.Rb8 1-0
+
+[Event "29th Mem Nezhmetdinov"]
+[Site "?"]
+[Date "2007.06.03"]
+[Round "3"]
+[White "Khismatullin D"]
+[Black "Gabdrakhmanov R"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2392"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnb2rk1/pp3pbp/3p1np1/2pPp1N1/2P1P3/2N3P1/PP3PBP/R1BR2K1 w - - 0 12"]
+
+{White should play on a side where his central pawn chain is pointed. To start this attack white needs to use a pawn assault.} 12.a3
+Ne8 13.b4 Nd7 14.Rb1 b6 15.Nb5 Ndf6 16.Re1 h6 17.Nf3 Bd7 18.Bd2
+Nh7 19.a4 {(White is realizing his plan insistently, while black plays without a plan - black should play f5)}
+h5 20.Rb3 Bf6 21.Ra1 Kg7 {(passive defense doesn't work in closed positions.)}
+22.a5 Bxb5 23.cxb5 Nc7 24.bxc5 dxc5 25.Bc3 Rfe8 26.Nd2 h4 27.Nc4
+hxg3 28.hxg3 Ng5 29.f4 exf4 30.Bxf6+ Kxf6 31.axb6 axb6 32.Rxa8
+Rxa8 33.gxf4 Ra1+ 34.Kh2 Nh7 35.Nxb6 Rc1 36.d6 Ne6 37.Nd5+ Kg7
+38.b6 c4 39.b7 cxb3 40.b8Q 1-0
+
+[Event "TCh-RUS HL"]
+[Site "?"]
+[Date "2007.05.04"]
+[Round "2"]
+[White "Khismatullin D"]
+[Black "Yudin S"]
+[Result "1-0"]
+[ECO "E09"]
+[WhiteElo "0"]
+[BlackElo "2511"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qnrk1/pb1nbppp/1p2p3/3pP3/3P4/5NP1/PPQN1PBP/R1B2RK1 w - - 0 12"]
+
+{White should play on the king-side, where he is stronger. Thus white needs to
+find the way how to concentrate his pieces there and how to start moving pawns.} 12.Re1
+( 12.Nb3 { this move helps white to finish the development, but it is a strategic mistake
+- in moves the knight away from the king-side where white should attack.}
+) Ba6 13.Nf1 Rc8 14.Qd1 Nb8 15.Ne3 Nc6 16.Bd2 Nc7 17.h4 { (it is necessary to push the pawns in closed positions)}
+Nb4 18.Bc3 Qd7 19.h5 h6 20.Ng4 Rfd8 21.Nf6+ gxf6 22.exf6 Bxf6
+23.Bxb4 Qb5 24.Bd2 Qxb2 25.Rb1 Qa3 26.Ne5 {
+ (White is realizing his plan vigorously: white is stronger on the king-side,
+that's why his attack will definitely bring results sooner or later. )}
+Bxe5 27.dxe5 Kh7 28.Rb3 Qe7 29.Rf3 Ne8 30.Qb1+ Kg7 31.g4 {(the pawn assault)}
+Rc4 32.Rg3 Qh4 33.g5 Rg4 34.Ree3 Qxh5 35.gxh6+ Kh8 36.Rxg4 Qxg4
+37.Rg3 {During the whole game white has realized his plan by every move, while black made "separate good moves"}
+ 1-0
+
+[Event "Masters"]
+[Site "?"]
+[Date "2005.08.15"]
+[Round "2"]
+[White "Bocharov D"]
+[Black "Mahjoob M"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2442"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnb1k2r/1pp1qpp1/3p1n1p/3Pp3/p1P1P3/P1BB1N2/1PQ2PPP/R3K2R w KQkq - 0 13"]
+
+13.c5 {(this is the ONLY move. After that white has quite huge positional advantage.
+Otherwise black would play b6 and would prevent the white's plan. You can see
+how it is important to have "a planning thinking" and not to play "just a good move" like castling.)}
+O-O 14.cxd6 cxd6 15.Nd2 Nfd7 16.Nc4 Na6 17.O-O Nac5 18.Be2 Nf6
+19.Nb6 Ra7 20.f3 Qd8 21.Nxc8 Qxc8 22.Rad1 Qc7 23.Bb4 Rc8 24.Rc1
+Qb6 25.Kh1 Raa8 26.Qc4 Rc7 {(a passive defense usually doesn't work in closed positions)}
+27.Qb5 Qa7 28.Rc3 Rac8 29.Ba5 Re7 30.Bb6 Qa6 31.Qxa6 bxa6 32.Bxc5
+{(If white is stonger on the queen-side - he will realize his advantage)}
+Rxc5 33.Rxc5 dxc5 34.Bxa6 Ne8 35.Rc1 Ra7 36.Bf1 Ra5 37.Kg1 Kf8
+38.Kf2 Ke7 39.Ke3 Kd6 40.Bd3 Nc7 41.f4 f5 42.fxe5+ Kxe5 43.exf5
+Nxd5+ 44.Kf3 Nb6 45.Re1+ Kd4 46.Bf1 c4 47.Re4+ Kd5 48.Kf4 Ra7
+49.Be2 Rc7 50.Bf3 Kc5 51.Re6 c3 52.bxc3 Nc4 53.Ra6 Kb5 54.Ra8
+Nxa3 55.Be2+ Kb6 56.Ra6+ Kb7 57.Rxa4 Rxc3 58.g4 Nc2 59.Re4 Kb6
+60.Bd1 1-0
+
+[Event "10th TCh-Euro sen"]
+[Site "?"]
+[Date "2008.02.13"]
+[Round "3"]
+[White "Korchnoi V"]
+[Black "Turikov V"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2334"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qk2r/pbp1bppp/1pnp1n2/4p3/2PPP3/2NB1N2/PP2QPPP/R1B2RK1 w kq - 0 9"]
+
+{Normally we should keep the tension and play Be3. However in this position it
+is good for white to close the position: 1)  the black's bishop b7 is on the
+wrong place; 2) it is difficult for black oto prepare the move f5, while white
+will attack on the queen-side without any problems. It determines white's huge
+positional advantage. This calls "deep understanding of chess". You can see that it is very simple actually.} 9.d5
+Nb4 10.Bb1 a5 11.a3 Na6 12.Bc2 O-O 13.Rb1 Nc5 14.b4 Ncd7 15.Rd1
+Nh5 16.Nxe5 Nxe5 17.Qxh5 Nxc4 18.Bb3 Ne5 19.f4 Ng6 20.Rd3 Re8
+21.Ba4 axb4 22.Bxe8 Qxe8 23.Rxb4 Bf6 24.Rh3 Nf8 25.Nb5 Ra5 26.a4
+Ba6 27.Rhb3 Bxb5 28.axb5 Ra1 29.Qd1 Nd7 30.Ra3 Rxa3 31.Bxa3 Nc5
+32.Qb1 h6 33.Rc4 Qa8 34.Bxc5 bxc5 35.Rc2 Qa3 36.Ra2 Qe3+ 37.Kh1
+g6 38.e5 dxe5 39.d6 cxd6 40.b6 Bd8 41.Ra8 Kh7 42.Rxd8 exf4 1-0
+
+[Event "4th Pivdenny Bank Chess Cup"]
+[Site "?"]
+[Date "2008.05.30"]
+[Round "4"]
+[White "Korchnoi V"]
+[Black "Golubev M"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2474"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bq1rk1/1pp2pbp/3p2p1/p1nPp2n/2P1P3/2N3P1/PP2NPBP/R1BQ1R1K w - - 0 11"]
+
+{It takes a lot of time for white to realize his plan: b3, a3, Rb1, b4; while
+black is ready to start an attack after the move f5. That's why white should rather prevent an opponent's plan here.} 11.Ng1
+{(You can see again that "a planning thinking" allows you to find really profound moves)}
+Qe8 ( 11...f5 {?} 12.exf5 Bxf5 13.g4 $16 ) 12.Be3 {(white is still preventing the black's plan mainly)}
+Nf6 ( 12...f5 13.Bxc5 dxc5 14.exf5 gxf5 15.Nb5 {with an initiative position}
+) 13.f3 Nh5 14.Re1 Qd8 15.a3 { (white strengthen his position on the king-side and now he may realize his main plan - pawn assault on the queen-side.)}
+Bd7 16.b4 axb4 17.axb4 Rxa1 18.Qxa1 Nb3 19.Qd1 Nd4 20.Nce2 Nxe2
+21.Nxe2 f5 22.exf5 gxf5 23.f4 Nf6 24.fxe5 Ng4 25.Bg1 Nxe5 26.Nf4
+Nxc4 27.Ne6 Bxe6 28.dxe6 Qe7 29.Bxb7 Ne5 30.Bg2 Kh8 31.Qc2 f4
+32.gxf4 Rxf4 33.Rc1 c6 34.Qb3 Rg4 35.Ra1 Bf6 36.Ra7 Qf8 37.b5
+Qg8 38.Qa2 cxb5 39.Ra8 Bd8 40.e7 1-0
+
+[Event "25th ECC"]
+[Site "?"]
+[Date "2009.10.07"]
+[Round "4"]
+[White "Miroshnichenko E"]
+[Black "Rapport R"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2440"]
+[Annotator ""]
+[Source "The Week in Ches"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2kr3r/pp1nbpp1/1qp1pn2/3p2p1/2PP2P1/1QN1P2P/PP1B1PB1/2KR3R w - - 0 14"]
+
+{White wants to play c5, close the position and attack on the queen-side then.
+However it will be a huge mistake to play c5 immediately} 14.Qa4
+( 14.c5 Qxb3 15.axb3 a6 {and white's attack on the queen-side failed.}
+) Kb8 {(It was necessary for black to break the white's plan and to play dñ. However
+he made "just a normal move" due to the lack of planning skills.)}
+15.c5 Qc7 16.b4 {
+ (in the closed positions we should not worry about the weaknesses too much. It
+is important to realize a pawn assault on the "right" flank.)}
+Rc8 17.Kb1 Nf8 18.Ka1 b5 {(in closed positions a defender may move the pawns to set up a blockade)}
+19.Qc2 Ng6 20.a4 a6 21.Kb2 Nh4 22.Bf1 Nf3 23.Bd3 Nxd2 24.Qxd2
+Qb7 25.Ra1 Kc7 26.f3 Nd7 27.axb5 axb5 28.Ra2 f6 29.Rha1 Ra8 30.Qh2+
+e5 31.e4 Rxa2+ 32.Rxa2 Kc8 33.exd5 exd4 34.dxc6 dxc3+ 35.Kxc3
+Qxc6 36.Be4 Bd6 37.Qxd6 Qxd6 38.cxd6 Rd8 39.Kd4 Nb6 40.Kc5 Na4+
+41.Kc6 Kb8 42.d7 1-0
+
+[Event "2nd Mayors Cup"]
+[Site "?"]
+[Date "2009.05.06"]
+[Round "7"]
+[White "Miroshnichenko E"]
+[Black "Rathnakaran K"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2427"]
+[Annotator ""]
+[Source "The Week in Ches"]
+[Remark ""]
+[SetUp "1"]
+[FEN "1rbqnrk1/1p1n1pbp/p2p2p1/2pPp3/P1P1P3/2NB1N1P/1P3PP1/R1BQR1K1 w - e6 0 12"]
+
+{White needs to attack on the queen-side. White will play b4 to start an
+attack. Now black is ready to play a5 and to break the white's plan. That's why white has the ONLY move} 12.a5
+h6 13.Qc2 b6 {(it is a mistake, which helps white to open the queen-side position)}
+14.axb6 Nxb6 15.Rb1 f5 16.b4 Nd7 17.Ba3 f4 18.bxc5 Rxb1 19.Rxb1
+dxc5 20.Na4 Qc7 21.Nd2 Bf6 22.Nb3 Be7 23.f3 Nd6 24.Naxc5 Qa7
+25.Kh2 Nf6 26.Na5 Nh5 27.Nc6 Qc7 28.Qb2 1-0
+
+[Event "2nd Open"]
+[Site "?"]
+[Date "2006.06.11"]
+[Round "9"]
+[White "Jobava Ba"]
+[Black "Milov V"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2625"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/1p1nbppp/p1p1p1b1/2Pp4/1P1P1B2/1N2P3/P3BPPP/R2Q1RK1 b - - 0 13"]
+
+{This position is rather closed. White will certainly attack on the queen-side.
+Black may not just defend, because the passive defense doesn't work in closed
+positions. Black should create a counterattack in the center by playing e5. Of
+course it requires preparation, but black should realize it anyway} 13...Re8
+14.Bg3 Bf6 15.f4 {(After this pawn move black should make adjustments in his plan. Now it is necessary to play f6 to prepare the move e5.)}
+Qc8 16.a4 Bd8 17.Be1 Nf6 18.b5 Ne4 19.Qc1 f6 20.Ba5 Bxa5 21.Nxa5
+Qc7 22.b6 Qd7 23.Bd3 e5 {(Finally black did it)} 24.fxe5 fxe5
+25.Ra2 Re7 26.Bxe4 Bxe4 27.Qc3 h6 28.dxe5 Rae8 29.Raf2 Bg6 30.e4
+Bxe4 31.Qg3 Kh7 32.h3 Bg6 33.Rf8 Re6 34.Rxe8 Rxe8 35.e6 Rxe6
+36.Qc7 Re7 37.Qxd7 Rxd7 {(Black got a winning position, because he realized his plan insistently during all the previous moves)}
+38.Kf2 Bc2 39.Ke3 d4+ 40.Kd2 Bxa4 41.Rf8 Bb5 42.Rb8 Rf7 43.Rxb7
+Rf2+ 44.Kc1 Ba4 45.Rd7 Rc2+ 46.Kb1 Rxc5 47.Rxd4 Bc2+ 48.Kb2 Rxa5
+49.Rb4 c5 50.b7 cxb4 51.b8Q b3 52.g4 Ra2+ 53.Kc3 a5 54.g5 h5
+55.g6+ Bxg6 56.Qxb3 Rg2 57.Kd4 Rd2+ 58.Ke5 Rd3 59.Qa4 Rxh3 60.Qxa5
+Rf3 61.Qe1 Rf5+ 62.Kd6 Rf4 63.Qe3 Rf6+ 64.Ke7 Rf7+ 65.Kd6 Rf8
+66.Qg5 Re8 67.Kd5 Re4 68.Qg3 Kh6 69.Qf2 Kh7 70.Qg3 Bf5 71.Qc7
+h4 72.Qh2 g6 73.Qc7+ Kh6 74.Qc1+ Kh5 75.Qd1+ Kh6 76.Qc1+ g5 77.Qc3
+Kh5 78.Qf3+ Kg6 79.Qc3 Re8 80.Qc6+ Re6 81.Qc3 Rf6 82.Qe3 Re6
+83.Qc3 h3 84.Qh8 Re2 85.Kd6 h2 86.Qa8 Be4 87.Qe8+ Kf5 88.Qb5+
+Kf4 89.Qe5+ Kg4 90.Qe6+ Kg3 91.Qe5+ Kh4 92.Qh8+ Kg4 93.Qc8+ Kg3
+94.Qc3+ Bf3 0-1
+
+[Event "36th TCh-GRE"]
+[Site "?"]
+[Date "2008.07.10"]
+[Round "7"]
+[White "Hadzimanolis A"]
+[Black "Azmaiparashvili Z"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2615"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qk2r/1pp1n2p/p2p2pn/3Ppp2/P3P3/2N2P2/1PPNQ1PP/R4RK1 b kq - 0 13"]
+
+{Black should attack on the king-side, where his central pawn chain "looks". To
+start this attack black needs to realize a pawn assault.} 13...f4
+14.Nd1 g5 15.c4 Rg8 16.Nf2 Qd7 17.h3 Nf7 18.a5 h5 19.b4 Nh6 {(Black realizes his plan maximally insistently. He is ignoring the white's attack as loong as he can)}
+20.c5 Rd8 21.Rfb1 g4 22.fxg4 hxg4 23.hxg4 Nxg4 24.Nxg4 Rxg4 25.b5
+Kf7 26.c6 bxc6 27.bxc6 Qc8 28.Rb7 Rdg8 29.Rab1 Kf6 30.Rb8 Rxg2+
+31.Qxg2 Rxg2+ 32.Kxg2 Qg4+ 33.Kf2 Qg3+ 34.Ke2 Ng6 35.R8b3 Qg2+
+36.Kd1 Nh4 37.Kc2 Qe2 38.Rb7 Nf3 0-1
+

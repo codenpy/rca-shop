@@ -1,0 +1,61 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.05.17"]
+[Round "?"]
+[White "4.Bg5 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "E31"]
+[Annotator "RCA"]
+[PlyCount "26"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 {This is the start of the Leningrad
+Variation championed by the former world champion Boris Spassky. It is a very
+active continuation but positionally isn't very sound. Black can, with the
+help of certain ideas, neutralise White's activity and leave White with lots
+of positional weaknesses.} c5 5. d5 (5. e3 {Is a horrible move and is met with
+the strong...} Qa5 $1 $15 {The threat now is cd4 attacking the g5 bishop at
+the same time, then Bc3 winning a pawn. Add to it the threat of Ne4 and Black
+is clearly better already!} 6. Bxf6 Bxc3+ 7. bxc3 Qxc3+ 8. Ke2 gxf6 9. Rc1 Qa5
+$17) 5... h6 {Just probing the bishop and pushing it back to h4. Of course,
+moving the bishop anywhere else would be waste of time and taking on f6 is
+surely out of the question!} 6. Bh4 Bxc3+ $1 {I find this to be the right
+moment to take on c3 and ruin the White pawn structure before White can play
+Rc1 and recapture on c3 with the rook.} 7. bxc3 d6 {Black's idea is very
+simple: he gave up his dark-squared bishop and is now playing to put all his
+pawns on dark squares whereby his other bishop will be a good piece. White has
+the dark-squared bishop in order to compensate for his static weakness of
+doubled pawns. So if Black can contain the activity of that bishop, then he
+will be better. The pawns on e5-d6-c5 will do just that, i.e. their role in
+limiting White's dark-squared bishop.} 8. e3 (8. f3 e5 9. e4 Nbd7 10. Bd3 Nf8
+11. Ne2 g5 12. Bf2 Ng6 {Black has a decent position, mainly because the bishop
+on d3 looks like a prisoner! The sad thing for White is that keeping it on the
+board is bad because it's so passive and trying to exchange it via a4 would
+leave the c4 pawn weak in the future! So White does best not to push his pawn
+to e4, rather to keep it on e3.}) 8... e5 {I like to call this setup of
+c5-d6-e5 as the 'wall'. Black has setup the wall. From this position, White
+has three options: Qc2, Bd3 and f3. Our approach against all three moves is
+quite unique. I could very well have recommended you just one setup and you
+could have blindly played that against any move. But I think it makes more
+sense to understand the drawbacks of each move and to exploit them.} 9. Qc2 (9.
+Bd3 {This move calls for immediate action with...} e4 $1 10. Bc2 (10. Bxf6 Qxf6
+11. Bxe4 Qxc3+ 12. Ke2 Qxc4+ 13. Bd3 (13. Kf3 f5 $19 {Mate threat on g4.})
+13... Qb4 $17 {Black is just better.}) (10. Bxe4 $2 g5 $1 {Just drops a piece.}
+) 10... g5 (10... Nbd7 {Allows an interesting move.} 11. f4 $5) 11. Bg3 {Black
+would like to develop Nbd7 but d6 would hang, hence first we start with...} Qe7
+) (9. f3 {This move is also often made.} Bf5 $1 {Black makes this move to stop
+White's normal development with Bd3. If White plays Bd3, then Black will
+exchange it and his pawn on c4 will become quite weak; and if White plays e4,
+then after Bc8 the White light-squared bishop will have absolutely no scope.})
+9... Qe7 10. Nf3 Kd8 $5 {Did I by mistake touch the king or what! Well, this
+move needs some explanation. Though not the most popular move, I think it is
+very good. The idea is to put the king on c7 where it will be extremely safe.
+Of course, the annotated games will reinforce my words with variations. Once
+we have found a space for the king, we can continue with our normal
+development and engage in a full-blooded fight on the king side.} (10... g5 11.
+Bg3 Nh5 12. Bd3 Nd7 {Is another way to play.}) 11. Nd2 Kc7 12. Bd3 g5 13. Bg3
+Nh5 {This position is analysed in two games: Jussupow-Short and Gokhale-Sagar
+in the annotated games section.} *
+

@@ -1,0 +1,52 @@
+[Event "Leningrad Junior-ch"]
+[Site "Leningrad"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Spassky, Boris Vasilievich"]
+[Black "Avtonomov"]
+[Result "1-0"]
+[ECO "D28"]
+[Annotator "Kesmaecker,P"]
+[PlyCount "41"]
+[EventDate "1949.??.??"]
+[EventType "tourn"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2010.11.25"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 (7...
+Nc6 8. Nc3 cxd4 9. exd4 Nxd4 10. Nxd4 Qxd4 11. Rd1 $32) 8. Bb3 Nc6 9. Nc3 cxd4
+10. Rd1 Bb7 11. exd4 Nb4 {Diagram #} 12. d5 $1 (12. a4) 12... Nbxd5 13. Bg5 Be7
+14. Bxf6 gxf6 (14... Nxf6 15. Rxd8+) (14... Bxf6 15. Nxd5 Bxd5 16. Bxd5 Qxd5
+17. Rxd5) 15. Nxd5 Bxd5 16. Bxd5 exd5 17. Nd4 Kf8 (17... O-O 18. Nc6) 18. Nf5
+h5 19. Rxd5 $1 Qxd5 20. Qxe7+ Kg8 21. Qxf6 1-0
+
+[Event "Interzonal-12c"]
+[Site "Moscow"]
+[Date "1982.09.22"]
+[Round "12"]
+[White "Kasparov, Garry"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2675"]
+[BlackElo "2550"]
+[PlyCount "55"]
+[EventDate "1982.09.07"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "URS"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 c5 8. e4
+Nxc3 9. bxc3 Be7 10. Bb5+ Bc6 (10... Nd7 11. Ne5) (10... Nc6 11. Ne5) 11. Bd3
+Nd7 12. O-O h6 $6 (12... O-O 13. d5 exd5 14. exd5 Bxd5 15. Bxh7+) 13. Rd1 Qc7 {
+Diagram #} 14. d5 $1 exd5 15. exd5 Bxd5 (15... Bb7 16. Re1 (16. Qe2) (16. d6))
+16. Bb5 a6 (16... Bc6 17. Bf4 $1 Qb7 18. Bxc6 Qxc6 19. Re1 $16) 17. Bf4 $1 (17.
+Bxd7+ Qxd7 18. c4 Be4 $1) 17... Qxf4 (17... Qb7 18. Bxd7+ Qxd7 19. c4 Qg4 20.
+Rxd5 Qxf4 21. Re1 Ra7 22. Ne5) 18. Bxd7+ Kxd7 19. Rxd5+ Kc7 20. Re1 Bd6 21. Rf5
+Qc4 22. Re4 Qb5 23. Rxf7+ Kb8 24. Re6 Rd8 25. c4 Qc6 26. Ne5 Qc8 27. Qb1 b5 28.
+cxb5 1-0
+

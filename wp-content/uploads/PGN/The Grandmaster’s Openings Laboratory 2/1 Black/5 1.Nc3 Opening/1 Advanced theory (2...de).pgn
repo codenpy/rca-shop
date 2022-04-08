@@ -1,0 +1,46 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.03.12"]
+[Round "?"]
+[White "1. Nc3 Opening"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "RCA"]
+[PlyCount "24"]
+[EventDate "2013.??.??"]
+
+1. Nc3 {(Sometimes, players use this opening to surprise their opponents, but
+you need not to worry for that... because we prepare a special line for you to
+handle this surprise line!)} d5 {(here it is...)} 2. e4 (2. d4 $6 {(a
+strategical mistake.. in absence of c4 pawn, white can't claim any advantage ..
+.)} Nf6 3. Bf4 Bf5 4. e3 e6 $11 {(followed by c5, Nc6, Qb6 etc....)}) 2... dxe4
+$5 {(Interesting choice, perhaps a tricky one.... I will explain it after some
+moves)} (2... Nf6 $5 {(safe alternative, if you want to play for an equal
+position. We provide this variation in separate pgn file)}) 3. Nxe4 Bf5 4. Ng3
+(4. Qf3 $5 {(a risky choice, queen shouldn't be played in centre too early)}
+Qd5 {(most logical and the simplest one. Principle of attack, maximum activity
+works here)} 5. Nc3 Qe5+ 6. Qe3 (6. Nge2 $5 Nc6 $36) 6... Qxe3+ 7. fxe3 Nf6 8.
+d3 Nc6 {(followed by 0-0-0 & black is fine here)}) 4... Bg6 5. Nf3 (5. Bc4 $5
+Nc6 6. Nf3 e6 7. d4 (7. d3 $5 a6 {(followed by Nf6, Be7 & 0-0 is good for
+black....)}) 7... Nf6 8. O-O Bd6 9. Bg5 Qd7 {(with the idea of 0-0-0 and
+attack along K-side with a fine position for black)}) 5... Nd7 (5... Nc6 $5 {
+also playable.....} 6. Bb5 Qd6 7. O-O O-O-O 8. d3 Nf6 (8... h5 $5 {is
+perfectly playable here....}) 9. a4 e6 10. Be3 Kb8 $11 {now black is ready to
+show his talent along K-side....}) 6. Bc4 (6. h4 $6 {(many players instantly
+push the 'h' pawn in this position, as the position looks like a caro kann
+variation... but in reality, there is a big difference which they don't notice
+at all)} h6 7. h5 {(thematic caro kann attack....)} Bh7 8. d4 Ngf6 9. Bd3 Bxd3
+10. Qxd3 e6 11. Bd2 c5 $1 {(And black successfully converted the position to
+caro kann defence with an extra tempo. Black need not to lose a tempo by
+playing c6 here as in the caro kann defence!!)}) 6... e6 7. d3 {(white tries
+to restrict the g6 bishop....)} (7. d4 $5 Bd6 8. O-O c6 $1 {(to prevent d5
+that may lead complex position)} 9. Be3 Ngf6 {...followed 0-0, Qc7,Rd8 and
+easy play for black}) 7... Ngf6 8. Qe2 Be7 9. Bd2 O-O $1 10. O-O (10. O-O-O $5
+c6 11. Kb1 Re8 12. Rhe1 b5 $132) 10... c6 $11 {(black gets an equal position...
+)} 11. Nh4 $5 {(If white tries to exchange his knight to black's light bishop..
+..)} Qc7 $1 (11... Ne5 $2 12. Qxe5 Nd7 13. Nxg6 Nxe5 14. Nxe5 $16 {(white gets
+more than compensation...)}) 12. a4 Nb6 $36 {(this knight eyes at d5 square....
+followed by centralyzed rooks at e8 & d8 with a very nice position for black...
+)} *
+

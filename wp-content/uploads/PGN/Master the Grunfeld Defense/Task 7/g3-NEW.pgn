@@ -1,0 +1,398 @@
+[Event "DEN-ch playoff"]
+[Site "Copenhagen"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Danielsen, Henrik"]
+[Black "Nielsen, Peter Heine"]
+[Result "0-1"]
+[ECO "D74"]
+[WhiteElo "2495"]
+[BlackElo "2530"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "74"]
+[EventDate "1996.10.18"]
+[EventRounds "4"]
+[EventCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. Bg2 O-O 6. O-O Nc6 7. cxd5 Nxd5 8. e4
+Nb6 9. d5 Na5 {Interesting move. Black avoids placing the Knight on e5 right
+now, instead of that he wants to make the White's queenside weaker first and
+then bring the Knight on e5 via c4.} 10. Qe1 Nac4 11. Nc3 e6 {The center of
+White is pretty advanced but his pieces cannot help to defend those advanced
+positions. Black is undermining center with his last move, you should remember
+and implement in your practical game this idea: If the center of your opponent
+is very advanced but he cannot yet sufficiently support it - you need to
+undermine it by attacking with your pawns.} 12. b3 Ne5 13. Nxe5 Bxe5 14. Bh6
+Re8 {Pay your attention to the Bishop on e5, this piece is pressuring White
+via the big diagonal.} 15. Qd2 exd5 16. exd5 Bf5 17. Rac1 Nc8 18. h3 Nd6 19. g4
+Bd7 20. f4 Bh8 21. Bg5 Bf6 22. Bh6 Bh8 {
+In this position the opponents could have made a draw by repetition.} 23. Rf2 {
+White has overestimated his position and made a mistake, the right choice was
+to agree for a draw by repetition.} (23. Bg5 Bf6 24. Bh6 Bh8 $11) 23... f6 24.
+f5 g5 {The White Bishop got into a trap, now he will not go out anymore.} 25.
+h4 Nf7 26. hxg5 fxg5 27. f6 {White tries to free the Bishop at all costs, but
+Black is not afraid and he has calculated everything accurately.} Bxf6 {
+White skipped a great possibility here, but it is understandable, because the
+following move is hard to spot.} 28. Rcf1 (28. d6 $1 c6 29. Bd5 $1 cxd5 30.
+Nxd5 Re6 31. Rcf1 Bb5 32. Rxf6 Qxf6 {
+Black are mated in 11 moves here, find how!} (32... Qxd6 {
+with a very unclear position yet wiith a smal advantage of White.}) 33. Nxf6+)
+28... Bxc3 29. Qxc3 Nxh6 30. Rf6 Nxg4 31. Rf7 Ne5 32. Be4 Nxf7 33. Bxh7+ Kxh7
+34. Rxf7+ Kg6 35. Qg7+ Kh5 36. Kf2 {Checks are finished and White is in a huge
+trouble. The game did not continued for long after that.} Bf5 37. Qa1 Qxd5 {
+Danielsen - Nielsen, DEN-ch playoff 1996} 0-1
+
+[Event "Khanty-Mansiysk ol (Men) 39th"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.30"]
+[Round "9.1"]
+[White "Leitao, Rafael Duailibe"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2624"]
+[BlackElo "2700"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "48"]
+[EventDate "2010.09.21"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[WhiteTeam "Brazil"]
+[BlackTeam "Italy"]
+[WhiteTeamCountry "BRA"]
+[BlackTeamCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 {
+No rush with e4, first White wants to develop the Bishop.} 6. Bg2 Nb6 7. Nc3
+Nc6 8. e3 {In this game White is not trying to gain as much space as only
+possible, he prefers to have a save and strong center.} O-O 9. O-O {The White B
+ishop on g2 is a potentially very strong piece - one more benefit for White
+for refusing advancing the center.} Re8 10. Re1 a5 {Black is aimed to attack
+on the queenside so advancing of the "a" pawn is a good idea. The activity in
+the center and on the queenside will be supported by a great Bishop on g7.} 11.
+Qe2 Be6 12. Rd1 Bc4 {This maneuver of the Bishop should be remembered by you,
+because it is a great tool for activating the black piece. Same kind of
+maneuver was applied by Tigran Petrosian.} 13. Qc2 Nb4 14. Qb1 e5 15. a3 exd4
+$5 {This move starts a big combination involving the Queen-sacrifice.} 16. axb4
+dxc3 17. Rxd8 Raxd8 18. Qc2 (18. bxc3 Rd1+ 19. Bf1 Rxf1+ 20. Kg2 Bxc3 21. Rxa5
+Rd1 22. Qc2 Bf1+ 23. Kg1 Be2+ 24. Kg2 $11 {
+This was the best variation for White, but he failed to spot this opportunity.}
+) 18... axb4 19. Nd2 cxd2 20. Bxd2 Ra8 21. Rxa8 Rxa8 {
+Queen to b1 gave considerable chances for a draw.} 22. Bxb7 Ra1+ 23. Bc1 b3 24.
+Qd1 (24. Qd2 {this move was the last hope of White.}) 24... Bxb2 {
+Leitao - Caruana, Khanty-Mansiysk ol (Men) 39th 2010} 0-1
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2000.01.22"]
+[Round "6"]
+[White "Nikolic, Predrag"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2659"]
+[BlackElo "2725"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "100"]
+[EventDate "2000.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. Bg2 dxc4 6. Qa4+ Nfd7 7. O-O Nc6 8.
+Qxc4 Nb6 9. Qc2 {Interesting opening line but White are behind in terms of the
+development and the only thing he has from the opening is the control upon the
+center, which is not hard to argue. So, the position is equal from the very
+beginning of the game.} O-O 10. Rd1 Bg4 11. e3 e5 12. dxe5 {Black is attacking
+the center as soon as only possible, trying not to let white to finish the
+development.} Qc8 13. Re1 Rd8 14. Nc3 Nc4 15. Nd5 Rxd5 16. Qxc4 Rd8 17. Qb3 Be6
+18. Qc3 {The position is about equal the extra pawn of White does not play any
+significant role. In some moves Black will get the pawn back.} Bg4 19. Qb3 Rb8
+20. a3 (20. e4 Bxf3 21. Bxf3 Nd4 22. Qd1 Nxf3+ 23. Qxf3 Bxe5 {This variation
+was a better opportunity for White. Regardless that Black will have a better
+endgame (thanks to the pawn's majority on the queen-side) the position is
+still very playable and any result can be possible.}) 20... Qd7 21. Rb1 Nxe5
+22. Nxe5 Bxe5 23. e4 Be6 24. Qc2 Qb5 25. b4 (25. Be3 {
+After this White is just a little worse.}) 25... Bc4 26. Bf1 {This is a mistake
+, this Bishop from g2 should not be traded because the the endgame is
+preferable for Black.} Bxf1 27. Rxf1 Qd3 28. Qxd3 Rxd3 {
+Every exchange increases Black's advantage.} 29. b5 Re8 30. Rb4 Rd4 31. Rxd4 (
+31. Be3 {Gave better chances for White.}) 31... Bxd4 32. Re1 f5 33. Bf4 Rxe4
+34. Rxe4 fxe4 35. Bxc7 {Black King will be faster to the queenside, so the
+endgame is very bad for White.} Kf7 36. Kf1 Ke6 37. Ke2 Kd5 38. Bf4 Bc5 39. a4
+Kc4 40. Be3 b6 41. Bd2 Kb3 42. a5 bxa5 {
+The rest is the matter of technic of Black.} 43. Bxa5 Ka4 44. Bd2 Kxb5 45. f3
+exf3+ 46. Kxf3 Bb4 47. Bc1 a5 48. Kg4 a4 49. Kg5 Kc4 50. Kh6 Kd3 0-1
+
+[Event "RUS-chT 19th"]
+[Site "Sochi"]
+[Date "2012.04.15"]
+[Round "7"]
+[White "Ovetchkin, Roman"]
+[Black "Kurnosov, Igor"]
+[Result "0-1"]
+[ECO "D74"]
+[WhiteElo "2499"]
+[BlackElo "2657"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "2012.04.09"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[WhiteTeam "Nizhniy Tagil Polytechnik"]
+[BlackTeam "Tomsk 400"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 O-O 7. O-O Nc6 8.
+Nc3 Bf5 9. Nd2 Ndb4 {
+Provoking e4, so White's center will be advanced and will be easy to attack.}
+10. e4 Bc8 {It looks like White has a great position, but in reality they have
+a very minor advantage because his center is still weak and shortly will be
+undermined.} 11. d5 Ne5 12. Qb3 c5 13. Nf3 Nxf3+ 14. Bxf3 e6 {
+This might be a little too early and Nd3 might be better here.} 15. Be3 b6 16.
+a3 Nd3 17. Be2 exd5 18. exd5 {White makes a mistake allowing Black to catch up.
+} Bf5 {Not the best place for the Bishop - it will be way better to place this
+Bishop on a6.} 19. g4 c4 20. Qxc4 (20. Qa2 {
+This move is more promising for White than what he did in the game.}) 20... Qh4
+21. d6 Nxb2 {Black has overtaken the initiative.} 22. Qb3 (22. Qb5 {
+In this case White was able to fight for a draw, yet still with a big struggle.
+}) 22... Bxg4 23. f3 Bh3 (23... Rae8 24. Nd5 Be6 25. Qb4 Qxb4 26. Nxb4 Bh3 27.
+Nd5 Bxf1 {Was even better for Black than the move he made in the game.}) 24.
+Rf2 Na4 25. Ne4 Nc5 26. Nxc5 Bxa1 27. Ne4 h6 28. Bb5 Bg7 29. d7 {
+Regardless of the passed pawn White has no chances here.} Rad8 30. Qd5 Rxd7 31.
+Bxd7 Rd8 {Black has everything: attack, 2 extra pawns and a better structure,
+so White decided to resign. Ovetchkin - Kurnosov, RUS-chT 19th 2012} 0-1
+
+[Event "Elenite"]
+[Site "Elenite"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Tukmakov, Vladimir B"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2600"]
+[BlackElo "2670"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "134"]
+[EventDate "1995.09.??"]
+[EventRounds "9"]
+[EventCountry "BUL"]
+[EventCategory "15"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 O-O 7. O-O Nc6 8.
+Nc3 Nb6 9. d5 Na5 10. Qc2 Nxd5 11. Rd1 c6 12. Ne1 Bd7 13. Nxd5 cxd5 {In this li
+ne it turns out that usual undermines of the center will not work here,
+because, basically the pawn's center is not there.} 14. Rxd5 e6 15. Rd3 Rc8 16.
+Qd1 Rc7 17. Bf4 e5 18. Bg5 Qe8 {Position is equal. The parties have almost
+exactly similar structutre so the activity of the pieces will be the main
+factor. Both opponents have ways of increasing the activity of their pieces.
+For example, Knight on a5 and Knight on e1 - both are a little off the game,
+but Black has a better potential squares on c4 or d4 for his Knight.} 19. Rc1
+Rxc1 20. Bxc1 Bf5 21. e4 Be6 22. b3 Qb5 23. Ba3 Re8 24. Rd8 Bf6 25. Qd3 Qc6 {
+Position is still equal, none of the players have a weak point, thus nobody
+can start a proper attack.} 26. Rxe8+ Qxe8 27. Nc2 Be7 28. Bc1 Qc8 29. Be3 b6
+30. Bf1 h5 31. h4 Qc7 32. Kh2 f6 33. Bd2 Qc5 34. Ne3 Nc6 35. Bh3 Bf7 36. Qd7
+Kg7 37. Kg2 Qd6 38. Nd5 f5 39. Qxd6 Bxd6 40. Kf1 (40. Ne3 fxe4 41. Bf5 Nb4 42.
+Bxe4 {This was a better continuation for White.}) 40... Bxd5 41. exd5 Ne7 42.
+Bg2 e4 43. f3 exf3 44. Bxf3 Bxg3 {
+In this position the extra pawn will weight more than Bishop's pair.} 45. Bg5
+Nc8 46. Ke2 Nd6 47. Kd3 (47. Bg2 {It is a better move that the one made in the
+game. This move does not allow Black to exchange the light-squared Bishop.
+Because once that Bishop is exchanged White practically has no chances.}) 47...
+Nf7 48. Be7 {Little by little Black is increasing his advantage. Now the
+light-squared Bishop will be exchanged and Black will have no further troubles
+and will win the game.} Ne5+ 49. Ke3 Nxf3 50. Kxf3 {
+The rest is just a realization of the big advantage in the endgame.} Be5 51.
+Bb4 Kf7 52. a4 a6 53. Bd2 Ke7 54. Be3 b5 55. axb5 axb5 56. Bc5+ Kd7 57. Bb4 Bf6
+58. Kg3 f4+ 59. Kxf4 Bxh4 60. Ke4 Be7 61. Bd2 g5 62. Kf5 g4 63. Kf4 Bd6+ 64.
+Kg5 g3 65. Be3 Be5 66. Kxh5 g2 67. Bg1 Kd6 {Tukmakov - Topalov, Elenite 1995}
+0-1
+
+[Event "Corsica Masters rap 06th"]
+[Site "Bastia"]
+[Date "2002.11.04"]
+[Round "4.5"]
+[White "Karpov, Anatoly"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "D77"]
+[WhiteElo "2688"]
+[BlackElo "2755"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "68"]
+[EventDate "2002.11.01"]
+[EventType "rapid"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. Bg2 dxc4 6. Na3 {Karpov wants to let
+the Knight in the game as fast as possible and on c4 his piece will be looking
+rather good.} c5 7. O-O O-O 8. Nxc4 Be6 9. b3 Nc6 10. Bb2 {White is trying to
+create a competition to the Black's Bishop on g7 by putting own Bishop on the
+big diagonal. The position is equal.} Bxc4 11. bxc4 Ne8 12. e3 Nd6 13. Qe2 cxd4
+14. exd4 Nf5 {White has an advantage in terms of a movable pawn's center. Also,
+Bishops will be potentially very active pieces and if White will manage to
+open the game than those Bishops will shoot throughout the whole board.} 15. d5
+Bxb2 16. Qxb2 Na5 17. Rac1 b6 18. Ne5 Rc8 19. Rfd1 (19. Rfe1 {This move helps
+to save the advantage, yet the one made in the game decreases the advantage of
+White.}) 19... Rc5 20. h4 {One more mistake, White should not have moved the
+kingside pawns. Now the position is equal.} Qc7 21. Qe2 Nd6 22. Nc6 Re8 23. Re1
+(23. h5 {This would be better. If you have started moving the "h" pawn - it is
+too late to stop.}) 23... e5 24. h5 {Here it is just a miscalculation and
+White is losing the pawn. H5 was better to do a move ago.} Nxc6 25. dxc6 e4 26.
+hxg6 hxg6 27. Red1 Qxc6 {Black is a pawn up and he has no considerable
+problems so the result of the game is predictable.} 28. Rd4 Rce5 29. Rcd1 Nf5
+30. Rd5 Qf6 31. a4 e3 32. f4 {
+Final mistake, which gives away one more pawn and the game as a whole.} Nxg3
+33. Qf3 Qxf4 34. Rxe5 Rxe5 {Karpov - Anand, Corsica Masters rap 06th rapid 2002
+} 0-1
+
+[Event "Artek ol U16"]
+[Site "Artek"]
+[Date "1999.09.11"]
+[Round "2"]
+[White "Guseinov, Elmir"]
+[Black "Ni, Hua"]
+[Result "*"]
+[ECO "D71"]
+[WhiteElo "2301"]
+[BlackElo "2369"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "1999.09.09"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. g3 Bg7 5. Bg2 dxc4 6. Qa4+ Nfd7 7. Nf3 Nc6 8.
+O-O {This move puts White in a trouble right in the opening.} (8. Qxc4 Nb6 9.
+Qd3 O-O 10. O-O Nxd4 11. Nxd4 Qxd4 12. Qxd4 Bxd4 13. Rd1 {
+This is still better than the position emerging after 8. 0-0}) 8... Nb6 9. Qc2
+O-O 10. Bf4 Bg4 11. e3 Nb4 {Black's pieces are attacking and the Knight in
+particular soon will be placed on d3 right in the middle of the White's camp.}
+12. Qe2 h6 13. e4 Nd3 14. Be3 f5 {
+This is a mistake, Qd7 will be in a way better.} (14... Qd7 15. e5 f6 16. exf6
+Rxf6) 15. exf5 gxf5 16. Qd2 f4 {
+One more inaccurate move, this makes the position equal.} (16... Qd6 {
+This move will be a better option for Black.}) 17. gxf4 Bxf3 18. Bxf3 e5 $5 {
+This is a bright move which adds a fair deal of mess in the position. Now
+Black is able to lunch the attack.} 19. dxe5 Qh4 20. Bg2 Rad8 21. Qe2 c6 22.
+Rad1 Nxf4 23. Bxf4 Qxf4 24. Rde1 {A huge mistake that gives the game away!} (
+24. Rxd8 Rxd8 25. e6 Rd2 26. Qh5 Nc8 27. Bf3 Kf8 {
+With a little better position for Black.}) 24... Rf5 25. Ne4 Rxe5 26. Qc2 Rde8
+27. Re3 (27. Re2 {Was not losing right away.}) 27... Nd5 28. Qxc4 b5 29. Qd3
+Nxe3 30. fxe3 Qg4 31. Rf4 Qe6 32. h3 Rd5 33. Qf1 Red8 {
+This is not the best move, but Black is still better.} (33... Rdd8 {
+This move was saving a huge advantage.}) 34. Nf6+ Bxf6 35. Bxd5 Rxd5 36. Rxf6
+Qxe3+ 37. Kh1 Qe4+ 38. Kg1 *
+
+[Event "13th Sants Open"]
+[Site "?"]
+[Date "2011.08.20"]
+[Round "?"]
+[White "Lemeaux, David"]
+[Black "Ipatov, Alexander"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2279"]
+[BlackElo "2562"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "88"]
+[EventDate "2011.??.??"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 Nf6 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 {White are choosing safe and solid continuation, apparently
+being afraid to take a risky moves because the ELO of Black is almost 300
+points higher.} Re8 10. Qe2 Bf5 11. Nh4 Bd7 12. f4 {The position is equal so
+far. It remotely resembles the variation of the Dutch defense called Stone
+Wall but with the opposite color.} Qc8 13. Rf2 Nb4 14. Ne4 e6 $6 (14... Bg4 15.
+Qf1 Be6 16. b3 Bd5 {This variation would be better for Black, comparing with
+what has happen after 14. ... e6.}) 15. Bd2 a5 {
+Nbd5 was worth considering also.} 16. a3 N4d5 17. Nf3 Rd8 18. Rc1 Qb8 {
+Black allows himself too much. The position is already pretty bad. Black has
+no space, pieces are not active at all (except of the Knight on d5).} (18...
+Be8 {Nobody likes to make such moves, but it is still better than Qb8.}) 19.
+Nc5 Be8 20. b3 Nd7 21. Nd3 Ne7 {
+White should have concentrated on the expansion in the center and play e4.} 22.
+g4 c6 23. Qe1 Qa7 24. h4 {
+This move is wrong, White should have put a Knight on e5.} (24. Nde5 f5 25. Nc4
+a4 26. bxa4 Nd5) 24... Qb6 25. b4 axb4 26. axb4 Ra3 27. Bf1 Nf6 28. Nfe5 Qa7
+29. Bg2 Nxg4 $1 {Good move, Black will give away the Rook for a Knight and 2
+pawns. The ending position will be in the favor of Black!} 30. Nxg4 Rxd3 31.
+Bc3 Nf5 32. Bf1 Rxc3 33. Qxc3 Nxh4 34. Ra1 Qb8 35. Bd3 Qd6 36. Qc5 {
+Now the position is more or less equal.} Qc7 37. Ra7 Rd5 38. Qc4 h5 39. Ne5 Qd8
+40. Rxb7 {A hard mistake, after that White has no chances.} (40. Be4 Bxe5 41.
+fxe5 Qg5+ 42. Kf1 Qxe3 43. Bxd5 cxd5 44. Qc8 Qd3+ 45. Ke1 Qe3+ 46. Kf1 $11 {
+with a draw by repetition.}) 40... Bxe5 41. fxe5 Qg5+ 42. Kf1 Qxe3 43. Re2 Qh3+
+44. Ke1 Rxd4 0-1
+
+[Event "Reykjavik Open"]
+[Site "?"]
+[Date "2012.03.11"]
+[Round "?"]
+[White "Johannesson, Ingvar Thor"]
+[Black "Ipatov, Alexander"]
+[Result "0-1"]
+[ECO "A38"]
+[WhiteElo "2331"]
+[BlackElo "2561"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "2012.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d5 6. cxd5 Nxd5 7. O-O c5 8.
+Nxd5 Qxd5 9. d3 {Black's ELO in a way higher and maybe that is why White
+choses such a modest continuation.} Nc6 10. Be3 Qd7 11. Rb1 b6 12. d4 Rd8 {
+This is not the best move in the position.} (12... cxd4 13. Nxd4 Bxd4 14. Bxd4
+Nxd4 15. Bxa8 Ba6 16. Bf3 Rc8 17. Re1 Rc2 18. e3 Rd2 {
+This would be a very interesting variation for Black.}) 13. dxc5 Qg4 14. Nd2
+Bb7 15. cxb6 (15. b4 b5 16. a4 a6 17. Bf3 Qe6 18. Qb3 Qxb3 19. Rxb3 {
+A very good continuation, which White definitely should have chosen.}) 15...
+axb6 16. Bf3 Qf5 17. a3 {It would be good for Black to exchange the White
+light-squared Bishop, because then all the light squares on the kingside will
+become weak.} b5 18. Qe1 Rac8 {
+A good move, Rooks should always be placed on the open lines.} 19. Nb3 Ba8 20.
+Nc5 Ne5 {Black exchanges the Bishops and gains a small advantage.} 21. Bxa8
+Rxa8 22. Qb4 Ng4 {Not the best move, it gives to the opponent a big advantage.}
+23. Nd3 (23. Qxb5 Rab8 24. Qc4 Rxb2 25. Rxb2 Bxb2 26. Qb3 Qh5 27. h4 Nxe3 28.
+Qxe3 Bd4 $4 (28... Qe5 {With a small advantage for White.}) 29. Qxe7) 23... Qh5
+24. h4 Nxe3 25. fxe3 Qxe2 26. Nf2 Qxe3 27. Kg2 Be5 28. Qg4 Rd2 {Black has a
+complete superiority: pieces are more active than those of White, Black is one
+pawn up and is currently attacking. White has no chances but a blunder.} 29.
+Rbe1 Rxf2+ 30. Rxf2 Qxe1 31. Re2 Qxg3+ 32. Qxg3 Bxg3 33. Kxg3 e6 34. Re3 Rd8
+35. Rb3 Rd5 36. Rb4 Kg7 37. b3 Kf6 38. a4 bxa4 39. bxa4 Rd3+ 0-1
+
+[Event "33rd Open Internacional de B"]
+[Site "?"]
+[Date "2010.07.08"]
+[Round "?"]
+[White "Gomez Jurado, Luis Alberto"]
+[Black "Ipatov, Alexander"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2287"]
+[BlackElo "2507"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "2010.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 {Calm continuation - is it a usual thing when you are playing
+against in a way stronger opponent.} Re8 10. h3 a5 11. Qc2 a4 {Black is trying
+to gain as much space on the queenside as only possible, this pawn will
+undermine the pawn structure of the White's queenside.} 12. Rd1 Bd7 13. e4 Qc8
+14. Kh2 a3 {The position is still equal, but personally I would not like to
+play it for White because Black is much further in the fulfillment of his plan.
+} 15. bxa3 e5 {Now Black undermines the center.} 16. dxe5 Nxe5 17. Nxe5 {
+It is not a good move, it helps Black to activate his pieces Rb1 would be
+better.} (17. Rb1 Nxf3+ 18. Bxf3 Ra5 19. Bf4 Rc5 {
+and both sides have more or less equal chances.}) 17... Rxe5 18. Bb2 Rc5 19.
+Qd3 (19. Qb3 Bxc3 20. Bxc3 Ba4 21. Qb4 Rc4 22. Qb2 {
+This would have given White better chances.}) 19... Nc4 20. Qxd7 Nxb2 21. Qxc8+
+Rxc8 22. Nd5 Nxd1 23. Rxd1 {
+Black is an exchange up, and nothing will help White in this game.} Ra8 24. Rd3
+Rc2 25. f4 Bf8 26. e5 Rxa3 27. Nf6+ Kg7 28. Ne8+ Kh8 29. Rxa3 Bxa3 30. g4 Bc1
+31. Kg3 Bxf4+ 32. Kxf4 Rxg2 33. Nxc7 Rxa2 34. Kg5 Kg7 35. Ne8+ Kf8 36. Nf6 Re2
+37. Kh6 b5 38. Kxh7 b4 39. Kh8 b3 0-1
+

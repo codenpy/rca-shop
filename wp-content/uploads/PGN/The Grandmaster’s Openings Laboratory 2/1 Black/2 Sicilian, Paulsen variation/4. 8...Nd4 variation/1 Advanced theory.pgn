@@ -1,0 +1,69 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.10.09"]
+[Round "?"]
+[White "8...Nd4 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B48"]
+[Annotator "RCA"]
+[PlyCount "28"]
+[EventDate "2013.10.06"]
+[SourceDate "2013.10.09"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 {There are two
+main moves in this position. One is Nc6 and the other is what we are going to
+analyse here, that is Be3.} 7. Be3 Nf6 8. O-O {This is a very important
+position for any player playing the Paulsen Defence. Nearly 4,200 games have
+been played in this variation. Bd6 has been recommended in the first course.
+However, here we provide you with an alternative line which is extremely solid.
+} Nxd4 9. Bxd4 Bc5 {With this move, Black intends to exchange two pairs of
+minor pieces, which will severely impair White's attacking potential. At the
+same time, after the dark-squared bishops exchange, Black intends to place his
+pawns on dark squares - on d6 and e5 - in such a way that White's e4 pawn
+becomes fixed. In this way, the d3 bishop is also impeded. Thus you can judge
+for yourself that this is an extremely solid line for Black. There are three
+main moves in this position. The overwhelmingly popular move here is to
+exchange the bishop with Bc5, and the other two less played moves are Bf6 and
+Be2.} 10. Bxc5 (10. Be2 {Is a very tricky line. The main intention of White is
+to build pressure down the 'b' file. Hence Black must be careful.} e5 $1 {
+Forcing matters...} 11. Bxc5 Qxc5 12. Qd3 {With the idea of doubling up along
+the 'd' file and also, at some point, of exchanging with Qc4.} b6 $1 $146 {
+Everyone had previously played b5 when White was making use of ideas like a4
+or b4 followed by a4, to take advantage of Black lagging behind in development.
+In this novel case of b6! we experience no such problems and can equalise with
+ease. The analysis of this move is seen in the game Navara-Movsesian.}) (10.
+Bxf6 {Is a very risky decision for both sides. White gives up his dark-squared
+bishop and leaves Black with the bishop pair. But in return White's pawn
+structure is spoilt and he doesn't really know where to park his king. All in
+all, this variation leads to very exciting games.} gxf6 11. Qg4 Kf8 12. Kh1 h5
+13. Qh4 Be7 14. f4 b5 15. f5 Qe5 {This highly imbalanced variation will be
+analysed in the spectacular game, Fedorov-Miezis.}) 10... Qxc5 {Here White has
+four different possibilities (in their order of popularity): 1.Kh1 with the
+idea of f4; 2.Qe2, just connecting the rooks; 3. Na4, trying to set up a
+Maroczy Bind with c4; 4.Qd2, trying to put pressure down the 'd' file.} 11. Kh1
+(11. Qe2 d6 12. Kh1 e5 {The normal reaction in this position. But we must be
+careful as, instead of Qe1, the queen is on e2; this apparently minor detail
+makes a huge difference, as we shall see.} 13. f4 O-O 14. Nd5 $1 {This is the
+only dangerous move for Black, but never really played.} (14. f5 b5 15. g4 Bb7
+{Is favourable for Black.}) 14... Nxd5 15. exd5 Re8 $1 {This cool move is
+analysed in the game Ahmed-Ismagembetov.} (15... Qxd5 16. f5 $1 {In the Qe1
+line, we used to play f6. But here it is impossible because Bc4 will win the
+queen. This is the key difference in the position.})) (11. Na4 Qc7 12. c4 {In
+this position, it's more than theory - you must be well versed in plans.} d6
+13. Qe2 O-O 14. Rac1 Bd7 {We see analysis around this position in our
+illustrative game Wagener-Mamedyarov.}) (11. Qd2 {Though this move is
+relatively less played, it is none the less quite potent - White's main idea
+is to pressurise Black's king side with Rae1-e3-g3.} O-O 12. Rae1 d6 13. Re3 {
+The analysis of this position shall be dealt with in the game Bargan-Zhadko.} (
+13. Kh1 {Is also considered in the illustrative game.}) 13... Bd7 $1 $146 {Is
+the new move that we propose in this position.}) 11... d6 12. f4 {This is the
+most logical way to play. The idea can be to open further lines with the help
+of e5.} e5 $1 {Preventing the move e5, at the same time rendering the bishop
+on d3 a rather ineffective piece and placing the pawns on the opposite colour
+to our bishop. e5 is indeed an excellent move.} 13. Qe1 {Now the idea is to
+play Qh4. But White has many other possibilities at move 13. They are - f5,
+fe5, Nd5 and Qd2. They are all analysed in the game Balashov-Tregubov.} O-O 14.
+Qh4 {And here we recommend a new move which seems a little artificial but
+which is very logical...} h6 $1 $146 *
+

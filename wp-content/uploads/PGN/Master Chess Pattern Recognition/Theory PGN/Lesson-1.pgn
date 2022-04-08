@@ -1,0 +1,45 @@
+[Event "World Cup"]
+[Site "Skelleftea"]
+[Date "1989.08.??"]
+[Round "10"]
+[White "Andersson, Ulf"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2635"]
+[BlackElo "2585"]
+[PlyCount "80"]
+[EventDate "1989.08.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "SWE"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "1990.02.01"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Bg4 7. Be3 Nfd7 8. Rc1
+c5 9. d5 Na6 10. O-O Nc7 11. h3 Bxf3 12. Bxf3 Qb8 13. Be2 e5 14. dxe6 Nxe6 {
+White is fully developed. As the rook on f1 might support f2-f4 it is good for
+now. It is also hard to say where the queen is best placed, and in fact it is
+quite fine where it is right now. Only the rook on c1 needs to be improved,
+and b2 needs a little protection. Black, on the other hand, is in a bit of
+trouble. Of his pieces, only the e6-knight and the bishop are really well
+placed, although Black is considering ...a7-a6 and ...b7-b5 in the near future
+in order to inject some energy into his pieces. But Black also has to respect
+the weakness on d6. His only way to protect it is by exploiting his control
+over d4. Therefore White should attack down the d-file with Rc1-c2-d2.} 15. Rc2
+{'!' 'Threatening 16 Nb5! etc.'} a6 16. Rd2 Nd4 {'And now comes the exchange
+sacrifice, which guarantees White a slight edge. Remember that the e6-knight â
+(+) now on d4 â (+) and the bishop are the best black pieces!'} 17. Bxd4 cxd4
+18. Rxd4 {'!'} Bxd4 19. Qxd4 {'White is slightly better and is already
+threatening, for example, Nd5 and Bg4. Therefore Black must activate his
+pieces and surrender d6.'} Qa7 {'!'} 20. Qxd6 Rad8 21. Nd5 Kg7 {'?!' '?!'} ({
+Here Black could have improved his play with} 21... Qc5 $1 22. Qxc5 (22. Qg3
+Qd4 $1 {gives Black good counterplay}) 22... Nxc5 23. f3 {and White has the
+advantage in the endgame with his two pawns and strong knight on d5.}) 22. Rd1
+{'!' 'White is clearly better now and went on to win.' '!' 'White is clearly
+better now and went on to win.'} Qc5 23. Qg3 a5 24. Qc3+ f6 25. Nf4 Qe7 26.
+Qxa5 Qxe4 27. Rd4 Qe7 28. Qc7 Kh8 29. Bf1 Qe5 30. Rxd7 Rxd7 31. Qxd7 Qxf4 32.
+Qxb7 Rb8 33. Qf7 Qd6 34. c5 Qf8 35. Qxf8+ Rxf8 36. b4 Ra8 37. b5 Rxa2 38. Bc4
+Ra1+ 39. Kh2 Kg7 40. c6 Kh8 1-0
+

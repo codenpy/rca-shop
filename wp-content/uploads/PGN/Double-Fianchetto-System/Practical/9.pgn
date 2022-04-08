@@ -1,0 +1,14 @@
+﻿[Event "Saechsische Zeitung"]
+[Site "3_| Premio"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "STOJNIC Dragan"]
+[Black "#2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "Q6b/4pNB1/6p1/3Pp1PP/1P2k1BR/8/2K1bP2/4R3 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2002.??.??"]
+
+1. Qc8 Bxg7 2. Qc4# 1-0
+

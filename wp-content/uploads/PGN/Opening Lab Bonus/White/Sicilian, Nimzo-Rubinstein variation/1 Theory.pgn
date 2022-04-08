@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sicilian defense"]
+[Black "Nimzo-Rubinstein variation"]
+[Result "*"]
+[ECO "B20"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "11"]
+[SourceDate "2013.12.25"]
+
+1. e4 c5 2. Nf3 Nf6 {This Nimzo-Rubinstein variation can lead to very complex
+positions. However, I'll show you a very simple way to deal with it, where you
+don't need to learn any long lines.} 3. Nc3 {In most of the cases 3.Nc3 move
+will convert it into the main lines of Sicilian defense.} (3. e5 Nd5 4. Nc3 {
+This is the most ambitious way to counteract 2...Nf6 variation. It can lead to
+sharp positions, and so it requres that you analyze the lines thoroughly. You
+can find some good examples in the databse "2 Instructive games".}) 3... d5 {
+That's the only real way for Black to avoid playing classical Sicilian defense.
+} ({If Black plays} 3... d6 {(or e6 or Nc6), White replies with} 4. d4 cxd4 5.
+Nxd4 {getting the main line of Sicilian defense}) 4. exd5 Nxd5 5. Bb5+ Bd7 ({
+After} 5... Nc6 {White can continue his usual development} 6. O-O e6 7. d4 {
+with a good position}) 6. a4 {If you don't want to be involved into long
+forcing lines, you can play this simple move 6.a4. Currently Black's d5-knight
+is handing and he has to do something about it. On the next moves White is
+going to continue his development: 0-0, d4. This gives White a slightly better
+position.} (6. Ne5 {This is the main theoretical line, and it's a possible
+alternative to 6.a4. However, you need to analyze these lines very well before
+playing them.} Nf6 {This passive move gives White a comfortable position} (6...
+Bxb5 7. Qf3 {threatening Qf7#} f6 8. Nxb5 Na6 (8... fxe5 9. Qxd5 $1 Qxd5 10.
+Nc7+ Kf7 11. Nxd5 {Thanks to Black's weaknesses, White should have better
+chances in this endgame.}) 9. Qh5+ g6 10. Nxg6 hxg6 11. Qxh8 Qd7 {White won
+the exchange, but Black has some compensation thanks to his better development.
+}) 7. Qf3 {attacking b7-pawn} Qc7 8. Nxd7 Nbxd7 9. d3 {with the idea Bf4 and a
+superior position for White.}) *
+

@@ -1,0 +1,59 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzo defense"]
+[Black "4.Qc2-Nc6 variation"]
+[Result "*"]
+[ECO "E33"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 {In the main part of the course we
+analyzed classical variations here. Now I'd like to show you an interesting
+sideline.} Nc6 {White broke base principles by moving his queen (instead of
+development of his minor pieces). Black is taking advantage of Qc2-move and is
+attacking White's d4-pawn.} 5. Nf3 (5. e3 {is a worse alternative for White.
+It gives Black an additional possibility of playing} e5 {attacking White's
+center.} 6. d5 Ne7 7. Nf3 Bxc3+ ({Black must be careful.} 7... d6 $2 8. Qa4+ {
+loses a piece}) 8. Qxc3 d6 {Black exchanged his dark-squared bishop and put
+his pawns on dark squares. We have seen this idea in many lines of Nimzo and
+Bogo-Indian. Later on Black can undermine White's center by playing c6 (in a
+suitable moment).}) 5... d5 6. e3 (6. cxd5 exd5 {Opens a diagonal for Black's
+c8-bishop.} 7. Bg5 h6 8. Bxf6 (8. Bh4 {loses a pawn suddenly} g5 9. Bg3 g4 10.
+Ne5 Nxd4 {Black won a pawn and is attacking White's queen. It's important to
+mention that} 11. Qa4+ {is pointless; Black can simply play} Bd7 {White can't
+take b4-bishop anyway because of Nc2 fork}) 8... Qxf6 9. e3 O-O {on the next
+move Black will play Bg4 (or Bf5) with a comfortable position}) (6. Bg5 h6 {
+Black plays similarly to the previous line} 7. Bxf6 Qxf6 {Black's general plan
+is to play e5 after a necessary preparation. This will destroy White's center
+and will activate Black's c8-bishop.} 8. a3 Bxc3+ 9. Qxc3 O-O 10. e3 Re8 {
+Black is preparing e5 move} 11. Rd1 {! In order to play e5, Black will need to
+take on c4 first. With that in mind, White does not move his f1-bishop; he
+wants to put it to c4 in 1 move.} (11. Rc1 Bd7 12. Bd3 dxc4 13. Bxc4 e5 {this
+typical idea works perfectly here} 14. d5 Nd4 $1 {Black uses an opposition of
+his rook against White's king.}) {Black can make a standard move Bd7, or can
+play} 11... Qg6 {preventing a development of White's f1-bishop.}) (6. a3 Bxc3+
+{Black exchanges his bishop but gets a few extra tempos.} 7. Qxc3 Ne4 8. Qc2 {
+A normal move for Black is 0-0, however there's another ideas as well.} (8. Qb3
+Na5 {Black keeps chasing White's queen. That's why we should not develop our
+queen in an early stage of the game.} 9. Qa4+ c6 10. cxd5 exd5 11. e3 Bf5 12.
+Bd2 (12. Bd3 {?} Qb6 $15) 12... Nxd2 13. Nxd2 O-O 14. Be2 b5 15. Qb4 Nc4 {
+Black has a strong knight, he's a ready to push a5. Black has an active
+position.}) 8... e5 $5 {although it's a risky move, it may work well 
+(especially in blitz games or against an unprepared opponent).} 9. e3 {this
+defensive move does not create any problems for Black.} (9. dxe5 Bf5 {This is
+the point of Black's sacrifice. He developed a bishop to an active position,
+and now he's threatening a discovered attack Ng3. Of course White can prevent
+it, but in any case Black's superior development can be a menacing factor in
+this open position.}) 9... Bf5 10. Bd3 exd4 11. exd4 O-O 12. O-O Re8 {=}) 6...
+O-O 7. a3 (7. Bd3 Bd6 {! threatening Nb4 fork} 8. a3 dxc4 9. Bxc4 e5 {Usually
+e5-move equalizes a game in this variation.} 10. d5 Ne7 11. e4 Ng6 12. h3 a6
+13. Be3 Nh5 {On the next moves Black can play Nhf4, Qf6, Bd7 with a good
+position.}) (7. Bd2 Bd7 8. Bd3 dxc4 ({alternatively Black can play similarly
+to the previous line} 8... Bd6) 9. Bxc4 Bd6 {preparing e5} 10. O-O e5 $11) 7...
+Bxc3+ 8. Qxc3 a5 {Black is going to fix White's weaknesses by playing a4.} 9.
+b3 Ne4 10. Qc2 Bd7 11. Bb2 f5 {Thanks to his 2 bishops White is slightly
+better. However, Black has a solid position and possibilities for a
+counter-attack (for instance with Rf6-g6).} *
+

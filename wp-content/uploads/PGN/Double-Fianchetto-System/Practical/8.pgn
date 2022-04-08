@@ -1,0 +1,14 @@
+﻿[Event "Freie Presse"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "STOJNIC Dragan"]
+[Black "#2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kN1B/Pp1p2Q1/1p6/4P3/8/8/8/4K2R w Kq - 0 1"]
+[PlyCount "3"]
+[EventDate "2002.??.??"]
+
+1. O-O b5 2. Qxd7# 1-0
+

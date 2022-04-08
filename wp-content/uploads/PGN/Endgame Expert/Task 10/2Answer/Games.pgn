@@ -1,0 +1,699 @@
+[Event "WCC"]
+[Site "?"]
+[Date "2005.12.03"]
+[Round "3.1"]
+[White "Sokolov Iv"]
+[Black "Malakhov V"]
+[Result "0-1"]
+[WhiteElo "2696"]
+[BlackElo "2670"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2q1rk1/3nbppp/b3p3/pp6/3PPB2/3Q4/1P1NNPPP/2R2RK1 b - - 0 20"]
+[PlyCount "75"]
+[EventDate "2005.??.??"]
+[Source "The Week in Ches"]
+
+{Black has 2 bishops and a distant passed pawn on the queen-side. When you
+have stable positional advantages, you should transfer a game into an endgame.
+} 20... e5 21. dxe5 Nxe5 22. Qxd8 Rfxd8 23. Bxe5 Rxd2 {(The black's position
+is winning, because of his positional advantages. You can see that an exchange
+can be a really powerful weapon)} 24. Nf4 b4 {(There are 2 main endgame plans:
+to attack an opponent's weak pawns and to use your passed pawns. Therefore
+black should attack the white's weak pawns b2 and e5; and push his pawn
+majority on the queen-side.)} 25. Rfd1 Rxd1+ 26. Rxd1 Bf8 {(Black is going to
+attack the e4 pawn after Re8)} 27. Nd5 Re8 28. f4 Bb7 {(a rook and a bishop
+have a good harmony and black uses it attack the e4 pawn.)} 29. Kf2 f6 30. Bc7
+Rxe4 31. Bxa5 Rc4 {(Threatening Rc5)} 32. Ne3 Rxf4+ 33. Kg3 Re4 34. Bb6 Re6 35.
+Bd4 Rd6 {(When you have a material advantage you should exchange pieces.
+That's why black is ready to trade the rooks.)} 36. Kf2 Kf7 37. g4 g6 {(the
+"f" pawn has no counterpart and that's why black should move it forward.)} 38.
+h3 Rd7 39. Ke2 Ke6 {(The king should be in a center in an endgame)} 40. Kd3 Bh6
+{(The black's plan is to push the "f" pawn. In an endgame you should not hurry
+up. You should prepare the realization of your plan as good as you can. That's
+why black puts his pieces on the most active squares first of all.)} 41. Re1
+Kf7 42. Ra1 f5 $1 {(When you have a passed pawn, you should always consider
+its advancement)} 43. Kc4 (43. gxf5 $2 Bg7 $19) 43... f4 {(Black got a
+powerful passed pawn)} 44. Nc2 Bd5+ 45. Kd3 (45. Kxb4 $2 Be4 {winning a piece})
+45... Bf8 {In an endgame you should restrict an opponent's counterplay. Often
+it is possible to not to give him any activity.} (45... b3 $6 {gives white
+some activity after} 46. Nb4) 46. Ra7 Rxa7 47. Bxa7 Be7 48. Bf2 g5 {(A
+protected passed pawn gives you a strong and stable advantage, because there
+is no possibility for an opponent to capture this pawn.)} 49. Ne1 Kg6 {(As
+usual, there are 2 plans black should realize here. 1) Move his passed pawn. 2)
+Attack the white's weak pawns. It is difficult to attack the white's pawns
+immediately, so black should weaken them first. Now black is preparing a move
+h5, which will weaken the g4 pawn.)} 50. Bd4 h5 51. Ke2 hxg4 52. hxg4 Bf6 {(A
+side with a material advantage should exchange pieces)} 53. Bxf6 Kxf6 54. Nc2
+b3 55. Nb4 Ke5 56. Nd3+ Kd4 57. Nf2 f3+ 0-1
+
+[Event "Ch Russia (club)"]
+[Site "Sochi (Russia)"]
+[Date "2004.04.22"]
+[Round "3"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Filippov Valerij (RUS)"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2639"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1br2k1/p1q3pp/5p2/nBBp2Q1/P2Pp3/2P5/5PPP/R4RK1 w - - 0 20"]
+[PlyCount "65"]
+[EventDate "2004.??.??"]
+
+{White has a material advantage (a bishop against a knight). When you have
+stable positional advantages, you should go into an endgame.} 20. Qg3 Qxg3 21.
+hxg3 {(In a middlegame black were able to develop an attack on the king-side 
+(f5-f4 etc). In an endgame black has no counterplay and white can realize his
+advantage without any problems.} Bf5 22. Rab1 {(White has no passed pawns. So
+the white's plan is to attack the black's weak pawns a7 and d5. The white's
+bishops are already active. Thus white should activate rooks and start
+attacking the black's pawns then.)} Kf7 23. Rb4 h5 {(A defensive side should
+avoid unnecessary pawn moves in an endgame. You should always remember that an
+opponent's pawn move is creating new weaknesses, which you can attack.)} 24.
+Be2 Kg6 25. Rb5 Nc4 26. Bxc4 dxc4 {(White got a protected passed pawn d5,
+which is a serious advantage in an endgame. Also this exchange closes the "c"
+file and therefore black will not be able to attack the c3 pawn anymore.)} 27.
+a5 {The white's plan is to use the passed pawn (d4) and to attack the black's
+weak pawns a7 and c4. Now white is going to fix the a7 weakness by playing a6.)
+} a6 28. Rb7 Rh8 {(Black is going to play h4 and to try to attack on the
+king-side. Though it is not dangerous for white, white may prevent it. In an
+endgame you can win without any counterplay from the side of your opponent.)}
+29. Re1 Rab8 (29... h4 30. g4 Bxg4 31. Rxe4 Bf5 32. Ree7 $18) 30. Rb6 {(In an
+endgame you should collect stable positional advantages. White wants to get
+the new passed pawn.)} Ra8 (30... Rxb6 31. axb6 $18) 31. d5 h4 32. g4 Bxg4 33.
+Rxe4 Bf5 34. Re3 {(White is preventing h3. It makes sence to rectrict an
+opponent's counterplay, because you will win a game without any risk)} Rh5 35.
+d6 Rg5 36. Bb4 Rh8 37. Kh2 Bd3 (37... h3 38. g3 {and black has no active ideas
+anymore}) 38. d7 $6 (38. Rxa6 $1) 38... Rd8 39. Rd6 Rb5 40. Re8 Rbb8 41. Rxa6
+Rxe8 42. dxe8=Q+ Rxe8 43. Rd6 Re2 44. Bc5 Re5 45. Bb6 Rg5 46. a6 h3 47. g4 {
+(an attacker side should avoid pawn exchanges)} (47. Kxh3 Bf1) 47... Be4 (47...
+Rxg4 48. f3 Rg2+ 49. Kxh3 {and the "a" pawn will go forward}) 48. a7 Bg2 49.
+Kg3 {(You should be very careful with your pawn structure in an endgame. An
+attacker should not lose/trade pawns, he should try to win an opponent's
+material for nothing.)} Be4 50. Kxh3 Rb5 51. Kg3 Rb3 52. Bd4 1-0
+
+[Event "Ch Russia (team)"]
+[Site "Toljatti (Russia)"]
+[Date "2003.??.??"]
+[Round "10"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Filippov Valerij (RUS)"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2609"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/4bn2/8/8/2P2N2/P3PPPP/R3KB1R w KQ - 0 14"]
+[PlyCount "63"]
+[EventDate "2003.??.??"]
+
+14. Nd4 $1 {(In an endgame stable positional factors matter the most. That's
+why white wants to take the bishop and it is a good idea. By the way, in a
+middlegame such a move would be a big mistake (because a dynamics is more
+valuable there.)} (14. e3 Rac8 15. Bd3 (15. Rc1 $6 Bxa2) 15... Rxc3 16. Ke2
+Rfc8 17. Nd4 {=}) 14... Rac8 (14... Bd5 15. f3 Rac8 16. e4 Be6 17. Kd2 {(the
+material is very important in an endgame and certainly white should keep the
+pawn if he can)} Rc5 18. Bd3 $14) 15. Nxe6 fxe6 {(The stable positional
+factors have been changed and white should think about a planning. White has 2
+standard endame plans:  1) Attack an opponent's pawns. The weakest pawn is e6.
+Also white can attack the b7 pawn easily.  2) Use your passed pawns. White has
+a pawn majority on the king-side and the "f" pawn has no counterpart.   Of
+course white should activate his pieces first to realize these plans then.)}
+16. g3 {(the bishop is going to h3 where it will attack the e6 weakness.)} (16.
+e3 $6 Rxc3 17. Be2 Rd8 18. O-O Rd2 19. Bf3 b6 20. Rfd1 Rb2 $40) 16... Rxc3 (
+16... Ne4 $5 17. Bh3 Kf7 18. Bg2 (18. O-O $6 Nxc3 19. e3 Rfd8 $132) 18... Nxc3
+19. Bxb7 Rb8 20. Bf3 Rb2 21. Kf1 a5 22. Kg2 Nxe2 23. Rhd1 {=}) 17. Bh3 Kf7 18.
+O-O Ne4 19. Rfb1 {(It is difficult for white to move his "f" pawn now.
+Therefore white should rather attack black's pawns.)} Nc5 (19... b6 20. a4 {
+and a5 then. That's why white needs a rook on the "a" file.}) 20. Rb2 {(white
+is protecting the 2nd tank to prevent the black's eventual counterplay (Rc2)).}
+Ke7 21. a4 Kd6 22. f4 {(White is fixing the black's weak pawns)} Kc7 23. Bg4 a5
+{(Black is moving a pawn, which is creating new weaknesses. How can white use
+them?)} 24. Rab1 {(White is going to play Rb6 or Rb5)} Rb8 25. Rb6 e5 $2 {(it
+loses material, which is a bad idea in an endgame)} (25... Rc4 $1 26. Bxe6 Rxa4
+$132) 26. fxe5 Rc4 27. Bf5 {(attacking the pawn h7)} Nxa4 28. Re6 {
+(threatening Re7)} Nc3 29. Ra1 {(Everything is quite simple when you know what
+to do. There are only 2 main endgame plans. Therefore you should move your
+passed pawn or attack opponent's pawns.)} (29. Re7+ {!?} Kc6 30. Ra1 Rc5 31.
+Bg4 {with an advantage}) 29... Nxe2+ 30. Kg2 (30. Kf2 $2 {(loses a material)}
+Rf8 31. Kxe2 Rxf5 {=}) 30... Nd4 31. Re7+ Kb6 32. Bxh7 {(winning a material)}
+g5 (32... Nc6 33. Rxg7 Re8 34. h4 {and white will move his pawns forward}) 33.
+e6 {(a passed pawn should go forward)} Rh8 {(black doesn't know what to do)} (
+33... a4 {!}) 34. Rb1+ Rb4 35. Rxb4+ axb4 {(Black had connected passed pawns,
+which are very powerful. That's why white found a way to double these pawns.)}
+36. Be4 Nc6 37. Rg7 {(White just realizes 2 main endgame plans all the time)}
+Re8 38. Bd5 {(an attacker should not exchange pawns, but win them)} Kc5 39.
+Rxg5 Kd6 40. Bb3 {(blocking an opponent's passed pawn. We can see that a
+separate passed pawn can't create serious problems for white)} Ne5 41. h4 Rc8
+42. h5 Rc3 43. Rxe5 Kxe5 44. e7 Rc8 45. Bf7 1-0
+
+[Event "Ch Russia (club)"]
+[Site "Tomsk (Russia)"]
+[Date "2001.??.??"]
+[Round "6"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Shaposhnikov Evgeny (RUS)"]
+[Result "1-0"]
+[WhiteElo "2637"]
+[BlackElo "2542"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4r1k1/1b1nqppp/p4n2/4p3/Np2P3/PP1Q2P1/1B1R1PBP/6K1 w - - 0 29"]
+[PlyCount "71"]
+[EventDate "2001.??.??"]
+
+{White has a stable positional advantages and he should go into an endgame.} 
+29. Qd6 Bxe4 30. axb4 Bxg2 31. Kxg2 Qe6 32. Qxe6 Rxe6 33. Nc5 Nxc5 34. bxc5 {
+(White repaired his pawn structure and got a passed pawn.)} Kf8 35. Rc2 {(A
+rook should stand behind a passed pawn.)} Ke8 36. c6 Kd8 37. Rc5 {(White is
+attacking the pawn and is forcing it to go forward.)} e4 38. Be5 {(the
+centralized bishop controls the whole board and is much more powerful than a
+knight.)} Kc8 39. h3 {(an attacker side often should move pawns in an endgame.
+White is preventing Ng4 move, and is ready to play g4 at some point.)} e3 40.
+f3 {(an attacker side should avoid pawn exchanges)} (40. fxe3 $2 Ne4 41. Rd5 f6
+42. Bd4 Rxc6 $11) 40... e2 41. Kf2 Nh5 42. Bc3 g6 43. Be1 f5 44. h4 {(it is a
+prophylaxis move)} Nf6 (44... f4 45. g4 Ng3 46. Rc4 {and black can't play g5,
+because of the white's h4 pawn}) 45. Ba5 {(white cuts off the black's king)}
+Ng8 46. Rd5 {(threatening Rd8)} e1=B+ 47. Bxe1 Ne7 48. Rd7 Nxc6 49. Rxh7 Nd4
+50. Bc3 Nxb3 51. h5 {(When you have no passed pawns, you should attack the
+opponent's pawns.)} gxh5 52. Rxh5 f4 53. gxf4 Rc6 54. Be5 Nc5 55. Ke3 Kd7 56.
+f5 a5 57. Kd4 Nb3+ 58. Ke4 Rc4+ 59. Kd3 Rc8 60. Rh7+ Kc6 61. Re7 Kd5 62. f6
+Nc5+ 63. Ke3 Nd7 64. f4 1-0
+
+[Event "Ch URS"]
+[Site "Yerevan (Armenia)"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zaitsev Igor A (RUS)"]
+[Black "Taimanov Mark E (RUS)"]
+[Result "0-1"]
+[WhiteElo "2423"]
+[BlackElo "2402"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r1kb1r/1b1p1ppp/p1q1pn2/1p6/3QP3/P1N1B3/1PPRBPPP/2K4R b k - 0 12"]
+[PlyCount "51"]
+[EventDate "1962.??.??"]
+
+{In Sicilian defense it is good for black to go into an endgame. The white's
+advanced pawn e4 is a power in a middlegame and is a weakness in an endgame.} 
+12... Bc5 13. Qxc5 Qxc5 14. Bxc5 Rxc5 {(also black has a suitable square e7
+for his king in Sicilian endgame.)} 15. Bf3 g5 {(Since black has no passed
+pawns, he should attack on opponent's pawns. White has the advanced pawn e4,
+which is the easiest object of an attack. That's why black is going to play
+g5-g4, push away the bishop and capture the e4 pawn.)} (15... Re5 $5 16. Rd6 (
+16. Rhd1 Ke7 17. Rd6 Bc6 18. h4 {=}) 16... Bc6 17. Re1 {?} Ke7 18. Red1 g5 19.
+h3 h5 20. g3 g4 21. Bg2 gxh3 22. Bxh3 h4 $15) 16. Rhd1 (16. h3 a5 {
+(threatening b4, which will attack another defender of the e4 pawn)} (16... h5
+{?!} 17. Rd6 Bc6 18. e5 Bxf3 19. gxf3 Rxe5 20. Rxa6 $132) 17. Rd4 Bc6 (17... e5
+{?!} 18. Rd6 Ke7 19. Rb6 Bc6 20. Rd1 $132) 18. Kd2 e5 19. Rd3 b4 20. Nd5 Bxd5
+21. exd5 O-O $15) 16... h5 {(an attacker side often should advance pawns in an
+endgame. In the currect position is prepares the g4 move.)} (16... g4 {? (it
+doesn't work immediately)} 17. Bxg4 Nxg4 18. Rxd7 Bd5 19. Rd6 Ke7 20. exd5 Rxc3
+21. Rxa6 Rc4 22. dxe6 fxe6 23. Re1 {=}) 17. Rd6 Bc6 {(you should protect
+everything in advance to restrict an opponent's counterplay)} 18. h4 $2 {(it
+loses a material, which is a big mistake in an endgame)} (18. Nd5 $1 exd5 19.
+exd5 g4 {?} (19... Nxd5 20. Bxd5 Rxd5 21. R6xd5 Bxd5 22. Rxd5 Rg8 $14) 20. dxc6
+gxf3 21. cxd7+ Kd8 22. Rxf6 fxg2 23. Rxa6 Ke7 $14) 18... gxh4 $6 {(Generally
+you should take a material in an endgame. However in this position black has
+even more powerful idea)} (18... g4 {!} 19. Be2 Rxc3 {(Since pawn structure
+becomes very important in an endgame, you may often make a positional
+sacrifice to break opponent's pawns.)} 20. bxc3 Nxe4 21. R6d4 Nxc3 {!?} (21...
+e5 {!} 22. Rxe4 Bxe4 23. f3 gxf3 24. gxf3 Bc6 $17) 22. Re1 Bxg2 $17) 19. Rh1 a5
+{(black is still realizing his main plan: the attack of the e4 pawn. He wants
+to push away the knight by playing b4.)} (19... Ke7 {!?}) 20. Rd4 $2 (20. Rxh4
+{! (An endgame master should "First take, and then think.")} b4 21. axb4 axb4
+22. Ne2 Ke7 23. Rd1 Ra8 24. Nd4 {=}) 20... e5 {(it fixes the weak pawn e4 and
+is attacking the rook.)} 21. Rd2 b4 22. axb4 axb4 23. Nd5 Bxd5 24. exd5 Rc4 {
+(in an endgame you should collect stable positional advantages. Therefore
+black certainly should not give up a pawn.)} 25. d6 O-O {(It is never too late
+to make castling! :) Seriously, black should attack the advanced pawn d6 now.
+That's why black wants to transfer the rook to b8-b6.)} 26. Rh3 Rf4 {(the rook
+looks at the f2 pawn, which restricts the white's activity)} 27. Kb1 Rb8 28.
+Ka2 Rb6 29. Kb3 {(Black needs to play Ne8 to attack the d6 pawn. However in
+this case white will take the h5 pawn. An attacker side should not exchange
+pawns, but win them. Therefore black should first protect the h5 pawn.)} Kg7
+30. Rh1 Kg6 31. Ra1 {?} h3 $1 $17 {(black is trading his weak pawn and is
+getting the passed pawn on the "h" file.)} 32. Rg1 Kh6 (32... Kf5 {!?} 33. Be2
+Ne4 34. Bd3 Ke6 35. Bxe4 Rxe4 36. gxh3 Rxd6 37. Rxd6+ Kxd6 $17) 33. Ba8 hxg2
+34. Rxg2 Ne8 (34... h4 {!?}) 35. Rd3 Rxd6 $19 36. Re3 Nc7 37. Bf3 Ne6 0-1
+
+[Event "Championship UKR of men 2006"]
+[Site "Poltava"]
+[Date "2006.11.25"]
+[Round "1.2"]
+[White "Drozdovskij, Yuri"]
+[Black "Lahno, Kateryna"]
+[Result "1-0"]
+[WhiteElo "2561"]
+[BlackElo "2459"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2ppp/2q2n2/4n3/4P3/P4P2/1PQ3PP/R1B1KBNR w KQkq - 0 13"]
+[PlyCount "107"]
+[EventDate "2006.??.??"]
+
+{This game is a good example of a collecting and using stable positional
+advantages in an endgame.} 13. Qxc6+ {(White has a stable positional advantage
+(2 bishops) and therefore he should go into an endgame.)} Nxc6 14. Bf4 {(In an
+endgame we should attack opponent's pawns.)} Nd4 15. O-O-O Ne6 16. Be3 Bd7 17.
+Bc4 a6 18. Ne2 O-O-O {(The white's plan is to use his pawn majority in the
+center and mainly the "e" pawn. As usual we should be very careful with pawn
+moves in an endgame. So white should prepare the pawns advancement very well.
+First, white needs to activate all his pieces.)} 19. Nc3 Bc6 20. Kc2 Rxd1 21.
+Rxd1 Rd8 {(Black thinks that exchanges will lead to a draw. However, it is
+wrong. The exchanges raise the bishops' value.)} 22. Nd5 Bxd5 23. exd5 {(White
+won a material advantage)} Nf8 24. d6 Rxd6 25. Rxd6 cxd6 26. Bxf7 {(Now black
+has a weak pawn d6, which is another white's stable advantage.)} Kd7 27. Ba2
+Ne6 {(The white's plan is to use his pawn majority on the king-side (mainly
+the "f" pawn), and to attack the black's weak pawns (d6, b7).   Bishops work
+well with pawns and are good in open positions. That's why the white's bishops
+are much more powerful than the black's knights.)} 28. g4 h6 29. h4 Ke7 30. b4
+{(Attacker side often should move pawns in an endgame)} Kd7 31. g5 hxg5 32.
+hxg5 Ne8 {(Now the g7 pawn becomes a real weakness)} 33. f4 Ke7 34. f5 Nd8 35.
+Kd3 Nc6 36. Ke4 {(The king should be in a center in an endgame.)} Nc7 37. Bc1
+Kf8 38. Bb2 a5 {(A defensive side should exchange pawns in an endgame)} 39.
+bxa5 Nxa5 40. Bd5 {(The centralized bishop is very powerful, because it
+controls the whole board)} Nc6 41. a4 Na6 42. Ba3 Ke7 43. Bc4 Nc7 44. Kf4 Na5
+45. Bd3 Nc6 46. Bc4 Na5 47. Be2 {(White has a huge positional advantage, but
+there is no direct way for a win. That's why white starts tormenting his
+opponent. White should create simple threats, use different placing of the
+pieces and attack from different directions. It makes the black's situation
+very sad, because he has to stand a passive defense all the time.)} Nc6 48. Ke4
+Nb8 49. Bb2 Kf8 50. Bb5 Nc6 51. Bc3 Kf7 52. Bc4+ Kf8 53. f6 {(White is using
+the suitable moment for this advancement. Black can't really take the pawn.)}
+g6 {(White got a protected passed pawn)} (53... gxf6 54. gxf6 {and then white
+will play Kf5-g6, Bd2-h6.}) 54. Bd5 Na6 55. Bd4 Nc7 56. Bb2 Nd8 57. Bc1 Nce6
+58. Bxe6 Nxe6 59. Kd5 Nc5 60. a5 {(An attacker side should not exchange pawns,
+but win them.)} Nb3 61. Ba3 Kf7 (61... Nxa5 62. Ke6 Nc4 63. Bxd6+ Nxd6 64. Kxd6
+$18) 62. Bb4 Nc1 63. Kxd6 Nd3 64. Bd2 Nf2 65. Kc7 Ne4 66. Be3 1-0
+
+[Event "Tal Mem"]
+[Site "?"]
+[Date "2007.11.12"]
+[Round "3"]
+[White "Kramnik V"]
+[Black "Leko P"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2755"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5bk1/r4ppp/p2np3/3n4/8/1P1N1NP1/P4P1P/2R1B1K1 w - - 0 30"]
+[PlyCount "65"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{The white's plan is to attack the weak pawn a6 and to use his pawn majority
+on the queen-side (the "b" pawn mainly.} 30. Rc6 {(White starts attacking the
+a6 pawn)} Nf5 31. Ba5 {(White has fixed the weakness.)} Ra8 32. Nfe5 {(Now
+white needs to bring the knights closer to the queen-side.)} Nfe7 33. Rd6 Nf6
+34. b4 {(The "b" pawn has no counterpart and therefore it should go forward.
+Also it fixes the a6 weakness even more.)} Ned5 35. Rc6 Be7 36. a4 g6 37. Nc4
+Kf8 38. Nc5 Bxc5 39. bxc5 {(White won a bishop and got a passed pawn. These
+are 2 serious positional advantages.)} Ke8 40. f3 {(It restricts the f6 knight
+and prepares Kf2 move.)} Ng8 41. Nb6 Nge7 (41... Nxb6 $2 42. cxb6 {gives white
+a very powerful passed pawn}) 42. Rd6 Rb8 43. Nxd5 Nxd5 44. Rxa6 {(In an
+endgame you should always take something if you can.)} Rc8 45. Bb6 Nb4 46. Ra7
+Nc6 47. Rb7 Ra8 48. Rc7 Nd4 49. a5 {(The white's passed pawns are very
+powerful and the white's plan is to push them.)} Nxf3+ 50. Kf2 Nxh2 51. c6 Ng4+
+52. Kf3 Nf6 53. Rb7 Nd5 54. Ke4 {(When you know what your plan is, you should
+ask yourself "How should I use my pieces to realize this plan?" The white's
+rook and the bishop are already active. Now white should bring the king
+towards his passed pawns.)} Nb4 55. c7 Rc8 56. Kd4 Kd7 57. Kc5 Nc6 58. a6 h5
+59. a7 f5 60. a8=Q {(When you have a passed pawn, you should always consider
+its advancement.)} Rxa8 61. c8=Q+ Kxc8 62. Kxc6 {A rook and a bishop
+supplement each other very well. That's why white can mate the black's king
+just with a few pieces in this position.} 1-0
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Janowski Dawid M (FRA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r3kb1r/1p2pppp/1pn5/3p1b2/3P4/4PN2/PP1B1PPP/R3KB1R b KQkq - 0 10"]
+[PlyCount "73"]
+[EventDate "1916.??.??"]
+
+10... Bd7 $1 {This paradoxical move is the best practical decision! There are
+a few main arguments here:  1) 10...e6 is not good, because it loses a bishop.
+2) In an endgame you should keep the pieces closely to each other to make them
+more harmonic.  3) Black has no passed pawns. The only possible attacking plan
+for black is to attack opponent's pawns. Probably black will try to attack on
+the queen-side (where he has an open file "a"). Black will also need to push
+the "B" pawn and that's why the bishop should be on d7.} (10... e6 $6 11. Nh4 {
+loses a bishop, which gives white a stable positional advantage.}) 11. Be2 e6
+12. O-O Bd6 13. Rfc1 Ke7 {(The king should be in a center in an endgame.)} 14.
+Bc3 $2 {(White doesn't know what to do. It is a typical situation for most
+players in an endgame.)} ({In an endgame you should attack opponent's weak
+pawns. That's why white should play} 14. Rc3 {with an idea Rb3}) 14... Rhc8 {
+(The black's pieces stand closely to each other and are very harmonic.)} 15. a3
+Na5 16. Nd2 f5 {(Maybe white was threatening to play e4, maybe not. Anyway in
+an endgame you should restrict an opponent's counterplay.)} 17. g3 b5 18. f3
+Nc4 19. Bxc4 $2 {(White is loosing a bishop, which gives black a material
+advantage.)} bxc4 {(Also black repaired his pawn structure. Since stable
+positional factors are the most important thing in an endgame, black has an
+advantage now.)} 20. e4 Kf7 21. e5 Be7 22. f4 b5 {(Black can't attack the
+white's pawns immediately. Therefore black should weaken the white's position
+first. Black can do it by playing b5-b4 and g5.)} 23. Kf2 Ra4 24. Ke3 Rca8 25.
+Rab1 h6 {(In an endgame you should stretch an opponent's defense. That's why
+black is attacking on both flanks.)} 26. Nf3 g5 27. Ne1 Rg8 28. Kf3 gxf4 29.
+gxf4 {(White has the weak pawns h2 and f4, which will be the new objects of
+the black's attack.)} Raa8 30. Ng2 Rg4 31. Rg1 Rag8 32. Be1 b4 {(White doesn't
+have enough pieces to cover both sides of the board. That is the point of the
+principle of 2 weaknesses.)} 33. axb4 (33. Bxb4 Bxb4 34. axb4 h5 {(With an
+idea h4-h3)} 35. Kf2 Rb8 36. b3 c3 37. Rbc1 Rxb4 38. Rxc3 Rxd4 $17) 33... Ba4
+34. Ra1 Bc2 35. Bg3 Be4+ 36. Kf2 h5 37. Ra7 Bxg2 38. Rxg2 h4 39. Bxh4 Rxg2+ 40.
+Kf3 Rxh2 {(An endgame master should "First take, and then think")} 41. Bxe7
+Rh3+ 42. Kf2 Rb3 43. Bg5+ Kg6 44. Re7 Rxb2+ 45. Kf3 Ra8 46. Rxe6+ Kh7 {(White
+has no defense against Ra3 mate)} 0-1
+
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Chajes Oscar (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2450"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r5k1/pp3ppp/2p2b2/3r4/2nN4/2P1B2P/PP3PP1/1R3RK1 b - - 0 21"]
+[PlyCount "121"]
+[EventDate "1918.??.??"]
+
+{This game illustrates the right way of a planning and a schematic thinking.} 
+21... Bxd4 {(This creates the weak pawn on d4, which gives black a stable
+positional advantage.)} (21... Rad8 $5) (21... Nxe3 $5 {(it was good for black
+as well)} 22. fxe3 Re8 $15) 22. cxd4 {(The black's plan is to attack the weak
+pawn d4. First black needs to activate the pieces. The king will go to f7 
+(after the f6 move), rooks will be doubled on the "d" file and the knight will
+go to b5 or f5.} (22. Bxd4 $2 Nd2 $19) 22... Re8 (22... Ra5 $5 {(provoking
+white to move a pawn)} 23. a3 Rb5 24. Rfc1 Nxb2 25. Rc5 Rb6 26. d5 Na4 27. Rcc1
+c5 $15) 23. Rfe1 f6 24. b3 Na3 {(the knight is going to b5)} 25. Rbc1 Kf7 $2 (
+25... Nb5 {!} 26. Red1 Red8 27. Rc4 c5 $17) 26. Red1 Red8 27. Rd2 Nb5 28. Rc4
+Ke6 29. g4 f5 {(White has protected the d4 pawn and therefore black needs to
+create the 2nd weakness in the white's position. However it is difficult to do
+it, because the white's position is quite solid)} 30. f3 Rf8 31. Kg2 f4 32. Bf2
+Rfd8 33. a4 $6 {(In an endgame you should be very careful with pawn moves 
+(especially when you are a defensive side).} Nc7 34. b4 $2 {(An advancement of
+the queen-side pawns is a serious mistake. White is weaknening his position
+and it'll be much simpler for black to create the 2nd weakness now.)} a6 {
+(Fixing the b4 pawn and preventing b5)} 35. Re2+ Kd7 36. Re4 g5 37. h4 h6 38.
+hxg5 hxg5 39. Rc1 a5 {(Black is attacking the white's advanced pawns.)} 40. Rb1
+axb4 41. Rxb4 Kc8 42. Re2 R8d7 43. Rc4 R7d6 44. Rb4 Ne6 45. Re4 {(White is
+keeping the d4 pawn and black should find some more attacking ideas. Black can
+play b5 to create a passed pawn on the "b" file. However we should be very
+careful with pawn moves in an endgame. It means that black should prepare the
+b5 move as good as he can.)} Kb8 {(The black's king is the least active piece
+now. Black wants to transfer it to a6 (or a5) to support the b5 move or to
+attack the a4 pawn.)} 46. Re1 Nd8 47. Re2 Rd7 48. Re1 Ka7 49. Re2 Ka6 50. Re8
+R7d6 51. Re7 b5 52. Re2 Ne6 53. axb5+ cxb5 {(Black has the passed pawn and he
+will certainly push it forward.)} 54. Ra2+ Kb6 55. Rc2 Rd7 56. Rc1 Nd8 {(The
+knight is going to c6. It will attack the d4 pawn and will support his passed
+pawn's advancement.)} 57. Rb2 (57. Rc5 Rxc5 58. dxc5+ Ka5 59. Be1 Ka6 60. Rb2
+Rd1 61. Re2 Nc6 $17) 57... Nc6 58. Rcb1 Ra7 {(Black is always thinking about
+the best squares for his pieces. It is the 2nd step of a planning and it is
+very important.)} 59. Re1 Ra4 60. Re6 Rc4 {(Black has transferred the rook on
+the ideal position: it is very active, it attacks the d4 pawn and supports the
+"b" pawn.)} 61. Rf6 b4 {(Black moves pawns only after a considerable
+preparation. It is an endgame master's style!)} 62. Rf5 Ne7 63. Rf7 Nc8 64. Rf8
+Kb5 {(Black is supporting the "b" pawn advancement.)} 65. Rf6 Rc1 66. Rf5 Nb6 {
+(It makes no sence to take on f5, because it will give white some counterplay.
+In an endgame you should try to win without any risk. It is often possible.)}
+67. Rf7 Nd7 68. Rf5 Rxf5 69. gxf5 Nf6 {(The f5 pawn is blocked and now it is
+rather a weakness.)} 70. Re2 b3 71. Re7 Rc2 72. Rb7+ Kc4 73. Rc7+ Kd3 74. Rb7
+b2 75. Rb4 Nd5 76. f6 Ne3+ 77. Kh3 Rxf2 78. f7 Rxf3+ 79. Kh2 Rf2+ 80. Kg1 Rf1+
+81. Kh2 g4 {All the black's pieces are attacking the white's king. They
+supplement each other very well. White has no defense.} 0-1
+
+[Event "Match"]
+[Site "Habana (Cuba)"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Kostic Boris (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r3k2r/pp1b1pp1/1qnbpn1p/3p4/3P3B/1QP2N2/PP1NBPPP/R4RK1 b kq - 0 11"]
+[PlyCount "87"]
+[EventDate "1919.??.??"]
+
+{Most probably the queens will be exchanged on the next move. Therefore black
+should think about an endgame planning.   When you have an approximately equal
+endgame position, you should collect little positional advantages.} 11... Nh5 {
+(Black wants to exchange one of the white's bishop)} 12. Qxb6 axb6 13. Rfe1 g5
+14. Bg3 Nxg3 15. hxg3 {(black won a bishop and got a stable positional
+advantage)} f6 {(A king should be in a center in an endgame)} 16. g4 Kf7 17.
+Nh2 Na5 18. Nhf1 b5 19. a3 Nc4 20. Nxc4 bxc4 {(Black repaired his pawn
+structure and the b2 pawn became a fixed weakness. When you collect a certain
+number of little positional advantages, your position becomes much better at
+some point. It gives you a possibility to develop a real attacking plan.)} 21.
+Ne3 Ra6 {(In an endgame you should attack opponent's weaknesses.)} 22. g3 Rb6
+23. Ra2 Ra8 24. Bf3 Ra5 25. Kg2 Rab5 26. Re2 Be8 27. Rd2 Kg7 28. Bd1 Bg6 29.
+Ba4 Ra5 30. Bc2 Bxc2 31. Rxc2 Kg6 32. Re2 Rab5 33. Nd1 Bf8 34. Ra1 h5 {(First,
+black exchanges his weak pawn. Secondly black needs to create the 2nd weakness
+in the white's position to stretch an opponent's defense.)} 35. f3 hxg4 36.
+fxg4 f5 37. gxf5+ exf5 {(Now black has a pawn majority on the king-side.)} 38.
+Rc1 Rf6 39. Rcc2 Bd6 40. Re8 Kf7 41. Re1 f4 {(The "F" pawn has no counterpart,
+so it should go forward)} 42. g4 f3+ 43. Kf2 Rh6 44. Kxf3 Rh3+ 45. Ke2 Rh2+ {
+(Black is attacking on both sides of the board and white's can't keep his
+position.)} 46. Nf2 Bg3 47. Rf1 Rb6 48. Kf3 Bh4 49. Re2 Rf6+ 50. Ke3 b5 51. Rd2
+Ke7 {(White can't move his pieces. The black's plan is to bring the king to b3
+and then trade all the pieces by taking the f2 knight.)} 52. b4 cxb3 53. Nd3
+Rxd2 54. Kxd2 (54. Rxf6 Rxd3+ 55. Kxd3 Kxf6 $19) 54... Rxf1 0-1
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1924.??.??"]
+[Round "7"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Yates Frederick"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p4np/pq2p1p1/5p2/2p4P/1NN1P3/PPPQ1PP1/R3K2R w KQ - 0 19"]
+[PlyCount "117"]
+[EventDate "1924.??.??"]
+
+19. Qd4 $1 {(Black has a lot of weaknesses and that's why white should go to
+an endgame)} Qc7 20. Qc5 {!} Qxc5 21. Nxc5 b6 22. N5a4 Rb8 23. O-O-O b5 {
+(Every opponent's pawn move weakens his position)} 24. Nc5 Rb6 {(The white's
+plan is to attack the black's weak pawns. However, the black's weaknesses a6
+and e6 are very close to the black's territory and white can't attack them. In
+such situations you should weaken an opponent's position first.)} 25. a4 {!}
+Nh5 (25... b4 26. a5 {(fixing the weaknesses)} Rc6 27. N3a4 {after that white
+will attack the black's advanced pawns easily}) 26. b3 {!} cxb3 27. cxb3 bxa4
+28. N3xa4 Rc6 {(White has opened a position and now he can attack the a6 pawn
+really.)} 29. Kb2 Nf6 30. Rd2 a5 $2 {(a defenside side should avoid
+unnecessary pawn moves)} 31. Rhd1 Nd5 32. g3 {(The white's plan is still the
+same: white will attack the weak pawns a5 and e6.  To attack the e6 pawn white
+needs to open the "e" file first (by playing e4). In an endgame you should
+prepare the realization of your plan as good as possible. Therefore white
+should place his pieces on the best positions first.)} Rf7 33. Nd3 Rb7 34. Ne5
+Rcc7 35. Rd4 Kg7 36. e4 fxe4 37. Rxe4 Rb5 38. Rc4 $1 {(every exchange
+exchanges an opponent's defender. It is useful to trade the pieces when your
+opponent has a lot of weaknesses.)} Rxc4 39. Nxc4 Bd7 40. Nc3 {!} Rc5 41. Ne4
+Rb5 42. Ned6 Rc5 43. Nb7 Rc7 44. Nbxa5 {(White won a pawn and got a winning
+position. Now the white's plan is to push the "b" pawn and to attack the e6
+weakness. When you know what to do, you should ask yourself "How should I use
+my pieces to realize this plan?")} Bb5 45. Nd6 Bd7 46. Nac4 Ra7 47. Ne4 h6 48.
+f4 {(fixing the weak pawns e6 and g6)} Be8 49. Ne5 Ra8 50. Rc1 Bf7 51. Rc6 Bg8
+52. Nc5 Re8 53. Ra6 Re7 54. Ka3 Bf7 55. b4 {(White moves a pawn last of all.
+It is very instructive. You should place your pieces on the best squares first,
+and only then you may make pawn moves.)} Nc7 56. Rc6 Nb5+ 57. Kb2 Nd4 58. Ra6
+Be8 59. g4 Kf6 60. Ne4+ Kg7 61. Nd6 Bb5 62. Ra5 Bf1 63. Ra8 g5 64. fxg5 hxg5
+65. hxg5 Bg2 66. Re8 {!} Rc7 (66... Rxe8 67. Nxe8+ Kf8 68. g6 $18 {!}) 67. Rd8
+Nc6 68. Ne8+ Kf8 69. Nxc7+ Nxd8 70. Kc3 Bb7 71. Kd4 Bc8 72. g6 Nb7 73. Ne8 {!}
+Nd8 74. b5 Kg8 75. g5 Kf8 76. g7+ Kg8 77. g6 1-0
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1924.??.??"]
+[Round "18"]
+[White "Lasker Edward (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r1r1k1/1p4bp/p3b1p1/3pPp1n/1B1P4/1P3N1P/1P2NPP1/R3R1K1 b - - 0 22"]
+[PlyCount "77"]
+[EventDate "1924.??.??"]
+
+{White is up a pawn and therefore he has an advantage.   Let's think about the
+black's plan. Black should attack the white's weak pawns (d4, b2, b3). Here we
+come to the 2nd step of a planning - "How to use the pieces to realize this
+plan?"  One rook should go on c2 and the rooks should be doubled on the open
+file.  The bishop d7 will be the most active on b5 (Bd7-b5).  The g7 bishop
+should go to h6.  The knight should go to the center. Probably to the g7-e6
+square. Thus it will blockade the e5 pawn.  The black's king should go closer
+to the center.} 22... Rc2 23. Bc3 Bh6 24. g3 Bd7 25. Rad1 Bb5 26. Nc1 Ng7 {
+(everything is very simple when you have a clear plan)} 27. Nh2 Ne6 28. Nd3 {
+(White is threatening Nb4, and it is the only active piece in the white's
+position. Therefore black should exchange it.)} Bxd3 29. Rxd3 {(Black
+activated his pieces and now he can start attacking the white's pawns directly.
+)} Bc1 30. Nf1 Ng5 {(Though black can take the pawn now, it will give white a
+counterplay. In an endgame you should restirct an opponent's counterplay - it
+gives you a strategically winning position.)} (30... Bxb2 $6 31. Bxb2 Rxb2 32.
+Ne3 $132) 31. Kg2 Ne4 {(The f2 pawn is also weak (it is not protected by other
+pawns). So black is attacking it.)} 32. Rf3 Kf7 33. g4 Ke6 34. Ne3 Bxe3 35.
+Rexe3 {(When you exchange an opponent's active pieces, you leave him only the
+passive pieces. And he can't do anything after that.)} Rc8 36. Kf1 b5 {!} 37.
+gxf5+ gxf5 38. Rf4 h5 {(An attacker side usually should move pawns in an
+endgame)} 39. Re2 Rc1+ 40. Re1 Rxe1+ 41. Bxe1 Rc1 42. Rh4 Rb1 43. Rxh5 f4 {! 
+(The king should be centralized. That's why black doesn't want to go back
+after Rh6+. Also black is threatening f3, which will keep the white's king in
+the cage.)} 44. Ke2 f3+ 45. Kxf3 Rxe1 46. Rh6+ $2 {(it allows the black's king
+to go forward. After that all the black's pieces become very harmonic.)} (46.
+Kf4 $1 {following with Rh6 will cut off the black's king and will give white a
+serious counterplay.}) 46... Kf5 47. Rxa6 Ng5+ 48. Kg2 Ne6 49. h4 Re4 50. Rb6
+Rg4+ 51. Kf1 Nxd4 {(An attacker side should not exchange pawns. He should save
+his pawns and win the opponent's pawns for nothing.)} 52. e6 Re4 53. h5 Rxe6
+54. Rb8 Rh6 55. Ke1 Rxh5 56. Kd2 Rh3 57. Rf8+ Ke5 58. b4 Rb3 59. Re8+ Ne6 60.
+f4+ Kf5 0-1
+
+[Event "It"]
+[Site "Lake-Hopatcong (USA)"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Maroczy Geza (HUN)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/1p3p2/p3pq1k/5p1p/2rP1P1P/6Q1/PP1R3K/8 b - - 0 36"]
+[PlyCount "27"]
+[EventDate "1926.??.??"]
+
+{Black has a material advantage and therefore it is good for black to go into
+an endgame.} 36... Qg6 37. Qg5+ Qxg5 38. hxg5+ Kg6 {(The black's plan is to
+attack the weak pawn d4 and to use his passed pawn h5.)} 39. Kg3 Rc6 {(Black
+is transferring the rook to d6 (or d5) to fix the weak pawn. Otherwise white
+can play d5 to exchange it.)} 40. Kf3 Rd6 41. Kg3 f6 {(Black is trading his
+double pawn. In an endgame you should collect little positional advantages.)}
+42. gxf6 Kxf6 43. Kf3 h4 44. Rh2 Rxd4 45. Rxh4 b5 {(To restrict an opponent's
+counterplay you should protect everything in advance. Black is improving his
+pawn structure, so white will not be able to attack it.)} (45... Rd2 {gives
+white a counterplay after} 46. Rh6+ Kg7 47. Rxe6 Rxb2 {An attacker side should
+avoid pawn exchanges, so this variation is not good for black.}) 46. Rh6+ Ke7
+47. Rh7+ Kd6 48. Ra7 Ra4 49. a3 Kd5 {The black's king is going to b3. White
+has no counterplay and he resigned)} 0-1
+
+[Event "It"]
+[Site "Leningrad (Russia)"]
+[Date "1939.??.??"]
+[Round "13"]
+[White "Flohr Salomon M (CZE)"]
+[Black "Bondarevsky Igor Z (RUS)"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3rbrk1/pp4pp/2p5/3pN3/3P1P1q/P1R1Q3/1P2PP1P/5RK1 w - - 0 24"]
+[PlyCount "107"]
+[EventDate "1939.??.??"]
+
+{White has a strong knight e5, while the black's bishop is not very active 
+(because his central pawns are on the same color).  In a middlegame black can
+compensate it by his attack on the king-side. Therefore white should go to an
+endgame.} 24. Qg3 Qxf4 25. Qxf4 Rxf4 26. e3 Rf6 27. Rb3 {(In an endgame you
+should attack opponent's pawns and provoke them to go forward.)} Rb8 (27... b6
+$2 {creates a stable weakness on c6}) 28. f3 {(The white's plan is to attack
+the black's pawns on the open files ("b" and "g") and to use his pawn majority
+in the center (mainly the "e" pawn).} Kf8 29. Kf2 {(The king should be in a
+center in an endgame)} Rh6 30. Kg3 Ke7 31. Rc3 Rd8 32. h4 {(An attacker side
+should advance pawns in an endgame.)} Bd7 33. Rc2 g5 $6 {(Generally a
+defensive side should exchange pawns in an endgame, but the g5 move exchanges
+the white's weak pawn here.)} 34. hxg5 Rh3+ 35. Kg2 Rh5 36. Rh1 Rxg5+ 37. Kf1
+Bf5 38. Rg2 {(black got some counterplay. That's why white needs to exchange
+the black's active rook to restrict an opponent's activity)} Rdg8 39. Rxg5 Rxg5
+40. Kf2 Kf6 41. Rh4 {(The white's main plan is to use his pawn majority in the
+center - i.e. to play e4. However you should prepare pawn moves very well in
+an endgame. You should not hurry up. Improve your position as good as you can
+and only then realize your main plan. It will restrict an opponent's future
+counterplay.)} Rg7 42. b4 Kg5 43. Rh1 Kf6 44. Rh2 Rg5 45. a4 Rg7 46. a5 {
+(Black has a pawn majority on the queen-side. White wants to provoke black to
+play a6. This will fix the black's pawns and will weaken them.)} Rc7 47. Rh6+
+Bg6 48. Rh1 Bf5 49. Rc1 {(White is threatening a6)} a6 {(White got the best
+position he can create and now it is time for white to realize his main plan.)}
+50. Rh1 Rg7 51. Rh2 Rc7 52. Rh6+ {(You see that white still doesn't hurry up.
+When your opponent has no counterplay, you should play slowly and torment him.)
+} Bg6 53. Rh4 Bf5 54. e4 dxe4 55. fxe4 Bg6 {(The position has been changes and
+white should correct his plan. The white's plan is to attack the black's weak
+pawns (b7, h7) and to push his passed pawn (the "e" pawn.)  The 2nd step: "How
+to use the white's pieces to realize this plan?"  The white's king should go
+to the center to support his passed pawns.   The knight will be good on c5.)}
+56. Rf4+ Ke6 {(The position has been changes and white should correct his plan.
+The white's plan is to attack the black's weak pawns (b7, h7) and to push his
+passed pawn (the "e" pawn.)  The 2nd step: "How to use the white's pieces to
+realize this plan?"  The white's king should go to the center to support his
+passed pawns.   The knight will be good on c5.)} 57. Ke3 {(The position has
+been changes and white should correct his plan. The white's plan is to attack
+the black's weak pawns (b7, h7) and to push his passed pawn (the "e" pawn.) 
+The 2nd step: "How to use the white's pieces to realize this plan?"  The
+white's king should go to the center to support his passed pawns.   The knight
+will be good on c5.)} Rg7 58. Nd3 Kd6 59. Nc5 Re7 60. Rf8 Kc7 61. e5 Re8 62.
+Rxe8 Bxe8 63. Kf4 b6 64. Na4 (64. axb6+ $2 Kxb6 {gives black a counterplay and
+certainly white should not go here.}) 64... bxa5 65. bxa5 Bf7 66. Nc5 Bc4 67.
+Kg5 Be2 68. Kh6 Kd8 69. Kxh7 Ke7 70. Kg6 Bf1 71. Kf5 Bh3+ 72. Ke4 Bg2+ 73. Ke3
+Bf1 74. Kd2 Kf7 75. Kc3 Kg6 76. Kb4 Kf5 77. Nb7 1-0
+
+[Event "Moscow"]
+[Site "Москва"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kotov"]
+[Black "Katetov"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3ppp/2p2n2/3p2n1/3P4/2PBP2P/P2N1PPB/1K1R3R w - - 0 1"]
+[PlyCount "47"]
+
+{White has 2 bishops, which determines his advantage.  The white's plan is to
+use his pawn majority in the center (the "e" pawn mainly) and perhaps to
+attack the black's pawn b7 (white can do it easily using the "b" file).} 1. Kc2
+{(White is centralizing the king and is preparing the Rb1 move)} Nge4 2. Nxe4
+Nxe4 3. Rhf1 Bd7 4. Rb1 {(In an endgame you should attack opponent's pawns and
+provoke them to go forward)} b6 5. f3 Ng5 6. Kd2 f5 $6 {(Black wants to
+prevent the e4 move, BUT a defensive side should avoid unnecessary pawn moves.
+The f5 move creates a lot of new weaknesses and white will attack them in the
+future.)} 7. a4 {(After the f5 move the position has been changed and white
+should make corrections in his plan. Now it is difficult for white to play e4.
+However white still should use his pawn majority in the center somehow.
+Therefore white should play g4 to attack the new weakness. As usual you should
+be very careful with pawn moves in an endgame. White should improve his
+position first and only then he may play g4.)} Nf7 8. a5 {(White is forcing
+black to move a pawn, which will create new weaknesses in the black's position.
+)} b5 9. Rf2 h5 $2 {(Black is making the similar mistake again. He is trying
+to stop the g4 move, but in fact he is only weakening his position even more.)}
+10. h4 {(White fixes the black's weaknesses. Otherwise black will play h4 and
+will fix the g2 pawn.)} Re7 11. Bf4 g6 $2 {(A defensive side should avoid pawn
+moves. Black doesn't know this rule and he makes this mistake all the time.)}
+12. g4 $1 {(Now white can make this move without any preparation.)} Kh7 (12...
+hxg4 13. fxg4 fxg4 14. Bxg6 Kg7 15. h5 $16) 13. gxh5 gxh5 {(The black's pawns
+f5 and h5 became real weaknesses. Now black has to pay for his previous
+mistakes.)} 14. Rg2 Rg8 15. Rxg8 {(Every exchange trades an opponent's
+defender. Black has a lot of weaknesses and therefore it is good for white to
+exchange pieces. Black will not have enough defenders to protect all his
+weaknesses then.)} Kxg8 16. Kc2 {(The king works best with pawns. The white's
+king is going to c5, where it will attack all the black's pawns.)} Kh7 17. Rg1
+Re8 18. Kb3 Rc8 19. Kb4 c5+ 20. dxc5 a6 21. e4 {(rooks and bishops need open
+lines)} dxe4 22. fxe4 Rc6 (22... fxe4 23. Bxe4+ Kh8 24. Be3 {with an idea Bd4})
+23. exf5 Rf6 24. Rg6 1-0
+

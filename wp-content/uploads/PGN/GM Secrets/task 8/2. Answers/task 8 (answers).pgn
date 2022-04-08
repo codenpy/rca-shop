@@ -1,0 +1,203 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 1"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r3r2k/7p/2Q2np1/p1N1Nn2/7q/P6P/6PK/4RR2 w - - 0 1"]
+
+1.Rxf5 {%02 (Now black has a choice, so we need to realize the forcing moves for black: Re5, gf, Ng4, Qe1)}
+{%03(Let's find the candidate-moves for white here. First we need to look at the
+moves Qa8, Qe8 and Qf6 quickly. These moves looks bad, but anyway we should
+check ALL the possible fircing moves. You will spend a little time on it, but
+sometimes it will help you to find the winning move. IMPORTANT: you need to
+turn off your critique! And look at ALL the forcing moves! In this position
+these moves don't work.  Next we should calculate Rf5, Ng6, Nf7, Nf3.)}
+gxf5 {%02 (The forcing moves white has here are: Nf7, Ng6, Nf3, g3. It make sense to
+think about every move for a second, while finding the candidate-moves. Because
+sometimes it will help you to realize which move looks the best, so you will calculate it first.)}
+( 1...Qxe1 2.Qxf6+ {%02 it is obviously good for white - white has a material advantage and a strong attack}
+) ( 1...Ng4+ 2.Nxg4 Rxe1 3.Qxa8+ $18 ) ( 1...Rxe5 {%02
+ (the forcing moves for white here: Qa8, Qf6, Re5. But Qa8 certainly looks like
+the best move, because it simply win the rook with check)} 2.Qxa8+
+Kg7 3.Rfxe5 Ng4+ {%02 (we need to calculate till the end of the forcing line)}
+4.Kh1 Nf2+ 5.Kg1 Nxh3+ 6.gxh3 Qg3+ 7.Qg2 $18 ) 2.g3 {%02
+ (AGAIN: you should find ALL the candidate moves for you and for your opponent
+as well. To make it - focus your attention on every single piece and ask
+yourself which forcing moves it can make. Moves candidates for black here: Qg5, Qh6, Rac8, Ng4)}
+( 2.Nf7+ Kg7 {%02 gives nothing for white} ) ( 2.Ng6+ hxg6 {%02 also bad}
+) Rac8 {%02 (Now white has a choice. The forcing moves are: Qc8, Qe8, gh, Nf7)}
+( 2...Qg5 {%02 (or Qh6)} 3.Nf7+ {%02 fork, winning the queen} )
+( 2...Ng4+ 3.Nxg4 {%02 and the black's queen and the rook is under the attack}
+) 3.Qd6 ( 3.gxh4 Rxc6 4.Nxc6 Rxe1 $19 ) ( 3.Qxc8 Rxc8 4.gxh4
+Rxc5 $15 ) ( 3.Qxe8+ Nxe8 ( 3...Rxe8 4.gxh4 $18 ) 4.gxh4 Rxc5
+5.Nf7+ Kg7 6.Rxe8 Kxf7 $15 ) ( 3.Nf7+ Kg7 {%02
+ including of this check doesn't change something really, it is still bad for
+white. When all the forcing moves don't work we should start to think about the
+simple moves. Regarding to the simple moves - white need to move away the queen
+and keep an attack on the f6 knight. So white can simply play Qd6} )
+Rcd8 {%02  (After Qd6, the moves Qg5 and Qh6 are still bad, cause of Nf7 fork. Now white
+has a choice again. The moves-candidates are: Qd8, Nf7, gh)}
+4.Nf7+ ( 4.gxh4 Rxd6 5.Nf7+ Kg7 6.Nxd6 ( 6.Rxe8 Rd2+ 7.Kg3 Nxe8
+$19 ) Rxe1 $19 ) ( 4.Qxd8 Ng4+ ( 4...Rxd8 5.gxh4 $18 ) 5.Kg2
+Qxd8 6.Nf7+ Kg7 7.Nxd8 Rxe1 8.hxg4 fxg4 {%02 and the position is unclear}
+) Kg7 5.Nxd8 Ng4+ ( 5...Rxd8 6.Qe7+ Kg8 7.gxh4 $18 ) 6.Kg2 Qxd8
+7.Qxd8 Rxd8 8.hxg4 $18 {
+ This example shows very well how important to realize all the
+moves-candidates. Using this method we was able to find a lot of sudden moves for both opponents.}
+( 8.Ne6+ $18 ) 1-0
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 2"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/5pk1/3P2p1/p7/P7/Q2p1pP1/2r1qP1P/5RK1 w - - 0 1"]
+
+1.d7 {%03(The moves candidates for white here are: Qa1 (check) and d7 (threatening d8=Q). First we should calculate check.)}
+( 1.Qa1+ f6 2.d7 {%02 (the only attacking move)} Qe7
+( 2...d2 3.d8Q Qxf1+ 4.Qxf1 $18 ) 3.Qd4 {%02
+ (now black has a choice, so we should find the moves-candidates for black. To
+find them - we should focus an attention on the white's territory and think how
+can black bring the pieces on this territory and take something or attack something.)}
+Qe2 {%02 (threatening Qf1 and Rc1 mate. The moves candidates for white here are: Qa1 (it gives a draw) and Rb1)}
+4.Rb1 d2 5.Qxf6+ {%02 (check)} Kxf6 6.d8Q+ Qe7 {%02
+ The position is very complicated with a lot of possible lines. To calculate
+them we need to spend a lot of time. In the situations like this it make sense
+to look at another move-candidate in the initial position first. Probably we
+can win after that move easily and it will make no sense to make the long calculation of another line}
+) Qxf1+ ( 1...d2 {%02 (the moves candidates for white: Qf8, Qa1, d8=Q)}
+2.Qa1+ f6 3.d8Q Qxf1+ 4.Qxf1 {%02 winning} ) 2.Kxf1 d2 {%02 (The moves-candidates are Qf8, Qa1, Qf3, d8=Q)}
+3.Qxf3 ( 3.Qf8+ Kxf8 4.d8Q+ Kg7 5.Qd4+ Kh7 6.Qh4+ Kg8 7.Qd8+
+{%02 with perpetual check} ) ( 3.Qa1+ Kh7 4.Qh8+ Kxh8 5.d8Q+
+{%02 it is the same draw} ) ( 3.d8Q Rc1+ 4.Qxc1 dxc1Q+ 5.Qd1
+Qxd1# ) Rc1+ {%02 (The moves candidates: Kg2, Ke2, Qd1)} 4.Qd1
+( 4.Kg2 d1Q 5.Qxd1 Rxd1 $19 ) ( 4.Ke2 d1Q+ $19 ) Rxd1+ 5.Ke2
+Rb1 ( 5...Re1+ 6.Kxd2 $18 ) 6.d8Q ( 6.Kxd2 Rb8 $19 ) d1Q+ 7.Qxd1
+Rxd1 8.Kxd1 {%02 white is up a pawn in the endgame, so it is winning} 1-0
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 3"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/p4k2/P4p2/2b1p3/4b1N1/1P3qPQ/2r2B1P/5RK1 w - - 0 1"]
+
+1.Nxe5+ {%03
+ (Usually we should think about the position in general first, and then
+calculate the concrete lines. But when you can see the contact between the
+pieces (when they are attacking each other) - you should mainly calculate the
+lines.  This position is certainly tactical. So we should start the
+calculation. The candidate-moves for white here are: Qh5, Ne5, Nh6, Bc5. First
+we will calculate checks, because they are the most forcing moves. Comparing
+Qh5 and Ne5 we should analyze Ne5 first, once again - because it is the most
+forcing move: after that black only can take the knight, while after Qh5 black
+has a lot of possibilities. We are starting from the most forcing move, because it is the simplest way.)}
+fxe5 {%02 (The moves-candidates now are Qd7 and Bc5. Comparing these 2 moves we should
+calculate Bc5 move first, because it is the most logical move: white is winning
+the material, intending to win the black's queen then.)} 2.Bxc5
+( 2.Qd7+ Be7 3.Bc5 Rg2+ 4.Kh1 Rf2+ 5.Kg1 Qg2# ) Rc1 {%02 (The white's move candidates are: Qd7, Qh5, Rc1)}
+( 2...Rg2+ 3.Qxg2 $18 ) 3.Qh5+ Ke6 4.Qxf3 Bxf3 5.Rxc1 $18 {
+ The conclusions: 1. We should calculate the most forcing and logical moves
+first. 2. While finding the moves-candidates it makes sense to think about
+every move for a second. It helps to realize which move looks the best, so you
+will calculate it first. This will help you to save your time.} 1-0
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 4"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2bq1rk1/rp1n1nbp/1Np2pp1/p1P1p3/4P3/5N2/PPQ1BPPP/R1BR2K1 w - - 0 1"]
+
+1.Ng5 {%02 (black has 2 moves: Ng5 and fg)} {%03
+ (The attacking moves are the best. That's why I recommend you to find the
+attacking moves first of all. To make it - you need to focus your attention on
+the opponent's territory of the board and think, how can you transfer your
+pieces onto such territory and take something or attack something. This simple
+idea will help you to find many powerful moves! You should think quickly about
+every possible forcing move on the opponent's territory. Most of them will be
+very bad, so you will not spend a lot of time.  In this position we should first analyze the moves: Nc8, Nd7, Ne5, Ng5.)}
+( 1.Nxc8 Qxc8 {%02 it is already the end of the forcing line. White has an advantage.}
+) ( 1.Nxd7 Bxd7 2.Qd3 Be6 {%02 gives nothing for white} )
+( 1.Nxe5 Nfxe5 {%02 only helps black to be more active} ) Nxg5
+{%02 (Now white has several moves: Nc8, Nd7, Bc4, Bg5. Nc8 and Nd7 removes the
+pressure and only helps black. So white should play Bg5 or Bc4)}
+( 1...fxg5 {%02 (now white has: Nd7, Nc8, Bg4. But according to the general principles we should keep up a pressure. So Bg4 should be better)}
+2.Bg4 {%02 now black cannot do anything really. White will take back the knight on d7 saving a huge advantage in activity}
+( 2.Nxc8 Qxc8 3.Bg4 Rd8 {%02 favor black} ) ( 2.Nxd7 Bxd7 3.Bg4
+Bxg4 4.Rxd8 Rxd8 {%02 black has a material advantage} ) ) 2.Bxg5
+( 2.Bc4+ {%02 is also possible} Nf7 3.Be6 $16 ) fxg5 {%02 (now white has 2 moves: Bc4 and Bg4)}
+3.Bc4+ ( 3.Bg4 {%02 provides the same idea, like Bc4-e6, but allows black to play Rf7. So it is a little worse than Bc4}
+) Kh8 4.Be6 {%02 then white will take the knight d7 and the black's rook a7 is still out of game}
+{As you can see in the hard tactical positions sometimes it is hard to calculate
+all the lines. In this case we should use the general principles to realize
+which moves should be good, so we will focus the attention mainly onto these moves.}
+ 1-0
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 5"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/3nbp1p/p1bp2pB/1p2p2N/6Q1/P7/BPP3PP/R4RK1 w - - 0 1"]
+
+1.Qe6 {%02 (after this move white is winning in all the lines pretty simply)}
+{%03(It is also an example on the topic: finding the moves-candidates. It is very
+important TO TURN OFF YOU CRITIQUE on this stage of thinking. You need to think
+for a second about EVERY forcing (and attacking) move on the opponent's
+territory. One another important rule: in the hard positions (and in the simple
+also :) it is easier to focus an attention on every SINGLE piece every time,
+starting from queen moves, then rook moves, bishops, knights, pawns. For
+example, in this position the first thing you should think about is: "which
+forcing moves I can make with the queen on the black's territory". Then you
+will find the winning move Qe6. And it will be the FIRST move, which you will
+calculate really. While for all other players it will be the LAST move to think about :))}
+fxe6 ( 1...Qe8 2.Bxf8 fxe6 ( 2...Nxf8 3.Qxf7+ Qxf7 4.Rxf7 $18 )
+3.Bxe6+ Kh8 4.Bg7# ) ( 1...Nf6 2.Nxf6+ Bxf6 3.Qxf6 $18 ) 2.Bxe6+
+Rf7 3.Bxf7+ Kh8 4.Bg7# 1-0
+

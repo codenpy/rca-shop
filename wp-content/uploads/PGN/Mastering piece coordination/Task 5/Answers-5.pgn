@@ -1,0 +1,176 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1943.??.??"]
+[Round "6"]
+[White "Botvinnik, Mikhail"]
+[Black "Zagoriansky, Evgeny"]
+[Result "1-0"]
+[ECO "A13"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "1943.??.??"]
+[EventRounds "14"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. Nf3 d5 2. c4 e6 3. b3 Nf6 4. Bb2 Be7 5. e3 O-O 6. Nc3 c5 7. cxd5 Nxd5 8.
+Nxd5 exd5 9. d4 cxd4 10. Qxd4 Bf6 11. Qd2 Nc6 12. Be2 Be6 13. O-O Bxb2 14. Qxb2
+Qa5 15. Rfd1 Rad8 16. Rd2 Rd7 17. Rad1 Rfd8 18. h3 h6 19. Ne5 Nxe5 20. Qxe5 Qc5
+21. Bf3 b6 22. Qb2 Rc8 23. Qe5 Rcd8 24. Rd4 a5 {Diagram #} 25. g4 $1 {
+White has a clear advantage, but it's not obvious how he should continue.
+Unfortunately, he cannot add more presure on d5. In similar situations, you
+need to find the second weakness; and this is what Botvinnik is doing here.
+Black's pieces are busy with the d5-pawn defense and he tries to transfer the
+attack to the kingside.} (25. e4 $6 dxe4 26. Qxc5 bxc5 27. Rxd7 Rxd7 28. Rxd7
+Bxd7 29. Bxe4 $11) (25. a4 $5) (25. Kh2 $5) 25... Qc6 26. g5 hxg5 27. Qxg5 {
+White has continued with his plan. He manages to open the g-line, and next, he
+should transfer his heavy pieces there.} f6 28. Qg6 Bf7 29. Qg3 f5 30. Qg5 {
+White's pieces are standing very actively, and both rooks can join the attack.
+One rook can go to g1 and the other one to h4.} Qe6 31. Kh1 Qe5 32. Rg1 $16 {
+White is attacking the weakness on d5 but, similarly, he is opening the g-line
+in order to attack on the kingside. Please also note that the f5-square is
+weak. Thus, White has a big advantage, and he manages to win the gameafterwards
+.} Rf8 33. Qh6 Rb8 34. Rh4 Kf8 35. Qh8+ Bg8 36. Rf4 Rbb7 37. Rg5 Rf7 38. Qh5
+Qa1+ 39. Kg2 g6 40. Qxg6 Bh7 41. Qd6+ Rfe7 42. Qd8+ 1-0
+
+[Event "Amsterdam Interzonal"]
+[Site "Australia"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Bronstein, D."]
+[Black "Berger, B."]
+[Result "1-0"]
+[ECO "D40"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "43"]
+[EventDate "1964.??.??"]
+[EventCountry "AUS"]
+[Source "ChessBase"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Bd3 dxc4 8.
+Bxc4 c5 9. O-O cxd4 10. exd4 Nb6 11. Bb3 Bd7 12. Ne5 Rc8 13. Qd3 Nbd5 14. Rfe1
+Bc6 15. Qh3 a6 16. Rad1 b5 {Diagram #} 17. Bc2 $1 {White is concentrating all
+of his pieces on the kingside. The isolated queen's pawn (IQP), I mean the
+d5-pawn, is giving him more space and more active pieces. Similarly, the IQP
+is offering a good central control and posibilities to attack on the kingside.
+White brings the most important piece, the c2-bishop, to a better diagonal
+b1-h7.} Qd6 (17... g6 18. Bh6 Re8 19. Nxf7 $1 Kxf7 20. Qxe6#) (17... h6 18.
+Bxh6 gxh6 19. Qxh6 Rc7 20. Rd3 $40 {With a decisive attack.}) (17... Bb7 18.
+Rc1 {
+With the threat to capture on d5, and then, on f6, White has the advantage.})
+18. Nxc6 Rxc6 19. Bxf6 Nxf6 20. Ne4 $18 {This is the key attacking move. White
+is threatening the queen and to eliminate the f6-defender. After that, Black
+is lost.} Qd8 (20... Nxe4 21. Bxe4 $18 {Both the c6-rook and the checkmate on
+h7 are threatening; so, White will win material.}) 21. Nxf6+ Bxf6 22. Qxh7# 1-0
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.10.24"]
+[Round "9"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "1981.10.01"]
+[EventRounds "18"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. Rc1 dxc4 8. e3
+c5 9. Bxc4 cxd4 10. exd4 Nc6 11. O-O {Diagram #} Nh5 $1 {This is a fantastic
+move! When you are playing against the isolated pawn, you need to exchange
+some pieces in order to reduce White's initiative.} (11... b6 $5) 12. Bxe7 Nxe7
+{Black manages to exchange some key attackers, and now, he can blockade very
+well the d4-pawn by controlling the d5-square.} 13. Bb3 (13. d5 $1 {This is
+the only move for a draw. By exchanging the pawns and pieces, the game will
+drive to equality.}) 13... Nf6 14. Ne5 Bd7 {White doesn't have good attacking
+possibilities here and the d4-pawn will be weak forever.} 15. Qe2 Rc8 16. Ne4
+$2 Nxe4 17. Qxe4 Bc6 18. Nxc6 $2 Rxc6 $1 {Black continues blockading the
+d4-pawn. The knight is a better minor piece here; Black has the advantage, and
+he manages to win the game afterwards.} (18... Nxc6 $2 19. d5) 19. Rc3 $6 (19.
+Rxc6 $5 bxc6 20. Rc1 -- 21. Rc4) 19... Qd6 20. g3 Rd8 21. Rd1 Rb6 $1 22. Qe1 (
+22. Bc2 g6) 22... Qd7 $1 23. Rcd3 Rd6 24. Qe4 Qc6 $1 25. Qf4 (25. Qxc6 Nxc6 26.
+d5 Nb4) 25... Nd5 26. Qd2 Qb6 27. Bxd5 $2 (27. a3) 27... Rxd5 28. Rb3 Qc6 29.
+Qc3 Qd7 30. f4 $2 b6 (30... b5 31. Ra3 $1) 31. Rb4 b5 32. a4 bxa4 33. Qa3 (33.
+Qc4 Rc8) 33... a5 $1 34. Rxa4 Qb5 $1 35. Rd2 e5 $1 36. fxe5 Rxe5 37. Qa1 (37.
+Rf2 Re1+ 38. Kg2 Qc6+ 39. d5 $1 Qxd5+ 40. Qf3) 37... Qe8 38. dxe5 Rxd2 39. Rxa5
+(39. Qe1 Qd7 40. e6 fxe6 41. Ra1 Qd4+) 39... Qc6 40. Ra8+ Kh7 41. Qb1+ g6 42.
+Qf1 Qc5+ 43. Kh1 Qd5+ 0-1
+
+[Event "Alekhine Memorial"]
+[Site "Moscow"]
+[Date "1963.??.??"]
+[Round "1"]
+[White "Smyslov, Vassily"]
+[Black "Padevsky, Nikola"]
+[Result "1-0"]
+[ECO "D42"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "1963.10.29"]
+[EventRounds "15"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+cxd4 9. exd4 O-O 10. Re1 Bf6 11. Be4 Nce7 12. Ne5 g6 13. Bh6 Bg7 14. Qd2 Nf6
+15. Rad1 Nxe4 16. Rxe4 Nf5 {Diagram #} 17. Bxg7 {Sometimes, it's okay to
+exchange the attacking pieces with the IQP; especially now, we can say that
+Black's kingside will be more vulnerable because the dark-squared bishop is
+missing. After this exchange, White will manage to push the pawn to d5. I hope
+you had foreseen this before selecting the Bxg7 move.} (17. Bf4 $5) (17. Be3 $2
+b5 $1 18. Nxb5 Bb7 19. Rg4 h5 20. Rg5 Kh7 $17 {With the idea of f6. Black has
+a huge advantage.} 21. -- f6) 17... Kxg7 18. d5 $1 {White successfully opens
+the center when Black's pieces are undeveloped.} exd5 (18... Qb6 19. d6 Rd8 20.
+d7 $18) 19. Nxd5 Be6 20. Qc3 $1 $40 {White has a fantastic control over the
+center, good coordination of his pieces and possibilities to attack the enemy
+kingside. In the light of that, White has a big advantage and attack. He
+manages to win the game afterwards.} Bxd5 (20... f6 21. Nxg6 $3 hxg6 (21...
+Bxd5 22. Nxf8 $18) 22. Rxe6) 21. Nd7+ Kg8 22. Rxd5 Rc8 23. Qd2 Kg7 24. h3 (24.
+Nxf8 $4 Qxd5 25. Qxd5 Rc1+ 26. Qd1 Rxd1+ 27. Re1 Rxe1#) 24... Rg8 25. g4 Nh4
+26. Rf4 Rc4 27. Rxf7+ Kxf7 28. Ne5+ Ke7 29. Qg5+ 1-0
+
+[Event "Amber-rapid 4th"]
+[Site "Monte Carlo"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Lautier, Joel"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2655"]
+[BlackElo "2780"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "94"]
+[EventDate "1995.03.??"]
+[EventType "rapid"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "18"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+f3 d5 9. e3 Nbd7 10. cxd5 exd5 11. Bd3 Re8 12. Ne2 c5 13. O-O Qe7 14. Ng3 Rac8
+15. Bf5 cxd4 16. Qxd4 Rc4 17. Qd2 Nc5 18. Rad1 h6 19. Bxf6 Qxf6 20. Bb1 Ne6 21.
+Ba2 Rc5 22. Ne2 Ba6 23. Rfe1 Bxe2 24. Rxe2 Rd8 25. Qd3 g6 26. Red2 {Diagram #}
+d4 $1 {The breakthrough with the d4 or d5 is a key strategy when you're
+playing with the isolated queen pawn. This break will release your better
+developed pieces and, of course, it will give you more space and freedom to
+develop your plans and attack.} 27. Bxe6 (27. e4 Nf4 $132 {Black watch the
+blocking of the d4-pawn, which is a passed pawn now. The f4-knight is a
+beautiful piece which can help you in the attack and to promote the d4-pawn.})
+27... Qxe6 28. exd4 (28. e4 Kg7 $11) 28... Rcd5 {Black transposes the game and
+White should defend the isolated queen's pawn. Black has a sufficient
+counterplay for the sacrificed pawn.} 29. Qe4 Qf6 30. Kf2 Kg7 31. Rd3 a5 $1 {
+Black starts creating problems in the queenside. He is pressing his opponent
+and, after White's mistakes, he manages to explore them and win the game
+afterwards.} 32. a4 b5 33. b3 bxa4 34. bxa4 Qc6 35. Ra3 Qd6 36. Re3 Qxh2 37. f4
+Qh4+ 38. Kg1 Qf6 39. Red3 h5 40. Qe3 h4 41. Qe4 R8d6 42. R1d2 Rf5 43. Rf3 Re6
+44. Qd3 Rxf4 45. d5 Qa1+ 46. Kh2 Rxf3 47. gxf3 Qe5+ 0-1
+

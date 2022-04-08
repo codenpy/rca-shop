@@ -1,0 +1,35 @@
+[Event "?"]
+[Site "?"]
+[Date "2011.03.04"]
+[Round "?"]
+[White "Classical "]
+[Black "example"]
+[Result "*"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1n1ppp/2n1p3/3pP3/3P4/P1PB1N2/5PPP/R1BQ1RK1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2011.??.??"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+
+1. Bxh7+ Kxh7 2. Ng5+ Kg6 $1 (2... Kg8 $2 3. Qh5 Re8 4. Qxf7+ $1 Kh8 5. Qh5+
+Kg8 6. Qh7+ Kf8 7. Qh8+ Ke7 8. Qxg7#) (2... Kh6 $2 3. Nxf7+ Kh7 4. Nxd8) (2...
+Kh8 3. Qh5+ Kg8 4. Qh7#) 3. h4 $1 (3. Qg4 f5 4. Qg3 Qe7 5. Nxe6+ Kh7) (3. Qd3+
+f5 4. exf6+ (4. Qg3) 4... Kxf6) 3... Rh8 4. h5+ $1 (4. Qd3+ f5 5. exf6+ Kxf6 6.
+Qf3+ Ke7 7. Qf7+ Kd6 8. Qxe6+ Kc7 9. Bf4+) 4... Rxh5 5. Qd3+ f5 6. exf6+ Kxf6
+7. Qf3+ Kg6 8. Qf7+ Kh6 9. Nxe6+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.11.29"]
+[Round "?"]
+[White "Example"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp1bnppp/1q2p3/3pP3/3p4/2PB1N2/P1P2PPP/R2QR1K1 w - - 0 0"]
+[PlyCount "6"]
+
+1. Bxh7+ Kxh7 2. Ng5+ Kh6 3. Qg4 Nf5 *
+

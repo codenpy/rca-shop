@@ -1,0 +1,70 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vienna game"]
+[Black "Base theory"]
+[Result "*"]
+[ECO "C28"]
+[Annotator "RCA"]
+[PlyCount "35"]
+[EventDate "2013.05.07"]
+
+{The Vienna Opening belongs to Open games, where control over the 'a2-g8',
+'a3-f8' and 'h5-e8' diagonals is essential for White. As in Open games (1.e4
+e5), in the Vienna White's basic goals are: (i) To control the 'd5' square; 
+(ii) To play f4 at the appropriate time, in order to open up the 'f' file and
+launch a direct attack; (iii) To play Na4 and eliminate Black's dark-squared
+bishop. Sometimes White plays f4-f5 to gain more space and to limit Black's
+light-squared bishop in active play. White's ideal piece placement in the
+Vienna is Bc4,Nc3,d3, Nf3/Ne2, 0-0, f4,fxe5/ f5 etc...} 1. e4 e5 2. Bc4 $1 {
+Necessary move order to get an ideal Vienna position, while eliminating a
+powerful option for Black. If White plays...} (2. Nc3 {Straight away, then...}
+Nf6 3. Bc4 Nxe4 $1 {Happens and after...} 4. Qh5 (4. Nxe4 d5 $11 {Regaining a
+piece with equality.}) 4... Nd6 5. Qxe5+ Qe7 6. Qxe7+ Bxe7 {Black gets a
+drawish position which is not favourable for White...}) 2... Nf6 (2... Nc6 $5
+3. Nc3 Nf6 4. d3 Bb4 {Transposes to the main line...} (4... Na5 $5 {Transposes
+to the main line... 4..Na5 variation...})) (2... Bc5 $5 {Choice at club level..
+.} 3. Nc3 Nf6 4. d3 d6 (4... Nc6 $5 5. Bg5 {Pinning the knight and preparing
+Nd5 to increase pressure on Black's camp...} h6 {To keep an option to play ..
+g5 after White's tempting Nd5...} 6. Bh4 d6 7. Na4 {Necessary... White is
+aiming for f3,Bf2,Ne2 and d4... but, in the presence of Black's dark-squared
+bishop, his plan is impossible...} Bb6 8. Nxb6 axb6 9. f3 {With continuation
+to his normal plan to lead an active game.}) 5. f4 $5 {Choice of many strong
+GMs... sharp in nature...} Ng4 $5 {Tempting and popular at club level...} (5...
+c6 $5 {The critical test in the variation...} 6. Nf3 $5 b5 7. Bb3 O-O 8. fxe5
+dxe5 9. Qe2 Nbd7 10. Be3 $13 {White eliminates Black's dark-squared bishop
+along the g2-a7 diagonal and is preparing 0-0 with his thematic follow up!}) (
+5... Nc6 $5 6. Nf3 Bg4 7. Bb5 $5 {Preventing Nd4 is necessary...} exf4 8. Bxf4
+O-O 9. Bxc6 bxc6 10. h3 Bxf3 11. Qxf3 {White is ready to complete his
+development by 0-0-0 and to play along the king side thereafter...}) 6. f5 $1 {
+Thematic Vienna manoeuvre... opening the c1-h6 diagonal and provoking Black
+into playing ..Nf2.} Nf2 7. Qh5 {Aiming for Qxf7 mate, thus white uses his
+hidden resources after sacrificing his rook...} g6 $5 {Best alternative for
+Black...} 8. Qh6 $40 {Preparing Bg5/Qg7 with a crushing attack...}) 3. d3 Nc6
+4. Nc3 Bb4 {Preparing d5...} (4... Bc5 5. Bg5 {Transposes to variation shown
+above...}) 5. Nge2 d5 {Black always plays the ideal 'd5' breakthrough whenever
+he gets the opportunity...} 6. exd5 Nxd5 7. O-O {Nice logical way for White to
+solve the pin.} Be6 $5 8. Bxd5 $5 {White make use of Black's 'hanging'
+d5-bishop, allowing White to take the initiative in this position...} Bxd5 9.
+f4 {Thematic breakthrough in the Vienna, in time...} O-O 10. f5 $5 {A
+different positional approach in the Vienna... idea is (i) to create space on
+the king side; (ii) preparing a direct attack with f6.} Bxc3 (10... Bc5+ $5 {
+Possible alternative, to control the long diagonal...} 11. Kh1 f6 12. Nxd5 {
+Eliminating the attacker of the key 'e4' square...} Qxd5 13. Nc3 Qd7 14. Ne4 {
+With a similar attack as in the main line...}) 11. bxc3 f6 {Necessary move...
+to stop White's thematic f6 break!} 12. Ng3 {Knight takes its position and
+clears the important d1-h5 diagonal for its queen to launch the thematic
+Vienna attack...} Qd7 13. Qg4 $5 Kh8 14. a4 {White improves his position with
+every move... Black has not counterplay at all!} b6 15. Ba3 {A thematic Vienna
+piece manoeuvre in the f4-f5 pawn setup... the dark-squared bishop can show
+its strength to maximum effect along the 'a3-f8' diagonal rather than c1-h6...}
+Rfe8 16. Nh5 {Attacking 'g7' and increasing pressure - also clearing the third
+rank for his rook to penetrate along the h-file...} Rad8 {Black is simply
+having to wait, as there is nothing he can to do in this position...} 17. Rae1
+{Eyeing the 'h3' square followed by Qh4 and thus forcing Black to play one of
+his king side pawns to weaken his king position even further...} Rg8 18. Re3
+$40 {Maintaining increasing pressure on Black's camp... White is carrying out
+his plan with every move against Black's stalemate king!! White is clearly
+better - his plan is Rh3,Qh4.} *
+

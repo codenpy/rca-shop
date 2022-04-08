@@ -1,0 +1,48 @@
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.01.13"]
+[Round "5.7"]
+[White "Averkamp Peters, Jens"]
+[Black "Boelker, Franz"]
+[Result "1-0"]
+[ECO "B53"]
+[WhiteElo "1908"]
+[BlackElo "1795"]
+[PlyCount "55"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Rheine Klein Berlin"]
+[BlackTeam "Raesfeld Erle"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Bc4 Nf6 5. O-O Qc7 6. Qxd4 Nc6 7. Qd3 e6 8.
+Nc3 a6 9. a3 Be7 10. b4 O-O 11. Bb2 b5 12. Bb3 Bb7 13. h3 Rfd8 14. Rad1 Rac8
+15. Qe3 h6 16. Ne2 {Diagram #} Nd7 (16... d5) (16... Ne5 17. Nxe5 dxe5) (16...
+a5 17. c3 (17. bxa5 Nxa5)) 17. Nfd4 Nf8 18. Qg3 Ne5 19. f4 Neg6 20. f5 $40 exf5
+21. exf5 Bh4 22. Qg4 h5 23. Qxh5 Qe7 24. fxg6 Qe3+ 25. Kh2 Qe5+ 26. Qxe5 dxe5
+27. Bxf7+ Kh8 28. Rf5 1-0
+
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "3.1"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteElo "2861"]
+[BlackElo "2774"]
+[PlyCount "61"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Re8 8.
+Bd2 b6 9. O-O Bd6 10. Rc1 c5 11. Nb5 Bf8 12. f3 Nc6 13. Kh1 Bb7 14. a3 g6 {
+Diagram #} 15. Bb1 Rc8 16. Ba2 a6 17. Nbc3 Bg7 18. dxc5 bxc5 19. Be1 d4 20. Na4
+(20. exd4 cxd4) 20... Nd7 21. Bxf7+ $1 Kxf7 22. Qb3+ Kf8 23. Qxb7 Rxe3 24. Ng3
+Nce5 25. Bd2 Rd3 26. Ne4 Rb8 27. Qd5 Rxd2 28. Nxd2 Nd3 29. Rc2 Qe7 30. Ne4 Nf4
+31. Qc4 1-0
+

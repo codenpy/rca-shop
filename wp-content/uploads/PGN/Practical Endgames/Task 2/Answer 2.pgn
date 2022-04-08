@@ -1,0 +1,112 @@
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.03"]
+[Round "1.11"]
+[White "Ding Liren (CHN)"]
+[Black "Haddouche Mohamed (ALG)"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2777"]
+[BlackElo "2487"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "91"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Nf3 Bg7 6. Qb3 Qb6 7. Nc3 O-O 8. O-O
+Rd8 9. Bd2 Be6 10. Na4 Qxb3 11. axb3 Na6 12. Rfc1 Ne8 13. e3 h6 14. Ba5 Rdc8
+15. Nd2 Nec7 16. Bf1 Bd7 {Diagram #} 17. Bxc7 $1 {In this position, White has
+a small advantage because he started an attack on the queenside. Black is
+waiting passively and he tries to hold the position. I hope that you can
+calculate correctly the series of forcing exchanges which may give White a
+clear advantage.} Rxc7 (17... Nxc7 18. Nc5 $16 {
+White threatens the d7-Bishop and the b7-pawn.}) 18. cxd5 cxd5 19. Bxa6 Rxc1+
+20. Rxc1 bxa6 21. Rc7 $16 {Here White has a clear advantage because the a7-
+and a6-pawns are doubled. Indeed, White also has doubled pawns on the b-line,
+but the d2-knight is offering a fantastic protection to them. White's rook is
+extremely active because it's pressing the a7-pawn and also everything on the
+7th rank.} Bxa4 22. bxa4 e5 23. dxe5 Bxe5 24. Rb7 {White's advantage is
+obvious because Black has two weaknesses, the a-pawns and d5.} Rb8 25. Rxa7 Rb6
+(25... Rxb2 26. Nf3 Bc3 27. Rxa6 $16 {
+White has material advantage and his position is close to winning.}) 26. a5 Rc6
+27. Rb7 Rc2 28. Nf3 Rxb2 29. Ra7 {Black gave up the pawn temporarily in order
+to activate his pieces and then he took it back. However, now he cannot
+protect the a6-pawn.} Bc3 30. Rxa6 Kg7 31. Rb6 Ra2 32. a6 Ra4 33. Kg2 Ra2 34.
+g4 $1 $18 Ra4 35. Kg3 Ra3 36. Kg2 Ra4 37. h3 Ra2 38. h4 Ra4 39. g5 hxg5 40.
+hxg5 Ra2 41. Rc6 Ra3 42. Rc7 Ba5 43. Rb7 Bc3 44. a7 Ba1 45. Nd4 Bxd4 46. exd4
+1-0
+
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.06"]
+[Round "9.22"]
+[White "Le Quang Liem (VIE)"]
+[Black "Vidit Santosh Gujrathi (IND)"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2739"]
+[BlackElo "2702"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "140"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 8. e3
+Bf5 9. Qb3 Bxc3+ 10. Qxc3 Nbd7 11. Be2 c6 12. Nd2 Ne4 13. Bxd8 Nxc3 14. bxc3
+Rfxd8 15. f3 c5 16. Kf2 Rac8 17. Rhc1 Rc7 18. e4 dxe4 19. fxe4 Bg6 20. Bf3 Ne5
+21. Ke3 Nc6 22. Nb3 cxd4+ 23. cxd4 Re7 24. g4 f6 25. Re1 Bf7 26. Rad1 Nb4 27.
+Rd2 Rc7 28. Kf2 Nxa2 29. d5 Nc3 30. Nd4 Rc4 31. Re3 Be8 32. Bg2 Nb5 33. Nxb5
+Bxb5 34. Bf1 Rc5 35. Bxb5 Rxb5 36. Rc3 Rd7 37. Ke3 Kf7 38. Rdc2 {Diagram #} a5
+$1 {Black is better because the pawn on e4 is weak and he has two connected
+passed pawns on the queenside. In this position, Black has a clear plan, to
+push the a-pawn and attack on e4. White has to defend in two points: he should
+blockade Black's queenside pawns and also defend his weakness on e4, and maybe,
+on g4. White should try to keep all the pieces on the board in order to
+complicate the position: This strategy can give him the best practical chances.
+} 39. Rc7 (39. Kd4 $1 a4 40. Ra2 Ra5 41. Kc4 Re7 $1 $15) 39... Ke7 40. Rc8 a4
+41. Ra8 Rb4 42. Kd3 Rd8 43. Ra7 Kd6 $1 {
+Black has a winning advantage that he manages to convert afterwards.} 44. Rc4
+Rxc4 45. Kxc4 Ke5 46. Rxb7 Ra8 47. Rb2 a3 48. Ra2 Kxe4 49. d6 Ke5 50. Kc5 Rc8+
+51. Kb4 Kxd6 52. Rxa3 Rc7 53. Re3 Kd5 54. h3 g6 55. Re8 f5 56. Rg8 Rc6 57. Kb5
+Rf6 58. gxf5 gxf5 59. Rd8+ Ke4 60. Re8+ Kf3 61. Kc4 Rd6 62. Kc5 Rd1 63. Rh8 f4
+64. Rxh6 Kg3 65. Rg6+ Kxh3 66. Rf6 Kg3 67. Rg6+ Kf2 68. Kc4 f3 69. Kc3 Kf1 70.
+Kc2 Rd5 0-1
+
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.16"]
+[Round "32.2"]
+[White "So Wesley (USA)"]
+[Black "Fedoseev Vladimir (RUS)"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2810"]
+[BlackElo "2731"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "165"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Nbd2 Bf5 9. Re1 Nxd2 10. Qxd2 Bxd3 11. Qxd3 O-O 12. c3 Qd7 13. Bf4 a6 14. Re2
+Rae8 15. Rae1 Bd8 16. Nd2 Rxe2 17. Qxe2 a5 18. Nb3 b6 19. Nc1 f6 20. a4 Ne7 21.
+Nd3 g5 22. Bc1 Ng6 23. b3 Be7 {Diagram #} 24. h4 $5 {White has a small plus
+because he controls the open e-line. Black doesn't have any particular
+weakness, but his pieces cannot find active spots. So, the plan is to transfer
+the position to the endgame, by exchanging the queens, in order to enter
+Black's camp. White sacrifices a pawn to create weaknesses on Black's camp.} (
+24. f4 $5) 24... gxh4 (24... h6 25. h5 Nh8 26. Qxe7 $18) 25. Nf4 {Black was for
+ced to capture on h4 because White was threatening h5. The e7-bishop is now
+very well protected, so White would like to destroy Black's pieces
+coordination.} Rf7 26. Qe6 Qxe6 27. Rxe6 {Black has at least two weaknesses.
+The main weaknesses are on f6 and d5, thus it is difficult for Black to defend.
+} Nxf4 28. Bxf4 Bd8 29. b4 $1 {Now the two weaknesses are on f6 and c7.
+Black's pieces are defending them successfully, but they are tied to defend
+very passively. White would like to create an outside passed pawn. So, he
+manages to win the game at the end.} Kg7 30. bxa5 bxa5 31. Ra6 c6 32. Rxc6 Kg6
+33. Rc5 Rd7 34. f3 Kf5 35. Bd2 Ke6 36. Rc6+ Kf5 37. Be1 Kg5 38. Rc5 f5 39. Kh2
+Kh5 40. Bf2 Rd6 41. Be3 Bb6 42. Rb5 Bd8 43. Bf4 Rd7 44. Be5 Kg5 45. Rc5 f4 46.
+Rc6 Kf5 47. Ra6 Kg5 48. Kh3 Kf5 49. Rc6 Kg5 50. Re6 Be7 51. Rc6 Bd8 52. Bd6 Kf5
+53. Kh2 Rg7 54. Be5 Rd7 55. Rd6 Rxd6 56. Bxd6 Kg5 57. Kg1 Kf5 58. Kf2 Kg5 59.
+Kf1 Kf5 60. Ba3 Ke6 61. Ke2 Kf5 62. Bc1 Kg5 63. Kf1 Bc7 64. Bd2 Bd8 65. Be1 Kf5
+66. Ke2 Ke6 67. Kd3 Kd7 68. c4 Kc6 69. Bc3 Bb6 70. Bb2 Bd8 71. Bc1 Bc7 72. Bd2
+h5 73. Bc3 Bb6 74. Bb2 Bc7 75. Ba3 Bd8 76. Bf8 Bg5 77. Bg7 Kd6 78. Be5+ Kc6 79.
+Kc3 Bh6 80. Bf6 Bf8 81. Kd3 h3 82. gxh3 Bd6 83. Be5 1-0
+

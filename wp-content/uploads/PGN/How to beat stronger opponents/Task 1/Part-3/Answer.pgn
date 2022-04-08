@@ -1,0 +1,883 @@
+[Event "ARM-ch 66th"]
+[Site "Yerevan"]
+[Date "2006.03.22"]
+[Round "7"]
+[White "Yegiazarian, Arsen"]
+[Black "Asrian, Karen"]
+[Result "0-1"]
+[ECO "A32"]
+[WhiteElo "2531"]
+[BlackElo "2646"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2rq1rk1/pb3ppp/1p1bpn2/2n5/2BN4/P1N1P3/QP3PPP/2RRB1K1 b - - 0 16"]
+[PlyCount "37"]
+[EventDate "2006.03.16"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+
+16... Bxh2+ $1 {In the position on the diagram, Black has a winning
+combination. All his pieces are aiming at White's king, which doesn't have
+enough defenders.} 17. Kxh2 Ng4+ 18. Kg1 Qh4 19. b4 Qh2+ 20. Kf1 Qxg2+ 21. Ke2
+Nd7 {Black sacrificed a piece for two pawns and now White's king runs through
+the board. Black is close to winning here.} 22. Kd2 Nxf2 23. Bxf2 Qxf2+ 24. Be2
+$19 {Black takes the third pawn and White's king will be in danger until the
+end of this game. The position is completely winning for Black and he manages
+to win it at the end. Nice example of a classical bishop sacrifice.} Ne5 25.
+Rf1 Qh2 26. Ncb5 Bd5 27. Qb1 Nc4+ 28. Rxc4 Rxc4 29. Nc3 Rxc3 30. Kxc3 e5 31.
+Nf5 Qxe2 32. Ne7+ Kh8 33. Rd1 Qc4+ 34. Kd2 Bf3 0-1
+
+[Event "FIDE-Wch"]
+[Site "San Luis"]
+[Date "2005.10.13"]
+[Round "13"]
+[White "Anand, Viswanathan"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2788"]
+[BlackElo "2707"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "1rb2rk1/4bppp/p1q1p3/1p1pP3/2nB1P2/P1NB4/1PP1Q1PP/2KR1R2 w - - 0 19"]
+[PlyCount "17"]
+[EventDate "2005.09.28"]
+[EventRounds "14"]
+[EventCountry "ARG"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+
+19. Bxh7+ {Diagram# The position on the diagram is unclear. There are attacks
+going on both flanks. White starts an attack on the kingside and Black on the
+queenside. White here strikes first with a bishop sacrifice on h7.} Kxh7 20.
+Qh5+ Kg8 21. Rd3 {Now it looks like the position is winning for White, but
+Black finds some nice resources to save the game.} f5 $1 22. Rh3 Bc5 $1 {Black
+clears the 7th rank and the e7-square for a potential run with the king.} 23.
+Rff3 Bxd4 24. Rfg3 Rb7 25. Qh7+ Kf7 26. Qxg7+ Ke8 27. Qxf8+ $11 {And the
+players agree to a draw because of the perpetual checks. Nice example of
+attack and defense with a fair result.} 1/2-1/2
+
+[Event "Minneapolis HB Global op"]
+[Site "Minneapolis"]
+[Date "2005.05.20"]
+[Round "4"]
+[White "Fridman, Daniel"]
+[Black "Del Mundo, Anton"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2562"]
+[BlackElo "2264"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r3rbk1/1qn2ppp/3n4/p7/Pp1Q3B/3B1N2/1P3PPP/R2R2K1 w - - 0 25"]
+[PlyCount "7"]
+[EventDate "2005.05.18"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+25. Bg3 Rad8 {Diagram#} 26. Bxh7+ $1 {Black's pieces are too far from a black
+king which is a clear target for White's pieces. Now White launches a deadly
+attack on the black king with a classical bishop sacrifice.} Kxh7 27. Qh4+ Kg8
+28. Ng5 $18 {And Black resigns because of the mate on h7.} 1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1999.01.29"]
+[Round "11"]
+[White "Shirov, Alexei"]
+[Black "Reinderman, Dimitri"]
+[Result "1-0"]
+[ECO "B46"]
+[WhiteElo "2726"]
+[BlackElo "2542"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "1rb2rk1/2q2ppp/p1n1p3/3pP3/P4P2/bP1BB3/2RN1QPP/5RK1 w - - 0 21"]
+[PlyCount "47"]
+[EventDate "1999.01.16"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+21. Nf3 Qd7 {Diagram#} 22. Bxh7+ $1 {With the last Qd7 move, Black makes a
+mistake and allows White's nice bishop sacrifice on h7.} Kxh7 23. Qh4+ Kg8 24.
+Ng5 Re8 25. Rf3 $1 {Nice silent move, after which, the position is winning for
+White. White prepares a mate for Black's king.} Ne7 26. Qh7+ Kf8 27. Qh8+ Ng8
+28. f5 exf5 29. e6 fxe6 30. Rg3 {White opens the position of the exposed
+Black's king. White is winning.} g6 31. Nh7+ Kf7 32. Bh6 Ke7 33. Bg5+ Kf7 34.
+Bf6 $1 {White slowly improves the position of all his pieces. Black is without
+any moves, completely paralyzed.} Rf8 35. Rc7 $1 {And the winning blow.} Nxf6
+36. Qxf6+ Ke8 37. Qxg6+ Kd8 38. Rxd7+ $18 {White wins the game after a few
+moves. It's a great example of a slow and powerful attack.} Bxd7 39. Nxf8 Bxf8
+40. Qf6+ Be7 41. Rg8+ Kc7 42. Qc3+ Kb7 43. Rxb8+ Kxb8 44. h4 1-0
+
+[Event "EU-ch 6th"]
+[Site "Warsaw"]
+[Date "2005.06.27"]
+[Round "9"]
+[White "Fressinet, Laurent"]
+[Black "Halkias, Stelios"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2638"]
+[BlackElo "2549"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r4rk1/1p2nppp/q1b1n3/2bpP1B1/p7/P1N2N2/1PB2PPP/2RQ1RK1 w - - 0 18"]
+[PlyCount "27"]
+[EventDate "2005.06.18"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+18. Bxe7 Bxe7 19. Nxd5 Bc5 {Diagram#} 20. Bxh7+ $1 {After the last black move,
+Bc5, White finds a nice blow and wins the game. In the position, all White's
+pieces are playing on the kingside, while all Black's pieces do nothing to
+defend the exposed king.} Kxh7 21. Rxc5 $1 {White wants to remove the last
+black defender, the knight on e6.} Rfd8 22. Ng5+ Kg8 23. Qh5 $1 {Now all
+White's pieces attack Black's king.} Bxd5 24. Qxf7+ Kh8 25. Qh5+ Kg8 26. Rxd5
+Nxg5 27. Rxd8+ Rxd8 28. Qxg5 $18 {Black manages to defend the king, but White
+gets a huge material advantage and wins the game in the next few moves. Nice
+example of attack on the opponent's king.} Qb6 29. Re1 Rf8 30. Qd2 Rd8 31. Qc3
+1-0
+
+[Event "Nice"]
+[Site "Nice"]
+[Date "1930.??.??"]
+[Round "9"]
+[White "Colle, Edgar"]
+[Black "O'Hanlon, John"]
+[Result "1-0"]
+[ECO "D05"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pp1n1ppp/3bp3/2p5/3PB3/2P2N2/PP3PPP/R1BQR1K1 b - - 0 11"]
+[PlyCount "18"]
+[EventDate "1930.??.??"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+11... cxd4 {Diagram#} 12. Bxh7+ $1 {Here we can see, once again, the great
+attacking idea with the sacrifice of the bishop on h7. Both white bishops, the
+knight, the queen and the rook have the potential to attack the exposed black
+king. With the next move, Bxh7, White will get the opponent's king out of the
+safety and launch a great attack.} Kxh7 13. Ng5+ Kg6 14. h4 $1 {Black's king
+is out. White just needs to defend the knight and start the hunt on Black's
+king.} Rh8 15. Rxe6+ $1 {White sacrifices even the rook. He attacks with all
+his weapons.} Nf6 16. h5+ Kh6 17. Rxd6 Qa5 18. Nxf7+ $18 {White wins the game
+in the next few moves. Incredible attack from White.} Kh7 19. Ng5+ Kg8 20. Qb3+
+1-0
+
+[Event "Asia-ch 5th"]
+[Site "Hyderabad"]
+[Date "2005.10.10"]
+[Round "5"]
+[White "Rohit, Goginenni"]
+[Black "Saravanan, Venkat"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2401"]
+[BlackElo "2347"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "rr4k1/2q1bppp/1n1p4/3P2P1/pp1N1Q1P/3B4/PPP5/1K1R3R b - - 0 22"]
+[PlyCount "14"]
+[EventDate "2005.10.05"]
+[EventRounds "9"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+22... a3 {Diagram#} 23. Bxh7+ $1 {A very important position to understand the
+power of the bishop sacrifice. Both White's and Black's kings are exposed and
+it looks like the position is very unclear, but that is not the truth. The
+side who first strikes and opens the position of the opponent's king will get
+the advantage and a mating attack. With the sacrifice of the bishop on h7,
+White strikes first and manages to get a big attack on the black king.} Kxh7
+24. Qxf7 Nxd5 25. Qxd5 Ra5 26. Qe4+ Kh8 27. Ne6 Qb7 28. Qg6 $18 {White is
+completely winning. Black's king is without defense and White manages to win
+in the next few moves. A nice example of the classical bishop sacrifice.} Bf8
+29. Rhf1 1-0
+
+[Event "Friendly Game, 3m"]
+[Site "Main Playing Hall"]
+[Date "2011.10.22"]
+[Round "?"]
+[White "Burgija 18"]
+[Black "Kesaris"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1817"]
+[BlackElo "2163"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "42"]
+[EventDate "2011.11.24"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 O-O 12. Ng3 Qc7 13. Bg5 Bd7 14. Bxf6 Rxf6 {
+Diagram #} 15. Bxh7+ $2 {In the position on the diagram, White sacrifices the
+bishop on h7 for a potential attack. This is not good here because White
+doesn't have enough pieces to start a hunt on Black's king.} Kxh7 16. Ng5+ Kg8
+17. Qh5 Rh6 18. Qf7+ Kh8 {Now it's clear that White can't mate Black's king.
+The next move will be Rf8 and Black will push White's pieces back.} 19. Qf3 Rf8
+20. Nf7+ Rxf7 21. Qxf7 Nxd4 $19 {And White resigns. A great example of when
+not to sacrifice the pieces.} 0-1
+
+[Event "Hastings sim"]
+[Site "Hastings"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Blackburne, Joseph Henry"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C14"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp1bppp/2n1p3/3pP3/3P4/2NB1N2/PPP2PPP/R2QK2R w KQ - 0 9"]
+[PlyCount "17"]
+[EventDate "1894.??.??"]
+[EventRounds "1"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+9. h4 f6 10. Ng5 fxg5 {Diagram#} 11. Bxh7+ $2 {Another example of a bad bishop
+sacrifice. Here this is wrong because, once again, there are not enough pieces
+in play for such an attack.} Kxh7 12. hxg5+ Kg8 13. Rh8+ Kxh8 $4 {And now an
+incredible mistake in an almost winning position. Kf7 here is close to winning
+for Black.} 14. Qh5+ Kg8 15. g6 Rf5 16. Qh7+ Kf8 17. Qh8# {Nice mate at the
+end of the game.} 1-0
+
+[Event "Friendly game"]
+[Site "Main Playing Hall"]
+[Date "2014.12.16"]
+[Round "?"]
+[White "Kesaris, Angelos"]
+[Black "Kalomoiris, Thanasis"]
+[Result "1-0"]
+[ECO "B13"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2qppp/2n1p3/2n1P3/3p1P2/2P3B1/PPBNQ1PP/R4RK1 w - - 0 16"]
+[PlyCount "9"]
+[EventDate "2013.08.25"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+16. Bxh7+ $3 {Diagram# Classical bishop sacrifice. White sacrifices the piece
+to attack the black king.} Kxh7 17. Qh5+ Kg8 18. Bh4 $1 Qc7 19. Bf6 $3 {Now
+White sacrifices even the second bishop. Great game with a double bishop
+sacrifice. It's important to understand that not a single black piece is
+defending the king.} dxc3 20. Qg5 $1 $18 {And Black resigns because of the
+mate in the next move. Incredible attack from Angelos!} 1-0
+
+[Event "FRA-chT Top 16 GpB"]
+[Site "Gonfreville"]
+[Date "2006.03.31"]
+[Round "5"]
+[White "Skripchenko, Almira"]
+[Black "Colin, Serge"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "2461"]
+[BlackElo "1957"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "39"]
+[EventDate "2006.03.03"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 {Diagram#} 6. Nxf7 $1 {
+This is the typical piece sacrifice. In the position on the diagram, with a
+well-known opening, Black makes a blunder in the last move and now White
+attacks Black's king and combines an attack on the loose piece, the knight on
+d5. The position is winning for White here.} Kxf7 7. Qf3+ Qf6 8. Bxd5+ $18 {
+White gets the sacrificed piece back. She takes the pawn and Black's king is
+in the middle of the board. White is winning here.} Be6 9. Bxe6+ Kxe6 10. Qb3+
+Kd7 11. O-O Rb8 12. c3 Bd6 13. d3 h6 14. Nd2 Qe6 15. Qxe6+ Kxe6 16. Ne4 Be7 17.
+Be3 b6 18. f4 Kd7 19. fxe5 Nxe5 20. Bf4 1-0
+
+[Event "Kimry-ch"]
+[Site "Kimry"]
+[Date "2005.01.??"]
+[Round "2"]
+[White "Iksanov, Ilja"]
+[Black "Moiseev, Alexander"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "2176"]
+[BlackElo "2038"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "41"]
+[EventDate "2005.01.??"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 $1 {It's the
+same scenario as in the previous game with one difference. Here Black wants to
+defend the knight on d5. Nevertheless, he is lost here. Now his king will be
+stuck in the middle of the board.} Kxf7 7. Qf3+ Ke6 8. Nc3 Ncb4 9. Qe4 $1 {
+Nice picture! All White's pieces are in the center and attack Black's king and
+the knight on d5.} c6 10. a3 Na6 11. d4 $1 {White only needs to open the
+position in order to mate Black's king.} Qf6 12. Nxd5 cxd5 13. Qxd5+ Ke7 14.
+dxe5 $18 {White breaks Black's defense and wins this game in the next few
+moves. A great school example of a piece sacrifice in a well-known position.}
+Qe6 15. Bg5+ Kf7 16. Qf3+ Kg6 17. Bxe6 Bxe6 18. h4 Bc5 19. Qxb7 Bc4 20. b3 Rab8
+21. Qe4+ 1-0
+
+[Event "YUG-ch"]
+[Site "Zagreb"]
+[Date "1953.??.??"]
+[Round "16"]
+[White "Bogdanovic, Rajko"]
+[Black "Puc, Stojan"]
+[Result "1-0"]
+[ECO "C41"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "69"]
+[EventDate "1953.??.??"]
+[EventRounds "17"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 h6 5. dxe5 dxe5 {Diagram#} 6. Bxf7+ $1 {A
+great example of a piece sacrifice before the opponent manages to develop his
+pieces. Here Black is behind in development and White sacrifices the piece for
+a big attack on Black's king. White is much better here.} Kxf7 7. Nxe5+ Nxe5 8.
+Qxd8 $18 {White takes Black's queen and gets a winning position. Nice example
+of how to expose the opponent's king when he is behind in the development.} Bd6
+9. f4 Nc6 10. Qh4 Nf6 11. Nc3 Re8 12. O-O Nd4 13. Bd2 b5 14. a3 Bc5 15. Kh1 Bb7
+16. e5 Rad8 17. Rad1 Nf5 18. Qh3 g6 19. exf6 a6 20. Bc1 Rxd1 21. Rxd1 Bd4 22.
+Bd2 c5 23. Re1 Rd8 24. Be3 Re8 25. Bd2 Rd8 26. Nd1 Bxf6 27. Bc3 Bh4 28. Rf1 Re8
+29. Be5 Bc8 30. Qc3 Be7 31. Ne3 b4 32. Qe1 bxa3 33. Nxf5 gxf5 34. Qe2 Rg8 35.
+Qh5+ 1-0
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Vasikov"]
+[Black "Lempentev"]
+[Result "1-0"]
+[ECO "C41"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "65"]
+[EventDate "1953.??.??"]
+[EventRounds "17"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 h6 5. dxe5 dxe5 6. Bxf7+ $1 {Again, the
+same position as in the previous game. Now Black will try not to sacrifice the
+queen.} Kxf7 7. Nxe5+ Kf6 8. Nc3 $1 Kxe5 {Incredible position. The black king
+is in the middle of the board (on e5) in 8 moves. Now White starts hunting him.
+} 9. Qh5+ g5 10. Bxg5 hxg5 11. f4+ Ke6 12. f5+ Ke7 13. Nd5+ Kd6 14. Qxh8 {
+Incredible game! White sacrifices 3 minor pieces for an attack on the black
+king.} Ngf6 15. O-O-O Kc6 16. Rhe1 b6 17. Nb4+ Bxb4 $2 {Now Black makes a
+mistake and White takes his queen.} 18. Qxd8 Bb7 19. Rxd7 Nxd7 20. Qxg5 $1 {
+White manages to escape with the queen and two passed pawns to the kingside
+and wins the game in the next couple of moves.} Bxe1 21. Qe3 Bh4 22. Qh6+ Bf6
+23. e5 Rf8 24. exf6 Rxf6 25. Qf4 Bc8 26. g4 Nc5 27. b4 Nb7 28. Qe4+ Kd7 29.
+Qd4+ Rd6 30. Qg7+ Kc6 31. f6 Nd8 32. f7 Nxf7 33. Qxf7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Petrosian"]
+[Black "Korchnoi"]
+[Result "1-0"]
+[ECO "A31"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "41"]
+[EventDate "1953.??.??"]
+[EventRounds "17"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 d5 6. Bg5 dxc4 7. e3 Qa5 8.
+Bxf6 exf6 9. Bxc4 Bb4 10. Rc1 a6 11. O-O Nd7 12. a3 Be7 13. b4 Qe5 14. f4 Qb8 {
+Diagram#} 15. Bxf7+ $1 {Black delays castling and now his king is still in the
+center. If White now allows Black to castle in the next move, Black will be ok.
+But here White finds a great idea to attack Black's king in the center. With
+Bxf7, a piece sacrifice, White manages to open the position of Black's king
+and to get the attack going.} Kxf7 16. Qb3+ Ke8 17. Nd5 $1 {Now White wants to
+play Nc7 with Ne6, a deadly attack.} Bd6 18. Ne6 b5 19. Ndc7+ Ke7 20. Nd4 Kf8
+21. Nxa8 $18 {And Black resigns in a hopeless position. A great example of how
+to attack the opponent's king, which is stuck in the middle of the board.} 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1891.??.??"]
+[Round "?"]
+[White "Blake, Joseph Henry"]
+[Black "Hook, William"]
+[Result "1-0"]
+[ECO "C41"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "23"]
+[EventDate "1891.??.??"]
+[EventRounds "8"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 f5 4. d4 Nf6 5. Nc3 exd4 6. Qxd4 Bd7 7. Ng5 Nc6 {In
+this position, White is completely winning. He has a forced mate in 5 moves.}
+8. Bf7+ $1 Ke7 9. Qxf6+ $1 {Great queen sacrifice to mate Black's king. An
+incredible combination!} Kxf6 10. Nd5+ Ke5 11. Nf3+ Kxe4 12. Nc3# {One of the
+best mating combinations that we have ever seen.} 1-0
+
+[Event "Bizovac Metalis op 13th"]
+[Site "Bizovac"]
+[Date "2006.02.23"]
+[Round "1"]
+[White "Palac, Mladen"]
+[Black "Masirevic, Miroljub"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2561"]
+[BlackElo "2050"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "35"]
+[EventDate "2006.02.23"]
+[EventRounds "7"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 d6 2. d4 Nd7 3. Nf3 g6 4. Bc4 Bg7 $4 {Diagram#} 5. Bxf7+ $1 {In the
+position on the diagram, Black is completely lost. He makes a wrong move order
+and now allows White to win a blow on f7. Remember that if you start with g6
+and Bg7, you should not play Nbd7 before you castle on the kingside.} Kf8 6.
+Ng5 $18 {White gets the pawn and Black's king is without castling and in
+danger until the end of the game. Black is lost, but goes on playing for a
+while. White ends up winning. Nice trick in the opening -remember it.} Ndf6 7.
+Bb3 d5 8. e5 h6 9. exf6 Bxf6 10. Nf3 Bg4 11. h3 Bf5 12. Nc3 c6 13. Bf4 g5 14.
+Bg3 Qb6 15. Ne5 Rd8 16. Qh5 Bxe5 17. Bxe5 Nf6 18. Qf3 1-0
+
+[Event "RUS-Cup02"]
+[Site "Moscow"]
+[Date "1998.??.??"]
+[Round "8"]
+[White "Ibragimov, Ildar"]
+[Black "Zhelnin, Vladimir V"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2590"]
+[BlackElo "2490"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "9"]
+[EventDate "1998.01.21"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. d4 d6 2. Nf3 Nd7 3. e4 g6 4. Bc4 Bg7 {Diagram#} 5. Bxf7+ $3 {The same
+position as in the previous game. With the next move, White gets the winning
+position. Black here resigns immediately because he is a strong player.
+Nevertheless, if Black takes the bishop, White will win in the next moves.} (5.
+Bxf7+ Kxf7 6. Ng5+ Ke8 (6... Kf6 7. Qf3# $18) 7. Ne6 $18 {White gets the queen
+and the game. Remember this nice trick in this opening.}) 1-0
+
+[Event "Narbonne op 10th"]
+[Site "Narbonne"]
+[Date "2008.??.??"]
+[Round "3"]
+[White "Franca, Ricardo Bedin"]
+[Black "Bellotti, Charlotte"]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2232"]
+[BlackElo "1890"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "63"]
+[EventDate "2008.05.08"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 Nf6 6. Bc4 g6 7. Nxc6 bxc6 8.
+e5 dxe5 $4 {Diagram#} 9. Bxf7+ $1 {This is a well-known position from the
+Sicilian Dragon variation, where Black needs to be careful not to lose the
+game immediately. With the last move, e5, White provokes Black to take the
+pawn, after which, White makes the classical bishop sacrifice on f7 and wins
+the black queen.} Kxf7 10. Qxd8 $18 {White wins the queen and the game after
+some play. Nevertheless, White's position is completely winning and Black
+should resign here. This is one more nice opening trick that you may know and
+remember because even a master can get into trouble quickly with only one
+wrong move order.} Bg7 11. Qa5 Bf5 12. Bg5 Bxc2 13. O-O Rhd8 14. Rfe1 h6 15.
+Bxf6 Bxf6 16. Rac1 Bf5 17. Ne4 Rdc8 18. Nxf6 exf6 19. Qa6 Bd7 20. Red1 Rc7 21.
+Rd6 Ke7 22. Rcd1 Be6 23. Rxc6 Rxc6 24. Qxc6 Rc8 25. Qb7+ Ke8 26. Qxa7 h5 27.
+Qg7 Bf7 28. Qh8+ Ke7 29. Qxc8 Be6 30. Qc7+ Bd7 31. Qxd7+ Kf8 32. Qc7 1-0
+
+[Event "Gentemporg"]
+[Site "?"]
+[Date "1973.08.23"]
+[Round "?"]
+[White "Marianobits"]
+[Black "Bagion"]
+[Result "1-0"]
+[ECO "B87"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "1950.01.??"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. e5 $1 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Nxd4 14. fxg7
+Rg8 {Diagram#} 15. Rxf7 $1 {This is a position of the well-known Sicilian
+Scheveningen opening variation. White opens the position quickly in the center
+before Black manages to castle and gets the king into safety. Nevertheless,
+Black has a lot of defensive resources and this position is still unclear, but
+White gets a nice attack and the initiative. Great attacking move with the
+rook sacrifice.} Nxb3 16. Qh5 $1 {White brings one more piece into attack. The
+knight on b3 is not important here.} Bxe3+ 17. Kh1 Qg5 18. Rf8+ $1 {Black has
+two pieces, but White's attack is too strong. Now White manages to break
+Black's defense and the position is winning for him.} Kd7 19. Qf7+ Kc6 20.
+Qxe6+ $18 {White gets a winning position and he manages to win after a few
+moves. A great example of a nice rook sacrifice on f7, before Black's king
+finds the safety in the castle.} Kc7 21. Nxb5+ Qxb5 22. Qxg8 Nxa1 23. Qf7+ Kb6
+24. g8=Q Rxf8 25. Qgxf8 Nxc2 26. Qd8+ Kc5 27. Qff8+ Kc4 28. Qf1+ Kb4 29. Qe7+
+1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Rodzinski"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "C50"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "30"]
+[EventDate "1913.??.??"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. c3 Bg4 5. Qb3 Qd7 6. Ng5 Nh6 {Diagram#} 7.
+Bxf7+ $6 {White has played a great game until now and he has outplayed Black
+completely. Now White can take the pawn on b7 and get a much better position.
+Instead, he tries to get even more and makes a mistake after a wrong bishop
+sacrifice.} Nxf7 8. Nxf7 Qxf7 9. Qxb7 Kd7 10. Qxa8 Qc4 $1 {Now you can see a
+nice example of counterattack. White had an attack and the initiative, and
+with a wrong bishop sacrifice he gets the Exchange. But Black now gets the
+initiative and the attack on White's king. You should avoid giving the
+opponent the initiative if you don't need to.} 11. f3 Bxf3 12. gxf3 Nd4 13. d3
+$4 {A final mistake from White. Now Black is winning.} Qxd3 14. cxd4 Be7 15.
+Qxh8 Bh4# {Incredible counterattack and mate after a sacrifice of both rooks.
+Great game!} 0-1
+
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Grigoriants, Sergey"]
+[Black "Kalygin, SV."]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2275"]
+[BlackElo "2460"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "39"]
+[EventDate "1996.08.??"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Ndb5 a6 8.
+Be3 Qa5 9. Nd4 Ng4 10. O-O Nxe3 11. fxe3 {Diagram#} Ne5 $4 {The position on
+the diagram is now winning for White after a black inacuracy in the last move.
+Instead of Ne5, Black should have played e6, with an unclear game and chances
+for both sides. But I believe that Black is a little bit better there because
+of White's broken pawn structure and the black bishop pair. Now, after Ne5,
+Black allows White to play Qh5, with the attack on f7 and Black's knight can't
+defend the f7-square because the queen on a5 is hanging.} 12. Qh5 $1 g6 13.
+Bxf7+ $1 Kd8 14. Qh4 $18 {With the nice trick Qh5, White gets the pawn and
+Black's king stays in the middle of the board. White's position is close to
+winning and he manages to win the game a little bit later.} Nxf7 15. Rxf7 Qh5
+16. Qf2 Bh6 17. Nd5 Re8 18. Nf6 Bxe3 19. Qxe3 exf6 20. Nc6+ 1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Karpov, Anatoly"]
+[Black "Georgiev, Kiril"]
+[Result "1-0"]
+[ECO "D58"]
+[WhiteElo "2780"]
+[BlackElo "2615"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "1994.09.??"]
+[EventRounds "7"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c6 12. O-O Qd6 13. Qb3 Nd7 14. Rfe1 Be7
+15. Rab1 a5 16. bxa5 Rxa5 17. a4 Re8 18. Bf1 Bf8 19. Qc2 g6 20. e4 dxe4 21.
+Nxe4 Qf4 22. Bc4 Bg7 23. Re2 c5 24. d5 Raa8 25. Rbe1 Rad8 26. Qb3 Ba8 27. g3
+Qb8 28. d6 Rf8 {Diagram #} 29. Bxf7+ $3 {One of the best examples of a piece
+sacrifice. Here White notices that Black can't defend himself on f7 after the
+bishop sacrifice, and then, plays Ng5 with an overwhelming attack.} Rxf7 30.
+Neg5 hxg5 31. Nxg5 Rdf8 32. Re8 $1 $18 {Black is without moves and White's
+attack is still going. Now Black is without defense and White wins the game in
+the next moves. A great example of the idea of sacrificing the bishop on the
+f7-square.} Qxd6 33. Qxf7+ Kh8 34. Ne6 1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1998.01.21"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2770"]
+[BlackElo "2740"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "1998.01.16"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
+d6 9. d4 Bb6 10. axb5 axb5 11. h3 O-O 12. Re1 Re8 13. Na3 b4 14. Nc4 bxc3 15.
+bxc3 exd4 16. Nxb6 Rxb6 17. cxd4 Nxe4 {Diagram#} 18. Bxf7+ $1 {After 17 moves,
+we have a little bit better position for White in this Ruy Lopez game. White
+here has a nice combination that will give him the initiative because the
+black king will be exposed.} Kxf7 19. Rxe4 Rxe4 20. Ng5+ Kg8 21. Nxe4 $14 {
+After this nice combination with the piece sacrifice, bishop on f7; once again,
+White gets a better position because of the potentially exposed black king and
+manages to win at the end.} Bf5 22. Ng5 Ne7 23. g4 Bg6 24. Ne6 Qc8 25. d5 Bf7
+26. Nxg7 Kxg7 27. Qd4+ Kf8 28. Bh6+ Ke8 29. Re1 1-0
+
+[Event "World Cup"]
+[Site "Belfort"]
+[Date "1988.06.??"]
+[Round "14"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "1-0"]
+[ECO "D87"]
+[WhiteElo "2715"]
+[BlackElo "2750"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "1988.06.??"]
+[EventRounds "15"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Na5 {Diagram#} 12. Bxf7+ {The position
+on the diagram arrives after 11 moves in a well-known variation of the
+Grunfeld Defense. White has now a temporary bishop sacrifice on f7 because
+Black's bishop on g4 is still hanging.} Rxf7 13. fxg4 $44 {After the temporary
+piece sacrifice, White gets the piece back and now is a pawn up. Nevertheless,
+Black has compensation for the pawn in the form of active pieces. This is a
+nice trick in the opening that is important to know.} Rxf1+ 14. Kxf1 Qd6 15. e5
+Qd5 16. Bf2 Rd8 17. Qa4 b6 18. Qc2 Rf8 19. Kg1 Qc4 20. Qd2 Qe6 21. h3 Nc4 22.
+Qg5 h6 23. Qc1 Qf7 24. Bg3 g5 25. Qc2 Qd5 26. Bf2 b5 27. Ng3 Rf7 28. Re1 b4 29.
+Qg6 Kf8 30. Ne4 Rxf2 31. Kxf2 bxc3 32. Qf5+ Kg8 33. Qc8+ Kh7 34. Qxc5 Qf7+ 35.
+Kg1 c2 36. Ng3 Bf8 37. Nf5 Kg8 38. Rc1 1-0
+
+[Event "Linares 12th"]
+[Site "Linares"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2650"]
+[BlackElo "2715"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "112"]
+[EventDate "1994.02.??"]
+[EventRounds "13"]
+[EventCountry "ESP"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Bxf6 Bxf6 12. c3 Bb7 13. Bd3 Nb8 14. Nc2 Nd7
+15. a4 bxa4 16. Rxa4 Bg5 17. O-O O-O 18. Ra2 a5 19. Bc4 Nb6 20. Nxb6 Qxb6 21.
+Qd3 Rac8 22. Rd1 Rfd8 23. b3 g6 24. Rda1 Rc5 25. Ne3 Bxe3 26. Qxe3 Bxe4 {
+Diagram#} 27. Bxf7+ $1 {An important moment in the game. Black takes the white
+pawn on e4 and temporarily sacrifices the piece because now if White takes on
+e4, then Black will play d5, get the piece back and open the position in the
+center, when both white rooks are out of play. With this counter-piece
+sacrifice, White gives the piece back right away, but he doesn't allow Black
+to open the position in the center and somehow slightly exposes the position
+of Black's king.} Kxf7 28. Qxe4 Qxb3 29. Qh4 Rh8 30. Qh3 $44 {And now, you can
+see that White's plan works. Black takes the pawn, but White gets activity and
+compensation because of the exposed black king. After some play, the game
+eventually ended as a draw.} Rd5 31. Qf3+ Kg7 32. Ra3 Qb5 33. Rxa5 Qxa5 34.
+Rxa5 Rxa5 35. Qb7+ Kf6 36. h4 Rc5 37. Qd7 Rd5 38. g4 h6 39. c4 Rd4 40. Kg2 Rf8
+41. f3 Rf7 42. g5+ hxg5 43. hxg5+ Kg7 44. Qh3 Rd2+ 45. Kg1 Rf5 46. Qh6+ Kf7 47.
+Qh7+ Kf8 48. Qxg6 Rxf3 49. Qh6+ Ke7 50. g6 Rg3+ 51. Kf1 Rd1+ 52. Kf2 Rdg1 53.
+Qg7+ Kd8 54. Qf8+ Kc7 55. Qe7+ Kc6 56. Qe8+ Kc7 1/2-1/2
+
+[Event "New York Man-Machine m"]
+[Site "New York"]
+[Date "2003.02.05"]
+[Round "5"]
+[White "Kasparov, Garry"]
+[Black "Comp Deep Junior"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[WhiteElo "2847"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "38"]
+[EventDate "2003.01.26"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Re8 8.
+O-O Bd6 9. a3 c6 10. Qc2 {Diagram #} Bxh2+ {In the position of the diagram,
+Black is on the move and he now sacrifices a piece, the dark-squared bishop on
+h2 in order to get White's king out of the castle. Nevertheless, White has
+enough defenders and counter-attackers to get the equality.} 11. Kxh2 Ng4+ 12.
+Kg3 $3 {The only move. Kg1 loses on the spot because of Qh4.} Qg5 13. f4 Qh5
+14. Bd2 Qh2+ 15. Kf3 Qh4 16. Bxh7+ $5 {Now White spots this counter-piece
+sacrifice that will get the draw and neutralize Black's attack on White's king.
+} Kh8 17. Ng3 Nh2+ 18. Kf2 Ng4+ 19. Kf3 Nh2+ {And Black needs to force the
+repetition and the game ended as a draw. Nice example of a bishop sacrifice
+and counter-bishop sacrifice in just a couple of moves.} 1/2-1/2
+

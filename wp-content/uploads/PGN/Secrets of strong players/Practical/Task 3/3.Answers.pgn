@@ -1,0 +1,138 @@
+[Event "Gashimov Memorial 5th"]
+[Site "Shamkir"]
+[Date "2018.04.23"]
+[Round "5"]
+[White "Carlsen, Magnus"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2843"]
+[BlackElo "2744"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "2018.04.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2018.05.16"]
+
+1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 Nf6 6. b3 e6 7. Bb2 a6 8.
+O-O-O b5 9. f3 h5 10. Nh3 Be7 11. Ng5 h4 12. f4 Bb7 13. Kb1 Rc8 14. Be2 Qc7 15.
+Rhe1 Nh7 16. Nxh7 Rxh7 17. g4 hxg3 18. hxg3 Bf6 19. Bd3 Rh8 20. g4 Nd4 21. Re3
+Kf8 22. Ne2 Nxe2 23. Rxe2 Bc3 24. Bxc3 Qxc3 {Diagram #} 25. Qe3 $1 {Very wisely
+, White keeps the queens on the board following the rule "to take is a
+mistake". Similarly, when the opponent's king is not secure, you should keep
+the queens on the board in order to create attacking chances; and this is what
+Magnus is doing here.} (25. Qxc3 Rxc3 $132 {Black will not face problems here.}
+) (25. g5 Qxd2 26. Rexd2 Ke7 $11) 25... Rc5 26. e5 $1 {Following the general
+strategic rules, when your opponent's king is in the center of the board, then
+try to open it. Of course, you should calculate the tactical variations and
+not play only with general rules.} dxe5 (26... d5 27. f5 $40 {
+And Black's king will be under severe pressure.}) 27. fxe5 Rh1 (27... Rd5 $5
+28. Rf2 Qxe5 29. Qxe5 Rxe5 30. Bg6 Rh1 31. Rxf7+ Kg8 32. Rxh1 Bxh1 33. Re7 $36
+{The position is not winning, but White has extremely active pieces, and he
+can transpose his positional advantage into material.} Re1+ 34. Kb2 Rf1 $8 35.
+Rxe6 $16) 28. Rxh1 {The problem for Black is that White's king is totally
+secure. Now you can see the consequences of not trading the queens; Black's
+king is in a very dangerous position. White needs to activate his queen and
+rook.} Bxh1 29. Rh2 Rxe5 30. Rh8+ Ke7 31. Qa7+ {
+This check is deadly, and Black cannot protect his king; so, he resigns.} (31.
+Qa7+ Kf6) 1-0
+
+[Event "SUMMER OPEN By A.s.o.p DIAS - A´GROUP"]
+[Site "?"]
+[Date "2019.07.07"]
+[Round "1"]
+[White "Pantazis, Konstantinos"]
+[Black "Kesaris, Evangelos"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "1755"]
+[BlackElo "1879"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "76"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.07.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Be7 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 Bd7 9. Be3 O-O-O (9... Nf6 10. Nc3 Ng4 11. Bf4) 10. Nc3 h5 11. Rad1 g6
+(11... Bb4 12. Nde2) 12. e5 (12. Rfe1 Nh6 13. f3 b6 14. Kf2 h4) 12... Nh6 13.
+Bxh6 Rxh6 14. f4 Bc5 (14... Bg4 $1 15. Rd2 $2 (15. Nf3 $8 Bc5+ 16. Kh1 Rhh8 17.
+Ne4 Be3) 15... Bc5 $19) 15. Ne4 Bb6 16. Kh1 (16. c3) 16... Bg4 17. Nf3 {
+Diagram #} Rhh8 {Please remember and try to follow the rule "to take is a
+mistake". You may see that even the computer suggests to capture on d1, but
+this wasn't necessary. It was more important to activate the h6-rook first;
+something you're going to do in any case. Thinking in this way, chess is
+easier, isn't it? Similalry, we can say that even the 13.Bxh6 move wasn't the
+best.} (17... Bxf3) (17... Rxd1 18. Rxd1 Bxf3 (18... Be3 19. Neg5 Bxf4 20. Nxf7
+Rh7 21. e6) 19. gxf3 Be3 20. Ng5) 18. Neg5 Rhf8 19. Rxd8+ {It was better to
+play g3 and improve the position of his king. White didn't follow the rule "to
+take is a mistake". Similalry, you can see that there is no tactical reasons
+in order to break this rule; for example, Black cannot play e6.} (19. g3) 19...
+Kxd8 20. Nh7 Rh8 21. Nfg5 Ke7 22. Nf6 Be2 {Black made this move first in order
+to totally activate his pieces. Due to tactical reasons, checkmate on the
+backrank, Black cannot play Re1 and capture the e2-bishop.} (22... Rd8 $1 {
+During the game, he had foreseen this move, but he didn't want to lose his
+bishop pair. Similarly, after a careful play, Black can achieve a good
+counterplay.} 23. Nxg4 hxg4 24. Ne4 $1 (24. g3 Rd2 $17) 24... Be3 25. g3 (25.
+Nf6 g3 $1 26. h3 Bxf4 $19) 25... Rd4 26. Nf6 Rd2 27. Nxg4 $132) (22... Bf5 $5)
+23. Re1 Rd8 24. Ng8+ Kf8 $2 {Black tried hardly to win the game and avoid the
+draw. For that reason, he chose this risky move, alowing with this the e6 move;
+a posibility that his opponent missed. Similalry, White missed Black's next
+move, Bc4, as he told him after the game.} (24... Rxg8 25. Rxe2 Rd8 26. g3) (
+24... Ke8 $1 25. Nf6+ Ke7 $11) 25. Nh6 (25. e6 $1 Kxg8 (25... Kg7 $8) 26. exf7+
+$18) 25... Bc4 $19 {Black has a clear advantage now, and he manages to win the
+game afterwards, mainly, by isolating his knight on h6.} (25... Rd2 26. Nhxf7
+Rxc2 27. e6 Bf2 28. Rb1 Bd4 $19) 26. b3 Bf2 $1 27. Rb1 Be6 28. Nxe6+ fxe6 29.
+g4 Kg7 30. g5 Rd2 31. Kg2 Bd4+ $1 $19 32. Kg3 Rxc2 33. Rd1 c5 34. b4 b6 35.
+bxc5 bxc5 36. a4 Rc3+ 37. Kg2 Rb3 38. a5 Rb5 0-1
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.3"]
+[White "So, Wesley"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2754"]
+[BlackElo "2805"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "99"]
+[EventDate "2019.06.26"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. Nc3 c6 5. e3 O-O 6. Nge2 d5 7. cxd5 Nxd5 8. d4
+exd4 9. Nxd5 cxd5 10. exd4 Bb6 11. Nc3 Nc6 12. Be3 Be6 13. O-O Qd7 14. Na4 Rfd8
+15. Nxb6 axb6 16. Qb3 Ra6 17. Rfc1 Bh3 {Diagram #} 18. Bf3 {To take is a
+mistake. There is no need to capture the bishop on h3 because Black's queen
+will land on h3 and the pressure against the d5-pawn will disappear.} Bg4 19.
+Bg2 Bh3 20. Bf3 {The Russian rule says: if you can repeat the position once,
+then you may do it. In general, its OK to repeat the position once, and gain
+some time on the clock or be closer to the 40 moves.} Bg4 21. Bh1 {Finally, White
+is keeping the light-squared bishop, and Black cannot challenge it anymore.
+The h1-bishop is more active because it attacks the d5-pawn and it is
+coordinating with the queen. Similalry, keeping it, White's king will feel
+safer.} h5 22. h4 {It is a very big question on how to stop the enemy pawn
+advancement on h5. Sometimes, you can play h3 or h4 and, other times, you can
+leave it perform its idea, and you will not stop h4 at all. You should think
+about it in connection with other pieces. Can Black bring more pieces into the
+attack? In any case, White decides to stop it once and forever.} Be2 23. Kh2 {
+White is dominating his own light squares around his king, g2 and h3. The king
+is safe here and, similarly, he stops the queen's penetration to h3.} Qf5 24.
+Bg2 Na5 25. Qc3 Nc6 26. b3 {White is giving a great fight on the light squares.
+It's difficult for Black's pieces to find some active squares. Please also
+notice that the e2-bishop is not very well coordinated with the other black
+pieces, and it is on White's territory. This is a dangerous strategy because
+this bishop may be trapped.} b5 27. Qd2 Bf3 {Diagram #} 28. Bf1 $1 {This is a
+beautiful and very powerful move which follow the rule "to take is a mistake"!
+White refuses to exchange the bishops because he has a more ambitious plan in
+mind, to trap the f3-bishop.} Rb6 29. Bf4 $1 {
+There is nothing that Black can do against the threat of c3 and f3.} Rc8 30.
+Rc3 Bg4 31. f3 $18 {White is winning the bishop and the game after some moves.}
+b4 32. Rd3 Bxf3 33. Rxf3 Ne5 34. dxe5 Rc2 35. Rf2 Rxd2 36. Rxd2 Rc6 37. Bh3 Qg6
+38. Rad1 Ra6 39. Bg2 d4 40. Bxb7 Ra5 41. Rxd4 Rxa2+ 42. R1d2 Qb6 43. Rxa2 Qxd4
+44. Rd2 Qc3 45. Bd5 Kf8 46. Bc4 Ke7 47. Bg5+ f6 48. exf6+ gxf6 49. Re2+ Kd7 50.
+Bd2 1-0
+

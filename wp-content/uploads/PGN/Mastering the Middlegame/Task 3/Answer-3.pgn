@@ -1,0 +1,324 @@
+[Event "Tilburg Fontys"]
+[Site "Tilburg"]
+[Date "1997.09.27"]
+[Round "1"]
+[White "Van Wely, Loek"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "2655"]
+[BlackElo "2820"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "102"]
+[EventDate "1997.09.27"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. c4 e5 2. Nc3 Nc6 3. e3 Nf6 4. a3 g6 5. b4 Bg7 6. Bb2 O-O 7. d3 Re8 8. Qc2 d5
+9. cxd5 Nxd5 10. Nxd5 Qxd5 11. Ne2 f5 12. Nc3 Qf7 13. Na4 Be6 14. Nc5 Bd5 15.
+b5 {Diagram #} Nd4 $3 {This is a brilliant sacrifice in order to open lines
+against the enemy king. It's impossible for Black to calculate all of the
+sequences, but this sacrifice should be right because White's army is
+undeveloped.} (15... Na5 $5 16. e4 {
+White is not in immediate danger, but Black has a small edge.}) 16. exd4 exd4+
+17. Be2 (17. Kd1 b6 {
+When the knight goes away, then Black will pin the queen on b3 with the bishop.
+}) (17. Kd2 Bh6+ 18. Kd1 b6 {
+The king is forced to go to d1 and the pin on b3 is inevitable.}) 17... Bxg2 {
+The rook is under attack and, at the same time, Black has freed the f3-square
+for his bishop. White is a piece up, but his pieces are not coordinated and,
+for that reason, they cannot help the king or organize a defense.} 18. O-O-O $1
+{This is a very good try in order to escape from the direct threats.} Bxh1 19.
+Rxh1 Qd5 $1 {Double attacks win the game. The queen is threatening the rook on
+h1 and the knight on c5. Please, note that the c5-knight is not totally
+unprotected, but the queen on c2 is overloaded; it should defend both the
+knight and the e2-bishop. Black has a winning position and Garry manages to
+convert his advantage at the end.} 20. Re1 (20. Rg1 $2 Rxe2 $1 21. Qxe2 Qxc5+
+22. Kb1 Qxb5 {Black has a big material advantage.}) 20... Re5 21. Qb3 (21. Nb3
+Rae8 $17 {Again, the queen is overloaded and it cannot protect both the
+e2-bishop and the b3-knight.}) 21... Qxb3 22. Nxb3 Rae8 23. Kd1 Rxb5 24. Bf3
+Rxe1+ 25. Kxe1 c6 26. Bd1 a5 27. Bxd4 a4 28. Bxg7 Kxg7 29. Nd2 Re5+ 30. Be2 b5
+31. Kd1 Rd5 32. Kc2 g5 33. Bf3 Rd6 34. h3 Kg6 35. Nb1 h5 36. Nc3 g4 37. Bg2 Kf6
+38. hxg4 hxg4 39. d4 Kg5 40. Kd3 Rh6 41. Ke2 f4 42. Be4 Rh3 43. Kd2 Rh2 44. Ke1
+g3 45. fxg3 fxg3 46. Kf1 Rf2+ 47. Kg1 b4 48. axb4 a3 49. d5 Kf4 50. Bg6 cxd5
+51. Nxd5+ Kg5 (51... Kg5 52. Bb1 Rb2 53. Nc3 Rxb1+ 54. Nxb1 a2 {
+And the pawn will be promoted into a new queen.}) 0-1
+
+[Event "Sarajevo Bosnia 29th"]
+[Site "Sarajevo"]
+[Date "1999.05.19"]
+[Round "3"]
+[White "Kasparov, Garry"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2812"]
+[BlackElo "2697"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "79"]
+[EventDate "1999.05.17"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "BIH"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 cxd4 7. Nxd4 d5 8.
+cxd5 Nxd5 9. Bd2 Bxc3 10. bxc3 Nb6 11. Be3 Nd5 12. Qd2 Nd7 {Diagram #} 13. Bg5
+$1 {
+White keeps the bishop pair and immediately attacks the queen, winning a tempo.
+} (13. c4 $6 Nxe3 14. Qxe3 Qa5+ {Black will face no problems here and, for
+that reason, he can play for the initiative. White's position isn't better at
+all.}) (13. O-O $6 N7b6 {Black equalizes the position because he controls the
+center and the c4-square very well.}) 13... Qc7 14. Nb5 {This is another tempo
+which annoys Black's queen and, at the same time, wins time for White. Keeping
+the initiative means to create threats for your opponent.} Qc5 15. c4 $1 {
+This is a typical move which keeps the initiative for White. In most of the
+cases, it's important to keep activating our pieces. In order to achieve that,
+we might sacrifice material, for example a pawn, in order to win tempi and
+activate the rest of our army.} Qxc4 16. Rb1 {
+White is threatening Bxd5 and then Be7.} N7b6 (16... h6 {For example:} 17. Bxd5
+exd5 (17... Qxd5 18. Qxd5 exd5 19. Nc7 Rb8 20. Be7 {winning the Exchange.}) 18.
+Be7 Re8 19. Nd6 $18) 17. O-O h6 18. Bxh6 $1 {In order to keep the initiative,
+Garry doesn't hesitate to sacrifice more material. In this way, White will
+continue to create threats.} (18. Rfc1 Qg4 {White's pieces should go back and
+this would be the end of White's initiative because Black would take the upper
+hand.}) 18... gxh6 19. e4 {
+A very strong move which cuts off Black's queen from the defense.} (19. Qxh6 $2
+Qg4 {Black's queen joins the defense and the attack is over...}) 19... Ne7 20.
+Rfc1 Qa4 21. Qxh6 Bd7 22. Rc5 $1 {
+"Kasparov's rook" joins the attack. Black's pieces cannot help in the defense.}
+Ng6 23. Rg5 {White always has a perpetual check with Rxg6+. Of course, Garry
+is not interested in the draw, but it's always good to know that you can draw
+the game whenever you want. White's plan is to play h4, h5, e5, Nd6, Ne4 and
+then Be4. This is a possible way to bring all of the pieces into the attack,
+while it's not obvious for Black how to bring his pieces in the defense. White
+won the game afterwards.} Qc2 24. Na3 Qd3 25. h4 $5 (25. Rb3 $1 Qd1+ 26. Bf1
+Rfc8 27. Rxg6+ $1 fxg6 28. Qxg6+ Kf8 (28... Kh8 $2 29. g4 $18) 29. Rd3 Qa1 30.
+Rf3+ Ke7 31. Qg5+ Kd6 32. Qd2+ Nd5 33. exd5 $40) 25... Qxa3 26. h5 Qe7 27. e5
+Be8 28. Be4 f5 29. exf6 Rxf6 30. hxg6 Qg7 31. Qh7+ Kf8 32. Qh4 Rc8 33. Rh5 Bxg6
+34. Rh8+ Kf7 35. Rxc8 Nxc8 36. Rxb7+ Ne7 37. Bxg6+ Qxg6 38. Qb4 Qf5 39. Qxe7+
+Kg6 40. Qh7+ (40. Qh7+ Kg5 41. Rg7+ Qg6 (41... Rg6 42. Qh4#) 42. Qh4+ Kf5 43.
+Qf4#) 1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1991.??.??"]
+[Round "14"]
+[White "Kasparov, Garry"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2770"]
+[BlackElo "2730"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "87"]
+[EventDate "1991.10.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. b3 g6 10. f4 f6 11. Ba3 Qf7 {Diagram #} 12. Qd2 $1 {The queen moves
+away from the pin on the a6-f1 diagonal and, for that reason, the knight on d5
+is under attack. Please remember, by creating threats, you are fighting for
+the initiative.} (12. exf6+ Kd8 $132 {Black's king isn't in a good place, but
+Black has counterplay because the f6-pawn is weak and White cannot create
+immediate threats.}) 12... Nb6 13. c5 $1 {Another tactical move: the a6-bishop
+is unprotected and the b6-knight is under attack.} Bxf1 14. cxb6 $1 {
+A nice intermediate move which creates a lot of complications.} axb6 (14... Ba6
+15. bxc7 Bxa3 16. Nxa3 fxe5 17. fxe5 Qe7 18. Qd6 $16) (14... Bxa3 15. b7 $1 Rb8
+16. Nxa3 Bb5 17. Nxb5 cxb5 18. O-O-O $36 {The material is equal, but all of
+White's forces are mobilized and thus White can claim the initiative.}) 15. e6
+$1 {A decisive move! This is another strong threat. Black cannot capture with
+the queen because the king and queen will be on the open e-line, as you can
+see in the sub-variation.} dxe6 (15... Qxe6+ $2 16. Kxf1 Bxa3 17. Nxa3 Rxa3 18.
+Re1 $18) 16. Bxf8 Rd8 17. Qb2 Bxg2 18. Qxg2 Kxf8 19. Qxc6 Rd6 20. Qc3 Kg7 21.
+Nd2 {White has a piece for two pawns. Usually, the pieces are stronger than
+the pawns. Black's pawns are not far advanced, so White has the initiative and
+all the chances to fight for the win. Kasparov manages to win the game at the
+end.} Rhd8 22. O-O-O Qe8 23. Qxc7+ R8d7 24. Qc2 Qb8 25. Nc4 Rd5 26. Qf2 Qc7 27.
+Qxb6 Qxf4+ 28. Qe3 Qg4 29. Rdg1 Qh4 30. Rg3 e5 31. Rh3 Qg4 32. Rg1 Rd1+ 33.
+Rxd1 Qxd1+ 34. Kb2 h5 35. Rg3 Qh1 36. Qf2 h4 37. Qg2 Qxg2+ 38. Rxg2 g5 39. a4
+Kg6 40. a5 e4 41. b4 h3 42. Rg3 Rh7 43. a6 f5 44. Ra3 1-0
+
+[Event "World Championship 35th-KK5"]
+[Site "Lyon/New York"]
+[Date "1990.10.10"]
+[Round "2"]
+[White "Kasparov, Garry"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2800"]
+[BlackElo "2730"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "87"]
+[EventDate "1990.10.08"]
+[EventType "match"]
+[EventRounds "24"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15.
+Bb1 bxa4 16. Rxa4 a5 17. Ra3 Ra6 18. Nh2 g6 19. f3 Qd7 20. Nc4 Qb5 21. Rc3 Bc8
+22. Be3 Kh7 23. Qc1 c6 24. Ng4 Ng8 {Diagram #} 25. Bxh6 $1 $18 {This is a nice
+combination which complicates the things and gives the initiative to White.
+White's idea is based on the overloaded f8-bishop. This bishop should protect
+h6 and d6 at the same time.} (25. e5 $5 {This is an interesting and good move
+in order to increase the influence of the light-squared bishop from b1.}) (25.
+Bf4 $5 {
+This is another interesting way to improve the activity of White's pieces.})
+25... Bxh6 26. Nxh6 Nxh6 27. Nxd6 {
+This is the point. White is attacking both the queen and the e8-rook.} Qb6 28.
+Nxe8 Qxd4+ 29. Kh1 Qd8 30. Rd1 $1 {The knight is trapped, but White found time
+to activate the rest of his army. Active pieces give the initiative because
+they can create threats.} Qxe8 31. Qg5 Ra7 32. Rd8 Qe6 33. f4 Ba6 34. f5 Qe7
+35. Qd2 {White has very active pieces and Black's king is not secured because
+the initiative is on White's side. White manages to win the game afterwards.}
+Qe5 36. Qf2 Qe7 37. Qd4 Ng8 38. e5 Nd5 39. fxg6+ fxg6 40. Rxc6 Qxd8 41. Qxa7+
+Nde7 42. Rxa6 Qd1+ 43. Qg1 Qd2 44. Qf1 1-0
+
+[Event "Eurotel Trophy"]
+[Site "Prague"]
+[Date "2002.04.30"]
+[Round "2.1"]
+[White "Polgar, Judit"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2677"]
+[BlackElo "2838"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "90"]
+[EventDate "2002.04.28"]
+[EventType "k.o. (rapid)"]
+[EventRounds "5"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. c3 f5 12. Bd3 Ne7 13. Nxe7 Qxe7 14. O-O O-O
+15. Nc2 {Diagram #} f4 $5 {There are other popular moves, but Garry's
+intention is to attack the kingside immediately.} (15... Bb7 $5) (15... Rb8 $5)
+16. a4 bxa4 {Black is practically forced to abandon the queenside. Black's
+last move was logical because it keeps the a-file closed.} 17. Rxa4 Qg5 {
+Step by step, Black is preparing the attack.} 18. f3 Bf6 $1 {In order to
+activate the bishop, Garry should put it in front of the pawns. That being
+said, the bishop is going to c5.} 19. Bc4 Kh8 20. Rf2 (20. Qxd6 Rd8 21. Qb6 Rd2
+$44 {Black has a good compensation for the sacrificed pawn.}) 20... Be7 21. Nb4
+d5 $1 {Another very strong pawn sacrifice in order to activate the pieces and,
+more specifically, the dark-squared bishop.} 22. Bxd5 (22. Qxd5 Be6 {
+White cannot prevent Bc5...}) 22... Bc5 23. Bxa8 Rg8 {White is a rook up, but
+apparently the position is absolutely lost thanks to Black's strong initiative.
+Black won the game atferwards.} 24. Kf1 (24. Qf1 Bh3 25. Kh1 Bxf2 26. Qxf2
+Bxg2+ $19) 24... Bxf2 25. Ke2 Qxg2 26. Kd3 Be3 27. Bd5 Qxh2 28. Kc4 Rg1 29. Qd3
+Bh3 30. Kb3 Bf1 31. Qc2 Qxc2+ 32. Kxc2 Kg7 33. c4 Be2 34. Rxa6 Bd1+ 35. Kd3
+Bxf3 36. Nc6 Rd1+ 37. Kc3 Bg4 38. Nxe5 Bd4+ 39. Kc2 Bxe5 40. Ra7 Re1 41. Rxf7+
+Kg6 42. c5 Re2+ 43. Kc1 f3 44. Bc4 Rxe4 45. Bd5 Rf4 0-1
+
+[Event "Riga Tal Memorial"]
+[Site "Riga"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Vaganian, Rafael A"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "A24"]
+[WhiteElo "2640"]
+[BlackElo "2805"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "70"]
+[EventDate "1995.04.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "LAT"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. O-O e5 7. d3 Re8 8. Rb1
+a5 9. a3 c6 10. b4 axb4 11. axb4 d5 12. cxd5 cxd5 13. Bg5 Be6 14. e4 d4 15. Nd5
+Nbd7 16. Nxf6+ Bxf6 17. Bxf6 Qxf6 18. Qd2 Kg7 19. Ne1 {Diagram #} g5 $5 {
+Kasparov keeps his pieces on the board and wins space on the kingside. He
+doesn't want to create an immediate contact between the pieces but to prepare
+his attack. If White doesn't do anything at all, then Black will crumble him
+step by step.} (19... Ra2 $5 {This is a very interesting and logical move.} 20.
+Rb2 Rxb2 21. Qxb2 Qe7 {
+Black's position is preferable, but it doesn't have anything special.}) 20. f4
+gxf4 21. gxf4 Qh6 $1 {
+Black pins the f4-pawn and brings more pieces into White's kingside.} 22. Qf2
+f6 23. Rc1 Kh8 {The g-line is open and Black would like to use it in order to
+bring the rook into the attack.} 24. Rc7 Ra2 25. Rc2 Ra1 26. Rc7 exf4 27. Rxd7
+f3 $6 {This wasn't the most accurate move and White can escape. However, as
+Kaparov uses to say, when you are making a mistake, you are expecting from
+your opponent to give it back; as White did some moves later.} (27... Bxd7 $1
+28. Qxd4 Rea8 29. Qxd7 f3 $1 {Black has a strong attack.} 30. Nxf3 Qe3+ 31. Kh1
+Rxf1+ 32. Bxf1 Qxf3+ 33. Bg2 Ra1#) 28. Qxd4 fxg2 29. Nxg2 $2 {Here White gives
+the favor back, but this happens often in the middle of the tension of timed
+games...} (29. Rxf6 $1 Rxe1+ 30. Rf1+ Kg8 31. Rxe1 {White has a big advantage
+here because he has more material and Black's attack is over.}) 29... Rxf1+ 30.
+Kxf1 Qc1+ {Kasparov is very precise, and thus, he shows a fantastic ability to
+finalize the game. You can enjoy the rest of the game by yourself.} 31. Kf2
+Bxd7 32. Qxd7 Rg8 33. Qh3 Qd2+ 34. Kf1 Qxb4 35. Qe3 Qb2 0-1
+
+[Event "Eurotel Trophy sim"]
+[Site "Prague"]
+[Date "2001.10.18"]
+[Round "1"]
+[White "Kasparov, Garry"]
+[Black "Movsesian, Sergei"]
+[Result "1-0"]
+[ECO "B46"]
+[WhiteElo "2838"]
+[BlackElo "2631"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "85"]
+[EventDate "2001.10.18"]
+[EventType "simul"]
+[EventRounds "1"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "1997.11.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O Nf6 9. Qe2 Bd6 10. f4 e5 11. Kh1 h6 12. Bd2 O-O 13. f5 Re8 14. Bc4 a5 {
+Diagram #} 15. Rf3 $1 $40 {This is the best way to start the attack by
+bringing more pieces into it. So, "Kasparov's rook" joins the kingside attack.
+This technique is called a rook lift as well. In general, it's difficult to
+activate the rooks in the middlegame, but the best way is to put them in front
+of your pawns, as Kasparov has done in this game.} (15. Rad1 $5) (15. Be1 $5)
+15... Bb4 16. Rg3 {White is threatening to capture on h6 with the bishop. The
+person who creates threats is the person who has the initiative.} Kf8 17. Qe3
+$1 Ng8 (17... Qa7 {
+Black can exchange the queens, but he cannot stop the attack.} 18. Rxg7 $3 Qxe3
+19. Rxf7+ $18) (17... d5 18. Rxg7 Kxg7 19. Qxh6+ {White has a strong attack.}
+Kg8 20. Qg5+ Kh7 21. Qxf6 dxc4 22. Qh4+ Kg8 23. f6 Bf8 24. Bh6 Qd6 25. Qg5+ Kh7
+26. Bg7 $18) 18. f6 $1 {We can see it again and again. Kasparov sacrifices
+material in order to keep the initiative and activate his pieces. By his last
+move, which is perfectly timed, he is weakening Black's king pawn cover. He
+tries to destroy the pawn formation in front of Black's king.} gxf6 19. Rf1
+Bxc3 20. Rxg8+ $1 {It's a very strong intermediate move in order to capture on
+f6 and bring his queen close to the enemy king.} Kxg8 21. Qg3+ Kf8 22. Rxf6 {
+The material isn't the most important thing on the position. White is threatening 
+mate in 1 move, rook takes f7, so White wins an important tempo and a pawn. :
+-)} d5 23. Bxh6+ Ke7 24. Rxf7+ {Kasparov was fantastic on calculations, so he
+didn't miss this brilliant move. Black cannot touch the rook because White
+can skewer the king and capture the queen on c7 next.} Kd6 (24... Kxf7 25. Qg7+
+Ke6 26. Qxc7 $18) 25. Qg6+ Be6 26. Rxc7 Kxc7 27. exd5 cxd5 28. Bb5 $18 {
+White is winning. You can see the rest of the game by yourself.} Reb8 29. a4
+Bd7 30. bxc3 Bxb5 31. axb5 Rxb5 32. h4 a4 33. Bg7 d4 34. Qf7+ Kb6 35. Qe6+ Kb7
+36. Bxe5 Rxe5 37. Qxe5 a3 38. Qd5+ Kb8 39. cxd4 a2 40. Qb3+ Kc7 41. Qc3+ Kd7
+42. Qa1 Kd6 43. c4 1-0
+

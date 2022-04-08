@@ -1,0 +1,76 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.05.28"]
+[Round "?"]
+[White "Nimzo defense"]
+[Black "Base theory"]
+[Result "*"]
+[ECO "E32"]
+[Annotator "RCA"]
+[PlyCount "26"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 {This is the starting position of the opening
+envisaged by a great chess mind - Aron Nimzowitsch. He himself would be
+pleased to see how popular his opening has been, even till the present day.
+Whether it be the World Championships or a small local event, you will see the
+Nimzo Indian cropping up, mainly because of its flexibility. It has variations
+that will please the tactician as well as a positional master! After move 3,
+White has a large choice at his disposal. Broadly, he has 6 main options: a) 4.
+a3. b) 4.Bg5. c) 4.g3. d) 4.e3. e) 4.f3. f) 4.Qc2.} 4. Qc2 {Is by far the most
+popular choice for White.} (4. Bg5 {The Leningrad Variation is a favourite of
+Spassky, but I think it's not such a good variation for White. Black can hope
+for a great game afterwards.} c5 5. d5 h6 6. Bh4 Bxc3+ 7. bxc3 d6 8. e3 e5 {
+Setting up a wall; a position where each of White's options of Bd3, Qc2 and f3
+are analysed.}) (4. g3 {The Fianchetto line was considered toothless until
+Kasparov himself used it to score some victories. Our repertoire is simple and
+strong.} c5 5. Nf3 cxd4 6. Nxd4 Ne4 7. Qd3 (7. Qc2 {A move that was previously
+not very popular is now played quite a bit.} Qa5 8. Bg2 $1 Nxc3 9. O-O $1 {
+White has played very imaginatively and Black has to be very accurate to
+equalise the game.}) 7... Qa5 8. Nb3 Nxc3 $1 {Yes, sacrificing the queen; but
+taking it is not such a great idea, as you will see in the theory section. The
+main line runs...} 9. Bd2 Ne4 10. Qxe4 Bxd2+ 11. Nxd2 O-O 12. Bg2 Nc6 13. Qe3
+d5 {With an extremely popular position which we analyse in quite some depth.})
+(4. e3 {The Rubinstein Variation is maybe the second most popular line after
+Qc2 against the Nimzo Indian. White's modest development must not be taken
+lightly, as the number of set-ups White has at his disposal are many.} c5 {
+After this position, White has 3 set-ups: 1.Nge2 followed by a3; 2.Bd3 and
+Nge2; 3.Bd3 and Nf3. Each of these set-ups is analysed in the theory and
+annotated games section.} 5. Bd3 (5. Nge2 {Some books have been written
+recently on this move and hence it has risen in popularity. We choose a move
+order whereby we retain our dark-squared bishop and retain the tension in the
+position.} b6 6. a3 Ba5 7. Rb1 Na6 $13 {With an unconventional and complicated
+game...}) 5... Nc6 6. Nf3 (6. Nge2 cxd4 7. exd4 d5 8. cxd5 Nxd5 9. O-O O-O {
+Quite a pleasant isolated queen pawn position for Black arises, where we
+follow a plan that was found by the great Ivanchuk.}) 6... Bxc3+ $1 {We take
+the knight immediately and set-up the Huebner Wall.} 7. bxc3 d6 8. e4 e5 9. d5
+Ne7) (4. f3 {The Samisch Variation is played by aggressive White players, but
+I think in the Nimzo It just encourages Black to play classically and exploit
+White's slow development.} d5 $1 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 (7... exd5
+8. e3 c4 $5 {We analyse a famous game in this position between Kasparov and
+Polgar. We can use this variation when we are in a must-win situation.}) 8.
+dxc5 Qa5 9. e4 Nf6 10. Be3 O-O {And Black will try to exploit the weaknesses
+in White's queen side, sometimes even by sacrificing a pawn.}) (4. a3 {The
+most direct way to play against the Nimzo Indian, but I don't think Black has
+any problems if he is well prepared.} Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 O-O 8.
+Ne2 b6 9. e4 Ne8 $1 {An important move, avoiding the Bg5 pin.} 10. O-O Ba6 11.
+f4 f5 $1 {Stopping the 'f' pawn in its track. This position is analysed in
+depth by considering all the possibilities that White has. Black's score from
+this position has been phenomenal, so we have nothing to worry us!}) 4... O-O
+5. a3 (5. e4 {Is an aggressive system. The positions arising are extremely
+complicated, but I think Black in no way stands worse.} d5 $1 {This is the
+most reliable way for Black to meet White's central expansion. With good
+analysis, we can come to the conclusion that Black can hold his own in this
+position.}) 5... Bxc3+ 6. Qxc3 b5 $1 {The Vitolinsh or Adorjan Gambit! How can
+one justify a move like this? Well, it is possible only because of White's
+king side pieces. Rh1, Ng1 and Bf1 all on their initial squares calls for
+powerful play, and that is exactly what Black does - even at the cost of a
+pawn.} 7. cxb5 c6 $1 8. Bg5 {The main move and one that you must be prepared
+to face the most if you play this gambit line.} (8. bxc6 Nxc6 $44 {Gives Black
+ample compensation; we will consider two games with it.}) (8. f3 Nd5 {Is also
+seen...}) 8... cxb5 9. e3 Bb7 10. Nf3 h6 11. Bh4 (11. Bxf6 {Is also considered,
+but I don't think it is dangerous.}) 11... a6 12. Bd3 Nc6 13. O-O Rc8 {Black
+has very smooth development and his future plans include capturing the light
+squares on the queen side with Na5.} *
+

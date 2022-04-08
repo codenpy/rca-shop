@@ -1,0 +1,125 @@
+[Event "Kosmos m 5'"]
+[Site "Moscow"]
+[Date "1998.11.27"]
+[Round "6"]
+[White "Kramnik, Vladimir"]
+[Black "Kasparov, Garry"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2780"]
+[BlackElo "2815"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "1998.11.27"]
+[EventType "match (blitz)"]
+[EventRounds "24"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1999.01.01"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 a5 10. Ba3 axb4 11. Bxb4 Nd7 12. a4 f5 13. Ng5 Nc5 14. Bxc5 dxc5 15.
+Bf3 Ra6 16. a5 Kh8 17. Ne6 Bxe6 18. dxe6 f4 {Diagram #} 19. Qxd8 {
+Exchnage equal pieces} Rxd8 20. Rfb1 Rb8 21. Nd5 Nxd5 22. cxd5 Bf8 23. Be2 Ra7
+24. a6 Bd6 25. h4 Kg7 26. Bc4 b6 27. Bb5 h6 28. Kf1 Rf8 29. Ke2 Rf6 30. Rb3 Kf8
+31. Rh3 Ke7 32. Kd3 Kf8 33. Kc4 Kg7 34. Bc6 Kf8 35. Kb5 Kg7 36. Bb7 Kf8 37. Rg1
+Ke7 38. g3 f3 39. Rc1 Kd8 40. Rc3 h5 41. Rh1 Ke7 42. Rd1 1-0
+
+[Event "New Year's 2019 open Chess Square"]
+[Site "?"]
+[Date "2019.01.08"]
+[Round "9"]
+[White "Kesaris, Evangelos"]
+[Black "Poupalos, Nikolaos"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "1901"]
+[BlackElo "1510"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "85"]
+[EventDate "2018.11.29"]
+[SourceDate "2019.01.08"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 Qa5 9. Rc1 cxd4 10. cxd4 Qxd2+ 11. Kxd2 (11. Bxd2) 11... O-O 12. Nf3 Nc6
+13. Bb5 (13. d5 Ne5 14. Nxe5 Bxe5 15. f4 Bg7 $2 (15... Bd6 16. Bc4 $14) 16. Bc5
+Re8 17. Bb5 $18) 13... e6 (13... Bd7 14. d5 Ne5 15. Bxd7 Nxd7 16. Rc7 $16) (
+13... Rd8 14. Bxc6 bxc6 15. Rhd1 Ba6 16. Ke1 Rab8 17. Ne5 $14) 14. Bxc6 bxc6
+15. Bf4 Bd7 (15... Ba6 16. Ke3 Rfc8 17. h4 $14) 16. Ke3 Rfd8 17. h4 (17. g4 $5)
+17... Rac8 18. Rc2 (18. Rc4 $2 Bf8 ({Cïmputer:} 18... c5 $1 19. e5 (19. dxc5
+Bb5 $17)) 19. Rhc1) (18. h5 $5) 18... Bf8 (18... c5 $1) 19. Rhc1 $2 ({Computer:
+} 19. Bg5 $1 Re8 20. Ne5 Rc7 21. Ng4 Rec8 22. Bf4 Rb7 23. Nf6+ Kg7 (23... Kh8
+24. h5 $40) 24. Be5 $18) 19... Ba3 20. Rb1 c5 21. Bg5 cxd4+ 22. Nxd4 Rxc2 23.
+Nxc2 Bc5+ 24. Kf3 Rc8 25. Ne3 {Diagram #} Bxe3 $6 26. Bxe3 a6 27. Rb7 $11 Bb5
+28. Bd4 Bc4 29. a3 Bb5 30. Kf4 Kf8 31. Ra7 Bf1 32. g4 Be2 33. Kg5 $16 Kg8 34.
+h5 Bd3 35. hxg6 hxg6 (35... Bxe4 36. gxf7+ Kf8 37. Kh6 $18 e5 38. Bxe5 Rc6+ 39.
+Kg5 h6+ 40. Kh4 $18) 36. f3 Bb5 37. Bf6 Be2 38. Kf4 Bb5 39. Rb7 $5 Re8 $2 (
+39... Be2 $4 40. Rb2) 40. Rc7 Be2 41. Rc2 e5+ 42. Ke3 Bxf3 43. Kxf3 1-0
+
+[Event "38th Ikaros International Chess Tournam"]
+[Site "?"]
+[Date "2015.07.18"]
+[Round "9"]
+[White "Vasilakopoulos, Georgios	"]
+[Black "Kesaris, Evagelos"]
+[Result "0-1"]
+[WhiteElo "1535"]
+[BlackElo "1879"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "30"]
+[EventDate "2015.07.12"]
+
+1. e4 {Board 25.} d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 c6 5. d4 Nf6 6. Bg5 {
+Diagram #} Qxg5 7. g3 Bg4 8. Nf3 Qh5 9. Be2 e6 10. h3 Nbd7 11. Qd3 Bb4 12.
+O-O-O Bxf3 13. Bxf3 Qa5 14. Kb1 Bxc3 15. bxc3 Nb6 0-1
+
+[Event "Schleswig Holstein-ch U16 VMA"]
+[Site "Neumuenster"]
+[Date "2004.03.23"]
+[Round "5"]
+[White "Imas, Denisa"]
+[Black "Bal, Onur"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "1042"]
+[BlackElo "1093"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "107"]
+[EventDate "2004.03.20"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2005.11.24"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bb4 5. Nf3 {Diagram #} Bxc3+ {
+Trade equal pieces} 6. bxc3 Ne4 7. Qc2 b6 8. cxd5 exd5 9. c4 (9. e3 O-O 10. Bd3
+Re8 11. Nd2 Nxd2 12. Qxd2 Ba6 13. Bxa6 Nxa6 14. O-O $11 {
+This is not the best play but there are equally valued piece exchanges.}) 9...
+Bf5 10. e3 {Diagram #} Ng3 $1 {Win material} 11. Bd3 (11. Bxg3 Bxc2) 11... Bxd3
+12. Qxd3 Nxh1 13. Rc1 (13. Ke2 $1 Nxf2 14. Kxf2) 13... c5 14. dxc5 dxc4 15.
+Qe4+ Qe7 {Diagram #} 16. Qxa8 {Capture for free} (16. Qxe7+ $2 Kxe7 {White can 
+exchnage equally value pieces but they didn't win anything. If capture
+something for free then you win material and this is good.}) 16... O-O 17. Bd6
+Nd7 {Diagram #} 18. Qxf8+ $1 {This is a more complicated combination but it
+illustrates how to capture the most valuable piece! In the reality, White
+trade the queens but middle while he exchange the d6 bishop for the f8 Rook,
+am I right? Please note that how to calculate lines is a very important skill
+which you should develop. It is like running in a stadium. The first day you
+cannot run a single complete round; see 1 move ahead. If you insist on your
+training then you can run more complete round; in chess, you can see more than
+moves ahead. If you like to improve your calculation techniques I suggest you
+study the course "how to calculate till mate" from GM Igor Smirnov.} (18. Bxe7
+Rxa8 $18 {This is also good because you are exchanging equal value pieces.})
+18... Kxf8 (18... Nxf8 19. Bxe7 $18) 19. Bxe7+ Kxe7 20. cxb6 {
+trade equal pieces} axb6 21. Ke2 {Capture for free} Nxf2 22. Kxf2 b5 23. Nd4 {
+In order to capture for free you need to attack first; to create a threat.} Nc5
+{Diagram #} 24. Nxb5 $4 {The Only Free Cheese is in the Mousetrap... This is
+an American proverb which I like a lot! The point is this. Be careful of the
+opponent's threat!} Nd3+ 25. Kf3 Nxc1 $11 26. a4 Nb3 27. Ke4 Ke6 {Diagram #}
+28. Nd4+ Nxd4 29. Kxd4 Kd6 30. Kxc4 Kc6 31. Kb4 Kb6 32. a5+ Ka6 33. Kc5 Kxa5
+34. Kd6 f5 35. Ke5 g6 36. h3 Kb4 37. g4 fxg4 38. hxg4 Kc4 39. g5 Kd3 40. e4 Ke3
+41. Kd5 Kf4 42. e5 Kxg5 43. e6 Kf6 44. Kd6 h5 45. e7 Kf7 46. Kd7 h4 47. e8=Q+
+Kf6 48. Qe6+ Kg5 49. Ke7 Kh5 50. Kf7 g5 51. Qe2+ g4 52. Qe5+ Kh6 53. Qf6+ Kh5
+54. Qg6# 1-0
+

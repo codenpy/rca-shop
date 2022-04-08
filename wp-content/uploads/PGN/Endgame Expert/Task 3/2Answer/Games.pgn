@@ -1,0 +1,307 @@
+[Event "Las Palmas 68/11"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kramnik V"]
+[Black "Ivanchuk V"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2730"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1k6/2p2p2/p1p1b1p1/4p2p/4P3/P1P2PP1/1P1N1KP1/8 w - - 0 27"]
+[PlyCount "47"]
+[EventDate "1996.??.??"]
+
+{White has no passed pawns. Therefore the only active plan is to attack the
+black's weaknesses.} 27. f4 $1 $18 exf4 28. gxf4 {(Now white can bring the
+king to g3-h4-g5-f6. The king attacks opponent's pawns very well, so it is a
+very powerful plan.)} Kc8 29. Kg3 (29. Ke3 $5 Kd7 30. Kd4 {The cenral squares
+are usually the best position for a king in an endgame}) 29... Kd7 30. Kh4 f6 (
+30... Ke7 31. Kg5) 31. e5 {!} fxe5 (31... Ke7 {!?} 32. Ne4 (32. g3 Bd5 33. c4
+Bg2 34. exf6+ Kxf6 35. Nb3 Bf1 36. Na5) 32... fxe5 33. fxe5 Bd5 34. Nc5 Bxg2
+35. Kg5 Bf1 (35... Bh3 36. Kxg6) 36. a4 {!} Be2 (36... Bh3 37. Kxg6 Bg4 38. Kg5
+) (36... a5 37. b4) 37. a5 Bf1 (37... Bg4 38. Nxa6 Ke6 39. Nc5+ Kxe5 40. a6)
+38. b3 Be2 39. c4 Bd1 40. b4 Be2 41. Nxa6 Bxc4 42. Nc5) 32. fxe5 Bd5 33. g3 Ke6
+34. Kg5 {(The white's king is attacking the black's king-side pawns and white
+is winning.)} Kxe5 35. Kxg6 h4 36. gxh4 Kf4 37. h5 Ke3 38. c4 Bg2 39. Nb3 Bf1
+40. h6 Bxc4 41. Nc5 Ba2 42. Kg7 Bb1 43. Nxa6 (43. Ne6 {!?} Kd2 44. Nf4 Kc1 45.
+Ng6) 43... Kd4 44. Nxc7 Kc4 45. Ne6 Kb3 46. Nd4+ Kxb2 47. Nxc6 Kxa3 48. Ne5 Kb4
+49. Ng6 Bxg6 50. Kxg6 1-0
+
+[Event "Ch Russia (club)"]
+[Site "Tomsk (Russia)"]
+[Date "2001.??.??"]
+[Round "4"]
+[White "Korniushin Nikolay (RUS)"]
+[Black "Malakhov Vladimir (RUS)"]
+[Result "0-1"]
+[WhiteElo "2429"]
+[BlackElo "2637"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/4bkp1/2n2p2/4p2p/7P/2BN1KP1/5P2/8 b - - 0 40"]
+[PlyCount "31"]
+[EventDate "2001.??.??"]
+
+{In this position black has 2 possible plans:  1) to attack the weak pawn f2. 
+2) to create a passed pawn on the "e" file.   In any case black should
+activate his king first. Ideally the king should go towards the f2 pawn,
+because a king works great with pawns.} 40... Ke6 41. Nc1 Kd5 42. Ne2 Kc4 43.
+Be1 Kd3 44. Ng1 Bd6 45. Kg2 e4 46. Kf1 Nd4 47. Ba5 e3 48. fxe3 Nf5 49. Be1
+Nxg3+ 50. Kf2 Nf5 51. Kf3 Nxe3 52. Ne2 Nf5 53. Nf4+ Bxf4 54. Kxf4 g6 55. Ba5
+Ne3 0-1
+
+[Event "Ch Europe"]
+[Site "Istanbul (Turkey)"]
+[Date "2003.??.??"]
+[Round "3"]
+[White "Pavasovic Dusko (SLO)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "0-1"]
+[WhiteElo "2615"]
+[BlackElo "2678"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/1p6/p3p3/5kpp/2Pbp3/1P4PP/4KP2/2B5 b - - 0 45"]
+[PlyCount "13"]
+[EventDate "2003.??.??"]
+
+{Though black is a pawn up it is difficult to realize this advantage. Black
+found an interesting positional cnare here.} 45... g4 $1 46. hxg4+ $2 {(White
+wants to trade pawns. It is correct generally, but in this position it allows
+the black's king to penetrate into an opponent's territory.)} Kxg4 $1 47. Bd2
+Kh3 48. Be3 e5 49. b4 Kg2 {(The king is attacking opponent's pawns and black
+is winning.)} 50. b5 axb5 51. cxb5 b6 0-1
+
+[Event "TCh-RUS"]
+[Site "?"]
+[Date "2008.04.02"]
+[Round "1"]
+[White "Shirov A"]
+[Black "Khenkin I"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2609"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r7/2p2k2/p1b1pBp1/P1p1P2p/2P3PP/5PK1/1R6/8 w - - 0 40"]
+[PlyCount "51"]
+[EventDate "2008.??.??"]
+[Source "The Week in Ches"]
+
+{It is great when you can penetrate into an opponent's territory and attack
+his pawns then. It is one of the winning endgame plans.   In this position
+white should bring the king to g5 (maybe even to h6-h7).} 40. Kf4 Rc8 41. Rb3
+Ra8 42. Kg5 Ra7 43. Rd3 hxg4 44. fxg4 Ra8 45. Rd2 Rb8 46. Bd8 Rb4 47. Rf2+ Ke8
+48. Bxc7 Rxc4 49. Bd6 Be4 50. Rf4 Ra4 51. Bxc5 Kd7 52. h5 gxh5 53. gxh5 Kc6 54.
+h6 Kxc5 55. h7 Bxh7 56. Rxa4 Kb5 57. Ra1 Bd3 58. Kf6 Bc4 59. Ke7 Bd5 60. Kd6
+Kb4 61. Rd1 Bf3 62. Rb1+ Kxa5 63. Kc5 Ka4 64. Ra1+ Kb3 65. Rxa6 1-0
+
+[Event "ICC 25 10 u"]
+[Site "Internet Chess Club"]
+[Date "2010.10.28"]
+[Round "?"]
+[White "*GM_Nakamura, H."]
+[Black "*GM_Hammer, J.L."]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r4k2/6p1/3P1p1p/prp2P1P/R1N1PK2/1P6/2P5/8 w - - 0 58"]
+[PlyCount "53"]
+[EventDate "2010.??.??"]
+
+{First, white should move his pawns forward. Secondly, white needs to activate
+the king.} 58. e5 fxe5+ 59. Kxe5 Kf7 60. Kd5 Kf6 61. Kc6 {(The king works
+great with pawns, so the white's king is making his best. The king is
+attacking the black's weak pawns and is supporting the d6 passed pawn.)} Rbb8
+62. d7 Ke7 63. Nxa5 Ra7 64. Re4+ Kf7 65. Nb7 Raxb7 66. d8=N+ Rxd8 67. Kxb7 Rd5
+68. Rf4 Rd2 69. Rc4 Rh2 70. Rxc5 Rxh5 71. b4 Rh1 72. b5 Rb1 73. b6 h5 74. Kc7
+h4 75. Rc3 Kf6 76. b7 Rxb7+ 77. Kxb7 Kxf5 78. Rh3 Kg4 79. Rh1 g5 80. c4 Kf3 81.
+c5 Kg2 82. Rc1 h3 83. c6 h2 84. c7 {White wins} 1-0
+
+[Event "Ch World under 16"]
+[Site "Heraklio (Greece)"]
+[Date "2002.11.??"]
+[Round "5"]
+[White "Smirnov Igor (UKR)"]
+[Black "Wojtaszek Radoslav (POL)"]
+[Result "1-0"]
+[WhiteElo "2446"]
+[BlackElo "2331"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3b4/3q2k1/b2p2pp/p1BPp3/4Pp2/1QNN1P1P/6P1/4K3 w - - 0 39"]
+[PlyCount "37"]
+[EventDate "2002.??.??"]
+
+{The situation looks unclear. However, white has a powerful maneuver which
+gives him a winning position.} 39. Kd2 Bxd3 40. Kxd3 dxc5 41. Kc4 {(White
+sacrificed a pawn, but made his king very active. The king is supporting his
+passed pawn d5 and is attacking the black's weak pawns.)} a4 42. Qxa4 Qb7 43.
+Qb5 Qa7 44. Qa4 Qb7 45. Nb5 Bb6 46. Nd6 Qe7 47. Qc6 Ba7 48. Qb7 Qxb7 49. Nxb7
+Kf6 50. Nxc5 Ke7 51. Ne6 Kd6 52. Nf8 g5 53. Ne6 Kd7 54. Kb5 Bf2 55. Ng7 Be3 56.
+Nf5 h5 57. Ng7 1-0
+
+[Event "11th EICC Men"]
+[Site "Rijeka CRO"]
+[Date "2010.03.07"]
+[Round "2"]
+[White "Womacka, M."]
+[Black "Korobov, A."]
+[Result "1/2-1/2"]
+[WhiteElo "2452"]
+[BlackElo "2663"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5r2/7k/3p3p/2nPbpp1/4p3/R5PP/4BP2/1R4K1 b - - 0 34"]
+[PlyCount "66"]
+[EventDate "2010.??.??"]
+
+{The king shoud be centralized in an endgame. In this position it will also
+help black to attack the weak pawn d5.} 34... Kg6 35. Bd1 Kf6 36. Bc2 Bd4 37.
+Ra7 Ke5 {(Though white has a material advantage, black is playing for a win!)}
+38. Rh7 f4 39. gxf4+ Rxf4 40. Rf1 Rf6 41. Kg2 Kxd5 42. Re7 Re6 43. Rxe6 Kxe6
+44. Rb1 Ke5 45. Rb8 Ne6 46. Re8 d5 47. Kf1 Kd6 48. Ra8 h5 49. Rg8 Bf6 50. Rg6
+Ke5 51. Bd1 Nf4 52. Rh6 g4 53. hxg4 h4 54. Kg1 d4 55. Rh7 d3 56. Ra7 Nh3+ 57.
+Kg2 Ng5 58. Ra5+ Kd4 59. Ra4+ Kc3 60. f4 exf3+ 61. Bxf3 Kd2 $2 (61... h3+ $1
+62. Kg3 Be5+ 63. Kf2 Bd4+ 64. Kg3 d2 {gives black good chances for a win.}) 62.
+Ra5 h3+ 63. Kg3 Nxf3 64. Kxf3 Bd4 65. Kg3 Kc2 66. Rf5 d2 67. Rf1 1/2-1/2
+
+[Event "New Years All-Ukrainian Open"]
+[Site "Poltava UKR"]
+[Date "2009.12.10"]
+[Round "8"]
+[White "Korobov, A."]
+[Black "Kislinsky, A."]
+[Result "1-0"]
+[WhiteElo "2642"]
+[BlackElo "2446"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/3n1kn1/2Np4/2pP2Bp/2P3p1/1P1B4/5PP1/b5K1 w - - 0 36"]
+[PlyCount "23"]
+[EventDate "2009.??.??"]
+
+36. Kh2 {(The king is going to h4 to attack the black's weak pawns.)} Ne5 37.
+Bc2 Ne8 38. Kg3 Bc3 39. Kh4 {(Very often it is enough to bring your king to
+the opponent's pawns to win the game.)} Ng7 40. Nd8+ Kg8 41. Ne6 Be1 42. Nxg7
+Bxf2+ 43. Kxh5 Kxg7 44. Be7 Nf7 45. Kxg4 Bd4 46. Kf5 Be5 47. Ke6 1-0
+
+[Event "It"]
+[Site "Moscow (Russia)"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Spielmann Rudolf (GER)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/8/R3k3/3p3P/2pP2p1/5rP1/6K1/8 b - - 0 73"]
+[PlyCount "50"]
+[EventDate "1925.??.??"]
+
+73... Kf7 {?} (73... Kf5 {! (The king should go forward and be placed in the
+center. Then the king will attack the d4 pawn and will support the passed pawn
+c4. Since the king works best with pawns, it is the best plan for black.)} 74.
+h6 Ke4 75. Rg6 Rf8 76. Rxg4+ Kd3 77. Rh4 c3 78. g4 c2 79. Rh1 Rb8 (79... Rh8
+80. g5 Rg8 81. h7 Rxg5+ 82. Kf3 Rf5+ $19) 80. Rc1 Rh8 81. g5 Rg8 $19) 74. Rd6
+Rf5 75. h6 Kg8 76. Rd7 Kh8 77. Kg1 c3 78. Rc7 Rf3 79. Kg2 Rd3 80. Kf2 Rf3+ 81.
+Kg2 Re3 82. Kf2 Rd3 83. Rc5 Kh7 84. Rxd5 Kxh6 85. Rc5 Kg6 86. Ke2 {!} Rxg3 (
+86... Rf3 87. Ke1 {! =}) 87. Kf2 {!} Rh3 88. Kg2 Rd3 89. Kh2 Kf6 90. Kg2 Ke6
+91. Kh2 Kd6 92. Kg2 Rd2+ 93. Kg3 c2 94. Kh4 {!} Rg2 95. Kg5 {!} Rg1 (95... g3
+96. Kg4 {=}) 96. Rxc2 Kd5 97. Kf4 Kxd4 98. Rd2+ 1/2-1/2
+
+[Event "Wijk aan Zee 74/42"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kramnik V"]
+[Black "Timman J"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2670"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/8/3p4/1P6/6P1/Pb1BPP1P/4K2R w K - 0 21"]
+[PlyCount "41"]
+[EventDate "1999.??.??"]
+
+{It seems like white should make castling here. However, the king should be in
+a center in an endgame. That's why the only real problem for white is a
+passive rook h1. How can white develop it?} 21. f4 {!! (The rook will be
+developed through f1-f3)} (21. Kd1 Ba3 22. e3 h5 {!?} (22... Rc4) 23. Ke2 Rc2)
+(21. O-O Rc2 22. Rd1 d4 23. Be3 g6 24. Bxd4 Bxd4 25. Rxd4 Rxa2 26. e3 a5) (21.
+e3 Ba3 22. Ke2 Rc2 23. Kd3 Rxa2 24. Bc3 {!?=} Bb2 {!}) 21... Ba3 (21... Rc6 22.
+Kd1 Ba3 (22... Ra6 {?} 23. Kc2 Rxa2 24. Kb3) 23. Rf1) 22. Rf1 Rc4 (22... Rc2
+23. Rf3 Rxa2 24. Rd3 $16) 23. Rf3 Bxb4 24. Bxb4 Rxb4 25. Ra3 (25. Rb3 {?} Rxb3
+26. axb3 Kf8 27. Kd2 Ke7 28. Kc3 a5 {!=}) 25... h5 {!} (25... Rb7 {?} 26. Ra5
+Rd7 (26... d4 27. Kd2) 27. Kd2 Kf8 28. Kd3 Ke7 (28... g6 29. Kd4 Re7 30. e3
+Re4+ 31. Kd3) 29. Kd4 Ke6 30. g4 $18) 26. Rxa7 $16 Rb2 (26... h4 {!?} 27. Kf2
+hxg3+ 28. hxg3 g6 $16 29. Kf3 {!?} (29. a4 Kg7 30. a5 Ra4 31. Ke3 Kf6 $14)
+29... Kg7 30. g4 Kf6 (30... Rb2 31. g5 {!?}) 31. Ra6+ Ke7 32. Ra3 {!?} Rb2 33.
+Re3+ Kd6 (33... Kf6 34. g5+ Kg7 35. a3) 34. a3) 27. a4 Ra2 28. f5 $1 (28. a5 g6
+{!}) 28... Ra1+ (28... f6 29. a5 Kh7 30. a6 Kh6 31. h4 g6 32. fxg6 Kxg6 33. Ra8
+Kg7 34. a7 $18) (28... h4 29. gxh4) 29. Kf2 {?!} (29. Kd2 {!} Rf1 30. a5 Rxf5
+31. Rd7 Rf6 (31... d4 32. a6 Ra5 33. a7 Kh7 34. Rxf7 $18) 32. Rxd5 g6 33. Rd3
+Ra6 34. Ra3 $18) 29... f6 (29... d4 30. a5 Ra2 31. Ke1 Ra1+ (31... d3 32. exd3
+Rxh2 33. a6 Ra2 34. d4 $18) 32. Kd2 $18) 30. a5 d4 31. Kf3 {!} (31. a6 {?} Ra5)
+(31. h3 {?!} Kh7 32. a6 Ra5 33. g4 hxg4 34. hxg4 Kh6 35. Ra8 Kg5) 31... Kh7 (
+31... Ra3+ 32. Ke4 Re3+ 33. Kxd4 Rxe2 34. a6 Rxh2 (34... Ra2 35. h4 $18) 35.
+Rc7 Ra2 36. a7 Kh7 37. Kc5 Kh6 38. Kb6 Kg5 39. Rxg7+ Kxf5 40. Kb7 Rb2+ (40...
+Ke4 41. a8=Q Rxa8 42. Kxa8 Kf3 43. Rg6 f5 44. Rg5 $18) 41. Kc8 Ra2 42. Kb8 Rb2+
+43. Rb7 Ra2 44. Rb4 {!}) 32. a6 Kh6 33. h4 g6 34. fxg6 (34. Ke4 {!?}) 34...
+Kxg6 35. Ra8 Ra2 36. Kf4 {!} Kf7 37. a7 Kg7 38. Kf5 $22 Ra5+ 39. Ke4 Ra4 40.
+Kd5 Ra1 41. Kxd4 (41. Kxd4 Ra4+ 42. Kc5 Ra2 43. e4 Ra1 44. Kb6 Rb1+ 45. Kc6
+Rc1+ (45... Ra1 46. Rd8 Rxa7 47. Rd7+ $18) 46. Kd6 Rd1+ (46... Ra1 47. Rc8 Ra6+
+48. Rc6 Rxa7 49. Rc7+ Rxc7 50. Kxc7 f5 51. e5 $18) 47. Ke6 Ra1 48. Rd8 Ra6+ 49.
+Rd6 Rxa7 (49... Ra1 50. Rd7+ Kg6 51. Kd6 $18) 50. Rd7+ Rxd7 51. Kxd7 f5 52. e5)
+1-0
+
+[Event "It"]
+[Site "Sydney (Australia)"]
+[Date "1990.??.??"]
+[Round "7"]
+[White "Azmaiparashvili Zurab (GEO)"]
+[Black "Martin Benjamin (NZL)"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2358"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3rk3/p2b1pp1/3P3p/1p6/5P2/P5P1/5K1P/3R1B2 w - - 0 29"]
+[PlyCount "47"]
+[EventDate "1990.??.??"]
+
+29. Re1+ $1 {(White is pushing away the black's king)} Kf8 {(Now white cuts
+off the black's king from the center)} 30. Ke3 $1 {(White wants to bring the
+king to c5 to attack the black's pawns.)} Bc6 31. Kd4 Rxd6+ 32. Kc5 Rf6 33.
+Bxb5 Bxb5 34. Kxb5 Rb6+ 35. Ka5 Rb2 36. Ka6 Rxh2 37. a4 Rh3 38. Rg1 h5 39. a5
+h4 40. gxh4 Rxh4 41. Rf1 Rh2 42. Rb1 Rf2 43. Rb4 f6 44. Kxa7 Kf7 45. a6 Ke6 46.
+Kb6 Rd2 47. a7 Rd8 48. Rb5 Rd6+ 49. Ka5 Rd1 50. Ka6 Rd8 51. f5+ Kf7 52. Rb7+
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ahmylovskaya"]
+[Black "Aleksandria"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "7k/6p1/2p1p2p/3nPp2/3P1P2/N2q2P1/1Q5P/K7 b - - 0 41"]
+[PlyCount "27"]
+
+{Black has no passed pawns, so he should attack the opponent's weak pawns d4
+and h2.  Also black needs to activate the king, because it is the least active
+piece now. Where the king should go?} 41... Kh7 $1 {(The king is going to h3,
+because the king works best with pawns.)} (41... Nc3 {?!} 42. Qb3 Qxd4 43. Nc2
+$13) 42. Nb1 Kg6 43. Qd2 Qxd2 44. Nxd2 Kh5 45. Nc4 (45. h3 g5 46. fxg5 hxg5 47.
+Kb2 g4 48. hxg4+ (48. h4 f4 $19) 48... Kxg4 49. Kc2 Kxg3 50. Kd3 Kg2 51. Kc4
+Kf2 52. Kc5 Ke2 {and the "f" pawn goes forward}) 45... Kg4 46. Na5 Ne7 47. Kb2
+Kh3 48. Kc3 Kxh2 49. Kc4 Kxg3 50. Kc5 h5 51. Kd6 Nd5 52. Kxe6 h4 53. Nxc6 Nxf4+
+54. Kxf5 h3 0-1
+

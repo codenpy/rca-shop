@@ -1,0 +1,51 @@
+[Event "Karpov - Korchnoi World Championship Re"]
+[Site "Merano ITA"]
+[Date "1981.10.24"]
+[Round "9"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[ECO "D53"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "88"]
+[EventDate "1981.??.??"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. Rc1 dxc4 8. e3
+c5 9. Bxc4 cxd4 10. exd4 Nc6 11. O-O Nh5 12. Bxe7 Nxe7 13. Bb3 Nf6 14. Ne5 Bd7
+15. Qe2 Rc8 16. Ne4 Nxe4 17. Qxe4 Bc6 18. Nxc6 Rxc6 19. Rc3 Qd6 20. g3 Rd8 21.
+Rd1 Rb6 22. Qe1 Qd7 23. Rcd3 Rd6 24. Qe4 Qc6 25. Qf4 Nd5 26. Qd2 Qb6 27. Bxd5
+Rxd5 {Diagram #} 28. Rb3 (28. Kg2 e5) 28... Qc6 29. Qc3 Qd7 (29... Qxc3 30.
+bxc3) 30. f4 b6 (30... Rxd4 31. Qxd4 Qxd4+ 32. Rxd4 Rxd4 33. Rxb7) 31. Rb4 b5
+32. a4 bxa4 33. Qa3 a5 34. Rxa4 Qb5 35. Rd2 e5 36. fxe5 Rxe5 37. Qa1 (37. dxe5
+Rxd2) 37... Qe8 38. dxe5 Rxd2 39. Rxa5 Qc6 40. Ra8+ Kh7 41. Qb1+ g6 42. Qf1
+Qc5+ (42... Qxa8 43. Qxf7+ Kh8 44. Qf6+) 43. Kh1 Qd5+ 44. Kg1 Rd1 {
+0-1 Viktor Korchnoi-Anatoly Karpov/Merano ITA 1981} 0-1
+
+[Event "Sarajevo Bosnia 30th"]
+[Site "Sarajevo"]
+[Date "2000.05.17"]
+[Round "1"]
+[White "Kasparov, Garry"]
+[Black "Bacrot, Etienne"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2851"]
+[BlackElo "2594"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "77"]
+[EventDate "2000.05.17"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "BIH"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2000.07.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. b3 g6 10. f4 Qb4+ 11. Bd2 Qb6 12. Qe4 f5 13. Qf3 Qd4 14. Nc3 Nxc3 15.
+Bxc3 Bb4 16. Rc1 Bxc3+ 17. Rxc3 O-O-O 18. c5 Bb7 19. Qe3 Qxe3+ 20. Rxe3 d6 21.
+Bc4 Kd7 22. h4 d5 23. Bd3 h5 {Diagram #} 24. Rg3 Rh6 25. b4 Ke6 26. Kd2 Ra8 27.
+Rb1 a6 28. Rb3 Kf7 29. Ra3 Rhh8 30. Rg5 Rh6 31. Kc3 Rb8 32. Ra5 Ra8 33. Kd4
+Rhh8 34. Bc2 Rab8 35. Bd3 Ra8 36. Be2 Rhb8 37. Ra3 Rh8 38. Rag3 Rag8 39. Bxh5
+1-0
+

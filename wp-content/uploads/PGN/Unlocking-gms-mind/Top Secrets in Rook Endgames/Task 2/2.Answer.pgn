@@ -1,0 +1,264 @@
+[Event "Stockholm Four Masters"]
+[Site "Stockholm"]
+[Date "1919.12.12"]
+[Round "9"]
+[White "Bogoljubow, Efim"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "C57"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "120"]
+[EventDate "1919.12.01"]
+[EventRounds "12"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2016.10.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. d6 Qxd6 7. Bxf7+ Ke7 8.
+Bb3 Nxb3 9. axb3 h6 10. Nf3 e4 11. Ng1 Kf7 12. Nc3 Qc6 13. Qe2 Bc5 14. Qb5 e3
+15. Nf3 exd2+ 16. Bxd2 Re8+ 17. Kf1 Bg4 18. Qxc6 bxc6 19. Na4 Bd6 20. Be3 Nd5
+21. Bc5 Re4 22. c4 Nf4 23. Nc3 Bxf3 24. gxf3 Ree8 25. Bxd6 cxd6 26. Ne4 Reb8
+27. Nxd6+ Ke7 28. Nf5+ Kf6 29. Nd4 c5 30. Nb5 a6 31. Nc7 Ra7 {Diagram #} 32.
+Nd5+ $6 {This was a bad decision because White is going to lose his b-pawns,
+and then, the a- and c-pawns could prove to be far more dangerous comparing
+them with the d-pawn. White has a kingside pawn majority; however, he cannot
+use it because it is broken. Please also notice that White doesn't have a good
+coordination of their pieces. For that reason, it was better to accept the
+draw now.} (32. Nb5 $1 $11 Raa8) 32... Nxd5 33. cxd5 Rxb3 34. Kg2 Rxb2 35. Rhe1
+{At least White managed to activate his pieces, but still the black pieces are
+better developed and he already has two passed pawns.} Rd2 36. Re6+ Kf7 37. Rd6
+$4 {White's passion and fighting spirit are admirable; however, Black has a
+better position and he manages to win the game afterwards.} (37. Rexa6 Rxa6 38.
+Rxa6 Rxd5 39. f4 $11 {This was another chance to equalize the game. Black's
+pieces are not coordinated now and, for that reason, it's extremely difficult
+to make progress.}) 37... c4 $5 (37... a5 38. Ra3 a4 39. f4 Rd4 40. Kf3 c4 $17)
+38. Rc6 (38. Rdxa6 Rxa6 39. Rxa6 Rxd5 40. Rc6 Rd4 $15) 38... Rxd5 39. Rxc4 a5
+40. Rca4 Ke6 $36 41. f4 Kd6 42. Kf3 Kc6 43. Re4 Rad7 44. Re5 Kb6 45. h4 Rb5 46.
+Kg4 Rf7 47. Ra2 Rb4 48. Rf5 Ra7 49. Rf8 $2 (49. Re2 Rc4 50. Re6+ Kb7 51. Rb5+
+Kc8 52. Re8+ Kd7 53. Rbe5 $11) 49... a4 $17 50. Kf5 Rc4 51. Kg6 Rc6+ 52. Kh5 a3
+53. f5 Ra5 54. f4 Kc5 55. f6 Kb4+ 56. Kg6 Rxf6+ 57. Rxf6 gxf6 58. f5 Kb3 59.
+Rxa3+ Rxa3 60. Kxf6 Kc4 0-1
+
+[Event "New York International Masters-02"]
+[Site "New York"]
+[Date "1927.03.20"]
+[Round "19"]
+[White "Alekhine, Alexander"]
+[Black "Spielmann, Rudolf"]
+[Result "1-0"]
+[ECO "C14"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "44"]
+[EventDate "1927.02.19"]
+[EventRounds "20"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. exd5 Nxd5 6. Bxe7 Qxe7 7. Qd2 Qb4 8.
+Nxd5 Qxd2+ 9. Kxd2 exd5 10. Re1+ Be6 11. Nh3 Nc6 12. Bb5 Kd7 13. Nf4 Rae8 14.
+c4 Kd6 15. c5+ Kd7 16. Re5 f6 {Diagram #} 17. Rxe6 Rxe6 18. Nxe6 Kxe6 19. Bxc6
+bxc6 20. Re1+ $1 $14 {White has a small but stable advantage thanks to Black's
+doubled pawns on the queenside. This is an important check because Black's
+king should choose side; either he can go to the kingside or to the queenside.
+Please also notice that not only the c6 and c7-pawns are weak but the a7 as
+well.} Kd7 (20... Kf7 21. Kc3 $1 {With the idea to cross on the queenside and
+attack the a7-pawn. Unfortunately, Black cannot stop this plan as Alekhine
+mentioned.} Rb8 22. Re3 -- 23. a3 $140 $1 -- 24. Kc2 -- 25. Rb3 $18) 21. Kc3
+Rb8 22. Re3 Rf8 {Check task 7 // game 7} 1-0
+
+[Event "Heraklio op"]
+[Site "Heraklio"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Miles, Anthony J"]
+[Black "Gdanski, Jacek"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2565"]
+[BlackElo "2485"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "1993.??.??"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "1994.03.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. Bg5 O-O 5. Nbd2 d5 6. e3 Nbd7 7. Be2 Re8 8.
+O-O e5 9. Nb3 c6 10. Rc1 Qb6 11. Nfd2 Nf8 12. dxe5 Rxe5 13. Bf4 Re8 14. c4 Qd8
+15. Bg3 h5 16. h3 Ne6 17. cxd5 cxd5 18. Be5 Bd7 19. Nf3 Qb6 20. Qd2 Ba4 21. Qa5
+Bxb3 22. Qxb6 axb6 23. axb3 Nd7 24. Bxg7 Kxg7 25. Rfd1 Nf6 26. Nd4 Nxd4 27.
+Rxd4 Rec8 {Diagram #} 28. Rb1 $1 {If White exchanges one pair of rooks, then
+Black will totally dominate the c-line, and he will have a fantastic outpost
+on the e4-square. For that reason, he took the brave decision to keep his rook
+passive for a moment and activate his forces in the next moves.} (28. Rxc8 Rxc8
+29. Rd2 (29. Rb4 Ne4 30. Rxb6 Rc1+ 31. Kh2 Rc2 $132) 29... h4 $132) 28... Rc2
+29. Bf3 {Now we can see that Black's pieces are not coordinating well and the
+d5-pawn is under heavy pressure. For the moment, Black is controlling the two
+open lines; he cannot improve his position further. Similarly, he should start
+defending his weak b6 and d5-pawns sooner or later.} Ra5 (29... Rac8 $5 {It
+was necessary to exchange one pair of rooks in order to find active
+counterplay.} 30. g4 hxg4 31. hxg4 $14 {.}) 30. b4 Rb5 (30... Ra2 31. Bxd5 Nxd5
+32. Rxd5 $14 {White is a pawn up and has a strong kingside majority. White's
+rook can continue attacking the weak pawns on the queenside (b6 and b7).}) 31.
+b3 Ne4 32. Re1 $5 {Black manages to protect all of his pawns, but his rook on
+b5 is extremely passive, and White is threatening Be2.} Rd2 (32... Nxf2 $2 33.
+Re2 Rxe2 34. Bxe2 $18 {Not only the knight but the rook is doomed as well.}) (
+32... Rxf2 $4 33. Bxe4) (32... Nc3 $5 33. g4 hxg4 34. hxg4 Na2 35. Bxd5 Rxb4
+36. Red1 $14 {White has a positional advantage here because his pieces are
+more active and Black's knight is far away from the center of the board.
+Usually, the bishop is stronger in such endgames compared with the knight.
+Please also notice that the b-pawns are still doubled and weak.}) 33. Rd1 Rxd1+
+(33... Rb2 $5 34. Bxe4 dxe4 35. Rxe4 Rxb3 36. Rdd4 $14 {leaving White with
+positional advantage thanks to his healthier pawn structure.}) 34. Bxd1 Nc3 35.
+Bf3 Kf6 36. Kf1 Ke5 37. Be2 $16 {This is the final strategical blow; White
+exchanges the last active piece and leaves Black with the trapped rook on b5.
+White has a huge positional advantage and he manages to convert it into a full
+point.} Nxe2 38. Kxe2 f5 39. f4+ Kd6 40. h4 Kc6 41. Kd2 1-0
+
+[Event "SVK-chT 0708"]
+[Site "Slovakia"]
+[Date "2008.03.29"]
+[Round "10"]
+[White "Michalik, Peter"]
+[Black "Manik, Mikulas"]
+[Result "0-1"]
+[ECO "B66"]
+[WhiteElo "2387"]
+[BlackElo "2420"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "146"]
+[EventDate "2007.10.20"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Nitra"]
+[BlackTeam "Kezmarok"]
+[WhiteTeamCountry "SVK"]
+[BlackTeamCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Be7 9. Bxf6 gxf6 10. f4 Qb6 11. Be2 Nxd4 12. Qxd4 Qxd4 13. Rxd4 Rg8 14.
+Bf3 Bd7 15. f5 Bc6 16. Re1 O-O-O 17. Nd5 Rge8 18. fxe6 fxe6 19. Bg4 Bf8 20.
+Nxf6 Bg7 21. e5 dxe5 22. Rxd8+ Rxd8 23. Ne4 Kb8 24. Kb1 Rf8 25. Bf3 Rf4 26. a3
+h5 27. Re2 h4 28. h3 Bd5 29. Nd2 Kc7 30. Be4 b5 31. c3 Kd6 32. Kc2 Bh6 33. Kd3
+Rf8 34. Kc2 Bxd2 35. Kxd2 Rf4 36. Bd3 {Diagram #} (36. Bc2 $1 e4 37. Ke3 Ke5 (
+37... Rf1 38. Bxe4) 38. Rd2 Rf1 39. Rd1 $11) 36... e4 $1 {With his previous
+moves, White didn't manage to successfully blockade the double e-pawns and now
+Black is just in time to advance them. Usually, the double pawns are weak, but
+they are controlling squares as well and gaining space.} 37. Bc2 Ke5 $17 {
+Black's pieces are extremely active and White cannot do anything about that.
+Right now, he cannot block the e3-square because the rook can penetrate on the
+first line.} 38. b3 (38. Ke3 Rf1) 38... a5 39. Ke1 Rf8 {The rook has done his
+work on the 4th rank and now it's time to relocate it on a better file.} 40.
+Bd3 Bc6 {Tactics cannot work if your position was bad earlier. Black can
+simply defend himself against the immediate threats, and then, he can improve
+the position of his pieces and start attacking White's weaknesses.} 41. a4 b4
+$5 (41... bxa4 $5) 42. cxb4 axb4 43. Bb5 Bxb5 44. axb5 Rb8 $19 {Now we have a
+pure rook endgame and you can see double pawns on the b and e-lines. Black
+will win material here because his pieces are extremely active and White has a
+lot of weaknesses on b5, b3, and g2.} 45. Rc2 Rxb5 46. Rc4 Kf4 {It is very
+important to activate your king in the endgame; and this is exactly what Black
+is doing here.} 47. Ke2 Rg5 48. Kf2 Ra5 $18 {The final winning maneuver: Black
+sacrifices the b-pawn in order to activate his rook and attack the remaining
+weaknesses. Please notice that White's pieces are not coordinated and it's
+almost impossible to blockade the passed e-pawn.} 49. Rxb4 Ra2+ 50. Kg1 Ke3 51.
+Rb6 e5 52. b4 Rb2 53. b5 Ke2 54. g3 hxg3 55. Kg2 e3 56. Kxg3 Kf1 57. Rf6+ Rf2
+58. Re6 Rf5 59. Kg4 Rf4+ 60. Kg5 Re4 61. b6 e2 62. b7 e1=Q 63. b8=Q Qg3+ 64.
+Kf6 Rf4+ 65. Ke7 Qg5+ 66. Kd7 Rf7+ 67. Kd6 Qd2+ 68. Kc5 Qd4+ 69. Kc6 Qd7+ 70.
+Kc5 Qxe6 71. Qb1+ Kg2 72. Qe4+ Kxh3 73. Qh1+ Kg4 0-1
+
+[Event "SWE-chT2 0708"]
+[Site "Sweden"]
+[Date "2008.03.08"]
+[Round "8"]
+[White "Vernersson, Per"]
+[Black "Engman, Rikard"]
+[Result "1-0"]
+[ECO "A32"]
+[WhiteElo "2468"]
+[BlackElo "2253"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "2007.10.20"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Eksjo"]
+[BlackTeam "Umea Rockaden"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Bb4+ 6. Bd2 Qb6 7. Bxb4 Qxb4+
+8. Qd2 Nc6 9. Nxc6 Qxd2+ 10. Nxd2 dxc6 11. e4 c5 12. e5 Ng4 13. f4 Bd7 14. Bg2
+Ne3 15. Be4 O-O-O 16. Ke2 Nf5 17. Nf3 Ba4 18. b3 Nd4+ 19. Ke3 Bc6 20. Bxc6 bxc6
+21. Rad1 Nxf3 22. Kxf3 Kc7 23. Ke2 a5 {Diagram #} 24. Rxd8 $1 {This particular
+example could possible fit in the previews course of the Remote Chess Academy,
+called Exchange Pieces like a Pro. If you haven't already studied this course,
+I suggest you to do it because exchanging pieces is a very important topic in
+chess. In this particular position, White is a little better thanks to his
+space advantage and weaknesses on Black's pawn structure. There is no point
+here to double the rooks on the d-line because Black is going to exchange all
+the rooks and, after that, the position will be equal. In the light of that,
+White exchanges only one pair of rooks in order to limit his opponent's
+counterplay, and then, he will try to open a line for his other rook.} (24. Rd3
+a4 $5 $132 (24... Rxd3 25. Kxd3 a4 $132)) 24... Rxd8 25. Rf1 $1 {White tries
+to play f5 and open the position. The ultimate goal is to penetrate with his
+rook on the opponent camp. Please notice that the position is approximately
+equal; however, White has a clear plan.} Rd4 26. Ke3 Kd7 27. Rc1 Kc7 28. h3 Rd8
+29. g4 {After some waiting moves, White performs his original plan, the
+breakthrough to f5.} g6 30. Rf1 Rg8 31. Rd1 h5 32. gxh5 gxh5 33. Kf2 {It was
+important to prevent the rook penetration on the g-line before taking any
+other actions.} Rg6 34. Rg1 Kd7 (34... Rxg1 35. Kxg1 $18 {The position is lost
+for Black because White can capture the h5-pawn and create the passed h-pawn.})
+35. Rg5 $16 {The h5-pawn is a huge weakness and White manages to win the game
+afterwards.} Rh6 36. Rg8 Rg6 37. Rxg6 fxg6 38. Kg3 Ke7 39. Kh4 Kf7 40. Kg5 Kg7
+41. h4 1-0
+
+[Event "DSB Kongress-19 Meisterturnier-18"]
+[Site "Mannheim"]
+[Date "1914.07.23"]
+[Round "4"]
+[White "Alekhine, Alexander"]
+[Black "Breyer, Gyula"]
+[Result "1-0"]
+[ECO "C50"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "105"]
+[EventDate "1914.07.20"]
+[EventRounds "17"]
+[EventCountry "GE2"]
+[Source "ChessBase"]
+[SourceDate "2016.10.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. Nc3 Bg4 6. h3 Bxf3 7. Qxf3 Nf6 8. d5
+Nb8 9. Be3 Nbd7 10. g4 Nf8 11. h4 Qd7 12. Bb5 c6 13. Be2 Bd8 14. g5 Ng8 15.
+O-O-O Bb6 16. Bxb6 axb6 17. Qe3 Qc7 18. f4 Ng6 19. f5 Nf4 20. h5 h6 21. f6 gxf6
+22. g6 Kf8 23. gxf7 Ne7 24. Bg4 cxd5 25. exd5 f5 26. Bf3 Qc5 27. Qe1 Kxf7 28.
+Rh4 Ke8 29. Kb1 b5 30. Rxf4 exf4 31. Qe6 Kd8 {Diagram #} 32. Nxb5 Qxb5 33.
+Qxd6+ Qd7 34. Qf6 Rh7 35. d6 Ke8 36. Re1 Ra6 37. Qg6+ Rf7 38. Bd5 Rxd6 39.
+Qxf7+ Kd8 40. Qf8+ Qe8 41. Qxe8+ Kxe8 42. Bxb7 Kf7 43. a4 Nd5 {Diagram #} 44.
+Bxd5+ $5 {This position is clearly better for White thanks to his three
+connected passed pawns and a better piece coordination: the rook and bishop vs
+the rook and knight. However, in such a situation, it is difficult to assess
+correctly the position thanks to pawn races. Black's doubled pawns are making
+the task to advance them even more difficult. It is one of the good moves to
+exchange the light pieces in order to convert the game into a rook endgame.} (
+44. a5 $5) (44. Re5 $5) (44. b3 $5) 44... Rxd5 45. b4 {White has connected
+passed pawns, but there is no need to advance all of them. If these two pawns
+go to the 6th rank, then they can win the rook. On the other hand, it's
+extremely difficult to advance successfully the f-pawns.} f3 46. a5 Rd4 47. c3
+{White created a very solid pawn formation in the queenside, and it's
+difficult for the rook to attack the pawns. Similarly, Black's rook didn't
+manage to blockade the pawns, and they can potentially go to the 6th rank. In
+addition to that, White's rook can easily stop the f3-pawn because Black's
+pieces are not coordinated correctly.} f2 48. Rf1 Rd2 49. a6 $18 {White has a
+totally winning position thanks to his powerful pawns. The f2-pawn is so far
+advanced; however, he cannot promote it because White's rook can sacrifice
+itself for it. On the other hand, Black's rook cannot do the same for the
+a-pawn. Thus, White wins the game after some moves.} Ke6 (49... Re2 50. Rxf2 $1
+Rxf2 51. a7 $18) 50. b5 f4 51. Rxf2 Rxf2 52. a7 Rf1+ 53. Kb2 1-0
+

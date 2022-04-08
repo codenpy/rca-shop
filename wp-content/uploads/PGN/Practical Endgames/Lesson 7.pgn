@@ -1,0 +1,65 @@
+[Event "isreal under 20 championship 2012"]
+[Site "tel aviv"]
+[Date "2012.03.21"]
+[Round "2"]
+[White "Mindlin Alon (ISR)"]
+[Black "Givon Asaf (ISR)"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[WhiteElo "2116"]
+[BlackElo "1895"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "5Q2/7p/5pp1/6k1/8/p6P/6PK/q7 w - - 0 57"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+57. h4+ Kxh4 58. Qh6+ Kg4 59. Qh3+ Kg5 60. Qe3+ Kf5 61. g4+ Kxg4 62. Qh3+ Kf4
+63. Qf1+ Qxf1 1/2-1/2
+
+[Event "leumit leage 2016"]
+[Site "?"]
+[Date "2016.03.04"]
+[Round "5"]
+[White "Alterman, Boris"]
+[Black "Givon, Asaf"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2600"]
+[BlackElo "2450"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "8/6pk/5r1p/7P/4RnPN/5PK1/8/8 b - - 0 60"]
+[PlyCount "27"]
+[EventDate "2016.??.??"]
+
+60... g5 61. hxg6+ (61. Nf5 Nxh5+ 62. gxh5 Rxf5) (61. Ng2 Nxg2 62. Kxg2) 61...
+Nxg6 62. Ng2 Rf7 63. Re6 Re7 64. Ra6 Kg7 65. f4 Rb7 66. Ra3 Rb4 67. f5 h5 $1 (
+67... Ne5 68. Nf4) 68. Ra7+ (68. gxh5 Ne7 69. Ra5 Kf6 70. Ne3 Kg5) (68. Ne3 Ne5
+(68... hxg4 69. Ra7+ Kh6 70. Ra6) 69. g5 h4+ 70. Kh3 Rf4) (68. fxg6 Rxg4+ 69.
+Kf3 Rxg6) 68... Kh6 69. Ne3 (69. fxg6 Rxg4+ 70. Kf3 Rxg6) 69... Ne5 70. Ra6+
+Kg5 71. gxh5 Rb3 72. Kf2 Rb2+ 73. Kf1 Kxh5 1/2-1/2
+
+[Event "leumit leage 2015"]
+[Site "?"]
+[Date "2015.03.21"]
+[Round "8"]
+[White "Khmelniker, Ilya"]
+[Black "Givon, Asaf"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2507"]
+[BlackElo "2473"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r3k1/p4p2/3R2pp/4p3/6P1/2P1P3/P4P1P/6K1 b - - 0 31"]
+[PlyCount "38"]
+[EventDate "2015.??.??"]
+
+31... Rc4 (31... Rxc3 32. Ra6 Rc7 33. Kg2 $16) 32. h3 Ra4 33. Rd2 Rc4 34. Rc2
+f5 $2 (34... Kg7 $1 {i saw this but thought its too slow. actually black has
+very good drawing chances.}) 35. gxf5 gxf5 36. Rb2 {
+now black has too many weaknesses.} Kf7 37. Rb7+ Kf6 38. Rxa7 Rxc3 39. Kg2 Rc2
+40. Ra6+ Kf7 41. a4 Ra2 42. Kg3 Kg7 43. a5 Ra4 44. Ra8 Kh7 45. a6 Kg7 46. Kf3
+Ra3 47. a7 f4 48. Ke4 fxe3 49. fxe3 Ra5 50. Kf5 1-0
+

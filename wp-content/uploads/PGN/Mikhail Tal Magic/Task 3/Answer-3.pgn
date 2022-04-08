@@ -1,0 +1,224 @@
+[Event "Herceg Novi blitz"]
+[Site "Herceg Novi"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1-0"]
+[ECO "A15"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "27"]
+[EventDate "1970.04.08"]
+[EventType "blitz"]
+[EventRounds "22"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+1. g3 d5 2. Bg2 Nf6 3. c4 dxc4 4. Nf3 Nbd7 5. O-O a6 6. Na3 c5 7. Nxc4 e6 8. d4
+Rb8 9. Bf4 Ra8 {Diagram #} 10. dxc5 $1 {White's position is winning thanks to
+his fantastic development. In such position, you should find the best move in
+order to finish the game immediately. Tal finds a very forcing way in order to
+create a pin on the d-line.} (10. Rc1 $5) (10. Nd6+ $5 Bxd6 11. Bxd6) (10. e3
+$5) 10... Nxc5 (10... Bxc5 11. Nd6+ $40 {White will force the exchange on d6
+and, with their powerful d6-bishop, he will keep Black's king in the center,
+so it will continue the attack.}) 11. Qxd8+ Kxd8 12. Rfd1+ {
+It's not very obvious how Black can stop this check.} Nfd7 (12... Ke8 13. Nb6
+Ra7 14. Bb8 (14. Nxc8)) (12... Bd7 13. Nb6 $18) (12... Ke7 13. Nb6 Ra7 14.
+Nxc8+ $18) 13. Nb6 {
+White is using the pin on the d-line in order to attack the rook.} Ra7 14. Bb8
+1-0
+
+[Event "Candidates Tournament"]
+[Site "Bled/Zagreb/Belgrade"]
+[Date "1959.10.11"]
+[Round "20"]
+[White "Tal, Mikhail"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[ECO "E93"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "1959.09.07"]
+[EventRounds "28"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. Bg5
+h6 9. Bh4 a6 10. O-O Qe8 11. Nd2 Nh7 12. b4 Bf6 13. Bxf6 Nhxf6 14. Nb3 Qe7 15.
+Qd2 Kh7 16. Qe3 Ng8 17. c5 f5 18. exf5 gxf5 19. f4 exf4 20. Qxf4 dxc5 21. Bd3
+cxb4 22. Rae1 Qf6 23. Re6 Qxc3 24. Bxf5+ Rxf5 25. Qxf5+ Kh8 26. Rf3 Qb2 {
+Diagram #} 27. Re8 $1 {The killing move here is Re8 because it pins the
+g8-knight. However, there is no obvious way to capture this knight; for that
+reason, we should look at the other side of the board. The c8-bishop is also
+pinned.} Ndf6 28. Qxf6+ Qxf6 29. Rxf6 Kg7 30. Rff8 {
+Black is totally paralyzed and the c8-bishop is under attack.} Ne7 31. Na5 h5
+32. h4 {Black cannot move his pieces but only the pawns; and the pawns' moves
+will end soon...} Rb8 33. Nc4 b5 34. Ne5 1-0
+
+[Event "FRG-URS"]
+[Site "Hamburg"]
+[Date "1960.08.04"]
+[Round "7"]
+[White "Tal, Mikhail"]
+[Black "Darga, Klaus"]
+[Result "1-0"]
+[ECO "B80"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "1960.07.27"]
+[EventRounds "8"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "German Fed Rep"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 a6 7. Bg2 Qc7 8. O-O
+Be7 9. f4 Nc6 10. Nxc6 bxc6 11. e5 dxe5 12. fxe5 Nd7 13. Bf4 O-O 14. Ne4 Bb7
+15. Qh5 g6 16. Qe2 c5 17. Nf6+ Bxf6 18. exf6 e5 19. Bxe5 Nxe5 20. Bxb7 Rab8 21.
+Bd5 Rb6 22. Rae1 Nd7 {Diagram #} 23. Qe7 {White didn't defend the b2-pawn,
+which is under pressure but, instead, he increased the pressure on the f7-pawn
+and pinned the d7-knight.} (23. b3 $5) 23... c4 24. Kh1 {
+Avoiding the queen exchange with the check on c5.} Rxb2 25. Re6 $3 {This is the
+main point of White's play. He would like to put more pressure on the
+d7-knight, which is pined. The rook is a taboo; White cannot capture it.} Rbb8
+(25... fxe6 26. Qg7#) 26. Rd6 Rbd8 27. Rd1 {
+Thanks to the pin attack, White won this game easily.} 1-0
+
+[Event "Asztalos Memorial 6th"]
+[Site "Miskolc"]
+[Date "1963.??.??"]
+[Round "14"]
+[White "Tal, Mikhail"]
+[Black "Bilek, Istvan"]
+[Result "1-0"]
+[ECO "B08"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "59"]
+[EventDate "1963.07.06"]
+[EventRounds "15"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "GER"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 c6 5. Bc4 Nf6 6. e5 dxe5 7. Nxe5 O-O 8. O-O
+Nbd7 9. f4 Qc7 10. Qf3 a6 11. Re1 e6 12. Bb3 c5 13. Be3 cxd4 14. Bxd4 Nxe5 15.
+fxe5 Nd7 16. Ne4 Bxe5 17. Bxe5 Qxe5 18. Rad1 Kg7 19. Nd6 Qc5+ 20. Kh1 Ne5 21.
+Qf4 f6 22. Rf1 a5 23. h4 Ra6 24. Ne4 Qe7 25. h5 h6 26. Qg3 a4 {Diagram #} 27.
+Rxf6 $1 {Beginners can find the tactic easily, but a more advance player
+should create that tactic. This is exactly what Tal did here with the rook
+sacrifice.} Rxf6 28. Qxe5 axb3 29. axb3 {
+Black is ahead in material, but he cannot protect himself from the pin.} b6 (
+29... Kf7 30. Nxf6 Qxf6 31. Qc7+ Kf8 32. Qxc8+ Kf7 33. Rd7+ $18) 30. b4 1-0
+
+[Event "Candidates Tournament"]
+[Site "Bled/Zagreb/Belgrade"]
+[Date "1959.09.28"]
+[Round "13"]
+[White "Fischer, Robert James"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "B87"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "66"]
+[EventDate "1959.09.07"]
+[EventRounds "28"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. f4
+O-O 9. Qf3 Qc7 10. O-O b5 11. f5 b4 12. Na4 e5 13. Ne2 Bb7 14. Ng3 Nbd7 15. Be3
+Bc6 16. Bf2 {Diagram #} Qb7 {The usual counterplay which Black found on the
+Najdorf Defense is on the e4-square. For that reason, Tal increases the
+pressure on the e4-pawn.} 17. Rfe1 d5 {If Black manages to successfully play
+the d5 break, then he will equalize the game for sure.} 18. exd5 Nxd5 19. Ne4
+Nf4 {Before some moves, we had a pinned pawn on e4, but now we have a knight.
+So, we can say that Black increased his advantage a lot.} 20. c4 g6 $1 {
+The final key moment to comment on this game: The pin cannot win by itself, so
+we need to put more pieces to it. Tal didn't hesitate to sacrifice a pawn in
+order to increase the pressure on the pinned e4-knight.} 21. fxg6 f5 $19 22. g7
+(22. c5+ Kg7 $19) 22... Kxg7 23. Qg3+ Kh8 24. Nec5 Nxc5 25. Bxc5 Bxc5+ 26. Nxc5
+Qc7 27. Qe3 Rae8 28. Re2 Nxe2+ 29. Qxe2 Bxg2 30. Nxa6 Qa7+ 31. Kxg2 Rg8+ 32.
+Kh3 Qg7 33. Bd1 Re6 0-1
+
+[Event "URS-chT sf"]
+[Site "Tallinn"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Lutikov, Anatoly S"]
+[Result "1-0"]
+[ECO "C40"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "1964.11.??"]
+[EventRounds "5"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 f5 5. d3 Nf6 6. dxe4 fxe4 7. Nc3 Bb4 8.
+Qb5+ c6 9. Qxb4 exf3 10. Bg5 cxd5 {Diagram #} 11. O-O-O $1 {This is the best
+move in the position because it pins the venerable d5-pawn. It's not important
+to capture the f3-pawn immediately. If Black captures on g2, then the bishop
+will develop with tempo.} Nc6 12. Qa3 {
+The queen is doing a very important job, to stop the short castle.} Be6 13. Bc4
+$5 {This is not the most obvious move in the world; however, it's doing one
+main thing: it is increasing the pressure against the pinned d5-pawn.} (13. Re1
+$5) (13. gxf3 $5) 13... Qe7 14. Nxd5 Qxa3 15. Nc7+ Ke7 16. Rhe1 $5 {Tal continu
+es the game with his amazing style, by sacrificing the queen. A better move is
+to capture on e6 with the bishop.} (16. Bxe6 Qb4 17. Rd7+ Kf8 18. Rf7+ Kg8 19.
+Rxf6# {The final position is really amazing, isn't it?}) 16... Qc5 17. Rxe6+
+Kf8 18. Rxf6+ gxf6 19. Ne6+ Ke7 20. Nxc5 fxg5 21. Rd7+ Kf6 22. Rd6+ Ke7 23.
+Re6+ Kd8 24. Nxb7+ Kc7 25. Bd5 Nb4 26. Bxf3 Rae8 27. Nc5 Nxa2+ 28. Kb1 Rxe6 29.
+Nxe6+ Kd7 30. Nc5+ Kd6 31. Nd3 1-0
+
+[Event "URS-ch32"]
+[Site "Kiev"]
+[Date "1964.??.??"]
+[Round "14"]
+[White "Tal, Mikhail"]
+[Black "Shamkovich, Leonid"]
+[Result "1-0"]
+[ECO "C87"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "1964.12.26"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. d4
+exd4 9. cxd4 Bg4 10. Nc3 Nd7 11. Be3 Nb6 12. Bb3 Bf6 13. Qd3 Bxf3 14. gxf3 Qd7
+15. Kg2 Ne7 16. Rg1 g6 17. Kh1 d5 18. Bg5 Bxg5 19. Rxg5 c6 20. Ne2 Rad8 21. Rd1
+Na8 22. Qe3 Nc7 23. Rdg1 Kh8 24. R5g3 Ng8 25. Bc2 Ne6 26. Rd1 Qe7 27. a3 Rd7
+28. b4 Nf6 29. Rh3 Ng8 30. Rg1 dxe4 31. fxe4 Rfd8 32. Rd1 Kg7 33. f4 Nc7 {
+Diagram #} 34. f5 {This is an obvious move in order to open lines against the
+enemy king and, similarly, to try to isolate the g6-pawn.} f6 35. fxg6 hxg6 36.
+Rg1 {It's almost always good to pin your opponent's pawns or pieces.} Ne6 37.
+e5 $18 {We can see this similar technique again: White pinned something, and
+now he increases the pressure against it by bringing more pieces into the
+attack.} Nf8 38. Bxg6 Nxg6 39. Nf4 Qf7 40. e6 Re7 41. exf7 Rxe3 42. fxg8=Q+ 1-0
+

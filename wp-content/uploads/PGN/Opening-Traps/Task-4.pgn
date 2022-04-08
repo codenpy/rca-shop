@@ -1,0 +1,22 @@
+﻿[Event "London"]
+[Site "London"]
+[Date "1883.??.??"]
+[Round "7"]
+[White "Rosenthal, Samuel"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[ECO "C65"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp3pp1/6np/3Bp3/4N3/3P3b/PPP2PP1/R1BQ1RK1 w kq - 0 15"]
+[PlyCount "7"]
+[EventDate "1883.??.??"]
+[EventType "game"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[WhiteTeam "Poland"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "URS"]
+
+{White to play} 1-0
+

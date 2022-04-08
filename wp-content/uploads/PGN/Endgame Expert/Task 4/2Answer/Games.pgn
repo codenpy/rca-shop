@@ -1,0 +1,185 @@
+[Event "Zt"]
+[Site "Struga (Macedonia)"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sutovsky Emil (ISR)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "0-1"]
+[WhiteElo "2545"]
+[BlackElo "2620"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1Q6/4ppk1/3p2p1/3P3p/1P6/5P2/6PK/4q3 b - - 0 33"]
+[PlyCount "25"]
+[EventDate "1995.??.??"]
+
+{Black has an extra pawn, but white is ready to push his passed pawn quickly.
+What should black do?} 33... h4 $1 {(A queen should work in many different
+directions and it needs a lot of targets for an attack.)} 34. b5 Qg3+ 35. Kh1
+h3 36. gxh3 {(Now the black's queen has a lot of work)} Qxh3+ 37. Kg1 Qg3+ 38.
+Kf1 Qxf3+ 39. Kg1 Qe3+ 40. Kf1 f5 41. b6 f4 42. b7 Qd3+ 43. Kg1 Qd1+ 44. Kh2
+Qe2+ 45. Kh3 Qf2 0-1
+
+[Event "Santa-Monica"]
+[Site "Ñàíòà-Ìîíèêà"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Portish"]
+[Black "Fischer"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "rn1q1rk1/p1p2ppp/bp2p3/8/2PPQ3/2P5/P4PPP/R1B1KB1R b KQ - 0 1"]
+[PlyCount "49"]
+
+1... Qd7 $1 {Black is ready to trade his 2 rooks on the opponent's queen.} ({
+Though} 1... Nd7 $6 {is possible, black would rather prefer to bring the
+knight to c6-a5 to attack the white's weak pawn.} 2. Bd3 Nf6 3. Qe2 {and white
+has a comfortable position}) 2. Ba3 Re8 3. Bd3 f5 4. Qxa8 Nc6 5. Qxe8+ Qxe8 {
+(The position is unbalanced, both players have weaknesses. In such positions a
+queen is very powerful)} 6. O-O Na5 7. Rae1 Bxc4 8. Bxc4 Nxc4 9. Bc1 c5 10.
+dxc5 bxc5 11. Bf4 h6 12. Re2 g5 13. Be5 Qd8 14. Rfe1 Kf7 15. h3 f4 16. Kh2 a6
+17. Re4 Qd5 {(The queen is attacking in all the directions and is very
+powerful)} 18. h4 Ne3 19. R1xe3 fxe3 20. Rxe3 Qxa2 21. Rf3+ Ke8 22. Bg7 Qc4 23.
+hxg5 hxg5 24. Rf8+ Kd7 25. Ra8 Kc6 0-1
+
+[Event "Moscow (Russia)"]
+[Site "Moscow (Russia)"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Beliavsky Alexander G (SLO)"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2630"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4r1k1/5pp1/2p4p/1p3b2/1QnP4/PpN4P/1P3PP1/6K1 w - - 0 27"]
+[PlyCount "31"]
+[EventDate "1987.??.??"]
+
+27. d5 $1 {(A queen needs to have a lot of objects of an attack)} cxd5 28. Nxd5
+Bc2 29. Qc3 Rd8 30. Nf4 Rd1+ 31. Kh2 Nd2 32. h4 Bf5 33. f3 g5 34. hxg5 hxg5 35.
+Ne2 g4 36. Ng3 Be6 37. f4 Nf1+ 38. Nxf1 Rxf1 39. Qe5 Bc4 40. Kg3 Rd1 41. f5 Rd5
+42. Qe4 1-0
+
+[Event "It"]
+[Site "Biel (Switzerland)"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Lautier Joel (FRA)"]
+[Result "1-0"]
+[WhiteElo "2715"]
+[BlackElo "2580"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3rr1k1/pbq2ppp/1pp1p3/4P3/2P1Q3/7P/PP2BPP1/R2R2K1 w - - 0 18"]
+[PlyCount "47"]
+[EventDate "1992.??.??"]
+
+18. Bf3 $1 {(White is playing against the bishop b7 and is preventing the c5
+move)} Ba8 {(Now the bishop is protected and black is ready to play c5. White
+needs to prevent it.)} 19. Rxd8 Rxd8 20. Rd1 Rxd1+ 21. Bxd1 Qd8 22. Bf3 Qd2 23.
+b3 {(White is even ready to sacrifice a pawn to keep the black's bishop out of
+a game.)} Qxa2 24. b4 {!} Qa1+ 25. Kh2 Qa6 (25... Qb2 26. b5 Qxf2 27. Qd3 Qc5
+28. Bxc6 Bxc6 29. bxc6 $14) 26. Qd4 (26. b5 Qc8 27. bxc6 h6 28. g3 a5) 26...
+Qc8 27. c5 bxc5 28. Qxc5 a6 {(The black's bishop has no open diagonals and it
+totally passive.)} (28... Qb8 {!?}) 29. Qe7 g6 30. h4 h5 {?} (30... Qb8 $14)
+31. Kg3 $16 {!} Qb7 {?} (31... Qb8 32. Kf4 $16) 32. Qxb7 $18 {!} Bxb7 33. Kf4
+Kf8 34. Kg5 Ke7 35. Be4 Ba8 36. f3 Bb7 (36... c5 37. Bxa8 cxb4 38. Bc6 b3 39.
+Ba4 b2 40. Bc2) 37. g4 Ba8 38. gxh5 gxh5 39. f4 Bb7 40. Bf3 Ba8 41. Kxh5 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow, Russia"]
+[Date "2006.11.14"]
+[Round "?"]
+[White "GM_Grischuk"]
+[Black "GM_Shirov"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r5k1/p2bn1p1/2p4p/8/4P3/3P4/PPPN2PP/5RK1 w - - 0 20"]
+[PlyCount "63"]
+[EventDate "2006.??.??"]
+
+{3 pawns are often stronger than a minor piece in an endgame. In addition to
+this black has the weak pawns a7 and c6. Therefore white has an advantage.} 20.
+Nb3 {(White wants to bring the knight to c5 to fix the weak pawn and to place
+the knight on the active square)} Rd8 21. Nc5 Bc8 22. Kf2 Rf8+ 23. Ke2 Rxf1 24.
+Kxf1 Ng6 25. b4 Kf7 26. Ke2 Nf4+ 27. Kf3 Ne6 28. Nb3 Ke7 29. Ke3 Kd6 30. d4 Nc7
+31. c4 Be6 32. Kd3 Bg8 33. a4 Ne6 34. g3 Ng5 35. Nd2 a6 36. h4 Nh3 37. Ke3 g5
+38. d5 cxd5 39. exd5 gxh4 40. gxh4 Bh7 41. Ne4+ Ke5 42. Nc5 Nf4 43. d6 Ne6 44.
+d7 Nd8 45. Nxa6 Kd6 46. Nc5 Bg8 47. Kd4 Nc6+ 48. Kc3 Ke7 49. b5 Ne5 50. b6 Nxd7
+51. b7 {White wins} 1-0
+
+[Event "It"]
+[Site "Habana (Cuba)"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Kostic Boris (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5k2/ppp2pp1/8/3q3p/8/6PP/PPP5/1K2Q3 b - - 0 27"]
+[PlyCount "39"]
+[EventDate "1919.??.??"]
+
+{The black's plan is to create a passed pawn on the "F" file.   In an endgame
+we should not hurry up, so black should prepare the realization of this plan
+as good as he can.} 27... a5 {(When you have a queen in an endgame, it often
+can protect ALL your pawns. Thus your opponent will have no counter chances at
+all. That's why black is improving his pawn structure now.)} 28. a4 b6 29. b3
+f6 30. Qc3 Qe5 {(The queen protects everything)} 31. Qf3 Ke7 32. Qd3 Kf7 33. h4
+Qd6 34. Qf3 g6 35. g4 hxg4 36. Qxg4 f5 37. Qg5 Ke8 38. Ka2 Qe6 39. h5 gxh5 40.
+Qxh5+ Kd7 41. Kb1 Kc6 42. Kc1 Qe3+ 43. Kd1 f4 44. Qg5 Qd4+ 45. Ke2 Qe4+ 46. Kd2
+Qd5+ 0-1
+
+[Event "17th WCCC"]
+[Site "?"]
+[Date "2009.05.14"]
+[Round "5"]
+[White "RYBKA"]
+[Black "THE BARON"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r1k2/1p3ppp/2nP4/p1p1Nb2/2B4P/4R3/PP3PP1/2K5 w - - 0 23"]
+[PlyCount "45"]
+[EventDate "2009.??.??"]
+[Source "The Week in Ches"]
+
+23. Nxf7 $1 {(White is ready to trade the knight+bishop on the opponents
+rook+pawns. In an endgame the pawns' value go up, so it is a good idea for
+white.)} Rd7 24. Rb3 Rxf7 25. Bxf7 Kxf7 26. Rxb7+ Kf6 {(White has a passed
+pawn and black has a lot of weak pawns. It is an ideal situation for white.)}
+27. f3 h6 28. h5 a4 29. Rc7 Ne5 30. Ra7 Nc6 31. Rxa4 Ke5 32. Ra8 Be6 33. d7
+Bxd7 34. a4 Nd4 35. a5 Bc6 36. Ra7 Ne6 37. a6 Bb5 38. Kd2 Bc4 39. Ke3 Bb5 40.
+g3 Kd6 41. Rb7 Nc7 42. a7 Bc6 43. Rb8 Bd5 44. g4 Ke7 45. f4 1-0
+
+[Event "59th CHAMPIONSHIP OF RUSSIA, HIGHER LEAG"]
+[Site "Tomsk"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Khismatullin, Denis"]
+[Black "Dreev, Alexey"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5rk1/pp3pp1/6p1/2br2P1/7P/2B1P3/PPK5/6RR w - - 0 28"]
+[PlyCount "65"]
+
+{The rooks and bishops need to have open lines. Mainly you should move your
+pawns to open a position.} 28. h5 $1 Bxe3 29. h6 {(The white's position
+suddenly becomes very aggressive)} Bd4 30. Rd1 Rc8 31. hxg7 Kxg7 32. Kb1 Rxc3
+33. bxc3 Rb5+ 34. Kc2 Be3 35. Rd7 Bxg5 36. a4 Ra5 37. Rb1 {(The white's rooks
+have a lot of open lines and that's why they are very active.)} Rxa4 38. Rbxb7
+Rf4 39. Rxa7 Bh4 40. Kd3 Bf2 41. Ra5 Bg3 42. Re7 Rf1 43. c4 g5 44. Re2 Bf4 45.
+Rc2 Rd1+ 46. Ke2 Rd8 47. Kf3 Kf6 48. c5 Ke6 49. c6 f5 50. Ra6 Rc8 51. Ra1 Be5
+52. Re1 g4+ 53. Kg2 Kf6 54. Rce2 Bd4 55. Re6+ Kg5 56. Rd1 Bb6 57. c7 Ba5 58.
+Rd5 Bb4 59. Rc6 Be7 60. Rb5 1-0

@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.04.26"]
+[Round "?"]
+[White "3...Be7 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "RCA"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+[SourceDate "2013.04.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 {The idea of this move is to wait for White to
+define his position.} 4. Nf3 {Following the principle of maximum activity and
+least active piece.} Nf6 5. Bd3 {White decides to not play e5. When you have
+to take this decision, you should calculate the consequences of an eventual c5
+and you should see if you can keep your centre safe.} c5 (5... b6 {This move
+is waiting for White to play e5 and then respond by attacking the centre with
+c5 and also preparing to put pressure on e4 with Bb7.} 6. O-O Bb7 7. e5 {White
+sees that he can easily defend the pawn structure in the centre with a typical
+manoeuvre.} Nfd7 8. Ne2 {Preparing c3.} c5 9. c3 Nc6 10. Be3 {White has space
+advantage.}) (5... O-O 6. O-O b6 7. Re1 dxe4 8. Nxe4 Nbd7 {And this position
+shows White ahead due to the space advantage.}) 6. exd5 exd5 7. dxc5 O-O 8. O-O
+Nbd7 9. Bg5 Nxc5 10. Re1 {And this isolated pawn position is favourable for
+White due to the activity of his pieces.} *
+

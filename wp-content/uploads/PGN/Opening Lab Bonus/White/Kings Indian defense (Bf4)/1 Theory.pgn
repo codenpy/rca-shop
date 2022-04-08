@@ -1,0 +1,45 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's Indian defense"]
+[Black "Bf4 variation"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "21"]
+[SourceDate "2013.12.25"]
+
+{Some students asked me to provide a good line for White against King's Indian
+defense, where you don't have to learn tons of theoretical variations. I'll
+show one  such line to you now.} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5.
+Bf4 {The f4-bishop prevents Black from playing e5, which is the main Black's
+active plan.} (5. h3 {!? White may start from this move as well. In this case
+White may not worry about the Black's eventual reply Nh5.} d6 6. Bf4 {with a
+transposition to the main line}) 5... d6 (5... c5 6. d5 {Now white got a space
+advantage in the center} d6 7. e4 a6 8. a4 {It is important to prevent b5 move.
+Now it is very difficult for black to find any active plan, while white has a
+free development and a space advantage.}) 6. h3 {a prophylaxis} (6. e3 {?!} Nh5
+{And black trades off the bishop}) 6... Nbd7 (6... Nfd7 {This move is quite
+passive, that's why now white may answer e4 in a very comfortable situation.}
+7. e4 {!} (7. e3 {!? this standard way is also good}) 7... e5 8. Bg5 f6 9. Be3
+{White got something similar to the main lines of King's Indian in a very good
+situation}) (6... Nc6 7. e3 Nd7 {Black is ready to play e5 finally, but white
+can stop it:} 8. d5 {White prevents the move e5 attacking the knight and
+getting more advantage in space.} Nce5 9. Nxe5 Nxe5 10. Be2 $14) 7. e3 {In
+this system White usually doesn't play e4, but play e3 instead. This makes his
+center very well protected, thus it is hard for Black to create any
+counterplay.} Qe8 {this is the only way for black to prepare the move e5} (7...
+Re8 {doesn't prepare e5 really} 8. Be2 e5 {?} 9. dxe5 dxe5 10. Nxe5 Nxe5 11.
+Qxd8 Rxd8 12. Bxe5 {wining a pawn}) (7... c5 8. d5 a6 9. a4 {and black has no
+active possibilities}) (7... c6 {this move doesn't do much} 8. Be2 a6 9. O-O b5
+10. a3 {White is better thanks to his strong center}) 8. Be2 e5 9. Bh2 Qe7 (
+9... exd4 10. Nxd4 {Then White will castle and will play in the center: 1)
+white can occupy d5-square by playing Nd5 2) White can prepare c5 move to open
+a position.}) 10. O-O {Since White is pressuring the e5-pawn, Black can't move
+his pieces freely.} e4 11. Nd2 {After that white will: 1) Attack the e4 pawn
+with Qc2; 2) start pushing the pawns on the queen-side with b4, c5, b5 etc
+Black can't push his king-side pawns (as he usually do in the main lines of
+King's Indian). Therefore it's difficult for black to compose an active plan.}
+*
+

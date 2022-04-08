@@ -1,0 +1,97 @@
+[Event "?"]
+[Site "?"]
+[Date "2011.08.24"]
+[Round "?"]
+[White "Scandinavian defense"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "RCA"]
+[PlyCount "23"]
+[EventDate "2011.??.??"]
+
+1. e4 d5 {This is the Scandinavian Defence. Black's idea is to play a
+Caro-Kann structure. Without allowing some variations like the Advance
+variation (with e5, which is a weak move here), of course this has the
+inconvenience of moving the queen very quickly.} 2. exd5 {A very logical move,
+forcing Black to move the queen or to play 2...Nf6, which allows 3.c4.} Qxd5 (
+2... Nf6 3. c4 {Defending d5.} c6 (3... e6 4. dxe6 {Simply capturing material.}
+Bxe6 5. Nf3 {Developing with maximum activity.} Nc6 (5... Qe7 6. Qe2 Nc6 7. d4
+Bg4 8. Be3 O-O-O 9. d5 Ne5 10. Nc3 Nfd7 11. O-O-O Qf6 12. h3 Bxf3 (12... Bh5
+13. g4 $1 Nxf3 14. gxh5 $14) 13. gxf3 $14 {White returns the pawn in order to
+free up his position.} Qxf3 14. Rg1) 6. Be2 {Developing and preparing to
+castle king side.} Bc5 7. O-O Qd7 8. Nc3 {A natural move...} (8. b4 $1 {Is
+probably the most powerful. White is ready to return his extra pawn for
+gaining initiative.} Bd4 (8... Bxb4 9. d4 $40 {Threatening d5.}) 9. Nc3 O-O 10.
+Bb2 $14) 8... O-O-O 9. a3 {Preparing b4.} Nd4 10. Nxd4 Bxd4 11. d3 {And White
+is ok - probably slightly better.}) 4. d4 cxd5 {Transposing to the Panov
+attack of the Caro-Kann.}) 3. Nc3 {Very logical, developing and attacking.} Qa5
+{The main alternative to this move is Qd6, but Black can also play Qd8 and Qe5.
+} (3... Qe5+ {This is a secondary line. White gets a lot of advantage in
+development.} 4. Be2 Bg4 (4... c6 5. Nf3 Qc7 6. d4 {And White is better: three
+pieces developed, while Black only has the queen developed.}) 5. d4 Bxe2 6.
+Ngxe2 Qh5 7. Bf4 {And White has three pieces outside, while for Black it's
+only the queen.}) (3... Qd6 {Tiviakov's favourite move.} 4. d4 {Controlling
+the centre and preparing development of the queen side bishop.} Nf6 5. Nf3 {
+Developing and maximum activity.} c6 {This is the move Tiviakov usually makes.}
+(5... a6 6. g3 $1 {Very logical move: the bishop will be excellently placed at
+g2 and, at the same time, prepares Bf4 at some point.} b5 (6... Bg4 {A move
+with the idea of playing actively - Nc6, 0-0-0.} 7. Bg2 Nc6 8. O-O O-O-O {Both
+sides simply finish their development; now White has to create something
+against the threat on d4.} 9. d5 $1 Nb4 {Attacking the weak 'd' pawn.} (9...
+Nxd5 {Gives White a better endgame after...} 10. Nxd5 Qxd5 11. Qxd5 Rxd5 12.
+Ng5 Rf5 {Only move to defend f7.} 13. f3 Bh5 14. g4 Rxg5 {Forced} 15. Bxg5 Bg6
+$14) 10. h3 Bh5 11. Bf4 Qc5 12. Be3 Qa5 (12... Qd6 13. Qe2 Nfxd5 14. Nxd5 Nxd5
+15. Rfd1 $16 {With a lot of compensation due to the open lines.}) 13. g4 $1 {
+Unpinning the knight.} Nbxd5 $1 {Only move if...} (13... Bg6 14. Nd4 {And the
+queen is in big trouble!}) 14. Nxd5 Rxd5 15. Bd2 Rxd2 16. Nxd2 $16) 7. Bg2 Bb7
+8. O-O e6 9. Bf4 Qb6 10. a4 $5 {Attacking Black's pawn structure and
+threatening a5!} Bd6 11. Be3 $1 {Avoiding exchanges and creating extra
+problems related to the d5 break.}) 6. Ne5 {With the idea of playing Bf4 and
+creating problems for the queen on d6.} Nbd7 7. Nc4 {Avoiding the exchange of
+pieces and attacking the queen.} Qc7 8. Qf3 {Preparing Bf4.} Nb6 9. Bf4 Qd8 10.
+Be5 {Defending d4 and putting the bishop on an excellent square; of course,
+0-0-0 doesn't work because of Bg4 - winning the exchange.} Bg4 11. Qg3 h5 12.
+h3 h4 13. Qf4 Be6 14. Nxb6 Qxb6 (14... axb6 15. Bd3 {With superior development
+and a better pawn structure for White.}) 15. O-O-O {With good possibilities
+for White. Right now, White is threatening Bc7 and has the better development.}
+) (3... Qd8 {This move, the queen going back, isn't a problem for White.} 4. d4
+g6 5. Bf4 {Developing the queen side first to get an attacking position.} Bg7
+6. Qd2 {Preparing the queen side castling.} Nf6 (6... Qxd4 7. Qxd4 Bxd4 8. Nb5
+Bb6 9. Nxc7+) (6... Bxd4 7. O-O-O Nc6 8. Bb5 Bd7 9. Nd5 e5 10. Nf3) 7. O-O-O
+Nd5 8. Be5 {And White has good attacking chances.}) 4. d4 {Seizing space in
+the centre.} Nf6 (4... e5 5. Nf3 {Is advantage to White.}) 5. Nf3 {Maximum
+activity and least active piece.} c6 (5... Bg4 6. h3 {Attacking the bishop.}
+Bh5 7. g4 {White is weakening the king side just because he wants to attack on
+that side.} Bg6 8. Ne5 {Improving the position of the knight and, at the same,
+preparing h4.} c6 (8... e6 9. Bg2 c6 10. h4 Be4 11. Bxe4 Nxe4 12. Qf3 Nd6 13.
+Bd2) 9. h4 {Now Black has two main possibilities. Until here it's all very
+forced after Bg4.} Nbd7 (9... Be4 10. Nc4 {Attacking the queen and unpinning
+the knight on c3.} Qc7 11. Nxe4 Nxe4 12. Qf3 {Attacking the e4 knight and
+preparing Bf4.} Nf6 13. Bf4) 10. Nc4 {Attacking the queen and trying to unpin
+the c3 knight to win the couple of bishops.} Qc7 11. h5 Be4 12. Nxe4 Nxe4 13.
+Qf3 {Attacking the e4 knight and preparing Bf4.} Nd6 (13... Nef6 14. Bf4 $16)
+14. Bf4 $16) (5... Nc6 {A very secondary line, very easy to play with White.}
+6. Bd2 Bg4 7. Nb5 Qb6 8. c4 Bxf3 9. Qxf3 Nxd4 10. Nxd4 Qxd4 11. Qxb7 {And
+White has a clear advantage.}) (5... Bf5 6. Ne5 {This move is very typical. As
+you saw in past variations, the idea is to put the knight on the excellent e5
+square. Also prepare g4 and sometimes this knight goes to c4 attacking the
+queen.} c6 (6... Nbd7 $2 7. Nc4 $1 Qa6 {The only move; now Black is lost.} 8.
+Bf4 Qe6+ 9. Ne3 Bg4 10. f3 Bh5 11. d5 Qb6 12. Nc4 {And the queen is trapped -
+this is why c6 is a very necessary move.}) 7. Nc4 Qc7 8. g3 $1 {A typical move
+in the Scandinavian, with the idea of developing the bishop via g2 and also of
+playing Bf4.} e6 9. Bf4 Qd8 10. Bg2 {And White's position is more comfortable.}
+) 6. Ne5 Be6 (6... Bf5 7. Bc4 {Transposing to a variation we analyse later.})
+7. Nc4 {Attacking the queen.} Bxc4 {This move is the most simple for black,
+otherwise White gains a comfortable advantage. The bishop isn't really a good
+piece on e6.} (7... Qc7 8. Qf3 {Preparing Bf4.} Bg4 9. Qg3 $5 Qxg3 10. hxg3 {
+This endgame looks better for White, because of more space and the 'h' file.})
+(7... Qd8 8. Bf4 {With a better development and space advantage.}) 8. Bxc4 e6
+9. Qe2 {This move is more accurate than Bd2, because it doesn't allow Qb6 -
+attacking d4 and b2.} (9. Bd2 Qb6 {And this is probably ok for White after Qe2.
+But there is no reason to sacrifice a pawn in this line.}) 9... Nbd7 10. Bd2
+Bb4 11. O-O O-O 12. a3 {White is going to get the Black's second bishop and
+also enjoys space advantage and no weaknesses. The Scandinavian is a really
+simple defence to handle. You should always play actively, trying to get
+advantage in space and, most times, with the bishop pair.} *
+

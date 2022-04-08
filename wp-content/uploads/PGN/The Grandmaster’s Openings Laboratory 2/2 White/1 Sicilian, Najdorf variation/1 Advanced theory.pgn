@@ -1,0 +1,151 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B99"]
+[Annotator "RCA"]
+[PlyCount "35"]
+
+{The Najdorf Variation of the Sicilian is actually the most popular defence.
+So it is very important go deep into this line. As in my previous opening
+course "The Grandmaster's Openings Laboratory", I suggest the line starting
+with 6. Bg5 castling on the queen side later. In this new course what I do is
+add new and better ideas, and dig more into the old lines I gave. Before start
+seeing the theory in practice, you should remember that in this line White
+should not be afraid of sacrificing material. If you keep this in mind, you're
+going to be repaid with a lot of points. Active play is very important in this
+line: if you play passively, Black can get an equal position very easily.} 1.
+e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {I think I should talk a
+little bit about this move. Because even if we were not going to play the
+Najdorf as Black, it is necessary to know what we are facing. a6 has 2 main
+ideas: 1. After a6 Black is threating e5. Because the a6 move prevents an
+uncomfortable check on b5, for example if Black plays 5...e5 directly 6.Bb5+
+and Black has no comfortable way of protecting the check. 6...Bd7 exchanges a
+very important piece in this particular pawn structure. and 6...Nbd7 is faced
+with 7.Nf5.2. Prepares b5, one of the most typical moves in the Sicilian.} 6.
+Bg5 {Develops the bishop to the most active square, prepares castling on queen
+side and now 6... e5 is not so strong.} e6 (6... Nbd7 7. Bc4 {This move makes
+Black's development a very difficult task.} Qa5 (7... e6 8. O-O {This is one
+of the positions where, I think, castling on king side is better, because
+Black is facing a lot of problems in developing his pieces. So White does not
+need to take any risks.} Qa5 (8... Be7 $2 9. Bxe6 {Is one of White's typical
+themes: a piece for three pawns and a better king situation.} fxe6 10. Nxe6 Qb6
+11. Nxg7+ Kf7 12. Nf5 $40) 9. Qd2 {And White has all his pieces already
+developed, while Black needs to move both bishops and perform the castling.
+White can take advantage of his development advantage and attack with f4 and
+then prepare e5 or f5, depending on the situation of the pieces.} Be7 10. Rad1
+h6 11. Bh4 Ne5 12. Bb3 Bd7 (12... Nxe4 13. Nxe4 Qxd2 14. Rxd2 Bxh4 15. f4 Nc6
+16. Nxc6 bxc6 17. Nxd6+ {With a better endgame for White. If you have already
+studied the course "Endgame Expert", you may not have problems in winning this
+endgame :)}) 13. f4 Nc6 14. f5 {White already implementing his plan, while
+Black has not yet castled.}) (7... Qb6 8. Bb3 e6 9. O-O Be7 10. Kh1 {If White
+wants to play f4, he needs to remove the king from the a7-g1 diagonal.} Nc5 11.
+Qe2 {With the same plan f4 and then playing e5 or f5, depending on the
+situation of the pieces.}) 8. Qd2 e6 9. O-O {Transpose to the 7...e6 variation.
+And you already know that White's better here.}) (6... e5 $6 {Is not a
+suitable move against 6.Bg5 or 6.Bc4. Because the ideal position for the
+dark-squared bishop in this pawn structure is g5.} 7. Nf5 {Maximum activity.
+After this move Black has a lot of problems; the knight on f5 is like a
+pineapple under the arm. And if Black takes it with 7...Bxf5 he is losing his
+most important minor piece. Also White is up in development.} Bxf5 8. exf5 Be7
+9. Bxf6 {Exchanging a defender of the light squares e4 and d5; after this move
+White has a slight but permanent positional advantage. He should put his
+bishop on g2 and then castle king side and put pressure on Black's weaknesses.}
+Bxf6 10. g3 Nc6 11. Bg2 O-O 12. O-O) 7. f4 {This move doesn't develop a piece
+and you may say: "This move is breaking opening principles" - but in this case
+this isn't true. Control of the centre is one of the opening principles. Also
+this move is going to be necessary at some point. Because, as you have already
+seen, White's main plan is to play e5 or f5.} Be7 (7... Qb6 8. Nb3 Be7 9. Qf3
+Nbd7 10. O-O-O O-O 11. g4 $1 {In our previous course we suggest the move 11.
+Bd3. But in this kind of position, with castling on opposite sides, the rule
+is "kill or be killed". And the move 11.Bd3 is certainly not a bad one, but 11.
+g4 is more in accordance with the plan.}) (7... Nc6 8. Nxc6 bxc6 9. e5 h6 10.
+Bh4 g5 {Only move for Black.} 11. fxg5 Nd5 12. Nxd5 cxd5 13. Qh5 Qb6 14. Bd3
+Qe3+ 15. Be2 Qxe5 16. g6 Qxh5 17. Bxh5 fxg6 18. Bxg6+ Kd7 19. O-O {With a
+better endgame for White.}) (7... Nbd7 8. Qf3 Qc7 9. O-O-O b5 10. Bd3 Bb7 11.
+Rhe1 {And the ideas are similar to the main line.}) (7... Qc7 8. Bxf6 gxf6 9.
+Qd2 Nc6 10. O-O-O Bd7 11. Kb1 $1 {This move is always useful in the position
+of queen side castling, especially in the Sicilian because you have removed
+the king from the semi-open "c" file.} O-O-O 12. Bc4 {White should have made
+this move just after Black castles on the queen side, because if White plays
+it a move earlier, Black can start an attack on the queen side with b5-b4 and
+a5-a4.} Kb8 13. Nxc6+ Qxc6 14. Bb3 {And White's plan is to play f5 and to put
+pressure on the e6 and f6 pawns, using the a2-g8 diagonal and the "f" file.}) (
+7... h6 8. Bh4 Qb6 {The idea of this variation with Black is that White cannot
+play 9.Nb3 now like in the 7...Qb6 line, because of 9...Qe3+ winning a pawn.
+So White should look for another way of protecting his b2 pawn.} 9. a3 $1 {
+Setting a beautiful trap} Nc6 (9... Qxb2 $4 10. Na4 $1 {And Black's queen is
+trapped!}) (9... Be7 10. Bf2 Qc7 11. Qf3 b5 12. O-O-O {With the same plans g4,
+h4 and then, at the appropriate moment, g5.}) 10. Bf2 Qc7 11. Qf3 Be7 12. O-O-O
+{And White's plan is to play g4, h4 and, at some point, g5 to open up the king
+side.}) 8. Qf3 Qc7 (8... h6 9. Bh4 g5 {This variation has a curious history.
+It was first played by Argentinian GM Hernan Pilnik in 1955 against GM
+Olafsson. Then in the interzonal of Gothenburg the same year, an interesting
+situation occurred. Three Russian players, GM Efim Geller, GM Boris Spassky
+and GM Paul Keres, played against three Argentinian players, GM Oscar Panno,
+GM Hernan Pilnik and GM Miguel Najdorf. Geller vs. Panno, Spassky vs. Pilnik
+and Keres vs. Najdorf. At an important moment, I'm going to finish the story.}
+10. fxg5 Nfd7 {The three Russian players reached this position. So what did
+Keres and Spassky do? They stood up and left Geller thinking. I cannot stop
+laughing when I imagine this situation. Geller calculated all the variations
+and played on.} 11. Nxe6 $1 {Then Spassky and Keres sat down and just copied
+the move :) !} fxe6 12. Qh5+ Kf8 {Again Spassky and Keres stood up and Geller
+played.} 13. Bb5 $3 {Great move! It's just that Fischer, many years later,
+discovered a defence. The idea behind this move is the following: White wants
+to give checkmate on f7. If Black defends by putting his knight on e5, then
+White can renew the threat by playing Bg3. If White's light-squared bishop was
+moved on to any other square, Back can defend the e5 knight with his other
+knight, thereby holding the position. But in this case, if Black connects the
+knights, then the bishop can take one of them! Sometimes I think that this
+move was prepared and that all I spoke to you about above was just a
+performance! Anyway we will never know the truth.} Rh7 $1 {None of the
+Argentinian players made this move and they all lost their respective games. I
+think two of them played 13...Kg7 that also holds the position and the other
+13.. .Ne5. But in the end they all lost.} (13... Kg7 {Is also playable.} 14.
+O-O Ne5 15. Bg3 Ng6 16. gxh6+ Rxh6 17. Rf7+ Kxf7 18. Qxh6 $40) 14. Bxd7 Nxd7 (
+14... Bxd7 15. g6 Bxh4+ 16. g3 Bf6 17. gxh7 Kg7 18. O-O-O $40) 15. Qg6 Rf7 16.
+Qxh6+ Kg8 17. g6 Bxh4+ 18. g3 Rg7 19. gxh4 {With big compensation for the
+piece.}) 9. O-O-O Nbd7 (9... O-O {Is very risky in this kind of position.
+White can simply start pushing his king side pawns. And you should keep in
+mind the rule "Kill or be killed". But in this kind of position White's attack
+is faster.}) 10. Bd3 b5 (10... h6 11. h4 $1 (11. Bh4 g5 12. fxg5 Ne5 13. Qe2
+Nfg4 14. Nf3 hxg5 15. Bg3 {This was the line given in the previous course. 11.
+h4 is an improvement.}) 11... Nc5 (11... hxg5 12. hxg5 Rxh1 13. Rxh1 Nf8 14.
+gxf6 Bxf6 {White has advantage on development, and the rook dominates the open
+"h" file. The plan for White here is to attack on the king side with g4-g5.})
+12. f5 $5 {Start opening up the position.} hxg5 $1 13. hxg5 Rxh1 14. Rxh1 Ng8
+$1 (14... Nfd7 15. fxe6 fxe6 (15... Nxe6 16. Nxe6 fxe6 17. Rh8+ Nf8 18. e5 {
+And White has a good attack.}) 16. Qh5+ Kd8 17. Qh8+ Nf8 18. Rf1 Qd7 19. Qxg7 {
+White is a piece down. But against this he has two pawns (one of them passed
+and very dangerous on g5), development (look at Black's queen side) and a
+better position for all his pieces, including the king.}) 15. Rh8 Bxg5+ 16. Kb1
+Kf8 17. fxe6 Bxe6 18. Nxe6+ Nxe6 19. e5 g6 20. Rh7 {With compensation for the
+piece.}) 11. Rhe1 {White has 2 main plans: 1. prepare the attack in the centre
+with e4-e5; 2. prepare the attack on the king side by pushing the pawns (g4-g5)
+.} Bb7 12. Qg3 {threatening 13.e5!} b4 (12... O-O-O 13. Bxf6 Nxf6 (13... Bxf6
+$2 14. Bxb5 $1 {Very typical sacrifice!} axb5 15. Ndxb5 Qa5 16. Nxd6+ Kb8 17.
+e5 $18) (13... gxf6 14. Qg7 Rhf8 15. Nxe6 $1 {Winning a pawn.}) 14. Qxg7 Rdf8
+15. Qg3 b4 16. Na4 {And White is better. Black has insufficient compensation
+for the pawn.}) (12... h6 13. Bxf6 Bxf6 14. Bxb5 axb5 15. Ndxb5 Qc6 16. Rxd6 $1
+$36) 13. Nd5 $1 {One of the main plans in the variation. White sacrifices his
+knight in order to open the position and take advantage of the bad situation
+of the Black king.} exd5 {Only move} 14. exd5 Kd8 {The king must be removed
+from the open "e" file.} (14... h6 {Loses} 15. Bxf6 Nxf6 16. Rxe7+ Qxe7 (16...
+Kxe7 17. Qxg7 Rae8 18. Nf5+ Kd7 19. Qxf7+ Kc8 20. Qxf6 $18) 17. Re1 $18) 15.
+Nc6+ $1 {Opening the "d" file, winning the bishop pair and creating a passed
+pawn on the "c" file.} Bxc6 16. dxc6 Nc5 17. Bh4 $1 {Attacking the g7 pawn
+that is one of the main weaknesses in this position.} Rg8 (17... g6 18. Rxe7 $1
+{Destroying the defender of the dark squares that are very weak, especially
+after Black's last move.} Qxe7 19. Re1 Ne6 20. f5 $1 {Opening all the lines.}
+gxf5 21. Qh3 {And White's plan is clear and unavoidable: take the pawn on f5
+and then put pressure on the f6 knight, finally taking it, recovering the
+material with a much better position in a number of ways.}) (17... Bf8 18. Bc4
+Ra7 19. Bd5 {And Black has no way of finishing his development. White's plan
+is pretty simple: with a careful manoeuvre, treble up the heavy pieces on the
+"e" file creating unavoidable mate threats.}) 18. Bf5 {Cutting off the enemy
+king from the c8 square! Black has certainly very few things he can do.
+White's plan is to use the "e" file to penetrate into Black's territory.} *
+

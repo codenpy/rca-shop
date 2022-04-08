@@ -1,0 +1,73 @@
+[Event "Tilburg"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Timman, J."]
+[Black "Ljubojevic, L."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppb2ppp/2nq4/1B1p4/NP2n3/P3PN2/1B3PPP/R2Q1RK1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1981.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1. Bxc6 $1 {Preparing 2 Be5 to swap the attacker on c7.} bxc6 ({After} 1...
+Qxc6 $6 2. Rc1 Qd7 3. Qd4 {
+, followed by 4 Rfd1, the d5-pawn turns into a problem for Black.}) ({
+As for the unexpected} 1... Ng5 $5 {, White could react by} 2. Ne5 bxc6 3. Rc1
+{with pressure on the c6-pawn.}) 2. Be5 $1 Qe7 3. Bxc7 ({The intermediate} 3.
+Qd4 $5 {, followed by 4 Bxc7, might have been more precise.}) 3... Qxc7 4. Qd4
+Re8 5. Rfc1 Qd6 {Parrying the threats of 6 b5 and 6 Qxd5.} 6. Nc5 {. Thanks to
+the eternal weakness on c6, White keeps a slight advantage. . (press F10 for
+the next exercise)} *
+
+[Event "Agios Kirykos"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Groetz, H."]
+[Black "Rychagov, A."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "r4rk1/pp2bppp/1nbqp3/3nN3/3P4/P1N5/1PB1QPPP/R1BR2K1 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "2009.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1... Nxc3 $1 {Preparing a "defensive" bishop exchange on a4.} ({
+In the game Rychagov preferred} 1... Rac8 {, when} 2. Ne4 $1 Qc7 3. Nc5 {
+would have yielded White some initiative.}) 2. bxc3 Ba4 $1 3. Rd3 (3. Bxh7+ $5
+Kxh7 4. Qh5+ Kg8 5. Rd3 f6 $1 {leads to perpetual check; e.g.} 6. Rg3 fxe5 7.
+Rxg7+ $5 Kxg7 8. Bh6+ Kh8 $1 9. Bg5+ $1 Kg8 {- Baburin.}) 3... Bxc2 4. Qxc2 Nd7
+$1 {Challenging the strong knight on e5.} 5. Rh3 g6 6. Bf4 Nxe5 7. Bxe5 Qc6 {
+. Black has no major problems;} ({e.g.} 7... Qc6 8. Qd2 $6 f6 9. Qh6 Rf7 {
+, easily repelling the attack. . (press F10 for the next exercise)}) *
+
+[Event "USSR Championship, Riga"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Korchnoi, V."]
+[Black "Taimanov, M."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "r2rn1k1/1b2qpp1/2n1p2p/p3P3/1p6/3B2Q1/PPPNN1PP/4RR1K b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1958.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1... Qg5 $1 {Forking the enemy queen and knight in order to force a queen
+exchange, thus pre-empting a potential white attack.} ({Also interesting is} 
+1... Ba6 $5 {, swapping the attacker on d3.}) 2. Qxg5 hxg5 3. Ng3 Ba6 $1 {
+The exchange of bishops will make the e5-pawn more vulnerable.} 4. Bxa6 Rxa6 5.
+Nde4 $6 ({Preferable was} 5. Nc4 Rd5 6. Rd1 Ra7 7. Rxd5 $1 exd5 8. Ne3 $1 {
+with chances for a draw.}) 5... Rd5 $1 6. Nxg5 Nxe5 {. Thanks to his sounder
+pawn structure Black is better in the endgame. . (press F10 for the next
+exercise)} *
+

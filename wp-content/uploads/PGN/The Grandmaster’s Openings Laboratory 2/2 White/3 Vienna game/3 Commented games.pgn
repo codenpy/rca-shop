@@ -1,0 +1,731 @@
+[Event "Biel Interzonal"]
+[Site "Biel"]
+[Date "1976.08.03"]
+[Round "17"]
+[White "Larsen, Bent"]
+[Black "Matanovic, Aleksandar"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2625"]
+[BlackElo "2525"]
+[Annotator "RCA"]
+[PlyCount "77"]
+[EventDate "1976.07.??"]
+[EventRounds "19"]
+[EventCountry "SUI"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e5 2. Bc4 {An important move order... White should play Bc4,Nc3,d3
+before Nf3 to avoid Black's interrupting Nxe4 sacrifice followed by ..d5 which
+retains a minimum equality for Black!} Nf6 3. Nc3 {Here you can see White
+can't play the normal-looking Nc3 due to Nxe4 and d5, regaining the piece
+instantly thus getting at least a level position...} Nc6 (3... Nxe4 $5 4. Qh5 (
+4. Nxe4 d5 $36) 4... Nd6 5. Qxe5+ Qe7 6. Qxe7+ Bxe7 7. Bb3 c6 $11 {And no
+visible edge is seen for White here...}) 4. d3 Bc5 5. Bg5 $5 {A practical
+choice; pinning the f6 knight and preparing Nd5 to increase the pressure in
+Black's camp...} h6 $5 {For...} (5... d6 $5 {See the theory section...}) 6. Bh4
+{White is completely right to keep his dark-squared bishop along the 'h4-e8'
+diagonal, retaining his control over h5 with his queen so that Black can't
+play ..Nh5 just after ..g5 to eliminate White's key bishop.} d6 7. Na4 {
+Necessary... White is planning f3,Bf2,Ne2 & d4... but, in the presence of
+Black's dark-squared bishop, his plan is impossible.} Bb6 8. Nxb6 axb6 9. f3 {
+Controlling on g4, making room for his dark-squared bishop at f2 to prepare d4
+at a later stage...} Be6 {Black is happy with this thematic Vienna
+breakthrough to activate his position...} (9... Na5 $5 10. Ne2 {White should
+concentrate on his normal development...} Nxc4 11. dxc4 {White's domination on
+d5 is visible... his plan is b3,0-0,Qd3 with onward play.}) 10. Ne2 {Nice
+ignoring idea... principle of least active piece works well here!} g5 {Black
+takes advantage of his previous prophylactic ..h6 move.} 11. Bf2 {With the
+idea of Bxe6, d4, 0-0 etc... White has an active game.} d5 12. exd5 {Clearing
+the key 'e4' square for his knights is one of White's strategies in this
+opening!} Nxd5 (12... Bxd5 $5 13. Nc3 Bxc4 14. dxc4 O-O 15. O-O $14 {White has
+a good target on e5; besides he has the pawn majority on the queen side...})
+13. Qd2 Qe7 14. O-O {White completes his development..} Nf4 (14... O-O-O $5 {
+Aggressive choice... but White has a good answer for that...} 15. a4 $5 Rhg8
+16. Bb5 $36 {With the idea of a5 - and strong initiative along the queen side
+is evident.}) 15. Bb5 $5 {Keeping pieces as much as possible; again preparing
+Bxc6 and thus establishing a distant passed pawn, which is a hidden resource
+for White in the endgame...} Ra5 $6 (15... Qd6 $5 {Black may be ready for Qxc6.
+.. also putting an extra defender on e5...} 16. Nxf4 gxf4 17. Bxc6+ Qxc6 18.
+Bh4 Rg8 19. d4 $36 {Black is struggling with his centralised king in an open
+position.}) 16. a4 $5 (16. Bxc6+ $5 {White has just removed the main defender
+of the 'e5' pawn; he has also established the possibility of a distant passer
+along the 'a' file in the endgame...} bxc6 17. Nxf4 gxf4 (17... exf4 $2 18. Qc3
+$16) 18. Qc3 Qd6 19. b4 Ra4 20. Rfe1 f6 21. d4 $14 {With a better endgame for
+White...}) 16... Nxe2+ $5 (16... O-O $5 17. Nxf4 gxf4 18. Bxc6 bxc6 19. b4 Ra6
+20. Rfe1 $36 {White has a dominating position over Black's many weaknesses...})
+17. Qxe2 O-O 18. c3 {Controlling d4 and preparing b4 with a strong initiative..
+.} Qd6 19. Rfe1 $5 {Preparing Bg3 followed by d4...} Raa8 (19... f6 $5 20. b4
+Raa8 21. Bg3 Na7 22. d4 $36 {Back's centre has suddenly collapsed...}) 20. Bg3
+$5 (20. Bxc6 $1 {Simplest... win a pawn without any compensation for Black!}
+bxc6 21. Qxe5 Qxe5 22. Rxe5 $14) 20... f6 21. d4 $1 {The attack on e5 is just
+irresistible...} Bf7 (21... exd4 $4 22. Qxe6+ $18) 22. Rad1 $5 (22. dxe5 $1 {
+Immediate take on e5 is much better...} Nxe5 23. Rad1 Qe6 24. Bxe5 fxe5 25. Qe4
+{Preparing Qxb7, win a pawn and Bd3, mating attack is decisive...}) 22... Qe7
+23. Qc2 (23. dxe5 $5 {Another interesting alternative...} fxe5 24. b4 Bb3 25.
+Bc4+ Bxc4 26. Qxc4+ Qf7 27. Qg4 $36 {With the idea of Rd7 or h4 and a nice
+attacking position for White...}) 23... Be8 $6 {Main drawback to this move is:
+it closes the connection of the rooks...} (23... Rfd8 $5 24. f4 gxf4 25. Bxf4
+$40 {With attack on Black's much exposed king...}) 24. dxe5 Nxe5 25. Bxe5 $5 {
+Right time to isolate the pawn structure...} fxe5 26. Rd5 $16 Bxb5 27. axb5 {
+Sweet and simple chess... White doesn't need to complicate with...} (27. Rdxe5
+$6 Bxa4 28. Qxa4 Rxa4 29. Rxe7 Rf7 $14 {Black can still hold the position...})
+27... Rae8 28. Re4 (28. Rexe5 $5 {Simplest way to continue the winning
+position...} Qxe5 29. Rxe5 Rxe5 30. Qg6+ Kh8 31. Qxh6+ Kg8 32. h4 gxh4 33. Qxh4
+$18 {White has a decisive edge... theoretically, a won position...}) 28... Rf6
+29. h4 $5 {Further weakening Black's king side...} gxh4 30. Rxh4 c6 31. bxc6
+bxc6 32. Rd2 {White's advantage lies in his better pawn structure and Black's
+weak king position...} Re6 33. Re4 {By fixing the 'e' pawn, White doesn't
+allow Black to exchange it in any case...} b5 34. Qd1 {White has successfully
+created an entry point via d7...} Rg6 35. Rd7 Qc5+ 36. Kf1 {White's king is
+safe enough...} Rf8 $2 {Black makes White's task easier...} (36... Qf8 $5 37.
+Qd3 Qf6 38. c4 $16) 37. Qd3 $1 {Preparing Rxe5/Rg4 with a mating attack on h7
+is totally decisive.} Rff6 38. b4 {Removing the last defender of e5.} Qb6 39.
+Rxe5 {Black has every reason to resign in the position... his king position is
+beyond repair... although...} (39. Rg4 $3 {Is the most accurate continuation
+for White...} Rxg4 40. Qh7+ Kf8 41. Qh8+ Rg8 42. Qxf6+ Ke8 43. Qe7#) 1-0
+
+[Event "BCF-ch"]
+[Site "Edinburgh"]
+[Date "1985.??.??"]
+[Round "2"]
+[White "Rogers, Ian"]
+[Black "Teichmann, Erik OMC"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2510"]
+[BlackElo "2385"]
+[Annotator "RCA"]
+[PlyCount "71"]
+[EventDate "1985.08.??"]
+[EventRounds "11"]
+[EventCountry "SCO"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+1. e4 e5 2. Bc4 {Important move order; in this way White reaches the Vienna
+game while eliminating one powerful option for Black...} Nf6 3. Nc3 $6 {But
+White has given the extra option which is not correct... and totally
+unnecessary...} Nc6 {Black might go for further complications with...} (3...
+Nxe4 $5 4. Qh5 (4. Nxe4 d5 $36) 4... Nd6 5. Qxe5+ Qe7 6. Qxe7+ Bxe7 {With a
+drawish endgame...}) 4. d3 Bc5 5. Bg5 {A practical choice, pinning the knight
+and preparing Nd5, thus increasing pressure on Black's camp...} h6 {Perhaps
+Black's best choice... to keep the option of playing ..g5 after White's
+tempting Nd5 is necessary...} (5... d6 $5 {See the theory section...}) 6. Bh4 {
+White has every right to keep the bishop along the h4-e8 diagonal, keeping his
+control over the h5 square; so that Black can't play ..Nh5 after ..g5 thus
+eliminating White's key attacking bishop at the position.} d6 7. Na4 {
+Necessary... White is planning to play f3,Bf2,Ne2 and d4... but, in the
+presence of Black's dark-squared bishop, this plan is impossible...} Bb6 8.
+Nxb6 axb6 9. f3 Be6 (9... Na5 $5 10. Ne2 Nxc4 11. dxc4 {White's domination on
+d5 is visible...}) 10. Ne2 g5 {This attacking move only helps White in
+implementing his plan...} 11. Bf2 {With the idea of Bxe6, d4, 0-0, etc...
+White has a definite active game.} d5 12. Bb3 $5 (12. exd5 $5 {Interesting
+alternative... prevents Black from creating any further complications...} Nxd5
+13. O-O (13. Qd2 $5 Qd6 14. O-O O-O-O 15. a3 $13) 13... O-O 14. Re1 Re8 15. a4
+{...is also good for White.}) 12... Qe7 13. c3 (13. O-O $5 Rg8 14. exd5 Nxd5
+15. d4 {With the idea of c4 and d5, thus making space in the centre.}) 13...
+O-O-O $5 14. Qc2 {Removing the queen from the d-file is necessary.} h5 15. h4 (
+15. O-O-O $5 {Safest and logical choice...}) 15... g4 $6 {Not the proper time
+to be escaping from the tension...} (15... dxe4 $5 16. dxe4 (16. fxe4 Ng4 {
+With a strong attack for Black.}) 16... g4 $36 {Black gets a nice initiative
+in this position.}) 16. Be3 (16. O-O-O $5 {White shouldn't miss the
+opportunity of bringing his king to a safe corner...}) 16... gxf3 17. gxf3 dxe4
+18. dxe4 {fxe4 allows Black's knight to sit on g4...} Nd7 $2 {Allowing White
+to bring his king to the corner...} 19. O-O-O $1 Bxb3 20. axb3 Nc5 21. b4 {
+Eliminating the knight from a strong point..} Ne6 22. Ng3 {Eyeing at the weak
+f5 square, thus sitting on its ideal outpost, paralysing Black's important
+squares...} Qf6 23. Nf5 Ne7 {Black is able to eliminate White's strong knight,
+but he has to remove an important defender of his own king...} 24. Nxe7+ Qxe7
+25. Qa4 Kb8 26. Kc2 Rxd1 27. Rxd1 Rd8 28. Ra1 {White successfully takes
+advantage of the drawback of Black's Ne7xf5 move...} c5 $8 29. bxc5 bxc5 30.
+Qa7+ Kc7 31. Qa5+ Kb8 (31... Kc6 32. b4 {Will simply bring the Black king to
+an awkward position...}) 32. b4 {Opening up the g1-a7 diagonal is decisive!}
+Qd6 (32... Qd7 $5 33. Bxc5 Qd3+ 34. Kb2 Qc4 35. Qa7+ Kc8 {Black can still
+fight here...}) 33. Bxc5 {Accurate... Black has no compensation in terms of
+counterplay.} Qd3+ {Still, he tries for perpetual check...} 34. Kb3 Qxf3 $4 {
+Black surrenders his king completely into White's hands...} (34... Rd4 $1 {
+Very difficult to find such hidden resources, especially in a pressured
+situation.} 35. Bb6 Qc4+ 36. Ka4 Qc6+ 37. Qb5 {Otherwise repeated checks on c4
+leads to a draw...} Rd6 38. Qxc6 Rxc6 39. Kb5 Rxc3 40. Rg1 Kc8 {Black can
+still hold the position...}) 35. Bb6 Nd4+ 36. Bxd4 {Black resigns due to ..
+Rxd4 is met by Qxe5 and a win for White...} 1-0
+
+[Event "Cullera op-A 29th"]
+[Site "Cullera"]
+[Date "2012.08.30"]
+[Round "8"]
+[White "Remolar Gallen, Jose"]
+[Black "Pablos Tenrero, Raquel"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2167"]
+[BlackElo "1960"]
+[Annotator "RCA"]
+[PlyCount "98"]
+[EventDate "2012.08.25"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2012.10.19"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 Nf6 4. d3 Nc6 5. Bg5 {A practical choice, pinning
+the knight and preparing Nd5, thus increasing pressure on Black's camp...} d6
+6. Nd5 {White is happy to ruin Black's pawn formation on the king side...} Be6
+7. Bxf6 $5 {Better than Nxf6, because now White is maintaining control over
+the d5 square, which is one of his basic goals of White in the Vienna... now
+White has just destroyed Black's pawn structure...} gxf6 8. Qh5 $5 (8. c3 $5 {
+Controlling d4 and preparing b4, thus making space on the queen side with
+tempo is more adequate...}) 8... Nb4 $6 (8... Nd4 $5 {Better alternative...} 9.
+Ne3 c6 10. Bxe6 Nxe6 11. O-O-O Qc7 12. Ne2 O-O-O 13. c3 $36 {With the idea of
+d4...}) 9. Nxb4 Bxc4 (9... Bxb4+ $5 {Is also possible...} 10. c3 Bxc4 11. dxc4
+Bc5 12. b4 Bb6 13. Nf3 a5 14. O-O $14 {White has better prospects due to his
+superior pawn formation and more targets to attack...}) 10. dxc4 Bxb4+ 11. c3
+Bc5 12. Rd1 (12. Nf3 $5 {The principle of least active piece...} Qd7 13. O-O
+Qe6 14. b3 O-O-O 15. Nh4 Rdg8 16. b4 Bb6 17. Nf5 Rg5 18. Qf3 Rhg8 19. g3 Kb8
+20. a4 a5 21. Qd3 $36 {White has a good hold over both the sides of the board..
+.}) 12... Qe7 13. Ne2 {Knight starts its journey to f5 via g3.} O-O-O 14. Ng3
+Rhg8 15. Rd3 Rg5 16. Qh6 (16. Qxh7 $5) 16... Qe6 17. b3 Kb8 18. Rf3 {Forcing
+Black's rook to go back to g6, thus limiting its activity...} Rg6 19. Qh4 Bb6 {
+Black has no real plan in this position... rather, he is waiting.} 20. O-O c6
+21. Rd1 Bc7 (21... d5 $6 22. cxd5 cxd5 23. Rfd3 d4 24. cxd4 Bxd4 25. Nf5 $16)
+22. Nf5 Rdg8 23. g3 {Eliminating all Black's hope...} (23. Rg3 $5) 23... h6 24.
+h3 {Preventing Rg4; White doesn't show any hurriedness - he simply improves
+his position with every move before executing his plan...} Rd8 25. Rfd3 {
+Pressuring the weak 'd6' square, which compels Black to play a passive
+position.} a5 26. Kg2 a4 27. Qh5 b6 {Black weakens his position with every
+move... this is due to his lack of a plan.} 28. Nh4 {Finally, White decides to
+take the 'h6' pawn...} Rgg8 29. Qxh6 Rh8 30. Qd2 {Black doesn't claim back any
+compensation for his lost pawn.} Rxh4 {This is the result of frustration...}
+31. gxh4 f5 32. exf5 Qxf5 33. Qg5 Qe4+ 34. Kh2 Rh8 35. h5 Qe2 36. R1d2 Qe1 37.
+Qe3 {Eliminating all Black's hopes... the endgame is simpler for White with
+his material advantage...} Qxe3 38. fxe3 Rxh5 39. e4 f5 40. exf5 $6 {
+Unnecessary! White makes his task a little harder by allowing the bishop to
+play its role...} (40. Re3 $1 f4 41. Re1 axb3 42. axb3 Kb7 43. Rg1 {With a
+simpler win for White...}) 40... e4 41. Rd4 d5+ 42. Kg2 Rg5+ 43. Kh1 Be5 44.
+cxd5 {Good choice... offering the exchange leads to an easy rook ending for
+White...} Bxd4 45. Rxd4 axb3 46. axb3 Rxf5 47. d6 $6 (47. dxc6 $1 {We
+shouldn't ignore material, especially in the endgame...} Rf3 48. Kg2 Rxc3 49.
+Rxe4 Rxc6 50. Kg3 Rg6+ 51. Kf4 $18 {Black's king is simply out of the race...})
+47... Kc8 48. Kg2 Rf3 49. h4 Rxc3 {White manages the win due to his distant
+passer with the support of his king and rook...} 1-0
+
+[Event "Hoogeveen Essent op"]
+[Site "Hoogeveen"]
+[Date "2008.10.20"]
+[Round "4"]
+[White "Van Eijk, Sander"]
+[Black "Dal Borgo, Albin"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2366"]
+[BlackElo "2210"]
+[Annotator "RCA"]
+[PlyCount "95"]
+[EventDate "2008.10.17"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e5 2. f4 {White starts with the popular King's Gambit; sometimes the
+King's Gambit may be converted to the Vienna, but you need not start like this
+because it will enhance your scope of opening repertoire, which will increase
+your workload...} Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Nc6 6. d3 {Here we get a
+Vienna position...} Bg4 (6... Ng4 7. Ng5 O-O (7... Nf2 $4 8. Qh5 g6 9. Bxf7+
+$40 {With a crushing attack...}) (7... Bf2+ $2 8. Kf1 Nd4 9. Bxf7+ $14 {White
+is up in material... and enjoys an active position.} Kf8 10. Be6 $14 {White is
+up in material... and enjoys an active position.})) 7. Na4 (7. Bb5 $5 {Our
+recommendation, the choice of Nigel Short - pinning the knight and preventing
+Nd4 is necessary...} exf4 8. Bxf4 O-O 9. Bxc6 bxc6 10. h3 Bxf3 (10... Nh5 $5
+11. Bh2 Bxf3 12. Qxf3 Qg5 13. g4 Qh4+ 14. Kd2 {White king is safe in the
+centre, as Black has no time to open up the position...} Nf6 (14... Qg5+ $6 15.
+Ke2 Nf6 16. Qf4 {With a good position for White...}) 15. Qg3 Qg5+ 16. Qf4 Qg6
+17. Qf5 $14 {White has a better endgame with his centralised king with better
+pawn formation...}) 11. Qxf3 {Preparing 0-0-0 and White has good practical
+chances...}) 7... Bb6 8. Nxb6 axb6 9. O-O (9. c3 $5 {Preventing the ugly Nd4
+is necessary in this position.}) 9... Nd4 10. fxe5 Bxf3 11. gxf3 dxe5 12. f4 {
+Although White opens up his king position a little bit, he is safe enough with
+the shield of his harmonious bishop pair...} exf4 13. Bxf4 b5 {Black
+successfully eliminates one of the bishops, but he has to pay for it in terms
+of weakening his king's position...} 14. Bb3 $5 (14. Bxf7+ $5 {The best
+alternative....} Kxf7 15. c3 Ne6 16. e5 Qd5 17. Bg3 $1 {Provoking ..h5, thus
+weakening Black's king position a little more.} h5 18. h4 $1 {Preventing h4
+and making room at h2 for his king...} c6 19. d4 $13) 14... Nxb3 15. axb3 Rxa1
+{Black is happy to bring White's queen to the corner with limited activity...}
+16. Qxa1 O-O 17. Kh1 (17. Qa7 $5 {Controlling the important 'g1-a7' diagonal
+with an attack on b7 is better for White...}) 17... Qd7 18. Qd1 $6 (18. Qe1 $5
+{With the idea of Bd2-Bc3-Qg3/Qh4 is better for White...}) 18... Ra8 (18... Qc6
+$5 19. b4 Ra8 20. Be5 Nd7 21. Bc3 {Covers the c2 square and is preparing Qf3...
+}) 19. Qf3 Ne8 20. Be5 Ra6 21. c4 $6 {Not necessary...} (21. Bc3 $5 c5 22. b4
+$36) (21. b4 $5 Qe6 22. Bc3 $11) 21... bxc4 (21... b4 $5 {Is Black's best
+choice...}) 22. bxc4 Rh6 23. Ra1 Ra6 24. Rf1 Rh6 25. d4 (25. Qf5 $5 Qxf5 26.
+Rxf5 Ra6 {White has no visible edge...}) 25... Rh3 $6 {This tempting move
+merely helps White to rebuild his position...} (25... b6 $5) 26. Bg3 $16 {
+White gets an active position... his pawn storm along the centre is very
+irritating for Black.} Rh6 (26... Qxd4 $4 {Blunder...} 27. Qxf7+ Kh8 28. Qf8#)
+27. e5 Rb6 28. d5 $1 {White's position is so strong that he need not defend
+his b2 pawn...} Qe7 $2 {The result of mounting pressure... usually happens
+when someone is defending his position against pawn storm along the centre...}
+(28... Rxb2 $4 29. e6 Qe7 (29... fxe6 30. Qf8#) 30. exf7+ $18) (28... f6 {
+Black missed his best defence...} 29. b3 Qe7 30. e6 $16) 29. d6 $6 (29. Bf2 $1
+{Simplest...} Rg6 30. Bc5 $18) 29... cxd6 30. exd6 Qd7 $2 (30... Rxd6 $5 31.
+Bxd6 Nxd6 $16) 31. b3 (31. Re1 {Not a very perfect game - White again missed
+the simplest choice...} Nf6 32. Re7 Qd8 33. c5 Rxb2 34. Be5 Rb1+ 35. Kg2 $18)
+31... Rc6 32. Ra1 {White aims at the back rank... thus provoking Black into
+exchanging the rooks and playing with a poor knight against two advanced
+passed pawns.} h6 33. Ra8 Rc8 34. Rxc8 Qxc8 35. Be5 Qe6 36. Qd3 Qd7 37. b4 Nf6
+$2 {Final mistake...} (37... f6 38. Qd5+ Kh7 39. Bg3 $16 {White's connected
+passers are a killer...}) 38. Bxf6 gxf6 39. c5 $18 {The game is simply over...
+the rest is a matter of technique for White to earn a full mark...} b6 $18 {
+The game is simply over... the rest is a matter of technique for White to earn
+a full mark...} 40. Kg1 bxc5 41. bxc5 Kf8 42. Kf2 Qa7 43. Qe3 Qa2+ 44. Kg3 Qd5
+45. Qxh6+ Ke8 46. Qxf6 Qd3+ 47. Qf3 Qg6+ 48. Kf2 1-0
+
+[Event "Dvorkovich Memorial op"]
+[Site "Taganrog"]
+[Date "2011.08.09"]
+[Round "9"]
+[White "Kostrikina, Anna"]
+[Black "Frolov, Andrei"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2079"]
+[BlackElo "2181"]
+[Annotator "RCA"]
+[PlyCount "49"]
+[EventDate "2011.08.01"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2011.10.28"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 Nf6 4. d3 O-O 5. f4 $5 {White chooses the
+aggressive line of the Vienna...} (5. Nf3 {Leads to the Italian Game...
+another story completely!}) 5... d6 6. Nf3 c6 {White is also ready for the
+tempting...} (6... Ng4 $5 7. Qe2 Nc6 {Tempting...} (7... Nf2 {Doesn't work for
+Black here due to...} 8. Rf1 $5 Ng4 9. h3 Nf6 10. fxe5 dxe5 11. Nxe5 $16 {And
+Black doesn't get any compensation for his lost pawn...}) 8. h3 Nd4 9. Nxd4
+Qh4+ (9... exd4 $6 10. hxg4 dxc3 11. bxc3 $16 {White has a very active
+position... pressure shown on Black's king side.}) 10. Kf1 exd4 (10... Bxd4 11.
+g3 Qh6 12. Kg2 $16) 11. Nd5 Ne3+ 12. Nxe3 Qxf4+ 13. Qf2 Qxf2+ 14. Kxf2 dxe3+
+15. Bxe3 {White has a minimal edge due to his centralised king in the endgame..
+.}) 7. fxe5 $5 {Fixing the e5 pawn and permanently disallowing Black's
+thematic ..d5 breakthrough...} (7. Na4 $5 exf4 8. Nxc5 Qa5+ 9. Qd2 Qxc5 10.
+Qxf4 d5 $132 {Black gets counterplay...}) 7... dxe5 8. Qe2 {Preparing Be3,
+eliminating Black's control over the dark squares, followed by 0-0-0...} b5 {
+Black understood White's plan and strikes back immediately along the queen
+side...} 9. Bb3 Nbd7 10. Be3 Qe7 (10... Bxe3 $5 11. Qxe3 Ng4 12. Qd2 (12. Qg5
+Qxg5 13. Nxg5 Ne3 14. Kf2 Ng4+ 15. Ke2 $11) 12... a5 13. h3 Ngf6 14. a4 b4 15.
+Nd1 {With the idea of 0-0 and leading to a good game for White...}) 11. a3 a5
+$5 {Black aims to grab space on the queen side....} 12. O-O Ba6 13. Kh1 b4 $6 {
+Giving up the a4 square for White's knight is not a good deal...} 14. Na4 {Now
+the knight comes to a better square...} Nxe4 $6 {Good-looking and tempting...
+but not accurate.} (14... Bxe3 $5 15. Qxe3 Ng4 16. Qg1 {Followed by axb4, h3,
+Nb6... slightly better for White.}) 15. Bxc5 $6 {Inaccurate... not necessary...
+} (15. axb4 $1 Bxb4 (15... axb4 16. Bg1 Bxg1 17. Qxe4 Bc5 18. Ng5 Qxg5 19. Qxc6
+$36 {Regaining the piece with a strong initiative...}) 16. Nb6 Rae8 (16... Nec5
+$5 17. Nxa8 Nxb3 18. Nc7 e4 19. Bg5 f6 20. Nxa6 Nxa1 21. dxe4 fxg5 22. Rxa1 {
+Followed by Rd1 and Qd3, with good practical chances...}) 17. Nxd7 Qxd7 18. Bb6
+Nf6 19. Bxa5 Bd6 20. Ng5 $36 {Is good for White...}) 15... Nexc5 16. Nxc5 Nxc5
+{Black successfully holds the position after White's slight mistake...} 17.
+Qxe5 Rfe8 $6 (17... Qxe5 $5 18. Nxe5 Nxb3 19. cxb3 bxa3 20. bxa3 Rfb8 {And
+Black is at least equal with good counterplay...}) 18. Qxe7 $1 Rxe7 19. Nd4 {
+Attacking the weak c6 square and defending the bishop, thus preventing Black
+from ruining the queen side pawn structure...} Rd7 $6 (19... Nxb3 {Perhaps
+Black's best chance in this position...} 20. Nxb3 a4 21. Nc5 b3 22. c4 Re2 23.
+Rab1 {White is still better!}) 20. Nxc6 $6 {Greedy...} (20. axb4 $1 axb4 21.
+Ra5 Nxb3 22. Nxb3 Rdd8 23. Rf4 $16 {Attack on the scattered pawns... White is
+clearly better.}) 20... Nxb3 21. cxb3 {Pawn structure is suddenly falling
+apart...} Bb5 22. Ne5 Re7 $6 {Black missed his last chance in the game...} (
+22... Rd5 $5 23. Nc4 Rxd3 $15) 23. Nc4 bxa3 24. bxa3 a4 25. Nb6 $14 {
+Definitely not the time for Black to resign, but White's advantage in the
+position is clear...} 1-0
+
+[Event "Queens-Kings"]
+[Site "Jinan"]
+[Date "2002.07.24"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Zhu Chen"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2682"]
+[BlackElo "2505"]
+[Annotator "RCA"]
+[PlyCount "121"]
+[EventDate "2002.07.21"]
+[EventRounds "4"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2002.11.12"]
+
+1. e4 e5 2. f4 {White starts with the popular King' Gambit; sometimes it is
+converted to the Vienna, but you need not start like this because it will
+increase your workload...} Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Nc6 6. d3 {Here we
+get a Vienna position...} Bg4 7. Bb5 {Pinning the knight, thus preventing Nd4
+is necessary...} (7. h3 $5 {A truly practical choice, although logically not
+100% correct...} Bxf3 8. Qxf3 Nd4 9. Qg3 {If your opponent doesn't prepare
+this type of sharp lines, it is not easy for him to play the normal moves... a
+single mistake - game will be over!} Nxc2+ 10. Kd1 Nh5 $5 (10... Nxa1 {Choice
+at club level...} 11. Qxg7 Rf8 12. fxe5 dxe5 13. Bg5 Be7 14. Rf1 $132 {
+Mounting pressure on Black's camp...}) 11. Qg4 Nxa1 12. Qxh5 O-O 13. fxe5 dxe5
+14. Qxe5 Bd4 15. Qf5 c6 16. Rf1 $44 {White has sufficient compensation for his
+lost material...}) 7... exf4 8. Bxf4 a6 (8... O-O $5 {Right way to unpin...} 9.
+Bxc6 bxc6 10. Na4 Bb6 11. Nxb6 axb6 12. O-O $13 {White has some hope due the
+control over the 'f' file; again, he has a good chance to create a distant
+passer along the 'a' file in endgame...}) 9. Bxc6+ $1 bxc6 10. h3 Nh5 $6 (10...
+Be6 $5 11. Qd2 Rb8 12. d4 Ba7 13. b3 O-O 14. O-O Re8 15. Qd3 {With the idea of
+Rae1, e5 with better prospects...}) 11. Bh2 $6 (11. hxg4 $1 Nxf4 12. d4 Bb4 13.
+Qd2 Bxc3 14. Qxc3 $14 {With the idea of g3 & 0-0-0...}) 11... Bxf3 12. Qxf3
+Qh4+ 13. Ke2 $5 {A very practical choice... keeping the queen on the board is
+necessary till a visible edge emerges...} (13. g3 $5 {Logical but not
+practical...} Qf6 14. Qxf6 Nxf6 {The exchange of queens liquidates the
+pressure on the 'f' file...} 15. Bg1 Bxg1 16. Rxg1 Rb8 17. b3 Ke7 18. Kd2 $14 {
+Black can still play for a draw here...}) 13... O-O 14. g4 {Limiting Black's
+play along the king side...} Nf6 15. Bg3 {With the idea of Rae1 and Kd1...
+getting a castled alike position.} Qg5 16. Bf4 Qg6 17. Na4 {White applied all
+his resources before implementing the plan...} Ba7 18. Rae1 Rab8 19. b3 (19.
+Kd1 $5 {Accurate... White should implement his plan, giving it everything he's
+got...} Nd7 20. Rhf1 {Is perfectly playable for White...}) 19... h5 20. gxh5
+Qxh5 21. Be3 Bxe3 22. Kxe3 Qxf3+ 23. Kxf3 {After a series of exchanges,
+endgame arises... White has better practical chances due to his superior pawn
+structure, centralised king and he can launch a direct attack along the 'f' or
+'g' file!} Rb5 24. d4 Re8 25. c4 {Playing c4 before Nc3 is necessary...} Rh5
+26. Nc3 g6 27. h4 Kg7 28. Kg3 c5 29. e5 {White tries his luck... to gain a
+pawn majority on the queen side, but he has to face Black's central passer for
+that...} dxe5 30. dxc5 {White has created a pawn majority on the queen side...}
+e4 31. b4 e3 32. Rhf1 c6 $6 {Finally, Black commits a mistake, allowing White
+to come back into the game...} (32... Ne4+ 33. Nxe4 Rxe4 34. Rf4 Rxf4 35. Kxf4
+Rxh4+ 36. Kxe3 Rxc4 $15 {Black is clearly better in this position...}) 33. Rf4
+Rhe5 34. Kf3 R8e7 35. Re2 {Fixing the 'e' pawn...} Nh5 36. Re4 {Black's 'e'
+pawn is now a key target for White...} Rxe4 37. Nxe4 f5 38. Nd6 f4 {Black able
+to protect his loose pawn... but now he has to stop White's pawn majority -
+now White's major hope...} 39. a4 Re5 40. a5 (40. b5 $1 {Accurate...} Rxc5 41.
+b6 Nf6 42. b7 Nd7 43. Kxf4 Rh5 44. Rxe3 $18 {White achieves a decisive
+advantage... his 'b' pawn is now the executioner!}) 40... Kf8 41. b5 $5 cxb5
+42. cxb5 Rxc5 (42... axb5 43. a6 $18 {The 'a' pawn is now unstoppable...
+White's dream finally comes true!}) 43. b6 Rc1 44. Rb2 {Black has to give up
+all his advanced pawns to remain in the game for a while... a very pitiful
+situation for Black...} e2 45. Kxe2 Rh1 46. Kd2 Rh2+ 47. Kc3 Rxb2 48. Kxb2 {
+Black has made White's win very easy now...} Nf6 49. Nc4 Nd7 50. Kc3 Ke7 51.
+Kd4 Kf6 52. b7 g5 $6 (52... Ke6 {Even Black's best continuation doesn't save
+his game due to...} 53. Nb6 Nb8 54. Ke4 f3 55. Kxf3 Kd6 56. Kg4 Kc6 57. Kg5
+Kxb7 58. Kxg6 {Wins for White...}) 53. hxg5+ Kxg5 54. Ne5 {White uses
+diversionary tactics for promoting the pawn to a queen.} Nb8 55. Kd5 Kf5 56.
+Kd6 Ke4 57. Ng4 Kf3 58. Nf6 Ke3 59. Kc7 {The game simply over... Black can't
+promote his 'f' pawn... but White can!} f3 60. Kxb8 Kf4 61. Kc8 {Black has no
+time for a pawn promotion due to the nasty check on b8=queen!... resignation
+for Black.} 1-0
+
+[Event "Lubny Rudenko Memorial (Women)"]
+[Site "Lubny"]
+[Date "2009.08.12"]
+[Round "11"]
+[White "Ganskaya, Elena"]
+[Black "Lobintseva, Larisa"]
+[Result "1-0"]
+[ECO "C27"]
+[WhiteElo "1931"]
+[BlackElo "2012"]
+[Annotator "RCA"]
+[PlyCount "87"]
+[EventDate "2009.08.05"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2009.11.30"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 d6 5. f4 {The choice of Nigel Short, John
+Emm... a practical choice, very sharp in nature... Black will be outplayed
+quickly if he moves without home preparation... even though Black prepares
+against this line, White is still OK... that's why players like Nigel & John
+choose this line.} Ng4 {Very very tempting... almost 99% of players use this
+at club level...} (5... c6 $5 {See theory section...}) (5... Nc6 $5 {See
+theory section...}) 6. f5 {Preparing Bg5/Qg7 with a crushing attack... very
+difficult for Black to work out the correct way to defend his position right
+over the board... White gives up material to gain a mating attack...} Nf2 7.
+Qh5 {Aiming at Qxf7 mate - thus White uses his hidden resources after
+sacrificing his rook...} g6 $5 {Best alternative for Black...} (7... Qd7 $2 8.
+Be6 Qe7 9. Nd5 $18) (7... Qe7 $2 8. Bg5 Qf8 9. Nd5 $16 {With a devastating
+attack...}) 8. Qh6 {Preparing Bg5/Qg7 with a crushing attack... very difficult
+for Black to discover the correct way to defend his position right over the
+board... White giving up material to gain a mating attack...} Nxh1 {Greed...
+tempting...} (8... c6 $5 {Very difficult for Black to discover the correct way
+to defend his position right over the board... White giving up material to
+gain a mating attack...} 9. Qg7 {Attacking the rook and mate on f7...} Rf8 10.
+Nf3 Nxh1 11. Ng5 {White attacks with the maximum number of pieces that he can
+muster in the position...} d5 {Black has no other option...} 12. exd5 {Opening
+up the a2-g8 diagonal is necessary to continue the attack...} b5 $5 (12... Be7
+$5 13. dxc6 Bxg5 14. Bxg5 Qxg5 15. Ne4 {The knight joins the party in time...}
+Qe3+ 16. Kf1 Qf4+ 17. Kg1 {Check is over... now it's time for Black to defend..
+.} bxc6 18. Nf6+ Ke7 19. Nxh7 $36 {Check is over... now it's time for Black to
+defend...}) 13. d6 bxc4 14. Qxe5+ Be6 15. Nxf7 Kxf7 16. fxe6+ Kg8 17. e7 Qxd6
+18. Qxd6 Bxd6 19. exf8=Q+ Kxf8 20. Bh6+ Kg8 21. Ke2 $14 {White regains his
+piece (by Rxh1) and leads to a favourable endgame...}) 9. Bg5 f6 (9... Qd7 $4
+10. Nd5 $18 {Black has no defence...}) 10. Qg7 $6 {A slip in a decisive
+position...} (10. fxg6 $1 {The simplest... attack on h8,h7,f6 and, of course,
+checkmate on f7.} fxg5 (10... Kd7 {fails to} 11. Qg7+ Kc6 12. Bxf6 {Black's
+position is simply crushed...}) 11. g7 $18 {White gets everything he wants in
+this position...}) 10... Rf8 11. Nd5 $6 {White goes for the big queen... but
+he had a better option.} (11. Bh6 $5 Qe7 12. Qxe7+ Kxe7 13. Nd5+ Kd8 14. Bxf8
+gxf5 15. Nf3 fxe4 16. dxe4 {Slightly better for White due to his active
+position...}) 11... fxg5 12. Nxc7+ Qxc7 13. Qxc7 Nd7 $44 {Black gets
+compensation: the queen lacks space in which to show her prowess...} 14. fxg6
+$2 (14. Nf3 $5 gxf5 15. d4 $36 {White opens up the position and takes a strong
+initiative...}) 14... hxg6 15. O-O-O Nf2 $17 {Black now has a clear edge...}
+16. Re1 Ng4 17. Nf3 Ne3 $6 (17... Ke7 $1 {Idea is to trap the queen by a
+simple Bb6...} 18. Qa5 Nb6 19. Bb3 Rxf3 $1 20. gxf3 Nxh2 $36 {Black gets a
+strong initiative... his plan is Nxf3 followed by g4!}) 18. Re2 $2 (18. b4 $1
+Bb6 19. Qxd6 {With a comfortable position for White...}) 18... a6 $6 {Black
+missed a golden opportunity to create an excellent position!} (18... Nxc4 $1
+19. dxc4 g4 20. Ne1 Rf1 $19 {With the idea of g3, Nf6, etc.}) 19. Be6 a5 20. a3
+Nb6 {Black tries his best to develop his a8 rook...} 21. Bb3 (21. Ba2 $5 {Is
+most accurate...}) 21... g4 $2 {Finally Black has made a mistake and lost his
+initiative...} (21... a4 $1 22. Ba2 Nd7 {With a slightly better position for
+Black...}) 22. Nxe5 $1 {Tactics depend on Black's c5 bishop...} Rf1+ 23. Kd2 g3
+24. hxg3 (24. Rxe3 $1 gxh2 25. Bf7+ Kf8 26. Qd8+ Kg7 27. Qg8+ Kf6 28. Qxg6+ Ke7
+29. Qg5+ $18 {Wins for White...}) 24... Nd7 25. Nxd7 Rd1+ 26. Kc3 Bxd7 27. Qxb7
+Ra7 28. Qb8+ Ke7 29. Qg8 {White still manages a clear edge in the position...}
+Be8 30. Rf2 {The rook joins the fray in time...} Nd5+ {Tempting attack on f2
+fails to...} 31. Bxd5 Bxf2 32. Qg7+ Kd8 33. Qf6+ Kc8 34. Be6+ Kc7 35. Qxf2 $18
+{Black's rooks lack co-ordination - his king is too exposed...} Rb7 36. Qf8 Bb5
+37. Qe7+ Kb6 (37... Kc6 $4 38. Bd5+ Kb6 39. Qxb7+ $18) 38. Qxd6+ {White
+already winning the race... Black has no compensation for his lost material...}
+Bc6 39. Bc8 Rf7 40. Kd4 Rb1 41. c4 Rbf1 42. Qb8+ Bb7 43. c5+ Kb5 44. Bxb7 {
+Game is over...} 1-0
+
+[Event "Chicago op 20th"]
+[Site "Wheeling"]
+[Date "2011.05.28"]
+[Round "5"]
+[White "Finegold, Benjamin"]
+[Black "Chen, Howard"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2494"]
+[BlackElo "2297"]
+[Annotator "RCA"]
+[PlyCount "89"]
+[EventDate "2011.05.26"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2011.06.27"]
+
+1. e4 e5 2. Bc4 $5 {Important move order; in this way, White reaches the
+Vienna game while eliminating one powerful option for Black.} Nf6 {Black is
+still waiting for 3...Nxe4 after White's 3.Nc3...} 3. d3 {Smart job - White
+doesn't want for unnecessary complications...} Nc6 4. Nc3 Na5 $5 {Thematic
+attack for Black...} (4... Bb4 {Preparing d5 with a quick mobilisation of
+pieces for Black...} 5. Nge2 $5 {See theory section for detailed analysis...})
+5. Nge2 $5 {Good use of the 'ignoring idea', not wasting time by playing the
+tempting Bb3... here White is happy after NxBc4, which allows him to control
+the key d5 square permanently - thus achieving a basic goal of the Vienna!}
+Nxc4 $5 (5... c6 $5 {Possible alternative...} 6. O-O {See theory section for
+detailed analysis...}) 6. dxc4 d6 $5 (6... Bc5 $5 7. O-O O-O 8. Qd3 d6 9. Bg5
+Be6 10. Nd5 $36 {White's active knights provide sufficient compensation for
+the bishop pair... his plan is to play b4 or c3-b4 followed by Ng3-f5 with
+good play...}) 7. O-O Be7 8. Ng3 c6 9. Qd3 O-O 10. Bg5 $5 {White completes his
+development...} (10. h3 $5 {Preparing Re1, Be3, Rad1 and Nf5, etc... with an
+excellent position for White.}) 10... Ne8 {Black wants to exchange his bad
+bishop...} 11. Be3 $5 {But White doesn't... keeping the dark-squared bishop
+favours White from a positional point of view... White should also keep as
+many pieces as possible to claim an edge later on...} Bg5 {Black desperately
+wants to execute his plan, i.e. to exchange the dark-squared bishop - but he
+has to lose tempi for that...} 12. Rad1 Bg4 13. Rd2 Bxe3 14. fxe3 $5 {Risky
+choice... ambitious...} (14. Qxe3 $5 {Logical choice...} Qb6 15. Qxb6 axb6 16.
+a4 Be6 17. Nf5 Rd8 18. Rfd1 Bxc4 19. Nxd6 Nxd6 20. Rxd6 Rxd6 21. Rxd6 Be6 22.
+b3 $14 {White has more space with active pieces... deserves more practical
+chances in the endgame.}) 14... Qb6 15. Nf5 $5 {Obliging Black to take on f5
+so as to gain space on the king side... that will also clear the key 'e4'
+square for his knight.} Bxf5 16. exf5 Nf6 17. Ne4 Nxe4 18. Qxe4 {With the idea
+of a devastating f6...} f6 $5 {To stop f6 is of utmost necessity in this
+position...} 19. b3 {Though the position is equal in nature, White has the
+upper hand due to his superior pawn structure and strong pressure on Black's
+weak d6 pawn... in contrast, Black has no ideal plan to continue other than to
+be busy defending the d6 pawn to save the game...} Rad8 20. Rfd1 Qc5 21. c3 a5
+{To stop white's ugly b4 is necessary...} 22. Qf3 e4 $6 {Not necessary...
+rather, he should wait with...} (22... Rfe8 $5 23. Qf2 e4 24. Rd4 Re7 $11) 23.
+Qf4 d5 24. Rd4 Rfe8 25. h3 (25. Qc7 $5 {Is accurate...}) 25... Re5 $6 {The
+problem with Black is... he wants to do something in this position; instead,
+he should wait passively to save a half point!} 26. cxd5 $1 {(tricky)} Rdxd5 (
+26... cxd5 27. c4 $36) 27. c4 {Black is now in zugzwang...} Rxd4 $8 28. exd4
+$16 {White suddenly gets a superior position from where he can go for win
+after a series of accurate moves...} Qa7 29. c5 Re8 30. Re1 {Black has to lose
+his important 'e4' pawn, which was pushed by him unnecessarily a little while
+ago, hoping for play...} Qb8 31. Qxb8 Rxb8 32. Rxe4 {White's plan is simple...
+centralise his king and use the pawn majority on the queen side... game is
+over...} Kf7 33. Kf2 {The decisive factor behind this endgame position is that
+Black's king is cut off from the queen side, but White's king has enough
+freedom to enter into the queen side to support his passed pawn - which is
+enough for White to claim a winning advantage...} g6 34. fxg6+ hxg6 35. Ke2 b6
+36. cxb6 {White is happy with enhancing pawn islands in Black's territory...}
+Rxb6 37. Kd3 Rb4 38. Re2 Rb6 39. Kc4 Rb5 40. a3 g5 41. Re3 Rf5 42. g4 Rb5 43.
+a4 Rd5 44. Re4 {Preparing b4 and creating a passed pawn along the 'a' file...}
+f5 45. gxf5 {Black decides to resist further torture and resigns in time...}
+1-0
+
+[Event "World Cup"]
+[Site "Khanty-Mansiysk"]
+[Date "2007.11.29"]
+[Round "?"]
+[White "Rublevsky, Sergei"]
+[Black "Navara, David"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2676"]
+[BlackElo "2656"]
+[Annotator "RCA"]
+[PlyCount "69"]
+[EventDate "2007.11.24"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 {Preparing d5 with a quick
+mobilisation of pieces for Black...} 5. Nge2 {Getting ready for 0-0, f4 and
+able to recapture at c3 if Black should play Bxc3 later on.} d5 $5 {Black
+always plays for an ideal d5 breakthrough, whenever he gets the opportunity...}
+(5... d6 $5 {See theory section for detailed analysis...}) 6. exd5 {Clearing
+the key 'e4' square for his knight and preventing Black's probable option ..d4.
+} Nxd5 7. O-O {Nice logical way for White to solve the problem of the pin!}
+Bxc3 $6 {Not the perfect time to take the knight...} (7... Be6 $5 {Black's
+best alternative...} 8. Bxd5 Bxd5 9. f4 $36 {White has nice plan hereafter -
+see theory section for details...}) 8. Nxc3 Nxc3 {Sometimes Black exchanges as
+many of the pieces that he can to minimise the pressure... but in this case,
+it only favours White due to his bishop pair in an open position...} 9. bxc3
+O-O 10. f4 $5 {Thematic breakthrough in the Vienna...} (10. a4 $1 {Necessary,
+to make room at a2 for his light-squared bishop, otherwise Black will be happy
+to play Na5 at any moment...} Re8 11. f4 $36 {White has a strong initiative...}
+) 10... Na5 $5 11. Bb3 exf4 12. Bxf4 Nxb3 13. axb3 {After a series of
+exchanges , a calm position is arrived at in which White is slightly ahead...
+his game is easier to play in comparison to Black.} Qd5 {Centralising the
+queen, again inviting white to take on c7 (i.e. Bxc7), so that he can win a
+piece by Qc5+...} 14. c4 Qc6 15. Qe1 {With the idea of Qg3 and Bxc7...} b6 {
+Black is hoping for counterplay... but not possible in this position...} (15...
+Re8 {Right way to go for counterplay...} 16. Qg3 Re2 17. Bxc7 Rxc2 18. d4 $36 {
+Now the 'd' pawn has become dangerous...}) 16. Qg3 Bb7 17. Bxc7 {White wins a
+pawn without any compensation for Black...} Rae8 18. d4 $1 {Advancing the
+strong passer and closing the long diagonal...} b5 {Desperation occurring in
+Black's camp...} 19. Bd6 {Black is now an exchange down... he has no
+compensation for that...} bxc4 20. Bxf8 Kxf8 21. Rxa7 cxb3 22. Rxf7+ $1 {The
+final tactics... based on the bishop on b7!} Kxf7 23. Qxb3+ Kf8 24. Rxb7 Qf6 {
+Another alternative also fails due to...} (24... Re1+ 25. Kf2 Re6 26. Qa3+ Kg8
+27. Qa8+ Qe8 (27... Re8 28. Rxg7+ $18 {Wins the queen - and the game, too!})
+28. Rb8 Re2+ 29. Kg3 Re3+ 30. Kh4 Re4+ 31. g4 g5+ 32. Kxg5 {Checks are stopped
+and it's game over...}) 25. Qb4+ Kg8 26. Qc4+ Kh8 27. Rb1 Qf4 28. Qd3 h6 29.
+Rf1 Qd6 30. c4 {The rest is easy for White... a nice, convincing win.} Rd8 31.
+d5 Qc5+ 32. Kh1 Rc8 33. h3 Kg8 34. d6 Qxc4 35. d7 {The final blow... Black is
+just in zugzwang - he simply resigned!} 1-0
+
+[Event "Corus-B"]
+[Site "Wijk aan Zee"]
+[Date "2005.01.28"]
+[Round "11"]
+[White "Karjakin, Sergey"]
+[Black "Kosteniuk, Alexandra"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2599"]
+[BlackElo "2490"]
+[Annotator "RCA"]
+[PlyCount "69"]
+[EventDate "2005.01.15"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "2005.04.11"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 {Preparing d5 with quick a
+mobilisation of pieces for Black...} 5. Nge2 d5 {Black always plays the ideal
+d5 breakthrough, whenever he gets the opportunity...} 6. exd5 Nxd5 7. O-O $1 {
+Nice logical way for White to solve the problem of the pin!} (7. Bxd5 $6 {
+Unnecessary exchange - giving up the bishop pair...} Qxd5 8. O-O Qd8 9. f4 exf4
+10. Bxf4 O-O $11) (7. Bd2 {Too slow...} Be6 8. Nxd5 Bxd5 9. Bxd5 Qxd5 $11) 7...
+Be6 $5 (7... Bxc3 8. Nxc3 Nxc3 {Sometimes a player will exchange as many of
+pieces as he can to minimise the pressure... but in this case, it favours
+White due to his bishop pair in an open position...} 9. bxc3 O-O 10. a4 $5 {
+Necessary, to make room at a2 for his light-squared bishop, otherwise Black
+will happily play Na5 at any moment...} Re8 11. f4 $36) 8. Bxd5 $5 {Usually we
+should not exchange our bishop for an opponent's knight. However, in this
+particular position White can make use of Black's 'hanging' d5-bishop - this
+allows White to gain the initiative in this position using some tactical
+tricks.} (8. Bb3 {Permits Black to complete his normal development without any
+trouble.} O-O 9. Ne4 Be7 10. d4 exd4 11. Nxd4 Nxd4 12. Qxd4 Nb4 13. Qc3 Bxb3
+14. Qxb3 Qd5 $11 {And Black has no problem at all.}) (8. Nxd5 Bxd5 9. Bxd5 Qxd5
+{So many exchanges only helps Black...} 10. a3 (10. Ng3 O-O 11. Kh1 Rad8 12. f4
+Rfe8 13. Qg4 Kh8 14. f5 f6 15. Ne4 Nd4 16. Qd1 Bf8 17. Be3 Nb5 18. Qh5 Nd6 $11
+{Stempin-Pedzich, Warsaw 1990.}) 10... Be7 11. f4 {Pietzsch-Kostro, Polanicza
+Zdroj 1968.} O-O $11) (8. Ne4 Be7 9. Bb3 (9. c3 $6 {Is very slow indeed.} f5
+10. Qb3 Na5 11. Qa4+ c6 12. Bxd5 Bxd5 13. N4g3 b5 14. Qc2 O-O 15. f4 exf4 16.
+Nxf4 g6 $15 {Spielman-Euwe, Wiesbaden 1925.}) (9. f4 exf4 10. Bxd5 Bxd5 11.
+Bxf4 Bxe4 12. dxe4 O-O 13. Qe1 Bf6 14. Qg3 Qe7 $15 {Mamatow-Podgaets, 1977.})
+9... O-O $11) 8... Bxd5 9. f4 $1 {Thematic breakthrough in the Vienna, in time.
+..} O-O $5 (9... exf4 $6 10. Nxf4 {Black's d5 bishop is looking awkward right
+in the middle of the board... in contrast, White's knight pair is more
+harmoniously placed.} Bxc3 {Practically forced... Black has to give up his
+bishop pair in any case due to the placement of the strong knight pair...} 11.
+bxc3 O-O 12. Qh5 {Provoking ..f5 to defend the d5 bishop, thus weakening
+Black's king side a little more...} f5 13. Ba3 $36 {White's bishop now
+occupies the key a3-f8 diagonal, thus paralysing Black's important squares;
+his knight is also in an ideal attacking position... on the other hand, Black
+is in a very difficult position with lots of weaknesses to defend.}) 10. f5 $1
+{Thematic Vienna pawn formation... basic idea behind this strange-looking f5
+move is - (i) to create space on the king side, thus limiting Black's play
+there; (ii) preparing a direct attack with f6 and breaking the king's position,
+in which circumstances Black has to take some critical decisions.} (10. fxe5 {
+Is just worthless...} Nxe5 11. Bf4 Re8 $5 12. Qd2 Ng6 $15) 10... Bxc3 $5 {A
+logical choice! Black decides to eliminate the knight in time, otherwise White
+simply takes on d5 and transfers the other e2 knight to the key e4 square via
+g3 - for launching a dangerous attack on the king side...} (10... Re8 $6 {
+Allows the irritating...} 11. f6 $5 $40) (10... f6 $5 {Is critical - now White
+has to build up a stronghold on e4.} 11. Be3 Qd6 12. Nxd5 Qxd5 13. Kh1 {
+Preparing Ng3-Ne4, with a similar attack in the main line...}) 11. bxc3 (11.
+Nxc3 $5 f6 12. Be3 Nd4 13. Rf2 $11 {With level chances...}) 11... f6 {
+Necessary move - to stop White's thematic f6 break!} 12. Ng3 {Knight takes its
+position, thereby clearing the important d1-h5 diagonal for the White queen to
+launch the thematic Vienna attack...} Qd7 13. Be3 (13. Qg4 $5 Kh8 14. a4 b6 15.
+Ba3 Rfe8 16. Nh5 $36 {Attacking the 'g7' square, thus increasing pressure on
+black's territory and clearing the third rank for his rook to penetrate along
+the h-file...}) 13... Ne7 14. c4 Bc6 (14... Bf7 $5 15. Qg4 $14 {With a similar
+plan for White...}) 15. Qg4 Kh8 16. Rae1 $14 {White brings all his pieces to
+active squares and is ready for executing his plan along the king side!} b6 {
+Black hasn't any direct counterplay in this position...} 17. Re2 Rf7 18. Qh5
+Nc8 {Preparing Nd6... thus improving the position of the knight...} 19. c5 $5 {
+Nice way to stop Black's intention, i.e ..Nd6 and, if Black takes on c5, then
+he has to ruin his pawn formation...} Rf8 20. Ne4 Qf7 (20... Bxe4 21. dxe4 {
+Followed by penetrating the rooks along the d-file is good for White...}) 21.
+Qh4 $5 {White wishes to keep his queen on the board till he has gained a
+visible edge!} (21. Qxf7 $5 Rxf7 22. g4 Ne7 $13) 21... Qxa2 22. g4 {White has
+just sacrificed a pawn to launch a direct attack against the Black king.} Ne7
+$6 (22... Bxe4 $5 23. dxe4 Qc4 24. Rg2 Qxe4 25. Rg3 {Black has two extra pawns,
+but White's attack along the king side is too fast for Black to be able to
+advance his passers...} Kg8 26. Rh3 h6 27. Bxh6 $1 gxh6 28. Qxh6 {At least, an
+equal position...}) 23. g5 $1 fxg5 $6 {Opening the king side clearly favours
+White...} (23... Bxe4 $6 24. dxe4 fxg5 25. Bxg5 Qc4 26. f6 $1 $36) (23... Qg8
+$5 24. g6 $13) 24. Nxg5 Qg8 {The only defence for White... looks passive
+though...} (24... h6 {Fails due to the irritating...} 25. f6 $1 Ng8 26. fxg7+
+Kxg7 27. Nf3 $1 $14) 25. Ref2 Bd7 $2 {Finally, Black commits a bad mistake
+under pressure...} (25... Nd5 $5 {Was playable for Black...}) (25... Rf6 $5 26.
+Ne4 {Neutralising the bishop along the long diagonal and so preparing Bg5...})
+26. Nxh7 $1 {Use simple attacking tactics when you discover them!} Qxh7 27.
+Qxe7 Bxf5 28. Qg5 $5 (28. Qxe5 {Gives Black an opportunity to exchange queens
+and play with a slightly worse position...} Qg6+ 29. Qg3 Qxg3+ 30. hxg3 Rfe8
+$14) 28... g6 29. h4 $1 {White uses all his resources to hold the initiative!}
+Rae8 (29... Rf7 $5 30. h5 $1 Rg8 31. h6 {With the idea of Ra1, Bd2-Bc3...}) 30.
+d4 $6 (30. h5 $1 {Maintaining the rhythm of White's initiative...} Re6 31. Rh2
+Kg7 32. Rg2 $16 {Pressure on Black's camp is visible...}) 30... bxc5 $6 {Again,
+White gets the opportunity to open up the long diagonal...} (30... Qe7 $1 31.
+Qh6+ Qh7 $11 {With exchange of queens leading to liquidation...}) 31. dxe5 Rf7
+(31... Rxe5 32. Bc1 $1 Rb8 33. Bd2 $16 {White will soon exercise control over
+Black's profound dark-coloured weakness...}) 32. h5 Re6 $2 {The final mistake
+from Black's end... he suddenly surrenders the fight - the rest is easy for
+White...} (32... Qg7 $5 33. hxg6 Bxg6 34. Rf6 $36) 33. Bxc5 Qg7 34. Rh2 Qh7 35.
+Qd8+ {White's pieces attack the king in the corner from all sides... the time
+for Black to resign has come...} 1-0
+

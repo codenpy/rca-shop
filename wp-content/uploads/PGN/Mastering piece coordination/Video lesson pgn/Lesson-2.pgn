@@ -1,0 +1,23 @@
+[Event "Pula op 11th"]
+[Site "Pula"]
+[Date "1997.??.??"]
+[Round "5"]
+[White "Ionescu Brandis, Irina"]
+[Black "Cehic, Goran"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2230"]
+[PlyCount "31"]
+[EventDate "1997.05.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 e6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Nc6 6. Bb5 Bg4 7. h3 {
+Diagram #} Bxf3 (7... Bh5 8. g4 Bg6 9. Nxe5) 8. Qxf3 Qd7 9. Nc4 f6 10. O-O
+O-O-O 11. Na5 Nge7 12. Qb3 b6 13. Qa4 (13. Qc3 bxa5 14. Ba6+ Kb8) (13. Ba6+ Kb8
+14. Nb7 Re8) (13. Nxc6 Nxc6 14. Qa4 Kb7) 13... bxa5 14. Ba6+ Kb8 15. Qb5+ Ka8
+16. Qb7# 1-0
+

@@ -1,0 +1,60 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.01.19"]
+[Round "?"]
+[White "Example - 1"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "3k4/8/3K4/8/8/8/8/1R6 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2019.??.??"]
+
+1. Rb8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.01.19"]
+[Round "?"]
+[White "Example - 2"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "k7/8/K7/8/3N4/8/8/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2019.??.??"]
+
+1. Nc6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.01.19"]
+[Round "?"]
+[White "Example - 3"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "k7/8/K7/8/1B6/8/8/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2019.??.??"]
+
+1. Bd6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.01.19"]
+[Round "?"]
+[White "Example-4"]
+[Black "?"]
+[Result "1-0"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "4k3/pppppppp/8/8/8/8/8/3QK3 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2019.??.??"]
+
+1. Qc2 $1 {Double attack.} c6 2. Qxh7 1-0
+

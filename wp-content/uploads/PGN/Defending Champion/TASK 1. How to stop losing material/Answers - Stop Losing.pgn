@@ -1,0 +1,458 @@
+[Event "Provence-ch access Meyreuil 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "7"]
+[White "Beraud, Robert"]
+[Black "Pierrugues, Laurent"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1750"]
+[BlackElo "1850"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "114"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bc2
+Nc6 9. Nf3 cxd4 10. cxd4 Nb4 11. Bb1 Rc8 12. a3 Bxe2 13. Kxe2 Nc6 14. b3 Be7
+15. Re1 h6 16. Qd3 Nf8 17. Bb2 Nh7 18. Kf1 g6 19. Bc2 Ng5 20. Nd2 h5 21. Kg1
+Qd7 22. Bc1 Nxd4 23. Bb1 Nf5 24. Bb2 O-O 25. f4 Nh7 26. Nf3 Bc5+ 27. Bd4 Qe7
+28. a4 Nxd4 29. Nxd4 Bxd4+ 30. Qxd4 Qc5 31. Qxc5 Rxc5 32. Ba2 Rfc8 33. Kf2 Rc2+
+34. Re2 R8c7 {Diagram # White's turn.} 35. Rxc2 $2 {This is a very dubious
+move. White's position is difficult but he should not help Black to activate
+his pieces.} (35. Rae1) (35. Rd1 $5) 35... Rxc2+ 36. Kf1 Nf8 37. b4 Nd7 38. a5
+bxa5 39. Bb3 (39. bxa5 Nc5 $19 {The position of Black is winning because the
+Knight will land to e4 and after that Black will activate the King. White has
+no counter-play and his position is hopeless.}) 39... Rb2 40. Ba4 Nb6 41. bxa5
+Nxa4 42. Rxa4 Kf8 43. h3 Ke7 44. Ra3 Kd7 45. Rc3 {This is the final mistake.
+After this move, White will lose more material, the "a" pawn. White cannot
+wait passively because the Black's King will enter in White's capm. Black won
+the game afterwards.} Rb5 46. Ke2 Rxa5 47. g4 hxg4 48. hxg4 Ra4 49. Kf3 a5 50.
+Rc5 Ra3+ 51. Kf2 a4 52. Ra5 Ra2+ 53. Ke3 a3 54. Ra7+ Kc6 55. Rxf7 Ra1 56. Ra7
+a2 57. Ke2 Rh1 0-1
+
+[Event "Provence-ch access Vitrolles 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "5"]
+[White "D'Hamelincourt, Gilbert"]
+[Black "Gozzoli, Cyrille"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "1880"]
+[BlackElo "1940"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "56"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nbd2 Be7 5. e3 Nbd7 6. a3 c5 7. c3 a6 8. Bd3
+O-O 9. h4 Qc7 10. Qb1 Bd6 11. g3 Re8 12. Bxf6 Nxf6 13. Ng5 {Diagram #} h6 14.
+Nxf7 $2 {This is a severe error. There was no reason for White to sacrifice
+his piece on f7. White doesn't have many attacking pieces close to the
+opponent's King. Thus his attack cannot be successful.} (14. Ngf3 {This is the
+best move. White doesn't have any real attacking chances and he should go back.
+}) 14... Qxf7 15. Bg6 Qe7 16. Bxe8 Qxe8 {Black's position is winning. The
+minor pieces are far more active than the White Rooks. White has a huge
+light-square weakness in the Kingside.} 17. Qd1 Bd7 18. g4 $2 {White's
+priority should be to finish the development. This is a wrong plan. White
+doesn't have any attacking chances.} e5 19. g5 Ng4 $1 {Black put a huge
+pressure in White's uncastled King. Black will open the center and White's
+King will have problems.} 20. Qf3 {White threatens to capture on d5 giving a
+double-attack. Black was very focused with their plans and hr completely
+forgot about the White's threats. This is a wrong approach.} exd4 $2 (20... e4
+$5) (20... Qe6 $5) 21. Qxd5+ Qf7 22. Qxf7+ Kxf7 23. gxh6 (23. Ne4 $1 {Black is
+still better but now the position is not totally clear. Black managed to win
+the game afterward.}) 23... dxe3 24. fxe3 Nxe3 25. Ke2 Re8 26. Kf2 Ng4+ 27. Kf3
+Re3+ 28. Kg2 Bc6+ 0-1
+
+[Event "Provence-ch access Meyreuil 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "8"]
+[White "Teboul, Rene"]
+[Black "Nguyen, Patrick"]
+[Result "0-1"]
+[ECO "D47"]
+[WhiteElo "1630"]
+[BlackElo "1770"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "62"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O b4 10. Ne4 Be7 11. Nxf6+ Nxf6 12. e4 O-O 13. Qe2 Nd7 14. e5 c5 15.
+dxc5 Nxc5 16. Bc2 Qa5 17. Qe3 Rfd8 18. Nd2 Ba6 19. Re1 Rac8 20. Nb3 Nxb3 {
+Diagram #} 21. Bxb3 {This is a very big mistake because Black can attack the
+Queen and after that use the pin in order to win a piece, the Bishop on b3.} (
+21. Qxb3 $1 {Black is better in this position but nothing is clear yet. White
+is still able to continue fighting.}) 21... Rd3 22. Qe4 Rxb3 23. Be3 Rxb2 {
+Black has a winning position and he is threatening to capture more material,
+the pawn on a2.} 24. Rac1 Rxc1 25. Rxc1 Qd5 {Black is very happy to exchange
+pieces because he has an extra Bishop. Black won the game afterwards.} 26. Qg4
+Qd3 27. h3 Rb1 28. Rxb1 Qxb1+ 29. Kh2 Qxa2 30. Qf3 Qd5 31. Qf4 Bb7 0-1
+
+[Event "Provence-ch access Vitrolles 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "5"]
+[White "Estevez, Dorothee"]
+[Black "Zejneli, Skender"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "1780"]
+[BlackElo "1850"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "112"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Be7 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O c5 10. Rd1 Qc7 11. b3 a6 12. dxc5 Nxc5 13. Bb2 b5 14. Be2 Bb7
+15. Rac1 {Black's turn.} Ncd7 $4 {There is no reason to go back with the
+Knight. After this move all of Black's pieces are hanging and White was able
+to find the winning continuation.} (15... Rac8 $15) (15... Qb6 $5) (15... Rfd8
+$6 16. b4) 16. Nd5 Qd8 (16... Qxc2 17. Nxe7+ {Black cannot capture the Queen
+because the Bishop on e7 is hanging with a check.}) 17. Nxf6+ Bxf6 18. Bxf6
+gxf6 19. Qc7 $18 {This is the killing move. The Knight on d7 and the Bishop on
+b7 are attacked.} Qxc7 20. Rxc7 Bc8 21. Rdxd7 $2 (21. Nd4 $1 {White return the
+favor. The best move in the position is to put the Knight to d4 because the
+square is still free and the f3 square will ve a great square for the Bishop.
+If White will manage to find some time in order to place the Bishop to f3 then
+Black's Rook will be in a huge problem. White has very active pieces and his
+position is almost close to winning.}) 21... Bxd7 22. Rxd7 Rac8 23. g3 Rc2 24.
+Rd2 $2 {This is the decisive mistake for White. After that Black's Rook will
+be very active, it will enter in the White's position and then the Rook can
+start capturing the pawns.} (24. Kf1 Rxa2 25. Nd4 {White's position is
+preferable because he has very active pieces and they can attack pawns on the
+queen-side or White can reinforce the prssure f7 square.}) 24... Rxd2 25. Nxd2
+Rc8 26. Ne4 Rc2 27. Nxf6+ Kg7 28. Nh5+ Kh6 29. Kf1 Rxa2 30. Ke1 a5 31. Nf6 a4
+$19 {Black will create the outside passing pawn and he will promote it to the
+new Queen. Black won the game afterwards.} 32. bxa4 bxa4 33. Ne4 a3 34. Bc4 Rc2
+35. Bb3 a2 36. Bxa2 Rxa2 37. Nd6 f5 38. Nf7+ Kg6 39. Ne5+ Kf6 40. Nd7+ Ke7 41.
+Ne5 Kd6 42. Nf7+ Kd5 43. Ng5 h6 44. Nf3 Ke4 45. Nh4 e5 46. Kf1 f4 47. exf4 exf4
+48. Kg2 Rb2 49. gxf4 Kxf4 50. Ng6+ Kf5 51. Ne7+ Ke6 52. Nc6 Rd2 53. Na5 Kd5 54.
+Nb3 Rc2 55. Na5 Rb2 56. Kg3 Rb5 0-1
+
+[Event "Provence-ch access Vitrolles 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "9"]
+[White "Estevez, Dorothee"]
+[Black "Scharff, Georges"]
+[Result "1-0"]
+[ECO "A69"]
+[WhiteElo "1780"]
+[BlackElo "1650"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "117"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. Be2 O-O 7. f4 e6 8. Nf3 exd5
+9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. O-O Qc7 13. Qc2 Nb6 {White's turn.} 14.
+b3 $4 {White has a lot of interesting options but in the game he did a very
+severe mistake, the move b3. This move activates Black's Bishop on g7 and
+after this Black and capture a clear pawn.} (14. a5 $1) (14. Nf3 $5) (14. Rf2
+$5) 14... Nfxd5 15. exd5 Rxe2 $1 {Now we can see clearly why this b3 move was
+wrong. White cannot capture on e2 because their Rook on a1 in hanging.} 16. a5
+Nd7 $2 (16... Bf5 $1 {This is a very nice counter-blow in order to have very
+active pieces. In the actual game Black didn't play this move and his pieces
+were not that active.}) 17. Bb2 Re7 18. Nce4 {White is a pawn down but he has
+very active pieces and attack on the Black's King. In this position White has
+the compensation for the pawn.} Bxb2 19. Qxb2 f5 20. Ng5 Nf8 21. Nc4 Bd7 22.
+Qf6 Bb5 23. Rfe1 Rae8 24. Rxe7 Qxe7 25. Qxe7 Rxe7 26. Nxd6 h6 27. Nf3 Rd7 28.
+Nxb5 axb5 29. Rd1 Nh7 $4 {This is a fatal mistake. Black should blockade the
+pawn. Instant he moved the Knight to the edge of the board. After that White
+has a winning position.} 30. d6 Nf6 31. Ne5 Rg7 32. d7 Nxd7 33. Rxd7 Rxd7 34.
+Nxd7 c4 35. bxc4 bxc4 36. Ne5 c3 37. Nd3 Kf7 38. Kf2 Ke6 39. Nb4 Kd6 40. Ke2
+Kc5 41. a6 bxa6 42. Nxa6+ Kc4 43. Nc7 Kb3 44. Ne6 c2 45. Nc5+ Kc3 46. Nd3 g5
+47. g3 gxf4 48. gxf4 h5 49. h3 h4 50. Ke3 Kc4 51. Kd2 c1=Q+ 52. Nxc1 Kd4 53.
+Nd3 Ke4 54. Ke2 Kd4 55. Nf2 Kc4 56. Kf3 Kd5 57. Nd1 Kd6 58. Ne3 Ke6 59. Ng2 1-0
+
+[Event "Aegean op"]
+[Site "Agios Kirikos"]
+[Date "2006.07.19"]
+[Round "9"]
+[White "Kesaris, Evagelos"]
+[Black "Kalpakas, Georgios"]
+[Result "1-0"]
+[ECO "B17"]
+[BlackElo "2074"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "15"]
+[EventDate "2006.07.12"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 {
+Black's turn.} Bd6 8. Nxf7 $1 {This game played in last round in an open chess
+tournament. In addition to that it was a morning round. Morning rounds are
+little more difficult because players used to play in the afternoon. Thus,
+they cannot focus easily in the mornings. :-) For that reason Black wasn't
+very careful and miscalculated the variation.} (8. Nxf7 Kxf7 9. Qxe6+ Kg6 10.
+Bd3+ Kh5 11. Qh3#) 1-0
+
+[Event "2 open fokika"]
+[Site "?"]
+[Date "2008.09.05"]
+[Round "1"]
+[White "Kesaris, Evagelos"]
+[Black "Mpenetsos, M."]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "1695"]
+[BlackElo "1000"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "55"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nxd4 $2 5. Qxd4 Nf6 6. Nc3 d6 7. Bc4 e5
+$5 (7... g6 8. e5 $1 dxe5 9. Bxf7+ Kxf7 10. Qxd8) 8. Qd3 Be7 9. O-O O-O 10. Bg5
+Qb6 11. Bxf6 Bxf6 12. a3 $5 {Black's turn.} Qxb2 $4 {We should be careful,
+because of our opponent's last move. White asked himself why Black played with
+the Queen to b6 and for that reason he protected the b2 pawn. This is indirect
+approach and Black cannot capture the pawn because the Queen will drop. In the
+actual game Black just captured the pawn and after that he lost his Queen and
+the game afterwards.} 13. Rfb1 Qxb1+ 14. Rxb1 Bh4 15. Bd5 Bg4 16. h3 Bh5 17.
+Rxb7 Bg6 18. Nb5 Rac8 19. Nxa7 Rc5 20. g3 Rxd5 21. Qxd5 Bg5 22. h4 Bc1 23. g4
+h6 24. Nb5 Rc8 25. Nxd6 Rxc2 26. Nxf7 Bxf7 27. Qxf7+ Kh7 28. Qxg7# 1-0
+
+[Event "Arta rapid 15'"]
+[Site "?"]
+[Date "2008.12.21"]
+[Round "4"]
+[White "Papageorgiou, Ioannis"]
+[Black "Kesaris, Evagelos"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "1986"]
+[BlackElo "1695"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "46"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 Nf6 7. Nf3 O-O 8. O-O
+Rb8 9. Nh4 b5 10. f4 $2 b4 (10... Ng4 11. Bc1 Bd4+ 12. Kh1 b4 13. Ne2 Nf2+ 14.
+Rxf2 Bxf2 15. Qf1 Bd4 16. Nxd4 Nxd4 $17) 11. Ne2 (11. e5 dxe5 12. fxe5 Ng4 13.
+Bc1 bxc3 14. Bxc6 cxb2) 11... Ng4 12. Bc1 Nd4 13. h3 Nxe2+ 14. Qxe2 Nf6 15. g4
+e6 $5 {The Closed Sicilian is a very interesting opening. White has a good
+control in the center and he is ready to launch the attack on the king-side.
+The key move in these kind of positions is f5. With his last move he tries to
+control the f5 square but also makes a threat. White's turn.} 16. f5 $2 (16.
+Nf3 {White has to go back with the Knight and after that Black has a very nice
+and active position; because he has more space, control upon the center and
+expand in the Queen side. Black's plan is to put the Bishop to a6, the Queen
+to c7, the Rook from f file to c8 and finally he will play c4. White's attack
+on the king-side is not dangerous because of the fianchetto Bishop.}) 16...
+Nxe4 $1 {Black won a pawn and he has an almost winning position.} 17. Nxg6 (17.
+dxe4 Qxh4) 17... Ng3 $1 {Correctly White try to counter blow but Black's
+counter blow is even stronger.} 18. Qf2 Bd4 (18... Nxf1) 19. Be3 Bxe3 {Black
+continue to make exchanges in the most forcing way.} 20. Qxe3 Nxf1 21. Rxf1
+fxg6 22. fxe6 Rxf1+ 23. Kxf1 Qe7 0-1
+
+[Event "Provence-ch access Meyreuil 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "6"]
+[White "Thomet, Yannick"]
+[Black "Beraud, Robert"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1770"]
+[BlackElo "1750"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "78"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. d4 Nf6 2. e3 g6 3. Bd3 Bg7 4. f4 O-O 5. Nf3 d6 6. O-O c5 7. c3 Nc6 8. Nbd2
+cxd4 9. cxd4 e5 10. Ne4 exd4 11. exd4 Nd5 12. Bc4 Nxf4 {White's turn.} 13.
+Bxf7+ $2 (13. Bxf4 $1 {Black sacrificed a pawn in order to play d5 and get the
+piece back. White has to accept this challenge and develop their pieces
+rapidly.} d5 14. Bg5 f6 15. Nxf6+ Bxf6 16. Bxf6 Rxf6 17. Bb3 $11 {The position
+is approximately equal but I prefer White here, because the Bishop is very
+activey placed on b3 and he attack the d5 pawn.}) 13... Rxf7 14. Nfg5 Nh3+ 15.
+Nxh3 Rxf1+ 16. Qxf1 Bxd4+ 17. Nhf2 Bf5 $17 {After the last forcing moves Black
+have perfect position. The knights are not corporate well and Black continues
+his attack.} 18. Kh1 Qb6 19. Qc4+ Kg7 20. Ng5 $2 {This is a big mistake. White
+is losing a piece.} (20. Nxd6 $5) 20... Ne5 21. Ne6+ Bxe6 22. Qxe6 Bxf2 23.
+Qe7+ Nf7 24. Bg5 Qd8 (24... Qxb2 $1) 25. Bf6+ Kg8 26. Qxb7 Rb8 27. Qf3 Qb6 28.
+Rf1 Bc5 29. Be7 Ne5 30. Qd5+ Kg7 31. Bf6+ Kh6 32. Qd2+ $4 {This is the final
+mistake. Black manages to cover his King and he won the game afterwards.} (32.
+Qe6 $1 {Threatening to get the Queen to h3. This move is difficult but it is
+killing.}) 32... Be3 33. Rf4 g5 34. Qc3 Bxf4 35. Qh3+ Kg6 36. Be7 d5 37. b3 Qc6
+38. Bc5 Qxc5 39. Qe6+ Kg7 0-1
+
+[Event "Casual game"]
+[Site "https://lichess.org/96ARsFBe"]
+[Date "2016.06.12"]
+[Round "?"]
+[White "kesaris"]
+[Black "dkflbvbh1"]
+[Result "1-0"]
+[ECO "E09"]
+[BlackElo "1779"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "61"]
+[EventDate "2016.??.??"]
+[TimeControl "180+2"]
+
+1. d4 e6 2. c4 d5 3. Nf3 c6 4. Qc2 Be7 5. g3 Nd7 6. Bg2 Ngf6 7. Nbd2 O-O 8. O-O
+{E09 Catalan Opening: Closed, Main Line} dxc4 $2 (8... b6) 9. Nxc4 b6 10. Nfe5
+Bb7 11. Nxc6 Bxc6 12. Bxc6 Rc8 13. Bxd7 Qxd7 14. Qd3 Rfd8 15. e3 Qc6 16. Ne5
+Qd5 17. Qb3 Qe4 18. Bd2 Bd6 19. Nd3 Qg4 20. Bb4 Qh3 {White's turn.} 21. Ne1 {
+Black's threat is obvious. He would like to play with his Knight to g4 and
+Checkmate White on h2. White has a lot of different ideas. The best of all is
+to capture on d6 and after that create space for the King with the move of
+Rook f to c1. Black has nothing and White can win the game.} (21. Bxd6 $3 Rxd6
+(21... Ng4 22. Rfc1 Qxh2+ 23. Kf1 Qh1+ 24. Ke2 Qh5 25. Ke1 Qh1+ 26. Kd2)) (21.
+f3 $2 Bxg3 22. hxg3 Qxg3+ 23. Kh1 Qh3+ $11) (21. Rfc1 $5 Ng4 22. Bxd6 Qxh2+ 23.
+Kf1 Qh1+ 24. Ke2 Qh5 25. Ke1 Nh2 26. Ne5 $18) 21... Ng4 22. Nf3 {This is
+another way to protect the h2 square. This is the direct defense.} Bxb4 23.
+Qxb4 Rc2 24. Rac1 $2 (24. Rae1 $8 Rdc8 25. e4 h5 26. Qe7 {White stops all of
+Black's threats and now he has counter-play with the d and e pawns.}) 24...
+Rdc8 {Black missed a fantastic tactical blow, Knight takes e3. It was a Blitz
+game and for that reason both players didn't play the most accurate moves.} (
+24... Nxe3 $3 25. fxe3 (25. Rxc2 Qxf1#) 25... Qg2#) 25. Rxc2 Rxc2 26. Qa4 $1 {
+Counter-attack. Now White is threatening to put the Rook on c2 and checkmate
+on e8. This is the most natural way to counter attack. Sometimes if your
+opponent starts attacking you very hard with all of his pieces, it is common
+to leave back rank unprotected. White uses this fact in order to turn the game
+into his favor.} Rc8 27. Qd7 Rf8 28. Rc1 h5 29. Rc8 Rxc8 30. Qxc8+ Kh7 31. Ng5+
+{Black resigns} 1-0
+
+[Event "Provence-ch access Meyreuil 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "7"]
+[White "Leger, Pascal"]
+[Black "Derien, Robert"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1720"]
+[BlackElo "1700"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "57"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. Nxd4 Nxd4 6. Qxd4 Nf6 7. Nc3 Be6 8.
+Bxe6 fxe6 9. Bg5 Be7 10. O-O-O h6 11. Bh4 Qd7 12. Qc4 a6 13. Bg3 b5 14. Qe2 {
+Black's turn.} e5 $2 {White is threatening to play e5 and Black must do
+something about that. In the actual game, Black played the move e5 and he lost
+the pawn immediately. It was really better to play b4 and start the
+counter-attack.} (14... b4 $5) (14... O-O $5 15. e5 Ne8) 15. Bxe5 Qe6 16. Bxf6
+Qxf6 $4 {This is the final mistake.} 17. Nd5 $1 {White is threatening the
+Queen and the pawn on c7. Black cannot do anything about these threats and so
+he lost the game afterwards.} Qg6 18. Nxc7+ Kd7 19. Nxa8 Rxa8 20. e5 Rc8 21. f4
+Qe6 22. Kb1 Rc4 23. Qd2 Kc6 24. exd6 Bxd6 25. Rhe1 Qf6 26. Qd5+ Kc7 27. Re6
+Qxf4 28. Qxd6+ Qxd6 29. Rexd6 1-0
+
+[Event "Provence-ch access Meyreuil 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "8"]
+[White "Thomet, Yannick"]
+[Black "Mamert, Robert"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1770"]
+[BlackElo "1810"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "74"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 c5 4. c3 e6 5. f4 cxd4 6. exd4 Bd6 7. Nf3 Nc6 8. O-O
+O-O 9. Ne5 Nd7 10. Qh5 f5 11. g4 Nf6 12. Qh3 Ne4 13. Nd2 Bxe5 14. fxe5 fxg4 15.
+Qxg4 {Black's turn.} Qg5 $2 {This is a big error because White can exchange a
+lot of pieces by force and White will win a pawn. Thus, his position is
+winning.} (15... Nxe5 $3 {This is an amazing sacrifice in order to start the
+attack on the  white King.} 16. dxe5 Qb6+ 17. Kg2 Rf2+ $1 {This is a powerful
+check. Black has the perpetual check after this move.} 18. Rxf2 Qxf2+ 19. Kh1
+Qe1+ 20. Kg2 Qf2+ $11) (15... Rxf1+ $5 {This is another interesting way to
+exchange some attacking pieces. This is not the best move but Black can
+continue defending.}) 16. Rxf8+ Kxf8 17. Qg2 $4 {This was the final mistake. I
+can understand why White went back with the Queen. Black's Queen and Knight
+can generate powerful threats to White's King.} (17. Qxg5 $1 Nxg5 18. h4 Ne4
+19. Nxe4 dxe4 20. Bxe4 $18 {White's positio is winning.}) 17... Qe3+ 18. Kh1
+Nf2+ 19. Kg1 Nxd3+ 20. Kh1 Nf2+ 21. Kg1 Ne4+ {Black captures a piece and his
+Knight comes back to his initial position, to e4.} 22. Kh1 Qe1+ 23. Nf1 Bd7 {
+Black has a clearly winning position and he managed to win afterwards.} 24. b3
+Kg8 25. Bh6 Nf2+ 26. Kg1 Nh3+ 27. Kh1 Qe4 28. Be3 Rf8 29. Qxe4 dxe4 30. Kg2
+Nf4+ 31. Kh1 Nd5 32. Bd2 Rf3 33. c4 Ndb4 34. Ng3 Nc2 35. Rg1 N2xd4 36. Nxe4
+Nxe5 37. Nd6 Bc6 0-1
+
+[Event "Provence-ch prom Meyreuil 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "6"]
+[White "Scamaroni, Jean Paul"]
+[Black "Khelif, Jihane"]
+[Result "0-1"]
+[ECO "A58"]
+[WhiteElo "1700"]
+[BlackElo "1720"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "54"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. f4 Bg7 8. Nf3
+O-O 9. e4 Bxf1 10. Rxf1 d6 11. e5 dxe5 12. fxe5 Nfd7 13. Qe2 Nb6 14. Qe4 N8d7
+15. e6 f5 16. Qh4 {Black's turn.} Bxc3+ $1 {White is trying to checkmate
+Black's King but he doesn't have enough pieces in the attack. Black found the
+best and the most forcing way to drive back the White pieces.} (16... Ne5 $5)
+17. bxc3 Ra4 $1 18. Qh6 Nf6 19. Bg5 $2 {This was the final mistake. White
+should care about the defense. Their attack had failed.} (19. h3) 19... Ng4 20.
+Qh4 Re4+ {Black has a winning position and he managed to win afterwards.
+Black's pieces are very active and White's King is not well protected.} 21. Kd2
+Qxd5+ 22. Kc1 Ne3 23. Qh6 Qd3 24. Bxe3 Qxf1+ 25. Kb2 Nc4+ 26. Kb3 Rb8+ 27. Ka4
+Nb2+ 0-1
+
+[Event "Provence-ch access Meyreuil 9900"]
+[Site "France"]
+[Date "2000.??.??"]
+[Round "4"]
+[White "Mamert, Robert"]
+[Black "Beraud, Robert"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1810"]
+[BlackElo "1750"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "73"]
+[EventDate "1999.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+
+1. b3 Nf6 2. Bb2 g6 3. e3 Bg7 4. Nf3 d6 5. d4 O-O 6. Be2 e5 7. dxe5 Nfd7 8. O-O
+dxe5 9. Qc1 f5 10. Rd1 Qe7 11. Nc3 Nf6 12. Nxe5 $5 {Black had some problems
+and White found a very nice tactic in order to win a pawn.} Qxe5 13. Nd5 {
+Black to play.} Qxd5 $1 {This is the best move. Black should give up the Queen
+because he will take a lot of pieces in return. The position is complicated.} (
+13... Qe8 $2 14. Nxc7) (13... Qe6 $2 14. Nxf6+ Bxf6 15. Bc4) 14. Bc4 Qxc4 15.
+bxc4 Nc6 16. Bc3 Be6 17. Qb2 b6 18. Qb5 Nd8 19. a4 Nb7 20. Qc6 Nc5 21. Qxc7 $2
+{White gets greedy and captures a pawn but the Queen and the Bishop on c3 will
+be under the attack.} (21. Bd4 {This was a very safe and consolidating move.})
+21... Ne8 22. Qc6 (22. Qg3 Bxc3 $19) 22... Bxc3 $4 {This was a calculation
+error. There is no need to exchange the Rooks.} (22... Rc8 $19 {The Queen and
+Bishop on c3 are under the attack. Black will win more material.}) 23. Qxa8
+Bxa1 24. Rxa1 Nd6 25. Qxa7 Nxc4 26. a5 Nxa5 27. Rxa5 bxa5 28. Qxc5 a4 $2 {This
+was the final mistake.} (28... Rc8 $5 29. Qxa5 Rxc2 $16 {Black can build up a
+fortress. Still he has problems because there is s weakness in the light
+squares but Black can continue fighting.}) 29. Qc6 {White has a winning
+position and he managed to win afterwards.} Kf7 30. Qxa4 Rd8 31. h3 Rd1+ 32.
+Kh2 Rc1 33. Qa7+ Kg8 34. Qb8+ Kf7 35. Qb2 Rd1 36. Kg3 Kg8 37. c4 1-0
+

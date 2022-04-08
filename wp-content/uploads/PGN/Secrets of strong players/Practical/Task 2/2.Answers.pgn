@@ -1,0 +1,316 @@
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.6"]
+[White "Kubo, Thomas"]
+[Black "Bauland, Thomas"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "1958"]
+[BlackElo "1868"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Muenster SK II"]
+[BlackTeam "Ahaus Wessum"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 d5 2. c4 e6 3. d4 dxc4 4. Qa4+ Nc6 5. Qxc4 Nf6 6. g3 Be7 7. Bg2 O-O 8.
+O-O Qd5 9. Nbd2 Rd8 10. e3 a5 11. Qc2 Qh5 12. Nc4 Nb4 13. Qb3 b5 14. Nce5 Bb7
+15. a3 Bd5 16. Qd1 Nc6 17. Nd3 a4 18. Nf4 Qh6 {Diagram #} 19. e4 $1 {White has 
+control over the center and has active pieces; so, he starts an attack in the
+center, and also to Black's queen. He is making moves with threats; and this
+is the best way to keep the initiative.} (19. Nxd5 $5 {This is an interesting
+option to play in the long diagonal (h1-a8) and to play positional chess.}) (
+19. h4 $5) (19. Bd2 $5) 19... Bb3 20. Qe1 Ne8 21. d5 $1 {When your pieces are
+fully activated, then you need to open the center and lines in order to
+liberate them!} g5 22. Nxe6 $1 {This is the most fantastic move, attacking the
+g5-pawn, and then, attacking the c6-knight. Similarly, White is hoping to
+totally destroy Black's position.} (22. dxc6 $5) 22... fxe6 23. dxc6 Bc4 24. h4
+{The activity will help you continue your attack and put more pressure against
+your opponent; this is what White is hoping here, to attack the g5-pawn.} Qg7
+25. Nxg5 h6 26. Nh3 Bxf1 $2 {It was better to keep his active pieces and,
+maybe, to capture the rook later because the c4-bishop is an extremely active
+piece.} (26... e5) 27. Qxf1 $16 {White has an extremely active position, and
+he is attacking the pawn on b5. Thanks to his very active position and
+attacking possibilities, White wins the game afterwards.} Nd6 28. Nf4 Qf6 29.
+Bh3 Nxe4 30. Bxe6+ Kh8 31. Qe2 Nc5 32. Bh3 Re8 33. Qh5 Rg8 34. Be3 Ne4 35. Bd4
+Rxg3+ 36. Kf1 Qxd4 37. Qxh6+ Kg8 38. Be6# 1-0
+
+[Event "Grenke Chess Classic 5th"]
+[Site "Karlsruhe/Baden-Baden"]
+[Date "2018.04.01"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Hou, Yifan"]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "2843"]
+[BlackElo "2654"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "121"]
+[EventDate "2018.03.31"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2018.05.16"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Qe2 Be7 5. Nf3 d6 6. c3 Nbd7 7. Bb3 O-O 8. O-O
+a5 9. d4 a4 10. Bc2 Re8 11. Re1 Bf8 12. Qd1 b5 13. Nbd2 Qc7 14. Nf1 g6 15. Bg5
+h6 16. Bd2 Bg7 17. Ng3 Nb6 18. b3 axb3 19. axb3 Rxa1 20. Qxa1 Bg4 21. Qc1 Bxf3
+22. gxf3 h5 23. Bh6 Qe7 24. Bxg7 Kxg7 25. Qg5 Kh7 {Diagram #} 26. f4 $5 {
+Carlsen is playing in the center and tries to weaken Black's kingside. This is
+a very active move in order to liberate and organize his pieces. Similarly,
+White is undoubling his f-pawns.} (26. Ra1 $5) (26. Ne2 $5) (26. h4 $5) 26...
+Nfd7 (26... exf4 27. Qxf4 {White has a very good central control and active
+pieces. The position is almost equal, but it looks scary to play e5 and pin
+the g6-pawn. Thus, White has some attacking posibilities thanks to the weakned
+black kingside.}) 27. Qxe7 Rxe7 28. fxe5 {White grabs the opportunity to
+double his pawns. White didn't manage to perform a kingside attack, and this
+is not always possible. In any case, he has very active pieces and space
+advantage.} dxe5 29. Rd1 $1 {To take is a mistake, as you already know and,
+for that reason, Carlsen doesn't capture the pawn on e5, but he keeps pressing
+the center. Please remember that you're placing the rooks behind the pawns in
+order to push them. And this is what he is trying to do here, to push d5 in
+the apropriate moment or to capture on e5 and have an active rook on the
+d-line.} Re8 30. dxe5 {In chess, we're following the rules. Usually, the rules
+are good 8 times out of 10. However, sometimes it's OK, or even necessary, to
+break the rules in order to find the best moves. Carlsen breaks the rule "to
+take is a mistake" thanks to very concrete reasons: he would like to increase
+his central superiority, and he immediately pushes the f-pawn to f4.} Nxe5 31.
+f4 Ng4 32. Rd6 $14 {I guess that you can see clearly now how active and good
+coordinated White's pieces are. The rook is extremely active on d6; pressing
+the c6- and g6-pawns. White has a fantastic control over the center, and he
+can push these pawns at any time he wants. After the e5 advancment, the
+c2-bishop will be activated by pinning the g6-pawn; thus, Nxh5 will be a
+threat. As you can understand, all of White's pieces are coordinating very
+well. On the other hand, we cannot say the same for Black's pieces: how are
+Nb6 and Ng4 connected? How are they working for the same purpose? Similalry,
+the e8-rook cannot really stop or blockade White's central pawns. For the
+above mentioned reasons, White has a small but stable advantage, and he
+manages to win the game afterwards.} Re6 33. Rd8 Kg7 34. Nf1 Rf6 35. h3 Nh6 36.
+f5 gxf5 37. Ng3 Rg6 38. Kf2 fxe4 39. Nxh5+ Kh7 40. Bxe4 f5 41. Bg2 Nf7 42. Rf8
+Ne5 43. Nf4 Rd6 44. Rxf5 Nbd7 45. Ke2 Kg7 46. h4 Nf7 47. Be4 Nde5 48. Nh5+ Kh6
+49. Ng3 Re6 50. Ke3 Kg7 51. Rf1 Kf8 52. Nf5 Ng4+ 53. Kf4 Nf6 54. Bf3 Nd5+ 55.
+Bxd5 cxd5 56. Ra1 Kg8 57. Ra8+ Kh7 58. Ra7 Rf6 59. h5 Kg8 60. Rd7 b4 61. cxb4
+1-0
+
+[Event "SUMMER OPEN By A.s.o.p DIAS - A´GROUP"]
+[Site "?"]
+[Date "2019.07.10"]
+[Round "2"]
+[White "Kesaris, Evangelos"]
+[Black "Hatzistamatiou, Nikolaos"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "1879"]
+[BlackElo "1839"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "87"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.07.10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Qe7 5. Bg2 Bxd2+ 6. Nxd2 (6. Qxd2 Nc6 (
+6... O-O) (6... e5 7. d5) 7. a3 e5 8. d5 Nd4) 6... O-O 7. Ngf3 d6 8. e4 e5 9.
+O-O c5 10. d5 Ne8 11. Nh4 (11. Ne1 f5 12. Nd3 fxe4 13. Nxe4 Nf6) 11... g6 (
+11... f5 12. Bh3) 12. Qc2 (12. Qe2) 12... Ng7 13. Rae1 Na6 (13... f5 14. exf5 (
+{Computer:} 14. f4 $1 exf4 15. exf5 $1 {White missed it.}) 14... gxf5 15. f4 e4
+16. Bh3) 14. a3 $6 Bd7 15. Qd3 Rab8 16. Qe3 (16. f4 $6 exf4 {Computer:} 17. e5
+$6 (17. Rxf4 g5 18. Nf5 Nxf5 $19) 17... dxe5 18. d6 Qe6 (18... Qf6 19. Bd5 Bf5
+20. Ne4 Bxe4 21. Rxe4 Kh8 22. Nf3 Qxd6 23. Nxe5 Nc7 $17) 19. Bd5 $1) (16. b3 $5
+) 16... b5 17. b3 bxc4 18. Nxc4 Bb5 {Diagram #} 19. Qc3 $6 {This is one of the
+critical moments during the game. White has a lot of good moves here. In
+general, when you choose a site to attack, the center, the queenside or the
+kingside; then you should follow your plan. White's main idea is to play f4
+and e5 and he should insist on this idea. White played Qc3 in order to
+recapture on c4 with the queen, and then transfer the rooks to the b-line to
+perform the b4 breakthough.} (19. f4 $1 exf4 20. Qxf4 Bxc4 21. bxc4 Qe5 22.
+Qxe5 dxe5 23. Rf6 $16 {White didn't evaluate it correctly and wasn't sure
+during the game if it is OK to go in the endgame or not. But we can see that
+White's pieces are very active, the f7 is a permanent weakness, he controls
+the center very well and the d5-pawn is a connected passted pawn. White has
+the advantage here.} Nc7 (23... Rb6 $8 24. Rxb6 axb6 25. Rb1 Rb8 26. Nf3 f6 27.
+d6 Kf8 28. Bh3 Ke8 29. Ne1 Kd8 30. Ng2 Ne8 31. Rd1 $16) 24. Rc6) (19. Qh6 $5
+Bxc4 20. bxc4 Rb3 21. f4 $16 {
+Following his original idea to attack on the kingside.}) 19... Bxc4 20. bxc4 (
+20. Qxc4 $5 {This is what White was thinking from the beginning, but then he
+changed his mind.} Qb7 21. Rb1) 20... Rb6 21. f4 $1 {This is a fine move, but
+his queen is misplaced on c3 and he has to move it again.} f6 (21... exf4 22.
+e5 $6 {White was between these two moves, to play e5 or Rxf4; both of them are
+looking attractive. However, his opponent surprised him again. White had the
+feeling that he couldn't guess any of his moves.} (22. Rxf4 $5 g5 23. Nf5 $1)
+22... dxe5 23. Rxe5 Qf6 (23... Qb7 24. gxf4 Rb3 25. Qc1 Rxa3 26. f5) 24. Rxf4)
+22. fxe5 $6 {Still he is regretting this move. White played it very quickly
+calculating that he will recapture with the f-pawn; then he will capture on f8
+and will have time to play Rf1, activating all of his pieces. After his
+opponent's reply, White realizes that he made a mistake and, probably, he lost
+all of his initiative. White knew the rule to take is a mistake, but he didn't
+follow it during the game.} (22. Nf3 $1 Rfb8 23. fxe5 fxe5 24. Qc1 Ne8 25. Qh6
+Qg7 26. Qh3 h6 27. Qe6+ $18) (22. f5 $5 g5 23. Nf3 Rfb8 $2 (23... h6 24. Nd2
+Rfb8 25. Bf3 Qb7 26. h4 Rb2 27. Ra1 Nc7 28. Rf2 $18 {Black has no plan here!})
+24. Nxg5 fxg5 25. f6 $1) 22... Qxe5 23. Qc1 {White has different good moves
+here but, finally, he found his way to attack on the kingside.} (23. Qxe5 fxe5
+24. Nf3 $1 {White didn't evaluate this move very accurately. He just thought
+that if he changed the f-rooks, then his b-rook will be more active. He didn't
+calculate deeply that he could land on the e6-square.} Nc7 (24... h6 25. Nh4)
+25. Ng5) (23. Qa5 $5 Qd4+ 24. Kh1 Qxc4 {Black's pieces are not coordinated,
+especially the knights, but the position is about equal because they weren't
+able to create any real threats. The queen is on the queenside, and the rest
+of the pieces are in the kingside; this is not a logical way to claim the
+initiative.}) 23... Nb8 (23... Qb2 24. Qh6 $36 {This is what White was
+calculating. He is sacrificing the queenside pawns, bringing all the bridges;
+but his pieces are extremely active in the kingside, and Black should be very
+careful.}) 24. Bh3 Rb3 25. Qh6 {White isn't sure what the Rb3 move is doing.
+Probably, he may sacrifice the rook on g3 thanks to his unprotected pieces on
+the h-file; or he'd like to capture the the a3-pawn. He knows that the
+opponent played very confidently thinking that he had a very good initiative.
+In any case, his next move, Qh6, came very naturaly to him.} Rb7 $6 {The first 
+retreat... Black is worse for sure because White is moving forward with his
+strategic plan.} (25... Qh5 $2 26. Be6+ (26. Qxh5 Nxh5 27. Be6+ Kg7 (27... Kh8
+28. Rb1 $1 $16) 28. g4 $18) 26... Nxe6 27. Qxh5 gxh5 28. dxe6 $16 {This was what
+White calculated; but it was stronger to capture the queen immediately, and
+then, to occupy the b-line, as the computer suggests.} Rxa3 (28... Re8 29. Rxf6
+) 29. Nf5 (29. e7 Re8 30. Nf5)) 26. Nxg6 $1 {When you've activated all of your
+pieces, it's time for sacrifices! White had foreseen the endgame;
+unfortunately, not all of the sacrifices were leading to checkmate, and he was
+"forced" to go for it.} (26. Rb1 $4 Qd4+ 27. Kh1 Rxb1 28. Rxb1 Qxe4+ 29. Kg1
+Qxb1+) 26... hxg6 27. Qxg6 Qh5 $8 (27... Qg5 $4 28. Be6+ Kh8 29. Qxg5 fxg5 30.
+Rxf8+ $18) 28. Be6+ Kh8 29. Rxf6 $6 {White missed this opportunity. I'll
+repeat it again that the best breakthrough in these positions is e5, and it's
+amazing how many times White had the opportunity to make it work!} (29. Qxh5+
+Nxh5 30. e5 $3 {White missed it... It was an awesome breakthrough!}) 29... Qxg6
+30. Rxg6 Kh7 $6 31. Rg5 $4 {This is the first big mistake and White can lose
+the game for it! White saw the Bf5 move, but he didn't calculate it correctly.
+He sacrificed the knight in order to have the kingside pawns, h2 and g3. If he
+manages to push these pawns, then they could prove to be very dangerous.} (31.
+Bf5 $1 Nxf5 32. exf5 Rxf5 {
+White stopped here and, for that reason, he didn't play Bf5... It's a pity!}
+33. Rxd6) 31... Nxe6 32. dxe6 Re7 33. Rf5 $1 {
+trying to create problems for his opponent.} Kg7 34. Ref1 Rxf5 $4 {Kasparov uses
+to say that you're making a mistake anytime you're expecting that your
+opponent goes back! And this is what happened in this game. He was afraid of
+White's counterplay with a check on f7 and his posibilities to capture the
+pawn on a7; and he believed that he could blockade White's pawns succesfully.
+Actually, this was wrong...} (34... Rfe8 35. R1f4 (35. Rf7+ Kg8) 35... Rxe6 36.
+Rf7+ Kg6 37. Rxa7 Rxe4 38. Rff7) 35. exf5 {White has an extremely strong
+initiative here and the plan is simple. White's king will go to d5 and, step
+by step, White will try to push the pawns forward. Please notice how badly
+placed is the b8-knight. This knight is out of the game. If one of your pieces
+is bad, then your position is bad...} Kf6 36. g4 $1 {
+White is close to winning here; definitely, he has a super-strong initiative.}
+Rg7 37. h3 Nc6 38. Kf2 Ne5 39. Kg3 Rb7 40. Kf4 (40. g5+ $6 Kxg5 41. f6 {
+With the same idea. White just activated his king first. He saw g5, but he
+wasn't in a hurry.} Rb3+ $132) 40... Nd3+ $2 {Black based his defense on the
+perpetual check because it's extremely scary to play Rb3 and leave the
+blockade on the dark squares.} (40... Rb3 41. g5+ Ke7) 41. Ke4 Ne5 42. g5+ $1 {
+This is the killing blow because the two connected passed pawns are stronger
+than Black's pieces. Black cannot blockate or attack these pawns.} Kxg5 43. f6
+Ng6 44. Kd5 1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.5"]
+[White "Anand, Viswanathan"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2767"]
+[BlackElo "2775"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "64"]
+[EventDate "2019.06.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 {Diagram #} h6 {This is a theoretical
+position, and Black has plenty of moves available. I'm proving this game
+thanks to Black's original idea. The center is closed and White cannot perform
+easily the d4 advancement; so, Black would like to start attacking on the
+kingside by advancing his pawns there.} (4... Be7 $5) (4... Bc5 $5) (4... a6 $5
+) 5. c3 d6 6. Nbd2 g5 $5 {This is a controversial move and it's against the
+main strategic rules; but the center is closed, and Black can choose the
+kingside to attack.} 7. h3 Bg7 8. Bb3 O-O {
+It's OK to castle here because Black has a lot of pieces in front of his king.}
+9. Nf1 Ne7 $5 {This is a very interesting and typical maneuver. The knight
+will like to go to g6, and then to f4. Similarly, this knight can help the d5
+advancement from here.} 10. h4 g4 $1 $36 {Black start grabing the initiative
+here thanks to his space adantage on the kingside and active peices. The
+g4-pawn is limiting the activity of White's pieces.} 11. N3h2 d5 {It is impressive
+to see how Black is pressing the center and advances his pawns there.
+Black is not winning but, thanks to his very active play, he manages to
+equalize the game in the opening.} 12. f3 Ng6 13. fxg4 Nxh4 14. g3 Ng6 15. Qe2
+a5 {The computer assesses this position as better for White. However, Black
+has at least equal space control, he performs succesffuly his main d5
+breakthrough, and White has kingside pawn weaknesses. After a long fight,
+Black manages to win the game.} 16. Bc2 d4 17. g5 hxg5 18. Bxg5 a4 19. c4 Qd6
+20. Nd2 Ra6 21. Rb1 Nh7 22. Qh5 Nxg5 23. Qxg5 Qe7 24. Qxe7 Nxe7 25. Nhf3 f5 26.
+Bd1 Bd7 27. Nh4 Bh6 28. exf5 Nxf5 29. Ne4 Be3 30. Be2 Rh6 31. Rh2 Bc6 32. Rg2
+Nd6 0-1
+
+[Event "SUMMER OPEN By A.s.o.p DIAS - A´GROUP"]
+[Site "?"]
+[Date "2019.07.14"]
+[Round "3"]
+[White "Kampitsis, Vasilios"]
+[Black "Kesaris, Evangelos"]
+[Result "0-1"]
+[ECO "D74"]
+[WhiteElo "1766"]
+[BlackElo "1879"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "84"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.07.14"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 d5 4. d4 Bg7 5. Nf3 O-O 6. O-O c6 7. cxd5 Nxd5 (7...
+cxd5) 8. e4 Nb6 9. Na3 Bg4 10. Be3 e5 11. dxe5 N8d7 12. Qc2 Bxf3 13. Bxf3 Nxe5
+14. Be2 {Diagram # =} h5 $6 {White just offered a draw here. Black doesn't
+have a better position; it's complicated with chances for both players. He was
+in a fighting mode and, for that reason, he continued playing. Similarly, he
+managed to equalize the game with the beautiful e5 move; so, he had an equal
+condition in the game. He didn't choose the best move, h5. The idea is to have
+a strong square for the knight on g4. At some point, Black can play h4 in
+order to open lines on the kingside. Sitting comfortably in your couch and
+analyzing the game with your computer, things are easier. However, when you're
+making active training, you should think actively trying to believe that
+you're playing a real game.} (14... Re8 $5 {It was better to activate all of
+the pieces, and then to start thinking about the attack. The main point is to
+have very active pieces and, only then, to think about the attack.}) (14... Qd7
+$5) (14... Qc8 $5) 15. Rad1 (15. h3 h4 16. g4 Re8 17. f4 Ned7 18. Bf3 Qe7 (
+18... Qf6 19. e5 $14) 19. Rad1 Nd5 $132 {Black has a lot of interesting ways
+to continue the game here, as you can see in the suggested moves. Yes, White
+has more space; however, his king's position is open, and Black has his pieces
+organized.} (19... g5 $5) (19... Qe6 $5) (19... Rad8 $5)) 15... Qc8 {Black is t
+rying to attack because he "forced" White to play Be2 and his king is somewhat
+alone. The queen is willing to play on h3; and then, she might create some
+problems to the enemy king and the advanced kingside pawns.} 16. Bc5 Re8 17. f4
+Ng4 18. Kg2 {This looks a good move, but the a3-knight is out of the game.
+Earlier, White played it in order to stop the Nc4 idea. Definitely, White can
+play f5, but it gives the e5-square to Black's knight.} (18. f5 $5) 18... Qe6
+19. Bd3 (19. e5) 19... Qxa2 $1 {Black is attacking two pawns, on e4 and on a2.
+Usually, it's dangerous to capture such a pawn because, if you capture the
+pawn, your queen will be outside for some time, at the edge of the board.
+Black captured this pawn because he will attack the b2; so, he can exchange
+queens. White needs a lot of tempi in order to create a real threat. For
+example, he needs to play f5, capture on g6; then he should recapture on fxg6,
+then to capture on b6 and then to give a double attack on c4 with the bishop.
+Definitely, White has compensation for the pawn, but the pawn is a pawn. Black
+manages to consolidate his position, activate his pieces and win the game.} 20.
+Nc4 (20. Bc4 Qxb2) 20... Nxc4 21. Bxc4 Qxb2 (21... Qa5 22. Rd7 $1 Qxc5 23.
+Bxf7+) 22. Qxb2 Bxb2 23. e5 (23. Rd7 Rxe4 24. Bxf7+ (24. Rxf7 Rxc4) 24... Kh8)
+(23. Rb1 b6 24. Rxb2 (24. Bg1 Rxe4) 24... bxc5 25. Rb7 Ne3+ 26. Kg1 Nxc4) 23...
+b6 24. Bg1 Rad8 25. e6 fxe6 26. Bxe6+ Kg7 (26... Kf8) 27. Bd7 Ne3+ (27... Re2+
+28. Kf3 (28. Kh1 c5 (28... Nf2+ 29. Bxf2) 29. Bxg4 Rxd1 30. Bxe2 Rxf1 31. Bxf1)
+28... Rc2) 28. Bxe3 Rxe3 29. Bxc6 Re2+ (29... Bd4) (29... Rxd1) 30. Kf3 Red2 (
+30... Rdd2) 31. Rxd2 Rxd2 32. Rf2 Rd3+ 33. Ke4 Rd4+ 34. Ke3 Rd6 35. Rc2 (35.
+Rd2 Bc1) (35. Rxb2 Rxc6 $19) 35... Bd4+ 36. Ke4 Bc5 37. Bd5 Kf6 38. Rc3 a5 39.
+Rf3 a4 40. h4 Rd7 41. f5 Re7+ 42. Kf4 (42. Be6 gxf5+ 43. Rxf5+ Kxe6 $19) 42...
+Bd6# 0-1
+

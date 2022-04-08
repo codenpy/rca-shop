@@ -1,0 +1,43 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.10.22"]
+[Round "?"]
+[White "Pirc defense "]
+[Black "Base theory"]
+[Result "*"]
+[ECO "B07"]
+[Annotator "RCA"]
+[PlyCount "39"]
+[EventDate "2013.??.??"]
+
+1. e4 d6 {This defence is really easy to play for White - simply because Black
+allows White to take the centre for nothing.} 2. d4 Nf6 3. Nc3 g6 4. Bg5 {One
+of the most aggressive variations. Here White has a lot of equivalent choices,
+but I think that this is relatively easy to play and very pugnacious.} Bg7 (
+4... h6 5. Be3 {And White has a favourable version of the 4.Be3 variation.
+White's plan is to play f3,Qd2,0-0-0, and then create an attack on the king
+side.}) (4... c6 5. Qd2 Bg7 6. f4 {And White is planning to play 0-0-0,Nf3,Bb3
+and, at some point, e5 with an attack on the king side.}) (4... Nbd7 {Not a
+very popular move, because of...} 5. f4 $1 {And the knight is not very well
+placed on d7.}) 5. Qd2 {Preparing to castle on the queen side.} h6 6. Bh4 g5 {
+This is the best defensive effort for Black.} (6... O-O 7. O-O-O c6 8. f4 {And
+White has excellent attacking chances.}) 7. Bg3 Nh5 {Only consequent move
+after g5.} 8. O-O-O Nd7 9. e5 $1 {White wants to open the position due to his
+advantage in development.} Nxg3 10. hxg3 dxe5 11. dxe5 Bxe5 12. f4 $1 {
+Following the plan of opening up the position.} gxf4 13. gxf4 {Now Black has
+two main choices...} Bg7 {Keeping the bishop on this important diagonal.} (
+13... Bd6 {Closing the 'd' file and preparing to mobilise the queen side
+pieces with Nf6 and Bf5, for instance.} 14. Ne4 $1 {Preventing Nf6.} Nb6 15.
+Qe3 {Creating interesting threats like Nf6 in some lines.} Bf5 16. g3 Bxe4 17.
+Qxe4 c6 18. Qd4 {And this is the problem with the Bd6 line: Black also needs
+the bishop on this diagonal...}) 14. Rh3 $1 {A very creative move! White
+develops his rook using the third rank.} c6 15. Rd3 {Creating annoying
+pressure on the 'd' file.} Qc7 (15... O-O {Sacrificing two pieces for one rook,
+in order to improve the position of the king; White is obviously better after..
+.} 16. Rxd7 Bxd7 17. Qxd7 Qxd7 18. Rxd7) 16. g3 {Preparing Bh3!} Bxc3 17. bxc3
+$1 {Keeping the pressure on the 'd' file; this is more important than pawn
+structure in this position. White is planning to play Bh3,Nf3-e5, etc.} Kf8 {
+It's the best chance for Black. But White is obviously better after...} 18.
+Rxd7 Qxd7 19. Qxd7 Bxd7 20. Rxd7 {With a very comfortable endgame for White.
+For more details about this line, go to the advance theory section.} *
+

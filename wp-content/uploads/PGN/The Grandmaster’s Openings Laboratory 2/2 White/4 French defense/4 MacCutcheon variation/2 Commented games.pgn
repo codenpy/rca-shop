@@ -1,0 +1,189 @@
+[Event "Hofheim MVT"]
+[Site "Hofheim"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Lutz, Klaus Juergen"]
+[Black "Meyer, Stefan"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2310"]
+[BlackElo "2125"]
+[Annotator "RCA"]
+[PlyCount "81"]
+[EventDate "1995.??.??"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 {The complex Maccutcheon Variation.} 5.
+e5 h6 6. Bd2 {The main line: White can also play 6.Be3, 6.exf6 or even 6.Bh4.}
+Bxc3 7. bxc3 Ne4 8. Qg4 {A typical move in a lot of French Defence variations.
+Black now has to make an important decision: how to defend the f7 pawn?} Kf8 (
+8... g6 {Is the other alternative.}) 9. Bd3 {Attacking Black's best piece!}
+Nxd2 10. Kxd2 Qg5+ 11. Qxg5 hxg5 12. h4 $1 {The idea of this move is to open
+the king side, because it's on that side that White has better possibilities.}
+Nc6 13. f4 $5 (13. Nf3 {Looks more natural...} g4 14. Nh2 Rxh4 15. g3 {With
+advantage to White.}) 13... gxf4 14. Rf1 Bd7 15. Rxf4 {Now the f7 pawn is an
+objective.} Ke7 16. Rh3 {This manoeuvre is very typical in the Maccutcheon
+Variation; the rook is very flexible in the third rank.} Rag8 17. Rg3 {In the
+Maccutcheon, the strategy for White is to put pressure on the king side pawns,
+using the heavy pieces in particular. In this case, the attack isn't enough
+for White: Black has sufficient defence.} f5 $1 {Solving the problem of the
+weak f7 pawn.} 18. Rg5 {It's very difficult to find a concrete plan here.
+White should use a technique I called 'tormenting your opponent'. For more
+information about this, take a look at the course 'Endgame Expert'.} Nd8 19.
+Nh3 Nf7 20. Rg3 Rh6 21. Be2 Kf8 22. Ke3 Rgh8 23. h5 $1 {Fixing g7 as a
+weakness.} Rg8 24. Ng5 Nxg5 25. Rxg5 g6 26. g4 $1 {White has his pieces best
+placed, so he must open the position to take advantage of that.} gxh5 (26...
+Ke7 27. hxg6 Rgxg6 28. Rxg6 Rxg6 29. gxf5 exf5 30. Rh4 $14) 27. Rxg8+ Kxg8 28.
+gxh5 $14 Ba4 29. Rh4 Bxc2 30. Kf4 {White has excellent compensation for the
+pawn.} Bb1 31. a3 Ba2 32. Kg5 Kg7 33. Rh2 Bb3 34. Bb5 Rh8 $2 {The decisive
+mistake, allowing the pawn to advance.} (34... Bd1 {And it's difficult for
+White to make progress...}) 35. h6+ Kf7 36. h7 c6 37. Bd3 Bd1 38. Rh6 Bg4 39.
+Rf6+ Kg7 40. Rxe6 Rxh7 41. Re7+ 1-0
+
+[Event "Ruhrgebiet VL2 9798"]
+[Site "Ruhrgebiet"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Stillger, Bernhard"]
+[Black "Mainusch, Martin"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2340"]
+[Annotator "RCA"]
+[PlyCount "43"]
+[EventDate "1997.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 {An important alternative to 8...Kf8. This move has the disadvantage of the
+weak f6 square.} 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 Nc6 12. Qf4 $1 {This move is
+very important - pointing to the f6 square.} (12. h4 {Is a typical Maccutcheon
+move, but 12. Qf4 is more accurate in this particular position.}) 12... cxd4
+13. cxd4 Qa5+ 14. c3 b6 {With the idea of exchanging the bishops. Now White
+has a very deep plan to gain the advantage.} 15. Qf6 Rg8 16. a4 $1 {This is
+the idea: White is going to allow the exchange but only under favourable
+circumstances - taking advantage of the bad position of Black's queen.} Ba6 17.
+Bb5 $1 Bxb5 18. axb5 Qxb5 19. Rhb1 Qc4 20. Rxb6 $1 Rc8 $4 {This line is
+already bad for Black, but after this move White wins in a very simple way...}
+(20... Nd8 21. Ne1 $1 Qc7 22. Rba6 Nc6 23. Nd3 $1 {This strong manoeuvre gives
+White a clear advantage; Black can`t coordinate his pieces.}) 21. Rb7 a5 (21...
+Rf8 22. Raxa7 {And it's all over...}) 22. Qxf7+ 1-0
+
+[Event "Wch U16 Girls"]
+[Site "Oropesa del Mar"]
+[Date "1998.11.02"]
+[Round "7"]
+[White "Gara, Anita"]
+[Black "Richards, Heather"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2290"]
+[BlackElo "2130"]
+[Annotator "RCA"]
+[PlyCount "99"]
+[EventDate "1998.10.25"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.01.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 Nc6 12. Qf4 Qa5 13. Rhb1 {Activating the
+rook and threatening moves like Rb5.} cxd4 14. Nxd4 Nxd4 15. Qxd4 {This is one
+of the most critical positions in this system. Black has a better pawn
+structure and White's king is in the centre. But the activity of White's
+pieces and Black's weaknesses on dark squares compensate for this.} Qc7 {White
+was threatening Bb5+.} (15... a6 16. Rb6 $14) (15... O-O 16. h4 $40) 16. h4 Bd7
+17. Rb4 Rc8 18. Rab1 b6 19. Ba6 Rd8 20. a4 $1 {White should try to open the
+position to take advantage of the activity of his pieces. If he fails to do
+that, then Black has no problems - another typical scenario of the Maccutcheon
+Variation.} Qc5 21. Qf4 g5 22. Qf6 Rg8 23. h5 $1 {Fixing Black weaknesses and
+preventing Black's possible counterplay using the "g" file.} Bc6 24. Rd4 Qf8
+25. f3 $1 {Preventing g4 followed by Rg5. Now White's plan is to clear the
+rook on g8 out of the play, so that on the queen side White will have
+virtually a rook up. So LET'S OPEN THE QUEEN SIDE!} Qg7 26. a5 $1 (26. Bb5 $5 {
+Was a very interesting alternative...} Rc8 (26... Bxb5 27. Qxg7 Rxg7 28. axb5 {
+And the "a" pawn is really weak.}) 27. Qxg7 Rxg7 28. a5 $1) 26... Qxf6 27. exf6
+bxa5 28. c4 $1 {Trying to open the position completely - taking advantage of
+the factor of the g8 rook...} g4 29. f4 $1 a4 30. cxd5 exd5 31. c4 $1 a3 32.
+Re1+ Kd7 33. cxd5 a2 $2 {Unnecessary desperation: Black has an inferior
+position without any doubt - but this simply loses a piece!} 34. dxc6+ Kxc6 {
+The rest doesn't deserve any comment.} 35. Rxd8 Rxd8+ 36. Kc3 Re8 37. Ra1 Re4
+38. g3 Re3+ 39. Kd4 Rxg3 40. Bc4 Kb6 41. Bxf7 Rf3 42. Rxa2 Rxf4+ 43. Ke5 Rf3
+44. Be6 g3 45. f7 a5 46. Bf5 Rf2 47. f8=Q Rxa2 48. Qd6+ Kb5 49. Qd5+ Kb4 50.
+Qxa2 1-0
+
+[Event "Goodricke op 11th"]
+[Site "Kolkata"]
+[Date "2000.02.15"]
+[Round "10"]
+[White "Bakre, Tejas"]
+[Black "Satyapragyan, Swayangsu"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2352"]
+[BlackElo "2333"]
+[Annotator "RCA"]
+[PlyCount "79"]
+[EventDate "2000.02.05"]
+[EventRounds "11"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2000.03.10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 Bd7 {The idea of this move is to control
+the f6 square with the knight on d7.} 12. h4 {This move is always useful in
+the Maccutcheon. The rook can move to h3 and White can open the position with
+h5 at some point; and you will also see that another piece needs the h2 square.
+} Qe7 13. Qf4 Bc6 14. Nh2 $1 {Fighting for the critical f6 square.} Nd7 15. Ng4
+O-O-O 16. Nxh6 $1 (16. Nf6) 16... c4 17. Be2 f5 18. g4 $1 {Giving a hand to
+the heroic h6 knight!} fxg4 19. Qf7 $1 Rde8 20. Qxg6 Ref8 21. Qg5 Qh7 22. Nxg4
+{Now White is a pawn up and Black left without any clear compensation; the
+rest wasn't very difficult for White.} Ba4 23. Rac1 Qe4 24. f3 Qh7 25. h5 Rf5
+26. Qh4 Nf8 27. Ne3 Qh6 28. Qg3 Rh7 29. Rh4 Rg7 30. Rg4 Rgf7 31. Rh1 Be8 32.
+Rhh4 Rxh5 33. f4 Rxh4 34. Rxh4 Qg6 35. Rg4 Qh7 36. Rg5 Qe4 37. f5 exf5 38. Nxf5
+Rxf5 39. Rxf5 Ne6 40. Qg4 1-0
+
+[Event "Rilton Cup 36th"]
+[Site "Stockholm"]
+[Date "2007.01.04"]
+[Round "8"]
+[White "Ernst, Thomas"]
+[Black "Eriksson, Jorgen"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2441"]
+[BlackElo "2234"]
+[Annotator "RCA"]
+[PlyCount "97"]
+[EventDate "2006.12.27"]
+[EventRounds "9"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "2007.03.07"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+Kf8 9. Bd3 Nxd2 10. Kxd2 c5 11. h4 $1 c4 12. Be2 Nc6 13. Rh3 b5 14. Rg3 $1 Rg8
+15. Qf4 $1 Bd7 16. Bh5 $1 {I think it's time to talk about the basic plan of
+the Maccutcheon with the White pieces. The idea is to create annoying pressure
+on the king side and thereby force Black to defend. This strategy explains
+White's last three moves.} Be8 17. Rf3 (17. Nh3 {Is another valid alternative.}
+) 17... Ke7 (17... f5 18. Bxe8 Kxe8 19. g4 Ne7 20. h5 {This probably gives
+Black enough defence.}) 18. Ne2 g6 19. Bg4 h5 20. Bh3 Kd7 21. Ke1 $1 Rh8 22.
+Kf1 $1 {This is another typical prophylaxis in the Maccutcheon. After this,
+White has a free hand on both sides.} a5 23. Qg3 Qe7 24. Rf6 $1 Qa3 25. Qf3 {
+Black's position is under pressure and here the threats Rxf7 and Qxd5 are
+unavoidable.} Kc7 26. Rxf7+ $1 {The rest is easy for White.} Bxf7 27. Qxf7+ Qe7
+28. Qxe6 (28. Qxg6 {Was a more accurate option...}) 28... Qxe6 29. Bxe6 Ne7 30.
+Nf4 Kc6 31. Bf7 Rhf8 32. e6 b4 33. Nxg6 Nxg6 34. Bxg6 Kd6 35. Re1 Ra7 36. Bxh5
+bxc3 37. Bf7 Rb8 38. g4 Rb2 39. g5 Rxc2 40. g6 Rd2 41. g7 Ra8 42. e7 c2 43.
+g8=Q Rxg8 44. Bxg8 Rd1 45. e8=Q c1=Q 46. Qd8+ Kc6 47. Qxd5+ Kb6 48. Qc5+ Kb7
+49. Bd5+ 1-0
+

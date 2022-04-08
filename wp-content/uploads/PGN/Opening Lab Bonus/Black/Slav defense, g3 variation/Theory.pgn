@@ -1,0 +1,55 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Slav defense"]
+[Black "g3 variation"]
+[Result "*"]
+[ECO "D11"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "26"]
+
+1. d4 ({In your games this variation can arise through this order of moves:} 1.
+Nf3 Nf6 2. g3 d5 3. d4 {Now you have a choice. You may play 3...e6 getting a
+Catalan opening (it's analyzed in the main part of the course). Alternatively
+you may turn the game into a good variation of Slav defense.} c6 4. Bg2 Bf5 {
+it's a transposition into the main line presented below.}) 1... d5 2. c4 c6 3.
+Nf3 Nf6 4. g3 Bf5 {Black is going to play e6 (to free his f8-bishop), and so
+it's better to put the c8-bishop in front of his pawn chain.} (4... Bg4 {
+allows White to play} 5. Ne5 {with a tempo}) 5. Bg2 e6 6. O-O (6. Nh4 {loses a
+pawn} Bxb1 7. Rxb1 Qa5+ 8. Bd2 Qxa2) 6... Nbd7 {It is better to develop the
+knight first, because the knight has the only good square for a development,
+while f8-bishop can go to different squares. According to the general rules,
+we should develop knights before bishops.} 7. Nc3 (7. Nh4 {Black has a few
+good ways to deal with the move Nh4. Hence Black should not be afraid of this
+move.} Be4 {This intermediate move forces White to play f3, which will close
+g2-bishop and will weaken White's position.} (7... Bg4 {!?} 8. h3 Bh5 9. g4 Ne4
+{this counterblow helps Black to save his bishop and to put the knight on a
+good square.} 10. Nf3 (10. gxh5 {?} Qxh4 {and black will capture White's
+h5-pawn}) 10... Bg6 {Black saved the bishop; Nh4 idea failed.}) 8. f3 Bxb1 {
+here black can win a pawn} (8... Bg6 {(Bb1 is good only because it wins the
+pawn. Otherwise, Black should go Bg6. After an exchange black will have a new
+open file "h")} 9. Nxg6 hxg6 {=}) 9. Rxb1 dxc4 {Black is up a pawn and has a
+good position.}) 7... h6 {This prophylactic move provides a retreat path for
+Black's light-squared bishop in case if White plays Nh4.} 8. b3 {Black can
+take c4-pawn at some point, that's why White needs to protect it.} (8. Nd2 Be7
+9. e4 dxe4 10. Ndxe4 Nxe4 11. Nxe4 Nf6 {leads to an equal position}) 8... Bd6
+9. Bb2 O-O 10. Qd2 Qe7 {From e7-square the queen supports an eventual move Ba3
+or a central advancement e5.} (10... dxc4 {In some positions Black can attack
+White's c4 pawn suddenly.} 11. bxc4 Nb6 12. c5 Nc4 {this counterblow is a key
+idea of the whole operation} 13. Qc1 Bc7 {Using this tactics Black were able
+to capture White's dark-squared bishop.}) 11. a3 {White is preventing Ba3 move}
+(11. Rad1 Ba3 {Black should play Ba3 if possible: 1) for lack of space it is
+good for black to trade the pieces; 2) it may help Black to attack White's
+weaknesses on the queen-side.}) 11... a5 {This move prevents White from
+playing b4 and fixes White's weak pawn a3. This may help black to attack on
+the queen-side in the future.} (11... Rad8 {This move prepares an active play
+in the center. Black has developed all his pieces, and now it is time to start
+an attack. Black can try to attack on the queen-side or in the center. Both
+plans are possible.} 12. h3 dxc4 13. bxc4 e5 {This is a standard way for Black
+to attack in the center.}) 12. h3 Ne4 {This exchange is good for Black
+generally, and it is especially useful when Black is trying to attack on the
+queen-side.} 13. Nxe4 Bxe4 {Black still has 2 main plans: 1) attack in the
+center with the move e5; 2) attack on the queen-side by making the moves a4,
+dc, Nb6 and so on} *
+

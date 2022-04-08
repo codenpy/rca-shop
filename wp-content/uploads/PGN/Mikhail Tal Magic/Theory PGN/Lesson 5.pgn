@@ -1,0 +1,46 @@
+[Event "Riga-ch"]
+[Site "Riga"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Semenkin"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "101"]
+[PlyCount "41"]
+[EventDate "1954.??.??"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 e5 4. Bg2 Be7 5. e3 c6 6. Nge2 O-O 7. O-O Kh8 8. d4
+e4 9. d5 d6 10. f3 exf3 11. Bxf3 Qb6 12. b3 Ng4 13. Bxg4 fxg4 14. Bb2 Nd7 15.
+Ne4 Nf6 16. Qc2 Bd7 17. Ng5 h6 {Diagram #} (17... Qxe3+ 18. Kg2 Qxg5) 18. Rxf6
+(18. Bd4) 18... hxg5 $4 (18... Qxe3+ 19. Kg2 Qxg5 20. Rg6) 19. Rh6+ Kg8 20.
+Qh7+ Kf7 21. Qg6+ 1-0
+
+[Event "LAT-ch 11th"]
+[Site "Riga"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Zilber, Israel"]
+[Result "1-0"]
+[ECO "C61"]
+[PlyCount "63"]
+[EventDate "1954.02.12"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O c6 6. Bc4 Nf6 7. Re1 d6 8.
+c3 Be7 9. cxd4 d5 10. exd5 Nxd5 11. d3 O-O 12. Nc3 Bf6 13. Be3 Nb6 14. Qf3 Nxc4
+15. dxc4 Be6 16. b3 Bxd4 17. Rad1 c5 18. Bxd4 cxd4 19. Nb5 Qa5 20. Re2 Rad8 21.
+Qxb7 d3 22. Rb2 Rd7 23. Qe4 a6 24. Nd4 Bxc4 25. Nc6 Qc3 26. Rbd2 Bb5 27. Ne7+
+Kh8 28. a4 Qc5 29. Re1 Qc3 30. Rdd1 d2 31. Re3 Qc1 $4 $138 {Diagram #} (31...
+Bd3 $19) 32. Qxh7+ $1 1-0
+

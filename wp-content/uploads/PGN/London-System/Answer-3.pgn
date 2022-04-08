@@ -1,0 +1,17 @@
+﻿[Event "Moskau"]
+[Site "Moskau"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Judowitsch"]
+[Black "Dus_Chotimirski"]
+[Result "1-0"]
+[Annotator "T2R"]
+[SetUp "1"]
+[FEN "r2q1r2/7k/1p1p2p1/3Pbp2/bPP5/pR3B1p/PnN1QB1P/1K4R1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1948.??.??"]
+[EventType "swiss"]
+[EventCountry "RUS"]
+
+1. Bh5 Rf6 2. Bxg6+ Rxg6 3. Qh5+ Rh6 4. Qxh6+ Kxh6 5. Rxh3+ 1-0
+

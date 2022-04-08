@@ -1,0 +1,285 @@
+[Event "EU-Cup Bayern-Porz"]
+[Site "Bayern"]
+[Date "1991.09.16"]
+[Round "-"]
+[White "Hjartarson, Johann"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[BlackElo "2585"]
+[ECO "C16"]
+[EventDate "1991.09.15"]
+[WhiteElo "2550"]
+[EventCountry "GER"]
+[EventRounds "2"]
+[Source "ChessBase"]
+[SourceDate "1992.02.01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 {From a static point of view,
+this move looks good for Black; but White obtains a lot of development.}
+5.Qg4 {A typical move in the Winawer Variation: Black has to
+take an important decision.} Bf8 6.Bg5 {Attacking move! This
+is ideal in chess.} Qd7 7.O-O-O Ne7 8.Bxe7 h5 9.Qh3 {From here
+the queen controls very important squares like f5 and h5.} Bxe7 10.f4 {The
+natural plan for White in this pawn structure is to play f5,
+attacking the pawn chain and opening the position.} Bb7 (10...Ba6 {Is
+more natural - White gets a good position after...} 11.Bxa6 Nxa6 12.Kb1
+{Followed by a plan like Qe3-h3-Nf3/e2-g4-f5. The important thing
+is to prepare f5.}) 11.Nf3 Nc6 12.Ng5 {Preventing Black from
+castling queen side.} g6 13.Be2 Na5 14.Kb1 (14.g4 {Directly is
+also possible.}) 14...a6 15.g4 h4 16.Rhf1 {Preparing f5.} b5 17.Bd3 Nc4
+18.Ne2 (18.Nxf7 $5 {This sacrifice is very typical in this pawn
+structure.} Kxf7 19.f5 Kg8 20.f6 Bb4 21.Bxg6 {And the "f" and
+"g" pawns can now sweep forward.}) 18...Qc6 19.Ka1 {A prophylactic
+move but not very necessary...} a5 20.Nxf7 $5 Kxf7 21.f5 gxf5 $2 (21...g5 $1
+{Saves Black's position.} 22.fxe6+ Kg8) 22.gxf5 Rag8 23.Nf4 {Now
+it's all over...} Rh6 24.Rg1 Rgh8 25.f6 Bxf6 26.exf6 Rxf6 27.Ng6 Rg8 28.Qxh4
+{In this game, you should learn at least two things: 1. the typical
+f4-f5 plan; 2. the typical Nxf7 sacrifice.}   1-0
+
+[Event "American Continental 3rd"]
+[Site "Buenos Aires"]
+[Date "2005.08.16"]
+[Round "11"]
+[White "Spraggett, Kevin"]
+[Black "Rodriguez Vila, Andres"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[BlackElo "2523"]
+[ECO "C16"]
+[EventDate "2005.08.6"]
+[WhiteElo "2592"]
+[EventCountry "ARG"]
+[EventRounds "11"]
+[Source "ChessBase"]
+[SourceDate "2005.11.14"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 b6 {With
+the same idea we saw in the previous game: exchange the bad bishop.} 7.Qg4
+{Again, the typical answer. In this case, it's a bit different
+because Black no longer has his dark-squared bishop.} Ng6 (7...O-O {Is
+another option; White can simply play...} 8.Bg5 {Putting pressure
+on Black's position.} Qd7 9.Bd3 Ba6 10.Bxh7+ Kxh7 11.Qh4+ {Is
+a trick you should take into account.} Kg8 12.Bxe7 Qa4 13.Kd2 $1 {And
+White is winning due to the double threat 13. Bxf8 and 13. Bf6!!} Re8 14.Bf6 $1)
+8.h4 h5 9.Qd1 (9.Qg3 {Is another alternative that looks better
+at first sight; but taking a deeper look into the position, we
+can understand that attacking the h5 pawn is very important here.
+That's why 9.Qd1 is the move I like the most.}) 9...Ba6 10.Bxa6 Nxa6 11.Bg5
+{Developing and attacking...} Qd7 12.Ne2 {Going for Ng3.} Qc6 13.O-O Ne7
+14.Qd3 {Developing and attacking.} Nb8 15.Ng3 {It's time to attack
+h5. You may think: "What if Black simply protects this pawn with
+g6?" This is White's idea - he doesn't want to win the pawn;
+the idea is to provoke g6 and then attack on the weak dark squares.} Nd7
+16.Qf3 g6 {Now the objective is reached, it's time to rethink
+the position. It looks like White should try to open up the position
+- preparing c4 looks very logical.} 17.a4 {This move is very
+useful: 1. threatens a5; 2. The a3 square can be used by the
+bishop (Bc1-a3) or even by a rook.} a5 18.Rfd1 Nf5 19.Ra3 Ra7 20.Nf1 Nf8
+21.Bc1 Nh7 22.g3 Kd7 $2 (22...O-O $1 {And Black is ok...}) 23.Ne3 $1 {Now
+Black's position becomes desperate...} Kc8 24.c4 $1 Nxe3 25.Bxe3 Qd7 26.cxd5
+exd5 27.c4 $1 Rd8 28.Rc1 dxc4 29.Rxc4 Qd5 30.Qe2 Rb7 31.Rb3 Qe6 32.Qc2 Kb8
+33.Rc6 Qd5 34.e6 fxe6 35.Bf4 Ka8 36.Bxc7 Rc8 37.Rb5 Qd7 38.Rxa5+ {In
+this game, you should learn at least: 1. the idea of attacking
+h5 to provoke g6; 2. a typical idea in the Winawer Variation
+is to open the position to take advantage of the bishop against
+knight - c4 is a common way to do this.}   1-0
+
+[Event "FIDE-Wch k.o."]
+[Site "Moscow"]
+[Date "2001.11.30"]
+[Round "-"]
+[White "Zhang Zhong"]
+[Black "Lastin, Alexander"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[BlackElo "2628"]
+[ECO "C18"]
+[EventDate "2001.11.27"]
+[WhiteElo "2657"]
+[EventCountry "RUS"]
+[EventRounds "7"]
+[Source "ChessBase"]
+[SourceDate "2002.02.05"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 {This is a secondary
+variation.} 6.b4 {The idea is unpin the knight to go to b5.} cxd4 7.Nb5
+{Threatening Nd6.} Bc7 8.f4 {It's very important to support the
+e5 pawn.} Ne7 9.Nf3 Bd7 10.Nxc7+ {If you understand the properties
+of this pawn structure, this exchange doesn't need explanation.
+The dark squares are very weak.} (10.Nbxd4 {Is a less strong
+but acceptable option.}) 10...Qxc7 11.Bd3 {White doesn't hurry
+to take on d4, because it's lost anyway and White can use the
+time to finish his development and then maybe recapture it in
+a better way.} a6 12.Bb2 Nbc6 13.O-O Rc8 14.Qe1 $1 {The queen has
+excellent possibilities (f2,g3 or h4) from this square; also
+defends b4 and can help to play a4.} Nf5 15.Qf2 Nce7 16.a4 $1 {Seizing
+space on the queen side.} O-O (16...Ne3 $5 {It's interesting...} 17.Rfc1
+N7f5 18.Nxd4 $14) 17.Nxd4 {Finally, White decides to recover the
+pawn.} Nc6 18.Nxc6 Bxc6 19.b5 Bd7 20.g4 $1 Nh6 21.h3 $1 {Black's
+pieces haven't played. White has optimal coordination.} Qd8 22.Bd4 {Black
+has nothing to do.} axb5 {Decisive mistake: the opening of the
+"a" file leaves Black with nothing to do!} 23.axb5 Rc4 24.Bxc4 dxc4 25.Rfd1
+Qc8 26.Rab1 Re8 27.Bb6 {After this game, you should understand
+the importance of the dark-squared bishop in this position; also
+White's plan of seizing space on both flanks, leaving Black with
+a cramped position.}   1-0
+
+[Event "XLII Rilton Cup"]
+[Site "Stockholm SWE"]
+[Date "2013.01.04"]
+[Round "-"]
+[White "Sipila, V."]
+[Black "Socko, B."]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[BlackElo "2631"]
+[ECO "C18"]
+[EventDate "2012.12.027"]
+[WhiteElo "2425"]
+[Source "Mark Crowther"]
+[SourceDate "2002.09.16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qa5 {The idea
+of this move is to blockade the queen side with Qa4 - the problem
+is that the king side feels lonely.} 7.Bd2 Qa4 8.Qg4 $1 {Logical
+move! White should attack on the king side - the c2 pawn doesn't
+matter.} Kf8 9.Nf3 Ne7 (9...Qxc2 {Is also possible, but White
+doesn't have any problem in getting compensation - as you can
+see in the theory section.}) 10.Be2 b6 11.c4 $1 {A typical move
+in the Winawer! White wants to open the position as much as he
+can - for obvious reasons (king safety, bishop pair).} Ba6 (11...dxc4 12.dxc5
+bxc5 13.Ng5 {With clear advantage to White.} (13.Qe4 Qc6 14.Qxc6 Nexc6 $14))
+12.cxd5 Bxe2 13.d6 (13.dxe6 $5 Bc4 14.dxc5 Nbc6 {The position is
+very complicated...} 15.Ng5 Nxe5 16.Qe4 N7c6 17.f4) 13...Nf5 14.Kxe2 Nc6
+15.c3 cxd4 16.Qe4 $1 {White is better.} Qb5+ $2 17.c4 $1 {It's all
+over.} Qa4 (17...Qxc4+ 18.Ke1 Qd5 19.Qxd5 exd5 20.g4 Nh6 21.Rc1 Nd8 22.Bxh6
+gxh6 23.Nxd4) 18.g4 Nh6 19.Rhc1 Rc8 20.c5 Ke8 21.cxb6 axb6 22.Rab1 Qa6+
+23.Ke1 Kd7 24.Nxd4 Nxd4 25.Qxd4 b5 26.Bxh6 gxh6 27.Qf4 Rhf8 28.Qf6 Qa5+
+29.Kf1 Qd8 30.Rxc8 Kxc8 31.Qf3 Qa5 32.Qc6+ {In this game, you
+should review some important ideas: open the position with c4,
+attack the king side with Qg4.}   1-0
+
+[Event "YUG-ch"]
+[Site "Kladovo"]
+[Date "1991.??.??"]
+[Round "5"]
+[White "Kosanski, Stanko"]
+[Black "Raicevic, Ivica"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2385"]
+[BlackElo "2350"]
+[Annotator "RCA"]
+[PlyCount "50"]
+[EventDate "1991.02.??"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1994.03.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. a4 {This is a
+different move order, but we are going to reach a known position.} (7. Nf3 {Is
+normal, according to our repertoire.}) 7... Qa5 8. Bd2 Nge7 9. Nf3 c4 {We have
+reached a normal position in the 7.Nf3 variation. White's plan is to prepare
+f4-f5.} 10. g3 Bd7 11. Bh3 {According to White's plan, this bishop is good
+here.} O-O-O 12. O-O Rdf8 13. Qe2 h6 14. Rfb1 {Using this file is important in
+this variation} Nd8 (14... f5 {Is maybe a better try...} 15. exf6 Rxf6 16. Ne5
+$14) 15. Bc1 {Also the a3-f8 diagonal is key in this variation.} Bxa4 16. Ba3
+Ndc6 17. Bb4 Qa6 18. Bd6 {The position is awful for Black, and White works out
+a plan that finishes it in great style!} b5 19. Nd2 $1 Kd7 20. Nb3 $1 {Great
+and deep plan: very difficult to find!} cxb3 21. cxb3 Qb7 22. bxa4 b4 23. Qb5
+Rb8 24. Bf1 Qb6 25. Rxb4 Rb7 {About this game, we should learn: 1. what are
+the normal lines for the pieces in this variation (b1-b8, a3-f8 and sometimes
+a1-a8); 2. an interesting way of taking advantage of the typical pinned bishop
+on a4. (Nd2-b3).} 1-0
+
+[Event "Mitropa Cup 25th"]
+[Site "Brno"]
+[Date "2006.09.14"]
+[Round "-"]
+[White "Jenni, Florian"]
+[Black "Petrik, Tomas"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[BlackElo "2523"]
+[ECO "C19"]
+[EventDate "2006.09.7"]
+[WhiteElo "2481"]
+[BlackTeam "Slovakia"]
+[BlackTeamCountry "SVK"]
+[EventCountry "CZE"]
+[EventRounds "9"]
+[Source "ChessBase"]
+[SourceDate "2006.11.03"]
+[WhiteTeam "Switzerland"]
+[WhiteTeamCountry "SUI"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 Bd7 8.a4 {White
+should prevent Ba4.} Nbc6 9.Be2 Qa5 10.Bd2 c4 {Blocking the position
+from being opened up.} 11.O-O f6 12.exf6 gxf6 13.Bf4 $1 {This move
+is very strong in my opinion: White's idea is to play Bd6, and
+so it isn't a very good idea to take the c3 pawn.} Ng6 (13...Qxc3 14.Bd2
+Qb2 15.Rb1 Qa2 16.a5 $1 {And White's compensation is more than
+enough.}) 14.Bd6 O-O-O 15.Qd2 {Now White simply defends his pawn
+and has a much better position.} Rhg8 16.Rfb1 e5 17.dxe5 fxe5 18.Rb5 Qa6
+{Black's queen is an awful situation; that, plus the bishop pair,
+determines White's advantage.} 19.Rab1 {It's a good move, but
+maybe requires a lot of calculation from a practical point of
+view.} (19.g3 $5 {This is a better idea. When one side has a positional
+advantage, he should simply avoid his opponent's counterplay.
+In that way, the positional superiority will lead to victory
+in a very simple and natural way. This move closes the "g" file
+and limits Black's counterplay.}) 19...Be6 (19...Bh3 $5 20.Qh6 $1 Bxg2 21.Qxh7
+Nge7 22.Bxe7 Bxf3+ 23.Kf1 {And, believe it or not, White has
+good possibilities here. The thing is that evaluating this position
+is really difficult: that's why I consider 19.g3!? more practical...})
+20.Ng5 $1 {White is winning!} Bf5 (20...Rxd6 21.Nxe6 Rxe6 22.Bg4 Nce7 23.Rxb7 $6
+{Is the simple move.} (23.Qh6 $1 {It's the complicated one!} Kb8 24.Bxe6
+Qxe6 25.Rxb7+ Ka8 26.g3 $16) 23...Nf4 24.Rb8+ Kd7 25.Rxg8 Nxg8 26.g3 Nf6 27.gxf4
+Nxg4 28.Qxd5+ Kc7 29.Qc5+ Kd7 30.h3 $14) 21.Nf7 {It's curtains for
+Black!} Nf4 22.g3 Rd7 23.Nh6 Rxd6 24.Nxf5 Rf6 25.Ne3 Nh3+ 26.Kg2 Nf4+ 27.Kh1
+Nxe2 28.Qxe2 Rgf8 29.Qg4+ Kb8 30.Rxb7+ Qxb7 31.Rxb7+ Kxb7 32.Qd7+ Ka6 33.Nxd5
+Rg6 34.Nb4+ Kb6 35.Nd5+ {From this game, you should learn: 1.
+the importance of the dark-squared bishop - this is important
+in almost all the games; 2. the prophylactic move g3.}   1-0
+
+[Event "VIE-ch"]
+[Site "Dong Nai"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Le Dinh, Tuan"]
+[Black "Dang Tat Thang"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2316"]
+[BlackElo "2261"]
+[Annotator "RCA"]
+[PlyCount "79"]
+[EventDate "1995.??.??"]
+[EventRounds "13"]
+[EventCountry "VIE"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Bd7 8. a4
+Qa5 9. Bd2 c4 10. Be2 Bxa4 {This is playable for both sides. The problem with
+this move is that the bishop usually ends closed up on the queen side because
+of the move b5; and then White is virtually a piece up on the king side.} 11.
+O-O b5 12. Ng5 $1 {Very logical: 1. provoking weaknesses; 2. preparing f4.}
+Nbc6 13. f4 h6 14. Nh3 g6 15. g4 Rb8 16. Bf3 (16. Nf2 {Looks good, with the
+idea Nh1-g3 supporting f5.}) 16... Qd8 (16... b4 $1 {Looks like a better
+option for Black; in the game, Black waited passively.} 17. cxb4 Qb5 18. Bc3
+Nxb4 19. Rf2 $44) 17. Nf2 a5 18. Nh1 Qd7 19. Ng3 {White is simply manoeuvring
+to push the pawn to f5.} Nd8 20. Qb1 Rc8 21. Bg2 O-O 22. Rf2 Kh7 23. f5 $1 {
+White finally did it! Now the attack should triumph because the a4 bishop
+doesn't help in the defence; and White has a huge space advantage.} Ndc6 24.
+Qa2 Ng8 25. Raf1 {All the pieces enter into the attack!} Nce7 26. h4 Rc6 27.
+Bh3 $1 {The attack looks formidable now, after this strong move...} exf5 28.
+gxf5 gxf5 29. Nxf5 Rg6+ 30. Kh2 Qd8 31. Ng3 Kg7 32. Bf4 (32. Nh5+ {Is simpler..
+.}) 32... f5 33. exf6+ Nxf6 34. Be5 Neg8 35. Qa3 $1 {The only White piece that
+wasn't involved!} Kh7 36. Bf5 Ng4+ 37. Bxg4 Rxf2+ 38. Rxf2 Qxh4+ 39. Kg2 h5 40.
+Qf8 {Mate in 6 :) From this game, it's important to learn what is White's
+typical plan after the capture Bxa4 - forgot about this bishop and attack on
+the king side!} 1-0
+

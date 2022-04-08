@@ -1,0 +1,42 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alekhine's defense"]
+[Black "Theory"]
+[Result "*"]
+[ECO "B03"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "29"]
+
+{In the course "The Grandmaster's Openings Laboratory" you've learnt a good
+way to play against Alekhine's defense. Now I'll show you another good
+variaiton. It's quite unknown and will probably surprise your opponent.} 1. e4
+Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. Nc3 g6 7. h3 {Preventing
+Black from playing Bg4 after White develops his knight to f3.} Bg7 8. Nf3 O-O
+9. Be3 {In this line White postpones a development of his f1-bishop. Little
+later we'll see why.} Nc6 (9... Bf5 10. Rc1 {will transpose into the main line}
+) 10. Rc1 (10. Be2 {Is the classical line.} Bf5 11. O-O d5 12. c5 Nc4 {Now
+White has to take the knight. This means White made 2 moves of his bishop (Be2
+and Bc4), while it's possible to take on c4 in 1 move right from f1-square.
+That's the reason why White postpones a development of this bishop in the main
+line we are analyzing.} 13. Bxc4 dxc4 $11) 10... e5 (10... Bf5 {?!} 11. d5 Ne5
+12. Nxe5 Bxe5 13. Be2 Rc8 14. Qb3 {White is threatening Nb5. Suddenly it's
+quite hard for Black to stop this threat. There's 1 typical blunder here:} Nd7
+15. g4 {and the bishop is trapped} Bxc3+ 16. Rxc3 Be4 17. f3 {winning a piece})
+(10... d5 11. c5 Nc4 {Now White takes on c4 in 1 move, without wasting time on
+intermediate move Be2. That's the point of this whole variation.} 12. Bxc4 dxc4
+13. O-O Bf5 14. Qa4 Bd3 15. Rfd1 e5 (15... Nxd4 {?} 16. Nxd4 Bxd4 17. Rxd3 $16
+cxd3 18. Qxd4 {winning material}) (15... Qa5 16. Qxa5 Nxa5 17. d5 $16 {The
+a5-knight is trapped and White is threatening to play b4.}) (15... Qe8 16. b3
+$14 {and Black's protected his advanced pieces}) 16. d5 Nd4 17. Ne1 {Black's
+central pawns and pieces are hanging. It's going to collapse very soon.}) 11.
+Be2 h6 (11... f5 {?! looks aggressive, but in reality creates more problems
+for Black} 12. dxe5 dxe5 13. Qxd8 Rxd8 14. c5 {forces Black knight to go back}
+Nd7 (14... Nd5 $2 15. Nxd5 Rxd5 16. Bc4 {winning material}) 15. Bc4+ Kf8 16.
+Ng5 {threatening Ne6 and Nh7} Nf6 17. Nf7 Rd7 18. Nd6 $16 {with a dominating
+position}) 12. O-O Kh7 13. dxe5 (13. d5 {!?} Ne7 14. c5 {is good as well})
+13... dxe5 14. c5 {Pushing Black's knight back} Nd7 15. Qa4 {White is going to
+play Rfd1, then he can bring the knight to d6 through Ne4-d6 or Nb5-d6
+maneuvers.} *
+

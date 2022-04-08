@@ -1,0 +1,84 @@
+[Event "USA-01 Casuals Morphy-Schulten +28-1=0"]
+[Site "New York"]
+[Date "1858.11.??"]
+[Round "?"]
+[White "Schulten, John William"]
+[Black "Morphy, Paul"]
+[Result "0-1"]
+[ECO "C32"]
+[PlyCount "46"]
+[EventDate "1857.11.??"]
+[EventType "game"]
+[EventRounds "29"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. d3 Bb4 6. Bd2 e3 7. Bxe3 O-O 8. Bd2
+Bxc3 9. bxc3 Re8+ 10. Be2 Bg4 11. c4 {Diagram #} c6 12. dxc6 (12. h3 Bxe2 13.
+Nxe2 cxd5) (12. Nf3 Bxf3 13. gxf3 cxd5) 12... Nxc6 13. Kf1 Rxe2 $1 14. Nxe2 Nd4
+15. Qb1 Bxe2+ 16. Kf2 Ng4+ 17. Kg1 Nf3+ 18. gxf3 Qd4+ 19. Kg2 Qf2+ 20. Kh3
+Qxf3+ 21. Kh4 Nh6 22. Qg1 Nf5+ 23. Kg5 Qh5# 0-1
+
+[Event "EU-Cup 29th"]
+[Site "Rhodes"]
+[Date "2013.10.22"]
+[Round "3.3"]
+[White "Givon, Asaf"]
+[Black "Korobov, Anton"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2445"]
+[BlackElo "2716"]
+[PlyCount "96"]
+[EventDate "2013.10.20"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2013.11.12"]
+[WhiteTeam "Kfar Saba"]
+[BlackTeam "Ugra"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Nbd7 7. f3 e6 8. g4
+h6 9. Qd2 b5 10. O-O-O b4 11. Nce2 Qc7 12. Bg2 d5 13. exd5 Nxd5 14. Nf4 Bb7 15.
+Nxd5 Bxd5 16. f4 Bxg2 17. Qxg2 Rc8 18. Rhe1 Bc5 19. f5 e5 20. Nf3 f6 21. h4 O-O
+22. g5 Bxe3+ 23. Rxe3 {Diagram #} h5 (23... Kh8) (23... hxg5) 24. gxf6 Nxf6 (
+24... Rxf6 25. Rg1) 25. Nxe5 Rfd8 26. Rxd8+ Rxd8 27. Qe2 Rd4 28. Ng6 Rd8 (28...
+a5 29. Re8+ Nxe8 30. Qxe8+ Kh7 31. Qh8#) 29. Qxa6 Kh7 $1 30. Qe2 Qa7 31. Kb1
+Ng4 32. Rf3 Re8 33. Qd1 Nf2 34. Qf1 (34. Qc1 Rd8 35. Re3 Rd1 36. Re8 Rxc1+ 37.
+Kxc1 Nd3+ 38. cxd3 Qg1+) 34... Rd8 35. Nf8+ (35. Rxf2 Qxf2 36. Qxf2 Rd1#) 35...
+Kg8 36. Qc4+ Kxf8 37. Qxb4+ Kg8 38. a4 Rd1+ 39. Ka2 Rd4 40. Qb3+ Kh8 41. c4 Ne4
+42. Qb5 Qf7 43. f6 gxf6 44. Rf5 Rxc4 45. Rxh5+ Kg7 46. Ka3 Qe7+ 47. Ka2 Rb4 48.
+Qf5 Nc3+ 0-1
+
+[Event "ISR-ch"]
+[Site "Haifa"]
+[Date "2010.11.17"]
+[Round "8"]
+[White "Mamut, Igor"]
+[Black "Givon, Asaf"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2229"]
+[BlackElo "2226"]
+[PlyCount "100"]
+[EventDate "2010.11.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8.
+Ba4 O-O 9. Ne2 c5 10. O-O Nc6 11. Be3 Na5 12. Rb1 b6 {Diagram #} 13. dxc5 Ba6
+14. cxb6 (14. Bb5 Bxb5 15. Rxb5 Nc4 $44) 14... Qxd1 15. Bxd1 axb6 16. Re1 Nc4
+17. Bg5 (17. Rxb6 Rfb8) 17... h6 18. Bc1 (18. Bxe7 Rfe8) 18... Ne5 19. Nf4 e6
+20. Bb3 Nd3 21. Rd1 Nxc1 22. Rbxc1 Rfd8 23. g3 g5 24. Rxd8+ Rxd8 25. Nh5 Bh8
+26. g4 Rd3 27. c4 Bd4 28. Rc2 Bb7 29. Ng3 Kg7 30. Kg2 Kf6 31. f3 Ke5 32. Ne2
+Bc5 33. Nc3 Bd4 34. Ne2 Bc5 35. Ng3 Bc6 36. Re2 Kf4 37. Nh5+ Ke5 38. Ng3 Bd4
+39. Rc2 Be3 40. Re2 Bc5 41. Rc2 f5 42. gxf5 exf5 43. Nxf5 g4 44. Nh4 gxf3+ 45.
+Nxf3+ Kf4 46. Nd2 Be3 47. c5 bxc5 48. Nc4 Bxe4+ 49. Kf1 Rd1+ 50. Ke2 Bf3# 0-1
+

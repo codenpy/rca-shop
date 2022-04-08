@@ -1,0 +1,98 @@
+[Event "?"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Aleksandrov, Aleksej"]
+[Black "Hickl, Joerg"]
+[Result "1-0"]
+[Annotator "Remote Chess Academy"]
+[SetUp "1"]
+[FEN "rnbqk2r/1p3p1n/p2p2p1/2pPp1bp/2P1P3/P1NB4/1P3PPP/R1BQKN1R w KQkq - 0 11"]
+[PlyCount "0"]
+[EventDate "2002.??.??"]
+
+{White to move}  1-0
+
+[Event "FRA-ch"]
+[Site "Nice"]
+[Date "1938.09.12"]
+[Round "11"]
+[White "Gotti, Massimiliano"]
+[Black "Raizman, Maurice"]
+[Result "0-1"]
+[ECO "A56"]
+[Annotator "Remote Chess Academy"]
+[SetUp "1"]
+[FEN "rnbqnrk1/pp2bppp/3p4/2pPp3/2P1P3/2NB4/PP2NPPP/R1BQK2R w KQ - 0 8"]
+[PlyCount "0"]
+[EventDate "1938.09.02"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+
+{Black to play}  0-1
+
+[Event "Capablanca - Marshall"]
+[Site "New York, NY USA"]
+[Date "1909.04.27"]
+[Round "5"]
+[White "Frank James Marshall"]
+[Black "Jose Raul Capablanca"]
+[Result "0-1"]
+[ECO "D55"]
+[Annotator "Remote Chess Academy"]
+[SetUp "1"]
+[FEN "rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 5"]
+[PlyCount "0"]
+[EventDate "1909.04.19"]
+
+{Black to play. Many moves are possible in the position, but which move tries
+to exchange a few pieces?}  0-1
+
+[Event "9th DSB Kongress, Leipzig"]
+[Site "Leipzig GER"]
+[Date "1894.09.03"]
+[Round "1"]
+[White "Siegbert Tarrasch"]
+[Black "Carl Schlechter"]
+[Result "1-0"]
+[ECO "C66"]
+[Annotator "Remote Chess Academy"]
+[SetUp "1"]
+[FEN "4rbk1/ppp2ppp/1q1prn2/8/3QP3/1PN1R2P/PBP2PP1/4R1K1 w - - 0 17"]
+[PlyCount "0"]
+[EventDate "1894.09.03"]
+
+{White to move}  1-0
+
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.15"]
+[Round "2"]
+[White "Geza Maroczy"]
+[Black "Hugo Suechting"]
+[Result "1-0"]
+[ECO "D61"]
+[Annotator "Remote Chess Academy"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1nbppp/2p1p3/3p2Bn/2PP4/P1N1PN2/1PQ2PPP/R3KB1R w KQ - 0 9"]
+[PlyCount "0"]
+[EventDate "1905.08.14"]
+
+{White to move}  1-0
+
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.24"]
+[Round "10"]
+[White "David Janowski"]
+[Black "Semion Alapin"]
+[Result "1-0"]
+[ECO "D53"]
+[Annotator "Remote Chess Academy"]
+[SetUp "1"]
+[FEN "2rr2k1/1b2qpp1/p1p1p2p/1p2P3/8/1B1RP3/PP2QPPP/3R2K1 w - - 0 19"]
+[PlyCount "0"]
+[EventDate "1905.08.14"]
+
+{White to play}  1-0
+

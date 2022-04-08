@@ -1,0 +1,33 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Old Benoni Defense"]
+[Black "c4 variation"]
+[Result "*"]
+[ECO "A56"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "21"]
+[SourceDate "2013.12.25"]
+
+1. d4 c5 ({Black can be tricky and use the following order of moves to reach
+Old Benoni defense:} 1... Nf6 2. c4 c5 3. d5 e5 {Unlike the main line of "Old
+Benoni", White has a pawn on c4. Hence he has to use another plan here. There
+are a couple of good options for White, I'll show you 1 interesting line that
+restricts Black's activity greatly.} 4. Nc3 d6 5. e4 {leads to the position
+analyzed below}) 2. d5 e5 3. c4 d6 4. e4 Nf6 5. Nc3 Be7 6. Bd3 {Of course it's
+not the only and not even the best move for White. However, it's a beginning
+of an interesting plan that aims to limit Black's activity.} (6. Nf3 {is a
+usual move. There's a small drawback: it closes d1-h5 diagonal for White's
+queen and may allow black to play Nh5-f4 somewhen in the future.}) 6... O-O 7.
+h3 {This move prevents Bg4 and (potentially) prepares g4 move} Nbd7 8. Be3 (8.
+Nf3 {allows black to get some activity with} Nh5 {. A typical tactics} 9. Nxe5
+{doesn't work here} Nxe5 10. Qxh5 Nxd3+ {And black is winning}) 8... g6 {Black
+is ready to play Nh5, so White should prevent it.} 9. g4 {In addition to
+preventing Nh5-move, this breaks the Black's plan of pushing f5 after a
+required preparation.} Ne8 10. Nf3 {(preventing Bg5)} Ng7 11. Qc2 {White is
+providing more control to f5 square. This set up of the pieces allows White to
+prevent Black from playing f5. If necessary, White can also play Bh6 and Rg1
+to make the f5 move totally impossible. After that White gets a very
+comfortable position and can start realizing his own plans gradually.} *
+

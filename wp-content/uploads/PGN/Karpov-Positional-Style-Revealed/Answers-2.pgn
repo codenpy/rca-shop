@@ -1,0 +1,402 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1992.??.??"]
+[Round "11"]
+[White "Karpov, Anatoly"]
+[Black "Hansen, Curt"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2715"]
+[BlackElo "2635"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "85"]
+[EventDate "1992.07.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "SUI"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Bf4 Nbd7 8. Re1
+Qb6 9. Qc1 e5 10. dxe5 dxe5 11. Be3 Qc7 12. Nd2 Rd8 13. Rd1 Nf8 14. Nc4 Rxd1+
+15. Qxd1 Ne8 16. a4 Ne6 17. Nb1 b6 18. c3 Nf4 19. Bf1 Be6 20. Nbd2 h5 21. Qc2
+Rd8 22. b4 Nf6 23. Nf3 Nh7 24. Rd1 Rxd1 25. Qxd1 Bg4 {Diagram #} 26. Qd6 $1 {
+Analyzing the position, we can see that the material is equal. However, this
+is not the only aspect in order to judge the position. Bg7 is a bad piece
+because it's locked behind its own e5 pawn. Black has concentrated his pieces
+on the kingside and he attacks White's king. On the other side of the board,
+we can see that White has already two pieces, Be3 and Nc4. By offering the
+queen's exchange, he would like to attack the queenside pawns. Please notice
+that Black cannot avoid the queen's exchange because the e5-pawn is hanging.}
+Qxd6 27. Nxd6 Kf8 (27... Bf8 28. Nxe5 Bxd6 29. Bxf4 $16 {
+White's is a clear pawn up.}) 28. a5 $1 {The knight and the bishop create huge
+pressure on the queenside. By attacking the pawns, he forces them to move and,
+for that reason, he creates new weaknesses.} Ke7 (28... bxa5 29. bxa5 $18 {
+The a7-pawn will fall.}) 29. Nc4 Bxf3 (29... bxa5 30. Nxa5 $18 {
+White has a clear advantage because he's going to capture the a7-pawn.}) 30.
+gxf3 b5 (30... Ng5 31. a6 (31. Nd2 $5 c5 $5 32. axb6 axb6 33. bxc5 bxc5 34.
+Bxc5+ Kf6 $16) 31... Nxf3+ 32. Kh1 Ne6 33. Nxb6 Kd8 34. Na4 Kc8 35. Bxa7 $18 {
+White's a-pawn is an extra and powerful pawn.}) 31. Na3 $1 (31. Bxa7 $5) 31...
+a6 32. Nxb5 $1 cxb5 33. Bxb5 {This was White's idea. By sacrificing twice on
+b5, he creates the powerful a-pawn. All of Black pieces are on the kingside
+and they cannot block or capture White's a-pawn. White won the game afterwards.
+} Ng5 (33... axb5 34. a6 Ne6 35. Bb6 $1 $18) 34. Bxa6 Nge6 35. Bc4 Kd8 36. a6
+Kc8 37. b5 Bf8 38. b6 Bc5 39. Bd5 Nxd5 40. exd5 Bxe3 41. b7+ Kc7 42. dxe6 Bc5
+43. exf7 1-0
+
+[Event "Biel"]
+[Site "Biel"]
+[Date "1990.??.??"]
+[Round "5"]
+[White "Karpov, Anatoly"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2730"]
+[BlackElo "2610"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "55"]
+[EventDate "1990.07.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "SUI"]
+[EventCategory "14"]
+[Source "ChessBase"]
+[SourceDate "1990.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
+Be7 9. Nc3 O-O {Diagram #} 10. Rd1 {Karpov centralized his pieces, pinned the
+d-pawn and he's ready to play against the c5-pawn.} d6 11. Bf4 {By pushing the
+d6-pawn, he would like to force e5 and create the d5 weakness. In the other
+variation, White was just pressing the backward pawn on d6.} Qb6 12. Rd2 {
+A move with a double role, it protects b2 and would like to increase the
+pressure against d6 by doubling the rooks in the d-line.} Nc6 $5 {This is an
+interesting combination with the idea to exchange the d6 with the b2 weakness. 
+The problem for Black is that White's pieces are extremely active at the end 
+of the forcing line.} (12... Rd8 13. Rad1 Ne8 14. e4 $14) 13. Bxd6 {
+13.Qb5 was played in the Manila Interzonal in the game Salov - Chandler.} Bxd6
+14. Rxd6 Qxb2 15. Rb1 Qxc3 16. Rxb7 $36 {The material is equal, but White's
+pieces are extremely active and in good positions. Karpov used this activity
+in order to win the game afterwards.} Nd4 17. Qd1 Nxf3+ 18. Bxf3 Qxc4 19. a4 a5
+20. Rb5 Ra7 21. Rd8 g5 22. Rxf8+ Kxf8 23. Qd6+ Kg7 24. Rxc5 Rd7 25. Qe5 Qb4 26.
+Qxg5+ Kf8 27. Rc8+ Ke7 28. Kg2 1-0
+
+[Event "World Cup"]
+[Site "Reykjavik"]
+[Date "1991.??.??"]
+[Round "14"]
+[White "Karpov, Anatoly"]
+[Black "Ehlvest, Jaan"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2730"]
+[BlackElo "2605"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "1991.09.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "ISL"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "1992.02.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 O-O 9. Nf3 Nd7 10. Bd3 Nb6 11. h3 Na4 12. Rc1 Re8 13. Bh6 Bh8 14. Bc4 e6
+15. O-O Qa5 16. Bb3 b5 17. Rfe1 Bb7 18. Qf4 Rac8 {Diagram #} 19. Bxa4 $1 {
+Karpov connected the kingside threats and the momentum; so, he captured the a4
+knight immediately! Unfortunately for Black, he cannot re-capture with the
+queen because the f7-pawn is unprotected.} bxa4 (19... Qxa4 $2 20. Ne5 f5 (
+20... f6 21. Nd7 $16) 21. Qg3 Bxe4 22. Nxg6 $1 hxg6 23. Qxg6+ Bg7 24. Qxg7#)
+20. h4 {Now there is no need to play Ne5 because Black's queen easily defends
+f7 via c7. Karpov continues his plan of creating weaknesses by h4.} (20. Ne5
+Qc7 $1) 20... Qc7 21. Qe3 {When you're attacking, don't exchange queens.
+Similarly, don't exchange your active pieces. For that reason, Karpov kept the
+queens on the board.} Qa5 22. Bf4 (22. h5 $6 cxd4 23. cxd4 Qxh5 $15) 22... f5
+$6 (22... cxd4 $5 23. cxd4 $14 {This was a more logical way for Black to
+continue the game, but the weaknesses of the a-pawns are still there.}) 23.
+exf5 cxd4 (23... exf5 24. Qxe8+ $1 Rxe8 25. Rxe8+ Kf7 26. Rxh8 $18) 24. cxd4
+Qxf5 (24... Bxf3 25. Rxc8 $18) (24... Rxc1 25. Rxc1 $5 Bxf3 26. Rc8 $1 Rxc8 27.
+Qxe6+ Kg7 28. f6+ Kf8 29. Bd6#) 25. Ne5 $14 {Black managed to complicate the
+game by creating a weakness on d4. Black has active pieces, but he has
+weaknesses as well. Both of Black's "a" pawns and the e6-pawn are weak.
+White's knight is extremely active on e5 and it blocks the dark-squared bishop.
+White's king is safest compared to Black's; the f5 move weakened him a lot.
+Black's pieces might look active, but the problem is that they don't cooperate
+well, by attacking the same target. White took the control of the c-file and,
+step by step, he managed to outplay his opponent.} Bd5 26. a3 Bg7 27. f3 Qf8
+28. Rc5 Qe7 29. Bg5 Qb7 30. Rec1 Rxc5 31. Rxc5 Qb3 32. Rc3 Qb1+ 33. Kh2 Bf8 34.
+Ng4 Bd6+ 35. Bf4 Be7 36. Rc7 Qb3 (36... Bxh4 37. Nh6+ Kh8 (37... Kf8 38. Rf7#)
+38. Qe5+ Bf6 39. Qxf6#) 37. Qe5 h5 38. Nf6+ 1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Lobron, Eric"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "A17"]
+[WhiteElo "2620"]
+[BlackElo "2725"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "120"]
+[EventDate "1993.04.??"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "1993.08.01"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 b6 5. Bg2 Bb7 6. O-O O-O 7. Qc2 Qe7 8. b3
+Bxc3 9. Qxc3 c5 10. Bb2 d5 11. cxd5 Bxd5 12. d3 Rd8 13. Rfc1 Na6 14. a3 Bb7 15.
+Rab1 Rac8 16. Qe1 Ne8 17. Rc2 Nec7 18. Rbc1 Nb5 19. Qf1 Bd5 20. Nd2 Rc7 21.
+Bxd5 exd5 22. e3 {Diagram #} d4 $1 {White's pieces are passive on the first
+three ranks. When you have a better position, you need to attack; this is a
+well-known rule. Karpov played this nice move, d4, in order to create
+weaknesses in White's camp.} 23. exd4 Nxd4 {He's threatening a deadly check on
+e2 and, if White does nothing, then he can relocate his a6-knight on b8 and c6.
+Please also notice that White's light squares around the king are weak and the
+d4-knight is very threatening.} 24. Bxd4 cxd4 (24... Rxd4 $2 25. Nf3 Rd8 26. d4
+$14) 25. Rxc7 Nxc7 {Black relocates his a6-knight with tempo, and now he would
+like to play Nd4 and Nc3 or to stabilize the position with Ne6. Please also
+note that the a3-pawn is under attack.} 26. Nf3 h6 27. Qh3 Ne6 28. b4 a5 $1 {
+Another very nice and strong idea; Black creates weaknesses on the queenside.
+White's pieces are unorganized, and Karpov win a pawn and the game afterwards.}
+29. Qf5 axb4 30. axb4 Qxb4 31. Ne5 Qe7 32. Nc6 Qc7 33. Rc4 Rd6 34. Qe4 b5 35.
+Rc2 Qb7 36. Nb4 Qxe4 37. dxe4 d3 38. Rd2 Nc5 39. f3 Rd4 40. Nd5 b4 41. Kf2 g5
+42. Ke3 Rc4 43. Rxd3 Nxd3 44. Kxd3 Rc1 45. Nxb4 Rh1 46. h4 gxh4 47. gxh4 Rxh4
+48. Nd5 Rh2 49. Ke3 Rg2 50. Ne7+ Kh7 51. e5 Ra2 52. f4 Ra7 53. Nf5 Ra6 54. Nd4
+Ra3+ 55. Ke4 Ra4 56. f5 Kg7 57. Ke3 h5 58. Nf3 h4 59. Kf2 Rf4 60. f6+ Kg6 0-1
+
+[Event "Mar del Plata Clarin Masters"]
+[Site "Mar del Plata"]
+[Date "1982.02.??"]
+[Round "?"]
+[White "Karpov, Anatoly"]
+[Black "Najdorf, Miguel"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2720"]
+[BlackElo "2510"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "105"]
+[EventDate "1982.02.??"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ARG"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 Be7 {
+Diagram #} 8. Bb5+ {A nice check that forces Black to play c6 and decrease the
+activity of the light-squared bishop.} (8. Nxd5 $5) (8. Bd2 $5) (8. Qa4+ $5) (
+8. Bd3 $5) 8... c6 9. Bd3 c5 (9... Nxc3 10. bxc3 c5 $11 {This is a normal and
+playable position for both sides. White has a strong center control, but Black
+doesn't face any problems to complete his development.}) 10. Nxd5 $1 {
+Black tries to play actively in the center, and Karpov took this opportunity
+in order to create a weakness.} Bxd5 (10... Qxd5 11. dxc5 Bxc5 12. Bb5+ Ke7 13.
+Qe2 $14 {White has slight preferable chances because Black's monarch is still
+in the center; he can play b4 in order to decrease the bishop's activity, and
+Rd1 in order to win the battle over the open file by gaining a tempo over the
+queen.}) 11. dxc5 bxc5 (11... Bxc5 $5 12. b4 Be7 13. Bb2 $14 {White has very
+active pieces here, and Black cannot stop the e4 advancement. This is what
+he's afraid of, so didn't play this variation; but, in general, it's good and
+playable for Black.} O-O 14. O-O Nd7 (14... Nc6 15. e4 $18) 15. e4 Bb7 16. Qe2
+$14) 12. O-O O-O 13. Qc2 {Black does his counterplay to activate his pieces
+and against the b2-pawn. However, White has a solid control over the center
+and on the square in front of the c5 weakness. He continues to create threats,
+so he didn't give chances to Black to organize his counterattacking threats.}
+h6 14. Bd2 Nd7 15. Bc3 Rb8 16. e4 Bc6 17. Rac1 $14 {The b2-pawn is protected
+very well, and White's pieces are more active compared to Black's. Karpov
+never wins the c5 weakness, but he tied down the enemy pieces. He used this
+strategy to create attacking chances on the other side of the board.} Qc7 18.
+Rfe1 Rfc8 19. Ba6 Rd8 20. Bf1 a5 21. a4 Ra8 22. b3 Nb8 23. Qb2 Bf8 24. Ne5 Be8
+25. Re3 f6 26. Nc4 Nc6 27. e5 f5 28. Nd6 Bxd6 29. exd6 Rxd6 30. Bc4 Kh7 31.
+Rxe6 Rad8 32. Rxd6 Rxd6 33. Bf1 Qb7 34. Qe2 Bf7 35. Qf3 Qd7 36. Ba1 Nd4 37.
+Bxd4 Rxd4 38. Qc3 Rb4 39. Bb5 Qd4 40. Qc2 Rxb3 41. Qxf5+ Bg6 42. Qe6 Rb2 43.
+Qe1 Rc2 44. Rd1 Qf4 45. Bc6 c4 46. g3 Qf5 47. Rd6 Kh8 48. Bd5 Qg5 49. f4 Qh5
+50. Rd8+ Kh7 51. Bg8+ Kh8 52. Bf7+ Kh7 53. Rh8+ 1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.08.12"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor Lvovich"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2775"]
+[BlackElo "2635"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "1996.08.09"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "1996.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. Qa4+ c6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. e3 O-O 12. Rc1 c5 13. dxc5 bxc5 {Diagram #}
+14. Qh4 $5 {Hanging pawns have a very similar strategy to isolated pawns. The
+side with the pawns should create attacking chances. For that reason, Karpov
+suggested the exchange of the queens in order to decrease Black's ativity and
+highlight the hanging pawn permanent weakness.} (14. Be2 $5) 14... f6 (14...
+Qxh4 15. Nxh4 c4 $8 (15... Rc8 16. Nf5 $16) (15... Nd7 16. Bb5 $16) 16. Nf5 $14
+{White creates a total blockade and, step by step, he can increase the
+pressure against the weak pawns.}) (14... Qc7 15. Bd3 h6 16. O-O $36 {
+The position is approximately equal; however, White has aggressively placed
+his pieces against the enemy kingside. For that reason, he has the initiative.}
+) 15. Bd3 g6 16. O-O Nd7 17. Rfe1 $1 {White's chances are preferable here
+because his pieces are more active and he would like to play the e4
+breakthrough. Black has weaknesses around the king and the hanging pawns
+doesn't have good support of the pieces in order to advance forward. Karpov
+won the game afterwards.} c4 18. Bc2 Nc5 19. Qd4 Rfd8 20. Rb1 Ne6 21. Qc3 Rac8
+22. Nd4 Rd6 23. Nxe6 Rxe6 24. Red1 Rb6 25. Rd4 f5 26. Rbd1 Qf6 27. h4 f4 28.
+Rxf4 Qxc3 29. bxc3 Rb8 30. h5 Rb2 31. Rc1 gxh5 32. Rf5 Bc6 33. Rg5+ Kh8 34.
+Rxh5 R8b7 35. Rh6 Be8 36. Bf5 R2b3 37. Rd1 Rxc3 38. Rxd5 Kg8 39. Rd8 Kf8 40.
+Rc8 Rc1+ 41. Kh2 c3 42. Rhc6 1-0
+
+[Event "Tilburg Fontys"]
+[Site "Tilburg"]
+[Date "1996.10.12"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Lautier, Joel"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2775"]
+[BlackElo "2620"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "1996.10.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "NED"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "1997.02.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qd3 Nbd7 {
+Diagram #} 8. a3 $5 {We're still in the opening stage, but it's important to
+understand the moves. White's idea is to prevent the b4 advance and, maybe, to
+fix the c6-pawn, with the b4 move in the future.} (8. Bg5 $5) (8. g3 $5) (8. e4
+$5) 8... b4 9. axb4 Bxb4 {Let's evaluate this position now. We can say that
+White has one weakness on b2, but Black has two on a7 and c6. Of course, right
+now, there are a lot of pieces on the board; so, Black compensates for these
+weaknesses. However, in the long run, they are potential targets. However,
+it's a little more difficult for Black to organize a successful attack on b2.}
+10. e4 {
+White has a very good center control, and he should finalize his development.}
+(10. g3 $5) 10... a5 11. e5 {This might be a difficult move to understand, but
+the idea behind it is to win more space, and free the e4-square for the pieces.
+Black doesn't have time to attack the backward pawn on d4.} Nd5 12. Bd2 Ba6 13.
+Qe4 Bxf1 14. Kxf1 {In many games, Karpov took some "strange" decisions with
+his king position. However, the center is closed and Black cannot directly
+attack the white monarch. His plan is to play g3 and Kg2.} Ne7 15. g3 c5 (15...
+h6 $5) (15... O-O 16. Bg5 $36 {
+Lautier didn't castle because he was afraid of an attack.}) 16. d5 $1 $14 {
+A really nice and strong move. White highlights the fact that these two
+queenside pawns will remain weak. Similarly, this is a well calculated move
+and White doesn't lose a pawn.} exd5 (16... Bxc3 17. dxe6 $1 {This is the
+reason and the tactical justification behind the d5 move. White will recapture
+on d7 with check and Black cannot capture the knight with the queen because
+the a8-rook is hanging.} fxe6 (17... Bxd2 18. exd7+ Kf8 (18... Kxd7 19. Rd1 $40
+) (18... Qxd7 19. Qxa8+ $18) 19. Nxd2 $18) 18. Bxc3 $16) (16... Nxd5 17. Nxd5
+exd5 18. Qxd5 $14) 17. Nxd5 Nxd5 18. Qxd5 $14 {White has the advantage here
+because his pieces are very active, the e5-pawn guarantees more space, and the
+weaknesses (a5 and c5) are still there. After a long and fighting game, Karpov
+manages to win.} O-O 19. Bg5 Qc8 20. Kg2 Nb6 21. Qe4 Qe6 22. Rhd1 f6 23. Bd2
+Bxd2 24. Rxd2 Rae8 25. Rc2 Nd7 26. Rxa5 Qb6 27. Qd5+ Kh8 28. exf6 Qxf6 29. Ra3
+Ne5 30. Re3 Nxf3 31. Rxf3 Qxf3+ 32. Qxf3 Rxf3 33. Kxf3 Rc8 34. Ke4 Kg8 35. Kd5
+Rb8 36. Re2 Rc8 37. f4 Kf7 38. b3 Kf6 39. Kc4 g5 40. fxg5+ Kxg5 41. Re5+ 1-0
+
+[Event "Ubeda m"]
+[Site "Ubeda"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Lautier, Joel"]
+[Result "1-0"]
+[ECO "C63"]
+[WhiteElo "2780"]
+[BlackElo "2645"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "85"]
+[EventDate "1994.11.??"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1995.04.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Ng3 Bg4 7. h3 Bxf3 8.
+Qxf3 Nf6 9. O-O Bd6 10. Nh5 e4 11. Nxf6+ Qxf6 12. Qxf6 gxf6 13. d3 O-O-O 14.
+dxe4 dxe4 15. Re1 f5 16. Kf1 Rde8 17. Bh6 Re6 18. Bg7 Rd8 19. Rad1 Be5 $2 {
+Diagram #} (19... Ne5 $5) 20. Bxc6 $1 {It's very important to have a good
+understanding of tactics, of how the pieces are behaving with each other. If
+you manage to understand correctly the tactical background and use it in order
+to find the appropriate moment, then you can take the opportunity to create
+weaknesses in your opponent's camp.} (20. Rxd8+ $5) (20. Bc4 $5) (20. Bxe5 $6
+Rxd1 21. Rxd1 Nxe5 $11) 20... bxc6 (20... Bxg7 21. Bxb7+ $1 {
+White is deflecting the king and he will win the exchange.} Kxb7 22. Rxd8 Bxb2
+$2 23. Rb1 Rb6 24. Rf8 $18) (20... Rxd1 $5 21. Rxd1 bxc6 22. Bxe5 Rxe5 23. Ke2
+$16 {This is even better because Black's king is cut off on the queenside.})
+21. Rxd8+ Kxd8 22. Bxe5 Rxe5 23. Ke2 {As you can see in the sub-variations,
+the line was forced because the e5-bishop was hanging. Karpov entered in a
+superior endgame because his king is more active and Black has queenside pawn
+weaknesses.} Ke7 24. Ke3 Rb5 25. b3 $16 {
+White has a clear advantage and he manages to win the game afterwards.} Ra5 26.
+a4 Rd5 27. g4 Kf6 28. Rg1 a5 29. h4 h6 30. gxf5 Rxf5 31. Rg8 Rf3+ 32. Kxe4 Rc3
+33. h5 Rxc2 34. Rg6+ Ke7 35. f4 c5 36. Rxh6 c4 37. bxc4 Rxc4+ 38. Kf5 Rxa4 39.
+Rc6 Rb4 40. h6 Kf8 41. Rf6+ Kg8 42. Kg6 Rb8 43. f5 1-0
+
+[Event "Amber-rapid 07th"]
+[Site "Monte Carlo"]
+[Date "1998.03.17"]
+[Round "5"]
+[White "Karpov, Anatoly"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1-0"]
+[ECO "E35"]
+[WhiteElo "2735"]
+[BlackElo "2565"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "101"]
+[EventDate "1998.03.13"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "1998.04.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+e3 O-O 9. a3 Bxc3+ 10. Qxc3 c6 11. Nf3 Bf5 12. Be2 Nd7 13. b4 Be4 $146 14. O-O
+Rfe8 15. Rfc1 a6 16. a4 Rac8 {Diagram #} 17. b5 $1 {I hope you recognize this
+structure; it's called Carlsbad structure. The main idea is to push the pawn
+on b5 and exchange on c6 in order to create a backward pawn. Usually, Black
+should create counterplay in the kingside, but he doesn't activate it in this
+particular position.} (17. h3 $5) (17. Ne1 $5) (17. Nd2 $5) (17. Qb3 $5) (17.
+Qd2 $5) 17... axb5 18. axb5 {White had plenty of interesting moves, like to
+maneuver the knight in a better place or to step away the queen from the
+c-line. However, Karpov used the most direct way and performed his statistical
+plan immediately because his opponent didn't have counterplay. Please also
+notice that Black cannot really take on b5 because he will create more
+weaknesses in his pawn structure.} c5 19. dxc5 Qxc3 20. Rxc3 Rxc5 21. Rxc5 Nxc5
+22. Nd4 $16 {After all of these exchanges, we can see that the d5-pawn is
+extremely bad because it's isolated. Similarly, this pawn is in the same color
+as the bishop, and this is very bad news for Black: his bishop's mobility is
+reduced by this pawn. White controls the open a-line. Another possible target
+is b7. Karpov has a clear advantage here and he manages to win the game
+afterwards.} Ne6 23. f3 Nxd4 24. exd4 Bc2 25. Kf2 Bb3 26. Ra7 Re7 27. Ra3 Bc2
+28. Ke1 g5 29. Kd2 Bf5 30. g4 Be6 31. Ra8+ Kg7 32. Bd3 Rc7 33. Rb8 Kf6 34. b6
+Re7 35. Kc3 h5 36. h3 h4 37. Kb4 Kg7 38. Kc5 f5 39. gxf5 Bf7 40. Bb5 Kf6 41.
+Kd6 Re3 42. Rxb7 Rb3 43. Bc6 Rb4 44. Rb8 Bh5 45. Bxd5 Rxd4 46. b7 Bf7 47. Rf8
+Rxd5+ 48. Kc6 Rd1 49. b8=Q Rc1+ 50. Kd6 Rd1+ 51. Kc5 1-0
+

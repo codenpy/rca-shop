@@ -1,0 +1,505 @@
+[Event "Finistere-chT 0102"]
+[Site "Finistere"]
+[Date "2002.01.26"]
+[Round "4.14"]
+[White "Lieutaud, Marcel"]
+[Black "Criton, Michel"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "1499"]
+[BlackElo "1460"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "38"]
+[EventDate "2001.??.??"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2002.11.25"]
+
+1. d4 g5 2. c4 e6 3. e3 Nf6 4. Nc3 Be7 5. Nf3 O-O 6. g3 d6 7. Bg2 c6 8. O-O h6
+9. Qc2 Qe8 10. Qb3 Nbd7 11. d5 Nc5 12. Qd1 e5 13. Qc2 e4 14. Nd2 Ng4 15. Bh3 f5
+16. f3 Qh5 17. Kg2 f4 18. exf4 {Diagram #} Qxh3+ $5 {Black is winning with
+many different ways and my advice is to use the simplest way. Fantasy lines
+are good to show to your friends, but during the game you need the most
+effective way.} (18... Ne3+ $1 19. Kg1 (19. Kf2 Nxc2) 19... Qxh3 20. Rf2 Nxc2
+$18) 19. Kg1 (19. Kxh3 Ne3+ 20. g4 Nxc2 $19) 19... Qxh2# 0-1
+
+[Event "Valle U16 Girls"]
+[Site "Jamundi"]
+[Date "2010.03.??"]
+[Round "2"]
+[White "Rodriguez, Sofia"]
+[Black "Ocampo, Derly Gineth"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "1940"]
+[BlackElo "1868"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "40"]
+[EventDate "2009.03.13"]
+[EventRounds "7"]
+[EventCountry "COL"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O b5 6. Bb3 d6 7. h3 Nf6 8. d3 h6
+9. Be3 Ba7 10. Nc3 O-O 11. Bd5 Nxd5 12. Nxd5 Bxe3 13. Nxe3 Be6 14. Qd2 f5 15.
+exf5 Bxf5 {Diagram #} 16. Nd5 $2 {You should examine very carefully what the
+opponent is threatening. If you can foresee what your opponent is aiming at,
+then you can avoid tactical blunders.} (16. Nxf5 $1 Rxf5 17. a4 $132 {
+The game is unclear here.}) 16... Bxh3 $1 {This is what White missed. The
+f3-knight is not well protected and White has troubles.} 17. Nxe5 (17. gxh3
+Rxf3 $19) 17... Nxe5 {White lost her concentration and tries to complicate
+things. This is another usual reaction, but it's not working in most of the
+cases. After a blunder, you have to defend or you'll end up with a worse
+position. Thus, you need to foresee your opponent's ideas.} 18. f4 (18. gxh3
+Nf3+ $19) 18... Be6 19. Nxc7 Qxc7 20. fxe5 dxe5 0-1
+
+[Event "Valle U16 Girls"]
+[Site "Jamundi"]
+[Date "2010.03.??"]
+[Round "3"]
+[White "Mesa, Brenda Sofia"]
+[Black "Chavez, Diana Maria"]
+[Result "0-1"]
+[ECO "B75"]
+[WhiteElo "1914"]
+[BlackElo "1876"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "68"]
+[EventDate "2009.03.13"]
+[EventRounds "7"]
+[EventCountry "COL"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 d6 8. Qd2
+Bd7 9. O-O-O Rc8 10. Kb1 a5 11. h4 Ne5 12. g4 a4 13. h5 a3 14. b3 Qa5 {
+Diagram #} 15. Nce2 $5 {White should exchange queens, but she should play
+actively. Black has the idea to sacrifice a piece on g4 for some pawns, and
+Ne2 will be passive. The Nb5 move was better because it is targeting the
+a3-pawn.} (15. Ncb5 $1 Qxd2 16. Rxd2 Nexg4 17. fxg4 Bxg4 18. h6 Bf8 19. Bg2 $18
+) 15... Qxd2 16. Rxd2 Nxf3 17. Nxf3 Nxe4 18. Rd1 $6 (18. Rd5 {She should play
+the rook in a more active square and avoid to be on the d1-h5 diagonal;
+Black's light-squared bishop is strong.} Bxg4 19. Bg2 $132) 18... Bxg4 19. Nfd4
+Bxd4 20. Bxd4 e5 21. Be3 $2 {Obviously, White missed Black's tactical resource
+again... The big threat was Nc3.} (21. hxg6 $5 exd4 22. Rxd4 $132) 21... Bxe2
+22. Bxe2 Nc3+ 23. Ka1 Nxe2 $19 {Black has a winning position here.} 24. c4 Ke7
+25. hxg6 hxg6 26. Bg5+ Ke6 27. Rhf1 Nc3 28. Rf6+ Kd7 29. Rdxd6+ Kc7 30. Rxf7+
+Kxd6 31. Rf1 Rh2 32. Rf6+ Kc7 33. Rf7+ Kb8 34. Rf1 Rxa2# 0-1
+
+[Event "Valle U16 Girls"]
+[Site "Jamundi"]
+[Date "2010.03.??"]
+[Round "3"]
+[White "Tobar, Estefania"]
+[Black "Rodriguez, Sofia"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "1826"]
+[BlackElo "1940"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "2009.03.13"]
+[EventRounds "7"]
+[EventCountry "COL"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 Nbd7 10. Be2 b5 11. O-O O-O 12. f4 exf4 13. Bxf4 Ne5 14. Bxe5 dxe5
+15. a3 Qxd2 16. Nxd2 Rad8 17. Nf3 Bc5+ 18. Kh1 Bd4 19. Bd3 Bc4 20. Rad1 Ng4 21.
+Rd2 Be3 22. Re2 {Diagram #} Rxd3 $1 {Black manages to capture a pawn and
+create problems to White. It's a temporary rook sacrifice because the
+c4-bishop is powerful.} 23. cxd3 Bxd3 24. h3 Bxe2 25. Nxe2 Nf2+ 26. Kh2 Nxe4
+$19 {Black has a material advantage and a winning position.} 27. Nxe5 Bc5 28.
+Nf3 Re8 29. Rc1 Bd6+ 30. Kh1 Ng3+ 31. Nxg3 Bxg3 0-1
+
+[Event "Ruhrgebiet VK1 0910"]
+[Site "SVR"]
+[Date "2010.02.07"]
+[Round "6.4"]
+[White "Schaefer, Martin"]
+[Black "Altenburg, Frank"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "1876"]
+[BlackElo "1883"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "120"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Drewer"]
+[BlackTeam "Oberhausen III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. c3 Bc5 7. Be3 Qb6 8. Qb3
+Qxb3 9. axb3 Nxd4 10. Bxd4 Bxd4 11. cxd4 Ne7 12. Ke2 Nc6 13. Ke3 Nb4 14. Nd2 d5
+15. Rhc1 Bd7 16. Be2 O-O 17. Bf3 Rac8 18. Rc3 {Diagram #} Nc2+ $5 {In order to
+find tactics, you need to find the unprotected pieces. The a1-rook is
+unprotected, but you need to be accurate and win as much as you can. The Rxc3
+move was clearly better.} (18... Rxc3+ $1 19. bxc3 Nc2+ 20. Kd3 Nxa1 21. exd5
+exd5 22. Bxd5 Bf5+ 23. Ke2 Rc8 24. c4 Re8+ 25. Kf3 Nc2 $19) 19. Rxc2 Rxc2 20.
+exd5 exd5 21. Bxd5 Re8+ {White has more counterplay here, but still the
+position is clearly better for Black, who manages to win the game afterwards.}
+22. Kd3 Bf5+ 23. Ne4 Rc7 24. f3 Rd8 25. Bc4 b5 26. Rxa6 bxc4+ 27. bxc4 Rb7 28.
+g4 Bxe4+ 29. fxe4 Rxb2 30. c5 Rb1 31. d5 Rc1 32. c6 Kf8 33. Rb6 Ke8 34. Kd4 f6
+35. h4 Ra8 36. Rb7 Ra4+ 37. Kd3 Kf8 38. h5 Rcc4 39. Rb8+ Ke7 40. Rb7+ Kd8 41.
+Rd7+ Kc8 42. Re7 g6 43. Re8+ Kc7 44. Re7+ Kd8 45. Rxh7 gxh5 46. Rd7+ Ke8 47.
+gxh5 Rxe4 48. Rd6 Rh4 49. c7 Ra3+ 50. Kc2 Ra8 51. Rxf6 Rc4+ 52. Kd3 Rxc7 53. h6
+Rf7 54. Rg6 Kd7 55. Kd4 Rh8 56. Ke5 Rfh7 57. d6 Rxh6 58. Rg7+ Kd8 59. Ra7 Rh5+
+60. Kd4 R8h6 0-1
+
+[Event "Ruhrgebiet VK1 0910"]
+[Site "SVR"]
+[Date "2010.02.21"]
+[Round "7.8"]
+[White "Kudsin, Alexander"]
+[Black "Dippel, Olaf"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "1864"]
+[BlackElo "1952"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Hervest Dorsten"]
+[BlackTeam "Borbeck WD II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 c6 2. Nc3 Nf6 3. d4 d5 4. Nf3 e6 5. Qc2 Nbd7 6. e3 Be7 7. Bd3 dxc4 8.
+Bxc4 b5 9. Bd3 Bb7 10. O-O O-O 11. Ne5 b4 12. Na4 Rc8 13. Nxd7 Qxd7 14. Nc5 Qc7
+15. Nxb7 Qxb7 16. Qe2 Qb6 17. b3 c5 18. Bb2 a5 19. Rfd1 g6 20. dxc5 Qxc5 21.
+Ba6 Rcd8 22. Bd4 Qg5 23. f4 Qg4 24. Qb2 Nd5 25. Be2 Qf5 26. Bd3 Qg4 27. Rac1
+Rc8 28. Be2 Qf5 29. Bf3 Bf6 {Diagram #} 30. Rxc8 $1 {Black's problem is the
+bad placed pieces on d5 and f5. Both the first moves work just fine, e4 and
+Rxc8. However, the most precise to my eyes is Rxc8 because it gives no
+counterplay to Black. The variation is very forcing, so Black cannot do
+anything at all.} (30. e4 $1 {
+This is also winning, but White has to calculate more variations.} Qxf4 (30...
+Bxd4+) (30... Rxc1)) 30... Rxc8 31. e4 Bxd4+ 32. Qxd4 Qxf4 33. exd5 Qxd4+ 34.
+Rxd4 exd5 35. Rd2 $18 {
+White has a material advantage and a completely winning position.} d4 36. Kf2
+Rc3 37. Ke2 Re3+ 38. Kd1 d3 39. Rf2 Re5 40. Kd2 Rf5 41. Kxd3 g5 42. Rc2 1-0
+
+[Event "Muensterland Verbandsliga 0910"]
+[Site "Germany"]
+[Date "2010.01.16"]
+[Round "5.8"]
+[White "Boecker, Manfred"]
+[Black "Miemietz, Carsten"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1856"]
+[BlackElo "1715"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "64"]
+[EventDate "2009.09.26"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Suedlohn"]
+[BlackTeam "Muenster II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 b6 2. e4 Bb7 3. Nc3 e6 4. a3 Nf6 5. f3 Be7 6. Be3 O-O 7. Bd3 c5 8. dxc5
+bxc5 9. e5 Nd5 10. Nxd5 exd5 11. c3 Nc6 12. f4 {Diagram #} d4 $1 {White has a
+problem in the long diagonal and more specifically on g2. Right now, this
+tactic is not obvious because the lines are closed, but Black brutally opened
+up the game in order to liberate the b7-bishop.} (12... d6 $5) 13. Bf2 dxc3 14.
+bxc3 Nxe5 {As you can see, everything is forcing. By attacking or capturing
+something, you don't leave many options to your opponent. Black sacrificed the
+knight in order to capture the g2-pawn and the rook in the corner.} 15. fxe5
+Bxg2 16. Nh3 Bxh1 $19 {Black's position is winning and he didn't miss his
+opportunity to get the full point.} 17. Bxc5 Bh4+ 18. Kd2 Bg2 19. Nf4 Bg5 20.
+Be3 Bc6 21. Qg4 Re8 22. Rg1 Rxe5 23. Bd4 Rd5 24. Kc2 Rxd4 25. cxd4 Ba4+ 26. Kd2
+Qa5+ 27. Ke3 Re8+ 28. Kf2 Qd2+ 29. Ne2 Qe3+ 30. Kf1 Qxd3 31. h4 Qd1+ 32. Kf2
+Be3+ 0-1
+
+[Event "23rd Iraklio Chess Tournament"]
+[Site "?"]
+[Date "2021.06.28"]
+[Round "3"]
+[White "Kesaris, Evangelos"]
+[Black "Pitsakis, Ilias"]
+[Result "1-0"]
+[ECO "E00"]
+[WhiteElo "1898"]
+[BlackElo "1320"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "79"]
+[EventDate "2020.02.13"]
+[SourceDate "2021.06.28"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Qe7 5. Bg2 Nc6 6. e3 Bxd2+ 7. Qxd2 d6 8.
+Ne2 e5 9. Nbc3 O-O 10. O-O Re8 11. Nd5 Nxd5 12. cxd5 Nb8 13. Rac1 Bf5 14. dxe5
+dxe5 15. Nc3 Na6 16. Nb5 Rec8 {Diagram #} 17. d6 $1 {When your pieces are
+active, you need to open up the game; this is the rule of thumb. General rules
+can help you find quickly the candidate moves; you need to calculate the
+variations. I hope you noticed the tactical motive, the knight on d6 that
+forks the c8-rook and f5-bishop.} (17. a4 $5) (17. Rc4 $5) (17. Rfd1 $5) (17.
+f4 $5) 17... cxd6 18. Qxd6 $6 {This move is OK, but I was lazy (!) and I
+didn't spend enough time to calculate it properly. A lazy move can give away
+the advantage.} (18. Nxd6 $1 Rxc1 (18... Qd7 19. Bxb7 $18) 19. Rxc1 (19. Nxf5
+$2 Rxf1+ 20. Bxf1 Qf6 $17) 19... Qd7 20. Bxb7 {This was another tactical trick
+that I had foreseen. This is a very typical situation, in which both the
+a6-knight and the a8-rook are under attack.} Rd8 21. Bxa6 (21. Rc8 $3) 21...
+Qxd6 22. Qxd6 Rxd6 23. Bc4 $16 (23. Rc8+ Bxc8)) 18... Re8 19. Qxe7 Rxe7 20. Nd6
+Bd3 {I was expecting something passive like Bc8, but I missed that move during
+the game.} 21. Rfd1 e4 22. Bf1 $5 {Again, I had seen Rc8+, but I didn't
+calculate it in depth. The problem is that Black's pieces are unorganized and
+he has a back rank issue. The sub-variation explains everything. White won the
+game afterwards.} (22. Rc8+ $1 Rxc8 23. Nxc8 Rc7 24. Bxe4 $1) 22... Bxf1 23.
+Kxf1 g6 24. Ke2 f5 25. a3 b6 26. b4 Nc7 27. Rc6 Ne8 {Diagram #} (27... Ne6 28.
+h4 $14) (27... Rd8 $4 28. Nxf5 Rxd1 29. Nxe7+ Kf7 30. Kxd1 Kxe7 31. Rxc7+ $18)
+28. Nc8 $1 Rc7 (28... Re5 29. Rd8 Kf8 (29... Kf7 30. Nd6+ Ke7 31. Rxa8 $18) 30.
+Rd7 $1 $18) (28... Rb7 29. Rd8 Kf8 30. Re6 $18 (30. Rxe8+ Kxe8 31. Nd6+ Kd7 $1
+$19)) (28... Rf7 29. Rd8 Kf8 (29... Rf8 30. Ne7+ Kf7 31. Rxa8 $18) 30. Re6 $18)
+29. Rxc7 Nxc7 30. Rd8+ Kf7 31. Rd7+ Ke8 32. Rxc7 Kd8 33. Rxh7 Rxc8 {Diagram #}
+34. Rh8+ Kc7 35. Rxc8+ Kxc8 36. f3 Kd7 37. fxe4 fxe4 38. h4 g5 $5 39. Kd2 Ke6
+40. Kc3 1-0
+
+[Event "Muensterland Verbandsliga 0910"]
+[Site "Germany"]
+[Date "2010.02.06"]
+[Round "6.6"]
+[White "Kaufhold, Thomas"]
+[Black "Herdering, Martin"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "1986"]
+[BlackElo "1812"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "2009.09.26"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Muenster II"]
+[BlackTeam "Heiden"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. Nc3 Nf6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. b3
+e5 9. cxd5 cxd5 10. dxe5 Nxe5 11. Be2 Nxf3+ 12. Bxf3 Bxh2+ 13. Kxh2 Qc7+ 14.
+Kg1 Qxc3 15. Ba3 Re8 16. Rc1 Qe5 17. Qe2 Ne4 18. Bb2 Qd6 19. Rfd1 Bf5 20. Qb5
+Rad8 21. Qxb7 Re7 22. Qb5 Re6 $4 {Diagram #} 23. Rxd5 $1 {A very strong
+tactical blow that explores the back rank issues. You need to create a flying
+(escape) square for your king in general. Black's problem isn't only the back
+rank, but Bf5 as well. White is winning here.} (23. Qxd5 $1) 23... Qxd5 (23...
+Qe7 24. Rxd8+ Qxd8 25. Qxf5 $18) 24. Qxd5 Rxd5 25. Rc8+ Rd8 26. Rxd8+ Re8 27.
+Rxe8# 1-0
+
+[Event "23rd Iraklio Chess Tournament"]
+[Site "?"]
+[Date "2021.07.02"]
+[Round "7"]
+[White "Kesaris, Evangelos"]
+[Black "Katsanis, Vasileios Dim"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "1898"]
+[BlackElo "1444"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "84"]
+[EventDate "2020.02.13"]
+[SourceDate "2021.07.02"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O a6 7. c5 b6 8. cxb6
+cxb6 9. Nc3 Bb7 10. Bf4 Nc6 11. Ne5 Nxe5 12. dxe5 {1,20} Nd7 13. e4 dxe4 14.
+Nxe4 Bd5 15. Qg4 Re8 16. Rfd1 Qb8 {Diagram # [%eval -32767,0]} 17. Nf6+ $5 {
+Everything was ready for the tactical blow. I had seen all the candidate moves,
+but I spent my thinking time on Nf6+. It seems very strong, but it's not. I
+saw Rxd5 as a very cool move, but my thought was absorbed by Nf6+... I came to
+a wrong final conclusion there, and I never calculated Rxd5, 2-3 moves ahead.}
+(17. Rxd5 $3 exd5 18. e6 {The main point here is that the b8-queen and the
+d7-knight are under attack. Black's knight can counterattack White's queen,
+but we can use the intermediate check or threat to save the g4-queen.} Nf6 (
+18... Ne5 19. exf7+ Kxf7 (19... Kf8 20. fxe8=Q+) (19... Kh8 20. fxe8=Q+) 20.
+Qh5+ g6 (20... Kg8 21. Bxe5 $18) 21. Qxh7+ Kf8 (21... Ke6 22. Bh3+ Ng4 23.
+Bxg4#) 22. Bh6#) 19. exf7+ Kxf7 20. Nxf6 $1 {I missed that.}) (17. Nd6 $5)
+17... Bxf6 18. Bxd5 (18. exf6 Nxf6 19. Bxb8 Nxg4 20. Bc7 Bxg2 $15) 18... exd5
+19. Qxd7 Bxe5 20. Bxe5 Qxe5 21. Qxd5 (21. Re1 $2 Qxe1+ 22. Rxe1 Rxe1+ 23. Kg2
+Rd1 24. Qc6 (24. Qg4 Rd2 25. Qb4) 24... Rb8 25. Qc7 Re8) 21... Qxb2 22. Rab1
+Qf6 23. Qd6 $4 (23. a4 Rad8 24. Qb7) 23... Rad8 (23... Re1+ 24. Kg2 Qxd6 25.
+Rxd6 Rxb1 $19) 24. Qxf6 Rxd1+ 25. Rxd1 gxf6 26. Kf1 Kf8 27. Rd6 Re6 28. Rd8+
+Kg7 29. Rd4 f5 30. Ra4 a5 31. Rd4 Kf6 32. Rd5 Rc6 33. Rb5 Ke6 34. Ke1 Rd6 35.
+Ke2 f6 36. Ke3 h6 37. Ke2 Rc6 38. Kd2 Rd6+ 39. Ke2 Rc6 40. Kd2 Rd6+ 41. Ke2 Rc6
+42. Kd2 Rd6+ 1/2-1/2
+
+[Event "23rd Iraklio Chess Tournament"]
+[Site "?"]
+[Date "2021.07.03"]
+[Round "8"]
+[White "Masikas, Dimitrios"]
+[Black "Kesaris, Evangelos"]
+[Result "0-1"]
+[WhiteElo "1299"]
+[BlackElo "1898"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "2020.02.13"]
+[SourceDate "2021.07.02"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. f4 Bg7 5. Nf3 e6 6. O-O Nge7 7. d3 d5 8. exd5
+exd5 9. Bb3 Bg4 10. h3 Be6 11. Ng5 O-O 12. Nxe6 fxe6 13. Qg4 Nf5 14. Bd2 Ncd4
+15. Rae1 {Diagram #} b5 $1 {This was one of my favorite games because I played
+well. Here Black had a lot of interesting options, but the main problem was
+Bb3. Black has the advantage because the center is blocked and White doesn't
+have counterplay. The main threat now is c4.} 16. a4 (16. Nxb5 Nxb5 17. Rxe6
+Nbd4 $19) 16... c4 17. Ba2 (17. dxc4 bxc4 (17... dxc4 18. Ba2 Nxc2) 18. Ba2 Qb6
+$19) 17... b4 {This was one of my ideas. The power storm on the queenside is
+tempting with the goal to isolate the light-squared bishop. Please, also
+notice that the a-pawn will be isolated and weak.} 18. Nxd5 (18. Ne2 b3 (18...
+Nxc2 $5) 19. Nxd4 (19. cxb3 cxb3 20. Bb1 Qd7) 19... Bxd4+ 20. Kh1 bxa2) (18.
+Nb5 b3 19. Nxd4 Bxd4+ 20. Kh1 bxa2) 18... exd5 {White made a desperate
+sacrifice on d5, but other alternatives cannot save White. I won the game with
+a nice combination at the end.} 19. Bxb4 Re8 (19... Nxc2 20. Bxf8 Qb6+ 21. Kh1
+Rxf8 $19 {Black is winning because he is threatening Nxe1 and Ne3.}) 20. Bc5 (
+20. Rxe8+ Qxe8 21. dxc4 Ne3) (20. dxc4 Qb6) 20... Rxe1 21. Rxe1 Qa5 22. c3 Qxc5
+(22... Nc2 $1 23. Re2 Qxc5+ {Check} 24. Kh2 cxd3 $19) 23. cxd4 Qxd4+ 24. Kh2 {
+Diagram #} Bh6 25. dxc4 (25. Rf1 Re8) (25. g3 Qf2+) 25... Bxf4+ 26. Kh1 Qd2 (
+26... Ng3+ 27. Kh2 Ne2+ 28. Kh1 Re8 $1 {I missed that one.}) (26... Qf2 27. Rd1
+Ng3+ 28. Kh2 Nh5+ 29. Kh1 Re8 $19) 27. Rd1 {Diagram #} (27. Rb1 Re8 28. -- Re1+
+29. Rxe1 Qxe1#) 27... Ng3+ (27... Re8 $5 {I missed that.}) 28. Kh2 Ne2+ 29. g3
+(29. Kh1 Qxd1#) 29... Bxg3+ 30. Qxg3 Nxg3+ 31. Rxd2 Nf1+ 0-1
+
+[Event "44th Ikaros International Chess"]
+[Site "?"]
+[Date "2021.07.12"]
+[Round "3"]
+[White "Drakonakis, Athanasios"]
+[Black "Kesaris, Evangelos"]
+[Result "0-1"]
+[ECO "D87"]
+[WhiteElo "1737"]
+[BlackElo "1898"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "158"]
+[EventDate "2021.07.08"]
+[SourceDate "2021.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 b6 11. Qa4 Qc7 12. Rad1 cxd4 13. cxd4 Na5 14. Bd5 Bb7
+15. Rc1 Qb8 16. Nc3 e6 17. Bxb7 Qxb7 18. f3 Rac8 19. Nb5 Qd7 20. Rfd1 Rfd8 21.
+Qb4 {Diagram #} Rxc1 $1 {This was the critical moment of the game because the
+situation can change dramatically to Black's favor. The main weakness is on d4,
+the classical weak spot on the Grunfeld Defense.} (21... Bf8 $5 22. Qb1 (22.
+Qa4 a6 23. Nc3 Nc4 24. Bg5 Qxa4 25. Nxa4 Re8 $15) 22... a6 23. Nc3 Nc4 24. Bg5
+Be7 $15) (21... a6 $5 22. Rxc8 Rxc8 23. Nd6 Bf8 $36) (21... Nc6 $6 22. Qb1 a6
+23. d5 $1 Ne5 (23... Ne7 24. Nc7 $132) 24. Nc7 $132) 22. Rxc1 (22. Bxc1 a6 23.
+Nc3 Bxd4+ $17 {Black is c learly better because White cannot do anything for
+the pinned bishop on d4.}) 22... a6 $2 {I saw my alternatively move, Nc6, but
+I thought that this was a forcing way to kick away the knight in order to
+capture the d4-pawn. However, I was weakening the queenside and I missed two
+moves (!) with the b5-knight. I rejected Nd6 because I didn't see the back
+rank mate. The Nc7 move never crossed to my mind because I was focused only on
+Rc7. Nc6 was the best one, but I played a bad move.} (22... Nc6 $1 23. Qc4 (23.
+Qd2 Nxd4 24. Rd1 Qxb5 $19) 23... Nxd4 24. Nxd4 Bxd4 25. Bxd4 Qxd4+ 26. Qxd4
+Rxd4 $17) 23. Nc7 $5 (23. Rc7 Qxb5) (23. Nc3 Bxd4 $17) (23. Nd6 $1 {
+This is a very interesting blow, wich uses the weaknesses on the back rank.}
+Qxd6 $4 (23... Nb7 24. Nxb7 Qxb7 25. Qc3 $11) 24. Qxd6 Rxd6 25. Rc8+ Bf8 26.
+Bh6 Rd8 27. Rxd8 b5 28. Rxf8#) 23... Bxd4 {
+I didn't find any better move, but now Black has no real advantage.} (23... Rc8
+24. Qxb6) (23... Nc6 24. Qxb6 Rb8 25. Qxc6) 24. Bxd4 Qxd4+ 25. Qxd4 Rxd4 26.
+Nxa6 Rd2 {I have more active pieces and Na6 is out of the game. After a lot of
+mutual mistakes, I managed to win the game.} 27. Rb1 (27. Nb4 $1) 27... Nc4 28.
+a4 Rb2 (28... Ra2 $5 29. Rb4 Ne3 30. g3 Rg2+ 31. Kh1 Rf2 32. h4 (32. Rxb6)
+32... Rxf3 33. Kh2 Rf2+ 34. Kh3 h5) (28... Ne3 $5) 29. Rc1 (29. Rxb2 Nxb2 30.
+Nc7 Nxa4 31. Kf2 Kf8 32. Ke3 Ke7 33. Kd4 Kd7 34. Nb5 f6 35. e5 f5 36. Nd6 Nc5
+$15) 29... Ne3 30. g3 {Diagram #} Rg2+ $1 31. Kh1 Ra2 32. Kg1 Rxa4 33. Kf2 Nc4
+34. Nb8 (34. Nc7) 34... Ra2+ 35. Kg1 Ne5 36. Rc3 {Diagram #} Ra8 $5 (36... b5
+$1 37. f4 (37. Rb3 h5 38. Rxb5 $2 Nxf3+ 39. Kf1 (39. Kh1 Rxh2#) 39... Nxh2+ 40.
+Ke1 Nf3+ 41. Kd1 {Diagram #} Ra1+ $1 42. Kc2 Nd4+ 43. Kb2 Nxb5 44. Kxa1 Nc3 45.
+e5 Ne2 $19) 37... Ng4 38. h3 (38. Nd7 Ra1+ 39. Kg2 Rd1 40. Rc8+ Kg7 41. Rc7 b4
+42. h3 b3 43. Rb7 Rd2+ 44. Kf3 Nh2+ 45. Ke3 Nf1+ 46. Kf3 Rc2 $19) 38... Nf2) (
+36... Rb2 $5) 37. Nc6 Nxc6 38. Rxc6 Rb8 39. Kf2 Kf8 40. Ke3 Ke8 41. Rd6 e5 (
+41... Ke7) 42. Rd5 f6 43. Rd6 Ke7 44. Rc6 h5 45. Kd3 Rd8+ 46. Kc4 Rd6 47. Kb5
+Rd2 48. Rc7+ Kf8 49. Rc8+ Kg7 50. Rc7+ Kh6 51. Rf7 Rb2+ (51... Rxh2 52. Rxf6
+Rg2) 52. Kc6 Rxh2 53. Rxf6 Rg2 54. Kxb6 (54. g4 h4 $19) 54... Rxg3 55. Kc5 Kg7
+(55... h4 56. Rf8 Kg7 57. Ra8 h3 58. Ra1 Kf6 $18) 56. Re6 h4 57. Rxe5 h3 58.
+Re7+ {Diagram #} (58. Rd5 Rg5 $5 (58... h2 59. Rd1 Rg1) 59. Rxg5 h2) 58... Kf6
+(58... Kf8 59. Rh7 Rg5+ 60. Kd6 Rh5 $19) 59. Rh7 (59. Kd6 $1) 59... Rxf3 (59...
+Rg5+ 60. Kd6 Rh5 61. e5+ $132) 60. Kd5 Rd3+ 61. Kc4 Ra3 62. Kd5 g5 63. e5+ Kf5
+(63... Kg6 64. Rh8 g4) 64. e6 Rd3+ 65. Kc4 Re3 66. e7 Kg6 (66... g4 67. Kd4 Re1
+68. Kd5 Kf4 69. Kd6 Kg3 70. Rh8 h2) 67. e8=Q+ (67. Rxh3 Rxe7 68. Kd4 g4 $19 69.
+Re3 Rd7+ 70. Ke4 Kg5 71. Ra3 Re7+ $1 72. Kd3 g3 $19) 67... Rxe8 68. Rxh3 g4 69.
+Rh1 Rd8 70. Kc3 Kg5 71. Rh7 Kf4 72. Rf7+ Kg3 73. Rg7 Kf3 74. Rf7+ Kg2 75. Rg7
+g3 76. Rg6 Kf2 77. Rf6+ Kg1 78. Rg6 g2 79. Rf6 Rh8 (79... Rh8 80. Rf7 Kh1 81.
+Rg7 g1=Q 82. Rxg1+ Kxg1 $19) 0-1
+
+[Event "44th Ikaros International Chess"]
+[Site "?"]
+[Date "2021.07.16"]
+[Round "8"]
+[White "Kesaris, Evangelos"]
+[Black "Karagiannis, Thomas Aristotelis"]
+[Result "1/2-1/2"]
+[WhiteElo "1898"]
+[BlackElo "1760"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "80"]
+[EventDate "2021.07.16"]
+[SourceDate "2021.07.16"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 b5 6. Bg2 Bb7 7. e4 d6 8. Ne2 (
+8. Nf3 Be7 (8... Nxe4 9. O-O Be7 10. Nh4 Bxh4 11. Bxe4 Be7 12. Re1 O-O) 9. O-O
+O-O 10. Re1 Nbd7 11. a4 a6 12. h3 h6) 8... g6 9. a4 $6 (9. Qb3 b4 10. a3 a5 11.
+axb4 cxb4 12. Qa4+ Nbd7 13. Bf4 Nh5 14. Be3 Bg7 15. Nd4 O-O) 9... a6 $4 {
+Blunder. b4 was better.} (9... b4) 10. axb5 axb5 11. Rxa8 Bxa8 12. Na3 Qb6 (
+12... Bg7 13. Nxb5) 13. O-O (13. Nc3 b4 14. Qa4+ {
+I missed it in this variation. I discovered Qa4 in the next move.} Nfd7 15. Nc4
+Qa6 16. Qxa6 Nxa6 17. Nb5 Ne5 18. Nb6 Bb7 19. f4 Nd3+ 20. Ke2 Nxc1+ 21. Rxc1
+$16) 13... Nbd7 14. Bf4 Be7 (14... Bg7 15. Nc3 $1 b4 16. Nc4 Qa6 17. Nb5 $5 $16
+(17. Nxd6+ Ke7 18. Ncb5 $18)) 15. Bh6 $6 (15. Qd3 c4 16. Qd4 O-O (16... Qxd4
+17. Nxd4 $16) 17. Qxb6 Nxb6 18. Nxb5 $18) 15... Ng4 16. Bg7 Rg8 17. Bh3 Ngf6 $6
+(17... h5 18. Bc3 (18. Bxg4 hxg4 19. Bh6 g5 $17) 18... b4 19. f3 bxc3 20. fxg4
+hxg4 21. Bxg4 Ne5 22. Nxc3 Bb7 (22... Qxb2 23. Nc4 Nxc4 24. Qa4+ $132) 23. Be2
+Qxb2 24. Qa1) 18. Bxf6 Nxf6 (18... Bxf6 $2 19. Nc3 b4 20. Nc4 Qa6 21. Nb5 $18)
+19. Bg2 (19. Nc3 b4 $2 (19... Kf8 20. Naxb5 Nxe4 21. Qe2 Nxc3 22. bxc3 Bf6 $132
+) 20. Qa4+ Kf8 21. Qxa8+ Kg7 22. Na4 $3 {I missed that.} Rxa8 23. Nxb6 Rb8 24.
+Nac4 $18) 19... Bb7 20. Nc2 $6 (20. Qb3 b4 21. Nc4 Qa6 22. Nf4 Kf8 23. Re1 Kg7
+24. Bf1 Ra8 25. Qd1 $36) 20... Kf8 21. b4 Kg7 (21... Nd7 $5) 22. bxc5 Qxc5 23.
+Qb1 Bc8 $6 {Inaccuracy. Ng4 was better.} (23... Ng4 24. Ned4 Rb8 25. Qb4 Bf6
+26. Rb1 Qxb4 27. Rxb4 Ra8 28. Bf1 Ra2 29. Be2 h5 30. h3) 24. Rc1 Bd7 25. Ncd4
+Qb6 26. Qb2 Rb8 27. Nc6 Bxc6 28. dxc6 Kg8 $2 (28... Rc8 29. Nd4) 29. Qd4 $5 (
+29. c7 $1 Rc8 30. Qd4 $18 Qb7 31. e5) (29. e5 $5 {This is a very practical
+move. The problem is that I didn't spend much time here.}) 29... Qc7 {Diagram #
+} 30. f4 $6 {Here is the critical moment. The position looks really better for
+White because I have active pieces, and the c6-pawn is far more advanced.
+However, we need to calculate carefully the variations. There are a lot of
+tactics on the air, like e5, and the queen is the worst blokader. We need to
+break that blockade, and we can do it by activating the knight. We can
+activate the knight in two ways: freeing the d4-square with Qd3 or with Nf4.} (
+30. Qd3 $5 b4 31. Nd4 $16) (30. Ra1 $2 Qxc6 31. e5 dxe5 32. Bxc6 exd4 33. Nxd4
+$17) (30. h3 $2 b4 31. f4 $6 {With the idea to play e5; however, this is slow
+and Black can create counterplay with the b4-move.} (31. Nf4 b3 32. Qb2 Rb6 33.
+Bf3 Rxc6 $11) 31... b3 $15) (30. Nf4 $5 b4 31. Nd3 b3 32. Nb4 $1 $16) 30... Ng4
+(30... b4) 31. h3 (31. Bf3 Bf6 32. Qd2 Qb6+ 33. Kh1 $1 {
+I didn't see this move during the game.} (33. Kg2 $4 Qf2+ 34. Kh3 Qxh2+ 35.
+Kxg4 Qh5#) 33... Qf2 (33... Nf2+ 34. Kg2 $18) 34. Bxg4 $18) 31... Bf6 32. Qd2 (
+32. e5 $5 {This was another move that I calculated, but not till the end of
+the line. Sometimes, I'm not careful with calculation.} dxe5 33. Qd7 Qb6+ 34.
+Kh1 Ne3 35. c7 $18) (32. Qd3 Qb6+ 33. Kh1 Nf2+) 32... Qb6+ 33. Kh1 Ne3 34. Qxd6
+$5 (34. e5 $1 {
+I saw that move as candidate, but I didn't find the tactic a few moves later.}
+dxe5 35. c7 Rc8 36. Rc6 $18 {I didn't calculate this powerful tactic...} Qa7
+37. Qd7 Qa8 38. Bf3 exf4 39. gxf4 $18) 34... Nxg2 35. Kxg2 (35. Qxf6 $1 {
+Another beautiful picture in which White's threats come first. Unfortunately,
+I didn't see it during the game.} Qe3 36. c7 $18) 35... Rd8 36. Qxf6 Rd2 37.
+Kf1 $4 {A terrible blunder, missing Black's next move.} (37. Kf3 $1) (37. Ra1
+$1 Rxe2+ 38. Kf3 Re3+ 39. Kg4 $18) 37... Qe3 38. Re1 Qf3+ 39. Kg1 Qe3+ 40. Kf1
+Qf3+ 1/2-1/2
+

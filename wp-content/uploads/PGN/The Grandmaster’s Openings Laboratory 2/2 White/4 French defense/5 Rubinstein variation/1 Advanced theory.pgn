@@ -1,0 +1,67 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.04.26"]
+[Round "?"]
+[White "3...de (Rubinstein variation)"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "RCA"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+[SourceDate "2013.04.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 {This variation gives up the centre very quickly.
+White has more space and a better development. White normally uses the
+following ideas: 1. reach a queen side majority after dxc5 2. attack on the
+king side 3. use the e5 square 4. prevent Black from playing c5 and thereby
+leaving him with a cramped position.} 4. Nxe4 Nd7 (4... Nf6 {Is another
+alternative - the thing is, that after...} 5. Nxf6+ {It's difficult for Black
+to recapture...} gxf6 {Damages his own pawn structure...} (5... Qxf6 {Putting
+the queen in unnecessary danger - Black should lose a lot of time...} 6. Nf3 {
+Following the principle of maximum activity and threatening 7.Bg5.} h6 7. Bd3 {
+Developing the bishop to the most active square.} Bd6 8. O-O O-O 9. Qe2 Nc6 10.
+Qe4 {Now the game comes into a forced variation.} Qf5 11. Qh4 Be7 12. Qg3 Bd6
+13. Bxf5 Bxg3 14. fxg3 exf5 15. Bf4 {And the c7 pawn is lost - White has the
+advantage...})) (4... Bd7 {This variation has the idea of putting the bishop
+on the h1-a8 diagonal without creating weak squares.} 5. Nf3 {Maximum activity.
+..} Bc6 6. Bd3 {Defending and developing...} Nd7 7. O-O Ngf6 8. Ng3 {White has
+space advantage - so he should avoid exchange of pieces.} Be7 9. c4 {Seizing
+more space...} Bxf3 10. Qxf3 c6 11. b3 {Preparing to put the bishop on b2.} O-O
+12. Bb2 Qa5 13. a3 {Preventing the exchange on a3 - White has the bishop pair
+and more space.}) 5. Nf3 {Following the principle of maximum activity and
+least active piece...} Ngf6 6. Nxf6+ Nxf6 7. Bd3 {This is the best square for
+this bishop - from here it attacks the king side and can be moved to e4 at a
+later stage.} (7. Bc4 $5 {It's an interesting and modern idea. Now the d4 pawn
+is better protected. Also from here, this bishop can support d5 in some
+positions. And it's a very simple line - White doesn't need to remember a lot
+of theory and should obtain excellent chances for an advantage.} Be7 (7... c5
+8. O-O cxd4 9. Qe2 {The idea is to recover the pawn with Rd1 in a more natural
+way. What is important is to avoid the exchange of some pieces.} Bc5 10. Rd1
+O-O 11. Bf4 {Followed by Be5, recovering the pawn with an excellent game.} Qb6
+12. Rab1 {Preparing b4!} a5 13. Be5 $14) 8. O-O O-O 9. Qe2 b6 10. Bf4 $1 {Is
+probably more accurate...} (10. Bg5 $5 Bb7 11. Rad1 Nd5 12. Bc1 $1 {With the
+purpose of 'don't exchange pieces'. But it's difficult for White to gain
+anything in this variation...} c5 13. dxc5 Bxc5 14. Bd3 Qc7 15. Qe4 g6 16. Qh4)
+10... Bb7 11. Rad1 {With slight advantage to White...}) 7... Be7 (7... c5 $5 {
+It's the typical break up in this position.} 8. dxc5 Bxc5 9. O-O O-O 10. Bg5 {
+White has more development and a better pawn structure due to the queen side
+majority.} b6 (10... h6 11. Bh4 b6 12. Qe2 Bb7 13. Rad1 Qc7 14. Bxf6 gxf6 15.
+Be4 $14 {Exchanging the only advantage Black has in his position - the bishop
+pair...}) 11. Qe2 Bb7 12. Rad1 Qc7 13. Bxf6 gxf6 14. Be4 $14) 8. Qe2 O-O 9. Bg5
+{Preparing to castle queen side with excellent attacking chances...} c5 (9...
+b6 {Falls into a typical trap in this variation!} 10. Bxf6 Bxf6 11. Qe4 g6 12.
+Qxa8) 10. dxc5 Qa5+ (10... Bxc5 {Moving the bishop again means lose a tempo...}
+) 11. c3 Qxc5 12. O-O-O h6 (12... Rd8 {Is inferior due to...} 13. Bxf6 Bxf6 14.
+Bxh7+ Kxh7 15. Rxd8 Bxd8 16. Qd3+ {Recovering the piece with an extra pawn.})
+13. h4 $5 {A typical move in this kind of position - starting a pawn attack
+and protecting the bishop in an indirect way...} Nd5 (13... hxg5 14. hxg5 g6
+15. gxf6 Bxf6 16. Bc2 {Preventing Bd7...} e5 17. Nd2 {With good attacking
+chances for White...}) (13... Bd7 14. Ne5 Ba4 15. Rde1 {And White's chances on
+the king side are better than Black's on the queen side.}) (13... Rd8 14. Ne5
+Rd5 15. f4 {And White has good attacking chances...} b6 16. Bxf6 Bxf6 17. Be4
+Ba6 18. Qf3 Rxd1+ 19. Rxd1 Rd8 20. Nd7 Qe7 21. Nxf6+ Qxf6 22. g3 {With a
+slight advantage to White...}) 14. Bxe7 Qxe7 15. Ne5 {Still with a slight
+advantage to White; his plan is very clear - advance his king side pawns and
+create a strong attack.} *
+

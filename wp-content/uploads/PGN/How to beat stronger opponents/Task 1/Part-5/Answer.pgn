@@ -1,0 +1,368 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1978.11.16"]
+[Round "10"]
+[White "Knaak, Rainer"]
+[Black "Malich, Burkhard"]
+[Result "1-0"]
+[ECO "E55"]
+[WhiteElo "2520"]
+[BlackElo "2535"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "63"]
+[EventDate "1978.11.05"]
+[EventRounds "13"]
+[EventCountry "DDR"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 a6 10. a4 cxd4 11. exd4 Nb6 12. Bd3 Nbd5 13. Bd2 Ba5 14. Rac1 Bd7
+15. Nxd5 exd5 16. Bg5 h6 17. Bh4 Bg4 18. Qe3 Bb6 19. Ne5 Bc8 20. Bb1 Qd6 21.
+Kh1 Re8 {Diagram #} 22. Qd3 $1 {In the position on the diagram, the material
+is equal, but White has a nice initiative on the kingside. All White's pieces
+are placed to attack Black's king, while some black pieces are out of play 
+(the rook on a8 and the bishop on c8). Now White needs to find a direct way to
+attack Black's king. The Qd3 move is a nice one. Now Black's king is in real
+danger.} Bd8 23. Bxf6 $1 {White now removes the last black defender. Now
+Black's king is without protection and White's attack is overwhelming.} Bxf6
+24. Qh7+ Kf8 25. Nxf7 Kxf7 26. Bg6+ Ke7 27. Bxe8 Kxe8 28. Qg8+ Qf8 29. Rfe1+
+Be7 30. Rxe7+ $1 Kxe7 31. Re1+ $1 Be6 32. Qxe6+ $18 {And Black resigns. Nice
+play from White. Here, in this game, White showed a great idea and an exact
+calculation from start to end of the combination.} 1-0
+
+[Event "Ostlandsserien"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Ostenstad, Berge"]
+[Black "Tisdall, Jonathan D"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2475"]
+[BlackElo "2465"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "56"]
+[EventDate "1994.??.??"]
+[EventCountry "NOR"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. cxb5 c6 8.
+e3 cxb5 9. Bxb5 Ne4 10. Qb3 Na6 11. Qa4 Nc7 12. Bd3 Bb7 13. Nf3 f5 14. O-O Rf6
+15. Qa5 {Diagram #} Nc5 $1 {The position on the diagram is unclear. White is a
+pawn up, but Black has a better development and some initiative on the
+kingside because of the great light-squared bishop on the long diagonal and
+the rook on the 6th rank. Here Black finds an interesting piece sacrifice in
+order to destroy White's defense on the kingside.} 16. dxc5 Bxf3 17. Re1 (17.
+gxf3 $4 {This is a huge blunder! Now Black has a mate in 3.} Rg6+ 18. Kh1 Qg5
+$19 {With mate in the next move.}) 17... Rg6 18. g3 Qh4 $1 {Strong move! Now
+White gets a nice attack on White's king. Here Black has the idea of Qh2 and
+Th6 - h1, mate.} 19. Qb4 $1 {Nice defensive move.} Qh5 20. e4 f4 21. Bxf4 Rf8
+22. Qd2 e5 23. Be3 Rg4 $6 24. Be2 Bxe4 25. Rad1 Bc6 26. Qd6 $4 {Now White
+makes a huge blunder in a very interesting position and loses the game.} Qh3
+27. f3 Rxf3 28. Bxf3 Bxf3 $19 {And White resigns in a lost position. Nice
+attack from Black.} 0-1
+
+[Event "ISR"]
+[Site "Israel"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Faerman, Igor"]
+[Black "Afek, Yochanan"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2230"]
+[BlackElo "2390"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "1996.??.??"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 e5 7. d3 d6 8. a3
+Be6 9. Ng5 Bd7 10. b4 cxb4 11. axb4 a5 12. bxa5 Rxa5 13. Rxa5 Qxa5 14. Na3 Bg4
+15. f3 Bd7 16. Nc4 Qc7 17. f4 f6 {Diagram #} 18. fxe5 $1 {In the position on
+the diagram, White is better. All his pieces are better developed and he has a
+nice potential attack on the black king. With the last move, White opens the
+position on the kingside and manages to get the attack going.} fxe5 19. d4 h6
+20. dxe5 $1 {Again, a strong move. White just needs to open the position. Then,
+Black's king will be without defense.} hxg5 21. Nxd6+ $1 {Now White is winning.
+He just needs to calculate the forced sequence of moves.} Kd8 22. Bxg5+ Ne7 23.
+Nf7+ Ke8 24. Nd6+ Kd8 25. Nf7+ Ke8 26. Nxh8 Bxh8 27. Bf6 Bxf6 28. exf6 Nc8 29.
+Qd2 Qd6 30. Qxd6 Nxd6 31. e5 Nb5 32. e6 Bc8 33. e7 Nc7 34. Rb1 $18 {And Black
+resigns in a hopeless position. Nice transposition from White. First, he gets
+a huge attack on the black king, and then, he takes some material and gets
+into a completely winning position in the endgame.} 1-0
+
+[Event "Wch U16"]
+[Site "Menorca"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Gershon, Alik"]
+[Black "Halkias, Stelios"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2255"]
+[BlackElo "2330"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "73"]
+[EventDate "1996.??.??"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15.
+gxf6 Bf8 16. Rg1 h5 17. Rg7 Nd7 18. e5 Qb7 19. Qe2 dxe5 {Diagram #} 20. Nxe6 $1
+{The position on the diagram is in White's favor. Black gets some material,
+but almost all of his pieces are completely out of play. Now White, in order
+to capitalize his initiative, needs to find the way to attack a black king who
+is stuck in the center of the board. With the Nxe6 move, he manages to do that.
+Now White's attack is really strong.} fxe6 21. Bg2 Qb8 22. Bxa8 Qxa8 23. Qd3
+Qc6 24. Qg6+ Kd8 25. Rg8 Rxg8 26. Qxg8 Kc7 27. Rxd7+ Bxd7 28. Qxf8 {White
+manages to get back the sacrificed material, and now, he has a better endgame.}
+Qh1+ 29. Nd1 Qf3 30. Qc5+ Kd8 31. Qxe5 Ke8 32. Qb8+ Kf7 33. Qd6 Bc8 34. Qe7+
+Kg6 35. Qg7+ Kf5 36. f7 Qf4+ 37. Kb1 $18 {And Black resigns in a lost position.
+This was the example of a nice combination of ideas. First, White sacrifices a
+piece, the knight on e6, to open the position of the black king in the center.
+Then, he gets the material and reaches an almost winning endgame, that he
+manages to win at the end.} 1-0
+
+[Event "Istanbul ol (Men)"]
+[Site "Istanbul"]
+[Date "2000.11.12"]
+[Round "14"]
+[White "Sadvakasov, Darmen"]
+[Black "Bagirov, Rufat"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2509"]
+[BlackElo "2471"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "77"]
+[EventDate "2000.10.??"]
+[EventRounds "14"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8.
+Qd2 c5 9. Nf3 Nc6 10. dxc5 f6 11. exf6 Qxf6 12. g3 Nxc5 13. O-O-O Rd8 14. Qf2
+d4 15. Nb5 e5 16. Ng5 Bf5 $4 {Diagram #} 17. Bc4+ $1 {Last Black's move, Bf5,
+was a big blunder. Now White has a great attack on Black's king. With Bc4,
+White will expose Black's king, get a nice initiative and attack him.} Kf8 18.
+g4 Bg6 19. Nc7 Rac8 20. Nge6+ Nxe6 21. Nxe6+ Ke7 22. f5 Rd6 23. Nc5 Bxf5 24.
+gxf5 Nb4 25. Ne4 $18 Qh6+ 26. Kb1 Rxc4 27. Nxd6 Qxd6 28. c3 $18 {After the
+attack on Black's king, White manages to get some material (the Exchange), and
+now, he has an almost winning position.} Nc6 29. Rhe1 Kf8 30. Qe2 Rc5 31. Qh5
+$16 {Now all White's pieces join the game and Black has big problems. In
+addition, his king is not safe on f8. White is close to winning.} Rb5 32. Qxh7
+Qa3 33. Qh8+ Kf7 34. Qh5+ Kf8 35. Qh8+ Kf7 36. Qh5+ Kf8 37. Qe2 Rb6 38. cxd4
+Na5 39. Rc1 $18 {And Black resigns. Nice play from White. First, he managed to
+get the initiative; and then, he transposed it to a great attack on the
+opponent's king. After he gets the material advantage, he exchanges a few
+pieces and wins the game.} 1-0
+
+[Event "Leon 18th"]
+[Site "Leon"]
+[Date "2005.06.12"]
+[Round "2.2"]
+[White "Anand, Viswanathan"]
+[Black "Kasimdzhanov, Rustam"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2785"]
+[BlackElo "2671"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "65"]
+[EventDate "2005.06.10"]
+[EventType "rapid"]
+[EventRounds "2"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Nbd7 9. g4 h6 10. O-O-O Bb7 11. h4 b4 12. Na4 Qa5 13. b3 Nc5 14. a3 Rc8 15.
+Qxb4 Qc7 16. Kb1 Nfd7 17. Nb2 d5 18. Qd2 dxe4 19. f4 Nf6 20. Be2 Nd5 21. Nc4
+Nd7 22. g5 Nxe3 23. Qxe3 Bd5 24. Rhf1 Bc5 25. Qc3 hxg5 {Diagram#} 26. Nf5 $1 {
+The position on the diagram is incredibly sharp. All of the white and black
+pieces are nicely placed and both sides have potential to attack the
+opponent's king. In a position like this one, the most important thing is get
+the attack first. The side who manages to get the attack on the opponent's
+king will push all the opponent's pieces back into defense. White managed to
+do that with the great attacking Nf5 move. Now he wants to open the position
+of the black king and Black needs to defend his position.} Bxc4 $4 {Black
+immediately makes a mistake. The only move was gxf4. Now White has a huge
+attack.} 27. Nxg7+ $1 {Now Black is lost. White's attack is overwhelming.} Ke7
+28. Bxc4 Rhg8 29. hxg5 e3 30. f5 Ne5 31. fxe6 $1 {The last important move!
+White just needs to open some lines and get the attack going. Black's king is
+without defense and completely lost.} Rxg7 32. Rd7+ Nxd7 33. Qxg7 $1 $18 {And
+Black resigns. Nice example of a strong attack and an incredible calculation.}
+1-0
+
+[Event "Bundesliga 0405"]
+[Site "Germany"]
+[Date "2004.12.12"]
+[Round "6.1"]
+[White "Anand, Viswanathan"]
+[Black "Nisipeanu, Liviu Dieter"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2781"]
+[BlackElo "2687"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "2004.11.12"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+[WhiteTeam "Deutschland"]
+[BlackTeam "Deutschland"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. f3 Be7 6. c4 O-O 7. Nc3 c6 8. Be3
+Re8 9. Qd2 d5 10. cxd5 cxd5 11. Bb5 Bd7 12. e5 Bxb5 13. Ndxb5 a6 14. Nd4 Nfd7
+15. f4 Nb6 16. b3 N8d7 17. O-O Rc8 18. Nf5 Bb4 19. Bd4 Nc5 20. Qe3 Rc6 21. Rac1
+Qc8 $4 {Diagram #} 22. Nxg7 {Last Black's move, Qc8, was a big mistake. Now
+White has a nice tactical shot, after which, he will get the winning position.}
+Kxg7 23. f5 $1 {Suddenly, all of White's pieces join the attack on the black
+king. Without the pawn on g7, the position of Black's king is very bad.} h6 24.
+e6+ $1 Kh7 25. Qe5 $1 {Now White brings his queen closer to the black king and
+it is game over.} Rg8 26. exf7 Rg5 27. Qe7 $1 $18 {And Black resigns. Great
+example of a nice attack on the opponent's king with sacrifices in order to
+expose the opponent's king.} 1-0
+
+[Event "Candidates Tournament"]
+[Site "Curacao"]
+[Date "1962.05.12"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[ECO "C96"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "1962.05.02"]
+[EventRounds "28"]
+[EventCountry "AHO"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+[WhiteTeam "Deutschland"]
+[BlackTeam "Deutschland"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. dxc5 dxc5 13. Nbd2 Qc7 14. Nf1 Nb6 15.
+Ne3 Rd8 16. Qe2 Be6 17. Nd5 Nxd5 18. exd5 Bxd5 19. Nxe5 Ra7 20. Bf4 Qb6 21.
+Rad1 g6 22. Ng4 Nc4 23. Bh6 Be6 24. Bb3 Qb8 25. Rxd8+ Bxd8 26. Bxc4 bxc4 {
+Diagram #} 27. Qxc4 $1 {The position on the diagram is much better for White.
+All his pieces are nicely placed and close to the opponent's king. Now White
+just needs to find a winning combination. He needs to find the way to destroy
+the position of the black king. With the last move, Qc4, White gets the attack
+going. Now he has some combinations, like Re6, with a mating attack.} Qd6 28.
+Qa4 $1 Qe7 29. Nf6+ $1 Kh8 30. Nd5 Qd7 31. Qe4 Qd6 32. Nf4 Re7 33. Bg5 Re8 34.
+Bxd8 Rxd8 35. Nxe6 Qxe6 36. Qxe6 fxe6 37. Rxe6 $18 {White has managed to get
+two pawns and get a winning rook endgame that he wins in the next couple of
+moves. A nice example of a combination of: a mating attack, getting the
+material advantage and getting the winning endgame. Great game by Bobby
+Fischer.} Rd1+ 38. Kh2 Rd2 39. Rb6 Rxf2 40. Rb7 Rf6 41. Kg3 1-0
+
+[Event "RapidOpen"]
+[Site "Riyadh"]
+[Date "2017.12.26"]
+[Round "1.1"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Bu Xiangzhi (CHN)"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "2908"]
+[BlackElo "2654"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "2017.??.??"]
+
+1. c4 Nf6 2. Nc3 e5 3. e3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Be7 7. Nf3 O-O 8. b4
+Nxc3 9. dxc3 Qd6 10. Bd3 f5 11. e4 f4 12. h3 a5 13. Bb2 Bf6 14. Rd1 Qe7 15. O-O
+Be6 16. Qe2 Qf7 17. Rd2 {Diagram #} g5 $1 {The position looks about equal, but
+Black has a slight advantage, thanks to more space. Black has a lot of good
+moves, but now it's a nice time to start an attack against the enemy king. In
+order to do that, Bu played the nice g5 move with the idea of playing g4 in
+the future. Thanks to the h3-pawn, this plan is realistic for Black.} (17...
+Rfd8 $5) (17... h5 $5) (17... Ne7 $5) 18. b5 Ne7 19. c4 Ng6 {Just in time,
+Black is defending the e5-pawn successfully and he is ready to continue with
+his plan, namely g4.} 20. Nh2 Rad8 21. Rfd1 Qe7 22. Qh5 Rd7 23. Ng4 Rfd8 24.
+Nh6+ Kh8 25. Nf5 Qc5 {White manages to stop the g4 plan, but Black's pieces
+are more active and the Bd3 is pinned. So, Black has a small initiative.} 26.
+Qe2 Nh4 {Black cannot advance the g4-pawn, but he can open the g-line. By
+opening the g-line, Black would like to attack the g2-pawn.} 27. Nxh4 gxh4 28.
+Qh5 Rg8 {According to the computer, the position is equal, but every human can
+feel the pressure against the g2-pawn. Definitely, this is an unpleasant
+situation to deal with over the board.} 29. Bf1 Rdg7 30. Kh1 Qe7 {Black would
+like to kick off the queen from h5 with the Rg5 move, and then, he can triple
+his heavy pieces on the g-line.} 31. Qf3 Rg5 32. a4 Bf7 {Black starts creating
+real threats, namely Bh5, and White should react immediately to them.} 33. Rd7
+Qe6 34. Qe2 $2 (34. Qa3 $1 Bh5 35. f3 {White is controlling the d-line and
+it's difficult to see how Black can open the g-line now.}) 34... Bh5 35. f3 Rg3
+$19 {Black played to attack so confidently that he managed to confuse even the
+best player in the world, Magnus. Thanks to White's bad coordination, Black
+can sacrifice the rook on h3, and then, checkmate White's king on g1.} 36. Kh2
+Qb6 37. c5 Qxc5 38. Kh1 Rxh3+ 39. gxh3 Qg1# 0-1
+
+[Event "RapidOpen"]
+[Site "Riyadh"]
+[Date "2017.12.26"]
+[Round "1.33"]
+[White "Mcshane Luke J (ENG)"]
+[Black "Khenkin Igor (GER)"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2697"]
+[BlackElo "2513"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "59"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 Bxc5 6. Bd3 Nc6 7. O-O f6 8. Qe2
+fxe5 9. Nxe5 Nxe5 10. Qxe5 Nf6 11. Nd2 O-O 12. Nf3 Bd6 13. Qe2 Qc7 14. Re1 e5
+$5 {Here the position for Black is critical because he has a lot of options.
+The fight will take place only on the e5-square. On one hand, White would like
+to control it with the pieces in order to establish a blockade and, on the
+other hand, Black would like to push it forward in order to mobilize his
+central pawns.} (14... Bd7 $5) (14... Ng4 {
+This is a tricky move which allows the Bxh7 sacrifice.}) 15. Nxe5 Re8 16. Bf4 (
+16. f4 $5 {
+This is an interesting alternative move in order to protect the knight on e5.})
+16... Ng4 {Diagram #} 17. Bxh7+ $1 {In order to find attacking moves, you have
+to think about the forcing moves and look at the moves that you can play on
+the opponent's territory. If you think like that, then you can find the Bxh7+
+move easily. Of course, before doing this move, you need to calculate the
+forcing variation.} Kxh7 18. Qd3+ {
+This is important in order to unpin the queen.} Kg8 19. Nxg4 {The rook on e8
+is unprotected, so White wins time to bring more pieces into the attack.} Rxe1+
+(19... Bxg4 20. Qxd5+ Kh7 21. Bxd6 $18 {White is three pawns up and he can
+continue the attack against Black's weak king.}) (19... Bxf4 20. Rxe8+ Kf7 21.
+Rae1 $18 {This is totally winning for White; that's why Black was forced to
+capture the rook on e1.}) 20. Rxe1 {White is threatening a check on d5 to win
+the bishop on d6, so Black tried to eliminate this threat.} Bxf4 21. Nf6+ $3 {
+An amazing sacrifice which wide opens Black's king. If Black accepts the
+sacrifice, then White will deliver checkmate.} Kf7 (21... gxf6 22. Qg6+ Qg7 23.
+Re8#) (21... Kh8 22. Qh7#) (21... Kf8 22. Nh7+ Kg8 23. Re8+ Kf7 24. Rf8+ Ke7
+25. Qg6 $40 {With a winning attack...}) 22. Nxd5 {The material is equal;
+however, White has very, very active pieces and a lot of threats. Black's
+problem is the unprotected king and the inactive rook on a8, which cannot
+participate in the defense.} Bxh2+ 23. Kh1 Qd6 24. Qf3+ {This is a nice check
+in order to unpin the queen. As we know, the queen is one of the most
+important pieces and we should keep it on the game.} Kg8 25. Re8+ Kh7 26. Qh5+
+{All these checks are deadly because they are forcing Black to make unique
+moves.} Qh6 27. Nf6+ $3 {Once again, it comes this brilliant check which has a
+devastating effect. Now Black is forced to take it, then he will be checkmated
+soon.} gxf6 28. Re7+ Kg8 29. Qxh6 Bf5 30. Qg7# 1-0
+

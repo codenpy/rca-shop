@@ -1,0 +1,92 @@
+[Event "Magnitogorsk"]
+[Site "Magnitogorsk"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Karpov, Anatoly"]
+[Black "Maksimov"]
+[Result "1-0"]
+[ECO "E87"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "119"]
+[EventDate "1961.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+
+1. e4 g6 2. d4 d6 3. c4 Bg7 4. Nc3 Nf6 5. f3 O-O 6. Be3 Nbd7 7. Bd3 e5 8. d5
+Nc5 9. Nge2 a5 10. Qd2 Nxd3+ 11. Qxd3 Nd7 12. O-O-O f5 13. Rdf1 f4 14. Bf2 Nc5
+15. Bxc5 dxc5 {Diagram #} 16. Kb1 $1 {This is a typical King's Indian Defense
+position in which, normally, Black attacks on the kingside and White on the
+queenside. However, here Karpov made the long castling, and Black's assault
+with the pawns on the kingside doesn't have so much sense. On the other hand,
+Black cannot use his bishop pair because the center is blocked. I hope you
+spot the breakthrough with d6; this is the main asset of White. However,
+before performing his main plan, d6, Karpov played some prophylactic moves.} (
+16. Rd1 $5) (16. h4 $5) (16. Nb5 $5) 16... a4 17. Rd1 Bd7 {It's important to
+react to your opponent's plans. It's clear that Black would like to sacrifice
+the pawns, a la Benko style, on the queenside. For that reason, he prepares
+himself by putting his king in a safer square.} 18. Ka1 $5 {
+Of course, White has other good possible alternatives.} (18. Nb5 $5) (18. a3 $5
+) 18... a3 19. b3 Rf6 20. Nc1 {This is a little difficult move to understand,
+but his aim is to regroup the pieces and put the knight on the d3-square. From
+d3, the knight will attack both c5 and e5. Unfortunately, White cannot make
+the breakthrough on e6 right now, but he may prepare it by doubling the rooks
+on the d-line.} b5 21. Nxb5 Bxb5 22. cxb5 Rb6 23. Ne2 {In a real game, you
+cannot prevent or control everything. For that reason, you should have a plan
+and adjust it according to your opponent's reactions. He returned the knight
+to e2 in order to overprotect his extra pawn.} Qb8 24. Nc3 $16 {
+White is a clear pawn up with technically a winning position.} Qa7 25. Qc4 Rd6
+26. Rc1 Rb8 27. Na4 Qa5 28. Rhd1 Rxb5 29. Nxc5 Rb4 30. Qc3 Qb6 31. Na4 Qb5 32.
+Qxc7 Bf8 33. Qc5 Qb7 34. Qc3 Rxa4 35. bxa4 Rd8 36. Qb3 Qa6 37. d6+ Kh8 38. d7
+Qe2 39. Rc8 Be7 40. Kb1 Kg7 41. Rxd8 Bxd8 42. a5 Kh6 43. g4 Kg7 44. h4 h6 45.
+Kc1 g5 46. hxg5 hxg5 47. Qxa3 Qc4+ 48. Kb1 Qb5+ 49. Qb3 Qxa5 50. a4 Kf8 51. Ka2
+Qa7 52. Qb4+ Kg7 53. Rd5 Qf2+ 54. Qb2 Qxf3 55. Rxe5 Kg6 56. Re8 Qxg4 57. Rxd8
+Qe6+ 58. Qb3 Qxe4 59. Rg8+ Kf5 60. d8=Q 1-0
+
+[Event "Biel"]
+[Site "Biel"]
+[Date "1990.??.??"]
+[Round "7"]
+[White "Karpov, Anatoly"]
+[Black "De Firmian, Nick E"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2730"]
+[BlackElo "2560"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "85"]
+[EventDate "1990.07.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "SUI"]
+[EventCategory "14"]
+[Source "ChessBase"]
+[SourceDate "1990.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. h3 a6 8. a4 Qe7
+9. Bg5 Nbd7 10. e3 Bg7 11. Be2 O-O 12. O-O h6 13. Bh4 Ne5 {Diagram #} 14. Nd2 {
+A really strong and difficult move to spot if you don't play 1.d4. The idea is
+to prevent Nh5; I mean Black was threatening to play g5, Bg3 and Nh5.Similarly,
+the knight is aiming at the c4-square. Please also note that the f-pawn is not
+free and it might advance to f4. Thus, Karpov played a prophylactic move that
+promotes his strategical plan.} g5 15. Bg3 Re8 {Diagram #} 16. Re1 {Another 
+prophylactic move. He's overprotecting his e-pawn, freeing the f1-square for 
+the bishop, and keeping his pieces harmonically placed.} Rb8 17. a5 $1 {Another 
+prophylactic move! It's important to prevent your opponent plans, if you can. 
+The position is blocked, so White cannot prepare any immediate attack on the 
+week pawn or square; thus, it's important to prevent the opponent's activity.} 
+Bf5 (17... b5 18. axb6 Rxb6 19. Bxe5 Qxe5 (19... dxe5 20. Nc4 $16) 20. Nc4 $18) 
+18.e4 {Once again, he tried to disorganize Black's pieces and win more space.
+Please notice that this move is possible because he can overprotect his
+e4-pawn many times. Such moves are not possible if you didn't perform
+prophylactic moves earlier.} Bg6 19. Ra4 $16 {The position is complete, but
+White has the upper hand thanks to his space advantage and more active pieces.
+Karpov overprotects everything in his position and stops Black's main
+breakthrough on b5. After a fighting game, he manages to win.} Nfd7 20. Qc2
+Rbc8 21. b3 Qf8 22. Nf1 f5 23. exf5 Bxf5 24. Qd2 Nf6 25. Ne3 Bg6 26. f4 Nf7 27.
+Bf2 gxf4 28. Rxf4 Qe7 29. Nf5 Bxf5 30. Rxf5 Qc7 31. Qf4 Nh7 32. Ne4 Ne5 33. Rf1
+Rf8 34. Be1 b5 35. axb6 Qxb6 36. Kh1 Kh8 37. Qg3 Rxf5 38. Rxf5 Rg8 39. Qe3 a5
+40. Bg3 Rb8 41. Nxd6 Qxd6 42. Rxe5 Qf8 43. Re6 1-0
+

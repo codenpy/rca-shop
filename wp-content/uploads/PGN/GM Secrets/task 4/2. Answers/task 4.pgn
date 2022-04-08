@@ -1,0 +1,390 @@
+[Event "Ingulskij most (open)"]
+[Site ""]
+[Date "2007.06.??"]
+[Round "9"]
+[White "Stopkin Vladimir (UKR) "]
+[Black "Smirnov Igor"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.d3 c5 6.Nbd2 Nc6 7.e4
+b6 8.Re1 Bb7 {
+ (black use the principle of flexibility - black develop the minor pieces and
+then will decide which castling is better depending on the concrete situation)}
+9.e5 Nd7 10.Nf1 g5 {(an attacking move. Usually we may attack only after the finishing of the
+main opening's tasks, but in this game white made a lot moves with the single
+knight, so black can use it to start an attack immediately)}
+( 10...Qc7 {%04!?} 11.Bf4 h6 12.h4 g5 13.hxg5 hxg5 14.Nxg5 Ncxe5
+{%04=} ) 11.h3 ( 11.Ne3 Qc7 12.c4 d4 13.Ng4 Rg8 
+) h5 12.N1h2 Rg8 ( 12...Qc7 13.Bxg5 Bxg5 14.Nxg5 Ndxe5 15.Nhf3
+{%04=} ) 13.g4 hxg4 {
+ (that breaks the principle of keeping the tension, but here black is going to
+open the position on the king-side and also black need to defend the h5 pawn)}
+( 13...Qc7 {%04!?} 14.gxh5 {%04?!} ( 14.Qe2 hxg4 15.Nxg4 O-O-O ) Ncxe5 15.Ng4 Nxf3+ 16.Bxf3 O-O-O $15 ) 14.Nxg4
+( 14.hxg4 {%02? (the knight h2 will be very passive)} Qc7 15.Qe2
+Ndxe5 {%02 (the forcing move)} 16.Nxe5 Nxe5 17.Qxe5 Bd6 18.Qf6
+Bxh2+ $17 ) Qc7 15.c3 O-O-O 16.a3 {%02?! (another pawn move)}
+( 16.d4 {%04!?} Kb8 17.Bd2 Ba6 {%02= (maximum activity)} )
+( 16.Bd2 {%02 development} {%03'better is'} ) f5 {%02
+ ! (black have finished the realisation of the main opening's tasks, so it is
+time to attack. To start an attack we should open the position with the pawn moves)}
+17.exf6 Nxf6 18.Rxe6 ( 18.Nxg5 {%04!?} Nxg4 19.Qxg4 Kb8 20.Rxe6
+Rdf8 $45 ) Nxg4 {%02 (the forcing move)} 19.hxg4 Qd7 {%02 (an attacking move again)}
+( 19...Kb8 {%04!?} 20.Qe2 $13 ) 20.Qe2 Rde8 {%02 (principle of the least active piece and prepare to neutralize the white's rook)}
+21.Nh2 {%02? (the move back)} ( 21.Bxg5 {%04?} Bxg5 22.Nxg5 Rxe6
+23.Nxe6 Re8 24.Re1 Nd8 25.g5 Qxe6 26.Qxe6+ Nxe6 27.Bh3 Kd7 $19 )
+( 21.Bd2 {%02 (ïïô - ðàçâèòèå)} Nd8 22.Re3 d4 23.cxd4 cxd4 24.Rc1+
+Kb8 25.Nxd4 ( 25.Ne5 {%04!$14} ) Bxg2 26.Nf5 Bf6 27.Kxg2 Ne6 )
+Bd6 22.Rxe8+ Rxe8 23.Qd1 ( 23.Qf3 {%04?} Re1+ 24.Nf1 Ne5 $19 )
+Rh8 {%02 (an attack)} ( 23...Bxh2+ {%02? (the bishop is much more active)}
+24.Kxh2 Ne5 25.Bxg5 $13 ) 24.Nf1 Ne5 {%02 (maximum activity)}
+25.Bxg5 Nxg4 ( 25...d4 {!? (opening of the position)} 26.Bxb7+
+{%04?} ( 26.cxd4 {%04?} Bxg2 27.Kxg2 ( 27.dxe5 Ba8 $19 ) Qh7
+28.Ng3 Qh3+ 29.Kg1 Nxg4 30.Qf3 Bxg3 31.Qa8+ Kc7 32.Qxa7+ Kc6
+33.d5+ Kxd5 34.Qd7+ Bd6 $19 ) ( 26.Bf6 {%02! (an attack and this help white to exchange the pieces)}
+Bxg2 27.Kxg2 ( 27.Bxh8 {%04?} Bf3 28.Qd2 Qh7 29.Ng3 Nxg4 $19 )
+Rg8 28.Bxe5 Bxe5 29.Qf3 Qxg4+ $15 ) Qxb7 $19 ) 26.f4 {%02! (close the diagonal h2-b8)}
+( 26.Qf3 {%04?} Rg8 $17 ) Nh6 {%02! (now black need to neutralize the white's bishop g5, which is on the black's territory)}
+( 26...d4 {%04?!} 27.Bxb7+ Kxb7 28.Qf3+ Kb8 29.cxd4 cxd4 30.Re1
+{%04=} ) 27.Qf3 Nf7 28.Re1 Kb8 {%02 (removing the tactical weakness)}
+( 28...Rg8 {?} 29.Bh3 $18 ) 29.Re2 Qf5 {%02 (an attack and move forward)}
+( 29...Rg8 {%04?!} 30.Qh5 Nxg5 31.fxg5 Qd8 32.Re6 Rxg5 33.Rxd6
+Rxg2+ 34.Kxg2 d4+ 35.Kf2 Qxd6 36.Qh2 {%04=} ) 30.Ng3 Qg6
+( 30...Nxg5 31.Nxf5 Nxf3+ 32.Bxf3 Bxf4 {%04=} ) 31.Qg4 {%04?}
+( 31.Be7 Rg8 32.Bxd6+ {%04?} ( 32.Kf2 Bc7 ) Nxd6 {%02'with the idea' d4$17}
+) Nxg5 32.fxg5 Bc8 33.Qf3 Qxg5 34.Z0 ( 34.Nf1 Bg4 35.Qe3 Bf4
+$19 ) 0-1
+
+[Event "Vasylyshyn memorial"]
+[Site ""]
+[Date "2007.11.01"]
+[Round "1"]
+[White "Smirnov Igor"]
+[Black "Kislinsky Alexey"]
+[Result "1-0"]
+[ECO "B78"]
+[WhiteElo "2439"]
+[BlackElo "2436"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4
+O-O 8.Bb3 {%02
+ (black has a lot of ideas how to attack this bishop: Ne4 following by d5; Ne5;
+Rc8 in the future. That's why it is better for white to retreat with the bishop
+immediately. As you can see it breaks the principle of the least active piece,
+but white have done it due to the concrete tactical reasons)}
+d6 ( 8...Ng4 {%02!? (an attack)} 9.Qxg4 Nxd4 10.Qd1 {%02 (neutralizing the knight)}
+Nc6 {=} ) 9.f3 {%02 (stop the move Ng4 and helps white to push g4 in the future)}
+Bd7 10.h4 {%02
+ (white is trying to start an attack immediately. This should not be a good
+idea objectively (because white still didn't finish the main opening's tasks)
+but practicaly an aggressive strategy often brings the good results)}
+h5 11.Qd2 Rc8 12.O-O-O Ne5 13.Bg5 {%02
+ (maximum activity. The white's plan is to attack on the king-side. So white is
+starting to concentrate the pieces there. In some lines white can exchange the knight f6, which protect the black's king)}
+Rc5 {%02 (maximum activity. It is still a theory by the way)}
+14.f4 {%02!? (an attacking move. To start the direct attack we should open the position, so to move the pawns forward)}
+Neg4 15.e5 {%02! (positional sacrifice. It is really easy to find it, because it is the ONLY attacking move)}
+dxe5 16.fxe5 Rxe5 ( 16...Nxe5 {%02 (centralization, so this should be better)}
+17.Nf3 {%02 (attacking the bishop d7)} ( 17.Bxf6 {%02? (exchange one of the black's defenders, but loose the bishop)}
+Bxf6 18.Nf3 Nxf3 19.gxf3 Bxc3 {%02 (the forcing move)} 20.bxc3
+Rc7 {%02 (material)} 21.Ba4 {%02 (attack)} Qa8 ( 21...b5 {%02!?$45 (positional sacrifice to open up the position)}
+) 22.Bxd7 Rd8 23.Rhe1 {%02 (least active piece)} e6 {%02 (keeping the material)}
+24.Rxe6 {%02 (the forcing move)} Rdxd7 25.Rd6 {%02 (an attack)}
+Rxd6 26.Qxd6 Qc8 {%02$15 (least active piece)} ) Neg4
+( 17...Nxf3 {%02? (doesn't work)} 18.gxf3 Rc7 19.Bxf6 {%02 (eliminate the defender)}
+exf6 ( 19...Bxf6 20.Nd5 $18 ) 20.Rhe1 {%02!$36$14 (principle of the least active piece. Principle of flexibility - white has many threats then)}
+( 20.Nb5 {%04!?} Bxb5 21.Qxd8 Bh6+ {%02 (the forcing move)} 22.Kb1
+Rxd8 23.Rxd8+ Kg7 {%02$14\=} ) ( 20.Ba4 {%02? (an attack, but it doesn't work)}
+b5 {%02! (positional sacrifice for opening of the position)}
+21.Bxb5 Qb8 22.Bxd7 Rd8 {%02$37$45} ) ) 18.Rhe1 {%02 (the least active piece)$44}
+) 17.Nf3 {%02 (an attack)} Rc5 18.Rhe1 {%02 (least active piece)}
+Rc8 {%02? (too many moves with the rook - it breaks the principle of the least active piece)}
+( 18...Qe8 {%04?!} 19.Ne4 {%02 (attack)} Rc7 20.Nxf6+ Nxf6 21.Bf4
+Rc8 22.Qb4 {%02 (attacking of material)} e6 23.Qxb7 Bc6 {%02 (an attack, move forward)}
+24.Qxa7 Ra8 {%02 (an attack and neutralize the white's queen, which is on the black's territory of the board)}
+25.Qc5 {%02$14 (maximum activity)} ) ( 18...e6 {%02! (remove the pawn from the attack of the white's rook)}
+19.Ne4 {%02 (an attack)} ( 19.Bxf6 Nxf6 20.Ne5 Rxe5 {%02! (Rc7 would be too passive)}
+21.Rxe5 Qb6 $45 ) Rc7 20.Nxf6+ Bxf6 ( 20...Nxf6 {%04?} 21.Ne5
+{%02$18 \} ) 21.Bf4 e5 22.Rxe5 {%02 (white wants to save the bishop, because it will attack the rook c7)}
+Bc6 23.Qxd8 Bxd8 24.Ra5 {%02 (an attack, maximum activity)} Rd7
+{%02 (attack, neutralizing of the white's rook a5)} 25.Rxa7 Rxd1+
+26.Kxd1 Bb6 27.Ra3 Rd8+ 28.Kc1 Bc5 29.Ng5 {%02 (attack)} Rf8
+30.Ra5 Bb4 31.Ra7 Bc5 {%04=} ) 19.Bxf6 {%02 (the most forcing move, which white need to calculate first of all)}
+( 19.Ne4 {%04?} Bc6 $15 ) Nxf6 20.Ne5 {%02 (attack)} Kh7 {%04?!}
+( 20...Bf5 {%02(saving the bishop)} 21.Qxd8 Rfxd8 22.Rxd8+ Rxd8
+23.Nxf7 Rb8 24.Rxe7 $14 ) ( 20...Be6 {%04?} 21.Qe3 {%02 (an attack)}
+Qe8 22.Nxg6 {%02 (the forcing move)} fxg6 23.Bxe6+ Kh7 24.Qxa7
+{%02$16 (material)} ) 21.Nxd7 Bh6 22.Nxf6+ exf6 23.Qxh6+ Kxh6
+24.Rxd8 Rcxd8 25.Re7 {%02 (attack and maximum activity)} Rd4
+( 25...Rfe8 26.Rxe8 Rxe8 27.Bxf7 $16 ) 26.g3 {%04!?}
+( 26.Bxf7 {%02! (it is even more aggressive. Usually we should take if we can)}
+Rxh4 27.Rxb7 Rg4 28.Bd5 a5 29.Bf3 {%02$16 (neutralizing of the rook)} )
+Rfd8 27.Bxf7 {%02 (winning the material)} ( 27.Rxb7 Rg4 28.Ne2
+{%04?} Re4 $19 ) b5 28.Re1 {%02
+ (the side with an advantage should try to save the pawns, not to exchange
+them. Probably in the future he will simply win the opponent's pawns)}
+b4 29.Nd1 {%02? (breaks the principle of maximum activity - it is the move back)}
+( 29.Ne4 {%02? (creats the tactical weakness)} Kg7 30.Be6 Re8
+31.Nc5 f5 {%02$131 (black is preparing the counterplay on the king-side)}
+) ( 29.Nb5 {%02! (maximum activity)} R4d7 ( 29...Rg4 30.Nxa7
+Rd7 31.Be6 Rxa7 32.Bxg4 hxg4 33.Re4 $16 ) 30.Be8 Rxe8
+( 30...Rg7 {%04?} 31.Re6 {$18\} ) 31.Rxe8 a6 32.Re6 axb5 33.Rxf6
+$18 ) Rg4 {%02
+ ? (it is an attacking move, but it is a SINGLE attacking move, without
+composing the plan. So white can defend easily. The correct plan for black - is to use his pawns majority on the king-side)}
+( 29...f5 {%02!$131} ) 30.Re3 Rgd4 31.Nf2 a5 ( 31...Rd2 32.Nd3
+Rg2 33.b3 $16 ) 32.Re2 {%02
+ ! (the correct plan for white (as usual in the endgames) is to use the passed
+pawn. White has the "c" pawn without counterpart, so white should push it
+forward. The move Re2 protect the second rank and not allow the black's rook to go there.)}
+a4 33.c3 {%02 (an attack, using of the passed pawn and neutralize the black's rook)}
+R4d7 34.Be8 {%02 (maximum activity)} Rc7 35.Bxa4 {%02 (take)}
+( 35.Kc2 {%04!?} a3 36.Bb5 axb2 37.c4 $16 ) bxc3 36.Kc2 {%02 (neutralize the black's pawn on the white's territory and increase the tension)}
+( 36.b3 {%02!?$16 (white should save the pawns)} ) cxb2+ 37.Kxb2
+f5 {%02 (now white should use the passed pawn on the "a" line)}
+38.Bc2 Rb7+ 39.Kc1 Ra7 40.a4 Rc8 41.Kd2 Rac7 42.Bd3 Rc1 43.Re1
+{%02?! (neutralize an activity of the black's rook on the white's territory, but white had more aggressive idea)}
+( 43.a5 {!} Rg1 44.Re3 Ra1 45.a6 Ra2+ 46.Ke1 Rc1+ 47.Nd1 {%02$16\$18} )
+R1c5 {%02? (it allows white to play Re6 - on the black's territory)}
+44.Re6 {%02 (maximum activity and prepare an attack of the weak pawn g6)}
+Rd8 45.Nh3 Rc4 46.Nf4 Rxa4 47.Rxg6+ Kh7 48.Rg5 Re8 49.Rxh5+ Kg7
+50.Rg5+ Kh6 51.Rh5+ Kg7 52.Rxf5 Ra2+ 53.Kc3 Ra3+ 54.Kb4 Rea8
+55.Rd5 Kf6 56.Kc5 Ke7 57.Re5+ Kf6 58.Rf5+ Kg7 59.Kd4 1-0
+
+[Event "round robin"]
+[Site ""]
+[Date "2006.11.??"]
+[Round "?"]
+[White "Smirnov Igor"]
+[Black "Mohannad Alqasem (JOR) "]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O
+Bd6 8.Nc3 {%02! (Principle of the least active piece and neutralize the knight e4)}
+( 8.Qh5 {%02 (it is a premature attack)} O-O {%02! (after the mistakes of the opponent - you should not defend. You should find the way how to attack)}
+9.Qxd5 Bc6 10.Qh5 g6 11.Qh6 Re8 12.Nc3 Bf8 13.Qf4 Bd6 {%04=} )
+Nxc3 9.bxc3 O-O 10.Qh5 {%02
+ (White makes double attack to weakening the black's position. White nearly
+finished the opening's tasks, so this attack works well)} f5
+11.Re1 {%02 (in this position rook is more passive than bishop c1)}
+( 11.Rb1 {%04!?} b6 12.Re1 c6 13.Bg5 Qc7 {%04=} ) ( 11.Bg5 {%04!?}
+Qe8 12.Qf3 Qf7 ( 12...Qg6 {%02! (maximum activity)} 13.Bf4 Bxf4
+14.Qxf4 Qc6 15.Rab1 a6 16.Rfe1 Rae8 17.c4 dxc4 18.d5 Qd6 {%04=} )
+13.Bf4 Rae8 14.Rfe1 {%04=} ) Qf6 12.Qf3 {%02
+ (this attacking move prepares an exhange of the black-squared bishops after
+Bf4, which will make it easier for white to use an "e5" weakness)}
+f4 {%02? (loosing the material)} ( 12...c6 {%04!?} 13.Bf4 Rae8
+14.Qg3 Bxf4 15.Qxf4 {%02$14\=} ) 13.Qxd5+ Kh8 14.Qxb7 {%02!$16(we should take the material)}
+Qh4 ( 14...f3 15.g3 $16 ) ( 14...Rab8 15.Qd5 $16 ) 15.Bd2 {%02 (black doesn't create the REAL threats, so white should not defend)}
+Rab8 ( 15...f3 {%04!?} 16.g3 Qh3 17.Bf1 Qf5 18.Qe4 Qxe4 19.Rxe4
+Bf5 20.Re3 Bxc2 21.Bb5 {%02 (threatening Bc6)} Rf6 22.Rae1 {%02 (The least active piece)}
+Bg6 23.c4 {%02$16 (using the pawns majority)} ) 16.Qd5 {(maximum activity)}
+( 16.Qf3 {!?} g5 {%04?!} 17.Rab1 {%02 (ignoring the black's incorrect attack)}
+g4 18.Qd5 g3 19.fxg3 fxg3 20.h3 {%02$16 (since white's pieces are more active any black's attack can not be effective)}
+) Rf6 ( 16...f3 17.g3 Qh3 18.Bf1 Qf5 19.Qxf5 Bxf5 20.Rab1 {%02 (the least active piece)}
+Bxc2 21.Rxb8 Rxb8 22.c4 $16 ) 17.g3 {%02!$16 (black has a queen and a pawn on the white's territory, so white need to solve this problem)}
+( 17.Rab1 {%04!?} Rbf8 18.c4 {%04?} ( 18.h3 Bxh3 19.Rb5 Qg4 20.Qf3
+$16 ) Rh6 19.h3 Bxh3 20.gxh3 Qxh3 21.Qg2 Qxg2+ 22.Kxg2 f3+ 23.Kg1
+Bh2+ 24.Kf1 Bf4 {%04=} ) Qh3 ( 17...fxg3 18.fxg3 Qh3 19.Rab1
+( 19.Rf1 {%04?} Bxg3 ) Rbf8 20.Rf1 $16 ) ( 17...Qg4 {%04?!} 18.f3
+{%02 (the defender should close the position)} Qh3 19.Bf1 Qf5
+20.Qxf5 Bxf5 21.Bxf4 {%02 (take)} Bxf4 22.Rab1 {%02 (in the tactical positions with should find all the forcing moves-candidates)}
+Rd8 23.gxf4 Bxc2 24.Rb7 $18 ) 18.Qg2 Qh5 19.gxf4 Bg4
+( 19...Bxf4 {%04?!} 20.Re7 Rf7 21.Rxf7 Qxf7 22.Qe4 g5 23.Bxf4
+gxf4 24.Qe5+ $16 ) ( 19...Bf5 {%04!?} 20.Bxf5 Qxf5 21.Qe4 Qxe4
+22.Rxe4 Rb2 23.Re8+ Rf8 24.Rxf8+ Bxf8 {%02 (white is exchanging the pieces, because it make it easier for him to realise the material advantage then)}
+25.Kf1 Rxc2 26.Ke2 Kg8 27.Kd3 Rb2 28.a4 $16 ) 20.Rab1 Rbf8 21.Rb5
+c5 {%02? (loosing the material)} ( 21...Bf5 22.Bxf5 Rxf5 23.Rxf5
+Qxf5 24.Qe4 $16 ) 22.dxc5 $18 Bxf4 23.Bxf4 {%02!? (it is a forcing move, which helps white to neutralize an attack, but white has more aggressive way)}
+( 23.c6 {!} Qh6 24.Bxf4 Rxf4 25.c7 Bc8 26.Rb4 $18 ) Rxf4 24.Rb4
+Bf3 25.Qg3 g5 26.Re7 h6 27.Bf1 {%02 (the white's position is definitely winning, so white simply should play accurately)}
+Bc6 28.Rxf4 Rxf4 29.h3 Be4 30.Qe3 Qh4 31.Qd4+ 1-0
+
+[Event "round robin"]
+[Site ""]
+[Date "2006.11.??"]
+[Round "?"]
+[White "Frhat (EGY) "]
+[Black "Smirnov Igor"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 {%02
+ (Though it is the main line in Paulsen variation of Sicilian defence, black
+have broken the principle of the least active piece several times already. You
+can see that if you understand the chess game well, you will know better how to
+play openings, than a lot of other people, who follow the books reccommendations.)}
+6.Bd3 Nc6 7.Be3 Nf6 8.O-O Bd6 {%02 (An attack)} 9.h3 b5 {%02 (The preparation for development)}
+10.a3 ( 10.Nxc6 dxc6 {%04!?} ( 10...Qxc6 {! (we should move the PIECES first of all)}
+11.a3 ( 11.f4 {%04?!} b4 12.Ne2 Nxe4 {%02 (take)} 13.Bxe4 Qxe4
+14.Qxd6 Qxe3+ 15.Rf2 a5 16.Nd4 Ra6 17.Qc7 O-O {%02=\$15} ) Bb7
+12.f4 e5 13.f5 Bc5 {%02(it is an attacking move and it helps black to exchange the white's good bishop)}
+14.Qf3 O-O {%04=} ) 11.f4 e5 12.f5 Bb7 13.Qf3 O-O {%04=} )
+( 10.Bxb5 {? (it is a forcing move, so white should consider it. But it doesn't work now)}
+Nxd4 11.Bxd4 ( 11.Qxd4 axb5 12.Nxb5 Bh2+ 13.Kh1 Qb8 14.Qb4 Ba6
+15.a4 Bc7 $15 ) axb5 12.Nxb5 Bh2+ 13.Kh1 Qb8 14.a4 Bc7 {%02$15\$17} )
+( 10.f4 {%04?!} Nxd4 11.e5 Bc5 {%04!?} 12.exf6 Nxc2 13.fxg7 Bxe3+
+14.Kh1 Rg8 15.Bxc2 Rxg7 16.Qf3 Bb7 17.Qxe3 Bxg2+ 18.Kh2 Bxf1
+19.Rxf1 Rc8 {%04=} ) Bb7 ( 10...Nxd4 {%02!? (it also enough for getting an equal position, but we usually need to keep the tension)}
+11.Bxd4 Bb7 12.Qe2 e5 13.Be3 Bc5 14.Bg5 Qc6 15.Kh1 h6 16.Be3
+( 16.Bh4 g5 17.Bg3 Bd4 18.Rae1 O-O {%04=} ) O-O {%04=} ) 11.Qd2
+( 11.Nb3 Be7 ( 11...Bf4 {%04!?} ) 12.f4 d6 13.Qf3 O-O 14.Rae1
+b4 15.axb4 Nxb4 {%04=} ) ( 11.Nxc6 Qxc6 12.Qd2 Be5 13.f3 O-O
+{%04=} ) ( 11.Bxb5 {%04?} Nxd4 12.Bxd4 ( 12.Qxd4 {%04?} Be5 {%02$17\$19}
+) axb5 13.Nxb5 Bh2+ 14.Kh1 Qc6 15.Kxh2 Qxb5 {%02$17\$19} ) O-O
+{%02 (black has finished the main opening's tasks)} 12.Nde2 {%02 (breaks the principle of maximum of activity)}
+( 12.Nxc6 Qxc6 13.Bg5 {%02
+ ?! (there is one of the strategy rules, which says: "the side with an
+advantage should start an attack". So when your opponent has no advantage in activity, his attack would not be effective.)}
+( 13.f4 e5 {%04=} ) Be5 14.Rae1 Rac8 15.f4 Bxc3 16.bxc3 Qxc3
+17.Qe2 h6 18.Bh4 d5 $15 ) Be7 {%02
+ (In the middlegame we should open the position and start an attack. So black
+is preparing the pawn moves in the center. Because we should attack in the center most of all.)}
+( 12...Ne5 {%02!? (attacking the bishop)} 13.f4 Nxd3 14.cxd3
+Be7 15.Rac1 Qb8 {%04=} ) 13.f4 d5 ( 13...e5 {%02!? (this also helps to limit an activity of the white's pieces)}
+14.Rad1 ( 14.Nd5 Nxd5 15.exd5 exf4 {%02 (counterblow!)} 16.Nxf4
+Ne5 {%02=\$15} ) ( 14.f5 {%02?! (to passive)} Na5 {%02=\$15} )
+( 14.a4 b4 15.Nd5 Nxd5 16.exd5 exf4 17.Nxf4 Ne5 {%04=} ) exf4
+15.Nxf4 Ne5 16.Nfd5 Nxd5 17.Nxd5 Bxd5 18.exd5 Bc5 {%04=} ) 14.e5
+( 14.exd5 exd5 ( 14...Nxd5 15.Nxd5 exd5 16.Nd4 Bf6 17.c3 Na5
+{%04=} ) 15.Nd4 Nxd4 16.Bxd4 Ne4 17.Qe3 Rfe8 {%04=} ) Ne4 {%02! (we should calculate all the forcing moves, including the moves, which looks impossible)}
+( 14...Nd7 {%04!?} 15.Nd4 Nc5 16.Be2 Rad8 {%04=} ) 15.Bxe4
+( 15.Nxe4 {%04?!} dxe4 16.Bxe4 Nxe5 17.Bxb7 Nc4 18.Qd3 Qxb7 {%02=\$15}
+) ( 15.Qe1 {?!} Na5 $15 ) dxe4 16.Ng3 ( 16.Nxe4 {%04?} Nxe5 $15 )
+Na5 {%02 (to start an attack we should bring the pieces on the opponent's territory)}
+( 16...Rfd8 {%04?!} 17.Qf2 {%02$14\=} ) 17.Ncxe4 ( 17.Ngxe4 Nc4
+18.Qc1 Rfd8 {%02$45$37} ) Rfd8 {%02 (black has several good moves here. In the situations like this you should quickly make one of the moves)}
+( 17...Rac8 {%04!?} 18.Rad1 ( 18.Rf2 {%04!} Rfd8 19.Qe2 Nc4 20.c3
+Nxe3 21.Qxe3 Qc4 ) Nc4 19.Qc3 b4 20.axb4 Bxb4 21.Qxb4 Nxe3 $15 )
+( 17...Nc4 {%04?!} 18.Qc3 Rac8 19.Bd4 Rfd8 20.Rad1 ) 18.Qf2
+( 18.Bd4 Rac8 19.Rac1 h5 {%02!$15 (an attack)} ) Nc4 19.Bd4
+( 19.b4 h5 20.Nc5 Bxc5 21.bxc5 Qc6 22.Rfe1 h4 23.Nf1 Nxe3 24.Nxe3
+Qxc5 25.Qxh4 Rd2 $15 ) Bh4 {%02 (An attack and move forward on the white's territory)}
+20.Nd6 Nxd6 21.exd6 ( 21.Bb6 {%04?} Qc6 22.Bxd8 Bxd8 23.exd6
+Bb6 $19 ) Qxd6 22.c3 Qc6 23.Kh2 {%04?} ( 23.Rad1 $15 ) Rd6 {%02
+ ! (black is attacking the king-side, so he need to concentrate the pieces
+there. Rd6 move prepares a transfer of the rook on "g6".)} 24.Qf3
+( 24.Rg1 {%04?} e5 25.Bxe5 Rd3 26.f5 Re8 27.Bf4 Re4 $17 ) Bxg3+
+( 24...Qxf3 {%04?} 25.gxf3 Bf6 $15 ) 25.Kxg3 Qd7 26.Qg4 f5 27.Qe2
+e5 {%02 (all the forcing moves)} 28.Bxe5 ( 28.fxe5 Rg6+ 29.Kf4
+Rxg2 30.Rf2 Rg6 31.Ke3 Be4 32.Kd2 Qe6 {%02$37$17} ) Rg6+
+( 28...Rd3+ {%04?} 29.Kh2 Rd2 30.Rad1 Rxe2 31.Rxd7 Rxg2+ 32.Kh1
+Bc6 33.Rd6 Be4 $15 ) 29.Kh2 Rxg2+ 30.Qxg2 Bxg2 31.Kxg2 Rd8 32.Bd4
+Qd5+ 33.Kg3 {%04?} ( 33.Kh2 Re8 $19 ) Qb3 {%02 (An attack, the most forward move)}
+34.Rad1 Qxb2 35.Be5 Rxd1 {%04?!} ( 35...Rd2 {%02! (the black's position is winning in all the lines certainly. But objectively it is better to keep the tension.)}
+) 36.Rxd1 Qxa3 37.Rd7 b4 {%02 (In the endgame we should use the passed pawns)}
+38.Rxg7+ Kf8 39.Kh4 b3 {%02 (2 connected passed pawns is a great power in the endgame, because it gives a good chance to promote the new queen.)}
+( 39...bxc3 {%04?} 40.Rc7 ) 40.Rb7 Qa2 41.Rb8+ Ke7
+( 41...Kf7 {%02! (black has a sudden idea to play against the white's king)}
+42.c4 Qf2+ 43.Kh5 ( 43.Kg5 Qg3+ 44.Kh5 Qxh3+ 45.Kg5 h6# ) Qf3+
+44.Kh4 a5 45.c5 a4 $19 ) 42.c4 a5 {%02? (before starting to realize your plan in the endgame it is better to put all the pieces on the most active positions.)}
+( 42...Qf2+ {%02 (the forcing move, which helps black to make the queen more active)}
+43.Kh5 Qf3+ 44.Kh4 a5 $19 ) 43.Rb7+ Kd8 44.Rb8+ Kd7 45.Rb7+ Kc8
+46.Rb8+ Kd7 47.Rb7+ Kc6 48.Rc7+ Kb6 49.c5+ Kb5 50.c6 Qf2+ {%02 (The forcing move)}
+51.Kg5 Qg3+ 52.Kf6 Qg8 {%02 (It stop the white's idea Rc8 and c7)}
+53.Ke7 a4 54.Kd7 Qf7+ 55.Kd8 ( 55.Kd6 Qf8+ 56.Kd7 Kc5 $19 ) Qd5+
+56.Ke7 a3 57.Rc8 Qxc6 0-1
+
+[Event "Sevastopol (Ukraine)"]
+[Site ""]
+[Date "2008.06.??"]
+[Round "?"]
+[White "Smirnov Igor"]
+[Black "Computer"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 {%02 (An attack and neutralizing the black's bishop on the white's territory)}
+Ba5 6.b4 {%02 (An attack. It is a positional sacrifice. It is easy to find it, if you try to look at the attacking moves.)}
+cxd4 ( 6...cxb4 7.Nb5 bxa3+ 8.c3 {%02 (Then white is going to play Nd6+ and Ba3. This will give white very aggressive position.)}
+) 7.Qg4 {%02 (An attack again. In the forcing positions we should realize ALL the moves-candidates first.)}
+Kf8 8.bxa5 {%02 (winning the bishop, so this should be better than simple move of the knight)}
+( 8.Nb5 {!? (the move forward)} Bb6 {%02 (maximum activity)}
+9.Nf3 Nc6 10.Bd3 Nge7 11.O-O {%02 (all the development moves)}
+Ng6 $131 ) dxc3 9.Nf3 {%02 (Least active piece)} ( 9.Qb4+ {%02? (breaks the principle of development)}
+Ne7 10.Nf3 Nbc6 11.Qxc3 Qxa5 {%04=} ) Ne7 ( 9...Nc6 10.Bd3
+( 10.a6 {%02!? (trying to save the material)} Nge7 {%02 (development)}
+11.Rb1 {%02 (an attack, least active piece)} bxa6 12.Bd3 Ng6
+{%02 (an attack)} 13.Qg3 Qc7 {%02 (attack)} 14.O-O { (development)}
+Ncxe5 {%02 (âçÿòü)} 15.Nxe5 Qxe5 16.f4 Qc7 17.Be3 {%02 (least active piece)$44}
+) f5 {%02 (an attack and black tryies to close the position, which is good for defence)}
+11.Qg3 Qxa5 12.O-O Nge7 13.Rb1 {%02$44 (least active piece)} )
+( 9...Qxa5 {%02?! (winning the material, but in the sharp positions an activity of the pieces should be more important factor)}
+10.a4 {%02! (Principle of the least active piece and it is preparing an attack)}
+( 10.Bd3 {%04?!} Nd7 {%02'with the idea' Nñ5$131} ) Nc6 11.Ba3+
+Nge7 12.Bd3 Kg8 13.O-O Ng6 14.Bd6 $36 ) 10.Bd3 {%02 (development)}
+( 10.Qb4 {%02?! (breaks the principle of development and too slow for this tactical position)}
+Nbc6 11.Qxc3 Qxa5 12.Bd2 {%02 (íàãíåòàþ)} Qxc3 13.Bxc3 {%04=} )
+Nd7 {%02?! (breaks the principle of maximum activity)}
+( 10...Nbc6 {!} ) ( 10...Qxa5 {!?} ) 11.O-O ( 11.Bg5 {%02? (breaks the principle of the least active piece)}
+h6 {%02 (attack)} 12.Bh4 {!?} ( 12.Bxe7+ {%03'better is'} Qxe7
+13.O-O Nc5 14.Qd4 {=} ) Nc5 13.Qd4 Qxa5 $15 ) ( 11.Qb4 {%02!? (wants to take the material and also limit the black's activity: stop Nc5 and moving of the knight e7)}
+Qc7 12.O-O Qc5 {%02 (neutralizing the white's queen, which attacks the black's territory)}
+( 12...Nxe5 13.Nxe5 Qxe5 14.Bf4 $18 ) 13.Re1 {%02 (least active piece and keeping the tension)}
+Nc6 14.Qf4 $36 ) Nc6 {%02 (an attack and development)}
+( 11...Qxa5 12.a4 Nc5 13.Ba3 Qc7 14.Qb4 {%02 (attack)} b6 15.Qxc3
+{%02$14\=} ) 12.Re1 h5 {%02
+ ?! (it is an attacking move, but it is weakening the black's king-side. It
+should not be a good idea, since white is going to attack there)}
+( 12...Nc5 {%02 (Attack the bishop)} 13.Bb5 {%02 (maximum activity)}
+Qxa5 {%02 (attack and material)} 14.Rb1 {%02$13 (least active piece)} )
+13.Qf4 {%02 (maximum activity. The queen looks at the f7 square also)}
+Kg8 ( 13...Nc5 14.Bg6 {%02 (Attack)} f5 15.exf6 {%02 (opening of the position)}
+Qxf6 16.Rb1 {%02$36 (the least active piece. keeping up the tension)} )
+14.a4 {%02!? (the preparation for development on the most active square)}
+( 14.Ng5 {%02!? (an attack)} Ndxe5 {%04?} ( 14...Qe7 15.a4 {?}
+( 15.Rb1 {%02! (the least active piece)} Ndxe5 16.Rxe5 Nxe5 17.Qxe5
+f6 18.Qxc3 fxg5 19.a6 {%02 (attack)} g4 20.Bf4 {%02$44 (white has quite good positional compensation)}
+) Ndxe5 16.Rxe5 Nxe5 17.Qxe5 f6 18.Qg3 h4 {! (Attack)} 19.Qg4
+fxg5 20.Bxg5 Qf7 $17 ) 15.Rxe5 f6 ( 15...Nxe5 16.Qxe5 f6 17.Nxe6
+Qe8 18.Qxd5 Bxe6 19.Qxb7 Rd8 {%02 (maximum activity)} 20.Be3
+{%02$14\=} ) 16.Rxe6 fxg5 17.Qe3 Bxe6 18.Qxe6+ Kf8 19.a4 Rh6
+20.Ba3+ Ne7 21.Bg6 Rxg6 22.Qxg6 Qd7 23.Re1 Re8 24.Qxg5 $18 )
+( 14.Rb1 {%02!? (The least active piece)} ) Nc5 15.Bb5 {%02 (maximum activity and saving the bishop)}
+Qc7 ( 15...a6 {?} 16.Bxc6 bxc6 17.Ng5 Qc7 18.Ba3 {%02$14$36} )
+16.Ba3 Ne4 17.Bd3 {%02$7 (neutralizing of the black's knight on the white's territory)}
+f5 ( 17...Nd2 18.Bd6 {%02 (counterblow!)} Nxf3+ 19.gxf3 {%02 (opening the position for an attack)}
+Qd8 20.Kh1 $16 ) 18.Bxe4 dxe4 19.Bd6 {? (it is an attacking move, but white has a better option)}
+( 19.Rxe4 {%02(winning the material and opening the position)}
+Bd7 ( 19...fxe4 20.Ng5 $18 ) 20.Rc4 {%02 (maximum activity)}
+Qxa5 21.Rd1 Be8 22.h4 {%02$14\$16 (the limitation of the black's pieces on the king-side)}
+) Qd7 20.Ng5 Ne7 21.Rad1 {%02 (the least active piece)} Rh6
+( 21...Nd5 22.Rxd5 {%02! (opening the position with a sacrifice)}
+exd5 23.e6 Qe8 24.Qxf5 Bxe6 25.Nxe6 Rh6 26.Ng5 Qc6 27.Qf7+ Kh8
+28.Be5 Rg6 29.h4 $18 ) 22.Bxe7 {%02
+ (white has a positional compensation for the material disadvanage, because the
+black's rook h6 is out of game. Into this type of the position it's good to
+trade an active pieces of an opponent and leave him only the passive rook on h6)}
+Qxe7 23.Rd6 {%04!?} ( 23.Re3 {%02!? (material and increase an activity of the rook)}
+) Bd7 24.h4 Bxa4 25.Qe3 {%02 (attack)} Bxc2 26.Rc1 Bb3
+( 26...Ba4 27.Qxc3 a6 ( 27...Bc6 28.a6 $40 ) 28.Qc7 Re8 29.Qxe7
+Rxe7 30.Rc8+ Re8 31.Rxe8+ Bxe8 32.Rd8 Kf8 33.Rb8 Ke7 34.Rxb7+
+Bd7 35.Ra7 Rh8 36.Rxa6 $14 ) 27.Rxc3 Bd5 28.Qc1 Bc6
+( 28...Qf8 29.Rc7 Rg6 30.Qd1 $16 ) 29.a6 Qe8 30.axb7 Bxb7 31.Rc7
+Rc8 ( 31...Bd5 32.Rdd7 {%02 (an attack)} Rg6 33.Qd1 Qf8 34.Qxh5
+Rh6 35.Qxh6 {%02 (calculate the forcing moves)} gxh6 36.Nh7 Rc8
+37.Rxa7 Bc6 38.Nxf8 Bxd7 39.Nxd7 $18 ) 32.Rxc8 Bxc8 33.Qc7 1-0

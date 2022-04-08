@@ -1,0 +1,108 @@
+[Event "Match"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Gufeld, Eduard"]
+[Result "1-0"]
+[ECO "B07"]
+[PlyCount "87"]
+[EventDate "1968.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 b5 6. Bd3 Bg7 7. Nf3 h6 8. Be3
+Ng4 9. Bf4 e5 10. dxe5 dxe5 11. Bg3 h5 12. h3 h4 13. hxg4 hxg3 14. Rxh8+ Bxh8
+15. Qh6 gxf2+ 16. Ke2 Bf6 17. g5 Be7 18. Qh8+ Bf8 19. Qxe5+ Be6 {Diagram #} 20.
+Nxb5 cxb5 21. Bxb5+ Nd7 22. Rd1 Qe7 23. Rxd7 Bxd7 24. Bxd7+ Kxd7 25. Qd5+ Kc7
+26. Qxa8 Qc5 27. c3 Qc4+ 28. Kxf2 Bc5+ 29. Kg3 Qxa2 30. Qd5 Qxd5 31. exd5 Kd6
+32. c4 Be3 33. b4 a6 34. Kg4 Bc1 35. Ne1 Be3 36. Nd3 Bd2 37. g3 Kc7 38. c5 Kd7
+39. Ne5+ Kc8 40. d6 Bxb4 41. d7+ Kc7 42. Nc6 Kxd7 43. Nxb4 a5 44. Nd3 1-0
+
+[Event "Riga-ch"]
+[Site "Riga"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Lozov"]
+[Result "1-0"]
+[ECO "E18"]
+[PlyCount "45"]
+[EventDate "1952.??.??"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O b6 7. Nc3 Bb7 8. Ne5
+Qc8 9. cxd5 Nxd5 10. Nxd5 Bxd5 11. e4 Bb7 12. Qc2 c5 13. d5 Rd8 {Diagram #} 14.
+Bh3 Qc7 15. Bf4 Bd6 16. Nxf7 Kxf7 17. Bxe6+ Ke8 18. e5 Bf8 19. Qxh7 Rxd5 20.
+Qg6+ Kd8 21. Bg5+ Be7 22. Qf7 Nd7 23. Qg8+ 1-0
+
+[Event "Riga-ch sf"]
+[Site "Riga"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Klevitzki, Yehezkel"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "B40"]
+[PlyCount "74"]
+[EventDate "1952.??.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 c5 2. Nf3 a6 3. Bc4 e6 4. c3 Qc7 5. O-O d6 6. a4 Nf6 7. d3 Be7 8. Na3 Nc6
+9. Nc2 d5 10. exd5 exd5 11. Ba2 O-O 12. Bg5 Be6 13. Ne3 Rfd8 14. d4 c4 15. Bb1
+g6 16. Nd2 Ng4 17. Nxg4 Bxg5 18. Ne3 Qd7 19. f4 Bh6 20. h4 Qe8 21. h5 f5 22.
+hxg6 hxg6 23. Qf3 Qd7 24. Bc2 Re8 25. Kf2 Bf7 26. Rh1 Bg7 27. Rh3 {Diagram #}
+Nxd4 28. cxd4 Bxd4 29. Re1 Re7 30. Qd1 Rae8 31. Ndf1 Ba7 32. a5 d4 33. Ba4
+dxe3+ 34. Nxe3 Qxd1 35. Bxd1 g5 36. Ba4 Rxe3 37. Bxe8 Rxh3+ 0-1
+
+[Event "LAT-ch 10th "]
+[Site "Riga"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Mileika, Janis"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "A60"]
+[PlyCount "46"]
+[EventDate "1953.02.20"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. g3 exd5 5. cxd5 b5 6. a4 b4 7. b3 g6 8. Bg2 d6
+9. e4 Bg7 10. Bb2 O-O 11. Ne2 Re8 12. Nd2 {Diagram #} Nxe4 $1 13. Bxg7 Nxd2 14.
+Bh6 $2 (14. Qxd2 $8) 14... Bg4 15. Be3 Nf3+ 16. Bxf3 Bxf3 17. Rg1 Nd7 18. Qd2
+Nf6 19. Nf4 g5 20. Ne2 Re5 21. O-O-O Ne4 22. Qc2 Bxe2 23. Qxe2 Nc3 0-1
+
+[Event "LAT-ch 11th"]
+[Site "Riga"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Akmentins, Alfreds"]
+[Result "1-0"]
+[ECO "D22"]
+[PlyCount "69"]
+[EventDate "1954.02.12"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. axb5 axb5 7. Rxa8 Bxa8 8.
+b3 e6 9. bxc4 bxc4 10. Bxc4 Nf6 {Diagram #} 11. Ne5 Bxg2 12. Qa4+ Nbd7 13. Rg1
+Qa8 14. Qb5 Bd5 (14... c6 $5) 15. Nc3 c6 16. Bxd5 $1 Nxe5 17. Bh1 Bb4 $3 18.
+Qxe5 $8 (18. Qxb4 Nd3+) (18. dxe5 $2 Bxc3+) 18... Bxc3+ 19. Ke2 Qa2+ $6 (19...
+Rg8) 20. Kd3 Qb3 21. Bxc6+ Nd7 22. Qb5 Bb4+ 23. Ke2 O-O 24. Bxd7 Qc2+ 25. Kf3
+Bd6 26. Bc6 Rb8 27. Qa4 Qf5+ 28. Ke2 Bxh2 29. Rh1 Bd6 30. Bf3 Rb4 31. Qa8+ Bf8
+32. Qc8 Qa5 33. Be4 g6 34. Qe8 h6 35. Rxh6 1-0
+

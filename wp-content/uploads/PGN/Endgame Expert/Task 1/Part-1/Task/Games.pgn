@@ -1,0 +1,275 @@
+[Event "Ch Moscow"]
+[Site "Moscow (Russia)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Dragomarezkij Evgeni (RUS)"]
+[Black "Malakhov Vladimir (RUS)"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "2461"]
+[BlackElo "2677"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1rr5/8/1p1np1kp/p2p1pp1/2bP4/P3PP2/P1RB1NPP/3KR3 b - - 0 28"]
+
+{Black has a huge advantage because of the white's queen-side weaknesses and
+passive pieces. Therefore black certainly should try to attack. In an endgame
+we should mainly attack the opponent's weak pawns. That's why black played} 28...Nb5
+{(It provokes white to move his pawn forward, which will weaken it even more.)}
+29.a4 Nd6 30.e4 dxe4 31.fxe4 fxe4 32.Nxe4 Nxe4 33.Rxe4 Bd5 34.Re5
+Rxc2 35.Kxc2 Rc8+ 36.Kb2 Rc4 {(Now white is loosing, because his pawn is on a4 instead of a3.)}
+37.a3 Rxa4 38.Bc3 b5 39.Re3 b4 40.Be1 bxa3+ 41.Rxa3 Rxd4 42.Rxa5
+Re4 43.Bg3 Re2+ 44.Kc3 Rxg2 45.Kd3 h5 46.Rb5 h4 47.Be5 Kf5 48.Bd6
+Rf2 49.Rb8 Kg4 50.Be5 Rf5 51.Kd4 Kf3 52.Rg8 g4 53.Bd6 Rh5 54.Rf8+
+Kg2 55.Rc8 Bf3 56.Ke3 e5 57.Rc2+ Kh3 58.Rb2 Rf5 59.Rf2 e4 60.Rb2
+Rd5 61.Bf4 g3 62.hxg3 hxg3 63.Rb3 Rd1 0-1
+
+[Event "It (open)"]
+[Site "Bad Wiessee (Germany)"]
+[Date "2002.10.28"]
+[Round "3"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Miltner Arndt (GER)"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "2677"]
+[BlackElo "2368"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnb1k2r/ppp2p2/3b1p1p/4pP2/4P3/2N2NP1/PPP4P/2KR1B1R w - - 0 13"]
+
+{White has the only attacking move -} 13.Nb5 {(It is winning a bishop and is creating the weak pawn on d6.)}
+Ke7 14.Nd2 {
+ (Since white has no passed pawns, the only active plan for white is to attack
+the black's weaknesses. All the white's moves should realize this plan. Now the
+knight is going to c4 to pressure the d6 weakness.)} Bd7 15.Nxd6
+cxd6 16.Nc4 Bc6 17.Bg2 Rd8 18.Rd2 b5 19.Na5 {(it fixes the black's queen-side weaknesses)}
+a6 20.Rhd1 Ra7 21.Rd3 Rc7 22.g4 {(white is fixing the h6 weakness and is preparing its attack by Rh3 move)}
+Ba8 23.Rh3 Rh8 24.Rdd3 Nd7 25.Rc3 Kd8 26.Rhd3 Rxc3 27.Rxc3 Nc5
+28.b4 Na4 ( 28...Nxe4 29.Nc6+ Bxc6 30.Rxc6 $18 ) 29.Rh3 Nb6 30.Nb3
+Ke7 31.c3 Kf8 32.Kc2 Ke7 33.Nd2 d5 34.Rd3 dxe4 35.Bxe4 Bxe4 36.Nxe4
+Nc4 37.Nc5 Ra8 38.Kb3 Nd6 39.a4 bxa4+ 40.Kxa4 Nc4 41.Rd7+ Ke8
+42.Kb3 Ne3 43.h3 { (Now white is threatening Rd6. Black has a lot of weaknesses and he can't protect them.)}
+a5 44.Rd3 Ng2 45.b5 Nf4 46.Rd2 Rd8 47.Rxd8+ Kxd8 48.Ka4 Nd5 49.Ne4 1-0
+
+[Event "Cup World FIDE (Gr.A)"]
+[Site "Hyderabad (India)"]
+[Date "2002.??.??"]
+[Round "3"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Ye Jiangchuan (CHN)"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "2677"]
+[BlackElo "2682"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rbk2r/5ppp/p7/P2Bp3/Rp6/5P2/1PP3PP/4K2R w Kk - 0 22"]
+
+{Black has the weak pawns a6, b4 and e5. It determines the white's advantage.
+That's why white should not trade pawns, but should try to win them instead.} 22.Bb3
+O-O 23.Ke2 Be7 24.Rd1 Rfd8 25.Rxd8+ Rxd8 26.Bc4 Ra8 27.Ke3 Kf8
+28.Ke4 Bd6 29.Bd3 Ke7 30.Kd5 Rc8 31.Bxa6 {(Generally white should avoid pawn exchanges, but now white gets a very powerful passed pawn a5)}
+Rxc2 32.Bd3 Rc5+ 33.Ke4 g6 34.g4 Ke6 35.g5 Rc7 36.a6 Bc5 37.Bc4+
+Kd6 38.b3 Re7 39.Bd5 Rc7 40.Bc4 Re7 41.Ra5 Kc6 42.Bd5+ Kd6 43.Bb7
+Ba7 44.Rd5+ Kc7 45.Rb5 Re6 46.Rxb4 f5+ 47.gxf6 Rxf6 48.Kxe5 Rf5+
+49.Ke6 Bf2 50.Bd5 Kc8 51.Kd6 1-0
+
+[Event "It (open)"]
+[Site "Oberwart (Austria)"]
+[Date "1999.??.??"]
+[Round "6"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Zsinka Laszlo (HUN)"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "2570"]
+[BlackElo "2329"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1r2r3/p1p2pk1/2p2np1/2qb3p/7P/3B1P2/PPPQN1P1/1K1R3R w - - 0 18"]
+
+{Black has the weak pawns on the queen side, but is trying to develop an attack.} 18.Qc3
+{(This neutralizes the black's attack and allows white to attack the black's weaknesses in an endgame)}
+Qxc3 19.Nxc3 c5 20.Rhe1 c6 21.Rxe8 Rxe8 22.Kc1 Rb8 23.a3 Re8
+24.b3 {(white is fixing the weakness)} Re5 25.Ne2 Be6 26.c4 {(now the c5 weakness is totally fixed and white will continue attacking it.)}
+Bd7 27.Nf4 Re3 28.Bc2 Re7 29.Nd3 Bf5 30.Nxc5 Bxc2 31.Kxc2 Re2+
+32.Rd2 Re3 33.Kd1 a5 34.Re2 Re8 35.Rxe8 Nxe8 36.Nb7 a4 37.bxa4
+Kf6 38.Kd2 Ke5 39.Ke3 Nc7 40.Nc5 f6 41.a5 g5 42.hxg5 fxg5 43.a6
+h4 44.a7 1-0
+
+[Event "It (open)"]
+[Site "Cap d'Agde (France)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Malaniuk Vladimir P (UKR)"]
+[Black "Calistri Tristan (FRA)"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "2550"]
+[BlackElo "2271"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3rr1k1/pp3p1p/2ppbq2/4b3/2P1P1pP/1P1QBnP1/P3NPB1/2RR3K w - - 0 23"]
+
+{Black has weak pawns d6 and g4. Now white can't attack them, because the
+black's pieces are protecting everything. Therefore white should trade the pieces first.} 23.Nd4
+Nxd4 24.Bxd4 Bxd4 25.Qxd4 Qxd4 26.Rxd4 {(Now white has a clear plan: to attack the weak pawns d6 and g4)}
+c5 27.Rd2 Rd7 28.Kg1 Kg7 29.Rcd1 Red8 30.Kf1 Kf6 31.Ke2 Ke5 32.Ke3
+Rb8 33.Bf1 a6 34.Be2 b5 35.Rd5+ Bxd5 36.Rxd5+ Kf6 37.Bxg4 Rdd8
+38.Be2 Rb6 39.f4 Rg8 40.g4 bxc4 41.g5+ Ke7 42.Bxc4 Rf8 43.Kf3
+a5 44.Kg4 a4 45.h5 axb3 46.axb3 Rb7 47.Kf5 Rc7 48.e5 dxe5 49.Rxe5+
+Kd6 50.Kf6 Rb7 51.Re2 1-0
+
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1997.??.??"]
+[Round "1"]
+[White "Pena Cabrera Osvaldo"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2645"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4bnr/ppk3pp/n1p2p2/4p3/2P1P1b1/N3BN2/PP2BPPP/2R2RK1 b - - 0 12"]
+
+{The position is approximately equal. How can black try to play for a win?} 12...Bxa3
+{It loses a bishop, but weaknes the white's pawn structure. This gives black an
+attacking plan - to attack the white's weak pawns.} 13.bxa3 b6
+14.c5 {(White wants to trade his weakness, but it gives black a passed pawn on the "c" file.)}
+Nxc5 15.Bxc5 bxc5 16.Rxc5 Ne7 17.Rfc1 Bxf3 18.Bxf3 Rhd8 19.Bd1
+Rd4 20.f3 Rad8 21.Bb3 Rd2 22.R5c2 R8d4 23.Kf1 Rd6 24.Ke1 Rxc2
+25.Rxc2 g6 26.Ke2 f5 27.exf5 gxf5 28.g3 Nd5 29.Bc4 h5 30.Bd3
+f4 31.Rc1 fxg3 32.hxg3 h4 0-1
+
+[Event "Olympiad"]
+[Site "Yerevan (Armenia)"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Azmaiparashvili Zurab (GEO)"]
+[Black "Mitkov Nikola (MKD)"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "2670"]
+[BlackElo "2470"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2r1k3/4bp2/p3pnpp/8/Pp3P2/1N2N1P1/1P3P1P/3R1K2 w - - 0 27"]
+
+{The white's plan is to attack the black's weak pawns a6 and b4. Now white should bring the pieces towards these weaknesses.} 27.Rd4
+Rc7 28.Ke2 Nd7 29.Rc4 Kd8 30.Nd4 Bc5 31.a5 {(fixing the weaknesses)}
+e5 32.Ndc2 {(it is attacking the pawn and is provoking black to move it forward)}
+b3 33.Nb4 exf4 34.Rxf4 Bxb4 35.Rxb4 Rc5 36.Nc4 Ne5 37.Nd2 Rxa5
+38.Nxb3 Rb5 39.Rxb5 axb5 {(The advanced pawn b5 is a new object of an attack)}
+40.Nd4 Nc4 41.b3 Nd6 42.Ke3 Ke7 43.Kd3 h5 44.Nc2 Ke6 45.Kd4 g5
+46.f3 g4 47.f4 Nb7 48.b4 f6 49.Ne3 f5 50.Nd5 Nd6 51.Nc3 Ne4 52.Nxe4 1-0
+
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Lasker Edward (USA)"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "2720"]
+[BlackElo "0"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r6r/1pp1k3/p3b3/5p2/B3p2p/2N1B3/PPP2P1K/R7 w - - 0 21"]
+
+21.Ne2 {The knight is going to f4. It fixes the f5 weakness.}
+b5 {(Black makes an unnecessary pawn move, which is creating new weaknesses.)}
+22.Bb3 Bxb3 23.axb3 Rhg8 24.Rd1 Rad8 25.Rxd8 Kxd8 26.Nd4 {(The white's plan is to attack the black's weak pawns)}
+Kd7 27.Nxf5 a5 28.Nxh4 a4 29.bxa4 bxa4 30.Ng2 Rb8 31.Bd4 {(White is an attacker side and he should try to save all his pawns.)}
+Rb4 32.Bg7 Rc4 33.Ne3 Rc6 34.c4 Rg6 35.Bc3 Kd6 36.Bd4 Kd7 37.Nd5
+Rc6 38.c5 Rg6 39.Be3 c6 40.Nc3 Ke6 41.Nxa4 Rg8 42.b4 Ke5 43.Nb6
+Rg7 44.Nc4+ Kd5 45.Nd6 Rg8 46.b5 cxb5 47.Nxb5 Rg6 48.Nc3+ Ke5
+49.Ne2 Ra6 50.Nd4 Kd5 51.c6 Ra7 52.Kg3 Rg7+ 53.Kf4 Rf7+ 54.Kg5
+Rg7+ 55.Kf6 Rh7 56.Kg6 Rc7 57.Bf4 Rc8 58.Be3 Rc7 59.Kf5 Rf7+
+60.Kg4 Rg7+ 61.Kh3 Rh7+ 62.Kg2 Rg7+ 63.Kf1 Ra7 64.Ke2 Ra2+ 65.Kd1
+Kc4 66.c7 Ra8 67.Nf5 Kd3 68.Nd6 1-0
+
+[Event "London (England)"]
+[Site "London (England)"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Germann L"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "2720"]
+[BlackElo "0"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1r3k1/5p2/p3p1p1/q1b4p/Pp2N2Q/1P2P3/5PPP/2R1K2R w K - 0 21"]
+
+{White has an advantage and many moves are good for white. In the game white
+used one of the most powerful ideas - to go into an endgame and to attack the black's weaknesses there.} 21.Qg5
+Bb6 22.Qxa5 Bxa5 23.Ke2 {(The white's plan is to attack the black's weak pawns on the queen-side.)}
+Bd8 24.Nd6 Rc7 25.Rc4 Rd7 26.Ne4 Be7 27.Rd1 Rxd1 28.Kxd1 Rd8+
+29.Ke2 Rd5 30.Rc6 a5 31.Nd2 Kg7 32.Nc4 Bd8 33.e4 Rd4 34.f3 Rd7
+35.Ra6 Kf6 36.Nxa5 Bxa5 37.Rxa5 Rd4 38.Rb5 e5 39.a5 Ke6 40.a6
+Rd6 41.a7 Ra6 42.Rb6+ 1-0
+
+[Event "Ch World (match)"]
+[Site "Habana (Cuba)"]
+[Date "1921.??.??"]
+[Round "10"]
+[White "Lasker Emanuel (GER)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "2720"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "6k1/p4p2/2r1p1p1/3p1n2/1q1P3p/1P5P/P3NPP1/1Q1R2K1 b - - 0 31"]
+
+{White has a weak pawn on d4, but it is well protected and black can't increase
+the pressure. That's why black should create more weaknesses in an opponent's position.} 31...a5
+32.Qb2 a4 {'with the idea' Rb6} 33.Qd2 Qxd2 34.Rxd2 axb3 35.axb3
+Rb6 {! x b3, d4} ( 35...Ra6 {?!} 36.Rb2 $130 ) 36.Rd3 $7
+( 36.Rb2 {?} Rb4 $19 ) ( 36.Nc1 {?} Rb4 $19 ) Ra6 {! 'with the idea' Ra1}
+37.g4 ( 37.Nc3 Ra1+ 38.Kh2 Rc1 39.b4 Rc2 40.Kg1 Rb2 41.b5 Rb4
+$17 {Panov} ) hxg3 38.fxg3 ( 38.Nxg3 {?!} Ra1+ 39.Kg2 Nd6 $17
+{'with the idea' Rb1 x b3, d4, f2, h3} ) Ra2 {(Black has a winning position, because of the white's numerous weaknesses.)}
+39.Nc3 Rc2 {! 'with the idea' Nd4} 40.Nd1 Ne7 {! 'with the idea' Nc6}
+41.Ne3 ( 41.b4 {?!} Rc1 {'with the idea' Rb1} ) Rc1+ {!}
+( 41...Rb2 {?!} 42.Rc3 {!?} ( 42.Nd1 ) Rd2 43.Nc2 Nf5 44.b4 Nxd4
+45.Nxd4 Rxd4 46.Rb3 $130 {Shereshevsky} ) 42.Kf2 Nc6 43.Nd1 {!}
+Rb1 {!} ( 43...Nb4 {?!} 44.Rd2 Rb1 45.Nb2 Rxb2 {?} 46.Rxb2 Nd3+
+47.Ke3 Nxb2 48.Kd2 Kf8 49.Kc2 Nc4 50.bxc4 dxc4 51.Kc3 {=} ) 44.Ke2
+{?} ( 44.Ke3 {?} Nb4 $19 ) ( 44.Ke1 {! %03'better is'} Na5 45.Kd2
+Rxb3 46.Rxb3 Nxb3+ $17 ) Rxb3 $19 {!} 45.Ke3 Rb4 {!} 46.Nc3 Ne7
+47.Ne2 ( 47.g4 g5 $19 ) Nf5+ 48.Kf2 g5 49.g4 Nd6 50.Ng1 Ne4+
+51.Kf1 ( 51.Kf3 Rb1 52.Ne2 Rf1+ 53.Ke3 Rh1 $19 ) Rb1+ 52.Kg2
+Rb2+ 53.Kf1 Rf2+ 54.Ke1 Ra2 55.Kf1 ( 55.Nf3 Nf2 $19 )
+( 55.Ne2 Ra1+ $19 ) Kg7 56.Re3 Kg6 57.Rd3 f6 58.Re3 Kf7 59.Rd3
+Ke7 60.Re3 Kd6 61.Rd3 Rf2+ 62.Ke1 Rg2 63.Kf1 Ra2 64.Re3 e5 65.Rd3
+exd4 66.Rxd4 ( 66.Ne2 Kc5 ( 66...Rd2 67.Rxd4 Ng3+ $19 ) 67.Nxd4
+Kc4 68.Rd1 Nc3 $19 ) Kc5 67.Rd1 d4 68.Rc1+ Kd5 ( 68...Kd5 69.Rd1
+Ng3+ 70.Ke1 Rg2 $19 ) 0-1
+

@@ -1,0 +1,21 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Halosar Trap"]
+[Black "?"]
+[Result "1-0"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "2r1kb1r/pQp1pppp/n4n2/1N6/1q4b1/4B3/PPP3PP/2KR1BNR w k - 0 10"]
+[PlyCount "24"]
+[EventDate "1934.??.??"]
+[WhiteTeam "Tajikistan"]
+[BlackTeam "Bulgaria"]
+[WhiteTeamCountry "TJK"]
+[BlackTeamCountry "BUL"]
+
+10. Qxa6 e5 11. a3 Qe7 12. Nxa7 Rd8 13. Bb5+ Nd7 14. Nf3 Qe6 15. Nc6 Be7
+16. Rxd7 Rxd7 17. Qc8+ Bd8 18. Nxd8 Ke7 19. Bxd7 Qxd7 20. Nc6+ Qxc6 21. Qxg4
+Qd6 1-0
+

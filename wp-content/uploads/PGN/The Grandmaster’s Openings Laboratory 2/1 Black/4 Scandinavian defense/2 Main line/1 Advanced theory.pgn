@@ -1,0 +1,123 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Scandinavian defense"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "RCA"]
+[PlyCount "28"]
+
+1. e4 d5 {(I have already mentioned in my first opening course that the
+Scandinavian Defence is one of the good responses for Black against 1.e4!)} 2.
+exd5 (2. e5 $6 {(A purely strategic mistake.... because now, White has to play
+against Black's better version of the French, i.e. with a good light-squared
+bishop for Black.)} c5 $1 {(Black's plan is clear.. Nc6, Bf5/ Bg4 & ..e6, thus
+getting a French-like position without any bad bishop at c8!!)} 3. f4 {
+(Obvious move after White's early e5 pawn push to maintain the pawn chain at
+the centre.)} Nc6 {(Delaying the development of the c8 bishop for one move, to
+pin the knight if White plays Nf3 in the next move...)} 4. c3 (4. Nf3 $5 Bg4 5.
+Be2 (5. h3 Bxf3 $1 {Necessary move... bishop has not such big role in this
+position, i.e. a central pawn structure...} (5... Bh5 $2 6. g4 Bg6 7. f5 $16)
+6. Qxf3 e6 7. c3 g5 $132 {(Black's plan is Nge7, Bg7/Bh6, Qb6, etc.)}) 5... e6
+6. O-O Nge7 7. d3 (7. Ng5 Bxe2 8. Qxe2 Nd4 9. Qd1 h6 $11) 7... Nf5 $15 {Black
+has a more active position...}) 4... Bf5 {(Bishop has to come out before ...e6)
+} 5. Nf3 e6 6. d4 Bg4 $1 {Though Black uses a tempo here, he removes a
+defender of the d4 pawn, which is now a target for attack.} 7. Be2 Qb6 $15 {
+(Black finally gets a French-like position with an extra piece at g4 pinning
+the vital knight... better position for Black!)}) (2. Nc3 {[This move
+transposes into another opening (after 1.Nc3-d5 2. e4). You'll find an
+analysis of this variation in the section "1.Nc3 opening"]}) 2... Nf6 3. Nf3 (
+3. Bb5+ {(Very popular alternative to other main lines... especially at club
+level.)} Bd7 4. Bc4 (4. Be2 $5 {(Important alternative...)} Nxd5 5. d4 Bf5 6.
+a3 $5 {(To stop Nb4 after White's c4)} (6. c4 $6 {(We need to show this line
+because some players don't think of the line as bad for White.)} Nb4 $1 7. Qa4+
+(7. Na3 e5 $1 {(Thematic Scandinavian breakthrough!)} 8. dxe5 Qxd1+ 9. Kxd1 Nd3
+10. Bxd3 Bxd3 11. Nb5 Na6 12. b3 Rd8 $15 {(Black has a very good position with
+his bishop pair... White has some difficulties in developing his pieces...)})
+7... N8c6 $1 8. d5 Nc2+ $1 9. Kf1 Nxa1 10. Na3 (10. dxc6 $2 b5 $1 11. cxb5 Bxb1
+$19) 10... Bd7 11. dxc6 Bxc6 12. Qa5 e6 $17 {With a very big advantage...})
+6... e6 7. Nf3 Be7 8. O-O O-O 9. c4 Nf6 {(You have to remember one thing -
+that in 4.Be2 retreat, this knight (d5) comes to f6 then aims for 'e4'... in
+other variations (e.g. 4. Bc4 retreat) it goes to b6.)} 10. Nc3 Ne4 11. Bd3 (
+11. Qb3 Nxc3 12. Qxc3 Bf6 13. Rd1 c5 14. Qe3 Nd7 15. dxc5 Qc7 {With good play
+for Black}) 11... Nxc3 12. bxc3 Bxd3 13. Qxd3 Nd7 14. Bd2 Bf6 15. Rfe1 e5 $1
+16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Qxd8 Rfxd8 19. Rxe5 Rxd2 20. Rd5 (20. Re7 Rad8
+21. g3 R2d7 22. Rae1 Kf8) 20... Rd8 21. Rxd8+ Rxd8 22. Kf1 Kf8 {With a better
+endgame for Black}) (4. Bxd7+ $6 Qxd7 $1 5. c4 c6 6. dxc6 Nxc6 $44) 4... Bg4 {
+(Important move, gaining a tempo for Black; if White plays f3 now, then he has
+to give up the d1-h5 diagonal and f3 square for his knight!)} 5. f3 (5. Nf3
+Nxd5 6. d4 e6 7. O-O Be7 {(Black has no difficulties)}) 5... Bf5 6. Nc3 (6. g4
+$5 Bg6 $5 (6... Bc8 $5 7. Nc3 c6 8. dxc6 Nxc6 9. d3 e5 10. Be3 Bb4 $13) 7. Nc3
+c6 $5 8. dxc6 (8. f4 $5 b5 $1 9. Bb3 b4 10. f5 bxc3 11. dxc3 Nxd5 {Black is
+not worse off, at the very least!!}) 8... Nxc6 $44 {(Black gets sufficient
+compensation: a) active piece play; b) control of the d file.)}) 6... Nbd7 7.
+Qe2 (7. Nge2 $5 Nb6 8. Bb3 (8. Bb5+ Bd7 {And capturing on d5 afterwards...})
+8... Nbxd5 9. Nxd5 Nxd5 10. d4 e6 {Black has good play}) (7. g4 $5 Nb6 $1 {
+Nice intermediate move...} 8. Qe2 (8. d3 Bc8 $1 {Black has a comfortable
+position}) 8... Bc8 9. Bb5+ (9. Qd3 $6 Nxc4 10. Qxc4 e6 11. dxe6 Bxe6 12. Qb5+
+Nd7 $44 {(Black has compensation for his attack against White's poor king
+position with underdeveloped pieces and bad pawn structure!)}) 9... Bd7 {Black
+is good here}) 7... Nb6 8. Bb3 (8. Bb5+ $6 Bd7 {With good play}) 8... Qd7 $1 {
+Black shouldn't hurry to grab the pawn, due to his tactical weakness at b7!!} (
+8... Nbxd5 $6 9. Qb5+ c6 10. Qxb7 $14) 9. d6 $5 Qxd6 10. Nb5 Qd7 11. Qe5 (11.
+g4 $6 Bg6 12. g5 Nfd5 13. a4 a6 $17) 11... O-O-O $1 12. Nxa7+ (12. Bxf7 $2 e6
+$17 13. g4 Qxf7 14. gxf5 Rd5 15. Qe2 exf5 {Win for Black}) 12... Kb8 13. Nb5
+Nfd5 $15 {(Black's next plan is to play f6, e5, Nb4 with a better game)}) 3...
+Nxd5 (3... Bg4 $2 {Trying to convert to the Portuguese variation fails due to}
+4. Bb5+ $1 $16) 4. d4 Bg4 5. Be2 e6 6. O-O Be7 $5 {(Already tried by super GMs
+like Gata Kamasky with success at top level)} (6... Nc6 $5 {(Playable
+alternative... but we recommend the main line first)} 7. c4 (7. b3 $6 Be7 8.
+Bb2 O-O {With a better position for Black...} 9. c4 $2 Nf4 $17) (7. c3 {
+Sometimes white plays for a draw.... then what can Black do?} Be7 $1 8. Nbd2
+O-O 9. h3 Bh5 10. Re1 Re8 11. Ne4 Qd7 {(Preparing Rad8 & e5 at the right time..
+.with a good game for Black!)}) 7... Nb6 8. Nc3 (8. b3 {(Popular alternative...
+)} Qd7 9. Bb2 (9. Be3 $5 O-O-O 10. Ne5 (10. a4 Bb4 11. a5 Nxa5 12. Ne5 Bxe2 13.
+Qxe2 Qe7) 10... Nxe5 11. Bxg4 Nc6 12. d5 h5 13. Bh3 f5 14. Qf3 Ne5 15. Qe2 Ng4
+$132 {With sufficient counterplay for Black...}) 9... O-O-O 10. a4 (10. Nbd2
+Bb4 $1 {(Preparing Bxd2 with good play)}) 10... a5 {(Important move, blocking
+White's attack on queen side...)} 11. Ne5 $6 {White's only chance to play for
+any advantage in this position...} (11. c5 $6 {Giving up the d5 square is just
+a strategic error...} Nd5 $1 12. Nbd2 e5 {Black has a free game...}) 11... Nxe5
+12. Bxg4 h5 $1 {(Very important intermediate move... forcing the bishop to
+move one diagonal...)} 13. Bf3 Nc6 $1 {Attacking White's centre pawn and thus
+forcing him to take the knight...} 14. Bxc6 Qxc6 15. Nc3 Bb4 {(Followed by a
+king side attack with... h4, Rh6, Rg6, etc.)}) (8. Be3 $6 Bxf3 9. Bxf3 Nxc4 10.
+Bxc6+ bxc6 11. Qa4 Nb6 12. Qxc6+ Qd7 $15 {(We have reached a similar position
+at the end of the main line... you may use the same idea here!)}) 8... Bb4 $1 {
+(Clever choice with the least active piece; Black intends to take on f3 at the
+right moment)} (8... Bxf3 $6 {(This immediate capture on f3 is shown in many
+DVD/Opening courses as an interesting choice for Black; but in reality, this
+is unsound due to...)} 9. Bxf3 Nxc4 (9... Nxd4 10. Bxb7 $16) 10. d5 $1 $16 {
+After which white is clearly ahead!!} (10. Bxc6+ $2 {(White is not forced to
+play this move of course, which is shown by many great authors and claimed as
+being good for Black afterwards... but White has another good option to even
+the trade...)})) 9. d5 (9. h3 $5 Bxc3 10. bxc3 Bxf3 11. Bxf3 Nxc4 12. d5 (12.
+Bxc6+ bxc6 13. Qa4 Qd5 {Black has a good game...}) 12... N6e5 13. dxe6 Qxd1 14.
+exf7+ Kxf7 15. Bxd1 c6 {A similar position to the main line of this variation..
+. Black has two active knights and a better pawn structure which compensates
+for White's bishop pair!}) 9... Bxf3 {(Now the moment comes to take on f3)} 10.
+Bxf3 Ne5 11. dxe6 Qxd1 12. exf7+ Kxf7 13. Bxd1 Nexc4 14. Bb3 c6 $1 {Restricts
+the c3 knight and creates an outpost at d5...} 15. Na4 Kg6 16. Nxb6 (16. Bc2+
+Kf6 17. a3) 16... Nxb6 17. Be3 Rhd8 $13 {White has lot to prove to claim
+advantage in this position... Black has an active position here! Black's next
+plan is to play Be7, h6, etc.}) 7. c4 Nb6 8. Nc3 O-O $1 {(Delaying Nc6 to
+avoid white's early d5; a smart choice)} 9. Be3 (9. h3 $5 Bxf3 10. Bxf3 Nc6 11.
+c5 Nd5 12. Nxd5 exd5 13. Be3 Bf6 14. Qd3 g6 15. Rad1 Ne7 {With a fine position
+for Black...}) (9. b3 $5 Nc6 10. Be3 (10. Bb2 $5 Bxf3 11. Bxf3 Qxd4 12. Qxd4
+Nxd4 13. Bxb7 Rab8 {Preparing Nxc4... Black has a good position.}) 10... f5 $1
+{(Creating pressure on the king side...)} 11. d5 {(This thematic Scandinavian
+breakthrough is well refuted by...} (11. Qd2 $5 Bf6 {(Black has an active
+position...)}) 11... exd5 $1 12. Bxb6 (12. c5 $5 Bxf3 13. Bxf3 d4 14. cxb6 dxe3
+$15) 12... axb6 13. Nxd5 Bf6 14. Nxf6+ Qxf6 $15 {Black has a better game!})
+9... Nc6 10. b3 f5 $1 {(Very important move; to play for an active position,
+this pawn march is obvious for Black! Though it weakens the e6 square, his
+gain of space and creating pressure on White's king side matters more!!)} 11.
+d5 {(this thematic breakthrough refutes to ..} (11. Qd2 $5 {Also playable...}
+Bxf3 $1 12. Bxf3 f4 $36 (12... Bf6 $5)) 11... exd5 $1 12. Bxb6 (12. Nxd5 Nxd5
+13. cxd5 Nb4 $36) 12... axb6 13. Nxd5 Bf6 $1 {(Forcing White to exchange his
+most active piece on d5, otherwise he has to give up his a2 pawn...)} 14. Nxf6+
+Qxf6 {(And finally Black gets a very active position... perhaps he is slightly
+better!!)} *
+

@@ -1,0 +1,106 @@
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.01.03"]
+[Round "4.20"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2832"]
+[BlackElo "2786"]
+[PlyCount "52"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 d6 4. O-O {Diagram #} Bd7 5. c4 Qc8 6. Nc3 Nc6 7. d4
+Bh3 8. Qa4 Bd7 9. d5 Ne5 10. Qb3 h5 11. h4 Ng4 12. c5 dxc5 13. Bf4 N8f6 14. Nb5
+Nxd5 15. Ng5 e6 16. Bxd5 Bxb5 17. Bxe6 (17. Nxe6 fxe6 18. Bxe6 Bd7 19. Bg8 $3)
+17... fxe6 18. Qxb5+ c6 19. Qxc5 e5 20. Qc4 Qf5 21. e4 Qf6 22. Be3 O-O-O 23.
+Bxa7 Rd7 24. Bb6 Bh6 25. Qa4 Rd3 26. Rad1 Rd4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.06.25"]
+[Round "?"]
+[White "2"]
+[Black "?"]
+[Result "*"]
+[ECO "A42"]
+[Annotator "Kesaris,E."]
+[PlyCount "12"]
+[EventDate "2019.06.18"]
+[SourceDate "2019.06.25"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nc3 Nd7 5. Be3 e5 6. d5 {Diagram #} Bh6 (6...
+Ngf6 7. Qd2) *
+
+[Event "Mainz Classic rap fin"]
+[Site "Mainz"]
+[Date "2008.08.03"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "B78"]
+[WhiteElo "2798"]
+[BlackElo "2775"]
+[PlyCount "99"]
+[EventDate "2008.08.03"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. O-O-O Ne5 12. Kb1 a6 {Diagram #} 13. h4 h5 14.
+g4 hxg4 15. h5 Nxh5 16. Rdg1 Qa5 17. Bh6 Rxc3 18. Bxg7 Kxg7 19. Rxh5 Rxb3 20.
+Qxa5 Rxb2+ 21. Ka1 gxh5 22. f4 Be6 23. Nxe6+ fxe6 24. fxe5 Rb5 25. Qc7 Rxe5 26.
+Qxe7+ Rf7 27. Qxd6 Rxe4 28. Rh1 Rf5 29. Qe7+ Kg6 30. Qe8+ Kg7 31. Rd1 Rd5 32.
+Rxd5 exd5 33. Qxh5 b5 34. Qg5+ Kh7 35. Qxd5 Ra4 36. Qg5 Rc4 37. Kb2 Rb4+ 38.
+Kc1 Ra4 39. a3 Rc4 40. Kd2 Rd4+ 41. Ke1 Ra4 42. Kf1 Rc4 43. Kg1 Rc6 44. Qd5 Rg6
+45. a4 bxa4 46. Qd7+ Kh6 47. Qxa4 Kg5 48. c4 Kf5 49. c5 Ke5 50. Qd7 1-0
+
+[Event "Sinquefield Cup 6th"]
+[Site "Saint Louis"]
+[Date "2018.08.19"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2842"]
+[BlackElo "2773"]
+[PlyCount "175"]
+[EventDate "2018.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+[Source "ChessBase"]
+[SourceDate "2018.09.14"]
+[WhiteTeam "Espana"]
+[BlackTeam "Espana"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "ESP"]
+
+1. c4 e6 2. Nc3 Bb4 3. g3 Nf6 4. Bg2 O-O 5. Nf3 d5 6. a3 Be7 7. d4 dxc4 8. Ne5
+Nc6 9. Bxc6 bxc6 10. Nxc6 Qe8 11. Nxe7+ Qxe7 12. Qa4 c5 13. dxc5 Qxc5 14. Be3
+Qc7 15. Rd1 Nd5 16. Bd4 Rd8 17. Nxd5 exd5 18. Qc2 Qe7 19. O-O {Diagram #} Bh3
+20. Rfe1 Rd7 (20... Re8 21. Qd2 Qe4 22. f3) (20... Qe6) 21. Bc3 Re8 22. Rd4 Qg5
+23. Qd2 Qxd2 24. Rxd2 Be6 25. Red1 Rde7 26. f3 h5 27. Kf2 f6 28. Rd4 Kh7 29.
+R1d2 Bf7 30. h3 a6 31. Rf4 Kg8 32. Bd4 Kh7 33. Bc3 Kg8 34. g4 hxg4 35. hxg4 Kh7
+36. Rf5 Rb7 37. Rfxd5 Bxd5 38. Rxd5 Kg6 39. Rc5 Rh8 40. Kg3 Rb6 41. Rxc4 Rh1
+42. Rc7 Rc1 43. Rd7 Rc6 44. a4 Rg1+ 45. Kf2 Ra1 46. a5 Ra4 47. Kg3 Rac4 48. Ra7
+Re6 49. e4 Rc8 50. Rd7 Rec6 51. f4 R8c7 52. f5+ Kh7 53. Rd8 Rc8 54. Rd3 Re8 55.
+Rd4 Rc7 56. Kf4 Rce7 57. Rc4 Kh6 58. Kf3 Rd7 59. Bd4 Kh7 60. b4 Rd6 61. Ke3 Kh6
+62. Rc1 Kh7 63. Bb6 Rd7 64. Bc5 Red8 65. Rh1+ Kg8 66. Kf4 Re8 67. Re1 g5+ 68.
+fxg6 Kg7 69. g5 Kxg6 70. gxf6 Kxf6 71. Rh1 Rf7 72. Ke3 Ke6 73. Rh4 Rf6 74. Rh7
+Rf7 75. Rh5 Kd7 76. e5 Rf1 77. Ke4 Kc6 78. Rh6+ Kb5 79. Rb6+ Kc4 80. e6 Re1+
+81. Kf5 Rf1+ 82. Ke5 Re1+ 83. Kf6 Rf1+ 84. Kg7 Ra8 85. e7 Re1 86. Kf7 Re4 87.
+Rd6 Rh8 88. Rxa6 1-0
+

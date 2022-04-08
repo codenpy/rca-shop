@@ -1,0 +1,440 @@
+[Event "Belgrade IKO"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "3"]
+[White "Popovic, Petar"]
+[Black "Nikolic, Zivoslav"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2535"]
+[BlackElo "2475"]
+[Annotator "RCA"]
+[PlyCount "105"]
+[EventDate "1992.07.??"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 {White's knight aims at
+Black's weak 'd6' square, which Black created through his last move...} a6 6.
+Nd6+ {The strategic drawback to this 5...a6 variation is that: (i) Black has
+to give up his dark-squared bishop for a knight despite the dark colour
+weakness in his camp; (ii) Black has a backward pawn in the semi-open 'd' file.
+} Bxd6 7. Qxd6 Qe7 (7... Qf6 $5 {Perhaps the main line; see the theory section
+for details...}) 8. Qd1 {Queen back to its original square... not redundant to
+any of his pieces; his plan is Nc3, Bc4, 0-0, etc...} Nf6 9. Nc3 d6 10. Bg5 $5
+Be6 11. Nd5 Bxd5 12. exd5 {White successfully creates a pawn majority on the
+queen side, thus gaining a long-term positional edge...} Nb8 $5 {Practically
+forced....} (12... Nd4 $6 {A move forward is not necessarily the correct one
+every time...} 13. c3 Nf5 (13... Nb5 14. Bxb5+ axb5 15. Qd3 $40) 14. Bd3 Qd7 (
+14... e4 $2 15. O-O $40) 15. Qf3 $16 {White has every right to claim a clear
+advantage here; he has bishop pair against Black's uncoordinated knights...})
+13. Be2 Nbd7 {Black can, however, manage to co-ordinate his knights, but he
+has to lose some vital tempi for this. Again, his queen on e7 is not in an
+ideal position, lacking space for play...} 14. O-O O-O 15. c4 {Guarding the d5
+pawn and also making it hard for Black to play ...b5 breakthrough!} a5 16. b3 {
+Purely a positional move... the idea is that when Black would play ...a4, then
+White will reply immediately with b4, thus maintaining the pawn majority on
+the queen side!} b6 17. Qc2 {White didn't forget the main opening principle:
+'connection of rooks', thus completing his development.} Ra7 18. Rae1 {White
+will play f4 anyhow at some stage, so this sensible rook centralisation on the
+e-file is not illogical, of course.} h6 19. Be3 Rc7 20. Qd1 {Removing the
+queen from the dangerous c-file, where his opponent's rook is situated...} Nc5
+21. f4 e4 {Taking on f4 only helps White to free his rooks...} 22. Kh1 Qd8 23.
+Bd4 {Principle of maximum activity works here...} Nh7 24. a3 {White is now
+ready to take advantage of his pawn majority on the queen side...} Re7 25. b4
+axb4 26. axb4 Nd7 27. Qb3 $16 {White implements his plan after some
+preparation and immediately get a clear-edge position; this is the power of
+planning in chess...} Rfe8 28. Bg4 Ndf6 29. Bf5 {Provoking Black into
+weakening his king side...} g6 30. Bh3 Ra7 31. Qb2 Rb7 32. b5 {Limiting any
+counterplay... White has now a great position.} Nd7 (32... Ra7 33. Qf2 $40) 33.
+Bxd7 Rxd7 34. f5 g5 35. Re3 f6 36. Qe2 Rde7 37. Rh3 Qc7 38. Rxh6 Rf7 39. Be3
+Rc8 40. Rc1 Qa7 41. Qg4 Re8 42. Qh5 Ree7 43. Qe2 Rf8 44. Rg6+ Kh8 45. Qb2 Qc7
+46. Qf2 Rb8 47. Bd4 e3 48. Bxe3 Re4 49. Bd4 Rbe8 50. Bxf6+ Nxf6 51. Rxf6 Rxc4
+52. Rg1 Rh4 53. Qg3 1-0
+
+[Event "Tapolca op"]
+[Site "Budapest"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Tornai, Imre"]
+[Black "Rabovszky, Gyorgy"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2240"]
+[BlackElo "2155"]
+[Annotator "RCA"]
+[PlyCount "29"]
+[EventDate "1997.??.??"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2001.11.25"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 {Black adopted the Loewenthal
+variation...} 5. Nb5 {Nothing new for you; this thematic knight manoeuvre is
+to gain a tempo to play c4, thus making a Maroczy Bind setup.} a6 6. Nd6+ {
+White is happy to eliminate Black's dark-squared bishop, in view of the
+dark-coloured weakness in Black's camp.} Bxd6 7. Qxd6 Qf6 8. Qc7 {Playable
+alternative, already tested by many strong players...the only drawback to this
+very aggressive move forward is that the queen is little bit 'offside' for a
+while...} (8. Qd2 $5 {Our recommendation... see the theory section for details.
+}) 8... Nge7 9. Nc3 {Developing the knight, eyeing at d5 and defending the e4
+pawn...} O-O (9... Nb4 $5 10. Bd3 d5 11. exd5 Nexd5 12. Nxd5 Nxd5 13. Qc5 $14 {
+White is slightly better due to his bishop pair...}) 10. Be3 {Preparing 0-0-0
+and start an attack along the king side.} Nd4 11. O-O-O d6 (11... b5 $5 12. f4
+$40) 12. h4 {Creating space, trying to weaken the king side and preparing a
+horrible Bg5...} b5 13. Qb6 {An immediate Bg5 is wrong, due to Black's
+counterplay at c2...} (13. Bg5 $2 Qxf2 $132) 13... Nec6 $2 {A tactical miss...}
+(13... Bg4 $1 14. f3 Rfb8 15. Qa5 Be6 {Black is still in the game...}) 14. Nd5
+$1 Qg6 (14... Qe6 15. Bxd4 Nxd4 16. c3 Qh6+ 17. Rd2 Ne6 18. Qxd6 Rd8 19. Qxe5
+$16 {White is up in material...}) 15. Bxd4 {Followed by Qxc6 or Ne7+, forking
+the heavy pieces... the game is over!!} 1-0
+
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Hort, Vlastimil"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2595"]
+[BlackElo "2545"]
+[Annotator "RCA"]
+[PlyCount "62"]
+[EventDate "1980.06.??"]
+[EventRounds "14"]
+[EventCountry "NED"]
+[EventCategory "14"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 {Start of the Loewenthal variation...
+} 5. Nb5 {Again, a thematic approach... preparing c4.} a6 6. Nd6+ {White keeps
+his bishop pair...} Bxd6 7. Qxd6 Qf6 8. Qd2 {Avoiding an exchange is necessary,
+as Black has lots of weak squares, e.g. d6, d5, f5, c7 and b6, against which
+White can bring an attacking plan in the middlegame.} Nge7 (8... Qg6 $5 9. Nc3
+{See theory section...}) 9. Nc3 d6 10. Bd3 Be6 11. O-O Rd8 12. Qg5 $5 (12. f4
+$5 {Our recommendation... open the f-file for attack!} exf4 13. Rxf4 Qe5 14.
+Rf1 O-O 15. Qf2 {Followed by Bf4 is good for White with practical chances.})
+12... Qxg5 13. Bxg5 Nb4 14. Rfd1 f6 15. Be3 d5 16. Bb6 Rd7 17. exd5 Nexd5 18.
+Nxd5 Nxd5 $11 {Black successfully equalises the game... his active knight
+compensates for White's bishop pair...} 19. Ba5 Kf7 20. c4 Ne7 21. Be2 (21. Be4
+$5 {We should move forward as much as we can...} Rxd1+ 22. Rxd1 Rc8 23. b3 {
+Although the position is logically equal, still Black is facing some pressure
+on the queen side.}) 21... Nf5 22. Rxd7+ Bxd7 23. Bb6 Be6 24. Rd1 Rc8 25. b3
+Rc6 26. Ba7 Rd6 27. Kf1 g5 28. Bh5+ Kg7 29. Bc5 Rc6 30. Bb4 Nd4 31. Bc3 Kh6
+1/2-1/2
+
+[Event "Manchester Benedictine op 3rd"]
+[Site "Manchester"]
+[Date "1980.??.??"]
+[Round "9"]
+[White "Nunn, John DM"]
+[Black "Pytel, Krzysztof"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2515"]
+[BlackElo "2450"]
+[Annotator "RCA"]
+[PlyCount "69"]
+[EventDate "1980.09.03"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd2 {Necessary: Black has lots of weaknesses, for which White can continue
+with an attacking plan in the middlegame.} Nge7 9. Nc3 d6 (9... O-O $5 10. Bd3
+d6 {See theory section...}) 10. Bd3 Be6 11. O-O Rd8 12. b3 $5 {Interesting
+choice, but not the best of course!} (12. f4 $5 {Better than all the
+alternatives... opening up the f-file where Black's queen is situated; this
+file is also the gateway to White's attacking plan! For details, please see
+the theory section.}) 12... O-O 13. Bb2 Nb4 14. Rae1 $6 (14. Rad1 $5 {The rook
+should be placed on the semi-open 'd' file for maximum activity...} Nec6 15.
+Nd5 Nxd5 16. exd5 Bxd5 17. Bxh7+ Kxh7 18. Qxd5 {Followed by c4 or f4, with
+good attacking chances...}) 14... Ng6 15. Nd5 Nxd5 16. exd5 {White cleverly
+create a pawn majority on the queen side, which is a positional gain...} Nf4 $2
+{Tactics don't work here, as White has sufficient hidden resources to defend
+his flank...} (16... Bxd5 $4 17. Bxg6 $18) (16... Bd7 $5 {Safest...} 17. Kh1
+Nf4 18. Be4 {White is still slightly ahead, due to his pawn majority with the
+bishop pair...}) 17. dxe6 $1 Qg5 {Yes, it is true that White can't save his
+queen, but he can earn more than a queen here!} 18. Qxf4 $3 {This is the move
+that Black missed totally!} Qxf4 19. e7 b5 20. exf8=Q+ Kxf8 $18 {White gets a
+winning position...} 21. Re4 Qd2 22. f4 {Opening the 'f'-file and accelerating
+White's initiative...} f6 23. Re2 Qa5 24. fxe5 dxe5 25. Bxe5 Kg8 26. Ba1 {When
+you are ahead in a good position, every move is a good move...} Qxa2 27. Re7
+Rxd3 {Black desperately trying to do something in this position, but it's too
+late...} 28. cxd3 Qxb3 29. Rc1 Kf8 30. Rd7 Ke8 31. Rxg7 Qe6 32. Rc8+ {A
+well-known tactical device in a 2R v Q ending...} Qxc8 33. Rg8+ Kd7 34. Rxc8
+Kxc8 35. Bxf6 $18 {Black resigns.} 1-0
+
+[Event "Istanbul op-A 11th"]
+[Site "Istanbul"]
+[Date "2012.09.05"]
+[Round "6"]
+[White "Seyhanoglu, Deniz"]
+[Black "Elnaami, Hashem Ak"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2072"]
+[BlackElo "1810"]
+[Annotator "RCA"]
+[PlyCount "57"]
+[EventDate "2012.08.30"]
+[EventRounds "9"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2012.10.19"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd2 Qg6 (8... Nge7 $5 {See the theory section...}) 9. Nc3 {Defending e4 and
+controlling d5...} d5 $6 {This premature break doesn't help Black at all...} (
+9... Nf6 $6 10. Qd6 Ng4 11. Qxg6 hxg6 12. Nd5 {Followed by h3, f3, Be3 and Bc4,
+etc., with a better position for White...}) (9... Nge7 $5 10. h4 {See the
+theory section for details...}) 10. Nxd5 Qxe4+ 11. Be2 Qxg2 $5 (11... Nd4 $2
+12. Nc7+ Ke7 13. Nxa8 Nxc2+ 14. Kf1 Nxa1 15. b3 {White has decisive edge... he
+is threatening Qg5, Qc3 or Nb6, etc.}) 12. Nc7+ Kf8 13. Qd6+ $6 (13. Rf1 $5 {
+Accurate...} Rb8 14. b3 {White has the initiative...}) 13... Nge7 14. Rf1 Rb8
+15. Be3 Qg6 $6 (15... Bg4 $1 {Black overlooks this excellent move... removing
+the light-squared bishop makes White's king a little bit isolated...} 16. Bxg4
+Qxg4 $17) 16. Qa3 $6 (16. O-O-O $1 {Is White's best try...}) 16... Bh3 17.
+O-O-O Bxf1 18. Bxf1 Rc8 $6 (18... Kg8 $1 19. Kb1 Nf5 20. Nd5 Nxe3 21. Nxe3 h5
+$19) 19. Nd5 Qg4 $6 {A major slip in a decisive position...} (19... Qe4 $17)
+20. Bc5 $1 {Pressuring e7 and not allowing Black to reorganise his pieces...}
+Qg5+ 21. Kb1 g6 22. Nxe7 Nxe7 23. Rd7 $16 {White now gets more than
+compensation for the exchange...} Re8 24. Rxb7 f5 (24... e4 25. b3 h5 26. Bxa6
+$18 {Black can't do anything in this position, due to the nasty pin...}) 25. b3
+h5 26. Qxa6 Rh7 27. Bc4 h4 28. Qe6 {The whole of White's army is ganging up on
+the poor king... resignation time for Black!} Rf7 29. Qxf7# 1-0
+
+[Event "SLO-chT"]
+[Site "Bled"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Mazi, Leon"]
+[Black "Semrl, Marjan"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2325"]
+[BlackElo "2135"]
+[Annotator "RCA"]
+[PlyCount "61"]
+[EventDate "1996.??.??"]
+[EventRounds "7"]
+[EventCountry "SLO"]
+[Source "ChessBase"]
+[SourceDate "1997.01.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 (
+7... Qe7 $5 8. Qd1 Nf6 9. Nc3 {See theory section...}) 8. Qd2 {Avoiding the
+exchange is necessary... as Black has lots of weak squares, e.g. d6, d5, f5,
+c7 and b6, for which White can devise an attacking plan in the middlegame.}
+Nge7 9. Nc3 Qg6 {Converted to the main line...} (9... O-O $5 10. Bd3 d6 11. Qg5
+Qxg5 {Preparing 0-0-0 and thus creating pressure on d6... White has an easier
+game in comparison to Black...} 12. Bxg5) 10. h4 {Creating space and provoking
+Black into playing h5, thus weakening the king side...} h5 { - not necessary/
+\} (10... Nd4 $5 11. h5 $36 {See the theory section for further analysis...
+this is the main line.}) 11. Qg5 Nb4 12. Qxg6 Nxg6 13. Kd1 {Preparing a3, thus
+throwing Black's knight away and thereby would play Nd5 with a dominating
+position... again, White's king is sufficiently safe at d1, as there is no
+tactics/threat along the d-file.} d6 14. a3 Nc6 15. Nd5 {White has a strong
+initiative in this position, due to his dominant knight with bishop pair...}
+Rb8 (15... O-O 16. Nb6 Rb8 17. Be2 {The pawn on h5 can't be guarded now...
+this is due to Black's previous 10...h5 mistake!}) 16. Be3 {!? - the bishop
+monitors the weak dark squares on both sides of Black's camp...} Nce7 {? -
+this is the result of torment from White's centralised knight... Black can't
+keep control of his emotions and tries desperately to eliminate White's
+strongest piece from the board; but the timing is inadequate, as this knight
+on e7 has just lost control over the a7 square...} (16... f5 $5 17. f3 fxe4 18.
+fxe4 Bg4+ 19. Kd2 $14) 17. Ba7 {'+/-!'} Nxd5 18. Bxb8 Nf6 19. f3 {Black
+doesn't get any compensation for the exchange... White has a technical win
+position here...} d5 20. exd5 Nxd5 21. Bd3 Ne3+ 22. Kd2 Nxg2 23. Bxg6 fxg6 24.
+Rag1 Nf4 25. Bxe5 {+ - Black's position is far too damaged... game is over!}
+O-O 26. c4 Kh7 27. Ke3 Ne6 28. f4 Bd7 29. Rh2 Bc6 30. Rd2 Nc5 31. Rd6 1-0
+
+[Event "Warsaw (Women)"]
+[Site "Warsaw"]
+[Date "1986.04.05"]
+[Round "3"]
+[White "Wiese Jozwiak, Malgorzata"]
+[Black "Erenska Barlo, Hanna"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2185"]
+[BlackElo "2195"]
+[Annotator "RCA"]
+[PlyCount "127"]
+[EventDate "1986.04.03"]
+[EventRounds "3"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2011.11.24"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 {Already described: this
+thematic knight manoeuvre is simply to gain a tempo to play c4 immediately, so
+as to get a good pawn structure.} a6 {Black didn't allow White to form a
+Maroczy Bind pawn structure, but he has to give up his dark-squared bishop for
+that, on account of the dark-coloured weakness in his camp...} 6. Nd6+ Bxd6 7.
+Qxd6 Qf6 8. Qd2 {To keep the queen on the board is necessary... Black has lots
+of weaknesses in his camp, and in view of the location of Black's queen, White
+can try to take advantage of this.} Qg6 9. Nc3 Nge7 10. h4 h5 {?! - not
+necessary... weakens the king side.} 11. Qg5 Qxg5 {?! - Doe, John... Doe, John:
+POSITIONAL MISTAKE, making White's task easier...endgame favours White...} (
+11... Nb4 $5 12. Qxg6 Nxg6 13. Kd1 d6 14. a3 Nc6 15. Nd5 $36) 12. Bxg5 f6 13.
+Be3 {Principle of maximum activity...} f5 14. O-O-O {Ignoring Black's threats..
+. just completing his development...} b5 15. Bc5 {Now the bishop monitors the
+weak dark squares in Black's camp...} fxe4 16. g3 (16. Nxe4 $5 {Is also
+possible here...}) 16... d5 17. Nxd5 Bg4 {? - Doe, John...} (17... Nxd5 18.
+Rxd5 Bf5 19. Bg2 $16) 18. Nc7+ Kf7 19. Nxa8 Bxd1 20. Kxd1 Rxa8 21. Bg2 Rd8+ 22.
+Kc1 Nd4 23. Bxe4 {+ - Black gets no compensation for the pawn... White is up
+in material with the bishop pair; the rest is a matter only of technique...}
+Ke6 24. c3 Ndf5 25. Re1 Rc8 26. Bxe7 Nxe7 27. Bb7 Rb8 28. Bg2 Kf6 29. Rd1 Rb6
+30. Rd8 g6 31. Kd2 Nf5 32. Rf8+ Ke7 33. Rc8 (33. Ra8 {Accurate, which makes
+the task easier...} Nd6 34. b3 Nf5 35. Be4 Ke6 36. a4 bxa4 37. bxa4 Rd6+ 38.
+Ke2 $18) 33... Kd7 34. Rc5 Kd6 35. Rd5+ Ke6 36. Rd3 Nd6 37. Bh3+ Ke7 38. b3 Kf6
+39. Bg2 Ke7 40. Rd5 Nf7 41. Rc5 Kd6 42. b4 Kd7 43. Ke2 Kd6 44. Bd5 Nh6 45. Bb3
+{White is in no hurry... he just improves his position move by move...} Ng4 46.
+Rd5+ Ke7 47. f3 Nf6 48. Rxe5+ {The game is now effectively over...} Kd7 49. Bf7
+Nh7 50. f4 Rf6 51. Bd5 Rd6 52. Be4 Nf6 53. Bf3 Kc7 54. Rc5+ Kb6 55. f5 gxf5 56.
+Rxf5 a5 57. bxa5+ Kxa5 58. c4 Kb4 59. cxb5 Re6+ 60. Kf2 Kc4 61. Bxh5 Ne4+ 62.
+Kg2 Kd3 63. a4 Nc3 64. Bf7 1-0
+
+[Event "Nuremberg LGA Cup 3rd"]
+[Site "Nuremberg"]
+[Date "2006.09.08"]
+[Round "3"]
+[White "Baramidze, David"]
+[Black "Heidrich, Manfred"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "2591"]
+[BlackElo "2405"]
+[Annotator "RCA"]
+[PlyCount "85"]
+[EventDate "2006.09.07"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2006.11.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 {White's knight aims at
+Black's weak 'd6' square, which Black created through his last move!} a6 6.
+Nd6+ {The strategic drawback to this 5...a6 variation is: (i) Black has to
+give up his dark-squared bishop for a knight, despite the dark-coloured
+weakness in his camp; (ii) Black has a backward pawn in the semi-open 'd' file.
+} Bxd6 7. Qxd6 Qf6 {Black tries to exchange the heavy pieces, as he believes
+that with such a degree of weakness, he can still hold the position...} 8. Qd2
+{Avoiding an exchange is necessary... as Black has lots of weak squares, e.g.
+d6, d5, f5, c7 and b6, against which White can devise an attacking plan in the
+middlegame.} Qg6 9. Nc3 Nge7 10. b3 {?!} (10. h4 $5 {The main line - perhaps
+our recommendation! See the theory section for details.}) 10... d5 11. Nxd5 {
+'?'} (11. f3 $5 dxe4 12. Nxe4 O-O 13. Bd3 Rd8 14. Qg5 {With a roughly level
+position...}) 11... Qxe4+ {'?'} (11... Nxd5 $1 12. Qxd5 Be6 $17 {White is in
+trouble... his queen in the middle of the board is being attacked by Black's
+pieces with development.}) 12. Ne3 {'='} Be6 13. Bb2 Rd8 14. Bd3 Qh4 15. Qc3
+O-O (15... Nd5 $5 16. Nxd5 Bxd5 17. O-O {With a further level position...}) 16.
+O-O Rc8 {?!} (16... Nd5 {Is dead level...}) 17. f4 f6 (17... Nd4 $2 18. Qe1 $1
+$16) 18. Bc4 (18. Qc5 $5 Rfe8 19. Qd6 Ng6 20. Bf5 $36 {White gets the
+initiative in this position; Black has some weaknesses to cover along the
+a2-g8 diagonal.}) 18... Nd4 19. Qd2 (19. Qd3 {Accurate... bolstering the
+bishop at c4 and controlling the b1-h7 diagonal...}) 19... Rfd8 20. Bxd4 Bxc4
+21. Nxc4 Rxd4 22. Qb4 Re8 23. Qxb7 Rxf4 24. Rxf4 Qxf4 25. Rd1 Nf5 26. Qd5+ Kh8
+27. Qc6 Rg8 28. Qxa6 {?! - greedy...} (28. c3 $5 {Controlling the d4 square is
+necessary...} Nh4 29. Nd6 $14) 28... Qe4 29. Nd6 Nxd6 30. Qxd6 Qxc2 {The
+position is level... White has no time to push forward his queen side pawns.}
+31. Qd2 Qc5+ 32. Qf2 Qa3 33. Qc2 h6 34. Rd7 Re8 35. Rc7 e4 36. Qc6 Rg8 37. Qxe4
+Qxa2 38. b4 Rd8 39. Rc1 Qd2 40. Ra1 f5 41. Qc4 Kh7 42. b5 Rd4 43. Qc1 1/2-1/2
+
+[Event "ROM-chT"]
+[Site "Eforie Nord"]
+[Date "2000.12.20"]
+[Round "3"]
+[White "Petrenko, Svetlana"]
+[Black "Foisor, Cristina Adela B"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2316"]
+[BlackElo "2386"]
+[Annotator "RCA"]
+[PlyCount "83"]
+[EventDate "2000.12.18"]
+[EventRounds "5"]
+[EventCountry "ROU"]
+[Source "ChessBase"]
+[SourceDate "2001.03.20"]
+[WhiteTeam "Romania"]
+[BlackTeam "Romania"]
+[WhiteTeamCountry "ROU"]
+[BlackTeamCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd2 Qg6 9. Nc3 Nge7 10. f3 {Nothing wrong with this move, but not the best
+alternative for White... instead, he should play} (10. h4 $5 Nd4 11. h5 $36 {
+With good practical chances; please see the theory section for a detailed
+analysis of the variation...}) 10... O-O 11. Bc4 {Principle of least active
+piece and maximum activity...} Kh8 12. O-O d6 13. Qg5 {Thematic queen exchange
+favours White, due to lots of weakness in Black's camp in view of White's
+bishop pair...} Be6 14. Bd5 {Doe, John... again, thematic piece placement; the
+idea is to create a pawn majority on the queen side...} Rae8 15. Qxg6 Nxg6 16.
+Bxc6 bxc6 17. Rd1 Rd8 18. Be3 Ne7 19. Rd2 Nc8 20. Rad1 {White implements his
+plan... to create pressure at d6, thus limiting Black's counterplay.} Rde8 21.
+b4 {Fixing on the isolated a6 pawn...} h6 22. a4 Bc4 23. Nb1 f5 24. Na3 Bg8 25.
+c4 {White successfully implements his plan with minimum delay... a pawn march
+on the queen side, trying to create a passed pawn there... not fearing the e4
+pawn sacrifice in return...} fxe4 26. fxe4 Bh7 27. c5 {'!'} dxc5 28. Bxc5 Rg8
+29. Nc4 Bg6 (29... Bxe4 30. Re1 Bd5 31. Nxe5 {With a dominant position... this
+is the result of playing with a plan in mind!}) 30. Re1 Kh7 31. Rd7 {The rook
+penetrates deep into Black's camp, i.e. the 7th rank is decisive...} Re6 32.
+Kf2 Rf6+ 33. Ke3 {Bringing the king to the centre... nice endgame play by
+White.} Re8 34. Red1 Rf4 35. Nd2 Bh5 36. Rf1 {Eliminating the most active
+piece...} Rxf1 37. Nxf1 Re6 38. Ng3 Bg6 39. Nf5 Kh8 40. Nxg7 Rf6 41. Nf5 Re6
+42. Nxh6 {+ - time for Black to resign in such a hopeless position...} 1-0
+
+[Event "Internet Section 18-A"]
+[Site "Dos Hermanas"]
+[Date "2003.03.18"]
+[Round "2"]
+[White "Mamedov, Rauf"]
+[Black "Llaneza Vega, Patricia"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2315"]
+[BlackElo "2314"]
+[Annotator "RCA"]
+[PlyCount "101"]
+[EventDate "2003.03.18"]
+[EventType "blitz"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd2 Qg6 9. Nc3 Nge7 10. h4 h6 $6 (10... Nd4 $5 {the best choice....} 11. h5 Qg4
+12. h6 $36 {See theory section for details...}) 11. h5 {Creating space...
+throwing the queen out of her ideal position...} Qf6 12. Bd3 b5 13. O-O O-O 14.
+b3 {'?!'} (14. a4 $5 b4 15. Nd5 Nxd5 16. exd5 Nd4 17. Qxb4 {Is good for White..
+.}) 14... Nd4 15. Bb2 Qh4 16. Ne2 {!? - White indirectly supports his h5 pawn
+and eliminates Black's most active piece at the same time...} Nxe2+ 17. Qxe2 d6
+18. f4 {?! - further weakening the king side is not necessary!} (18. a4 $5 b4
+19. Bc4 Rd8 20. c3 $14) 18... exf4 {'?!'} (18... Bg4 $5 19. Qe3 Qxh5 {Black
+gets some counterplay...}) 19. e5 Bg4 20. Qe1 (20. Qe4 $5 Bf5 21. Qxf4 Qxf4 22.
+Rxf4 Bxd3 23. exd6 Nf5 24. cxd3 Nxd6 25. Rg4 f6 26. Rc1 $11 {With even chances.
+..}) 20... Qxe1 21. Raxe1 dxe5 22. Rxe5 Nc6 23. Rc5 Nb4 24. Be4 {? - a miss
+from Black's side!} (24. Bxg7 $5 Kxg7 (24... Nxd3 $5 25. Bxf8 Nxc5 26. Bxc5 Rc8
+27. Rxf4 Bxh5 28. b4 $11) 25. Rxf4 $14) 24... Rad8 {? - another miss by Black!}
+(24... Rac8 $6 25. Rxc8 Rxc8 26. Rxf4 Be6 $11) 25. Rxf4 {'!?'} (25. a3 $1 {
+Immediate win...} f5 26. Rxf4 $18) 25... Be6 26. a3 Nd5 27. Rf3 f5 28. Bd3 Rf7
+29. Rc6 Nc7 {?? - a blunder!} (29... Bc8 $8 30. c4 Ne7 31. Rb6 $16) 30. Be5 Bd5
+31. Rxc7 Bxf3 32. Rxf7 Kxf7 33. gxf3 {The game, quite simply, is over... the
+bishop pair with the passer along the queen side is a killer; Black's rook has
+no open lines to show its strength...} g6 34. hxg6+ Kxg6 35. Kf2 Kg5 36. Kg3
+Re8 37. f4+ Kg6 38. Kf3 h5 39. Kg3 Re7 40. Kh4 Re8 41. Be2 Rc8 42. c4 bxc4 43.
+bxc4 Rd8 44. Bxh5+ Kh7 45. Kg5 Rd3 46. a4 Ra3 47. Be8 Ra2 48. c5 Kg8 49. c6
+Rxa4 50. c7 Rc4 51. Bd7 1-0
+

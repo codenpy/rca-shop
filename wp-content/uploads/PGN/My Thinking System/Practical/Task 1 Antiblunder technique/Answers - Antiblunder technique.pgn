@@ -1,0 +1,580 @@
+[Event "4th Sinquefield Cup 2016"]
+[Site "Saint Louis"]
+[Date "2016.08.05"]
+[Round "1"]
+[White "Topalov, Veselin"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2761"]
+[BlackElo "2751"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "1r4k1/2p3p1/p1n1p2p/P2q4/3P4/4QN1P/5PP1/2R3K1 b - - 0 25"]
+[PlyCount "6"]
+[EventDate "2016.??.??"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+
+25... Rb4 $2 {Black has a difficult position with pawn weaknesses on a6, c7
+and e6. He tries to be active but overlooks a strong blow from White. White to
+play and win.} 26. Qc3 $1 Nxd4 27. Qxb4 Ne2+ {Black has foreseen the position
+up to this point and hopes to win back the rook; unfortunately, White can
+recapture the knight on c1 with a double attack.} 28. Kh1 (28. Kh1 Nxc1 29.
+Qb8+ Kh7 (29... Kf7 30. Qxc7+ Kg6 31. Qxc1) 30. Qb1+ Kg8 31. Qxc1) 1-0
+
+[Event "LTU-chT (Women)"]
+[Site "Lithuania"]
+[Date "2015.03.28"]
+[Round "6"]
+[White "Semonaviciute, Migle"]
+[Black "Maciuityte, Greta"]
+[Result "0-1"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1626"]
+[ECO "C26"]
+[EventDate "2014.02.8"]
+[FEN "r4rk1/1ppqnpp1/1p1p3p/8/3PPBb1/2P3P1/PPQ2RBP/5RK1 w - - 0 18"]
+[SetUp "1"]
+[WhiteElo "1732"]
+[EventCountry "LTU"]
+[EventRounds "7"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+
+18.e5 $5 {This is a very brave and risky decision. White has very
+good control over the center and the bishop pair. No one forced
+him to attack immediately. After this move, White is forced to
+calculate a lot of variations. Can you calculate the next two
+forcing moves for both sides and evaluate the position at the
+end?} (18.a3 $1 {This is a safe move. White should make it and
+prepare the e5 advance in the future.}) 18...dxe5 19.Bxe5 Ng6 $2 {This
+is very provocative. Black would like to isolate the e5-pawn
+and play for the win. First, however, he should worry about White's
+threats and, only afterwards, should he attack. The b7-pawn is
+hanging. After this move, knight to g6, White has an awesome
+tactical trick, as you can see in the sub-variation.} (19...c6 $1 {Black
+does not face any problems here. The position is about equal.
+There are pros and cons to each player's position.}) 20.Be4 $2 {This
+is a bad move, as White had two candidate moves. The first was
+to capture on b7 and the second was to protect the a-pawn with
+the move a3.} (20.Bxb7 Rxa2 21.Qxg6 $3 {This is a fantastic move!} fxg6 22.Rxf8+
+Kh7 23.R1f7 $18 {Black cannot save the queen and avoid checkmate
+on g7.}) 20...Nxe5 21.Bh7+ Kh8 22.dxe5 Bh3 23.Bf5 Bxf5 24.Rxf5 Rxa2 $17 {This
+is a fat, sweet pawn. Black captures it and can hope to win the
+endgame. As Capablanca used to say, among strong players we know
+that one pawn is enough to win in the endgame. Black wins the
+game afterwards.} 25.Qb3 Ra1 26.e6 Rxf1+ 27.Rxf1 Qd6 28.exf7 Qc5+ 29.Rf2
+Qe7 30.Qd5 c6 31.Qf5 Qe1+ 32.Kg2 Qe7 33.h4 b5 34.b4 b6 35.Kh3 c5 36.Qf4
+Qe6+ 37.Kh2 Qe7 38.Kg2 Qb7+ 39.Kg1 Qe7 40.Kh2 Kh7 41.h5 Kh8 42.Kh3 Qd7+
+43.Kh2 Qe7 44.Kg2 Qb7+ 45.Rf3 Qe7 46.Kh3 Qe6+ 47.g4 Qe1 48.Kg2 Qe2+ 49.Rf2
+Qe7 50.Kf1 Qd7 51.Kg2 Qb7+ 52.Kh2 Qe7 53.Kh3 Qe1 54.Kg2 Qe7 55.Kg3 Qe1
+56.Kg2 Qe7 57.Kf3 Rxf7 58.Qxf7 Qxf7+ 59.Kg3 Qe7 60.Rf4 cxb4 61.cxb4 Qe3+
+62.Rf3 Qe1+ 63.Kh3 Qxb4 64.Kg3 Qd6+ 65.Kg2 b4   0-1
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.01.31"]
+[Round "-"]
+[White "Rosing, Hermann"]
+[Black "Austrup, David"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1850"]
+[ECO "A03"]
+[EventDate "2014.09.6"]
+[FEN "1rbq1rk1/pp3p1p/6pB/3nb3/3p4/3P2P1/PPN1P1BP/R3QRK1 b - - 0 15"]
+[SetUp "1"]
+[WhiteElo "1996"]
+[BlackTeam "Muenster V"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Ahaus Wessum"]
+[WhiteTeamCountry "GER"]
+
+15...Bg7 $2 {Up to this point, Black has played very well! Unfortunately,
+he retreats the bishop and, for that reason, lose a defender
+for the d4 pawn… Similarly, Black loses a good defender for the
+dark squares around his king.} (15...Re8) 16.Bxg7 Kxg7 17.Qf2 $16 {The
+d4-pawn is doomed. Black loses a pawn and the game afterwards.} Ne3 18.Nxe3
+dxe3 19.Qxe3 Bg4 20.Rac1 Be6 21.a3 h5 22.Qe5+ Kg8 23.Rc7 Re8 24.Rf6 Bf5
+25.Qc3 Re7 26.Rxe7 Qxe7 27.Bd5 Qe3+ 28.Kf1 Rf8 29.a4 Bh3+ 30.Ke1 Bg4 31.Rxg6+
+  1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.01.31"]
+[Round "-"]
+[White "Lodde, Martin"]
+[Black "Hanewinkel, Martin"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1883"]
+[ECO "D02"]
+[EventDate "2014.09.6"]
+[FEN "3r2k1/pb3p1p/1p1q1np1/4p3/4P3/1P2NPP1/PQR3BP/6K1 b - - 0 22"]
+[SetUp "1"]
+[WhiteElo "1880"]
+[BlackTeam "Beelen"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Telgte"]
+[WhiteTeamCountry "GER"]
+
+22...Qd4 $2 {The game was very drawish up to this point. Now Black
+becomes ambitious and wants to create a passed pawn in order
+to win the game. What do you think: is this a good or bad move?} 23.Qxd4 $1
+{Black's previous move was very bad because White can isolate
+the d-pawn and start attacking it with his pieces.} exd4 24.Rd2 {This
+is the move Black missed. The d-pawn is pinned, therefore Black
+cannot capture the knight.} Rd7 25.Nc2 d3 26.Nb4 {All the White
+pieces can attack this advanced pawn. White has an opportunity
+here and is not going to miss it. So that's the first argument
+against these passed pawns. Do not push them if you cannot support
+them with your pieces. White wins the game afterwards.} Rc7 27.Nxd3 a5
+28.Kf2 Rc3 29.Nf4 Kf8 30.Ne2 Rc7 31.Nd4 Ke7 32.Rc2 Rd7 33.Ke3 Ne8 34.Bh3
+Rd6 35.e5 Rd5 36.f4 f6 37.exf6+ Kxf6 38.Bg2 Rd7 39.Bxb7 Rxb7 40.Rc6+ Kf7
+41.Nb5 Re7+ 42.Kd3 Re1 43.Rxb6 Rd1+ 44.Kc3 Nf6 45.Rb7+ Ke6 46.Nd4+ Kd6
+47.Rb6+ Ke7 48.Nc6+ Kd7 49.Nxa5 Ne4+ 50.Kb4 Rd2 51.Rb7+ Ke6 52.Rxh7 Rxa2
+53.Nc4 Nf2 54.Ne5 Kf5 55.Rf7+ Ke6 56.Rg7 Ra8 57.Rxg6+ Kd5 58.h4 Rb8+ 59.Ka3
+Ne4 60.Rg7 Nc5 61.b4 Kd4 62.Nc6+   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.01.31"]
+[Round "?"]
+[White "Kloenne, Tim"]
+[Black "Wigger, Niklas"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "1812"]
+[BlackElo "1621"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "rnbq1rk1/p3bppp/1p1p1n2/2pPp3/2P1PP1N/2N3P1/PP4BP/R1BQ1RK1 b - - 0 11"]
+[PlyCount "54"]
+[EventDate "2014.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Gronau"]
+[BlackTeam "Heiden"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+11... Ng4 $2 {Black tries to overprotect the e5-pawn. Is this a good or bad
+move? What do you think?} (11... Nbd7 $5) (11... Bg4 $5) 12. Nf5 $1 {Black play
+s unorthodox. If he wishes to support the e5-pawn, then he should do so in
+another way. Knight to d7 or bishop to g4 are better moves. White is breaking
+the connection of the knight on g4 and bishop on c8 but the main problem for
+Black is the unprotected rook on a8!} Bxf5 13. exf5 Nf6 14. fxe5 $1 {This is th
+e move Black has overlooked. Now he loses a pawn and the game afterwards.
+Please note that he cannot capture on e5 because of a strong counter-blow - d6.
+} Ne8 (14... dxe5 15. d6 Qxd6 16. Qxd6 Bxd6 17. Bxa8) 15. exd6 Nxd6 16. Qd3 Bf6
+17. Bf4 a6 18. Kh1 Ra7 19. Bxd6 Qxd6 20. Ne4 Qd8 21. Nxf6+ Qxf6 22. b3 a5 23.
+Rae1 Re7 24. Rxe7 Qxe7 25. Qe4 Qd6 26. Re1 Qh6 27. g4 Qd2 28. Qe2 Qf4 29. h3 h6
+30. Qe3 Qd6 31. Qe5 Qd8 32. Qe7 Qc8 33. d6 Nc6 34. Bxc6 Qxc6+ 35. Re4 a4 36. d7
+Qa8 37. Qe8 Kh7 38. Qxa8 1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.03.14"]
+[Round "-"]
+[White "Hanewinkel, Martin"]
+[Black "Hartmann, Steffen"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1911"]
+[ECO "A48"]
+[EventDate "2014.09.6"]
+[FEN "r3r1k1/1bqn1pbp/p4np1/1p2p3/P1p1P3/2P1BN1P/1PBNQPP1/R4RK1 w - - 0 17"]
+[SetUp "1"]
+[WhiteElo "1883"]
+[BlackTeam "Muenster V"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Beelen"]
+[WhiteTeamCountry "GER"]
+
+17.b4 $5 {White plays b4. What do you think? Is this a good or bad
+move? It seems that Black can capture en passant and then take
+on c3. Is this possible?} cxb3 18.Bxb3 {The choice of b4 is a
+good move because White is following the right plan. He would
+like to open the queenside in order to attack there. In the actual
+game, White doesn't find a justification for the b4 move but
+merely follows his intuition and, indeed, is correct. Black should
+not capture the c3-pawn immediately.} bxa4 19.Rxa4 Qxc3 $4 20.Rb1 $6 (20.Bc4 $3
+{This would be an amazing move. If White then moves the knight
+to b1, the queen is trapped. Actually, this is a very difficult
+variation, so it was normal for it to be missed.} Rec8 21.Nb1) 20...Qc6
+21.Bxf7+ $5 {This is an interesting move but White could have played
+with more precision. The bishop on b7 is not well supported and
+the rook on a8 is out of the game. In the sub-variation, we can
+see a crushing continuation for White.} (21.Ng5 Rf8 22.Bxf7+ Rxf7 23.Rc4
+Qd6 24.Nxf7 Kxf7 25.Rxb7 $18) 21...Kxf7 22.Rc4 Qd6 23.Rxb7 Kg8 24.Rcc7 h6
+25.Qc4+ Kh8 26.Nh4 Reb8 27.Rxb8+ Rxb8 28.Nxg6+ Kh7 29.Nh4 Rb4 30.Qc3 Ne8
+31.Rc8 Ndf6 32.Bc5   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.03.14"]
+[Round "-"]
+[White "Schemmann, Bernhard"]
+[Black "Stumpe, Danny"]
+[Result "0-1"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1674"]
+[ECO "B10"]
+[EventDate "2014.09.6"]
+[FEN "6k1/1b2bp1p/2q1p1p1/np1n4/3PN3/P2Q1P2/4N1PP/1BB3K1 w - - 0 32"]
+[SetUp "1"]
+[WhiteElo "1845"]
+[BlackTeam "Muenster V"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Beelen"]
+[WhiteTeamCountry "GER"]
+
+32.N2c3 $2 {This move is wrong because White's knights are shaky:
+they are unstable and are not well protected from other pieces.
+Black is threatening the knight on d5. This knight is forced
+to move, so the other knight on c3 will fall.} (32.N4c3 $1 $15) 32...f5 33.Nc5
+Bxc5 34.Nxd5 Bxd4+ $1 {White tries to complicate matters but after
+this forcing move, bishop to d4, he loses material. The bishop
+on c1 is hanging.} 35.Be3 {White saves the piece but loses a
+pawn. Black wins the game afterwards.} (35.Qxd4 Qxc1+ 36.Kf2 Bxd5 $19) 35...Qxd5
+36.Qxd4 Nc4 37.Qxd5 Bxd5 38.Bc5 Kf7 39.Bd3 e5 40.Bxc4 bxc4 41.Bb4 h5 42.Kf2
+Ke6 43.g3 Bc6 44.h4 f4 45.gxf4 exf4 46.Bc3 Kf5 47.Kg2 g5 48.hxg5 Kxg5 49.Be5
+Kf5 50.Bc3 h4 51.Kh3 Bxf3 52.Kxh4 Ke4 53.Kg5 Bd1 54.Kh4 Ke3 55.Kh3 f3 
+ 0-1
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.03.14"]
+[Round "-"]
+[White "Rothkegel, Juergen"]
+[Black "Dittberner, Markus"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1686"]
+[ECO "B77"]
+[EventDate "2014.09.6"]
+[FEN "2rq1r2/pp1bppkp/3p1np1/4n3/4P1P1/1NN2P2/PPPQB2P/2KR3R b - g3 0 15"]
+[SetUp "1"]
+[WhiteElo "1881"]
+[BlackTeam "Muenster Indische Dame"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Gronau"]
+[WhiteTeamCountry "GER"]
+
+15...Nc4 $2 {Black tries to attack on the queenside and, for that
+reason, is transferring pieces there. Knight to c4 looks very
+natural. What do you think: is it a good move or not?} (15...h6 $1 {This
+is the best option for Black. He should cover the dark squares
+on his kingside and, only then, try to do something active in
+the center or on the queenside.}) 16.Bxc4 Rxc4 17.h4 $1 {This is
+a very interesting and typical move. White's attack is developing
+fluently and Black cannot do anything about it.} h5 18.e5 Ne8 19.gxh5 {Now
+it is obvious to anyone that White's attack is very strong. Black
+doesn't care about White's strong threats and is focusing only
+on his own ideas. White manages to open Black's kingside and
+the "storm" is coming...} Rh8 (19...gxh5 {The h-pawn is taboo
+because White will either deliver checkmate or lose a lot of
+material.} 20.Qg5+ Kh7 21.Qxh5+ Kg8 22.Rhg1+ Ng7 23.Qh6 $18) 20.hxg6 Rcxh4
+21.Rxh4 Rxh4 22.gxf7 Kxf7 23.Qg5 {White has very strong attack
+and wins the game afterwards.} Rh7 24.exd6 Rg7 25.dxe7 Qxe7 26.Qf4+ Kg8
+27.Ne4 Bc6 28.Nd4 Bd7 29.Rh1 Rg6 30.Qh2 Qg7 31.Qd2 Rg2 32.Qe3 b6 33.Ne2
+Ba4 34.Rg1 Rxg1+ 35.Qxg1 Qxg1+ 36.Nxg1 Kf7 37.b3 Bc6 38.Kd2 Kg6 39.Ke3
+Nc7 40.Ne2 Nd5+ 41.Kd2 Kf5 42.Nd4+   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.03.14"]
+[Round "-"]
+[White "Dieckmann, Werner"]
+[Black "Wetter, Ralf"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1862"]
+[ECO "A46"]
+[EventDate "2014.09.6"]
+[FEN "2r2rk1/1b1np1b1/p1q4p/Q1pp1pp1/B7/2P1PNP1/PP1N1PP1/R4RK1 b - - 0 20"]
+[SetUp "1"]
+[WhiteElo "1748"]
+[BlackTeam "Heiden"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Telgte"]
+[WhiteTeamCountry "GER"]
+
+20...Qd6 $6 {Black tries to avoid the queen exchange. What do you
+think: is this a good decision or not?} (20...Qc7 $1 {The best
+square for the queen is c7. Black should be happy after the queen
+exchange because his pieces are very well coordinated, control
+the center, and perhaps can put pressure on the b2- pawn.}) 21.Rfd1 {White
+starts to create tactical problems for Black. The main problem
+is that Black's queen is opposite the White rook.} Nb6 22.Bb3 Kh8 23.Nc4 $1
+Nxc4 24.Bxc4 f4 $6 {Again, Black doesn't use the anti-blunder technique.
+He should care about White's threats because his pieces are shaky.} (24...e6 $1)
+25.gxf4 gxf4 26.Bxd5 $1 {This is a fantastic blow! White overturns
+the situation and takes the initiative and the lead.} Bxd5 27.e4 $16 {White
+is using the pin in order to win back the piece. White wins the
+game afterwards.} e6 28.exd5 exd5 29.Qa4 Rcd8 30.Qc2 Qf6 31.Re1 Rg8 32.Qe2
+d4 $6 {This is a bad strategic move because White can block the
+d-pawn on the dark square. This pawn can limit the bishop's radius.
+Hence, this move is bad.} 33.cxd4 cxd4 34.Qd3 Bf8 35.Rad1 Qg7 36.Qf1 d3
+37.Re4 Qxb2 38.Rxd3 Rxd3 39.Qxd3 Bc5 40.Qe2 Qg7 41.Ne1 Qg3 42.Re6 Rg6 43.Rxg6
+Qxg6 44.Qe5+   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.03.14"]
+[Round "-"]
+[White "Herdering, Martin"]
+[Black "Koepplinger, Guenter"]
+[Result "0-1"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1575"]
+[ECO "B06"]
+[EventDate "2014.09.6"]
+[FEN "r6k/2qb2bn/1pn1p2p/2p1P1p1/2B1Q3/2P2NP1/1P1N2KP/2B2R2 b - - 0 22"]
+[SetUp "1"]
+[WhiteElo "1831"]
+[BlackTeam "Telgte"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Heiden"]
+[WhiteTeamCountry "GER"]
+
+22...Rf8 $4 {Is this is a good or bad move: what do you think?} (22...Nf8 $1
+{Black should ask himself: "What is White's next move?" It is
+obvious that White would like to play bishop to d3 and deliver
+checkmate on h7. Therefore, the best move is knight to f8.}) 23.Bd3 {This
+looks strange because Black has a lot of pieces around his king
+but cannot protect the h7 square.} Rf5 24.g4 $18 {White is playing
+forcing chess. The rook is obliged to run away from the f5 square
+in order to open the b1-h7 diagonal.} Ne7 25.gxf5 exf5 26.Qa8+ Nf8 27.Kg1
+Bc6 28.Qa2 g4 29.Nh4 Qxe5 {This situation is very tense. White
+is a rook up (!) but his kingside is open and his pieces are
+not well coordinated, while Black's queen looks extremely active.
+White has two possible defensive ideas. Unfortunately, he has
+lost control of the game and doesn't manage to play the correct
+moves. White returns the gift to Black.} 30.Nc4 $2 (30.Qf7 $1 Qe3+ 31.Rf2 Qxd3
+32.Qxe7) (30.Ng2 $5 Bxg2 31.Kxg2 Qe3 32.Bb5 $18) 30...Qd5 {The bishop
+is hanging and the h1 square is undefended. Black wins the game
+afterwards.} 31.Bxf5 $2 Nxf5 32.Rxf5 Qh1+ 33.Kf2 Qxh2+ 34.Ke3 Qxh4 35.Ne5
+Qe1+ 36.Kf4 Qe4+ 37.Kg3 Bxe5+ 38.Rxe5 Qxe5+ 39.Bf4 Qh5 40.Kf2 g3+   0-1
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.03.14"]
+[Round "-"]
+[White "Boerger, Andreas"]
+[Black "Schroeter, Manfred"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1886"]
+[ECO "A36"]
+[EventDate "2014.09.6"]
+[FEN "r4rk1/3bp1bp/1q1p2p1/2pP4/ppP2PP1/1P1PBB2/P4QK1/1R3R2 b - - 0 24"]
+[SetUp "1"]
+[WhiteElo "1799"]
+[BlackTeam "Saerbeck"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Muenster IV"]
+[WhiteTeamCountry "GER"]
+
+24...e6 $4 {What do you think of this move: is it good or bad? Can
+you explain why?} (24...Bc3) (24...Ra7 {Rook a7 or bishop c3
+were both better moves. Black starts a very nice plan, attacking
+on the queenside, and should continue with it. The strike in
+the center with e6 was totally illogical.}) 25.dxe6 Bxe6 26.Bxa8 {It
+seems that Black has totally forgotten about his rook in the
+corner. White is an exchange up and wins the game afterwards.} Rxa8 27.Qf3
+Qd8 28.f5 gxf5 29.gxf5 Bd7 30.f6 Qc8 31.Kh2 axb3 32.axb3 Ra2+ 33.Rf2 Rxf2+
+34.Qxf2 Bf8 35.Rg1+ Bg4 36.Qh4   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.04.18"]
+[Round "-"]
+[White "Diehlmann, Christian"]
+[Black "Ruhe, Johannes"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1975"]
+[ECO "D47"]
+[EventDate "2014.09.6"]
+[FEN "r1b2rk1/pp1n1ppp/8/q2Bp3/4P3/1P3N2/P1Q2PPP/R4RK1 b - - 0 16"]
+[SetUp "1"]
+[WhiteElo "1839"]
+[BlackTeam "Beelen"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Ahaus Wessum"]
+[WhiteTeamCountry "GER"]
+
+16...Kh8 $2 {Black would like to play attacking chess. His idea
+is to play f5 and open the position. What do you think: is this
+good or bad strategy?} (16...Nf6 $1 {Black plays a very provocative
+move - king h8. The best move was knight to f6, in order to fight
+against bishop d5. If our opponent has a very strong piece, we
+should exchange it.}) 17.Ng5 {This is a forcing move. As we learned
+from the theoretical part, it is necessary to make forcing moves.} h6 (17...Kg8
+{This move cannot save Black, as he already has a very bad position.} 18.Bxf7+
+Rxf7 19.Qc4 $18) 18.Nxf7+ Kh7 19.Rad1 Nf6 20.Nxe5 {From an equal
+position, Black manages to lose two pawns and the game afterwards.} Nxd5
+21.Rxd5 Qb6 22.Rfd1 Qf6 23.Nc4 Kh8 24.Nd6 Be6 25.R5d2 Bg4 26.f3 Bh5 27.Rd5
+Bg6 28.Qc7 Qf4 29.Qc3 Rg8 30.Nf5 Rae8 31.g3 Qb8 32.Nxh6 Rgf8 33.Rd6 Rd8
+34.Rd7 Rxd7 35.Rxd7 Rf6 36.Qd4 Qf8 37.Nf5 Be8 38.Rxg7 Bg6 39.Rxg6   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.04.18"]
+[Round "?"]
+[White "Cigelski, Rudolf"]
+[Black "Woltering, Martin"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "1795"]
+[BlackElo "1680"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "1k1r3r/pbnqbpp1/4p3/1P2Pn1p/P2p1P2/5NP1/1B1NQ1BP/R3K2R w KQ - 0 22"]
+[PlyCount "10"]
+[EventDate "2014.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Beelen"]
+[BlackTeam "Ahaus Wessum"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+22. Nc4 $2 {White starts an attacking plan. He would like to place the knight
+on a5 and create strong threats against the enemy king. At the same time,
+White is overprotecting the vital e3 square. Right now, Black cannot jump to
+e3 with the knight. Is this move tactically correct for White?} (22. O-O $1 {
+The correct move was to castle short. White should finish his development at
+any cost.}) 22... Bb4+ $1 {The hunting period starts! All of Black pieces will
+hunt the White monarch. Similarly, the d-pawn is a very powerful direct force
+for Black.} 23. Kf2 d3 {
+Black attacks the queen and is opening more lines for his pieces.} 24. Qd1 Bc5+
+25. Kf1 d2 {This pawn is almost a new queen. White cannot protect himself from
+the deadly check on d3.} 26. Nfxd2 Qd3+ (26... Qd3+ 27. Ke1 Bxg2 28. Rf1 Bxf1
+$19) 0-1
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.04.18"]
+[Round "-"]
+[White "Luetkehermoelle, Martin"]
+[Black "Schoepper, Oliver"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1832"]
+[ECO "B02"]
+[EventDate "2014.09.6"]
+[WhiteElo "1930"]
+[BlackTeam "Muenster IV"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Gronau"]
+[WhiteTeamCountry "GER"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 d4 4.Nce2 Ne4 5.c3 {We start this game
+at the very beginning but it is possible to face this situation
+in your real games. What do you think now: what is the best move
+for Black?} Nc5 $2 {Black threatens checkmate on d3 but it is White's
+turn. So White sees this threat and happily captures a pawn.} (5...dxc3 $1
+{This is the simplest and most effective move for Black.}) (5...d3 $2 6.Nf4
+{The pawn is doomed.}) (5...c5 $2 6.d3 {The knight is trapped.}) 6.Nxd4 Qd5
+7.Qe2 e6 8.b4 {White has consolidated his position. Now he is
+kicking back the Black pieces and has a huge advantage. White
+wins the game afterwards.} Ncd7 9.Ngf3 b6 10.Nb3 c5 11.c4 Qc6 12.b5 Qc7
+13.Bb2 Bb7 14.Qe3 Be7 15.Bd3 Nf8 16.O-O Ng6 17.Ng5 Nd7 18.f4 Bxg5 19.Bxg6
+hxg6 20.fxg5 Rh4 21.Rf4 Rxf4 22.Qxf4 Ke7 23.Rf1 Rf8 24.d3 Ke8 25.Nd2 Ke7
+26.Ne4 Bxe4 27.Qxe4 Qc8 28.a4 Qa8 29.Qxa8 Rxa8 30.g3 a6 31.Ra1 a5 32.Kf2
+Rh8 33.h4 Rd8 34.Ke3 Nf8 35.Rd1 Nd7 36.d4 cxd4+ 37.Rxd4 Nc5 38.Ba3 Rc8
+39.Rd6 Nxa4 40.Rxb6+ Ke8 41.Rc6 Rxc6 42.bxc6 Kd8 43.Bd6 Kc8 44.Kd4 Nb2
+45.g4   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.04.18"]
+[Round "-"]
+[White "Thomas, Wolfgang"]
+[Black "Skrodzki, Heinz Werner"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1694"]
+[ECO "B09"]
+[EventDate "2014.09.6"]
+[FEN "r2q1rk1/2nnppbp/p5p1/1p1PP3/2p1N3/5N1P/PPP1Q1PB/1K1R3R b - - 0 18"]
+[SetUp "1"]
+[WhiteElo "1745"]
+[BlackTeam "Heiden"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Muenster V"]
+[WhiteTeamCountry "GER"]
+
+18...a5 $2 {Black starts the pawn storm on the queenside. Is this
+the best move: what do you think?} (18...e6 $8 {Black should challenge
+White's center and then think of something else.}) 19.e6 $1 {This
+is a fantastic and very powerful move. White has better control
+of the center and uses it in order to open lines and attack the
+disorganized Black pieces. Control the center and you control
+the game.} fxe6 20.dxe6 Nxe6 21.Neg5 {The basic problem for Black
+is the pinned knight on d7. White wins the game very soon afterwards.}
+Nec5 22.Ne6   1-0

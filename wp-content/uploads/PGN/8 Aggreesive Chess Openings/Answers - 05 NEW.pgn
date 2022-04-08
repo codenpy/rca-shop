@@ -1,0 +1,208 @@
+[Event "Porrentruy op 4th"]
+[Site "Porrentruy"]
+[Date "2006.??.??"]
+[Round "1"]
+[White "Hamdouchi, Hicham"]
+[Black "Furrer, Marc"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2579"]
+[BlackElo "2171"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "2006.11.19"]
+[EventRounds "5"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2007.01.10"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Nc6 6. Bd2 a6 7. Bc4 Qh5 8.
+Ne5 Bg4 9. Nxg4 Qxg4 10. Qxg4 Nxg4 11. h3 Nxd4 12. hxg4 Nxc2+ 13. Ke2 Nxa1 14.
+Rxa1 e6 15. Ne4 Be7 16. Bc3 O-O 17. g5 b5 18. Bd3 c5 19. Rh1 c4 20. Bc2 b4 21.
+Be5 Rad8 {Diagram #} 22. Nd2 $1 {This is an amazing move, not only because it
+attacks the c4-pawn, but it's also threatening h7 at the same time. This is
+happening because White's pieces are more active than Black's.} (22. Bf4 $5) (
+22. Bg3 Rd5 $132) 22... f6 (22... Bxg5 23. Bxh7+ Kh8 24. Nxc4 $18) 23. Nxc4 {
+Black tried to complicate the issue by attacking the e5-bishop, but White is
+still attacking the h7-pawn.} Rc8 24. Bxh7+ Kf7 25. Nd6+ {Everything is just
+in time. Black is forced to capture the knight in order to save the rook.} Bxd6
+26. Bxd6 Rh8 27. Bxb4 $18 {The position is completely winning for White
+because the two bishops are very strong and he has an extra pawn. He wins the
+game afterwards.} fxg5 28. Bc3 Rce8 29. g4 e5 30. Be4 Rh4 31. Rg1 Kf6 32. Rg3
+Rb8 33. Rf3+ Ke6 34. Bf5+ Kd6 35. Rd3+ Kc5 36. Bxe5 1-0
+
+[Event "ESP-chT"]
+[Site "Spain"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Morovic Fernandez, Ivan"]
+[Black "De la Riva Aguado, Oscar"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2565"]
+[BlackElo "2365"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "41"]
+[EventDate "1992.??.??"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1997.11.17"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Nc6 6. Bd2 Bg4 7. Nb5 Qb6 8.
+c4 Nxd4 9. Nbxd4 e5 {Diagram #} 10. h3 $1 {Black sacrificed a piece in order
+to create a strong pin over the h5-d1 diagonal. However, his king is still in
+the center and if White plays accurately, he can claim the advantage. The
+first move is obvious and very strong, h3. The idea is to eliminate the pin
+drastically by exchanging pieces.} (10. Qa4+ $5) (10. Nb5 $5 e4 11. h3 $14)
+10... Bh5 (10... Bxf3 $2 11. Nxf3 $16) 11. Qa4+ c6 12. O-O-O {This is the best
+reaction, the material is not so important here. More important is to complete
+the development and start a direct attack against the enemy king.} exd4 13.
+Re1+ {Black is a pawn up, but he has great difficulties to complete his
+development. The bishop on e7 will be pinned and Black cannot connect his
+rooks. White can increase the pressure against this bishop on e7, creating
+more problems for Black.} Be7 14. Bb4 Ng8 15. Ba5 Qa6 16. Nxd4 {White not only
+regains the material, but is also preparing Nf5 to increase the pressure
+against the bishop on e7. Please also notice Black's queen poor position; c5
+is on the cards as well...} Kf8 17. Nf5 Bg6 18. Nxe7 {Every good positional
+game should end up with a tactical blow. White found the blow against the
+pinned piece on e7.} Nxe7 19. Qb4 Re8 20. Rxe7 $5 {The best move was Bd8, but
+Rxe7 is another practical choice.} (20. Bd8 $1) 20... Rxe7 21. Bd8 1-0
+
+[Event "Asia Cities-ch 14th"]
+[Site "Tagaytay City"]
+[Date "2004.03.23"]
+[Round "4.2"]
+[White "Li, Shilong"]
+[Black "Mariano, Nelson"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2522"]
+[BlackElo "2416"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "2004.03.21"]
+[EventRounds "9"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "2004.05.04"]
+[WhiteTeam "Guangzhou"]
+[BlackTeam "Mandaluyong"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "PHI"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Nc6 6. Bd2 a6 7. Bc4 Qf5 8.
+h3 Ne4 9. Nd5 Qd7 10. Bf4 Nd6 11. Qe2 e6 12. O-O Be7 13. Nxe7 Nxe7 14. Bb3 O-O
+15. Ne5 Qd8 16. Rad1 Ng6 17. Bh2 c6 18. Rfe1 Nf5 19. c3 Nfe7 20. c4 Nf5 21. Qe4
+Nd6 22. Qf3 Nf5 {Diagram #} 23. d5 $1 {This is the best move because all of
+White's pieces are very active and ready to open the center of the board. The
+game is tactical after this move, but White has a strong initiative.} (23. Nxg6
+$5) (23. Qc3 $5) (23. c5 $5) 23... Nxe5 (23... exd5 24. cxd5 cxd5 25. Nxf7 $3
+Rxf7 26. Bxd5 $18) (23... cxd5 24. cxd5 exd5 25. Nxf7 $3 {Transposition of the
+other line.}) 24. Bxe5 {It was necessary to do this in order to avoid the
+sacrifice on f7, as you can see in the sub-variations.} exd5 25. cxd5 cxd5 26.
+Rxd5 {Everything now is extremely active; White has the bishop pair and he is
+ready to attack on the kingside. Black has development problems; this happens
+if the opponent successfully opens up the center.} Qb6 27. Bc3 g6 28. Qf4 h6
+29. Rxf5 1-0
+
+[Event "DEN-ch"]
+[Site "Lyngby"]
+[Date "1991.??.??"]
+[Round "7"]
+[White "Kristiansen, Jens"]
+[Black "Holst, Allan"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2415"]
+[BlackElo "2300"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "63"]
+[EventDate "1991.03.??"]
+[EventRounds "11"]
+[EventCountry "DEN"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "1994.03.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. d4 Nc6 6. Bb5 Bd7 7. d5 Nb4 8.
+Bxd7+ Nxd7 9. Bg5 Nb6 10. O-O N4xd5 11. Nxd5 Qxd5 12. Qe2 f6 13. Bh4 e5 14. b3
+Bd6 15. c4 Qc5 16. Nd2 O-O 17. Ne4 Qa3 18. Rad1 Rad8 19. Rd3 Be7 20. Rg3 f5 {
+Diagram #} 21. b4 $1 {A cool tactic that turns the table! The e4-knight and
+the h4-bishop were under attack, but White found the counterblow. Did you
+manage to see it?} (21. Ng5 $5 Rd4 22. Ne6 Rxh4 23. Rxg7+ Kh8 {Unclear.}) (21.
+Bxe7 $6 Qxe7 $17) (21. c5 $2 Bxh4 $19) 21... Qxb4 22. Rb3 {This is the key
+point of the combination; Black's queen cannot leave the diagonal because it
+has to protect the e7-bishop.} Qxb3 (22... Qa4 23. Bxe7) 23. axb3 Bxh4 24. Nc5
+{The position has some technical difficulties because Black has two pawns and
+two pieces for the queen. However, White is threatening Ne6 and Nxb7. Black's
+problem is that his pieces are not coordinated. Thus, White should be in a
+hurry to do something right now, using the fact that Black's pieces are not
+creating threats just yet.} Rde8 25. Nxb7 e4 26. Rd1 $16 {White has a clear
+advantage and he manages to win the game afterwards.} Rf7 27. c5 Nc8 28. Qb5
+Rfe7 29. Rd8 Rxd8 30. Nxd8 g6 31. g3 Bf6 32. Qa6 1-0
+
+[Event "Zuerich op-A 28th"]
+[Site "Zuerich"]
+[Date "2004.12.??"]
+[Round "4"]
+[White "Fleck, Juergen"]
+[Black "Furrer, Marc"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2440"]
+[BlackElo "2011"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "35"]
+[EventDate "2004.12.26"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2005.11.24"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Nc6 6. Bb5 Bd7 7. d5 Ne5 8.
+Nxe5 Bxb5 9. Qd4 Rd8 10. Bd2 e6 {Diagram #} 11. O-O-O $5 (11. a4 $1 {This is
+the best and most active move in the position. The threat is to capture the
+b5-bishop with the knight, so White forced him to retreat. The knight will
+have access to the b5-square in any case because Black's queen will be under
+attack.} Bd7 (11... Ba6 12. Nb5 $1 Qb6 13. Qxb6 axb6 14. Nxc7+ Ke7 15. Bb4+ Rd6
+16. Nxa6 $18) 12. Nb5 $1 Bc5 (12... Qb6 13. Qxb6 axb6 14. Nxc7+ Ke7 15. Bb4#)
+13. Bxa5 Bxd4 14. Nxd4 $18) (11. Qe3 $5) 11... Bc6 12. Qc4 {The material is
+equal, but Black's king is in the center of the board. This means that White
+has greater activity and Black cannot use his h8-rook. Please also notice that
+the c3-knight can jump forward threatening Black's queen. In similar
+situations, you need good calculation skills to find the forcing moves that
+give you the winning advantage.} exd5 (12... Bd6 13. Nxc6 bxc6 14. dxe6 $18) (
+12... Bxd5 13. Nxd5 $1 Qxd5 14. Qxc7 {Threatening mate on f7.} Nd7 15. Bg5 $18)
+13. Nxc6 bxc6 14. Qxc6+ Rd7 15. Rhe1+ $18 {With a completely winning position
+for White.} Be7 16. Rxe7+ Kxe7 17. Re1+ Ne4 18. Nxe4 1-0
+
+[Event "Politiken Cup 15th"]
+[Site "Copenhagen"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Rytshagov, Mikhail"]
+[Black "Olsen, Peter Erik"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2435"]
+[BlackElo "2240"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "43"]
+[EventDate "1993.06.??"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "1998.11.16"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Nc6 6. Bd2 Bg4 7. Nb5 Qb6 8.
+a4 a5 9. Be3 Nd5 {Diagram #} 10. c4 $1 {As you see in many games, the 5...Nc6
+move is an aggressive option, but Black's queen has a lot of troubles. Black's
+central position is not stable and White is threatening a lot of discovered
+attacks against Black's queen.} (10. Be2 $5) 10... Nxe3 11. fxe3 Nb4 12. c5 {
+Black avoided the discovered attack with Nd5, but his position falls apart
+right now because the queen is a target, and it should protect the c7-square.}
+Qc6 13. Nd6+ $1 {A nice tactical blow to win material. White is winning here.}
+exd6 14. Bb5 Qxb5 15. axb5 dxc5 16. O-O Bd6 17. Qb3 O-O 18. Ng5 Bh5 19. dxc5
+Bxc5 20. Rf5 b6 21. Raf1 a4 22. Qc4 1-0
+

@@ -1,0 +1,127 @@
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Marin - Florean"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/5pkp/6p1/2p5/1p3P2/1P1PK1PP/n5B1/8 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "2016.??.??"]
+
+1. d4 {Can you find the best pawn set up for Black? How Black can place his
+pawns in order to achive the draw? Black to play.} cxd4+ 2. Kxd4 f6 3. Kc5 h6
+4. Bf3 g5 5. Kc4 Kf8 6. Be4 Kg7 7. Bb1 Nc3 8. Bd3 Na2 9. h4 Kf8 10. Kd5 Kg7 $11
+{White can't achieve nothing more, Black has created nice fortress and the
+game is a draw.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Marin - Anand"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "3rr1k1/pp3pnp/2p3p1/2P1P3/1P1R4/6P1/P4Q1P/6K1 b - - 0 1"]
+[PlyCount "39"]
+[EventDate "2016.??.??"]
+
+1... Rd5 $1 {Black would like to double the Rooks and now he is threatening
+the e5 pawn.} 2. Rxd5 cxd5 3. b5 Ne6 4. c6 bxc6 5. bxc6 d4 $1 {After the
+exchanges Black has very solid position. The Knight consolidates Black's
+pieces and pawns. It creates a blockade square on c7. Black cannot win the
+game but they can hold the draw.} 6. Kf1 Rc8 7. Qf3 h5 {This is another
+important move. Now it's for sure that White cannot make any progress on the
+kingsdide because Black can exchange all the pawns there.} 8. Qd5 Rc7 9. Qd6
+Kg7 10. h4 Kg8 11. Kf2 Kg7 12. Kf3 Kg8 13. g4 hxg4+ 14. Kxg4 Kg7 15. h5 gxh5+
+16. Kxh5 Kh7 17. Kg4 Kg6 18. Qd5 Re7 19. Qe4+ Kg7 20. Qf3 Rc7 {White cannot
+make any progress, so the game ends as a draw.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Gurevich - Stohl"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/2k3B1/3n4/3P1Bp1/5bP1/3K4/8/8 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "2016.??.??"]
+
+1... Nb5 {Black's turn. What Black should do? Should he wait passively or he
+can do something crazy?} 2. Bf6 Nd6 3. Kd4 Nb5+ 4. Kc5 Nd6 5. Bg6 Nb7+ 6. Kd4
+Nd6 {Black has created a perfect blockade square on d6 and White cannot make
+any progress. Thus the game was ended in a draw.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Jobava - Marin"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "5k2/p7/1p1p1pPp/3P3P/b1P2P2/8/P2KB3/8 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "2016.??.??"]
+
+{White is protecting g6 pawn. Can black save the game?} 1. Bd1 Bd7 {Black can
+not exchange the Bishops! Pawn endgame is lost for Black! But with the Bishop
+Black can save the game! Black can create the fortress!} 2. Kc3 Kg7 3. Kb4 Kf8
+4. Kc3 (4. Ba4 {After Ba4 h5 pawn is not protected!} a5+ 5. Ka3 Bg4) 4... Kg7
+5. Kd4 Kf8 6. Ke3 Kg7 7. Kf2 Bf5 8. Be2 Bb1 9. a3 Bf5 10. Ke3 Kf8 11. Kd4 Bd7 {
+You can see very nice picture. All black pawns are on the dark squares and all
+White squares cover the Bishop. White can not create anything so the game is a
+draw. Black save the game.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Topalov - Anand"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r2q1rk1/2p2ppp/8/1pn1P3/8/5Q2/1P3PPP/R1B2RK1 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2016.??.??"]
+
+{After Bg5 it looks like position is very hard for Black. White attacks black
+Queen and if the Queen take the Bishop White will take the Rook on a8. Can
+Black save the game?} 1. Bg5 Rxa1 {The best chance. Black wants to sacrfice
+the Queen for the Rook and the Knight and create fortress.} 2. Bxd8 Rxf1+ 3.
+Kxf1 Rxd8 4. g3 (4. Qc6 {This is a bad move becouse White will lose the Queen.}
+Ne6 5. Qxb5 Rd1+ 6. Ke2 Nd4+ 7. Kxd1 Nxb5 $17 {Black is wining.}) 4... Ne6 {
+Now you can see a perfect picture. Black place his pieces ( Rook ond Knight on
+the best squares and protect every pawn! It is hard for White to make any
+progress.} 5. Qb7 g6 6. Qxb5 c5 7. h4 h5 8. b4 cxb4 9. Qxb4 Kg7 10. Kg2 Kg8 11.
+Qc3 Ra8 12. Qf3 Rb8 {You can see a very nice picture. All Black pawns are
+protected, Rook and Knight perfectly placed and now Black can move his King to
+g7 and g8. White can not create anything and the game is draw. Black saves the
+game.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Kozul - Zaja"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/5k2/8/5P2/1pnB1K2/8/1P6/8 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "2016.??.??"]
+
+1... Na5 {White is a pawn up. Can you find the best setup for Black's Knight
+and pawn? How Black can place his pieces?} 2. Ke4 Nb3 3. Kd5 Na1 4. Kc4 b3 {
+Players agreed to the draw because White cannot make any progress.} 1/2-1/2
+

@@ -1,0 +1,48 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r4R3myFX"]
+[Date "2017.09.30"]
+[Round "?"]
+[White "Asaf_Givon"]
+[Black "norba94"]
+[Result "1-0"]
+[ECO "B05"]
+[WhiteElo "2538"]
+[BlackElo "2169"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "95"]
+[EventDate "2017.??.??"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "URS"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 {
+B05 Alekhine Defense: Modern, Flohr Variation} 6. O-O Bxf3 7. Bxf3 dxe5 8. dxe5
+e6 9. Nd2 Nd7 10. Re1 Qc7 11. Nc4 N7b6 12. Qe2 Nxc4 13. Qxc4 Rd8 14. Qg4 g6 15.
+Bg5 Be7 16. Bh6 Bf8 17. Bg5 Be7 18. c4 Nb4 19. Bxe7 Qxe7 20. Be4 Rd4 21. Rad1
+Rxd1 22. Rxd1 O-O 23. a3 Na6 24. b4 Rd8 25. g3 Nc7 26. h4 a6 27. Kg2 Kg7 28.
+Qe2 Rxd1 29. Qxd1 Kf8 30. Qd6 Ke8 31. a4 Qd7 32. a5 Qe7 33. f4 Qd7 34. h5 Qe7
+35. h6 Qd7 36. g4 Qe7 37. g5 Qd7 38. Kf3 Qe7 39. Ke3 Qd7 40. Kd4 Kd8 41. Kc5
+Ne8 42. Qxd7+ Kxd7 43. Kb6 Kc8 44. b5 axb5 45. cxb5 cxb5 46. Bxb7+ Kb8 47. a6
+Nc7 48. a7# 1-0
+
+[Event "fall rapid"]
+[Site "?"]
+[Date "2015.10.16"]
+[Round "5"]
+[White "Givon, Asaf"]
+[Black "Murey, Jacob"]
+[Result "0-1"]
+[ECO "B22"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "2015.??.??"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "URS"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. c3 g6 5. Bc4 Nb6 6. Bb3 c4 7. Bc2 Bg7 8. O-O
+Nc6 9. Qe2 d6 10. exd6 Qxd6 11. Na3 (11. Re1 O-O 12. Na3) 11... Qe6 12. Qxe6 (
+12. Qd1 $5) (12. Be4 f5) 12... Bxe6 13. d4 cxd3 14. Bxd3 O-O-O 15. Be4 Bd5 16.
+Bxd5 Rxd5 $15 17. Nc2 (17. Be3 Na4) 17... e5 18. b3 (18. Be3 Nc4) 18... f5 19.
+c4 Rd7 20. Bb2 Rhd8 21. Ng5 Bf6 22. Ne6 Re8 23. Nc5 Rd2 24. Rac1 Be7 25. Ba3
+Nd4 26. Nxd4 Rxd4 27. Rc2 Red8 28. Re1 Rd2 29. Rxd2 Rxd2 30. Ne4 fxe4 31. Bxe7
+Rxa2 32. h4 Rb2 33. Rxe4 Rxb3 34. Rxe5 Nxc4 35. Rc5+ Kd7 36. Rxc4 0-1
+

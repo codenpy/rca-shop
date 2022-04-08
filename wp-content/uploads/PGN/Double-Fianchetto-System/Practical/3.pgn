@@ -1,0 +1,14 @@
+﻿[Event "Best Problems"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "STOJNIC Dragan"]
+[Black "#2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5NK1/pN6/4P1p1/1pp3R1/2bk1B2/1p1P4/3Q1b2/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2000.??.??"]
+
+1. Nd6 Bg3 2. dxc4# 1-0
+

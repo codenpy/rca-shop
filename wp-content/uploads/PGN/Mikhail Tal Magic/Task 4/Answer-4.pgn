@@ -1,0 +1,288 @@
+[Event "It"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Niesel, Matthias"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "A15"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "84"]
+[EventDate "1992.??.??"]
+
+1. c4 Nf6 2. g3 e5 3. Bg2 c6 4. d4 d6 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Nf3 Nbd7 8.
+Ng5 Ke8 9. Nc3 Nc5 10. b3 a5 11. Nge4 Nfxe4 12. Nxe4 a4 13. Nxc5 Bxc5 14. Bb2
+Bb4+ 15. Kd1 Bg4 16. f3 Bf5 17. e4 Be6 18. Kc2 f6 19. Rhd1 Ke7 20. Rd3 {
+Diagram #} b5 $1 {It is obvious that Black should play on the queenside
+because he can make a breakthrough and bring easily his pieces there. In the
+endgame, we need to activate our pieces. In order to give more freedom to the
+e6-bishop, he played the b5 break. Similarly, we would like to open the c-line
+in order to conquer it with our rooks.} (20... Rhd8 21. Rad1) 21. cxb5 cxb5 22.
+Rad1 Rhc8+ 23. Kb1 a3 24. Bc1 Bc3 $1 {He activates even more the dark-squared
+bishop; it can go to d4, shutting down the d-line. Of course, behind Tal's
+move was almost always a tactical idea as well. Black would like to sacrifice
+the bishop on b3 in order to promote his a-pawn...} 25. Bd2 (25. h4 Bxb3 $1 26.
+axb3 a2+ 27. Kc2 a1=Q $19) 25... Bxd2 26. R3xd2 Rc3 $17 {Black's position is
+better because he is controlling the c-line. There are some tactical ideas
+with the sacrifice on b3. Black has a more active bishop than White's
+counterpart. The c3-rook is attacking the f3 weakness. Thus, we can conclude
+that Tal has a slight edge in this position, and he manages to win the game
+afterwards.} 27. Rd3 Rac8 28. Bf1 b4 29. Rxc3 Rxc3 30. Rd3 Rxd3 31. Bxd3 Kd6
+32. Bc2 Kc5 33. Kc1 Kd4 $19 {
+Black is dominating with his pieces and the end is near.} 34. Kd2 Bh3 35. g4
+Bg2 36. Bd1 Bf1 37. h4 Bd3 38. Be2 Bb1 39. Bc4 Bxa2 40. Kc2 Ke3 41. Be6 Kxf3
+42. Bf5 g5 0-1
+
+[Event "URS-chT U20"]
+[Site "Leningrad "]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Giterman, Shlomo"]
+[Result "1-0"]
+[ECO "D94"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "125"]
+[EventDate "1951.??.??"]
+[EventRounds "9"]
+[EventCountry "URS"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 g6 5. e3 Bg7 6. Bd3 O-O 7. O-O c5 8. dxc5
+dxc4 9. Bxc4 Qxd1 10. Rxd1 Nbd7 11. e4 Nxc5 12. e5 Nfd7 13. Nd5 Nxe5 14. Nxe7+
+Kh8 15. Nxe5 Bxe5 {Diagram #} 16. Rd5 $1 {White stands slightly better in this
+position because his pieces are more active. Similarly, he can develop more
+easily the remaining pieces -the c1-bishop and the a1-rook. He starts with the
+forcing continuation, rook to d5, in order to exchange some of Black's active
+pieces.} Bf6 17. Rxc5 Bxe7 18. Rc7 $36 {Now we can see that the rook is
+perfectly placed on c7, attacking both the f7 and b7-pawns. The e7-bishop is
+under attack as well, and White can win another tempo with Bh6. Here White has
+a significant initiative.} Bd6 (18... Bd8 19. Rxf7 $14) 19. Rxf7 Rxf7 20. Bxf7
+$16 {White transformed his positional advantage into material advantage, and
+this is a good sign for the win.} Be5 21. Bh6 $1 {
+White activates his pieces and creates some mating threats in the back rank.}
+Bf5 (21... Bxb2 22. Rb1 Bf6 23. Bd5 $36) 22. Bd5 Bxb2 23. Re1 {As we already
+mentioned, the best position for the rook is on the 7th rank, and this is
+exactly what Tal is aiming for.} Bd7 24. Bxb7 Re8 25. Rxe8+ Bxe8 26. Bd5 $1 $16
+{One of the most important ideas in the endgame is to activate the king; so,
+with the last move, White likes to prevent Black's king to come to the center
+of the board. White has material advantage and he can improve his king. Tal
+manages to win the game afterwards, after mutual errors.} Bb5 27. g3 a6 28. Kg2
+Be2 29. Be6 Bd4 30. g4 Be5 31. f4 Bd4 32. Kg3 Be3 33. Kh4 Bf2+ 34. Kg5 Bd4 35.
+Bf8 Bg7 36. Bxg7+ $2 (36. Be7 $1 Bd3 37. f5 $18) 36... Kxg7 37. f5 h6+ 38. Kf4
+Kf6 39. h4 g5+ 40. hxg5+ hxg5+ 41. Kg3 Ke5 42. Bc8 Bc4 43. a3 a5 44. Kf3 Bf7
+45. Bb7 Bg8 46. Ke3 Bf7 47. Bf3 Bg8 48. Kd3 Ba2 49. Be2 Bd5 50. Bd1 Bg8 51. Kc3
+Bf7 52. Bb3 Be8 53. Bd1 Bf7 54. Bf3 Ba2 55. Bc6 Bg8 56. Bb5 Bd5 57. Be2 Bf7 58.
+Bc4 Be8 59. Kb3 Bc6 60. Be2 a4+ 61. Kb4 Kf6 62. Kc5 Be8 63. Bb5 1-0
+
+[Event "URS-chT U20"]
+[Site "Leningrad "]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Gaidukov, Peter Gavrilovich"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "82"]
+[EventDate "1951.??.??"]
+[EventRounds "9"]
+[EventCountry "URS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5 Nf6 8.
+Ngf3 O-O 9. O-O Re8 10. Qd3 $146 Bxc5 11. Bxd7 Nbxd7 12. Nb3 Bb6 13. Bf4 Re4
+14. Bg3 Nc5 15. Nxc5 Bxc5 16. Bh4 Be7 17. Rad1 Qc7 18. c3 Rd8 19. Bxf6 Bxf6 20.
+Rfe1 g6 21. Re2 Rxe2 22. Qxe2 Qc4 23. Qxc4 dxc4 24. Rxd8+ Bxd8 {Diagram #} 25.
+a4 $5 {Very nice positional move because, before attacking the c4-pawn, White
+tries to isolate it.} (25. Ne5 b5 26. Kf1 f6) 25... a6 26. Kf1 {The position
+is about equal; however, White's pieces are faster on the queenside and Black
+has weaknesses.} Kf8 27. Ke2 f6 28. Nd2 b5 29. axb5 axb5 30. Nb1 $1 {
+The knight is driving to the best square, a3, in order to attack b5 and c4.}
+Be7 31. Na3 Bxa3 32. bxa3 Ke7 33. Ke3 Ke6 34. Kd4 {White's king is more active
+and he can break Black's structure on the queenside.} Kd6 35. a4 bxa4 36. Kxc4
+Kc6 37. Kb4 Kd5 38. g3 $6 {Here Tal missed the winning move, f4. In any case,
+this was a difficult continuation to calculate during the game.} (38. f4 $1 f5
+39. h3 h6 40. h4 a3 (40... h5 41. g3 $22) (40... Ke4 41. Kxa4 Kxf4 42. c4 $18)
+41. Kxa3 $18) 38... f5 39. h4 h6 40. f3 g5 41. h5 g4 1/2-1/2
+
+[Event "LAT-ch 09th "]
+[Site "Riga"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Skuja, Roberts"]
+[Result "1-0"]
+[ECO "E69"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "1952.??.??"]
+[EventRounds "18"]
+[EventCountry "URS"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nc3 Nbd7 7. O-O e5 8. e4
+c6 9. Re1 Re8 10. h3 b6 11. Be3 Bb7 12. Qc2 exd4 13. Nxd4 Nc5 14. Rad1 Qc7 15.
+b4 Ne6 16. f4 Nxd4 17. Bxd4 Rad8 18. Qf2 Nh5 19. e5 dxe5 20. fxe5 Rxd4 21. Rxd4
+Bxe5 22. Rde4 Re6 23. Qe3 f6 24. Qd3 Rd6 25. Qf3 c5 26. Nb5 Bxe4 27. Qxe4 Qd7
+28. Nxd6 Qxd6 29. Qd5+ Kg7 30. Qxd6 Bxd6 {Diagram #} 31. Rd1 {Materially, the
+position is about equal because Black will win the g3-pawn. White should
+create a clear plan in order to win this position. In such cases, the plan is
+simple, to create a passed pawn. For that reason, he activated his rook on the
+d-line in order to attack the bishop and give a check on d7.} Bxg3 32. bxc5
+bxc5 33. Rd7+ Kh6 34. Rxa7 $18 {The passed a-pawn can secure the win for White,
+and Tal didn't miss this opportunity.} Nf4 35. a4 Nd3 36. a5 Nb4 37. a6 Bb8 38.
+Ra8 Bc7 39. a7 Bb6 40. Rb8 Bxa7 41. Rb7 $1 1-0
+
+[Event "URS-chT U20 final Gr2"]
+[Site "Kharkov "]
+[Date "1953.??.??"]
+[Round "2"]
+[White "Listengarten, Leonid"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "B51"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "96"]
+[EventDate "1953.??.??"]
+[EventRounds "5"]
+[EventCountry "UKR"]
+[WhiteTeam "Azerbaijan"]
+[BlackTeam "Latvia"]
+[WhiteTeamCountry "AZE"]
+[BlackTeamCountry "LAT"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. c3 Nf6 5. Qe2 e6 6. d4 cxd4 7. cxd4 d5 8. e5
+Nd7 9. O-O a6 10. Ba4 Nb6 11. Bb3 Bd7 12. Nc3 Rc8 13. Bg5 Be7 14. Bxe7 Qxe7 15.
+Rac1 Na5 16. Bc2 Qb4 17. Bb1 Nac4 18. b3 Na3 19. Qd2 Nxb1 20. Nxb1 Qxd2 21.
+Rxc8+ Ke7 22. Nbxd2 Rxc8 23. Ra1 {Diagram #} Bb5 $1 {Black has a fantastic
+position because he controls the c-line and his king is close to the center.
+However, the d7-bishop and the b6-knight don't have a good position, so we
+need to relocate them.} 24. Nf1 Nd7 $1 {The second maneuver is taking place.
+Black would like to activate the knight on c6 in order to attack the venerable
+d4-pawn. Of course, Black should move the rook to c3 or c2, and then the
+knight to c6.} 25. Ne3 Nb8 26. h3 Be2 $17 {Black has a clear advantage because
+he will exchange the defender of the d4-square and, after that, he can press
+it hardly. Tal manages to win the game afterwards.} 27. Re1 Bxf3 28. gxf3 Rc3
+29. Rd1 Nc6 30. Kf1 Nb4 31. Rd2 Rc1+ 32. Ke2 Rh1 33. Nd1 Rxh3 34. Nc3 Rh4 35.
+Na4 Nc6 36. Ke3 Kd7 37. f4 g5 38. Nc5+ Kc7 39. fxg5 b6 40. Na4 Re4+ 41. Kf3
+Nxd4+ 42. Kg2 Nc6 43. Nc3 Rg4+ 44. Kh3 Nxe5 45. Rc2 Kb7 46. Ne2 Rxg5 47. Ng3
+Nf3 48. Rc3 Nd4 0-1
+
+[Event "Master Classification m"]
+[Site "Riga"]
+[Date "1954.??.??"]
+[Round "12"]
+[White "Saigin, Vladimir"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "A32"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "90"]
+[EventDate "1954.??.??"]
+[EventRounds "14"]
+[EventCountry "URS"]
+[WhiteTeam "Azerbaijan"]
+[BlackTeam "Latvia"]
+[WhiteTeamCountry "AZE"]
+[BlackTeamCountry "LAT"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Nc3 cxd4 5. Nxd4 Bb4 6. Bd2 O-O 7. e3 d5 8. Be2
+Nc6 9. Nxc6 bxc6 10. O-O Bd6 11. Rc1 Bd7 12. b3 Rb8 13. Qc2 e5 14. e4 dxe4 15.
+Nxe4 Nxe4 16. Qxe4 Qe7 17. Qc2 f5 18. c5 Bc7 19. Rce1 Rbd8 20. b4 Be6 21. Bc4
+Bd5 22. Bxd5+ Rxd5 23. Bc3 Qh4 24. Qb2 e4 25. g3 Qh3 26. f4 Rfd8 27. Re2 Qg4
+28. Rd2 Rxd2 29. Bxd2 Qe2 30. Rf2 Qd1+ 31. Kg2 Rd3 32. Qc1 {Diagram #} Qxc1 $1
+{Black can keep the queen on the board and try to attack the enemy king.
+However, it's not clear that it will secure the win. A safer approach is to
+transpose to the endgame because Black can activate very easily his king in
+the center of the board.} (32... Qh5 $5) 33. Bxc1 Kf7 34. Rc2 Ke6 35. Kf2 Kd5
+$17 {The second part of the plan is to activate the bishop. White has almost
+all of his pawns in dark squares and this gives a clear advantage to Black,
+thanks to his more active light pieces.} 36. Ke2 Bd8 37. Bb2 g6 38. a3 Be7 $17
+{It's very hard to suggest any good moves for White. Black is dominating
+completely the game and he can break the position either from the kingside or
+the queenside. In the light of that, Black has almost a winning advantage, and
+he manages to convert it into a victory afterwards.} 39. Rd2 Rxd2+ 40. Kxd2 Kc4
+41. Kc2 a5 42. Bc3 axb4 43. axb4 g5 44. fxg5 Bxg5 45. Be1 Be3 0-1
+
+[Event "Riga-ch"]
+[Site "Riga"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Liepins, L."]
+[Result "1-0"]
+[ECO "A17"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "137"]
+[EventDate "1954.??.??"]
+[EventRounds "10"]
+[EventCountry "URS"]
+[WhiteTeam "Azerbaijan"]
+[BlackTeam "Latvia"]
+[WhiteTeamCountry "AZE"]
+[BlackTeamCountry "LAT"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. e4 d5 5. e5 Ne4 6. cxd5 exd5 7. Nxe4 dxe4 8.
+Qa4+ Bd7 9. Qxe4 Bc6 10. Qg4 Bd5 11. Be2 Nd7 12. O-O h5 13. Qf4 Be7 14. d4 Nf8
+15. Bd2 Ne6 16. Qe3 Qd7 17. Bc3 Rd8 18. Nd2 c5 19. dxc5 Bxc5 20. Qg3 Rh6 21.
+Bf3 Rg6 22. Qh3 Nf4 23. Qxd7+ Rxd7 24. g3 h4 25. Kh1 Ne2 26. Bxd5 Nxc3 27. bxc3
+Rxd5 28. Nf3 hxg3 29. fxg3 Rc6 30. c4 Rd7 31. Rad1 Rxd1 32. Rxd1 Bb4 33. Rd4
+Bc3 34. Re4 Re6 35. Re3 Bb2 36. Re2 Bc3 37. Kg2 f6 {Diagram #} 38. Kh3 $1 {
+You should never forget that the king is a very active piece in the endgame,
+and you should activate it. Black will capture the e5-pawn in any case; so,
+meanwhile, you need to activate the king on the f5-square.} Kf7 39. Kg4 Bxe5
+40. Rd2 $5 {
+Another very interesting choice in order to activate the king from the d-line.}
+(40. Rxe5 $6 fxe5 41. Ng5+ Kf6 42. Nxe6 Kxe6 $11) 40... Bc3 $6 (40... Bd6 $1)
+41. Rd7+ Re7 42. Rxe7+ Kxe7 43. Kf5 $16 {White manages to exchange the rooks,
+and this is in his favor because all of Black's pawns are in dark squares and
+the knight can easily blockade and attack them. Please also note that it's
+easier for White to create an outside passed pawn.} Kf7 44. Nh4 a6 45. g4 Be1
+46. Ng6 Bf2 47. a4 {The position is about equal; however, White has the
+initiative because he can improve the position of his pawns and blockade the
+light squares.} Bg1 48. h4 Bf2 49. h5 Bg1 50. Nf4 {Now it's time to relocate
+the knight and attack the pawns on the other side of the board.} Bf2 51. Nd3
+Bg1 52. Nb4 a5 53. Nc6 $16 {The knight is aiming at the perfect d5-square.
+Black's dark-squared bishop has nothing to attack and it should defend
+possibly.} Bf2 54. Nd8+ Ke7 55. Ne6 Kf7 56. Nc7 Bg3 57. Nd5 Bf2 58. Ke4 $1 {
+This is the final part of the plan. White will relocate all of his pieces and
+attack the weakness on b6. He manages to win the game easily afterwards.} Bg1
+59. Nc3 Bf2 60. Kd5 g6 61. hxg6+ Kxg6 62. Kc6 Bd4 63. Nd5 Kg5 64. Nxb6 Kxg4 65.
+c5 f5 66. Kd5 Bxc5 67. Kxc5 f4 68. Kb5 f3 69. Nc4 1-0
+
+[Event "URS-ch 23th qf"]
+[Site "Vilnius"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Gipslis, Aivars"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "B22"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "114"]
+[EventDate "1955.05.05"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[WhiteTeam "Azerbaijan"]
+[BlackTeam "Latvia"]
+[WhiteTeamCountry "AZE"]
+[BlackTeamCountry "LAT"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 e6 7. O-O Nf6 8. h3
+Bh5 9. Be3 cxd4 10. Nxd4 Bxe2 11. Qxe2 Nxd4 12. Bxd4 Be7 13. Nd2 O-O 14. Rfd1
+Qf5 15. Bxf6 Bxf6 16. Ne4 Rab8 17. Rd7 a5 18. a4 Qe5 19. Nxf6+ gxf6 20. Qxe5
+fxe5 {Diagram #} 21. Re1 {White has the advantage because he has a very active
+rook on the d7-square, the e5-pawn is doubled and weak, and he has the pawn
+majority on the queenside. Your first priority should be to activate your
+pieces, and this is exactly what Tal did in this position.} (21. c4 $5) 21...
+f6 22. c4 {He has not just advanced his pawn majority but, similarly, he
+stabilizes the weakness of the b-pawn. His plan now could be Red1 and R1d6 and
+Rb6.} Rf7 23. Red1 Rc8 24. b3 Rc7 25. Rxc7 Rxc7 26. Rd6 $16 {Black manages to
+exchange White's active rooks, but the position still remains better for White.
+Black cannot do anything in order to prevent the Rb5 and Rb5 maneuvers. In the
+light of that, the a5-pawn is lost. White has a clear advantage in this
+position, and he manages to win the game afterwards.} Kf7 27. Kf1 f5 28. g3 Kf6
+29. Rb6 f4 30. gxf4 exf4 31. Ke2 Kf5 32. f3 Ke5 33. Kd3 Rd7+ 34. Kc3 Kf5 35.
+Rb5+ e5 36. Rxa5 Rd1 37. Rd5 Rh1 38. a5 Rxh3 39. Rd3 Rg3 40. Kd2 Rg2+ 41. Ke1
+Rb2 42. c5 h5 43. Kf1 h4 44. Rc3 h3 45. Kg1 e4 46. a6 e3 47. axb7 Rb1+ 48. Kh2
+e2 49. Re3 fxe3 50. b8=Q Rh1+ 51. Kxh1 e1=Q+ 52. Kh2 Qf2+ 53. Kxh3 Qxf3+ 54.
+Kh2 e2 55. Qf8+ Ke4 56. Qe8+ Kd3 57. Qb5+ Kc3 0-1
+

@@ -1,0 +1,165 @@
+[Event "GER/NLD"]
+[Site "GER/NLD"]
+[Date "1929.09.13"]
+[Round "5"]
+[White "Alekhine, Alexander"]
+[Black "Bogoljubow, Efim"]
+[Result "1-0"]
+[ECO "D17"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "103"]
+[EventDate "1929.09.06"]
+[EventRounds "25"]
+[EventCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. Bg5 Be7 8. f3
+h6 9. e4 Bh7 10. Be3 Nbd7 11. Nxc4 O-O 12. Be2 c5 13. dxc5 Bxc5 14. Bxc5 Nxc5
+15. b4 Na6 16. Qxd8 Rfxd8 17. Na2 Nb8 18. Kf2 Nc6 19. Rhd1 Nd4 20. Rac1 Kf8 21.
+Bf1 Ne8 22. Nc3 f6 23. Na5 Rab8 24. Nb5 Nxb5 25. Rxd8 Rxd8 26. Nxb7 Rb8 27. Nc5
+Ke7 28. axb5 Nd6 29. Ra1 Nc8 30. Bc4 Bg8 31. f4 Bf7 32. e5 fxe5 33. fxe5 Rb6
+34. Ke3 Be8 35. Ra5 Bd7 36. Kd4 Be8 37. h4 Bd7 38. Be2 Rb8 {Diagram #} 39. Nxd7
+$5 {This is not a forced move but a very simple and clear one. We can see that
+all of White's pieces are better that Black's pieces (even the king). But
+Black's knight on c8 is particularly bad. It is passive and tied to defending
+the a7 pawn. In view of that, it makes sense to keep on exchanging a pair of
+pieces and play against that piece.} (39. Bd3 $5) (39. Bf1 $5) (39. g3 $5)
+39... Kxd7 40. Bf3 Rb6 41. Kc5 $1 {Here's an additional benefit of exchanging
+the knight for the bishop. The king can gain even more space and take the c5
+square!} Rb8 42. h5 {Fixing Black's pawns on the kingside} Kd8 43. Bc6 Ke7 44.
+Ra3 Kf7 45. Be4 Ke7 46. Kc6 $1 {gaining more space} Kd8 47. Rd3+ Ke7 48. Kc7 {
+Back resigned in view of} Rxb5 49. Rd7+ (49. Kxc8 $18 {is also good enough})
+49... Kf8 50. Bg6 Nb6 (50... Ne7 $2 51. Rd8#) 51. Rd8+ Ke7 52. Re8# 1-0
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Capablanca, Jose Raul"]
+[Black "Lilienthal, Andor"]
+[Result "1-0"]
+[ECO "A12"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "107"]
+[EventDate "1936.05.14"]
+[EventRounds "18"]
+[EventCountry "URS"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Bf5 4. Bb2 e6 5. g3 Nf6 6. Bg2 Nbd7 7. O-O h6 8. d3
+Be7 9. Nbd2 O-O 10. Rc1 a5 11. a3 Re8 12. Rc2 Bh7 13. Qa1 Bf8 14. Re1 Qb6 15.
+Bh3 Bc5 16. Rf1 Bf8 17. Rcc1 Rad8 18. Rfe1 Bc5 19. Rf1 Bf8 20. Bg2 Bd6 21. Ne5
+Bxe5 22. Bxe5 Nxe5 23. Qxe5 Nd7 24. Qb2 Nf6 25. b4 axb4 {Diagram #} 26. Qxb4 {
+'!?' Capablanca plays with an interesting plan in mind. Black's bishop on h7
+is not very well placed as it is only attacking a pawn (d3) which is already
+protected by the e2 pawn. Therefore, he will try to exchange some pieces in
+order to play with the better bishop (White's bishop on g2 vs Black's bishop
+on h7).'} (26. c5 $5) (26. Rb1 $5) (26. Rc2 $5) 26... Qxb4 (26... Qa7 $5) (
+26... Qc7 $5) 27. axb4 Ra8 28. Ra1 Nd7 29. Nb3 Kf8 30. Ra5 dxc4 31. dxc4 Nb6
+32. Rxa8 Rxa8 33. Na5 Ra7 34. Rd1 Ke8 $2 {this fails tactically} (34... g5 35.
+Rd8+ Kg7 36. h3 $5 $14 (36. Rb8 c5 $132 {complicates matters})) 35. Nxb7 Rxb7 (
+35... Nxc4 36. Rc1 Nb6 37. Bxc6+ $16) 36. Bxc6+ Rd7 37. c5 Ke7 38. Bxd7 Nxd7
+$16 {White's position is winning. He will either gain more pawns or his 2
+passers (b4 and c5) will cost Black a piece.} 39. c6 Nb6 40. c7 Bf5 41. Rd8 e5
+42. Rb8 Nc8 43. b5 Kd6 44. b6 Ne7 45. Rf8 Bc8 (45... Be6 46. b7 $18) 46. Rxf7
+Nd5 47. Rxg7 Nxb6 48. Rh7 Nd5 49. Rxh6+ Kxc7 50. e4 Ne7 51. f3 Kd7 52. h4 Ke8
+53. Rf6 Ng8 54. Rc6 1-0
+
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.06.06"]
+[Round "14.2"]
+[White "Berthold Englisch"]
+[Black "Wilhelm Steinitz"]
+[Result "0-1"]
+[ECO "C60"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "86"]
+[EventDate "1883.04.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Nc3 O-O 8.
+O-O Ne7 9. Qd2 d5 10. exd5 Nexd5 11. Nxd5 Qxd5 12. Be2 Ng4 13. Bxg4 Bxg4 14.
+Nb3 Qxd2 15. Nxd2 Rad8 16. c3 Rfe8 17. Nb3 b6 18. h3 Be6 19. Rfd1 c5 20. Bg5 f6
+21. Bf4 Kf7 22. f3 g5 23. Rxd8 Rxd8 24. Be3 h6 25. Re1 f5 26. f4 Bf6 27. g3 a5
+28. Nc1 a4 29. a3 Bc4 30. Kf2 gxf4 31. Bxf4 {Diagram #} Bg5 $1 {Black has a
+clear advantage. The 2 bishops are stronger that White's minor pieces. On the
+other hand, it is a good idea to exchange a pair of bishops in order to play
+against the knight on c1, which is dominated by Black's bishop on c4. An old
+but still great example of converting an advantage.} 32. Bxg5 hxg5 33. Ke3 Kf6
+34. h4 gxh4 35. gxh4 Re8+ $1 36. Kf2 Rxe1 $3 {
+Now Black reaches a won bishop versus knight ending.} 37. Kxe1 Ke5 38. Ne2 (38.
+Kf2 Kf4 {and the h4 pawn will fall.}) 38... Bxe2 39. Kxe2 Kf4 {
+The pawn endgame is won, but Black has to still be abit careful.} 40. c4 Kg4
+41. Ke3 f4+ (41... Kxh4 $4 42. Kf4 $18) 42. Ke4 f3 43. Ke3 Kg3 0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.04.09"]
+[Round "5"]
+[White "Nimzowitsch, Aaron"]
+[Black "Rubinstein, Akiba"]
+[Result "1-0"]
+[ECO "A34"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "91"]
+[EventDate "1926.04.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 $146 Nb4 6. Bc4 e6 7. O-O N8c6
+8. d3 Nd4 9. Nxd4 cxd4 10. Ne2 a6 11. Ng3 Bd6 12. f4 O-O 13. Qf3 Kh8 14. Bd2 f5
+15. Rae1 Nc6 16. Re2 Qc7 17. exf5 exf5 18. Nh1 $1 {The knight was not very
+useful on g3 so it reroutes to h3, where it will defend f4 and might jump to
+g5} Bd7 19. Nf2 Rae8 20. Rfe1 Rxe2 21. Rxe2 Nd8 22. Nh3 Bc6 23. Qh5 g6 24. Qh4
+Kg7 25. Qf2 Bc5 26. b4 Bb6 27. Qh4 (27. Qe1 $18 {
+was stronger, since Re7 is unstoppable}) 27... Re8 28. Re5 Nf7 {Diagram #} 29.
+Bxf7 $1 {Black's bishop on b6 is completely out of the game, so White will
+exchange a few pieces in order to highlight Black's lack of defenders.} Qxf7
+30. Ng5 $1 {Attacking and gaining a tempo.} Qg8 31. Rxe8 $1 {
+Another exchange, following the plan mentioned on move 29.} Bxe8 32. Qe1 $1 {
+The queen will penetrate the e file with decisive effect. Nimzowitsch makes it
+look so easy :)} Bc6 (32... Kf8 33. Qe5 (33. b5 $1 {planning Bb4+, is also good
+}) 33... Qxa2 34. Nxh7+ Kg8 35. Qe7 Bf7 36. Nf6+ Kg7 37. Nd7 $1 $18) (32... Bd8
+$2 33. Ne6+ {wins the bishop}) 33. Qe7+ Kh8 34. b5 $1 {Planning to activate
+the bishop. Other moves were good. But I particularly like this idea of
+bringing the last piece into action.} (34. Ne6 $18) (34. Nf7+ Kg7 35. Nd8+ Kh8
+36. Ne6 $18) 34... Qg7 (34... axb5 35. Ne6 h5 (35... h6 36. Qf6+ Kh7 37. Nf8+ {
+wins the queen}) 36. Qf6+ Kh7 37. Bb4 $1 {followed by Ng5+ and Bf8+, winning})
+35. Qxg7+ Kxg7 36. bxc6 bxc6 {White is a piece up, so the rest is easy} 37. Nf3
+c5 38. Ne5 Bc7 39. Nc4 Kf7 40. g3 Bd8 41. Ba5 Be7 42. Bc7 Ke6 43. Nb6 h6 44. h4
+g5 45. h5 g4 46. Be5 1-0
+
+[Event "St.Petersburg"]
+[Site "St.Petersburg"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Capablanca, Jose Raul"]
+[Result "1-0"]
+[ECO "C68"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "83"]
+[EventDate "1914.??.??"]
+[EventRounds "8"]
+[EventCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd6
+8. Nc3 Ne7 9. O-O O-O 10. f4 Re8 11. Nb3 f6 12. f5 $5 {
+This move gives the e5 square but it locks Black's bishop on c8} b6 {Diagram #}
+13. Bf4 $5 {Lasker exchanges a pair of bishops. He wants to play against the
+cramped bishop on c8. Also, Black had the bishop pair and now he neutralizes
+this potential advantage.} Bb7 (13... Bxf4 14. Rxf4 Rd8 15. Rf2 $11 {
+was an alternative}) 14. Bxd6 cxd6 15. Nd4 Rad8 $6 (15... Bc8 16. Rad1 c5 17.
+Nf3 d5 $5 {was an interesting alternative}) 16. Ne6 $14 {Black's bishop is
+very inactive. Also, he cannot take advantage of the e5 square so far as it is
+hard to reach it with a knight. On the contrary, White's knight on e6 is
+dominant and the d6 pawn is a potential target.} Rd7 17. Rad1 Nc8 18. Rf2 b5
+19. Rfd2 Rde7 20. b4 {Preventing the move c5 by Black} Kf7 21. a3 Ba8 22. Kf2
+Ra7 23. g4 $1 {White will now open files on the kingside.} h6 24. Rd3 a5 25. h4
+$1 axb4 26. axb4 Rae7 27. Kf3 Rg8 28. Kf4 g6 29. Rg3 {planning to play g5} g5+
+(29... gxf5 30. exf5 (30. gxf5 {is also possible}) 30... d5 31. Ra1 $16) 30.
+Kf3 $1 (30. hxg5 hxg5+ 31. Kf3 Rh8 {is less clear}) 30... Nb6 (30... gxh4 31.
+Rh3 $16) 31. hxg5 hxg5 32. Rh3 $1 {
+controlling the open file. White has a clear advatange now.} Rd7 33. Kg3 Ke8
+34. Rdh1 Bb7 35. e5 $1 {clearing the e4 square for the knight.} dxe5 36. Ne4
+Nd5 37. N6c5 Bc8 (37... Rc7 38. Nd6+ $18) 38. Nxd7 Bxd7 39. Rh7 Rf8 40. Ra1 Kd8
+41. Ra8+ Bc8 42. Nc5 1-0
+

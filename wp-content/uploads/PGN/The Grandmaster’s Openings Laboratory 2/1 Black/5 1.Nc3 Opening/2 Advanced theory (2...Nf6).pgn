@@ -1,0 +1,43 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.03.12"]
+[Round "?"]
+[White "1.Nc3 Opening"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "RCA"]
+[PlyCount "16"]
+[EventDate "2013.??.??"]
+
+1. Nc3 d5 2. e4 Nf6 {(a reasonable alternative to our main line 2...dxe4)} (
+2... d4 $5 {Objectively this move is the best. However, White players are
+usually well familiar with it. White's next moves are pretty simple in this
+line. That's why I offered you other variations against 1.Nc3.} 3. Nce2 Nf6 4.
+e5 $5 {converted to main line....} (4. Nf3 $5 Nc6 5. c3 (5. d3 e5 6. Ng3 (6. c3
+$5 dxc3 7. Nxc3 Bg4 8. Be2 Bxf3 9. Bxf3 Nd4 {followed by ...Bc5, 0-0 & black
+gets total domination in the central squares... .}) 6... Bb4+ 7. Bd2 Bxd2+ 8.
+Qxd2 O-O 9. Be2 h6 {and black has a superior bishop....}) 5... e5 6. Ng3 a6 7.
+Bc4 Bd6 $11 {black is atleast equal...})) 3. e5 $5 (3. exd5 $5 Nxd5 4. Bc4 (4.
+Nxd5 $6 {a choice of club players....} Qxd5 5. Qf3 Be6 {(better than ...c6)} 6.
+Qxd5 Bxd5 $15 {white has some minor problems in development in K-side....})
+4... Nb6 5. Bb3 c5 6. d3 Bf5 {[Converted to modern scandivian where black is
+perfectly OK]} 7. Qf3 Qd7 $11 {(black's plan is to play e6, Nc6 , Be7 etc....)}
+) 3... d4 {converted to anti-alekhine line, where endgame appears after some
+series of forcing exchanges.....} (3... Nfd7 $5 {If you are familiar with
+French defense, then this move is well suit for you. Although in addition to
+French defense you should be ready to face the move} 4. e6) 4. exf6 (4. Nce2 $5
+{important sideline.....idea behind this backward knight move is to avoid
+further exchanges and continue the middlegame} Ng4 (4... Nfd7 $6 5. e6 $14 {
+white successfully break the natural flow of black's development. ...}) 5. f4 (
+5. Nf3 Nc6 6. h3 Ngxe5 7. Nexd4 Nxd4 8. Nxe5 Qd5 $15 {black is ahead in
+development!}) 5... g6 6. Nf3 Nc6 7. b3 Bg7 8. Bb2 d3 $36 {followed by Nb4...
+good active play for black!}) 4... dxc3 5. fxg7 (5. bxc3 $5 exf6 6. Nf3 Bd6 7.
+Be2 (7. Qe2+ $5 Be7 8. g3 O-O $1 9. Bg2 Re8 $36 {is good for black}) 7... c5 8.
+O-O O-O $11 {with level position... .}) (5. fxe7 $5 Qxe7+ 6. Be2 cxd2+ 7. Qxd2
+Nc6 8. Nf3 Bd7 9. O-O O-O-O $11 {identical position, but white's queen is at
+little bit awkward position than black's one...}) 5... cxd2+ 6. Qxd2 (6. Bxd2
+$6 Bxg7 7. c3 Be6 $36 {followed by Qd6, Nc6 etc....}) 6... Qxd2+ 7. Bxd2 Bxg7
+8. O-O-O Nc6 $11 {Although this endgame is equal, still there are a lot of
+possibilities to play on and outplay your opponent.} *
+

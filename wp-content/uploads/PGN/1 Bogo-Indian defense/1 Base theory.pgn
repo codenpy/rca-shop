@@ -1,0 +1,47 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.03.28"]
+[Round "?"]
+[White "Bogo Indian"]
+[Black "Base theory"]
+[Result "*"]
+[ECO "E11"]
+[Annotator "RCA"]
+[PlyCount "20"]
+[EventDate "1954.03.??"]
+[SourceDate "2009.04.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 (3. g3 Bb4+ {The good thing about the Bogo Indian,
+unlike the Queen's Indian which begins with 3...b6, is that you can play it
+against even 3.g3. So we don't need to prepare a new line for it.} 4. Nd2 $6 {
+This move is dubious, because Black can now strike right in the centre with...}
+(4. Bd2 Qe7 {And, sooner or later, White will have to play Nf3 and we will
+transpose back to our normal lines of the Bogo Indian.}) 4... c5 $1 5. a3 Bxd2+
+6. Qxd2 cxd4 7. Nf3 (7. Qxd4 $6 Nc6) 7... Nc6 8. Nxd4 Qb6 9. Nb5 d5 $1 {After
+this move, I think Black will equalise without much difficulty.}) 3... Bb4+ 4.
+Bd2 (4. Nbd2 b6 {This leads to exciting positions in which all of Black's
+pieces work well in co-ordination.} 5. a3 Bxd2+ {White has two ways to
+recapture: if you take with the bishop, then you will later want to play Bg5;
+if you take with the queen, then you would like to play e3 Be2 b4 Bb2.} 6. Qxd2
+(6. Bxd2 {With the idea of Bg5 is one way to play, but more popular is to play
+Qd2.} Bb7 7. Bg5 d6 {Followed by Nbd7, h6 and g5.}) 6... Bb7 7. e3 O-O 8. Be2
+Ne4 9. Qc2 f5 10. b4 d6 11. Bb2 Nd7 12. O-O Qe7 {This is the basic setup for
+Black.}) 4... Qe7 {From this point, it makes more sense to develop the f1
+bishop to g2 than to e2 or d3.} 5. g3 Nc6 {White has two options from this
+position, Bg2 and Nc3. The critical one, I definitely think, is Nc3.Why is it
+critical is explained in the individual file.} 6. Nc3 (6. Bg2 Bxd2+ $1 {Right
+moment to exchange, as White will have to take with the queen's knight,
+meaning he cannot develop this knight actively to c3 and control more of the
+centre.} 7. Nbxd2 (7. Qxd2 $6 Ne4 $1 8. Qc2 Qb4+) 7... O-O 8. O-O d6 9. e4 e5
+10. d5 Nb8 {Is the starting position and tabiya of this opening. We should try
+to understand this position in as much depth as we can.}) 6... O-O (6... Bxc3 {
+Is the main move here, but I have the feeling that it has been deeply analysed
+and leads to dull positions for Black. Hence we must try something more
+original.}) 7. Bg2 Na5 $5 {The only good way to defend the c4 pawn is to play
+b3.} 8. b3 (8. c5 {This rarely played move is also examined.}) 8... b6 9. O-O (
+9. Ne5) 9... Bb7 10. Qc2 {And now we propose a move that has never been tried
+before and it's an excellent one, striking right into the centre.} d5 $1 $146 {
+This is the novelty that we propose. It's a natural move and, very
+surprisingly, no one has played it before! It leads to good positions for
+Black.} (10... Rac8 {The earlier played move is also analysed.}) *
+

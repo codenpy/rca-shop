@@ -1,0 +1,57 @@
+[Event "Baku op"]
+[Site "Baku"]
+[Date "2014.09.25"]
+[Round "4"]
+[White "Givon, Asaf"]
+[Black "Artemiev, Vladislav"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2431"]
+[BlackElo "2650"]
+[PlyCount "94"]
+[EventDate "2014.09.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[Source "ChessBase"]
+[SourceDate "2014.10.17"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Be3 b5 7. Qd2 Nf6 8. f3
+b4 9. Nd1 e5 10. Nb3 Nc6 11. Bf2 Be7 12. Ne3 O-O 13. Rd1 Rb8 14. c4 bxc3 15.
+bxc3 a5 16. Qc2 Qc7 17. Be2 Be6 18. O-O Rfc8 19. Na1 Qd8 20. Qd2 a4 21. Nd5
+Bxd5 22. exd5 Na5 23. Rb1 Nc4 24. Bxc4 Rxc4 25. Nc2 Rbc8 26. Nb4 Qc7 (26...
+Rxc3 27. Nc6) 27. Nc6 {Diagram #} Nxd5 28. Na7 Nxc3 29. Nxc8 Qxc8 30. Rb6 h6
+31. Qb2 Qf5 32. Rb8+ Kh7 33. Be1 Nd5 34. Qb5 Qd3 35. Qb1 Qxb1 36. Rxb1 Bg5 37.
+Bf2 Rc2 38. a3 Nc3 39. Rb4 d5 40. Be1 Be3+ 41. Kh1 Rc1 42. g3 d4 43. Kg2 Rc2+
+44. Kh1 Ra2 45. Bxc3 dxc3 46. Rxa4 c2 47. Rc4 Rb2 0-1
+
+[Event "Olympiad-17 Final A"]
+[Site "Havana"]
+[Date "1966.11.07"]
+[Round "4"]
+[White "Larsen, Bent"]
+[Black "Petrosian, Tigran V"]
+[Result "0-1"]
+[ECO "C01"]
+[PlyCount "96"]
+[EventDate "1966.11.04"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Denmark"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "DEN"]
+[BlackTeamCountry "URS"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. exd5 exd5 5. d4 c6 6. Bd3 Bd6 7. O-O O-O 8.
+Ne2 Re8 9. Ng3 Nbd7 10. Nf5 Nf8 11. Nxd6 Qxd6 12. Ne5 N6d7 13. Bd2 f6 (13...
+Nxe5 14. dxe5 Qxe5 (14... Rxe5 15. Bf4) 15. Re1) 14. Qh5 {Diagram #} Rxe5 (
+14... Re7) 15. dxe5 fxe5 16. Rfe1 e4 17. Bf1 Nf6 18. Qh4 Bf5 19. Qg3 Qe7 20. c3
+Ne6 21. Be3 Ng4 22. h3 Nxe3 23. Rxe3 Rf8 24. Qe5 Bg6 25. Rd1 Qf7 26. Rd2 Nf4
+27. b4 h6 28. a4 Bh7 29. Qd4 b6 30. Re1 Qc7 31. Qe3 c5 32. bxc5 bxc5 33. g3 Nd3
+34. Bxd3 exd3 35. Qe6+ Qf7 36. Qxf7+ Kxf7 37. Rb2 c4 38. f3 d4 39. Rc1 Ke6 40.
+Kf2 Be4 41. f4 Re8 42. g4 Bc6 43. Re1+ Kd5 44. Rxe8 Bxe8 45. cxd4 c3 46. Rb8 d2
+47. Rd8+ Kc4 48. Rc8+ Kd3 0-1
+

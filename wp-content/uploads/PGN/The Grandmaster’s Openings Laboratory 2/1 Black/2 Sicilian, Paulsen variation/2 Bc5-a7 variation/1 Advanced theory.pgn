@@ -1,0 +1,80 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.10.24"]
+[Round "?"]
+[White "Bc5-a7 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B42"]
+[Annotator "RCA"]
+[PlyCount "22"]
+[EventDate "2013.10.24"]
+[SourceDate "2013.10.24"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 $5 {In conjunction with
+our solid repertoire beginning with 5...Nf6, this line with 5...Bc5 is
+extremely interesting. Black makes use of his move a6, to find a highly
+unusual home for the dark-squared bishop - on a7. With the bishop there, the
+contours of the battle become completely different. The Black bishop will be
+extremely well placed, cutting across, the board; but at the same time, its
+absence will be felt from the king side. Black's dark squares, and especially
+the g7 point, can become extremely weak. Thus this line, with the unusual
+development of the bishop, is a highly dynamic and unbalanced one.} 6. Nb3 {
+This is played almost 90% of the time. However, one very important alternative
+is the move Be3.} (6. Be3 d6 $1 {This seems to me like a natural way to play,
+staying within the bounds of our repertoire.} (6... Qb6 {Is the move that
+tries to punish White for playing Be3. But I am not sure whether it is that
+strong.} 7. c3 $1 {Daring Black to take on b2. Because if he doesn't, then the
+move of Qb6 is useless.} Qxb2 (7... Nc6 8. Nd2 Nxd4 9. Nc4 $16) 8. O-O $1 {
+Gaining a lead in development.} Qxa1 {Black takes a rook and asks how White
+will trap the queen? Of course, he will move the queen and then the knight and
+trap the Black queen. But Black will gain two rooks for the queen, which will
+be a good deal. The only problem is Black's lack of development.} 9. Qc2 {
+Threatens Nb3.} Bxd4 10. cxd4 {(attacking the c8-bishop)} Ne7 11. Nc3 Qxf1+ 12.
+Bxf1 O-O 13. d5 $16 {Black is materially fine but really very passive - hence
+this seems like an advantage to White.}) 7. O-O Ne7 {As always, we prefer to
+develop the knight on this square.} 8. Nc3 O-O 9. Qe2 (9. e5 Bxd4 (9... dxe5
+10. Nxe6 $14) 10. Bxd4 Nec6 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Ne4 {(threatening
+Ng5)} Nxd4 14. Ng5 Qxg5 15. Qxg5 dxe5 16. Qxe5 Nxc2 17. Rad1 $11) 9... Qc7 10.
+Rad1 Nbc6 11. Nxc6 Qxc6 $11 {Gives Black a playable position.}) 6... Ba7 7. Qe2
+{The most natural move for White. The idea is to play the bishop to e3,
+thereby neutralising the bishop on a7. It is also the most natural square for
+the White queen, thereby paving the way for 0-0-0.} (7. Qg4 {Is the most
+natural move. The bishop has moved away from the king side and hence Black
+must be aware of the dangers that await him. Still, if you are well versed in
+theory, then this move should not hurt you too much.} Nf6 $1 {Black doesn't
+fear White taking the g7 pawn.} 8. Qg3 (8. Qxg7 $2 Rg8 9. Qh6 Bxf2+ $1 10. Kf1
+(10. Kxf2 Ng4+) 10... Nc6 11. Bg5 Rg6 $17 {Black is clearly better.}) 8... d6
+9. Nc3 Nc6 {This is the main position of the Qg4 line. There are primarily two
+moves for White here. One is to play Bg5 followed by 0-0-0 - which will be
+analysed in Zawadzka-Paehtz. And the other move is simply 0-0 - which will be
+analysed in Berg-Hillarp Persson.}) (7. O-O Ne7 $1 8. Nc3 (8. c4 Nbc6 9. Nc3 d6
+10. Qe2 e5 11. Be3 O-O {Transposes to the 7.Qe2 lines.}) 8... Nbc6 {If you
+look at this position with fresh eyes, then the most logical move for White is
+Qe2. In that case, the lines will be transposing to those of 7.Qe2. So I think
+in this position the only independent plan for White is to play Kh1 followed
+by f4.} 9. Kh1 (9. Qe2 d6 10. Be3 e5 {Transposes to the 7.Qe2 lines.}) 9... O-O
+10. f4 {Now Black must counterattack in the centre with d5! This position will
+be analysed in the game Zupancic-Neverov.} d5) (7. Nc3 Nc6 8. Qe2 {Will lead
+to the 7.Qe2 lines.} (8. O-O {Will lead to the 7.0-0 lines.})) (7. c4 Nc6 8.
+Nc3 d6 9. O-O Nge7 10. Kh1 (10. Qe2 O-O 11. Be3 e5 {Leads to lines analysed in
+7.Qe2.}) 10... e5 11. f4 {Is analysed in the game Kalinina-Ciuksyte.}) 7... d6
+{With this flexible move, we keep our options open. Sometimes we would like to
+develop the knight on c6 or sometimes on f6 or sometimes Ne7. So d6 keeps all
+possibilities alive.} 8. Be3 Nc6 9. O-O {By castling, White retains the option
+of playing c4 later and entering into Maroczy territory.} (9. Nc3 Nge7 {Is the
+key position of this variation, which is analysed.} (9... b5 {Leads to very
+interesting play which is analysed in Kritz-Rublevsky. The funny thing is that
+here White should now 0-0, as Black has already played b5; but Kritz later
+played 0-0-0 and was under pressure due to Black's queen side play.}) 10. O-O (
+10. O-O-O b5 $1 {Is analysed in Garcia-Korneev.}) 10... e5 {Is analysed in
+Kotronias-Milov.}) 9... Nge7 10. c4 {White sets up the Maroczy position.
+However, Black has now turned his attention to the fact that the dark squares
+in White's position are extremely weak, and he therefore focuses on
+dark-squared play beginning with...} e5 $1 11. Nc3 O-O {This is quite a
+critical position and we shall examine four games from it in the illustrated
+games section (Erwich-Shillong, Thipsay-Prathamesh, Sandipan-Kobalia and
+Jonker-Landa). Once you have gone through the games, you will get a better
+understanding of how to play this position. One thing is very clear here -
+that Black is trying to play on the dark squares.} *
+

@@ -1,0 +1,214 @@
+[Event "Cheliabinsk Kurnosov Memorial rapid"]
+[Site "Cheliabinsk"]
+[Date "2016.05.27"]
+[Round "5"]
+[White "Grischuk, Alexander"]
+[Black "Trifonov, Pavel"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2752"]
+[BlackElo "2271"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "2016.05.26"]
+[EventType "rapid"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2016.06.21"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. dxc5 Bxc5 8. b4
+Bxd3 9. Qxd3 Be7 10. O-O Nd7 11. Na3 a6 {Diagram #} 12. c4 $5 {White has many
+ways to improve the position of his pieces and play positionally. However, the
+enemy king is in the center of the board and, for that reason, White would
+like to open the center as soon as possible. This is a pawn sacrifice, but the
+opening of the b-line will help White pieces join the attack.} (12. Bd2 $5) (
+12. Re1 $5) (12. Bf4 $5) 12... Bxb4 (12... Qxb4 13. cxd5 exd5 (13... Nc5 14.
+Qd1 exd5 15. Rb1 $44) 14. Qxd5 $16) 13. cxd5 exd5 14. Rb1 {We can see here
+that the d5-pawn is under attack and the pin over the b4-bishop is annoying
+for Black. Please also notice that there is a possibility for the e6 break.}
+Qa5 15. Nc2 Bc3 16. Rxb7 {The material is equal for the moment, but Black's
+monarch is still in the center of the board and White has very good
+development.} Nc5 17. Qxd5 {White has a winning position here.} Nxb7 18. Qc6+
+Kf8 19. Ba3+ Ne7 20. Bxe7+ Kg8 21. Qxb7 Re8 22. Bb4 Bxb4 23. Nxb4 Qb5 24. Qxb5
+axb5 25. Rc1 g5 26. h3 Kg7 27. Rc5 Rc8 28. Rxb5 Rb8 29. a4 h6 30. Nc6 Ra8 31.
+a5 Rhc8 32. Nfd4 Rc7 33. Rb6 Rd7 34. a6 Rd5 35. a7 Rd7 36. Nb5 1-0
+
+[Event "Wch Blitz 1st"]
+[Site "Rishon Le Ziyyon"]
+[Date "2006.09.07"]
+[Round "3"]
+[White "Svidler, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2742"]
+[BlackElo "2729"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "2006.09.07"]
+[EventType "blitz"]
+[EventRounds "15"]
+[EventCountry "ISR"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "2006.11.03"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 cxd4 7. cxd4 Bb5 8. Nc3
+Bxe2 9. Nxe2 Ne7 10. O-O Nec6 11. Rb1 a5 12. Nf4 Nd7 13. Be3 Be7 14. Nd2 a4 15.
+h4 Nxd4 16. Qg4 Bc5 17. Qxg7 O-O-O 18. b4 Ne2+ 19. Nxe2 Bxe3 20. Nf3 Rdg8 21.
+Qxf7 Rg6 22. h5 Rf8 {Diagram #} 23. hxg6 $1 {White exchanged the queen for the
+two rooks in order to stop all of Black's threats on the queenside. The pawn
+on f7 is dangerous and a potential new queen. White is controlling the center
+very well and he has a nice outpost on e5. Thus, the position is better for
+White.} (23. Qxf8+ $5) (23. Qxh7 $5 Rg4 $132 {White is better, but Black has
+counterplay.}) (23. Qe7 $5 Rg4 $132) 23... Rxf7 24. gxf7 Bh6 25. Ned4 {We can
+see now why White's position is better. The d4-knight looks great and White's
+plan is g3, Rh1 and Rxh7. Black's king isn't in a safe location, but White
+cannot attack it right now.} Nxe5 26. Nxe5 Qxd4 27. Rfe1 {Black performed a
+nice combination in order to win a pawn, but still, White has a dominant
+position. The plan remains the same: g3, Kg2, and Rh1. White wins the game
+afterwards.} Kd8 28. g3 Ke7 29. Kg2 Bg7 30. Nf3 Qg4 31. Rbc1 Kxf7 32. Rc7+ Kf8
+33. Rxb7 Bc3 34. Rh1 Bf6 35. Rhxh7 Kg8 36. Rhc7 1-0
+
+[Event "Bundesliga 1314"]
+[Site "Germany"]
+[Date "2014.02.09"]
+[Round "8.2"]
+[White "Areshchenko, Alexander"]
+[Black "Rustemov, Alexander"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2714"]
+[BlackElo "2538"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "2013.10.12"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2014.03.17"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Wattenscheid"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 cxd4 7. Nxd4 Bc5 8. O-O
+Bxd4 9. cxd4 Qxd4 10. Nc3 a6 11. Re1 Bc6 12. Ne2 Qxe5 {Diagram #} 13. Ng3 $1 {
+It's OK for Black to capture one pawn, but not two. He is behind in
+development and White's pieces are extremely active. Black's main problem is
+the king in the center of the board and weaknesses on the dark squares.} (13.
+Nf4 $5) 13... Qc7 14. Qg4 {g7 is a vital square. White is not only attacking
+the weak g7-pawn, but the dark squares in general.} g6 15. Qd4 {Forcing Black
+to play f6...} f6 16. Rxe6+ Kf7 17. Bf4 $18 {White's position is winning. We
+can see that he has full dominance on the dark squares, finalized the
+development, and there is no clear, easy plan for Black to develop their
+pieces. Areshchenko manages to win the game afterwards.} Qc8 18. Re3 a5 19.
+Rae1 Qd7 20. h4 Na6 21. h5 Nc7 22. Bxc7 Qxc7 23. Qg4 Kf8 24. hxg6 hxg6 25. Bxg6
+Rd8 26. Qd4 Rh6 27. Qc5+ Qd6 28. Re8+ Bxe8 29. Rxe8+ 1-0
+
+[Event "EU-ch blitz"]
+[Site "Warsaw"]
+[Date "2011.12.16"]
+[Round "1"]
+[White "Movsesian, Sergei"]
+[Black "Spicak, Krzysztof"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2710"]
+[BlackElo "2016"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "2011.12.16"]
+[EventType "blitz"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2012.01.03"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Be2 cxd4 7. cxd4 Bb4+ 8. Kf1
+Bd7 9. h4 Be7 10. h5 f6 11. Nc3 fxe5 12. dxe5 Nh6 13. Bxh6 gxh6 14. Qd2 Bf8 15.
+Rh4 Bg7 16. Na4 Qd8 17. Rg4 Qe7 18. Qe3 b6 19. Nc3 O-O-O 20. Nb5 Rhf8 {Diagram
+#} 21. Nxa7+ $5 {White has a lot of ways to improve his position; he can build
+the attack or strike immediately. When you have a lot of good options, it
+means your position is very promising. With the last move, he has completely
+opened up Black's queenside and White's active pieces can join the attack
+rapidly.} (21. Rc1 $5) (21. Ra4 $5) (21. a4 $5) (21. a3 $5) 21... Nxa7 22. Qxb6
+{The queen is protecting the escaping squares for the king. White's rooks are
+coming to the c-file. Black's rooks and the g7-bishop cannot help with the
+defense. Thus, we can claim that White created the strongest army on the
+queenside.} Bc6 23. Rc1 Rf7 24. Ba6+ {White can give up the Exchange on c6,
+but Ba6 is a more practical move. Movsesian manages to win the game afterwards
+with this crushing attack.} (24. Rxc6+) 24... Kd7 25. Qxa7+ Ke8 26. Qxe7+ Rxe7
+27. Rxc6 1-0
+
+[Event "Gibraltar Masters 11th"]
+[Site "Caleta"]
+[Date "2013.01.24"]
+[Round "3"]
+[White "Yu, Yangyi"]
+[Black "Zatonskih, Anna"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2688"]
+[BlackElo "2491"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "47"]
+[EventDate "2013.01.22"]
+[EventRounds "10"]
+[EventCountry "GGB"]
+[Source "ChessBase"]
+[SourceDate "2013.03.14"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 cxd4 7. Nxd4 Nc6 8. Nxc6
+bxc6 9. O-O c5 10. c4 dxc4 11. Be4 Rd8 12. Nd2 Qa6 13. b3 Bb5 {Diagram #} 14.
+a4 $1 {Again, we can see the same scenario: Black's pieces are undeveloped and
+White is controlling the center. However, Black has some threats and, for that
+reason, good calculations are required. White calculated very accurately his
+last move, a4. He sacrificed the Exchange in order to weaken the light squares
+this time. The idea is to create an attack against the enemy king, which
+stands in the center of the board.} (14. bxc4 $5) (14. Qf3 $5) (14. Bb2 $5)
+14... c3 (14... Bd7 15. Nxc4 $18 {Black avoided the direct attack, but it is a
+disastrous position for her...}) 15. axb5 Qxa1 16. Bc6+ {This is the point of
+the combination. White is dominating the light squares and Black's king
+position is very cramped.} Ke7 17. Qc2 $1 {This is the killing move because
+White avoided the pin over the d-file and, at the same time, he's ready to
+create problems for Black's queen. The threats are Nc4 and Bg5. White wins the
+game after some moves.} Qa5 (17... cxd2 18. Qxc5+ Rd6 19. Qxd6#) (17... Nh6 18.
+Nc4 f6 19. Bxh6 $18) (17... f6 18. Nc4 $18) 18. Nc4 Qc7 19. Qxc3 f6 20. Bf4 Kf7
+21. g3 f5 22. Ra1 Kg6 23. Nd6 Rxd6 24. Be8+ 1-0
+
+[Event "Monarch Assurance 08th"]
+[Site "Port Erin"]
+[Date "1999.11.06"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Ward, Christopher"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2675"]
+[BlackElo "2473"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "1999.11.06"]
+[EventRounds "9"]
+[EventCountry "IOM"]
+[Source "ChessBase"]
+[SourceDate "2000.02.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 cxd4 7. cxd4 Bb5 8. Nc3
+Bxe2 9. Nxe2 Nc6 10. O-O O-O-O 11. Rb1 Kb8 12. b4 Rc8 13. Bd2 h6 14. a4 g5 15.
+Bc3 Be7 16. Ne1 f5 17. Nd3 f4 18. Qd2 Nd8 19. b5 Qc7 20. Rfc1 Qd7 {Diagram #}
+21. Bb4 $1 {This is the best positional move because White would like to
+exchange his bad bishop for the opponent's good one. Short started a fight for
+the dark squares. Black's problem is that he cannot create any counterplay on
+the other side of the board, so this is a one-sided game.} (21. Ba5 $5) (21.
+Qa2 $5) (21. f3 $5) (21. h3 $5) 21... Rc4 22. Nc5 {With the clear threat to
+capture the rook on c4, and then, put the other rook on c1. Black's h1-rook
+and the g8-knight are completely out of the game.} Rxc1+ (22... Qc8 23. Rxc4
+dxc4 24. Rc1 $18) 23. Rxc1 Bxc5 (23... Qc8 24. Na6+ {The killing move because
+Black will lose the queen.} bxa6 25. Rxc8+ $18) 24. Bxc5 b6 25. Bd6+ Kb7 26.
+Qb4 {With a fantastic control over the dark squares. Black's knights are out
+of the game and White can continue opening lines with the a5 break. So, Black
+resigns on the next move.} Rh7 27. a5 1-0
+

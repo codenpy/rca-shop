@@ -1,0 +1,374 @@
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.01.13"]
+[Round "5.1"]
+[White "Fuest, Martin"]
+[Black "Wensing, Maximilian"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2140"]
+[BlackElo "2026"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Bocholt"]
+[BlackTeam "Ahaus Wessum"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. c3 d6 5. Nbd2 Nbd7 6. e3 O-O 7. h3 e5 8. Bc4
+c6 9. Bb3 Qc7 10. O-O h6 11. Bh4 exd4 12. exd4 d5 13. Bg3 Qd8 14. Re1 Nb6 15.
+Bc2 Re8 16. Rxe8+ Qxe8 17. Ne5 Nfd7 18. f4 Nxe5 19. fxe5 Nc4 20. Nxc4 dxc4 21.
+b3 Be6 22. a4 a5 23. Rb1 Qd7 24. bxc4 Bxc4 25. Bb3 b5 26. Bxc4 bxc4 27. Qf3 Rd8
+28. Rb6 c5 29. Rd6 Qe7 30. dxc5 Rc8 {Diagram #} 31. Qd5 $5 {
+White is activating the queen and, more specifically, he pins the f7-pawn.} (
+31. c6 $5) 31... Bf8 {In order to find good moves, you need to know exactly
+what your opponent's is doing with last move. White played Qd5 in order to
+support the rook and also to pin the f7-pawn.} (31... Kh7 $5 {White is close
+to a winning position, but it's not good to make more mistakes and lose
+further material.}) 32. Rxg6+ Kh8 33. Rd6 Qg5 34. Kh2 $5 {This is an interesting
+move, but it was better to sacrifice the Exchange, and then, to develop the
+bishop on the powerful d4-square. In both cases, White has the advantage, and
+he manages to win the game afterwards.} (34. Bf2 $5 Bxd6 35. cxd6) 34... Bxd6
+35. cxd6 Rg8 36. Qf3 Qg6 37. Bh4 Qd3 38. Qxf7 Rxg2+ 39. Kxg2 Qe2+ 40. Bf2 Qe4+
+41. Qf3 Qg6+ 42. Kh2 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.01.13"]
+[Round "5.2"]
+[White "Schulze Ameling, Hendrik"]
+[Black "Hunhoff, Sebastian"]
+[Result "1-0"]
+[ECO "A52"]
+[WhiteElo "2001"]
+[BlackElo "1951"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Ahaus Wessum"]
+[BlackTeam "Bocholt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Be3 Bb4+ 7. Nc3 Bxc3+
+8. bxc3 d6 9. Nf3 O-O 10. Bd3 Nd7 11. O-O Nf6 12. Qc2 Qe7 13. Rae1 Bg4 14. Nd4
+Rae8 15. Bc1 {Diagram #} Bd7 $6 {You should be extremely careful before going
+back with your pieces. It wouldn't be the worst thing in the world to double
+the pawns on c6.} (15... Nd7 $5) (15... g6 $5) 16. Nb5 $5 {Now Black is forced
+to remove the bishop in order to protect the c7-pawn. By moving the bishop
+twice, Black admits his error, Bd7.} (16. Qb1 $5) 16... Bc8 17. e5 {When all of
+your pieces are active, then you need to open lines. This move can create
+problems to Black. Similarly, a good move was Ba3 in order to prepare the e5
+advancement.} (17. Ba3 $5) 17... Ng4 $2 (17... dxe5 {It was necessary because
+White is threatening to capture on d6, releasing the power of the e1-rook.} 18.
+fxe5 (18. Ba3 $1 Qd8 19. Bxf8 Kxf8 20. Bxh7 a6 21. fxe5 Nxe5 22. Nd4 c5 $5 $132
+{White is clearly better, but Black is in the game. He can continue fighting.}
+(22... Nxc4 $5)) 18... Nxe5) 18. h3 a6 (18... Nh6 19. exd6 $18 {
+White has a winning advantage here.}) 19. hxg4 axb5 20. cxb5 $18 {
+White has material advantage, and he manages to win the game afterwards.} Na5
+21. Ba3 Bxg4 22. exd6 Qxe1 23. Rxe1 Rxe1+ 24. Kf2 Rfe8 25. dxc7 h5 26. f5 R1e5
+27. Kg1 Re1+ 28. Kh2 b6 29. Qf2 Rd1 30. Qd4 Nb7 31. Qd7 1-0
+
+[Event "Youth District Germany"]
+[Site "Wuerzburg"]
+[Date "2018.10.07"]
+[Round "7.2"]
+[White "Zha, Kevin"]
+[Black "Noeldner, Julian"]
+[Result "0-1"]
+[ECO "C07"]
+[WhiteElo "1570"]
+[BlackElo "2024"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "120"]
+[EventDate "2018.10.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Saarland U20"]
+[BlackTeam "Berlin U20"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. Re1 Qc7 12. Qe2 h6 13. c3 Bd6 {Diagram #}
+14. Nf5 $6 {It is obvious that Black is attacking the h2-pawn, but White
+ignores that threat in order to create his own. As you already learned, it's
+important to notice your opponent's threats and, if it is nesseary, to defend
+against them.} (14. Nf3 $5 b5 15. Bd3) (14. h3) 14... Bxh2+ 15. Kh1 Bf4 16. Qf3
+(16. Nxg7+ Kf8 {White's knight is traped, and now, it must sacrifice itself.
+But it is not correct because White's army isn't developed yet.}) 16... Qxc4 $2
+{It was wrong to let White capture the dark-squared bishop because now Black
+should be careful for a lot of threats. It is a rule that you should not
+exchange your developed pieces because you can stay behind in development.} (
+16... Bg5 {It was absolutely necessary to keep the dark-squared bishops. Black
+is threating the c4-bishop and keeps an eye on the f5-knight.}) 17. Bxf4 O-O
+18. b3 {Black's queen is in trouble and White has a tremendous piece
+superiority in the kingside. As you can see, a sacrifice on h6 or g7 is on the
+air...} Qb5 19. Re5 $5 {This is a winning move as well because Black should
+sacrifice his queen. He has the advantage, and he manages to win the game
+afterwards.} (19. Nxg7 $1) 19... exf5 20. Rxb5 axb5 21. Kg1 Re8 22. Be3 Ne4 23.
+Bd4 Be6 24. a3 f6 25. g4 Nd2 26. Qd1 Nxb3 27. Rb1 Nxd4 28. Qxd4 Ra4 29. Rb4
+Rxa3 30. gxf5 Bxf5 31. Qd5+ Be6 32. Qxb5 Ra1+ 33. Rb1 Rxb1+ 34. Qxb1 Bd5 35.
+Qd1 Bc6 36. Qb3+ Kh7 37. Kf1 h5 38. Qc2+ Be4 39. Qd2 Re5 40. Qd4 Bc6 41. Qf4
+Re4 42. Qf5+ Kh6 43. f3 Re5 44. Qf4+ Kg6 45. Kf2 Rf5 46. Qg3+ Kh6 47. f4 g5 48.
+Qd3 Rxf4+ 49. Kg1 Rg4+ 50. Kf2 h4 51. Qd8 Rf4+ 52. Kg1 Kh5 53. Qe7 Kg4 54. Qe6+
+Kg3 55. Qe1+ Kh3 56. Qe6+ g4 57. Qe2 g3 58. c4 Rf2 59. Qe6+ f5 60. c5 Bb5 0-1
+
+[Event "Youth District Germany"]
+[Site "Wuerzburg"]
+[Date "2018.10.07"]
+[Round "7.4"]
+[White "Wu, Luka"]
+[Black "Richter, Nils"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[WhiteElo "2001"]
+[BlackElo "2035"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "88"]
+[EventDate "2018.10.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Baden U20 II"]
+[BlackTeam "Wuerttemberg U20"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. Rb1 a5 8. a3
+e5 9. d3 h6 10. b4 axb4 11. axb4 Be6 12. b5 Ne7 13. Bb2 Qd7 14. Re1 Bh3 15. Bh1
+Ng4 16. Ra1 f5 17. Qb3 Kh7 {Diagram #} 18. Rxa8 {This isn't a bad move by
+itself. The computer gives it as the first choice. However, to take is a
+mistake, and White chooses a wrong plan. It is better to neutralize the enemy
+pieces in his kingside because the h3-bishop and the g4-knight are looking
+very dangerous.} (18. Nd2 $5) (18. e3 $5) (18. Bg2 $5) (18. Qc2 $5) 18... Rxa8
+19. Ra1 $6 {Now this is the error. Black has a fantastic activity of his
+pieces on the kingside, and White just exchanges the rooks on the queenside.}
+Rxa1+ 20. Bxa1 e4 21. Ne1 Bd4 22. e3 Nxe3 $5 {
+This is a really cool sacrifice that White cannot accept.} 23. Ne2 $2 {
+Probably, White was shocked by Black's last move; so, he didn't played
+accurately.} (23. fxe3 Bxe3#) (23. dxe4 $5 {White should not capture the
+knight on e3, but there is no need to go back with his pieces. The general
+rule says: if you face a side attack, then you need to counter-attack in the
+center.}) 23... Bxa1 24. fxe3 Bg4 $17 {Black has a big advantage here but,
+after a tenacious defense, White manages to keep the draw.} 25. Kf2 Bxe2 26.
+Kxe2 exd3+ 27. Nxd3 c6 28. bxc6 bxc6 29. Nb4 c5 30. Nd5 Nxd5 31. Bxd5 Bg7 32.
+Kf3 h5 33. Kg2 Qe7 34. Qd3 Qe5 35. Kf2 Qa1 36. Qe2 Bh6 37. h4 Qc3 38. Kf3 Bg7
+39. Kf2 Be5 40. Kg2 Kh6 41. Qf2 Qd3 42. Qf3 Kh7 43. Qf2 Qc3 44. Qe2 Qa5 1/2-1/2
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.01.13"]
+[Round "5.1"]
+[White "Henke, Wolfgang1"]
+[Black "Borrink, Joern"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1787"]
+[BlackElo "2104"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Beelen"]
+[BlackTeam "Muenster SK II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Ne7 6. Qf3 c5 7. a3 Bxc3+ 8.
+bxc3 c4 9. Be2 Bf5 10. Bd1 Nd7 11. Ne2 Be4 12. Qh3 Rc8 13. O-O Rc6 14. Ng3 Bg6
+15. Re1 O-O 16. Bg5 Re8 17. Bg4 Nf6 18. Nf5 Nxf5 19. Bxf5 Bxf5 20. Qxf5 Rce6
+21. Re5 Qd7 {Diagram #} 22. Bxf6 $2 {The position is very difficult for White
+because Black's pieces are extremely active and White has back-rank checkmate
+problems. Thus, the only move was to capture the rook on e6.} (22. Rae1 $2 Rxe5
+23. Rxe5 Qxf5 24. Rxf5 Re1#) (22. Rxe6 $1) 22... Rxe5 $1 {This is a very
+strong intermediate move that White missed, and it will cost him the game.} 23.
+Qxe5 Rxe5 24. Bxe5 f6 $19 {White was forced to give up the queen, but his
+position is not dead lost. For that reason, it's important to check very
+carefully what your opponent is threatening in order to defend correctly.} 25.
+Bb8 Qa4 26. Bd6 Qxc2 27. Bb4 Kf7 28. Re1 Kg6 29. h4 b6 30. Re3 h5 31. Rg3+ Kf7
+32. Re3 a5 33. Bd6 Kg6 34. Rg3+ Kf5 35. Be7 Qc1+ 36. Kh2 Qd2 37. Rf3+ Ke6 38.
+Bd8 Qb2 39. Re3+ Kd7 0-1
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.01.13"]
+[Round "5.5"]
+[White "Hofene, Josef"]
+[Black "Kubo, Thomas"]
+[Result "0-1"]
+[ECO "B19"]
+[WhiteElo "1786"]
+[BlackElo "1958"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "58"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Beelen"]
+[BlackTeam "Muenster SK II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. Ne4 Ngf6
+15. Nxf6+ Nxf6 16. Ne5 c5 17. Qe2 cxd4 {Diagram #} 18. Nc4 $2 {White hasn't
+castled yet; so, his pieces are not coordinated perfectly. Black has active
+pieces and a fantastic active queen. Queens are excellent pieces to find
+multiple targets. White's position is difficult, and he didn't noticed Black's
+threat; so, he lost a pawn. Similalry, be extremely carefull when you're going
+back with your pieces.} (18. cxd4 $5 {Setting up a sneaky trap...} Qd5 19. O-O
+Qxd4 $2 (19... O-O $1)) (18. O-O $5) 18... Qd5 {The queen is attacking the
+g2-pawn, and White doesn't have time to recapture on d4.} 19. O-O-O (19. cxd4
+Qxg2 $17 {The bad thing for White is that Black can develop his attack with
+threats and, for that reason, it's so powerful.} 20. O-O-O Rc8 21. Kb1 Qe4+ $19
+{Black has a winning position here.}) 19... d3 20. Qf3 Qxc4 $19 {Black has a
+winning position, and he manages to convert it afterwards into a full point.}
+21. b3 Qd5 22. Qg3 Ne4 23. Qxg7 Bf6 24. Qg4 Rc8 25. f3 Nxc3 26. Bxc3 Rxc3+ 27.
+Kb1 Rxb3+ 28. Kc1 Bg5+ 29. Rd2 Qc5+ 0-1
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.1"]
+[White "Wensing, Maximilian"]
+[Black "Wieder, Heiner"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2026"]
+[BlackElo "2089"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "80"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Ahaus Wessum"]
+[BlackTeam "Muenster SK II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Qe2
+Be7 9. O-O-O Bb7 10. Bxf6 gxf6 11. Qh5 Qd7 12. f5 e5 13. Ne6 b4 14. Nd5 Bxd5
+15. exd5 Bf8 16. Bd3 Ke7 17. Nxf8 Rxf8 18. Qxh7 Qa4 19. Qh4 Nd7 20. Kb1 Nb6 21.
+Qe4 Rfc8 22. g4 Rc5 {Diagram #} 23. c3 $2 {You should not move the pawns in
+front of your king. Right now, Black doesn't have any threats, but he would
+like to play Ra5 in order to attack the a2-pawn. After Ra5, White will play a3
+because the b4 is pinned on the 4th rank; and White is hoping to exchange
+queens.} (23. h4 $5 {This was the best move in order to promote his own plans.
+Black should find some amazing ideas in order to continue the attack.} Ra5 24.
+a3 Nxd5 25. Bc4 Nc3+ $1 26. bxc3 Rb8 $3 27. Kc1 bxc3 28. Rd5 Qxa3+ 29. Kd1 Ra4
+$44 {Black has full compensation for the piece, but the position is very
+complicated; and Black should continue playing very actively, creating threats
+in order to keep the balance.}) (23. h3 $6 Ra5 24. a3) (23. Rd2 Ra5 $36) 23...
+bxc3 24. Qxa4 {White can exchange queens, and he might feel relieved but,
+after the forcing continuation, Black will end up with material advantage. You
+may remember that not every attack can lead to a checkmate...} Nxa4 25. b3 c2+
+$1 {Starting a series of forcing moves.} 26. Bxc2 Nc3+ 27. Kb2 Nxd1+ 28. Rxd1
+Rh8 $19 {Black has a winning position here, and he manages to convert his
+advantage into a full point afterwards.} 29. Rd2 Rh4 30. Bd1 Rh3 31. Bc2 Rh4
+32. Bd1 Rc8 33. Ka3 Rch8 34. Rc2 Kd7 35. Rc6 Ra8 36. Kb4 Rxh2 37. a4 Rd2 38.
+Bf3 a5+ 39. Kc3 Rf2 40. Be4 Rc8 0-1
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.1"]
+[White "Baumann, Stephan"]
+[Black "Henke, Wolfgang1"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2014"]
+[BlackElo "1787"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "95"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Muenster SK III"]
+[BlackTeam "Beelen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 g6 2. Nc3 Bg7 3. f4 c5 4. Nf3 Nc6 5. Bb5 Nd4 6. Bc4 d6 7. O-O Nh6 8. h3
+Qd7 9. Nxd4 Bxd4+ 10. Kh1 a6 11. a4 O-O 12. Nd5 Qd8 13. a5 Be6 14. f5 Bxd5 15.
+Bxd5 Qd7 16. d3 Bg7 17. Qe1 Kh8 18. Qh4 Ng8 19. Bg5 {Diagram #} Bf6 $2 {
+This is wrong because, after the forcing continuation, Black will lose a pawn.}
+(19... e6 $1 20. f6 Nxf6 21. Bxf6 exd5 22. Bxg7+ Kxg7 23. Qf6+ Kg8 24. exd5 $14
+{White has a small and stable advantage here; but the material is equal,
+compared to the game continuation.}) (19... Be5 $6 20. c3) (19... Rac8) (19...
+Rab8) (19... Bd4) 20. fxg6 {
+White started a series of forcing exchanges that lead to material advantage.}
+fxg6 21. Bxg8 Kxg8 22. Bxf6 exf6 23. Rxf6 $16 {
+White is a pawn up, and he wins the game afterwards.} Rxf6 24. Qxf6 Rf8 25. Qg5
+Qf7 26. Rc1 Kg7 27. Qg3 Qf6 28. b3 Rf7 29. Kh2 Qb2 30. Re1 Qc3 31. e5 Re7 32.
+e6 Qd4 33. Re4 Qd5 34. c4 Qc6 35. Qg5 Qe8 36. Qd5 Qd8 37. Kg3 Qb8 38. Kh2 Qd8
+39. d4 Qc7 40. Rf4 Kg8 41. Re4 Kg7 42. h4 Kf8 43. Kh3 Ke8 44. h5 Kd8 45. hxg6
+hxg6 46. Qg5 Qxa5 47. Rh4 Qc3+ 48. Kh2 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.02.24"]
+[Round "6.8"]
+[White "Hemmert, Michael"]
+[Black "Hoge, Torsten"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1778"]
+[BlackElo "1890"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "92"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Rheine Klein Berlin"]
+[BlackTeam "Gronau"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 e6 2. Bf4 Nf6 3. e3 b6 4. Nf3 Bb7 5. Nbd2 Be7 6. Bd3 d5 7. Ne5 O-O 8. Qf3
+c5 9. c3 Nfd7 10. Qh3 f5 11. g4 Nxe5 12. Bxe5 Bc8 13. Rg1 Bf6 14. gxf5 exf5 15.
+Bxf5 Bxf5 16. Qxf5 Kh8 17. Nf3 Qd7 18. Qh5 Nc6 {Diagram #} 19. Bf4 $6 {
+Please be careful when you're going back with your pieces! It isn't a good
+thing to go back with the bishop and, for that reason, White loses his
+initiative .} (19. Bxf6 $1 $16 {White is keeping his advantage.}) 19... cxd4
+20. Nxd4 Nxd4 21. cxd4 Bxd4 $1 {
+The e3-pawn is overloaded; so, Black has this tactical blow.} 22. Be5 Bxe5 23.
+Qxe5 Rae8 $17 {Black has a big advantage and possibilities to attack the white
+king. Black wins the game afterwards.} 24. Qd4 Re4 25. Qd3 Qf7 26. f4 Qxf4 27.
+O-O-O Rxe3 28. Qd2 Qc4+ 29. Kb1 Re2 30. Rgf1 Rfe8 31. Qd3 Qxd3+ 32. Rxd3 Re1+
+33. Rxe1 Rxe1+ 34. Kc2 Re2+ 35. Kc3 Rxh2 36. Rxd5 h5 37. Rd7 Rg2 38. Rxa7 h4
+39. Ra4 g5 40. Ra8+ Kg7 41. Ra7+ Kg6 42. Rb7 h3 43. Rxb6+ Kh5 44. Rb8 h2 45. a4
+Rg3+ 46. Kc2 Rh3 0-1
+

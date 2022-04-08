@@ -1,0 +1,309 @@
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1962.12.29"]
+[Round "9"]
+[White "Fischer, Robert James"]
+[Black "Sherwin, James T"]
+[Result "1-0"]
+[ECO "B29"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "3r2r1/ppk1p2p/2b5/8/3n4/6N1/P1P2PPP/1RB2RK1 w - - 0 21"]
+[PlyCount "21"]
+[EventDate "1962.12.16"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+21. Re1 $1 {We should recognize the threats, but there is no need to defend
+passively. White is counterattacking the e7-pawn.} Nxc2 22. Rxe7+ Rd7 23. Bf4+
+$1 {Another counterattack using an intermediate check. Counterblows are very
+strong attacking weapons because we can activate our pieces with them.} Kc8 24.
+Rxd7 Kxd7 25. Rd1+ Kc8 26. Nf5 {White ignores Black's threats to his king and
+counterattacks the opponent's king.} Rxg2+ 27. Kf1 {Black has captured the
+pawn back, but White has a lot of threats now. He is threatening to trap the
+rook with the Bg3-move. He is also threatenning Ne7 mate...} b6 (27... Rg4 28.
+Ne7#) 28. Ne7+ Kb7 29. Nxc6 Rg4 30. Nd8+ Kc8 31. Ne6 1-0
+
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1965.??.??"]
+[Round "1"]
+[White "Lehmann, Heinz"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B84"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r2rk1/4bppp/p3p3/2q1n1N1/Pp6/1P6/2P1Q1PP/R1B2R1K w - - 0 22"]
+[PlyCount "21"]
+[EventDate "1965.??.??"]
+[EventType "tourn"]
+[EventRounds "21"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+22. c4 {White just moved his c2-pawn to c4, hoping that Black couldn't take en
+passant. Is it true?} bxc3 23. Ba3 Qc7 24. Bxe7 Qxe7 25. Qxe5 {
+White was hoping to win a piece, but Black had prepared a counter trick} Rc5 {
+Black is attacking the queen and the g5-knight.} 26. Qe2 Rxg5 {
+Black took a piece back, while was winning the c-pawn along the way.} 27. Qxa6
+Qb4 28. Rfb1 Rd8 29. a5 h6 30. Qc4 Qxc4 31. bxc4 c2 32. Rc1 0-1
+
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1965.??.??"]
+[Round "5"]
+[White "Tringov, Georgi P"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B97"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "44"]
+[EventDate "1965.??.??"]
+[EventType "tourn"]
+[EventRounds "21"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Bb4 13. Rb3 Qa5 14. O-O O-O
+15. Nxe6 fxe6 16. Bxe6+ Kh8 17. Rxf8+ Bxf8 18. Qf4 Nc6 19. Qf7 Qc5+ 20. Kh1 Nf6
+21. Bxc8 Nxe5 {Black plays a very strong counterblow. The queen is attacked
+and Black wins time in order to transfer the knight very fast to g4. As we
+already know, we cannot checkmate with the queen alone. Thus, Black wins time
+to coordinate the queen and the knight.} (21... Rxc8 $5 22. Rxb7 Qxc3 {
+White cannot checkmate because the f8-bishop is a very strong defender.}) (
+21... Nd8 $5) 22. Qe6 Neg4 (22... Neg4 23. Bxf6 Nf2+ 24. Kg1 Nh3+ 25. Kf1 Qf2#)
+0-1
+
+[Event "Palma de Mallorca Interzonal"]
+[Site "Palma de Mallorca"]
+[Date "1970.12.03"]
+[Round "18"]
+[White "Uhlmann, Wolfgang"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A75"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "rn1qr1k1/1p3pbp/p2p1np1/2pP4/P3PBb1/2N2N2/1P2BPPP/R2Q1RK1 w - - 0 12"]
+[PlyCount "46"]
+[EventDate "1970.11.09"]
+[EventType "tourn"]
+[EventRounds "23"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+12. h3 Nxe4 $1 {This is a very strong counterblow and very difficult to stop.
+This works because Black's pieces are very active. Please check the
+sub-variation.} 13. Nxe4 (13. hxg4 Bxc3 14. bxc3 Nxc3 {
+Before capturing on e4, it was necessary to have forseen this forced variation.
+}) 13... Rxe4 14. Bg5 Qe8 {
+Another strong counterblow! Black is winning time by attacking the e2-bishop.}
+15. Bd3 Bxf3 $1 {Another counterblow! Attacking the rook is a strong threat,
+but attacking the queen is even stronger... ;-)} 16. Qxf3 Rb4 17. Rae1 Be5 $17
+{Black is clearly better and he manages to win the game afterwards.} 18. Qd1
+Qxa4 19. Qxa4 Rxa4 20. f4 Bd4+ 21. Kh1 Nd7 22. Re7 Nf6 23. Rxb7 Nh5 24. Kh2 Be3
+25. Be2 Bxf4+ 26. Bxf4 Rxf4 27. Rb6 Rxf1 28. Bxf1 Rd8 29. Rxa6 Kg7 30. Bb5 Kf6
+31. Bc6 Ke5 32. Ra7 Rf8 33. Re7+ Kd4 34. Rd7 Nf6 0-1
+
+[Event "Candidates final"]
+[Site "Buenos Aires"]
+[Date "1971.10.23"]
+[Round "8"]
+[White "Petrosian, Tigran V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "D40"]
+[WhiteElo "2640"]
+[BlackElo "2760"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r2rk1/pb2bpp1/1q2p2p/1p6/3pPP2/PBP5/1B2Q1PP/R4R1K w - - 0 20"]
+[PlyCount "40"]
+[EventDate "1971.09.30"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+20. cxd4 {White is ready to play f5 and start his attack on the kingside. How
+should Black react?} b4 {Black starts his counterattack on the queenside.} 21.
+axb4 Bxb4 22. d5 Bc3 {Black keeps ignoring White's moves and pushes his own
+plan. Now White's both bishops are attacked, so he has to take some defensive
+measures.} (22... exd5) 23. Bxc3 Rxc3 24. Bc2 {One of White's bishops was
+exchanged, and  the other one was pushed back. That's how your counterattack
+can neutralize the opponent's attacking pieces.} exd5 25. e5 {
+White hopes to play f5 and then create some threats on the kingside.} Re3 {
+Now White can't move his f-pawn forward because the e5-pawn would be lost.
+Black keeps breaking White's ideas with his own active play.} 26. Qd2 d4 27.
+Rab1 Qa6 28. Rf2 Rd8 29. Kg1 Be4 30. Bxe4 Rxe4 31. h3 d3 32. Rb3 Qc4 33. Rb2
+Rdd4 34. g3 Rd5 35. Kh2 Rb5 36. Ra2 Rb1 37. g4 Re2 38. Rxe2 dxe2 39. Qxe2 Qxf4+
+0-1
+
+[Event "BL2-Nord"]
+[Site "Germany"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Olzem, Lothar"]
+[Black "Fischer, Johannes"]
+[Result "0-1"]
+[ECO "B97"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1b2b1r/4k2p/p1pqpp2/4p2B/8/2N5/P1PQ2PP/1R2K2R w K - 0 17"]
+[PlyCount "30"]
+[EventDate "1983.??.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+17. Qf2 {White sacrificed some pawns to start attacking Black's king. What
+should Black do?} Qd4 $1 {
+Instead of defending, Black goes forward, creating threats to White.} 18. Qf3
+Bh6 {Threatening Bd2} 19. Ne2 Qe3 {Since Black is ahead in material, White
+can't exchange the queens. Therefore, White has to take time to relocate his
+queen.} 20. Qxc6 Bd7 21. Rb7 Rhd8 22. Qf3 Rab8 23. Qxe3 Bxe3 24. Rb3 Ba4 {
+Counterattack!} 25. Rxb8 Rxb8 26. Nc3 Bxc2 27. Ke2 Bd4 28. Nd1 Rb1 29. Kd2 Be4
+30. Bf3 Bxf3 31. gxf3 Ra1 0-1
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1960.07.12"]
+[Round "15"]
+[White "Guimard, Carlos Enrique"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A48"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1bq1k2/pp2p1bQ/2n2r1p/3p2NP/3p1P2/3B4/PPPN2P1/2KR3R b - - 0 18"]
+[PlyCount "81"]
+[EventDate "1960.06.23"]
+[EventRounds "19"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+18... Nb4 $1 {Black's counterattack helps him trade off one of White's
+attacking pieces: the light-squared d3-bishop. Please note that it would have
+been a mistake to capture on g5.} (18... hxg5 19. fxg5 Rf7 20. g6 Rf6 21. h6
+$18) 19. a3 Nxd3+ 20. Qxd3 hxg5 $1 {White was threatening Nh7+ and Black just
+grabs the knight. Now it was not so dangerous to capture this knight because
+White's pieces are not so active as they were before.} 21. h6 Bxh6 22. fxg5 Bf5
+$1 {A counter-stroke! Black wins time in order to activate all of his forces.}
+(22... Bxg5 23. Rh8+) 23. Rxh6 (23. Qxd4 $5 Qc7 {
+Black is threatening to checkmate on c2.} 24. c3 Bxg5 25. Rh8+ Kg7 26. Rxa8 Be4
+$15 {Black's bishops are extremely active. White has the rook for a bishop,
+but his pieces are not active.}) 23... Bxd3 24. Rh8+ Kg7 25. Rxd8 Rc6 $1 {
+A cool counterblow!} 26. Rxa8 Rxc2+ 27. Kb1 Rxd2+ 28. Kc1 Rc2+ 29. Kb1 Rc8+ 30.
+Rxd3 Rxa8 31. Rxd4 Rd8 $17 {After these forcing moves, Black has a better
+position and he manages to win at the end.} 32. Kc2 Kg6 33. Rf4 Kxg5 34. Rf7
+Rd7 35. Kd3 Kg6 36. Rf8 Kg7 37. Ra8 b6 38. Kd4 Kf6 39. Rf8+ Ke6 40. Rg8 Kd6 41.
+g4 e5+ 42. Kd3 Rh7 43. g5 Ke6 44. g6 Rh3+ 45. Kc2 Rh2+ 46. Kb3 Rg2 47. g7 Kf6
+48. Rd8 Rxg7 49. Rxd5 Rc7 50. a4 e4 51. Rh5 e3 52. Rh3 Re7 53. Rh1 e2 54. Re1
+Kf5 55. Kc3 Kf4 56. Kd2 Kf3 57. Rh1 Rd7+ 58. Kc2 Kg2 0-1
+
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.04.14"]
+[Round "14"]
+[White "Letelier Martner, Rene"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A45"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "8/1p1b1p2/1krbpp1p/1p1p4/3P3N/1K1BP1P1/1P3P1P/R7 w - - 0 27"]
+[PlyCount "20"]
+[EventDate "1960.03.29"]
+[EventRounds "15"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+27. Ra8 {White wants to play Rh8 and starts attacking Black's kingside pawns.
+What should Black do?} Rc1 {Black found a beautiful way to start his
+counterattack. Usually, we are not attacking the king in the endgame, but
+White loses a very important time hunting the h6-pawn. For that reason, Black
+has time to organize his pieces against White's king.} 28. Rh8 b4 29. Rxh6 (29.
+Nf3 $1 {It was the last chance to bring another defender.} -- 30. Nd2) 29...
+Ka5 {Black is threatening mate in 2. White can capture another pawn, on f6,
+but the rook and the knight cannot protect their king. The king is the most
+important piece because if we lose the king, we lose the game...} 30. Ka2 (30.
+-- Ba4+ 31. Ka2 b3#) 30... b3+ 31. Kxb3 Ba4+ 32. Ka2 Kb4 {This is another
+characteristic playing style. Black's pieces are dominating in the queenside
+and White cannot avoid the checkmate.} 33. b3 Bxb3+ 34. Kb2 Rd1 {
+Black is winning.} 35. Bb1 Rd2+ 36. Ka1 (36. Kc1 Kc3 37. Nf3 Rd1# (37... Ba3#))
+36... Kc3 (36... Kc3 37. Rxf6 Ba3 38. Rxf7 Bb2#) 0-1
+
+[Event "Siegen ol (Men) qual-C"]
+[Site "Siegen"]
+[Date "1970.09.06"]
+[Round "2"]
+[White "Miyasaki, Yukio"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2280"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2rq1rk1/4bppp/p3bn2/1p2p3/n3P3/PNN1B1QP/1PP1B1P1/3R1RK1 b - - 0 16"]
+[PlyCount "29"]
+[EventDate "1970.09.05"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Japan"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "JPN"]
+[BlackTeamCountry "USA"]
+
+16... Nxc3 {White is attacking Black's queen and the first idea could be to
+move it. Actually, this is a wrong idea. When someone is attacking us, we
+should think to counterattack him! Indeed, Fischer found a cool tactic in
+order to destroy White's pawn structure and defend his queen at the same time.}
+17. bxc3 (17. Rxd8 Nxe2+ $1 18. Kf2 Nxg3 19. Rxf8+ Rxf8 20. Kxg3 Rd8 $19) 17...
+Qc7 18. Bh6 Ne8 19. Rd3 Kh8 {This is another attacking move which stops
+White's attack forever. Black is threatening to capture the h6-bishop, so
+White needs to retreat. The attack is over and Fischer manages to win the game
+afterwards.} 20. Bc1 Bc4 21. Rd2 Nf6 22. Qf3 Qc6 23. Bd3 Bxd3 24. Rxd3 Nxe4 25.
+Na5 Qg6 26. Kh2 f5 27. Bb2 Bg5 28. Rfd1 Bf4+ 29. Kh1 Ng3+ 30. Kh2 Nh5+ 0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1968.06.24"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "C81"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r4rk1/2pq2pp/p3bb2/n2p2B1/2B5/2P2N2/P3QPPP/R2R2K1 w - - 0 17"]
+[PlyCount "17"]
+[EventDate "1968.06.17"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "JPN"]
+[BlackTeamCountry "USA"]
+
+17. Qxe6+ $1 {White's bishop is attacked, but White found tactics to keep it
+on the game! Fisher uses a cool counterblow, sacrificing his queen temporarily.
+} Qxe6 18. Bxd5 {By this cool blow, Fischer pinned the queen and he wants to
+gain it back. He has managed to win a pawn and, later, he won the game.} Qxd5
+19. Rxd5 Bxc3 20. Rc1 Bb4 21. Rxc7 Rac8 22. Ra7 Rc2 23. Rdd7 Bc3 24. Rac7 h6
+25. Be3 1-0
+

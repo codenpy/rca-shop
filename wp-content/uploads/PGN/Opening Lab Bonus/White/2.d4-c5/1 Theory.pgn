@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "Warsaw (Poland)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "1.e4-e6 2.d4-c5"]
+[Black "Theory"]
+[Result "*"]
+[ECO "A43"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "17"]
+[EventDate "2002.??.??"]
+
+1. d4 ({In your games this variation can happen as a result of the following
+moves:} 1. e4 e6 2. d4 c5) 1... e6 2. e4 c5 3. d5 ({Here White can play} 3. Nf3
+{and transpose the game into the main line of Sicilian defense. However, 3.d5
+move is more ambitious, it gives White a space advantage.}) 3... exd5 (3... Nf6
+4. Nc3 exd5 (4... d6 5. Nf3 exd5 6. Nxd5 {White wants to leave d-file open, so
+that he can attack Black's weaknesses (d5-square, d6-pawn) in the future.} Nxd5
+(6... Nxe4 $2 7. Bb5+ Bd7 8. Qe2 {Gives White a good attacking position. Black
+is in trouble.}) 7. Qxd5 Nc6 8. Ng5 {Threatening Qf7# and preventing Black
+from playing Be6.} Qc7 9. Bc4 Ne5 10. Bb5+ {This forcing variation helps White
+to exchange light-squared bishops. In the future it will simplify the
+occupation of weak squares in Black's camp.} Bd7 11. Bxd7+ Qxd7 12. Bf4 $14 {
+White is better}) 5. e5 $1 {pushing Black's knight away} Ng8 (5... Qe7 {?} 6.
+Qe2 Ne4 7. Nxd5 Qxe5 8. Nc3 {with the idea f3, winning a piece}) (5... Ne4 6.
+Nxd5 d6 7. Qf3 $16) (5... d4 $2 {does not work for Black} 6. exf6 dxc3 7. Qe2+
+$18) 6. Qxd5 $14 {with superior position}) 4. exd5 d6 5. c4 {White has
+different good ways to finalize his development. I'll show you 1 interesting
+variation that restricts greatly Black's activity.} Nf6 6. Nc3 Be7 7. Bd3 O-O
+8. Nge2 {Black has a tight position and there's no good way for him to develop
+his light-squared bishop. The f5-square is controlled by White. If Black puts
+his bishop to g4, he'll have to exchange it for White's knight.} Nbd7 (8... Bg4
+9. f3 Bh5 10. Nf4 {White trades off Black's bishop and gets 2-bishops
+advantage.} Bg6 11. Nxg6 hxg6 12. O-O $16) 9. f4 {Restricting Black's knight,
+now it can't go to e5 anymore. In overal, Black's position is cramped.
+Actually this is the key idea of this whole system for White.} *
+

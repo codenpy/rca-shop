@@ -1,0 +1,354 @@
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.03"]
+[Round "1.25"]
+[White "Eljanov Pavel (UKR)"]
+[Black "Lenderman Aleksandr (USA)"]
+[Result "0-1"]
+[ECO "E36"]
+[WhiteElo "2734"]
+[BlackElo "2565"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "114"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 dxc4 8.
+Qxc4 b6 9. Rc1 Ba6 10. Qa4 Qd7 11. Qxd7 Nbxd7 12. Bxf6 Nxf6 13. e3 Bxf1 14.
+Kxf1 Rfc8 15. Rc6 Nd5 16. Nf3 Ne7 17. Rc2 f6 18. Ke2 Kf7 19. Rhc1 c6 20. Ne1
+Ke8 21. Nd3 Kd7 22. g4 g5 23. h4 h6 24. Rh1 Rh8 25. e4 Ng6 26. h5 Ne7 27. Ke3
+Rhf8 28. f3 a5 29. Rhc1 Ra7 30. Rc3 Rg8 31. b3 Rf8 32. Nb2 Re8 33. Nc4 Ra6 34.
+Kf2 Rd8 35. Rd3 Ke8 36. e5 f5 37. Nd6+ Kf8 38. d5 cxd5 39. Rc7 b5 40. Nxb5 Rc6
+41. Nd4 Rxc7 42. Nxe6+ Kf7 43. Nxc7 d4 44. Nb5 Rd5 45. e6+ Kf6 46. Nxd4 Rd6 47.
+b4 axb4 48. axb4 f4 49. b5 Ke5 {Diagram #} 50. Rd2 $1 {White can sacrifice the
+d4-knight because the e7-knight cannot stop White's two passed pawns. Using
+this tactical motif, White has the time to activate his king. White had a
+winning position, but he made a terrible mistake after some moves and he lost
+the knight for free, so he lost the game as well...} (50. Ke2 $1 Rxd4 51. Rxd4
+Kxd4 52. b6 Nc6 53. b7 Kd5 54. e7 Nxe7 55. b8=Q $19) 50... Kf6 51. Ke1 (51. Ke2
+Nd5 52. Kd3 Ne3 53. Ke4 $18) 51... Nd5 52. Re2 $2 (52. Kd1 Ne3+ 53. Kc1 $18)
+52... Ne3 53. e7 Kf7 (53... Kxe7 $4 54. Nf5+ Ke6 55. Nxd6 Kxd6 56. Rxe3 fxe3
+57. Ke2 $18) 54. Rd2 $4 Rxd4 55. Rb2 (55. Rxd4 Nc2+ 56. Kd1 Nxd4 57. b6 Kxe7
+58. b7 Nc6 $19) 55... Rd7 56. b6 Rb7 57. Ke2 Nd5 0-1
+
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.08"]
+[Round "11.21"]
+[White "Vitiugov Nikita (RUS)"]
+[Black "Najer Evgeniy (RUS)"]
+[Result "0-1"]
+[ECO "E16"]
+[WhiteElo "2728"]
+[BlackElo "2694"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "132"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. g3 b6 6. Bg2 Bb7 7. O-O Re8 8. b3
+a5 9. a3 Bxd2 10. Qxd2 d6 11. a4 Nbd7 12. Bb2 e5 13. d5 Nc5 14. Qc2 Bc8 15. Nd2
+Bg4 16. f3 Bd7 17. e4 h5 18. Rae1 h4 19. f4 hxg3 20. hxg3 Ng4 21. Nf3 c6 22.
+dxc6 Bxc6 23. Nh4 exf4 24. Rxf4 Ne5 25. Rd1 Ra7 26. Nf5 Rd7 27. Qe2 Qg5 28. Qe3
+Red8 29. Rdf1 Ncd3 30. Bd4 Nc5 31. Bb2 Ncd3 32. Bd4 Nc5 33. Qe2 Kf8 34. Rh4 f6
+35. Be3 Qg6 36. Bf4 Ne6 37. Be3 Nc5 38. Bf4 Ne6 39. Bc1 Kf7 40. Rd1 Nc5 41. Bf4
+Nxb3 42. Rb1 Nc5 43. Rxb6 Rb7 44. Rxb7+ Bxb7 45. Bxe5 dxe5 46. Rg4 Rd2 47. Qxd2
+Qxg4 48. Nd6+ Ke7 49. Nf5+ Kf7 50. Nd6+ Kg6 51. Nxb7 Nxb7 52. Qd5 Qc8 53. Kh2
+Qc7 54. Bh3 Kh7 55. Bf5+ g6 56. Bd7 Kg7 57. Qe6 Qc5 58. Bc6 Qf2+ 59. Kh3 Nc5
+60. Qe7+ {Diagram #} Kh6 $1 {Black successfully decides to activate his king.
+Black's monarch can hide in front of the g6- and f6-pawns. The king has
+protection on g5 and controls g4, so it is helping the queen to create mating
+nets. Usually, queen+knight are a better combination of pieces compared to
+queen+bishop. That been said, Black has the advantage here.} 61. Qf8+ Kg5 62.
+Qd8 Qf1+ 63. Kh2 Nd3 {Now it's all over because Black is attacking with 3
+pieces: the knight, the queen and the king. Yes, we can use the king as an
+attacking piece in the endgame. ;-)} 64. Qb6 Qe2+ 65. Kg1 Kg4 66. Bd7+ Kxg3 0-1
+
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.08"]
+[Round "12.12"]
+[White "Wojtaszek Radoslaw (POL)"]
+[Black "Onischuk Alexander (USA)"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2739"]
+[BlackElo "2682"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "98"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 Nbd7 8.
+Nge2 Nh5 9. Bxe7 Qxe7 10. g4 Nhf6 11. Ng3 Nb6 12. g5 Ng8 13. h4 Be6 14. Nh5 g6
+15. Ng7+ Kd7 16. Nxe6 Qxe6 17. a4 a5 18. h5 Ne7 19. Qf3 Nf5 20. Ne2 Rae8 21. b3
+Nd6 22. Qh3 Qxh3 23. Rxh3 h6 24. hxg6 hxg5 25. Rxh8 Rxh8 26. g7 Rg8 27. Ng3 Ke7
+28. Nh5 f5 29. Ke2 Nd7 30. Rh1 Kf7 31. f4 {Diagram #} gxf4 {Black is happy to
+open the e-line and keep free the g4-square because, one day, he may land his
+knight there. White's g7-pawn is advanced, but Black's king is very active.} (
+31... g4 $6 32. Ng3 {In this position, White has counterplay.}) 32. exf4 (32.
+Nxf4 Rxg7 $17) 32... Nf6 {
+It's important to exchange the defender. After that, the g7-pawn will fall.}
+33. Nxf6 (33. Ng3 Re8+ 34. Kf1 Re3) 33... Kxf6 34. Rh6+ Ke7 {
+Black's king should stay passive, but this is temporary.} 35. Rg6 Ne4 36. Bxe4
+dxe4 $6 {This is not the best move because White can sacrifice the d4-pawn and
+get some counterplay. In any case, Black won the game afterwards.} (36... fxe4
+$1 37. f5 Kf7 {
+Black's king is just in time to eliminate the g7-pawn, so Black is winning.})
+37. d5 cxd5 38. Ke3 Kf7 39. Rb6 Rxg7 40. Rxb7+ Kg6 41. Rb5 Kh5 42. Rxd5 Rg3+
+43. Ke2 Kg4 44. Rxa5 Rxb3 45. Ra8 Kxf4 46. a5 Rb2+ 47. Kd1 Ra2 48. a6 Ke3 49.
+a7 f4 0-1
+
+[Event "Saint Louis Rapid 2017"]
+[Site "Saint Louis"]
+[Date "2017.08.15"]
+[Round "4"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "2792"]
+[BlackElo "2807"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "183"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventCountry "USA"]
+
+1. Nf3 d5 2. b3 c5 3. Bb2 f6 4. Nc3 Nc6 5. d4 cxd4 6. Nxd4 e5 7. Nxc6 bxc6 8.
+e4 Be6 9. Bd3 Bd6 10. Qh5+ g6 11. Qf3 d4 12. Na4 Kf7 13. c3 c5 14. Qe2 Ne7 15.
+O-O Rc8 16. Ba6 Rc7 17. Rac1 Nc6 18. Ba3 Qe7 19. Bc4 Nd8 20. Bb5 Nb7 21. Bc4
+Rhc8 22. Rfd1 Kg7 23. Nb2 Rc6 24. Bb5 R6c7 25. Nc4 Bxc4 26. Bxc4 Nd8 27. Rc2
+Ne6 28. Rdc1 h5 29. g3 Qd7 30. h4 Be7 31. Rd1 Bd6 32. Kg2 Qe7 33. Bc1 Rh8 34.
+Bd2 Rd7 35. Rdc1 Bc7 36. Qf3 Bb6 37. a4 Rhd8 38. Be1 a5 39. Bd2 Rd6 40. Re1 Qd7
+41. Bc1 Qe7 42. Ba3 R6d7 43. Rec1 Rd6 44. Rd2 Qb7 45. Re1 R8d7 46. Rdd1 Rd8 47.
+Bc1 Qe7 48. Rh1 Qd7 49. Rhe1 Qe7 50. Ba3 Qb7 51. Rb1 Qc6 52. Rbc1 Qb7 53. cxd4
+Nxd4 54. Qe3 f5 55. f3 Rf6 56. Bd5 Rxd5 57. exd5 Qxd5 58. Rc3 Re6 59. Bc1 e4
+60. Qh6+ Kg8 61. fxe4 fxe4 62. Qe3 Bc7 63. Rc4 Bd6 64. Rd1 Rf6 65. Rcxd4 cxd4
+66. Qxd4 Qf5 67. Qd5+ Qxd5 68. Rxd5 Bc7 69. Rc5 Bb6 70. Rc8+ Kf7 71. Bf4 Re6
+72. Kf1 Kf6 {Diagram #} 73. Ke2 $5 {It is fine to activate the king in the
+endgame, but it would be better to prevent Black's king activation with Rf8+.
+Naka is in a very fighting spirit.} (73. Rf8+ $5 Ke7 74. Rc8 Kf6 75. Rf8+ $11)
+73... Kf5 74. Rc4 Kg4 75. b4 $1 axb4 76. Rxb4 g5 $1 77. Bxg5 Kxg3 78. Rb5 Bg1 (
+78... Rc6 {This was better in order to drive back White's king.}) 79. Bd8 Rc6
+80. Rg5+ $1 Kh2 81. a5 Rc2+ 82. Kd1 Ra2 83. Bc7+ Kh1 84. Rxh5 e3 85. Re5 Kg2
+86. Bb6 Kf3 87. Kc1 $2 {A terrible mistake! After this move, White is losing
+because the e-pawn is extremely strong. Caruana didn't manage to find the best
+moves and the game ended in a draw. This is a blitz game, so it is normal to
+see mistakes from both players.} (87. Rf5+ {Stoping e2.} Kg4 88. Rg5+ Kf3 89.
+Rf5+ $11 (89. Rxg1 $4 Ra1+ 90. Kc2 Rxg1 $19)) 87... e2 88. Kb1 Rd2 (88... Bxb6
+$1 89. axb6 Ra5 $1 {Deflecting the rook.} 90. Rxa5 (90. Re6 Rb5+ 91. Kc2 Rxb6
+$1 $19 {The same idea of deflection.}) 90... e1=Q+ 91. Kc2 Qxa5 $19) 89. Bxg1
+Rd1+ 90. Kb2 e1=Q (90... Rxg1 $1 $19 {The king is far away from the pawns.} 91.
+Kb3 e1=Q 92. Rxe1 Rxe1 93. Kb4 Ke4 $1 94. Kc5 Ra1 95. Kb6 Kd5 96. a6 Kd6 97.
+Kb7 (97. a7 Rb1+ $1) 97... Kd7 98. a7 Rb1+ 99. Ka8 Kc7 $1 100. h5 Rd1 101. h6
+Rd8#) 91. Rxe1 Rxe1 92. Bb6 1/2-1/2
+
+[Event "Saint Louis Rapid 2017"]
+[Site "Saint Louis"]
+[Date "2017.08.14"]
+[Round "2"]
+[White "Nakamura, Hikaru"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[WhiteElo "2792"]
+[BlackElo "2812"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "154"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Bg7 5. Bxf6 Bxf6 6. cxd5 c6 7. e4 O-O 8.
+Nf3 cxd5 9. e5 Bg7 10. Qd2 Nc6 11. Bb5 Bg4 12. Ng1 f6 13. h3 Be6 14. exf6 Rxf6
+15. Bxc6 bxc6 16. Nge2 Qd6 17. O-O Raf8 18. Rae1 Bc8 19. Na4 e5 20. dxe5 Qxe5
+21. b4 Re6 22. Nc5 Ree8 23. Nb3 Qb2 24. Qxb2 Bxb2 25. Ned4 Rxe1 26. Rxe1 Bd7
+27. Re2 Bc3 28. Rc2 Bxb4 29. Nxc6 Bd6 30. Nxa7 Re8 31. g4 h5 32. f3 Re1+ 33.
+Kg2 Kf7 34. Nc6 h4 35. Ncd4 Rd1 36. Rd2 Rxd2+ 37. Nxd2 Kf6 38. Kf2 Ke5 39. Ke3
+g5 40. f4+ gxf4+ 41. Kd3 Be7 42. N2f3+ Kd6 43. Nf5+ Bxf5+ 44. gxf5 Kc5 45. Nd4
+Kd6 46. a4 Bd8 47. Ne6 Bb6 48. Nxf4 Ke5 49. f6 Bc5 50. f7 Kf6 51. Nxd5+ Kxf7 {
+Diagram #} 52. Ke4 {White missed a golden opportunity to win the game.
+Nakamura chose to capture quickly the h4-pawn, but this wasn't enough to win
+the game.} (52. Kc4 $3 {
+The queenside is White's strong side in which he should play!} Bf2 53. Kb5 Ke8
+54. Kc6 Kd8 55. Kb7 $1 $18 {
+The idea is to push the a-pawn and block the diagonal with the Nb6 move.})
+52... Ke6 53. Nf4+ Kd6 54. Ng2 Bf2 55. Kf3 Bg3 56. Kg4 Kc5 57. Nxh4 Bf2 58. Nf5
+Kb4 59. Ng3 Kxa4 60. h4 Kb5 61. h5 Be3 62. Ne4 Kc6 63. Ng5 Kd7 64. h6 Ke7 65.
+h7 Bd4 66. Kf5 Ba1 67. Kg6 Bb2 68. Nf7 Ba1 69. Nh6 Bh8 70. Ng4 Ba1 71. Ne3 Bh8
+72. Nd5+ Ke6 73. Nf4+ Ke7 74. Nh3 Ke6 75. Ng5+ Ke7 76. Nf7 Ba1 77. h8=Q Bxh8
+1/2-1/2
+
+[Event "Saint Louis Rapid 2017"]
+[Site "Saint Louis"]
+[Date "2017.08.15"]
+[Round "4"]
+[White "Aronian, Levon"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2799"]
+[BlackElo "2812"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "84"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. Bf4 c5 3. dxc5 Nc6 4. Nc3 e5 5. Bg5 Bxc5 6. e3 Bb4 7. Nge2 d5 8.
+a3 Bxc3+ 9. Nxc3 Be6 10. Bb5 d4 11. Bxf6 Qxf6 12. Ne4 Qg6 13. Ng3 O-O 14. Qd3
+Qxd3 15. Bxd3 f5 16. O-O-O dxe3 17. fxe3 a6 18. Ne2 e4 19. Nf4 exd3 20. Nxe6
+dxc2 21. Kxc2 Rf7 22. Rhe1 Re8 23. Nf4 Rfe7 24. Nd5 Re5 25. Rd3 {Diagram #} Kf7
+{Now it's time to activate the king. Black is not afraid of being checkmated
+and, for that reason, it is wise to bring the king to the center.} 26. g3 g5
+27. Red1 Rd8 28. b4 Ree8 29. Rc3 Re6 30. Rc5 Re5 31. Rd3 Rd7 $1 {With the idea
+of Ke6. Again, we can see how useful Black's king is in the center.} 32. Nc3 (
+32. -- Ke6) 32... Rxd3 33. Kxd3 Rxc5 34. bxc5 Ke6 $17 {Black's king is more
+active and the c5-pawn is weak; so, Black has a better postion.} 35. e4 Ne5+
+36. Ke2 Nd7 37. exf5+ Kxf5 38. Kd3 Nxc5+ 39. Kd4 Nd7 $5 (39... Nb3+ $5 40. Kd5
+Nd2 41. -- Nf1 $1) 40. Ne4 (40. Kd5 Nf6+ $1 41. Kd6 h5 42. Kc7 a5 43. Kxb7 Kg4
+44. Ka6 Kh3 45. Kxa5 Kxh2 46. Ne2 Kg2 47. a4 Kf3 $1 48. Ng1+ Kxg3 49. Kb5 h4
+50. a5 Nd5 $1 51. Kc5 Nc7 52. Kb6 Na8+ $1 {
+Winning time in order to promote his own pawns.} 53. Kb7 Kg2 54. Ne2 h3 $19)
+40... Kg4 $4 (40... h6 $5 41. h3 g4 $1 42. h4 Ke6 $17) 41. h3+ Kxh3 42. Nxg5+
+Kxg3 1/2-1/2
+
+[Event "Saint Louis Rapid 2017"]
+[Site "Saint Louis"]
+[Date "2017.08.15"]
+[Round "5"]
+[White "Caruana, Fabiano"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2807"]
+[BlackElo "2739"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "113"]
+[EventDate "2017.??.??"]
+[EventType "tourn"]
+[EventCountry "USA"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. a3 g6 8. Nf3
+Bg7 9. Be2 cxd4 10. cxd4 Nc6 11. Be3 O-O 12. O-O b6 13. Qa4 Bb7 14. Rad1 Ne7
+15. Bd3 Qd6 16. Bb1 Rfc8 17. d5 exd5 18. e5 Qe6 19. Ba2 Nf5 20. Bf4 Rc3 21. Ng5
+Qe8 22. Qxe8+ Rxe8 23. Bxd5 Bxd5 24. Rxd5 h6 25. Ne4 Rxa3 26. Nd6 Re6 27. Nxf5
+gxf5 28. h4 Ra5 29. Rd8+ Kh7 30. Rd7 Kg6 31. Rc1 Rc5 32. Rxc5 bxc5 33. h5+ Kxh5
+34. Rxf7 Kg6 35. Rxa7 Bxe5 36. Bxe5 Rxe5 37. Rc7 {Diagram #} f4 $1 {This was a
+very strong move in order to activate the king. If the king reaches d4, then
+Black's position will be winning because the king can help promote the pawn.}
+38. Rc6+ (38. f3 $5 Rd5 39. Kf2 Kf6 40. Ke2 Ke5 $17) 38... Kg5 (38... Kf5 39.
+Rxh6 Ke4 {The king is active and Black has serious winning chances.}) 39. Kh2
+h5 40. Kh3 Kf5 41. f3 $1 {A very clever move! Black cannot activate his king
+now, so the position is a draw. Black pushed too hard during the game and he
+lost it at the end.} Rd5 42. Kh4 Ke5 43. Kxh5 Kd4+ 44. Kg4 Ke3 45. Re6+ Kf2 46.
+Kxf4 Kxg2 47. Re2+ Kh3 48. Rc2 Rh5 49. Rc1 Kg2 50. Kg4 Rh8 51. Rc2+ Kf1 52.
+Rxc5 Kf2 53. f4 Ke3 54. f5 Kd4 55. Ra5 Ke4 56. f6 Rh1 57. Kg5 1-0
+
+[Event "Schwarzach op-A"]
+[Site "Schwarzach"]
+[Date "1997.08.30"]
+[Round "8"]
+[White "Hecht, Hans Joachim"]
+[Black "Zoler, Dan"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2405"]
+[BlackElo "2465"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "1997.08.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[WhiteTeam "Ireland"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "IRL"]
+[BlackTeamCountry "URS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 O-O 6. Nc3 d5 7. e3 Qe7 8.
+Rd1 Rd8 9. Qc2 a6 10. e4 dxe4 11. Nxe4 Nc6 12. Nxf6+ Qxf6 13. Qe4 Qg6 14. Bd3
+Nb4 15. Qxg6 hxg6 16. Bb1 Bd7 17. Ne5 Nc6 18. Be4 Nxe5 19. dxe5 Ba4 20. b3
+Rxd1+ 21. Kxd1 Rd8+ 22. Ke2 Bc6 23. Bxc6 bxc6 24. Rd1 Rxd1 25. Kxd1 {White has 
+a clear advantage because his pawn structure is healthy and his king is more
+active. White can enter Black's position via d4 and c5.} g5 (25... Kf8 26. Kc2
+Ke7 27. Kb2 Kd7 28. Ka3 c5 29. Ka4 Kc6 30. Ka5 Kb7 31. h4 $18) (25... Kh7 26.
+Kc2 Kh6 27. Kb2 Kg5 28. Ka3 Kf5 29. Kb4 Kxe5 30. Kc5 $1 $18) (25... f6 26. Kc2
+fxe5 27. Kc3 Kf7 28. Kb4 Ke7 29. Ka5 $18) 26. b4 Kf8 (26... Kh7 27. Kc2 Kg6 28.
+Kc3 Kf5 29. Kd4 $18 {White's king is just in time!}) 27. Kc2 Ke7 28. Kc3 c5 29.
+b5 $18 {White has a clear advantage and he manages to win the game afterwards.}
+Kd7 (29... a5 30. Kb3 $18) (29... axb5 30. cxb5 $18) 30. g4 Kc8 31. bxa6 Kb8
+32. Kd3 f6 33. f4 Ka7 34. f5 1-0
+
+[Event "EU-chT (Men) 14th"]
+[Site "Plovdiv"]
+[Date "2003.10.18"]
+[Round "7.2"]
+[White "Hector, Jonny"]
+[Black "Lutz, Christopher"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2515"]
+[BlackElo "2613"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "107"]
+[EventDate "2003.10.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "BUL"]
+[WhiteTeam "Sweden"]
+[BlackTeam "Germany"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 8.
+O-O Nxd4 9. Bxd4 Bc5 10. Bxc5 Qxc5 11. Na4 Qc7 12. c4 d6 13. Qb3 Bd7 14. Nb6
+Rd8 15. Rac1 O-O 16. Qb4 Qc5 17. Qxc5 dxc5 18. e5 Bc6 19. Rcd1 Ng4 20. Rfe1 Rd4
+21. Bc2 Rfd8 22. Rxd4 Rxd4 23. Re2 h5 24. f3 Nh6 25. Kf2 Kf8 26. Ke3 Ke7 $2 {
+Diagram #} (26... a5 27. a3 Rd8 $11) (26... Rd8 $11) 27. b4 $1 {White is using
+this nice tactics in order to attack the c5-pawn. White is using Black's rook
+loose position.} Nf5+ (27... f6 28. exf6+ gxf6 29. bxc5 e5 30. Rd2 $16 {
+White's advantage is obvious because he is a pawn up, he's going to exchange
+Black's active rook and his king is in the center.}) 28. Bxf5 exf5 29. bxc5 Rd1
+30. Kf4 {White's king is extremely active and starts attacking Black's
+weaknesses. White has a better position and he wins at the end.} Ke6 31. Kg5 g6
+32. h4 a5 33. a4 Rd4 34. Re3 Rd2 35. g3 Rd4 36. f4 Rd8 37. Kh6 Rd4 38. Kg7 Be8
+39. Nd5 Bxa4 40. Ra3 Bc6 41. Rxa5 Rxc4 (41... Bxd5 42. cxd5+ Rxd5 (42... Kxd5
+43. Kxf7 $18) 43. Ra8 $18) 42. Nf6 Rc3 43. Ra8 Rxg3 44. Rd8 Rf3 45. Rd4 Be4 $2
+46. Kf8 $18 (46. Rd6+ $1 Ke7 47. Rd7+ Ke6 48. Kf8 Rxf4 49. Re7#) 46... Rd3 47.
+Rd6+ Rxd6 48. cxd6 Bc6 49. d7 Bxd7 50. Nxd7 g5 51. Nc5+ Kd5 52. fxg5 Kxc5 53.
+g6 fxg6 54. e6 1-0
+
+[Event "URS-ch47"]
+[Site "Minsk"]
+[Date "1979.12.??"]
+[Round "2"]
+[White "Sveshnikov, Evgeny"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2545"]
+[BlackElo "2545"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "1979.11.29"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[EventCategory "12"]
+[WhiteTeamCountry "SWE"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Nc3 Nxe5 11. dxe5 Bxb5 12. Nxb5 Qxd1+ 13. Kxd1 Nd5 14. Ke2
+a6 15. Rd1 O-O-O 16. Na3 e6 17. Nc4 Be7 18. Bd2 b6 19. g3 Kb7 20. Ne3 Nc7 21.
+Nc4 Rd4 22. Rac1 Nd5 23. f3 Rc8 24. Ne3 Nxe3 25. Bxe3 Rxd1 26. Rxd1 Rc2+ 27.
+Rd2 Rxd2+ 28. Kxd2 Kc6 29. f4 b5 30. Kd3 Kd5 31. h4 h5 32. Bf2 Bb4 33. b3 g6
+34. Ke2 {Diagram #} Bc5 $5 {Black's advantage is obvious, but with the bishops
+on the board, White can continue fighting. Black has the advantage because his
+king is active and White's kingside pawns are on dark squares. Without bishops,
+White cannot hold the position.} (34... Ke4 $5) 35. Bxc5 (35. Be1 Ke4 $15)
+35... Kxc5 36. Kd3 Kb4 37. Kc2 Ka3 38. Kb1 a5 $1 {Black wants to make the
+breakthrough on the queenside and then capture the weak g3-pawn. Black's
+advantage is based on his active king.} 39. Ka1 a4 40. bxa4 Kxa4 41. Kb1 Ka3
+42. Ka1 b4 43. Kb1 b3 (43... b3 44. axb3 Kxb3 45. Kc1 Kc3 46. Kd1 Kd3 47. Ke1
+Ke3 48. Kf1 Kf3 49. Kg1 Kxg3 $19) 0-1
+

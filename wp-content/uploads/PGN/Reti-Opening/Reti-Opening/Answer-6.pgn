@@ -1,0 +1,16 @@
+﻿[Event "Lwow"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Bontsch_Osmolowski"]
+[Black "Ragosin"]
+[Result "1-0"]
+[Annotator "T1R"]
+[SetUp "1"]
+[FEN "2rr2kb/1p1b1p1p/p2pp1pB/q3n3/2PNP3/1PN4P/P2Q1PP1/2RR2K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1951.??.??"]
+[EventType "team"]
+
+1. Nd5 Qxd2 2. Ne7# 1-0
+

@@ -1,0 +1,269 @@
+[Event "URS-ch14"]
+[Site "Moscow"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Rudakovsky, Iosif"]
+[Result "1-0"]
+[ECO "B83"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "55"]
+[EventDate "1945.06.01"]
+[EventRounds "18"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8.
+Be3 Nc6 9. f4 Qc7 10. Qe1 Nxd4 11. Bxd4 e5 12. Be3 Be6 {Diagram #} 13. f5 {
+This is a very typical move in this structure. White's idea is to force the
+e6-bishop to go back or exchange it on c4. After that, the d5-square will be
+weak. This is the first step of the plan in order to control better the center.
+} Bc4 14. Bxc4 Qxc4 {Diagram #} 15. Bg5 {This is the second step of the plan.
+White would like to exchange the last piece which is defending the d5-square
+-the f6-knight. After this exchange happens in a moment, White will have the
+superior piece -the c3-knight- against the passive e7-bishop.} Rfe8 16. Bxf6
+Bxf6 17. Nd5 $16 {White is totally dominating the center and the game thanks
+to the previously correct exchanges.} Bd8 18. c3 b5 19. b3 Qc5+ 20. Kh1 Rc8 21.
+Rf3 Kh8 {Diagram #} 22. f6 {When you have an adventurous position, you can
+-and should- start the attack. White sacrifices material in order to open
+lines against the enemy king and uses his superior position. He manages to win
+a beautiful and very instructive game afterwards.} gxf6 23. Qh4 Rg8 24. Nxf6
+Rg7 25. Rg3 Bxf6 26. Qxf6 Rcg8 27. Rd1 d5 28. Rxg7 (28. Rxg7 Rxg7 29. Rxd5 Qc7
+30. Rd8+ Qxd8 31. Qxd8+ Rg8 32. Qf6+ Rg7 33. Qxe5 $18) 1-0
+
+[Event "URS-ch sf4 7th"]
+[Site "Moscow"]
+[Date "1931.10.??"]
+[Round "?"]
+[White "Izmailov, Peter"]
+[Black "Kasparian, Genrikh Moiseevich"]
+[Result "0-1"]
+[ECO "E90"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "94"]
+[EventDate "1931.10.05"]
+[EventRounds "8"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2009.11.30"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 Nbd7 7. Be3 e5 8. Qd2
+Re8 9. d5 Nc5 10. Qc2 a5 11. Be2 Nh5 12. g3 f5 13. exf5 Bxf5 14. Qd2 Ne4 15.
+Nxe4 Bxe4 16. Bg5 Bf6 17. Bxf6 Qxf6 18. Qe3 {Diagram #} Bxf3 $1 {If you like
+to put your bishop in a good post, then you should put it on an open diagonal.
+On the other hand, if you like to put your knight in an active square, then
+you should put it in the center of the board in a hole. By hole I mean a
+square which is not protected from the enemy pawns. In this particular
+position, we can see that the d4-square is an excellent outpost for Black's
+knight. On the other hand, the e2-bishop doesn't have a bright future. For
+that reason, Black exchanged his bishop to activate the knight.} (18... Bf5 19.
+g4 $2 (19. Nh4 Nf4 20. O-O-O) 19... Nf4) 19. Qxf3 (19. Bxf3 $5 Ng7 20. Be4 {
+This is a maneuver in order to stop the activation of the knight, but still
+Black can attack through the semi-open f-line.}) 19... Qe7 {Black's queen has
+more attacking potentials and it can coordinate better with the remaining army.
+For that reason, Black keeps them on the board.} 20. Qe4 Ng7 21. h4 Nf5 {
+Mission complete! Black's knight found his way to the perfect d4-square.} 22.
+h5 Qg5 23. Rd1 Rf8 (23... Nd4 $5) 24. Qg4 Qxg4 25. Bxg4 Nd4 {Black has a more
+active position thanks to his fantastic d4-knight. Similarly, the d5- and
+c4-pawns are restricting the white bishop's activity, a factor which increases
+Black's superiority. White started an attack on the kingside; however, without
+queens, he cannot do anything realistic. Black can activate his rooks on the
+f-line, but it's not obvious how White can play with them. For the above
+mentioned ideas, Black has a better position and, fairly enough, he manages to
+win the game afterwards.} 26. Kf1 a4 27. a3 c5 28. Rd2 b5 29. cxb5 Nxb5 30.
+Be6+ Kg7 31. hxg6 hxg6 32. Kg2 Nd4 33. Bg4 Rfb8 34. Re1 Ra7 35. Bd1 Kf6 36. f4
+exf4 37. gxf4 Rh8 38. Rh1 Rxh1 39. Kxh1 Kf5 40. Rg2 Kxf4 41. Rxg6 Ke5 42. Rg5+
+Ke4 43. Rh5 Ra8 44. Kg1 Rb8 45. Bxa4 Rxb2 46. Kf1 Ke3 47. Rh3+ Nf3 0-1
+
+[Event "Camp.URSS.Libro Romanovsky"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Levenfish, G."]
+[Black "Dubinin, P."]
+[Result "1-0"]
+[ECO "C62"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "1934.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6 5. d4 exd4 6. Nxd4 Bd7 7. Bxc6 bxc6 8.
+Qf3 c5 9. Nf5 Bxf5 10. Qxf5 Qd7 11. Qf3 Rb8 12. O-O Be7 13. b3 O-O {Diagram #}
+14. Bg5 {This is a similar scenario compared with the previous one. We can see
+again that the d5-square is a fantastic outpost for our knight. However, the
+f6-knight is standing on his way and, for that reason, White tries to exchange
+it.} (14. Bb2 $5) (14. Bf4 $5) (14. h3 $5) (14. Rd1 $5) 14... Nd5 (14... Ne8
+15. Bxe7 Qxe7 16. Nd5 $14 {This is a possible continuation; however, White
+wins a tempo, and his knight is extremely active.}) 15. Nxd5 Bxg5 16. Qg3 Bd8
+17. Rad1 {All of White pieces are active and coordinated. White can play e5
+sooner or later. Black cannot make any good breaks.} f5 18. e5 $1 Re8 19. exd6
+cxd6 20. Rfe1 $16 {White has a fantastic position thanks to his centralized
+pieces and the weaknesses on d6 and f5. He manages to win the game afterwards.}
+Re6 21. Nf4 Rxe1+ 22. Rxe1 Ba5 23. Nd5 Bd8 24. h4 Rb7 25. c4 Kf7 26. Qf3 Kg8
+27. Qe2 g6 28. h5 Kf8 29. h6 Bg5 30. Qb2 Kg8 31. f4 Bd8 32. Nf6+ Bxf6 33. Qxf6
+d5 34. cxd5 1-0
+
+[Event "URS-ch19"]
+[Site "Moscow"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Terpugov, Evgeny"]
+[Black "Bronstein, David I"]
+[Result "0-1"]
+[ECO "E68"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "89"]
+[EventDate "1951.??.??"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d6 4. g3 Bg7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 e5 8. Rd1
+Re8 9. Nc3 c6 10. e4 a6 11. h3 b5 12. dxe5 dxe5 13. Be3 Qe7 14. cxb5 axb5 15.
+a4 Bb7 16. Nd2 b4 17. Ne2 Bf8 18. Nc4 Qe6 19. Nc1 Ba6 20. b3 Bxc4 21. bxc4 Bc5
+22. Bxc5 Nxc5 23. a5 Reb8 24. Nb3 Nfd7 25. f4 Qe7 26. f5 Rb7 27. Kh2 Rba7 28.
+Rdb1 Rb7 29. Qd2 Na6 30. Rb2 {Diagram #} Ndc5 {Black would like to eliminate
+the blockade in order to push his b-pawn even further. As you learned on the
+theoretical lessons, you should play in the area in which you are stronger.
+Here Black is better on the queenside. The sad news for White is that he
+cannot activate his bishop from g2 and his pawns on f5 and e4; so, his
+mobility is limited .} 31. Nxc5 Qxc5 32. f6 Nc7 {White is trying to create
+some counterplay, but Black's position is dominant. Now he is taking advantage
+of White's last move, and he is trying to place the knight on d4 via the
+e6-square.} 33. Ra4 Na6 34. Qh6 Qf8 35. Qg5 Nc5 $17 {Black has a superior
+position and he manages to win the game afterwards.} 36. Ra1 h6 37. Qe3 Kh7 38.
+Rd2 Ne6 39. a6 Rba7 40. Rda2 c5 41. h4 Qd6 42. h5 g5 43. Qf2 Nd4 44. Rd2 Kg8
+45. Rda2 0-1
+
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1895.??.??"]
+[Round "14"]
+[White "Von Bardeleben, Curt"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "A06"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "60"]
+[EventDate "1895.08.05"]
+[EventRounds "21"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 d5 2. Nf3 Bg4 3. e3 e6 4. Be2 Nd7 5. b3 Ngf6 6. Bb2 Bd6 7. Nbd2 c6 8. Ne5
+Bxe2 9. Qxe2 O-O 10. f4 Rc8 11. O-O c5 12. Rac1 cxd4 13. exd4 Qa5 14. Nd3 {
+Diagram #} Ba3 {Definitely, this is a critical moment for Black because he has
+a lot of good moves. He should select a good plan, and he did it in the game
+by playing the Ba3 move. The idea is to exchange the key defender of the
+d4-pawn and the c3-square. Black would like to blockade the c2-pawn and attack
+it with his rooks.} (14... b5 $5) (14... g6 $5) (14... Bb4 $5) 15. Bxa3 Qxa3
+16. c4 b6 {White manages to push this pawn on c4; however, it is under heavy
+pressure. With this f4 move, White was dreaming to attack the kingside;
+however, the light-squared bishop is missing and, for that reason, he cannot
+perform a successful attack. Black is performing his powerful play by planning
+in the area in which he is stronger, the queenside.} 17. g4 Qd6 18. Ne5 dxc4
+19. Rxc4 b5 $1 $17 {Black won the fight for the file, his pieces are active
+and White's advanced pawns are not dangerous in the kingside. Last but not
+least, Black is removing the defender from the d4-pawn; for that reason, he
+will win material and the game afterwards.} 20. Rxc8 Qxd4+ 21. Kh1 Rxc8 22.
+Ndf3 Qxf4 23. Nxd7 Nxd7 24. Qxb5 Nf6 25. Ng5 Qc7 26. Nxf7 Qxf7 27. Qe5 Qd7 28.
+Re1 Qd5+ 29. Qxd5 exd5 30. Re7 Rc1+ 0-1
+
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.09"]
+[Round "5.2"]
+[White "Grischuk, Alexander"]
+[Black "Ismagambetov, Anuar"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2771"]
+[BlackElo "2545"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "163"]
+[EventDate "2019.??.??"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c3 c6 7. Nbd2 Bf5 8. Re1
+Qc8 9. Nh4 Bg4 10. Qc2 Nbd7 11. e4 e5 {Diagram #} 12. dxe5 {We can see a high
+tension now between the pawns, so some exchange will happen soon. Most
+probably, the center will be open completely, and then, the most important
+thing will be the piece activity.} (12. h3) (12. exd5 Nxd5 13. dxe5 {
+Transposition.}) 12... Nxe4 13. Nxe4 dxe4 14. Rxe4 {Thanks to his active
+knight on h4, Black cannot pin the rook on f5.} Nxe5 (14... Bf5 $2 15. Nxf5)
+15. Bf4 {After the pawn exchange, it's important to continue putting pressure
+in the center of the board. Right now, the e5-knight is under attack and Black
+should defend or remove it.} f6 (15... Re8 16. Rae1 {Sooner or later, Black
+should play f6 and we'll transpose into the game pawn structure.}) 16. Bxe5
+fxe5 17. Re3 {White has a very pleasant position here thanks to the weak
+e5-pawn. Black manages to create the weakness after the exchange of the bishop
+with the knight. The position is about equal, but more pleasant for White. The
+e5-pawn is a permanet weakness, but Black has the bishop pair. In the future,
+White will stabilize his position and will manage to win it.} Qd7 (17... Be6
+18. Nf3) 18. Nf3 Bxf3 19. Bxf3 Rad8 20. Kg2 Qf7 21. Be4 Bh6 22. Rf3 Qe6 23.
+Rxf8+ Kxf8 24. Rd1 Rxd1 25. Qxd1 Bg5 26. h4 Be7 27. a3 Kg7 28. h5 Bg5 29. hxg6
+hxg6 30. b4 Be7 31. a4 Bg5 32. Qd3 Be7 33. Qd1 Bg5 34. Qe2 Be7 35. Qd3 Qd6 36.
+Qe3 b6 37. Qf3 c5 38. b5 Bg5 39. Qg4 Qe7 40. c4 Qf6 41. Qc8 Qf7 42. a5 bxa5 43.
+Qxc5 a4 44. Qb4 Be7 45. Qxa4 Bc5 46. Qc2 Qf6 47. Qd2 Bd4 48. Bf3 Qe7 49. Qe2
+Qc5 50. Be4 Qf8 51. Qc2 Qd6 52. Qd2 Qf6 53. Qe1 Qd6 54. Bf3 Qe6 55. Bd5 Qf6 56.
+Be4 Qd6 57. Qe2 Qf8 58. Bd3 Qf6 59. Bc2 Bb6 60. Qd2 Bd4 61. Be4 Qf8 62. f3 Qe7
+63. Qc1 Bb6 64. Qd1 Bd4 65. f4 Qf6 66. Qg4 exf4 67. gxf4 Kh6 68. Kf3 Bb6 69.
+Bd3 Qd6 70. Qg5+ Kg7 71. Qe5+ Qf6 72. Be4 Bd4 73. Qc7+ Kh6 74. Qc6 Kg7 75. c5
+Be5 76. Qd7+ Kh6 77. Qh3+ Kg7 78. Qd7+ Kh6 79. Qg4 Bb8 80. Bd3 g5 81. Qh3+ Kg7
+82. Qd7+ 1-0
+
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.05"]
+[Round "1.14"]
+[White "Guseinov, Gadir"]
+[Black "Yu, Yangyi"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "2664"]
+[BlackElo "2761"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "183"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Be7 9. Bxe7 Nxe7 10. Nc3 Bd7 11. Nde2 O-O-O 12. Qc1 Rhe8 13. Qe3 Kb8 14.
+Rad1 Qe5 15. Qf4 {Diagram #} Qxf4 $1 {Black exchanges queens here because he
+would like to press the e4-pawn and avoid any kind of White's attack. White's
+problem is that he doesn't have a good square for his knights.} (15... Ng6 $5)
+(15... f6 $5) (15... Qe6 $5) 16. Nxf4 g6 17. f3 Nc8 18. g4 Nd6 {Black's plan
+was clear; now all of his pieces are ready to attack White's center and
+continue maneuvering. On the other hand, it's difficult to suggest good
+squares for White's knights.} 19. Kf2 Re7 20. h4 a5 21. b3 Rde8 22. Rfe1 b6 23.
+Na4 Kb7 {Black didn't do anything important just to improve a little more the
+positions of his pieces. Black can put some pressure against the e4-pawn and
+on the e-line. In addition to that, White cannot double his heavy pieces on
+the d-line because the d6-knight is totally blockading it.} 24. c4 f6 25. Nc3
+Nf7 $1 {Another cool maneuver; Black is placing his knight on the e5-square.
+It's not difficult to understand that White is struggling to find a single
+square for their knights; in reality, he needs two, one for each knight.} 26.
+Rd2 Bc8 27. Red1 Nd6 {Black blocked again the d-line -a very improtant
+decision because he prevents the exchnage of rooks on d8. Please also note how
+important job the c8-bishop is doing by protecting the d7-square.} 28. Re2 Nf7
+{Probably, Black was happy with the draw and, for that reason, he didn't push
+it. He just continue maneuvering his pieces. The computer assess this position
+as slightly better for White. Probably, he evaluates the space advantage of
+White's e4-pawn. Practically, White cannot do anything in the center.} 29. Red2
+Nd6 30. Rd3 Rf8 31. Rh1 Rd8 32. Rhd1 Rf8 33. Kg3 Rg8 34. Kf2 Rf8 35. Re3 Rfe8
+36. Re2 Nf7 37. Rdd2 Nd6 38. Kg3 Rg8 39. Kf2 Nf7 40. Rd1 Rge8 41. Red2 Rg8 42.
+Rh1 Nd6 43. Rg1 Nf7 44. Nd1 Nd6 45. Ne3 Rge8 46. Re2 Rd8 47. Rd1 Rg8 48. Red2
+Nf7 49. Re2 Nd6 50. Red2 Nf7 51. Re1 Ne5 52. Rg1 Nf7 53. Rdd1 Rge8 54. Rge1 Ne5
+55. Re2 Nf7 56. Rdd2 Ne5 57. Nd3 Nf7 58. Nf4 Ne5 59. Rd1 Nf7 60. Ree1 Ne5 61.
+Nd3 Nf7 62. Nf4 Ne5 {Black can keep the draw easily, but White decides to play
+for the win and, for that reason, he opens the position.} 63. h5 a4 64. hxg6
+hxg6 65. Nd3 Nxd3+ 66. Rxd3 f5 67. exf5 gxf5 68. gxf5 Bxf5 {The game is open
+now and the bishop is a more important piece than the knight. Please also note
+that White manages to exchange one pair of knights, but the other knight, on
+e3, is still struggling to find a good square! After a fight, Black manages to
+prevail.} 69. Rd2 Ka6 70. b4 a3 71. Rdd1 Bh7 72. Rc1 Kb7 73. Rc3 Ra8 74. Rd1
+Bg6 75. Rg1 Re6 76. Rd1 Rf6 77. Ng4 Rf5 78. Ne3 Rh5 79. Kg3 Bh7 80. Rd7 Bb1 81.
+Rd1 Bg6 82. Rd7 Rh1 83. b5 Rg1+ 84. Kf2 Ra1 85. bxc6+ Kxc6 86. Rd2 Rb1 87. Ng4
+Rb2 88. Ne5+ Kb7 89. Ke3 Re8 90. f4 Rh8 91. Nf3 Rh3 92. c5 0-1
+

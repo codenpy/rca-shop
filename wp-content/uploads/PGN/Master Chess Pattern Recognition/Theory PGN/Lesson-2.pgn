@@ -1,0 +1,50 @@
+[Event "Tilburg"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Karpov, A."]
+[Black "Portisch, L."]
+[Result "*"]
+[ECO "E18"]
+[SetUp "1"]
+[FEN "r5k1/2qn1p2/ppNp1bp1/3P3p/PQ6/4P1PP/5PK1/1R1B4 b - - 0 37"]
+[PlyCount "38"]
+[EventDate "1988.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.01.01"]
+
+37... Re8 {. White clearly has a space advantage and prospects of an attack
+against the enemy pawns. His best piece stands on c6, which can be neutralized
+by Black's knight but just not right now.} (37... Re8 38. Be2 $5 {is a fine mov
+e, but remember that your opponent will try to counter your plans, so} Ra8 $1 {
+is the only move . This position had already been on the board, in fact. Now
+after} ({Black would never play} 38... a5 $2 {
+, losing what is left of his light square control}) 39. g4 {White appears to
+have achieved a preferable version of the game, which also gave him an
+advantage. However, concrete calculation reveals that the black rook is better
+placed on a8 than on e8 if the world collapses. After} hxg4 40. Bxg4 Nc5 $1 {
+it is good that a6 is protected. Therefore Karpov chose the appropriate path
+when he decided on his next.}) 38. g4 $1 (38. h4 $6 {
+merely creates a weakness on the dark squares. A possible variation is} Kg7 $1
+{(preparing for g3-g4)} 39. g4 $2 hxg4 40. Bxg4 Rh8 41. h5 Ne5 $1 42. Nxe5 Bxe5
+{and Black suddenly has a very active position in which there is no reason why
+he should lose. Note that} 43. hxg6 $4 Qc2 $1 44. Rf1 (44. Kf3 f5 $1) 44...
+Qxg6 {followed by ...f7-f5 is winning for Black.}) 38... hxg4 (38... h4 {
+has been suggested, but after} 39. Qf4 $1 {
+, intending g4-g5, Black is in trouble.}) 39. Bxg4 $1 Kg7 ({
+Black cannot avoid the exchange of bishop for knight as} 39... Nc5 40. Qxb6
+Qxb6 41. Rxb6 Nxa4 42. Rxa6 {gives White a clear advantage.}) 40. Bxd7 Qxd7 41.
+Qf4 $1 (41. Qxb6 $2 Qf5 {and White is too far away from the kingside.}) 41...
+Rh8 $6 (41... Qc7 {, favouring White, was necessary. The rook is simply best
+placed on e8. White's next move would probably be} 42. Rb3 $1 {
+, overprotecting e3 and preparing an advance on the kingside.}) 42. Qg4 Qe8 (
+42... Qc7 43. f4 {and White is coming.}) 43. Rxb6 Rh4 44. Qf3 Rxa4 45. Rb8 Qd7
+$6 {A mistake.} ({After} 45... Qe4 46. Qxe4 Rxe4 47. Ra8 Ra4 48. Nb8 Ra5 (48...
+a5 49. Ra6) 49. e4 {White has some advantage but it is still hard to win.}) 46.
+Ra8 Bh4 47. e4 Bf6 48. Qd3 Qb7 49. Rb8 Qd7 50. Qc2 Ra3 51. Rb3 Ra1 $2 (51...
+Rxb3 52. Qxb3 {followed by Qa3 gives White very good winning chances. Now it
+is over, but I've thrown in an extra exercise here. . (press F10 for the next
+exercise)}) 52. Rf3 $1 Qb7 (52... Be5 53. Nxe5 dxe5 54. Qb2 Ra4 55. Qxe5+ Kg8
+56. Rb3 {and White wins.}) 53. Rxf6 Qb5 54. Qc3 Qf1+ 55. Kg3 Qg1+ 56. Kh4 {
+. . (press F10 for the next exercise) 1-0 Karpov,A-Portisch,L/Tilburg 1988} *
+

@@ -1,0 +1,22 @@
+﻿[Event "Budapest"]
+[Site "Budapest"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Noah's Ark Trap"]
+[Black "?"]
+[Result "*"]
+[ECO "C71"]
+[SetUp "1"]
+[FEN "r1bqkbnr/2p2ppp/p2p4/1p6/3QP3/1B6/PPP2PPP/RNB1K2R b KQkq - 0 8"]
+[PlyCount "7"]
+[EventDate "1929.09.01"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "HUN"]
+[WhiteTeam "II"]
+[BlackTeam "Czech Republic"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CZE"]
+
+8... c5 9. Qd5 Be6 10. Qc6+ Bd7 11. Qd5 c4 *
+

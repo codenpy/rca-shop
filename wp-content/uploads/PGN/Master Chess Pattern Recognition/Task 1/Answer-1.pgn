@@ -1,0 +1,380 @@
+[Event "Qatar Masters op"]
+[Site "Doha"]
+[Date "2015.12.28"]
+[Round "8"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "D38"]
+[WhiteElo "2748"]
+[BlackElo "2834"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "50"]
+[EventDate "2015.12.20"]
+[EventRounds "9"]
+[EventCountry "QAT"]
+[Source "ChessBase"]
+[SourceDate "2016.01.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Ne4 Qe7 12. exd4 Rd8 13. Qe2 Nc6 14. Rfd1 Ba5
+15. Ng3 Bb6 16. Qe4 {Diagram #} Bd7 $5 {The position is about equal. We can
+see a typical position with an isolated queen's pawn on d4. White has more
+space and more active pieces, but Black's position is solid. Black needs to
+develop his remaining army, Bc8 and Ra7. For that reason, he played Bd7.} (
+16... Rb8 $5) (16... a5 $5) (16... Qb4 $5) (16... a6 $5) 17. h4 Be8 {This is a 
+clever move because Black brings more pieces to the kingside. The bishop frees
+the d-line and liberates the d7-square; thus, Black can double the rooks on
+the d-line.} 18. a3 Rd6 19. Qg4 Rad8 {Now White starts feeling very
+uncomfortable because Black's pieces are well-coordinated and his pawn
+structure is solid. Please also notice that White is missing his dark-squared
+bishop and, for that reason, he doesn't have any sacrifices or tricks on h6.
+Black's pieces are pressing the isolated d4-pawn and White should find active
+moves in this difficult situation.} 20. d5 Qf8 $1 {Magnus is overprotecting
+the g7-square and is ready to capture the d5-pawn. The c6-knight is
+untouchable thanks to the pin over the d-line; the d1-rook isn't protected
+very well.} (20... a6 21. Re1 Rxd5 22. Bxd5 Rxd5) 21. Qe4 Ne7 {The isolated
+d5-pawn is doomed and Black will capture it soon. Magnus manages to win after
+some moves.} 22. Bd3 f5 23. Qe5 Nxd5 24. Bxf5 exf5 25. Nxf5 Rc6 0-1
+
+[Event "London Classic 3rd"]
+[Site "London"]
+[Date "2011.12.04"]
+[Round "2"]
+[White "Short, Nigel D"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "C48"]
+[WhiteElo "2698"]
+[BlackElo "2800"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "2011.12.03"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2012.01.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6
+8. dxc3 Bc5 9. Qe2+ Qe6 10. O-O O-O 11. Qf3 d6 12. Bg5 Qf5 13. Be7 Qxf3 14.
+gxf3 a6 15. Ba4 b5 16. b4 Re8 17. Rfe1 Bb6 18. Bb3 Bb7 19. Kg2 d5 20. Re5 c6
+21. Rae1 Bc7 22. R5e2 {Diagram #} Bc8 $1 {The position looks dynamically equal
+thanks to White's initiative on the e-line. However, a closer look is needed
+in order to understand better the position. White doesn't have any good
+discovered attack with the e7-bishop, and the b3-bishop is out of play.
+Similarly, we can see another problem; White has double pawns on the f- and
+c-lines. Black's b7-bishop is very passive, but this is a temporary problem.
+Black needs to activate the bishop and, then he will claim the initiative.} (
+22... f6 $5 {With the idea of play Kf7 and overprotecting the e8-rook.}) (22...
+f5 $5) (22... Bf4 $5) (22... a5 $5) 23. a4 Bd7 $17 {White tried desperately to
+active his b3-bishop, but Black wasn't interested in opening lines there.
+Black improved the bishop position and now he has the initiative. He cannot
+kick away the e7-bishop, but he is threatening to play a5 and liberate his
+a8-rook. Black has a better position and Kramnik manages to win it afterwards.}
+24. Bh4 Rxe2 25. Rxe2 Re8 26. Rxe8+ Bxe8 27. Bg3 Bd8 28. Be5 f6 29. Bb8 Bg6 30.
+axb5 axb5 31. Kf1 Kf7 32. Ke2 Ke6 33. Ke3 Bb6+ 34. Ke2 Bh5 35. Ba2 g5 36. Bb3
+f5 37. Ba2 f4 38. Bb3 Kf5 39. Bd6 g4 40. Kf1 g3 41. fxg3 fxg3 42. Bxg3 Bxf3 43.
+Ba2 Be3 0-1
+
+[Event "Gashimov Memorial 3rd"]
+[Site "Shamkir"]
+[Date "2016.05.30"]
+[Round "5"]
+[White "Safarli, Eltaj"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2664"]
+[BlackElo "2790"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "2016.05.26"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2016.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c4 Ngf6 5. Nc3 g6 6. O-O Bg7 7. Ba4 O-O 8. h3
+Nb6 9. Bb3 e5 10. d3 Ne8 11. Bg5 f6 12. Be3 f5 13. Bg5 Bf6 14. Bh6 Bg7 15. Bg5
+Qd7 16. exf5 gxf5 17. a4 a5 18. Nb5 Kh8 19. Re1 Bf6 20. Bxf6+ Nxf6 21. d4 e4
+22. dxc5 dxc5 23. Qxd7 Nbxd7 24. Nd2 Ne5 25. Bc2 Bd7 26. f3 {Diagram #} Rad8 $5
+{Black has plenty of options here. Please notice that his last move was Bd7;
+so, I didn't ask you this move; it was easy to find it. However, it is
+important to decide where you'll place this bishop in the future. Right now,
+with the Rad8 move, Black is creating the threat to capture on b5 because the
+d2-knight is undefended.} (26... Rg8 $5) (26... Bxb5 $5) (26... Rfd8 $5) (26...
+Bc6 $5) 27. Rad1 Rg8 {Black is pinning the g2-pawn and creates more pressure
+on the f3-pawn. Usually, we cannot attack in the endgame without queens, but
+we can create problems for sure.} 28. Kh2 Be8 $5 {Black is relocating his
+bishop on h5 in order to continue pressing the f3-pawn. Please notice that he
+relocates the bishop from this typical route because he would like to avoid
+the Na7 move. Black's light-squared bishop can play an important role in
+Black's initiative; so, he keeps it alive on the board.} (28... Bc6 $5 29. fxe4
+fxe4 30. Na7) 29. Nc7 Bh5 30. Ne6 Rde8 31. Nc7 Re7 $17 {Black has the
+initiative and is pressuring, thanks to his very active pieces; and he manages
+to win the game afterwards.} 32. Nd5 Nxd5 33. cxd5 exf3 34. d6 Reg7 35. g4
+Nxg4+ 36. hxg4 Rxg4 37. Nxf3 Rg2+ 38. Kh3 Bxf3 39. Bb3 R8g3+ 40. Kh4 Rg4+ 41.
+Kh3 Bxd1 42. d7 R4g3+ 43. Kh4 Rd3 0-1
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2009.01.19"]
+[Round "3"]
+[White "Ivanchuk, Vassily"]
+[Black "Radjabov, Teimour"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2779"]
+[BlackElo "2761"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "82"]
+[EventDate "2009.01.17"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2009.03.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 10. a4 f5 11. a5 Nf6 12. Bg5 Nh5 13. exf5 gxf5 14. Qd2 Nf6 15. c5
+{Diagram #} Bd7 $5 {Before taking any aggressive action, Black finalizes his
+development and he aims to play the bishop to f7. Yes, White has more space
+advantage, but d5-pawn is backward and weak. Black's knights are already
+attacking the d5 and he needs to bring more forces against it.} (15... Ne4 $5)
+16. b5 Be8 17. c6 b6 {Black successfully manages to keep close, or almost
+close to the queenside. In general, in the king's Indian Defense, White is
+attacking the queenside and Black the kingside. By keeping close, or trying to
+keep close to the queenside, Black delays White's attack.} 18. Nh4 Bf7 19. Bd3
+(19. Bc4 f4 20. -- h6 21. Bxf6 Bxf6 22. Nf3 Bh5 $36) 19... Bg6 {The light-squar
+ed bishop played an important role in this game. Even such "passive" bishops,
+behind his own pawns, are important. The g6-bishop is defending the f5-pawn.
+Black's next plan is to bring a new force against the d5-pawn and this is the
+queen on f7.} 20. f3 Qe8 21. Kh1 Kh8 22. Bc2 Qf7 {Black manages to fully
+activate his pieces and creates pressure on the e4-pawn and the kingside. The
+position is very complicated and Black has serious counterattacking chances.
+After a very fighting game, Black manages to win it.} 23. g4 Nfg8 24. Ra4 Rae8
+25. axb6 axb6 26. Ra7 Rc8 27. Nxg6+ Qxg6 28. Rg1 Qf7 29. Rg3 e4 30. Ne2 Nf6 31.
+Nf4 exf3 32. gxf5 Nfxd5 33. Rxf3 Nxf4 34. Qxf4 Bf6 35. Bb3 Qh5 36. Bxf6+ Rxf6
+37. Be6 Rcf8 38. Rxc7 Rxe6 39. fxe6 Rxf4 40. Rxf4 Qd5+ 41. Kg1 Qg5+ 0-1
+
+[Event "Wenzhou m"]
+[Site "Wenzhou"]
+[Date "2015.07.18"]
+[Round "3"]
+[White "Gelfand, Boris"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[ECO "E01"]
+[WhiteElo "2751"]
+[BlackElo "2749"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "150"]
+[EventDate "2015.07.16"]
+[EventRounds "4"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2015.09.14"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Bd6 6. Nc3 O-O 7. Bg5 c6 8. Bg2
+h6 9. Bxf6 Qxf6 10. O-O Bc7 11. e3 Nd7 12. Qe2 Qe7 13. Rfd1 Nf6 14. e4 dxc4 15.
+e5 Nd5 16. Qxc4 Rd8 17. Ne4 a5 18. Rac1 {Diagram #} Bd7 $5 {Black has a lot of
+good moves here; all of them are close to equality. However, it's important to
+finalize your development and put your pieces into harmony. For that reason,
+the Chinese star chooses a very typical bishop maneuver in order to organize
+all of his pieces.} (18... Qb4 $5) (18... a4 $5) (18... Qf8 $5) (18... Nb6 $5)
+(18... Rb8 $5) 19. a3 Be8 {Another typical pattern as we learned in this group
+of exercises. Black steps aside the bishop in order to keep the d-line open
+and prepare the doubling of the rooks there.} 20. Ne1 b6 21. Nd3 Rac8 22. Qc2
+Qf8 $1 {A very sophisticated maneuver. Black is freeing the e7-square, and now
+he would like to re-activate the knight on f5. Please notice that the d4-pawn
+is weak, so Black would like to exert pressure against it. The position is
+aproximately equal but, after a long fight, Black manages to win it.} 23. Qe2
+Ne7 24. Ne1 Nf5 25. Nf3 Qe7 26. Rc3 Qf8 27. h4 Ne7 28. Rcc1 Bb8 29. Qa6 Nd5 30.
+Nc3 Nxc3 31. Rxc3 Bc7 32. Rdc1 Rb8 33. Qe2 b5 34. Rd3 Bb6 35. Rcd1 Qe7 36. g4
+c5 37. g5 c4 38. R3d2 h5 39. g6 f6 40. Ng5 Bxg6 41. Be4 Bxe4 42. Nxe4 fxe5 43.
+Qxh5 Bxd4 44. Ng5 Qf6 45. Qh7+ Kf8 46. Qe4 Ke7 47. Qc6 Qf5 48. Re1 Rdc8 49. Qg2
+Rd8 50. Qc6 Rb6 51. Qg2 g6 52. Nf3 b4 53. axb4 axb4 54. Rde2 c3 55. bxc3 Bxc3
+56. Nxe5 Bxe1 57. Rxe1 b3 58. Nc6+ Rxc6 59. Qxc6 Rd2 60. Qc7+ Kf8 61. Qc8+ Kf7
+62. Qc7+ Kg8 63. Qb8+ Kg7 64. Qg3 Rc2 65. Qe3 b2 66. Qa7+ Kh6 67. Qe3+ Kh5 68.
+Kg2 e5 69. Qa7 Kh6 70. Qe3+ Qf4 71. Qxf4+ exf4 72. Rb1 Kh5 73. Kf3 Kxh4 74.
+Rh1+ Kg5 75. Rb1 Rd2 0-1
+
+[Event "EU-ch 12th"]
+[Site "Aix les Bains"]
+[Date "2011.03.26"]
+[Round "5"]
+[White "Sanikidze, Tornike"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2542"]
+[BlackElo "2729"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "106"]
+[EventDate "2011.03.22"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2011.06.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 Qa5 9. Rb1 cxd4 10. cxd4 Qxd2+ 11. Kxd2 O-O 12. Bd3 Rd8 13. Nf3 e6 14. Rhc1
+Nc6 15. Rc4 {Diagram #} Bd7 $5 {This is the interesting Karpov-Kramnik line in
+the Grunfeld defense. Now Black should finalize his development and he has
+some options to do that. He used this tactical shot in order to develop the
+bishop. White cannot capture on b7 thanks to the fork on a5 with the knight.} (
+15... f5 $5) (15... Na5 $5 16. Rc5 b6 17. Rc7 Bb7) (15... h6 $5) 16. Bg5 f6 {
+Black is forced to play this move in order to keep his rook active on the
+d-line. Yes, the g7-bishop is closed, but everything in chess has pros and
+cons. Black is controlling a lot of squares in the center and in front of his
+king. However, the bishop on g7 is temporarily closed.} 17. Be3 Bf8 {Black
+activates his bishop from another diagonal, a3-f8. Please also notice that b7
+is continuously protected by tactical means: a fork on a5 with the knight.} 18.
+Ke2 Be8 {I hope that you get it by now; this is a very typical pattern in the
+middlegame and endgame. Black developed his bishop from c8 in order to connect
+the rooks and, similarly, he put it on e8 in order to keep the d-line open.
+The position is still complicated, but White is a little better thanks to his
+space advantage. On the other hand, Black's pieces are also active and they
+have possibilities to counterattack. After a long fight, Black manages to win
+the game.} 19. Bd2 Rd7 20. Rc2 Rad8 21. Bb5 Re7 22. e5 Bg7 23. Be3 Rc7 24. exf6
+Bxf6 25. Bd3 g5 26. g4 h6 27. Be4 Kg7 28. Kf1 Bg6 29. Bxg6 Kxg6 30. d5 exd5 31.
+Bxa7 Rcd7 32. Bb6 Ra8 33. Bc5 Ra4 34. h3 Rc4 35. Rxc4 dxc4 36. Rc1 c3 37. a4
+Rd5 38. Bb6 Nb4 39. Ne1 Rd2 40. Bc5 Nd5 41. Nc2 b6 42. Be3 Nxe3+ 43. Nxe3 Bd4
+44. Ke1 Ra2 45. Nd1 Ra3 46. Ke2 Be5 47. Kd3 Rxa4 48. Nxc3 Ra3 49. Kc4 Bxc3 50.
+Rxc3 b5+ 51. Kb4 Rxc3 52. Kxc3 Kf6 53. Kd4 b4 0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Kamsky, Gata"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "B17"]
+[WhiteElo "2655"]
+[BlackElo "2725"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "98"]
+[EventDate "1993.04.??"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "1993.08.01"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Nf6 11. Qh4 {Diagram #} Ke7 $5 {This is a very
+famous game that shocked the chess community by this last amazing move by
+Karpov, Ke7. Usually, we castle the king in order to connect the rooks, but
+Karpov chose a more aggressive approach here. The idea is to protect the
+h8-rook and he intended to play g5. Please notice that he cannot do it without
+protecting the h8-rook.} (11... Qa5+ $5) (11... O-O $5) (11... Rg8 $5) (11...
+Nd5 $5) 12. Ne5 {This was an absolutely necessary move because Black was
+threatening g5 and e5 in order to liberate the c8-bishop.} (12. Bd2 $2 g5 13.
+Qh3 e5 $17 {It is weird that Black's king is in the center and Black is
+opening the center, but White cannot bring quickly any rook to e1 and the
+queen is under attack from the c8-bishop. Black is using his tactical
+possibilities and, for that reason, the e5 move is playable.}) 12... Bxe5 13.
+dxe5 Qa5+ 14. c3 Qxe5+ {Black is a pawn up, but White has a good development
+and the bishop pair.} 15. Be3 b6 16. O-O-O g5 17. Qa4 c5 18. Rhe1 Bd7 $1 {
+Karpov isn't afraid of the pin over the e-line because White doesn't have any
+good discovered attack with Be3. On the other hand, you can see our typical
+pattern on how to activate the c8-bishop. Black's next idea is to play Rhd8 in
+order to put the rook actively on the d-line. Thus, Black will play Rhd8 and
+then Be8 in order to free the d-line for the rooks. After a long and very
+interactive game, Karpov manages to win it.} 19. Qa3 Rhd8 20. g3 Qc7 21. Bd4
+Be8 22. Kb1 Rd5 23. f4 Rad8 24. Bc2 R5d6 25. Bxf6+ Kxf6 26. fxg5+ hxg5 27. Rxd6
+Rxd6 28. c4 Ke7 29. Qe3 f6 30. h4 gxh4 31. gxh4 Qd7 32. Qh6 e5 33. h5 Qg4 34.
+Qh7+ Kd8 35. h6 Rd2 36. Qf5 Qxf5 37. Bxf5 Bd7 38. Bg6 Rh2 39. h7 Ke7 40. Bd3
+Be6 41. Rg1 f5 42. Rg7+ Kf6 43. Rxa7 e4 44. Be2 f4 45. b3 f3 46. Bd1 Bf5 47.
+Kc1 Bxh7 48. Rb7 Ke5 49. Rxb6 Rxa2 0-1
+
+[Event "EU-Cup 25th"]
+[Site "Ohrid"]
+[Date "2009.10.06"]
+[Round "3.3"]
+[White "Timofeev, Artiom"]
+[Black "Volokitin, Andrei"]
+[Result "0-1"]
+[ECO "A88"]
+[WhiteElo "2668"]
+[BlackElo "2681"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "2009.10.04"]
+[EventRounds "7"]
+[EventCountry "FRM"]
+[Source "ChessBase"]
+[SourceDate "2009.11.19"]
+[WhiteTeam "Tomsk 400"]
+[BlackTeam "Skopje Alkaloid"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "FRM"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. b3 Qa5
+9. Bd2 Qc7 10. d5 Na6 11. Rc1 Nc5 12. Be3 a5 13. Bd4 Bd7 14. Ne5 {Diagram #}
+Be8 $5 {Black has some options available here but, definitely, he should not
+capture the knight on e5. He solidly protected his light squares, allowing
+White to double the pawns on the c-line in order to create initiative on the
+kingside.} (14... dxe5 $6 15. Bxc5) (14... Rad8 $5) (14... Rae8 $5) (14... Rac8
+$5) 15. dxc6 bxc6 16. Bxc5 dxc5 17. Nd3 e5 $1 {There is no need to protect the
+c5-pawn because White will capture it for sure. Whereas White tries to capture
+a pawn, Black is developing his initiative on the kingside. In general, it is
+not good to give pawns, but if you are going to lose them in any case, at
+least, win some time to create counterplay.} (17... Nd7 18. Na4 e5 (18... Qa7
+19. Bxc6 $16) 19. Ndxc5 Nxc5 20. Nxc5 Qe7 $132) 18. e4 f4 {Black has a very
+good counterplay because he created a very aggressive position against White's
+kingside. The g2-bishop is blocked. White can win a pawn on c5, which is
+doubled; but he cannot organize his pieces actively to hit another target.} 19.
+Na4 g5 20. Naxc5 Bh5 21. f3 Qd6 22. g4 Bf7 23. Qe2 h5 {The computer evaluates
+the position as clearly better for White, but Black has easier moves to find.
+Similarly, it's difficult to handle White's position in a real game situation
+because White has weaknesses on the dark squares, and Black is pressuring
+against his pawns on e4 and g4. After a fighting game, Black manages to win it.
+} 24. h3 hxg4 25. fxg4 Rfd8 26. Rfd1 Qe7 27. Na4 Rd4 28. Ne1 Bg6 29. Rxd4 exd4
+30. e5 Rd8 31. Nb2 Nd7 32. Bxc6 Nxe5 33. Bd5+ Kf8 34. Rd1 Re8 35. Qf2 Qb4 36.
+Nbd3 Nxd3 37. Nxd3 Qd6 38. Ne1 Re3 39. Nf3 Qe7 40. Rd2 d3 41. Nh4 Re1+ 42. Kg2
+gxh4 43. Qxf4+ Qf6 0-1
+
+[Event "Bundesliga 1516"]
+[Site "Germany"]
+[Date "2015.12.12"]
+[Round "3.7"]
+[White "Rogozenco, Dorian"]
+[Black "Nisipeanu, Liviu Dieter"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2526"]
+[BlackElo "2678"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "52"]
+[EventDate "2015.09.18"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2016.01.15"]
+[WhiteTeam "Hamburger SK"]
+[BlackTeam "Baden-Baden"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. Qa4+ Nc6 6. a3 Bxd2+ 7. Bxd2 Ne4
+8. Rd1 O-O 9. e3 Bd7 10. Qc2 Be8 11. Bd3 f5 12. cxd5 exd5 13. Ne5 Nxe5 14. dxe5
+{Diagram #} Bh5 $1 {This is a tempo move because we're attacking the rook.
+Please also notice that White cannot play f3. For that reason, Black is
+winning time in order to develop his attack.} (14... Qg5 15. O-O Bh5 16. f3 $14
+{Now the f3 move is working and White starts pushing back the black pieces.})
+15. Rc1 (15. f3 Qh4+ $1 $40 {And Black has a crushing attack.}) 15... Qg5 16.
+Kf1 {You can see now that White cannot finalize his development normally and
+this is a sign that something is wrong with his position.} (16. O-O Bf3 17. g3
+Qh5 $36 {Black's attack here is very strong.}) 16... Nxd2+ 17. Qxd2 f4 $1 {
+In order to continue your attack, you need to exchange some key defenders and,
+then, open up the position. You need to open lines in order to activate your
+remaining army.} 18. exf4 Rxf4 19. g3 Rxf2+ $3 {This is an amazing blow! Black
+continues opening up the position using forcing tactical moves. Contrary to
+White's uncoordinated pieces, Black has a strong initiative and he manages to
+win the game afterwards.} 20. Qxf2 Rf8 21. Bxh7+ Kxh7 22. Qxf8 Qxc1+ 23. Kg2
+Qc2+ 24. Kh3 Qe4 25. Rg1 Bg4+ 26. Kh4 Qg6 0-1
+

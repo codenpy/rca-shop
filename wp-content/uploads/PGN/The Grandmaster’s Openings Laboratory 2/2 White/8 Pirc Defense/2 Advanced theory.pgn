@@ -1,0 +1,107 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pirc defense"]
+[Black "Advanced theory"]
+[Result "*"]
+[Annotator "RCA"]
+[PlyCount "35"]
+[EventDate "2013.05.18"]
+
+1. e4 d6 {The main drawback to the Pirc Defence for Black is that the a3-f8
+diagonal is closed too early, and thus the Black's dark-squared bishop has to
+develop via g7, for which he has to lose some tempo right at the opening!} 2.
+d4 {Principle of maximum activity...} Nf6 3. Nc3 {Necessary move... developing
+the queen's knight and defending the centre pawn! Remember one thing - that
+advancing the 'c' pawn for White is not necessary in the Pirc; it only helps
+Black, as White's plan is to play on the king side.} g6 4. Bg5 {Intention of
+White is clear: he attacks Black's f6 knight with a tempo and is preparing Qd2,
+0-0-0 - leading to launching an attack via the king side.} Bg7 {Main line...} (
+4... Nbd7 $5 {Also possible here, but it restricts Black from playing ...Nc6
+in future, which is necessary in certain variations.} 5. f4 $5 {This is a
+typical approach in the Pirc, which allows White to play e5 any time he likes..
+.} h6 6. Bh4 c6 {Thematic Pirc manoeuvre...} (6... c5 $6 {A popular mistake...}
+7. e5 $1 {This is the result of White's earlier prophylactic f4 move.} Nh5 (
+7... Ng4 $6 {Doesn't save Black at all...} 8. dxc5 Ne3 9. Qe2 Nf5 10. exd6 Nxh4
+11. Nd5 $16) (7... cxd4 {White's best try fails to...} 8. Qxd4 g5 {Black tries
+everything to complicate the situation...} 9. exf6 gxh4 10. fxe7 Qxe7+ 11. Nge2
+Nf6 12. O-O-O $16 {Black's pawn position is just ruined... at the same time,
+White has gained a strong initiative!!}) 8. exd6 Nxf4 9. dxc5 $16 {With a huge
+advantage for White...}) 7. Qd2 $5 {Thematic move in 4.Bg5 variation...} b5 (
+7... Bg7 {Popular alternative at club level.} 8. e5 $5 Nd5 (8... Nh5 9. exd6
+$36) 9. Nxd5 cxd5 10. exd6 $40 {White has got the initiative in this position,
+with lots of possibilities...}) 8. e5 $5 (8. Bd3 $5 {Also playable...} Bg7 9.
+Nf3 O-O 10. e5 $36) 8... Nh5 (8... b4 $5 9. exf6 bxc3 10. Qxc3 Nxf6 11. Bxf6
+exf6 12. O-O-O $14 {With an easy game for White...he has a better pawn
+structure!!}) 9. d5 $36 {White breaks Black's position too early...}) (4... c6
+$5 {Black allows White to interrupt his pawn structure with BxNf6. ...which
+gives Black a positional edge due to: (i) his lone dark-squared bishop on the
+board; (ii) counterplay along the semi-open 'f' file; (iii) breakthrough at e4
+by Black's extra 'f' pawn...} 5. Qd2 {White does not need to take on f6... he
+should rather concentrate on development.} Bg7 $5 (5... b5 $5 {Choice of many
+players...} 6. Bd3 $5 {Better than the passive a3... we should develop pieces
+in the opening!} Nbd7 7. f4 Bg7 8. Nf3 b4 9. Ne2 $5 O-O 10. O-O h6 11. Bh4 $14
+{White finally gains a better position due to his harmonious piece placement...
+}) 6. f4 {Thematic move in 4.Bg5 variation...} O-O 7. Nf3 $32 {Followed by Bd3,
+0-0-0 - with good practical chances for White...}) (4... h6 {The idea behind
+this move is to prevent f4 with the bishop on g5.} 5. Be3 {With the move Bg5,
+White exploits weaknesses in Black's territory. Now White is playing a
+favourable version of the 4.Be3 variation.} Bg7 6. f3 {To play Qd2 without
+allowing Ng4.} c6 7. Qd2 h5 8. O-O-O b5 9. Nh3 $5 {Planning to put the knight
+on g5; white has an excellent chance. Bxh3 - doubling pawns - isn't much good
+because this bishop is very important.}) 5. Qd2 $5 {Best among all
+alternatives... intention is 0-0-0 at the earliest possible moment and to play
+on the king side.} h6 (5... c6 {This move is always an alternative in Black's
+possession... that's why we consider it from time to time...we should prepare
+for everything logical!} 6. f4 h6 7. Bh4 Nh5 {Tricky...} 8. O-O-O Nxf4 {
+Thematic manoeuvre for Black in 4.Bg5 variation...} 9. Qxf4 g5 10. Qg3 Bf6 11.
+Bxg5 hxg5 $5 (11... Bxg5+ 12. Kb1 $16 {White is ahead in development; at the
+same time, Black's king side is just too open...} Qc7) 12. e5 (12. Nf3 $5 {
+Equally good.} g4 13. e5 Bg7 14. Kb1 b5 15. Ng5 $16) 12... Bg7 13. Nf3 g4 14.
+Kb1 Bh6 15. Nd2 Bf5 16. Be2 {With a better position for White; Black has still
+to bring his king to a safer position...}) 6. Bh4 g5 {Choice of the players
+who prepare well for the 4.Bg5 variation...} (6... O-O $5 7. O-O-O c6 8. f4 {
+We have reached a very common position in 4.Bg5 variation, where both sides
+concentrate on their own plans right in the opening.} Na6 $5 9. Nf3 $5 (9. Bxa6
+$6 {Is just a positional mistake, due to opening up the 'b' file for Black's
+rooks to attack...} bxa6 $13) 9... Nc7 10. Bd3 $14 {With the idea of Kb1, Rhe1,
+Bf6 & f5....is good for White.}) 7. Bg3 Nh5 {The most consequential move.} 8.
+O-O-O $5 {White not only brings his king to shelter, but also prepare his rook
+for play via the centre.} Nd7 $5 (8... Nc6 $5 {Possible choice that we can't
+ignore...} 9. Qe3 {White frees his rook... also preparing e5!} Bd7 10. Nge2 e6
+{Preparing White's e5 by .. d5, thus closing the centre...} 11. h4 {White is
+happy to open up the king side. For this, he has two options: (i) h4 (ii) f4...
+.the first option looks better due to his rook on h1 coming directly into play.
+} Qe7 {Black also prepares 0-0-0...} 12. Bh2 gxh4 13. Bg1 O-O-O 14. g4 Nf6 15.
+f3 Nh7 16. Bf2 $36 {Along with the initiative, White has more space and a
+better grip over the centre...}) 9. e5 $5 {If Black is behind in preparation
+here, it will be a very awkward situation for him; if he is familiar with this
+position, still White has nothing to fear...} Nxg3 (9... dxe5 $5 10. dxe5 Nxg3
+11. hxg3 Bxe5 {Same position arises as in the main line...}) 10. hxg3 dxe5 11.
+dxe5 Bxe5 {Now you may argue - why should White give up his centre pawn
+without any advantage here??} 12. f4 $1 {That is the point... in a timely
+manner, White has opened up the king side and the centre as well, which is
+irritating for Black's centralised king... and his queen is totally
+ineffective.} gxf4 (12... Bg7 $6 13. fxg5 hxg5 14. Rxh8+ {Black's king lacks
+defenders - move after move...} Bxh8 15. Nf3 e6 16. Ne4 $36 {With a strong
+initiative for White...}) 13. gxf4 Bg7 (13... Bd6 $5 {This is another choice -
+the idea is to unpin the d7 knight and to mobilise the queen side.} 14. Ne4 {
+With the idea of preventing Nf6.} Nb6 15. Qe3 {Creating some interesting
+threats like Nf6 at some point.} Bf5 16. g3 {Preparing the development of the
+bishop.} Bxe4 17. Qxe4 c6 18. Qd4 $1 {And White is better.}) 14. Rh3 {The
+least active piece comes into play... the rook is targeting d3/g3 for attack.}
+c6 15. Rd3 (15. Rg3 $5 {Is also possible here...}) 15... O-O $5 (15... Qc7 $5
+16. g3 {Making room for the bishop at h3.} Bxc3 $5 {Best alternative, but very,
+very hard to find out in a real game.} (16... e6 $6 17. Nf3 $14) 17. bxc3 $1 {
+This move has an ugly aspect - breaking his own structure. The thing is that
+White doesn't want to release pressure on the "d" file. Black is in a
+difficult situation. White wants to follow with Bh3 and Nf3-e5, etc.} (17. Qxc3
+$5 O-O 18. Bh3 Nf6 19. Bxc8 Raxc8 20. Qd2 $44 {With the idea of Ne2, f5....
+White has sufficient compensation with good practical chances...}) 17... Kf8 {
+Black has nothing better...} 18. Rxd7 Bxd7 19. Qxd7) 16. Rxd7 Bxd7 17. Qxd7
+Qxd7 18. Rxd7 {Although the material position is equal, White has good
+practical chances due to: (i) he wins a pawn in the next move; (ii) his active
+rook on the seventh rank; (iii) he has more pieces in the important areas of
+the board.} *
+

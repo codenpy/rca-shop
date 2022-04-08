@@ -1,0 +1,46 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sicilian Defense"]
+[Black "Anti-Najdorf variation"]
+[Result "*"]
+[ECO "B54"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "23"]
+[SourceDate "2013.12.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 {White wants to play c4 then
+and to create a strong central position.} e6 (5... g6 {White's set up of the
+pieces is very similar in all the lines.} 6. c4 Bg7 7. Nc3 Nc6 8. Be3 {(white
+is protecting his d4-knight)} O-O 9. Qd2 {(it is a prophylactic move to
+prevent an  eventual Qb6, which could attack b2-pawn and d4-knight
+simultaneously.)} Bd7 10. Be2 Rc8 11. O-O a6 12. Rac1 {after that white will
+play Rfd1 and will put the knight on d5. White is going to play in the center
+in this variation}) (5... e5 6. Nb3 d5 (6... Be6 7. c4 {(now black has a
+stable problem - his weaknesses d6 and d5)} Be7 8. Be3 O-O 9. Nc3 a5 10. Be2 {
+White will finish his development, will put pressure over the "d" file and
+will place his knight to d5.}) 7. Bg5 {White is increasing the tension} Be6 (
+7... dxe4 8. Qxd8+ Kxd8 9. fxe4 {In the endgame White has a lot of attacking
+ideas: Nc3-d5, 000, Bc4, Bf6 etc}) 8. Bxf6 gxf6 9. exd5 Qxd5 (9... Bxd5 10. Nc3
+Bb4 11. Qd3 {played to protect the c3-knight and to prepare long castling.} Nc6
+12. O-O-O Bxb3 13. axb3 Qxd3 14. Bxd3 {Black has a lot of weaknesses which
+determines White's advantage}) 10. Qxd5 Bxd5 11. Nc3 Be6 (11... Bb4 {doesn't
+work} 12. O-O-O Bxc3 13. Rxd5 $1 $14 {keeping a solid pawn structure}) 12.
+O-O-O {then White will finish development and will attack Black's weaknesses:
+Nd5, Nb5, Bd3-e4, Na5 etc}) 6. c4 Be7 (6... Nc6 7. Nc3 Qb6 {In this line Black
+is trying to prevent White from castle. However, this idea failes after
+White's proper moves.} 8. Nc2 Be7 9. Bd3 O-O 10. Be3 {!} Qc7 (10... Qxb2 {?}
+11. Qd2 {Black's queen is trapped and white is going to play Rb1} Nb4 12. Rb1
+Nxc2+ 13. Bxc2 Qa3 {these are all the forcing moves} 14. Nb5 Qxa2 (14... Qa6
+15. Nc7 $18 {fork}) 15. e5 $1 dxe5 16. Bxh7+ {discovered attack} Kxh7 17. Qxa2
+$18) 11. O-O $14 {leads to a standard position with White's space advantage.})
+7. Nc3 O-O 8. Be2 Nc6 9. Be3 {Usually White should play Be3 after the Black's
+move Nc6. Then White will be able to take on d4 by his bishop if necessary.} a6
+(9... d5 10. cxd5 exd5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Nxd5 cxd5 14. O-O {
+Leads to a slightly better position for White. Althogh it's close to equality,
+White can attack Black's weak pawns d5 and a7, which will be a long-term
+problem for Black.}) 10. O-O Bd7 11. Qd2 Rc8 12. Rac1 {After that White will
+play Rfd1 and b3. This gives White a very powerful position and prevents any
+Black's counterplay.} *
+

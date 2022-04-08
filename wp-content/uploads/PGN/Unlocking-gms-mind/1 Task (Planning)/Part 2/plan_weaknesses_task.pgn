@@ -1,0 +1,149 @@
+[Event "World Championship 24th"]
+[Site "Moscow"]
+[Date "1961.04.12"]
+[Round "11"]
+[White "Botvinnik, Mikhail"]
+[Black "Tal, Mihail"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r5/5kp1/1B2pp1p/P2p4/2bPP3/2R1KP2/6PP/2R5 w - - 0 28"]
+[PlyCount "0"]
+[EventDate "1961.03.15"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+ *
+
+ order to make use of his extra pawn White needs to open the second front
+on the kingside trying to create a second weakness in the black camp} 28. g4
+28... Rab8 29. h4 Rc6 30. h5 {Botvinnik writes:"now white`s plan is becoming
+clear. He wants to play e4-e5, exchange the pawns on f6, then move "f" and "g"
+pawns thus creating a passed h-pawn"} 30... Rbc8 31. e5 g6 32. hxg6+ Kxg6 33.
+R3c2 fxe5 34. dxe5 Rh8 35. Rh2 Rcc8 36. Kd2 Bb3 37. a6 Bc4 38. a7 Rh7 39. Ra1
+Ra8 40. Be3 Rb7 41. Rxh6+ Kg7 42. Rah1 Rb2+ 1-0
+
+[Event "Nice ol (Men) fin-A"]
+[Site "Nice"]
+[Date "1974.06.17"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Unzicker, Wolfgang"]
+[Result "*"]
+[WhiteElo "2700"]
+[BlackElo "2535"]
+[SetUp "1"]
+[FEN "r1rq1bk1/1n1b1p1p/3p1np1/1p1Pp3/1Pp1P3/2P1BNNP/R2Q1PP1/1B2R1K1 w - - 0 24"]
+[PlyCount "0"]
+[EventDate "1974.06.06"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+ *
+
+ite is better due to the space advantage and the unfortunate position of
+the knight on b7.} 24. Ba7 $1 {
+blocking the a-file and preparing doubling of his pieces} 24... Ne8 25. Bc2 Nc7
+26. Rea1 Qe7 27. Bb1 27... Be8 {now as Black covered important squares along
+the a-file White is preparing active play on the other part of the board. Here
+we can talk about the "2 weaknesses" method} 28. Ne2 Nd8 29. Nh2 Bg7 30. f4 $1
+30... f6 31. f5 g5 32. Bc2 Bf7 33. Ng3 Nb7 34. Bd1 h6 35. Bh5 Qe8 36. Qd1 Nd8
+37. Ra3 Kf8 38. R1a2 Kg8 39. Ng4 Kf8 40. Ne3 Kg8 41. Bxf7+ Nxf7 42. Qh5 Nd8 43.
+Qg6 Kf8 44. Nh5 1-0
+
+[Event "Isle of Man"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Milov, V."]
+[Black "Arakhamia, K."]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/p1r1kpp1/4p3/R1p5/2P3P1/1P3K2/2P1RP2/8 w - - 0 33"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+ite has a slight advantage due to the weaknesses on a7 and c5. The win is
+difficult though, White will need to create additional weaknesses in black`s
+camp} 33. Re1 33... Rd8 34. Rea1 Rdd7 35. Ke3 g5 36. Rb5 Rd8 37. Raa5 Rdc8 38.
+f3 Kf6 39. Ke4 $1 39... Ke7 40. Ke5 $1 {provoking f7-f6 White is forcing Black
+to weaken the 7th rank and his kingside pawn formation} 40... f6+ 41. Ke4 Kf7
+42. Ke3 Ke7 43. Ra1 Rd8 44. Rba5 Rdd7 45. Rh1 Kf8 (45... f5 46. Ra6 $18) (45...
+Kd6 46. Ra6+ Ke5 47. Rh5 Rd4 48. c3 Rf4 49. Rh8 $18) 46. Ra6 Re7 (46... Ke7 47.
+Rh8 Rb7 48. Rh6 Rbc7 49. Ra5 Kf7 50. Rh7+ Ke8 51. Rh8+ Ke7 52. Rb5 Kf7 53. Rbb8
+Kg7 54. Rhg8+ Kf7 55. Rgf8+ Kg7 56. Rbc8 Re7 57. Rg8+ Kh6 58. Rge8 $18) 47. Rd1
+Kf7 48. Ke4 Rc8 49. Rd2 $1 49... Rcc7 (49... Kg6 50. Rdd6 Kf7 51. Rac6 $18) 50.
+Rd8 Kg6 51. Rdd6 Kf7 52. Rac6 $22 {the final Zugzwang} 52... Rb7 53. Rxc5 Rb8
+54. Ra5 1-0
+
+[Event "Staunton Memorial"]
+[Site "Groningen"]
+[Date "1946.09.02"]
+[Round "15"]
+[White "Tartakower, Saviely"]
+[Black "Boleslavsky, Isaak"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/p4pkp/6p1/8/r7/4N3/1b3PPP/5K2 b - - 0 35"]
+[PlyCount "0"]
+[EventDate "1946.08.13"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Reti, Richard"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/p4ppp/8/2p1pP2/1pR1B3/1PbPPKP1/P6P/8 w - - 0 31"]
+[PlyCount "0"]
+[EventDate "1925.11.10"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+ *
+
+ite bishop is better than its counterpart that defines White`s advantage.
+It`s also obvious that White`s only chances of beaking through can only be
+connected with his play on the kingside. But first White is making a very
+important preparation move.} 31. a4 {
+don`t hurry! White is getting rid of the potential weakness on a2.} 31... Ke7
+32. Bd5 Rc7 33. Rh4 h6 34. Ke4 Kf6 35. Rh5 $1 {the idea g3-g4, h2-h4, g4-g5}
+35... Rd7 36. g4 g6 37. Rxh6 Kg5 38. Rh7 Kxg4 39. Be6 $1 39... fxe6 40. fxg6
+Rd8 41. Rxa7 Kg5 42. g7 Kh6 43. a5 Kh7 44. a6 Rd6 45. h4 Be1 46. h5 Bh4 47. h6
+1-0
+
+[Event "Leningrad/Moscow"]
+[Site "Leningrad/Moscow"]
+[Date "1939.??.??"]
+[Round "13"]
+[White "Flohr, Salo"]
+[Black "Bondarevsky, Igor"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp4rp/2p2k2/3pNb2/PP1P4/4PP2/5K1R/8 w - - 0 46"]
+[PlyCount "0"]
+[EventDate "1939.01.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+ *
+
+ite has better chances as the knight is better than the bishop and
+potentially he can prepare e3-e4. But before playing e3-e4 White is trying to
+think how he can improve his position.} 46. a5 $1 {with the idea a5-a6.} 46...
+Rc7 47. Rh6+ Bg6 48. Rh1 Bf5 49. Rc1 49... a6 {
+because of a5-a6 threat this move is more or less forced} 50. Rh1 Rg7 51. Rh2
+Rc7 52. Rh6+ Bg6 53. Rh4 Bf5 54. e4 dxe4 55. fxe4 Bg6 56. Rf4+ Ke6 57. Ke3 Rg7
+58. Nd3 {this is the reason why White wanted to force a7-a6, now the knight is
+going to c5} 58... Kd6 59. Nc5 Re7 60. Rf8 Kc7 61. e5 Re8 62. Rxe8 Bxe8 63. Kf4
+b6 64. Na4 bxa5 65. bxa5 Bf7 66. Nc5 Bc4 67. Kg5 Be2 68. Kh6 Kd8 69. Kxh7 Ke7
+70. Kg6 Bf1 71. Kf5 Bh3+ 72. Ke4 Bg2+ 73. Ke3 Bf1 74. Kd2 Kf7 75. Kc3 Kg6 76.
+Kb4 Kf5 77. Nb7 1-0
+

@@ -1,0 +1,78 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.03.18"]
+[Round "?"]
+[White "5...Nc6 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B14"]
+[Annotator "RCA"]
+[PlyCount "33"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.03.18"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 {In my opinion, this is
+the move that is more in the spirit of the Caro Kann defence, because Black
+doesn't close the diagonal of his light-squared bishop. As I have already told
+you, developing this bishop is the main idea of the Caro Kann.} 6. Bg5 {
+Creating pressure on d5 and forcing Black to make a decision about the type of
+game he wants to play. Now Black has seven main alternatives; some of them are
+very easy to play with White, so don't get scared!} e6 (6... Be6 $5 {
+Developing the bishop defending d5 and putting pressure on c4. The only
+disadvantage with this move is that it blocks the "e" pawn.} 7. a3 $1 {
+Preparing to play b4 at the appropriate juncture.} (7. Nf3 Ne4 8. Nxe4 dxe4 9.
+d5 exf3 10. dxe6 Qa5+ {Leads to a draw after:} 11. Qd2 Qe5+ 12. Qe3 Qa5+ 13.
+Qd2 Qe5+ 14. Qe3) 7... Qd7 8. Be2 O-O-O (8... Rd8 {Might be better.} 9. c5 Ne4
+10. Nf3 Nxg5 11. Nxg5 {With a complicated position.}) 9. c5 {And then White
+should attack on the queen side with b4-b5 and c6 eventually.}) (6... dxc4 7.
+Bxc4 $5 {Interesting move, sacrificing a pawn for development. Now Black has
+four possibilities.} (7. d5 {Is a very good alternative} Ne5 8. Qd4 Nd3+ 9.
+Bxd3 cxd3 10. Nf3) 7... Qxd4 (7... Nxd4 8. Nf3 Nxf3+ 9. Qxf3 Qc7 10. Bb5+ Bd7
+11. O-O {With a lot of compensation for the pawn; White has the advantage.}) (
+7... e6 8. Nf3 Be7 9. O-O O-O {With an active position for White.}) (7... h6 8.
+Be3 e6 9. Nf3 Bd6 10. O-O {And White has an active position.}) 8. Qxd4 {White
+can exchange queens to win tempo in this position. The fact that the queens
+are off the board doesn't mean that White hasn't attacking options.} Nxd4 9.
+O-O-O $1 {Attacking move} e5 10. f4 {With the idea of opening up the position.}
+Bg4 11. Nf3 {Developing!} Nxf3 12. gxf3 Bxf3 13. fxe5 Bxh1 14. exf6 {Black is
+an exchange up, but White's activity compensates a lot!} Rc8 15. Re1+ $1 {Its
+more accurate because Black has lost the opportunity to castle.} (15. Bd3 {
+Isn't the best, for the reason explained.}) 15... Kd7 16. Rd1+ Ke8 17. Bd3 {We
+reach the same position, just that right now Black cannot castle.} Rxc3+ {
+Black needs to make this move to develop his f8 bishop with check at some
+point; but anyway this position is clearly better for White.} 18. bxc3 $16 {
+White's clearly better. Black pieces and king are very badly placed.}) (6...
+Qa5 7. Nf3 {Simply using the principle of least active piece and maximum
+activity.} Bg4 8. Bxf6 exf6 9. h3 Bxf3 10. Qxf3 dxc4 11. Qe3+ Be7 12. Bxc4 O-O
+13. O-O Rad8 14. Rad1 {And White has a slightly preferable position due to the
+pawn structure. Of course, the presence of opposite coloured bishops gives
+Black chances.}) (6... Qb6 7. cxd5 Nxd4 (7... Nxd5 $5 8. Nxd5 Qa5+ 9. Nc3 Qxg5
+10. Nf3 Qf4 11. d5 Ne5 12. Bb5+ Bd7 13. Bxd7+ Nxd7 14. O-O $16 {White's
+position is clearly better. He has better development, better pawn structure
+and his king is safe.}) 8. Nf3 {Simply using the principle of maximum activity
+and attacking the opponent's most active piece.} Qxb2 (8... Nxf3+ 9. Qxf3 a6
+10. Bd3 {And White is better.}) 9. Rc1 Nxf3+ 10. Qxf3 a6 11. Bd3 h6 12. Bd2 {
+And White has a lot of development for the pawn and Black's queen is misplaced.
+}) (6... Ne4 7. Nxe4 dxe4 8. d5 {Winning space and, at the same time,
+defending the "d" pawn and attacking Black's knight.} Ne5 (8... f6 9. Be3 {
+With a slightly better position for White.}) 9. Qd4 Ng4 (9... f6 10. Qxe4 Qb6
+11. O-O-O {With advantage in development for White.}) 10. c5 $1 $14 {Winning
+more space and threatening check in the a4-e8 diagonal.} e5 11. Bb5+ Bd7 12.
+Qa4 $14 {And White is putting the pressure on.}) (6... Bg4 {The most Caro Kann
+style move, but certainly not the best.} 7. Qa4 (7. f3 $1 Be6 8. c5 Qd7 9. Bb5)
+7... Nd7 (7... e6 8. h3 {Forcing Black to define his bishop.} Bh5 9. cxd5 exd5
+10. Bb5 $14 {And we have a symmetrical pawn structure with White's pieces in
+more active places.}) 8. c5 (8. Nxd5) 8... f6 9. Be3 {And White's position
+seems a little bit better. For example:} e5 10. dxe5 Ncxe5 11. b4 {And White
+is fine here.}) 7. c5 {Getting the same structure as in the 5.. .e6 variation.
+We already know how to play this structure, so this should be an advantage in
+our learning process for this variation.} Be7 (7... Bd7 8. Rb1 {Preparing b4!}
+(8. Bb5 {Isn't the best because of} b6 9. Bxc6 Bxc6 10. b4 $6 {Allows} bxc5 11.
+bxc5 Bxc5 $1 {One of the typical tactics of this variation.} 12. dxc5 d4 {
+Attacking the c3 knight and the g2 pawn.}) 8... Be7 9. Nf3 O-O 10. Bd3 {One of
+the few positions in which the bishop shouldn't go to b5. White has the normal
+modest edge in this position after 0-0 and b4.}) 8. Bb5 $1 {Of course, the
+knight is already on c6.!} Bd7 9. Nf3 O-O 10. O-O b6 11. Bxc6 Bxc6 12. Ne5 {
+Using the principle of an attack.} Rc8 13. b4 Ne4 14. Bxe7 Qxe7 15. Nxe4 dxe4
+16. Nxc6 Rxc6 17. Re1 {With advantage to White.} *
+

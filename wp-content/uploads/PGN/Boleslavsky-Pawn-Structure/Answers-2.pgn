@@ -1,0 +1,370 @@
+[Event "Norway Chess 5th"]
+[Site "Stavanger"]
+[Date "2017.06.10"]
+[Round "4"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier Lagrave, M."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2785"]
+[BlackElo "2796"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "65"]
+[EventDate "2017.06.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+[Source "ChessBase"]
+[SourceDate "2017.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 Be7 8.
+O-O O-O 9. Ng3 Be6 10. Nd5 Bxd5 11. exd5 g6 12. c4 Ne8 13. Bh6 Ng7 14. b4 Nd7
+15. Rc1 a5 16. a3 axb4 17. axb4 Ra3 {Diagram #} 18. Ne4 $1 {This is a nice
+maneuver with the idea to bring the knight to the queenside and support the
+pawn advancement there. Similarly, the knight will not be a target for the
+attack after Black's pawn storm on the kingside.} (18. Qd2 $5) (18. h3 $5) (18.
+Ne2 $5) (18. Qe2 $5) 18... f5 19. Nc3 e4 20. Be2 Bg5 21. Bxg5 Qxg5 22. c5 $1 {
+Thanks to the good positional placement of the pieces, tactics helps White and
+he can perform this breakthrough. Black cannot capture twice on c5 because White 
+can give a discovered attack with Nb5, as you can see in the sub-variation.
+} Ne5 (22... dxc5 23. bxc5 Nxc5 24. Nb5 Rd3 25. Bxd3 Nxd3 26. Rc7 f4 27. Rxg7+
+Kxg7 28. Nc7 $16 {The knight is giving the killing blow.}) 23. c6 $1 $16 {
+For the same tactical reasons, White can do this break. White has a clear
+advantage and he manages to win the game afterwards.} Nh5 (23... bxc6 $2 24.
+dxc6 Nxc6 25. Nb5 Ra6 26. Nxd6 $18) 24. Bxh5 gxh5 25. Kh1 Qh4 26. Qd4 Ng4 27.
+h3 f4 28. Kg1 e3 29. hxg4 hxg4 30. cxb7 exf2+ 31. Rxf2 g3 32. Rxf4 Qh2+ 33. Kf1
+(33. Kf1 Qh1+ 34. Ke2 Qxc1 35. Rg4+ Kf7 36. Qg7+ Ke8 37. b8=Q#) 1-0
+
+[Event "FIDE Chess.com Grand Swiss"]
+[Site "Douglas"]
+[Date "2019.10.14"]
+[Round "5"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Saric, Ivan"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2608"]
+[BlackElo "2667"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "103"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Rc8 {Diagram #} 12. a5 $1 {White prevents
+Black from getting a strong blockade on the dark squares and, after that,
+he'll start maneuvering the pieces on the queenside in order to perform his
+main goal, to advance the pawns there.} (12. Rfd1 $5) (12. f3 $5) (12. Qd3 $5)
+(12. Rfe1 $5) 12... Qc7 13. Rfc1 $1 {Before entering the Boleslavsky structure,
+he prepares his pieces. This is the best placement for the rook in order to
+overprotect the c2-pawn and help the c4 advancement.} h6 14. f3 Rfd8 15. Nd5
+Bxd5 16. exd5 Nc5 17. Ra3 $1 {A thematic move in these positions since the
+rook not only attacks the queenside, but defends the pieces on the third rank
+and, indirectly, defends the kingside.} Nxb3 18. Rxb3 Nd7 19. Rc3 Qb8 20. Rxc8
+Rxc8 21. Bd3 $14 {White has a small but stable advantage, and he manages to
+win the game afterwards.} Rc7 (21... Nc5 22. Bf5 $16) 22. b4 Qd8 23. g3 Qf8 24.
+c4 f5 25. Kg2 Kh8 26. h4 Rc8 27. Qc2 f4 28. Bf5 fxe3 29. Bxd7 Rb8 30. Qg6 e4
+31. Qxe4 b6 32. axb6 Rxb6 33. b5 axb5 34. cxb5 Rb8 35. Qxe3 Bd8 36. Rc4 Bb6 37.
+Qe6 Bc5 38. Rf4 Qg8 39. h5 Rf8 40. Rxf8 Qxf8 41. f4 Qa8 42. Qf7 Qg8 43. Be6
+Qxf7 44. Bxf7 g6 45. hxg6 Kg7 46. g4 Kf6 47. Kf3 Bb6 48. Ke4 Bc5 49. g5+ hxg5
+50. fxg5+ Ke7 51. Be6 Kf8 52. Bc8 1-0
+
+[Event "PRO League KO Stage"]
+[Site "chess.com INT"]
+[Date "2017.03.08"]
+[Round "2"]
+[White "Caruana, Fabiano"]
+[Black "Hess, Robert L"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2817"]
+[BlackElo "2571"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "93"]
+[EventDate "2017.03.01"]
+[EventType "k.o."]
+[EventRounds "5"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2017.04.27"]
+[WhiteTeam "Montreal ChessBrahs"]
+[BlackTeam "Montclair Sopranos"]
+[WhiteTeamCountry "CAN"]
+[BlackTeamCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Nc6 8. Be3
+Be6 9. Nd5 Bxd5 10. exd5 Nb4 11. c4 a5 12. Qd2 b6 {Diagram #} 13. Nc1 $1 {
+Black already blockaded the queenside, so White cannot perform an immediate
+breakthrough. For that reason, he maneuvers his pieces in order to get a
+better activity. The knight is aiming for the b5-square and it can do it via
+e2 and c3.} (13. Be2 $5) (13. a3 $5) (13. h3 $5) (13. Bf2 $5) 13... Be7 14. Ne2
+O-O 15. Nc3 Nd7 16. Be2 {
+You should always have in mind to finalize your development and castle short.}
+h6 17. O-O Nc5 18. Nb5 $14 {White achieved his strategical goal and his pieces
+are active now. He has a small plus, thanks to the pressure against the
+d6-pawn and the bishop pair.} Bg5 19. Bxg5 hxg5 20. Bd1 $5 {Black managed to
+exchange one of the bishops. However, he destroyed his pawn structure. White's
+idea now is to kick away the black knights from their grips. White has a small
+and stable advantage, and he manages to win the game afterwards.} Nba6 21. Bc2
+Qf6 22. a3 Rfc8 23. b4 Nb7 24. Bd3 Qf4 25. Qe1 axb4 26. g3 Qf6 27. axb4 Qe7 28.
+Qd2 Nc7 29. Nxc7 Qxc7 30. Qxg5 b5 31. Rxa8 Rxa8 32. Rc1 bxc4 33. Rxc4 Qb6+ 34.
+Kg2 Ra2+ 35. Kh3 g6 36. Bxg6 Rxh2+ 37. Kg4 fxg6 38. Qxg6+ Kf8 39. Qf6+ Ke8 40.
+Qe6+ Kf8 41. f4 Rh7 42. Qf6+ Ke8 43. fxe5 Rf7 44. Qg6 Kf8 45. e6 Rg7 46. e7+
+Rxe7 47. Rf4+ 1-0
+
+[Event "Budapest Spring op"]
+[Site "Budapest"]
+[Date "2018.04.23"]
+[Round "6"]
+[White "Jarmula, Lukasz"]
+[Black "Nestorovic, Lazar"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2492"]
+[BlackElo "2382"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "79"]
+[EventDate "2018.04.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2018.06.28"]
+[WhiteTeam "Canada"]
+[BlackTeam "United States"]
+[WhiteTeamCountry "CAN"]
+[BlackTeamCountry "USA"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Nxd5 10. exd5 Bf5 11. O-O O-O 12. Qd2 Nd7 {Diagram #} 13. Na5 $1 {
+In this position, White cannot blockade the queenside pawns with the a4 and a5
+move. However, he has another nice maneuver in order to immobilize Black's
+pawns. After Na5, Black cannot play b6 because they will leave the c6-square
+unprotected.} (13. f3 $5) (13. c4 $5) (13. Rac1 $5) (13. a4 $5) (13. f4 $5)
+13... Rb8 14. c4 h6 15. b4 {White has time to advance his queenside pawns.} Bg5
+16. Bxg5 hxg5 17. Rac1 $16 {Everything is ready now and White has a clear
+advantage because he can move forward his statistical plan, to push forward
+the queenside pawns. He used his advantage in order to win the game afterwards.
+} g4 18. c5 dxc5 19. bxc5 Nf6 20. Rfd1 Be4 21. c6 $1 Qxd5 22. Qxd5 Bxd5 23.
+Rxd5 $1 Nxd5 24. cxb7 e4 25. Bxa6 Nb4 26. Bc4 Nd3 27. Rb1 Ne5 28. Bd5 Rfd8 29.
+Rb5 Rd6 30. Kf1 Kf8 31. Bxe4 f6 32. Rc5 g5 33. Rc8+ Rd8 34. Bf5 Ke7 35. Bxg4
+Kd6 36. Bf5 Nd7 37. Nc4+ Ke7 38. Rc7 Ke8 39. Nd6+ Ke7 40. Ne4 1-0
+
+[Event "PRO League All Stars St2"]
+[Site "chess.com INT"]
+[Date "2018.09.08"]
+[Round "1.4"]
+[White "Vachier Lagrave, M."]
+[Black "Andriasian, Zaven"]
+[Result "1-0"]
+[ECO "B91"]
+[WhiteElo "2780"]
+[BlackElo "2603"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "103"]
+[EventDate "2018.09.08"]
+[EventType "schev"]
+[EventRounds "5"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Central"]
+[BlackTeam "Eastern"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+O-O 9. O-O Be6 10. a4 Nbd7 11. Re1 Rc8 12. Nd2 Qc7 13. Nf1 Rfd8 14. Ne3 Bf8 {
+Diagram #} 15. a5 $1 {If you have the opportunity, it's important to blockade
+Black's queenside pawns in order to limit his counterplay.} (15. Bd2 $5) (15.
+Ncd5 $5) (15. Qe2 $5) (15. h3 $5) 15... g6 16. Ncd5 $1 {Now it's time to
+change the structure in order to achieve a favorable variation.} Bxd5 17. exd5
+Bg7 18. Ra3 $1 {We can see again the same rook lift. The rook will help the
+attack on the queenside and also the defense on the other side of the board.}
+Re8 19. b4 h5 20. Bb2 {This is an interesting move, but it was even better to
+relocate the light-squared bishop to the f1-a6 diagonal. After a fighting game,
+he managed to collect the full point of the victory.} (20. Bf1 $5 Ng4 21. Nxg4
+hxg4 22. c4 f5 23. h3 gxh3 24. g4 $1 Nf6 25. gxf5 gxf5 26. Rxh3 $36 {
+And he is also counterattacking on the kingside.}) 20... Bh6 21. Re2 Ng4 22.
+Nxg4 hxg4 23. h3 gxh3 24. Bxh3 Qd8 25. Qd3 f5 26. c4 e4 27. Qd4 Ne5 28. c5 Bg7
+29. Kg2 Rc7 30. Qd1 Rd7 31. c6 Rc7 32. Rc2 Rf8 33. Bd4 Qg5 34. Bb6 Rcf7 35. Be3
+f4 36. Bxf4 Rxf4 37. c7 Nd3 38. c8=Q Kh7 39. Qxf8 Rxf8 40. Bg4 Qxd5 41. Kg1 Bd4
+42. Raa2 Qe5 43. Kh2 Kg7 44. Rc7+ Kf6 45. f4 Nxf4 46. gxf4 Qxf4+ 47. Kg2 Rh8
+48. Qxd4+ Kg5 49. Qxh8 Qxg4+ 50. Kh1 Qd1+ 51. Kh2 Qf3 52. Rg2+ 1-0
+
+[Event "Medias king blitz 11th"]
+[Site "Medias"]
+[Date "2017.11.28"]
+[Round "10"]
+[White "Karjakin, Sergey"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2760"]
+[BlackElo "2729"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "59"]
+[EventDate "2017.11.28"]
+[EventType "tourn (blitz)"]
+[EventRounds "12"]
+[EventCountry "ROM"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "2017.12.12"]
+[WhiteTeam "United States"]
+[BlackTeam "United States"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Nc6 10. Re1 Be6 11. Nd5 Bxd5 12. exd5 Nb8 13. a4 Nbd7 {Diagram #}
+14. a5 $1 {He's avoiding Black's counterplay and also fixing the b7-pawn.
+Please notice that White has the two-bishop advantage, but he cannot use it
+right now.} (14. c3 $5) (14. Bd3 $2) (14. Bb3 $5) (14. h3 $5) 14... Ng4 15. Bc1
+f5 16. Bf1 {This could seem strange to you, but bishops are long-range pieces
+and they can execute pressure from a long distance.} Bf6 17. h3 Nh6 18. c4 {
+Black didn't create any real problems against White's kingside and, for that
+reason, he starts promoting his queenside pawns.} Nf7 19. b4 $1 {
+It's important to begin with the queenside advance without delay.} Ng5 (19...
+e4 20. Nd4 {The e4 move look nice, threatening the rook and knight. However,
+it surrender the d4-square and, in reality, White improves his position.} Re8
+21. Ra3 Bxd4 22. Qxd4 Nf6 23. f4 $16) 20. Nxg5 Bxg5 21. c5 $1 $14 {The right 
+time came and White managed to successfully create the breakthrough. He has the
+advantage and he manages to win the game afterwards.} Bxc1 (21... dxc5 22. bxc5
+Nxc5 23. Bxg5 Qxg5 24. d6 Nd7 25. Qd5+ Kh8 26. Qxb7 $18) 22. Rxc1 Nf6 23. c6
+Qc7 24. Qb3 e4 25. cxb7 Qxb7 26. Rc6 Rfb8 27. Rxd6 Qe7 28. Rxa6 Rxa6 29. d6+
+Qf7 30. Bc4 1-0
+
+[Event "Linares 18th"]
+[Site "Linares"]
+[Date "2001.03.06"]
+[Round "10"]
+[White "Shirov, Alexei"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2718"]
+[BlackElo "2676"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "117"]
+[EventDate "2001.02.23"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ESP"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2001.05.17"]
+[WhiteTeam "United States"]
+[BlackTeam "United States"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Nbd7 10. Qd3 Bxd5 11. exd5 Rc8 12. c4 O-O 13. O-O a5 14. Rad1 b6 {
+Diagram #} 15. Nd2 $5 {Black manages to block the queensside pawns
+successfully in order to eliminate White's main plan. With his last move, Nd2,
+White started a long maneuver in order to transfer the knight to b5 via b1 and
+c3. Please also notice that this maneuver frees the b-pawn to advance forward.}
+(15. h3 $5) (15. a4 $5) (15. Rfe1 $5) (15. Qc2 $5) (15. Rc1 $5) 15... Nc5 16.
+Qc2 Nfd7 17. f3 $5 {White has two main moves in order to stop Black's kingside
+attack, f3 and f4. He chooses the f3 in order control the center and continue
+with his maneuver on the queenside.} Bg5 18. Bf2 {Of course, it's better to
+keep the dark-squared bishop because this piece could be more active in the
+future. Black's dark-squared bishop is located behind its own pawns; that
+limites their activity.} f5 19. Kh1 Qf6 20. Nb1 $1 {
+White is continuing with his original plan.} Qh6 21. Nc3 Rce8 22. a3 $14 {
+Of course, we should remember that the main plan is to activate the queenside
+pawns.} e4 23. b4 e3 24. Be1 Nb7 25. Nb5 $14 {White achived his goal, to
+transfer the knight to b5 and he has a very pleasant position. After a long
+fight, he managed to win the game.} f4 26. Nc7 Re5 27. Bc3 Re7 28. Ne6 Ra8 29.
+Qf5 Bh4 30. Qg4 Bf6 31. Bxf6 Qxf6 32. Nxf4 Qb2 33. Qh4 Rf7 34. Bd3 Nf8 35. Rfe1
+Qxa3 36. Ne6 g6 37. Ng5 Rg7 38. Qd4 Qxb4 39. Ne4 Nc5 40. Rb1 Qa3 41. Nf6+ Kh8
+42. Rxe3 Nxd3 43. Ne8 Rxe8 44. Rxe8 Kg8 45. Re3 Nf2+ 46. Kg1 Qa4 47. Re2 Rc7
+48. Kxf2 Rxc4 49. Qxb6 Rc5 50. Qxd6 Qd4+ 51. Kg3 Rxd5 52. Qf4 Qc5 53. Rc1 Rg5+
+54. Kh4 Rh5+ 55. Kg4 Qd5 56. Rd2 Qe6+ 57. Kg3 a4 58. Qc4 Ra5 59. Re2 1-0
+
+[Event "GRE-chT 45th"]
+[Site "Achaia"]
+[Date "2017.07.06"]
+[Round "5.12"]
+[White "Czarnota, Pawel"]
+[Black "Grigorov, Grigor"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2557"]
+[BlackElo "2503"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "2017.07.03"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2017.08.23"]
+[WhiteTeam "Rhodes knight"]
+[BlackTeam "Orekastro Marion Thunder"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Nxd5 10. exd5 Bf5 11. Qd2 O-O 12. O-O Bg6 13. c4 a5 14. Rad1 Nd7 {
+Diagram #} 15. Nc1 $1 {White performed a typical maneuver in order to relocate
+the knight and start promoting his queenside pawns.} (15. a4 $5) (15. f4 $5) (
+15. Na1 $5) (15. Rfe1 $5) 15... b6 16. a3 Nc5 17. b4 $5 {As in the previous
+example, White can play the f3 move or to attack immediately on the queenside,
+using his pieces activity.} (17. f3 $5) 17... axb4 18. axb4 Ne4 19. Qb2 f5 20.
+f4 {This is a very nice, strong and typical move that stops Black's kingside
+attack. In some lines, Black gets a passed pawn, but this is not dangerous.} (
+20. f3 $6 f4 $1 21. Bxf4 Rxf4 22. fxe4 Rxf1+ 23. Rxf1 Bxe4 $15 {
+Black has a small advantage here.}) 20... exf4 21. Bd4 $1 $14 {White has a
+small but stable advantage because Black's attack on the queenside stopped. He
+will recover the f4-pawn soon, and Black cannot stop the c5 advancement. He
+managed to win the game afterwards.} Bf6 22. Nd3 Bxd4+ 23. Qxd4 Qf6 24. Qxf6
+Rxf6 25. Nxf4 Rf7 26. Bd3 Ra4 27. Ne6 h6 28. Ra1 Rfa7 29. Rxa4 Rxa4 30. Bxe4
+fxe4 31. c5 bxc5 32. bxc5 dxc5 33. d6 Ra7 34. Rf8+ Kh7 35. Nxc5 Ra1+ 36. Kf2
+1-0
+
+[Event "Chigorin Memorial blitz 24th"]
+[Site "St Petersburg"]
+[Date "2016.10.14"]
+[Round "2"]
+[White "Saveliev, Alexei"]
+[Black "Sjugirov, Sanan"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2392"]
+[BlackElo "2660"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "69"]
+[EventDate "2016.10.14"]
+[EventType "swiss (blitz)"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2016.10.25"]
+[WhiteTeam "Greece"]
+[BlackTeam "Greece"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Bxd5 10. exd5 Nbd7 11. O-O O-O 12. Qd3 Ne8 13. c4 f5 {Diagram #} 14.
+f4 $5 {White has plenty of good options here, but his position is a little
+more complicated because Black already started a queenside attack. For that
+reason, he'll stop the advancement of the queenside pawns first, and next,
+he'll promote his queenside strategical plan.} (14. g3 $5) (14. Rac1 $5) (14.
+Qc3 $5) (14. Rae1 $5) 14... Rc8 15. Rac1 g6 16. fxe5 $1 {White uses the
+momentum in order to destroy Black's central control. As you can see in the
+sub-variation, Black cannot recapture with the d-pawn.} Nxe5 (16... dxe5 17. c5
+$16 {White's pawn phalanx is very strong and can get a clear advantage.}) 17.
+Qd2 Bf6 $6 (17... Nf6 18. Qb4 Ne4 19. Bb6 Qd7 20. Nd4 Ng5 $13 {
+The position is unclear.}) 18. c5 $1 $14 {This is the right moment to advance
+the pawns. White took his opportunity and he has the advantage. He managed to
+win the game afterwards.} Bg7 19. Na5 Qe7 20. c6 b5 21. a4 $1 Nc7 22. Bb6 bxa4
+23. Rfe1 f4 24. Kh1 Rb8 25. Bxc7 Qxc7 26. Nb7 g5 (26... f3 $1 27. Bxf3 Nxf3 28.
+gxf3 Rxf3 29. Qe2 Rbf8 30. Qe6+ Kh8 31. Qxd6 Qf7 32. Nd8 Qf5 33. Ne6 (33. c7 $4
+Rf1+ $3 34. Rxf1 Qe4+ 35. Kg1 Bd4+ 36. Rf2 Bxf2+ 37. Kf1 Qd3+ 38. Kg2 Qf3+ 39.
+Kf1 Be3+ 40. Ke1 Qf1#) 33... Rf2 34. Kg1 Rxb2 35. Qg3 Qxd5 36. c7) 27. Qb4 Rf6
+28. Bxa6 g4 29. Rxe5 $1 $18 f3 (29... dxe5 30. d6 Qc8 31. d7 Qc7 32. d8=Q+ Rxd8
+33. Nxd8 Qxd8 34. c7 $18) 30. Re6 fxg2+ 31. Kxg2 Rf3 32. Rce1 Qf7 33. Qxg4 Rf8
+34. Nxd6 Rf2+ 35. Kg1 1-0
+

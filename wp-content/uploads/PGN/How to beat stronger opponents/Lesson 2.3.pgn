@@ -1,0 +1,43 @@
+[Event "?"]
+[Site "?"]
+[Date "2015.10.05"]
+[Round "?"]
+[White "Example-1"]
+[Black "?"]
+[Result "*"]
+[ECO "C09"]
+[PlyCount "23"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. dxc5 Bxc5 7. Bd3 Nge7
+8. O-O O-O 9. c3 {Diagram #} Bg4 $2 10. Bxh7+ $1 Kxh7 11. Ng5+ Kg8 12. Qxg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.05"]
+[Round "?"]
+[White "Example-2"]
+[Black "?"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "17"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nge7 5. d3 d6 6. O-O Bg4 {Diagram #} 7.
+Bxf7+ Kxf7 8. Ng5+ Kg8 9. Qxg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.11.25"]
+[Round "?"]
+[White "Example-3"]
+[Black "?"]
+[Result "*"]
+[ECO "B05"]
+[PlyCount "15"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.11.25"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Bc4 Nb6 {Diagram #} 6. Bxf7+ Kxf7 7.
+Ng5+ Ke8 8. Qxg4 *
+

@@ -1,0 +1,32 @@
+2022-03-19T23:04:01+00:00 CRITICAL Uncaught Error: Call to a member function get_user_id() on bool in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php:24
+Stack trace:
+#0 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(55267)
+#3 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrappe in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php on line 24
+
+2022-03-19T23:04:30+00:00 CRITICAL Uncaught Error: Call to a member function get_user_id() on bool in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php:24
+Stack trace:
+#0 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(55267)
+#3 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrappe in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php on line 24
+
+2022-03-19T23:04:41+00:00 CRITICAL Uncaught Error: Call to a member function get_user_id() on bool in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php:24
+Stack trace:
+#0 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(55267)
+#3 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrappe in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php on line 24
+
+2022-03-19T23:06:32+00:00 CRITICAL Uncaught Error: Call to a member function get_user_id() on bool in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php:24
+Stack trace:
+#0 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#2 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(55267)
+#3 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrappe in /home2/lalpksmy/public_html/online-chess-teacher-com/wp-content/themes/edumall/woocommerce/checkout/thankyou.php on line 24
+

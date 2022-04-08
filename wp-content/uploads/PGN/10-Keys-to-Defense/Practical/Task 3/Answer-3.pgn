@@ -1,0 +1,211 @@
+[Event "ISR-ch"]
+[Site "Ramat Aviv"]
+[Date "1998.11.10"]
+[Round "2.1"]
+[White "Gruenfeld, Yehuda"]
+[Black "Mikhalevski, Victor"]
+[Result "1/2-1/2"]
+[ECO "C82"]
+[WhiteElo "2475"]
+[BlackElo "2540"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "116"]
+[EventDate "1998.11.08"]
+[EventRounds "5"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "1999.02.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 Bg4 12. Re1 O-O 13. Nf1 d4 14. h3 Bh5 15.
+Ng3 Bxf3 16. Qxf3 d3 17. b4 dxc2 18. bxc5 Nxe5 19. Rxe5 Qd1+ 20. Kh2 Bf6 {
+Diagram #} 21. Rf5 $1 {Black sacrifices a piece in order to get a powerful
+pawn on c2 and destroy White's pawn structure on the queenside. Nonetheless,
+the rook on f5 is very strong because White stopped all of Black's threats,
+and now he is threatening to capture on f6. Black's attack stopped because his
+pieces are not coordinated.} Rfe8 22. Rxf6 $5 (22. Nh5 $5 {This is another
+very nice attacking idea.}) 22... gxf6 23. Qxf6 $6 (23. Bh6 $1 {This is a more
+practical choice.} Qxf3 (23... Qxa1 24. Qg4+ Kh8 25. Qg7#) 24. gxf3 $16 {The
+c2-pawn is doomed and White will play Rc1. Black's king has problems as well;
+thus White is better.}) 23... Re6 24. Qg5+ {Black can take some tempi now with
+the rook and this rook will be more active.} Rg6 25. Qe5 Re6 26. Qxc7 Qe1 27.
+a4 Rf8 28. axb5 axb5 29. Nf5 $6 {It
+wasn't necessary to sacrifice a pawn. Qf4 was better. The minor pieces are
+coordinating better. White has a winning advantage here. After Qf4, White's
+idea is to exchange queens.} Qxf2 30. Nh6+ Kg7 31. Ng4 Qf5 32. Qg3 Rg6 33. Qe3
+h5 34. Qd4+ Kh7 35. Ne3 Qg5 36. Qd2 Qg3+ 37. Kg1 Re8 38. Qf2 Qxf2+ 39. Kxf2
+Rf6+ 40. Ke2 Rc6 41. Ra2 Rxc5 42. Rxc2 Re6 43. Kd1 Rce5 44. Rf2 Rxe3 45. Bxe3
+Rxe3 46. Kd2 Re7 47. Rf5 Ra7 48. Rxh5+ Kg6 49. g4 Ra2+ 50. Kd3 Rb2 51. Rh8 Kg7
+52. Rb8 Rh2 53. Rxb5 Rxh3+ 54. Kc2 Rg3 55. Rg5+ Kf8 56. Kb3 f6 57. Rf5 Rxg4 58.
+Rxf6+ Ke7 1/2-1/2
+
+[Event "Ostrava m"]
+[Site "Ostrava"]
+[Date "1998.11.16"]
+[Round "3"]
+[White "Hracek, Zbynek"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[ECO "B81"]
+[WhiteElo "2615"]
+[BlackElo "2720"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "64"]
+[EventDate "1998.11.14"]
+[EventRounds "6"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "1999.02.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. Be3 a6 8. Bg2
+Nc6 9. h3 Ne5 10. Qe2 Qc7 11. f4 Nc4 12. O-O-O Bd7 13. Kb1 Rc8 14. Bc1 b5 15.
+Rhe1 Be7 16. g5 hxg5 17. fxg5 Nh5 18. g6 fxg6 19. Bf3 b4 {Diagram #} 20. Bxh5
+$5 {White is a pawn down and his king isn't very safe. He should find
+counterplay, so he should create threats against Black's king. In order to
+create counterattack, he should sacrifice material; for that, he didn't defend
+the c3-knight.} (20. Qg2 $6 bxc3 21. Qxg6+ Kd8 22. Bxh5 cxb2 $40) (20. Nxe6 $6
+Bxe6 21. Nd5 Qc5 $17) 20... gxh5 (20... Rxh5 $6 21. Qg2 $132) 21. Qg2 $5 {
+Black's king is in the center and his pieces are disorganized. For that reason,
+White has a lot of counterplay.} (21. b3 $5 bxc3 22. bxc4 Qxc4 23. Qg2 O-O $19)
+21... bxc3 $5 (21... O-O $5) (21... Bf6 $2 22. Qg6+ $44) 22. Qxg7 Rf8 23. Bg5
+$1 {He is creating a mate threat and he'd like to exchange a key defender.
+Black has coordination problems and White is using it in order to generate
+counterattack.} (23. Rf1 Qb6 24. b3 Nd2+ $1 25. Bxd2 cxd2 $19) 23... Rf7 $6 (
+23... Bxg5 $5 24. Qg6+ Rf7 25. Rf1 Bf6 26. Rxf6 Ne5 27. Qxh5 $44) 24. Qg8+ Bf8
+25. Rf1 {The rook on f7 is under attack and White's pieces are joining the
+party very fast.} (25. b3 $2 Rg7 $19) 25... Bc6 26. Nxc6 $2 (26. Qg6 $5) (26.
+Nxe6 $2 Na3+ $1 27. Kc1 cxb2+ 28. Kxb2 Rb8+ 29. Kc1 Rb1+ 30. Kd2 Qa5+ $19) (26.
+b3 $1 {This was the best move because it delays Black's attack. White has
+compensation for the sacrificed piece. But the game continuation has better
+chances for Black.}) 26... cxb2 $1 $17 27. Qg6 Na3+ 28. Kxb2 Qb7+ 29. Kc1 Rxc6
+30. Qxe6+ Qe7 31. Rxd6 Rxc2+ 32. Kd1 Rxf1# 0-1
+
+[Event "MK Cafe Cup-A"]
+[Site "Koszalin"]
+[Date "1999.08.10"]
+[Round "7"]
+[White "Pinski, Jan"]
+[Black "Pedzich, Dominik"]
+[Result "0-1"]
+[ECO "B89"]
+[WhiteElo "2444"]
+[BlackElo "2428"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "50"]
+[EventDate "1999.08.03"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "1999.12.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Nc6 7. Bc4 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 O-O 11. Rhg1 Nd7 12. g4 Nc5 13. g5 Bd7 14. f4 b5
+15. Qh5 g6 16. Qh6 Rfc8 17. Rg3 Bf8 18. Qh4 b4 19. Nf5 {Diagram #} Nxb3+ $5 {
+White has a dangerous attack and many of his pieces are concentraiting on the
+kingside. Thus, Black should find a counterthreat right now. The b-pawn is
+really powerful and can destroy White's pawn shield. The move that was played
+is good but even better was to capture immediately the c3-knight.} (19... gxf5
+$2 20. Rh3 h6 21. gxh6 Kh7 (21... bxc3 22. Qg5+ Kh7 23. Rg1 cxb2+ 24. Kb1 Ne7
+25. Qg7+ Bxg7 26. hxg7+ Kg8 27. Rh8#) 22. Qf6 $40) (19... exf5 $2 20. Nd5 Qd8
+21. Nf6+ $18) (19... bxc3 $1 20. Rh3 (20. Bxc5 exf5 21. Rh3 cxb2+ 22. Kb1 h5
+23. gxh6 Be7 $17) 20... h5 21. gxh6 Nxe4 22. h7+ Kh8 $19) 20. axb3 (20. cxb3 h5
+21. gxh6 exf5 22. Nd5 Qd8 $17 {Black is clearly better.}) 20... bxc3 21. Nh6+
+$2 {Here it was the last chance for White to fight for the initiative, with
+the Rh3 move. After Nh6, the move in the game, things turn badly for him
+because Black's attack is stronger.} (21. Rh3 $1) 21... Bxh6 22. Qxh6 (22. gxh6
+cxb2+ {Black can open lines faster and White's king is in danger.}) 22... Nb4
+$19 {Black's attack is stronger and faster, so he manages to win the game
+after some moves.} 23. Bd4 (23. Rg2 cxb2+ 24. Kxb2 (24. Kb1 Qa5 $19) 24... Qc3+
+25. Kb1 Nxc2 $19) 23... cxb2+ 24. Kd2 (24. Kxb2 Qxc2+ 25. Ka3 Qa2+ 26. Kxb4 a5#
+) 24... Qxc2+ 25. Ke1 Qxd1+ $1 (25... Qxd1+ $1 26. Kxd1 b1=Q+ 27. Ke2 Rc2+ 28.
+Kf3 Qd1+ 29. Ke3 Qe2#) 0-1
+
+[Event "Moscow Aeroflot op"]
+[Site "Moscow"]
+[Date "2002.02.05"]
+[Round "2"]
+[White "Kosteniuk, Alexandra"]
+[Black "Psakhis, Lev"]
+[Result "0-1"]
+[ECO "C08"]
+[WhiteElo "2469"]
+[BlackElo "2572"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "76"]
+[EventDate "2002.02.04"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2002.03.21"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 c4 6. a4 Nc6 $146 7. b3 cxb3
+8. Nxb3 Bg4 9. Be2 Bd6 10. O-O Nge7 11. Ne5 Bxe2 12. Qxe2 O-O 13. f4 Qc7 14.
+Bb2 Rae8 15. Rae1 f6 16. Nd3 Qc8 17. Qf3 b6 18. f5 Qa6 19. Re6 Rd8 20. Qh5 Qc4
+21. Re3 Kh8 22. Rh3 h6 23. Rf2 Ng8 24. Bc1 Rfe8 25. g4 {Diagram #} Nb4 $1 {
+White is threatening g5 and f6, as you can see in the sub-variation. Thus,
+Black should act fast. Similarly, we should try to exchange the potentially
+dangerous knight on d3. So, the correct move is Nb4.} (25... Nxd4 $2 26. g5
+Nxb3 (26... fxg5 27. Bxg5 Rc8 28. f6 $40) 27. gxh6 $1 $18) (25... -- 26. g5
+fxg5 27. Bxg5 Rc8 28. f6 $40) 26. g5 (26. Nxb4 $5 Bxb4 27. g5 fxg5 28. f6 (28.
+Bxg5 Re1+ 29. Kg2 Be7 30. f6 Bxf6 31. Bxf6 gxf6 $132 {Black stopped the
+immediate threats and White's king is open.} (31... Nxf6 $2 32. Rxf6 $18))
+28... gxf6 29. Qg6 Re1+ 30. Kg2 Rd7 $19) 26... fxg5 27. f6 Nxd3 $1 {It was
+nessesary to eliminate that knight and create threats. Black has some ideas to
+block the f-file with a minor piece on f4. Similarly, he continues to exchange
+pieces in order to reduce White's attacking possibilities.} (27... gxf6 $2 28.
+Rxf6 $1 Bf8 29. Bxg5 $1 Nxd3 30. Rxh6+ Bxh6 31. Bf6+ Nxf6 32. Qxh6+ Kg8 33.
+Qg6+ Kf8 34. Qxf6+ Kg8 35. Rh8#) 28. fxg7+ (28. Qg6 {Interesting try, but it's
+not working.} Re1+ 29. Kg2 Nxf6 30. Rxh6+ Kg8 31. cxd3 Qc8 32. h3 (32. Rxf6
+Qg4+ 33. Kf2 Qe2#) 32... Bf4 $17) 28... Kh7 $8 {This is the best defensive
+move in order to keep the position close and overprotect the h6-pawn.} (28...
+Kxg7 $2 29. cxd3 Re1+ 30. Kg2 Qc6 31. Bxg5 $40) 29. Rxd3 (29. cxd3 Qxb3 30.
+Qxg5 (30. Bxg5 Re1+ 31. Kg2 Qb1 32. Bxh6 Rg1+ $1 {Black is just in time to
+create a strong attack.}) 30... Re6 $1 $19) 29... Re7 $5 {This is interesting,
+but the sub-variation should be better. Black manages to win the game
+afterwards.} (29... Re1+ $1 30. Kg2 Rd7 $17 {Black annihilate White's attack
+and now he has better chances.}) 30. Bxg5 Rxg7 31. Rf7 Qxc2 32. Rxg7+ Kxg7 33.
+Rh3 hxg5 34. Qh8+ Kf8 35. Rh7 Qd1+ 36. Kg2 Qg4+ 37. Kf2 Qf5+ 38. Kg1 Qf6 0-1
+
+[Event "Bundesliga 0304"]
+[Site "Germany"]
+[Date "2004.03.27"]
+[Round "12.5"]
+[White "Gurevich, Mikhail"]
+[Black "Schmaltz, Roland"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2656"]
+[BlackElo "2519"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "112"]
+[EventDate "2003.11.01"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2004.06.01"]
+[WhiteTeam "Porz"]
+[BlackTeam "Baden Oos"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8. e4 a6
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 O-O 12. Rc1 Re8 13. g4 Bf8 14. g5 Nfd7 15. f4
+Nc6 16. Nf3 Rac8 17. h4 Qb8 $146 18. b3 Nc5 19. h5 Nb4 20. g6 {Diagram #} Nbd3
+$1 {Black is on the defense, and he should be careful on the kingside. The
+line could transpose to each other, but this is the best starting move. It's a
+counterattacking move, forking the rooks.} (20... fxg6 $5 21. hxg6 hxg6 (21...
+h6 $5) 22. Ng5 $1 Nbd3 23. Qg4 Be7 24. Nxe6 $13 {Unclear.}) (20... h6 $6 21.
+gxf7+ Kxf7 22. Rf1 $14 Nxe4 $2 23. Nxe4 Bxe4 24. Ng5+ hxg5 25. Bxe4 $40) (20...
+hxg6 21. hxg6 fxg6 22. Ng5 {Transposition.}) 21. Ng5 (21. Bxc5 $6 Nxe1 $17) (
+21. gxf7+ Kxf7 22. Ng5+ Kg8 23. Qg4 Qc7 $5 $17) 21... fxg6 22. hxg6 h6 $1 {
+This is the most solid set up. Black tries to keep close the lines and, at the
+same time, he'll win the exchange.} 23. Rf1 Nxc1 (23... hxg5 $4 24. Qh5 Be7 25.
+Qh7+ Kf8 26. Qh8#) 24. Bxc1 Rc7 $5 (24... b5 $5 {This was a better and more
+active move, typical in this pawn structure. After a long fight, Black manages
+to win the game.}) 25. Bh3 Rce7 26. f5 $1 d5 27. Bf4 e5 28. Bc1 d4 29. Nd5 Bxd5
+30. cxd5 Nd7 31. f6 Nxf6 32. Be6+ Rxe6 33. Nxe6 Rxe6 34. dxe6 Qe8 35. Rxf6 gxf6
+36. Qh5 Qxe6 37. Kf1 Qd7 38. Bxh6 Bxh6 39. Qxh6 Qg7 40. Qh5 Qh8 41. Qg4 Qh1+
+42. Kf2 Qh2+ 43. Kf3 Qh1+ 44. Kf2 Kg7 45. Qd7+ Kxg6 46. Qe8+ Kg5 47. Qg8+ Kf4
+48. Qg3+ Kxe4 49. Qg6+ Kd5 50. Qf7+ Kc5 51. Qxf6 Qh2+ 52. Ke1 Qg1+ 53. Kd2 Qe3+
+54. Kd1 d3 55. b4+ Kxb4 56. a3+ Ka5 0-1
+

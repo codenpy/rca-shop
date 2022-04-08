@@ -1,0 +1,104 @@
+[Event "EU-ch U16"]
+[Site "Urgup"]
+[Date "2004.07.??"]
+[Round "2"]
+[White "Ris, Robert"]
+[Black "Mikkelsen, Nikolaj"]
+[Result "1-0"]
+[ECO "B77"]
+[WhiteElo "2336"]
+[BlackElo "2167"]
+[PlyCount "77"]
+[EventDate "2004.08.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2004.11.15"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6 7. Qd2 Nf6 8. f3
+O-O 9. Bc4 Nd7 10. O-O-O Nb6 11. Bb3 Na5 12. Qd3 Bd7 13. h4 Rc8 14. h5 Nbc4 15.
+hxg6 hxg6 16. Bg5 Nxb3+ 17. cxb3 Ne5 18. Qd2 f6 19. Bh6 Nf7 20. Be3 Qa5 21. Kb1
+Rfe8 22. g4 Ne5 23. g5 f5 24. Qg2 Nc6 25. Nd5 Nb4 26. Nxb4 Qxb4 {Diagram #} 27.
+exf5 (27. Qh3) 27... Bxd4 28. Rxd4 Bxf5+ 29. Ka1 Qb5 30. Rd2 (30. Rdh4 Kf7)
+30... Rc6 31. Bd4 Kf7 32. Bc3 (32. Re2 e5) 32... Ke6 (32... Qxb3 33. Rh7+ Ke6
+34. Qe2+) 33. f4 Ra6 34. Qe2+ Qxe2 35. Rxe2+ Kd7 36. Rh7 Rc6 37. a4 d5 38. Re5
+Be4 39. Ka2 1-0
+
+[Event "82nd Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "Duda, J."]
+[Black "Artemiev, V."]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2758"]
+[BlackElo "2731"]
+[Annotator "Robert Ris"]
+[SetUp "1"]
+[FEN "2qbrrk1/pp3ppp/2p1bn2/3nR1B1/3P4/2N2N1P/PPBQ1PP1/4R1K1 w - - 0 19"]
+[PlyCount "68"]
+[EventDate "2020.01.10"]
+
+19. Bh6 Ne7 (19... gxh6 20. Qxh6) 20. Ne4 (20. Bg5) (20. Qg5) 20... Nf5 (20...
+Nxe4 21. R1xe4 Ng6 22. Rh5 Bf6 23. Rf4 Nxf4 24. Qxf4) 21. Bxg7 Nxe4 (21... Kxg7
+22. Qg5+) (21... Nxg7 22. Nxf6+ Bxf6 23. Qh6) 22. R1xe4 Nxg7 (22... Kxg7 23.
+Rg4+ Kh8 24. Qf4 Bc7 25. Rh4 Bxe5 26. Nxe5 Nxh4 27. Qf6+ Kg8) 23. Qh6 f5 $1 (
+23... f6 24. Rg4 Bxg4 25. Qxh7+ Kf7 26. Bg6#) (23... Bf5 24. Rxf5 Rxe4 25. Bxe4
+Nxf5 26. Qh5 Qc7 27. Bxf5 f6) 24. Rg4 Bf6 (24... fxg4 $1 25. Qxh7+ (25. Bxh7+
+Kf7 26. Bg6+ Ke7 27. Qxg7+ Kd6 28. Nd2 (28. Bxe8 Rxe8 29. hxg4 Qd7) 28... Qd7 (
+28... Bd5 29. Rxe8) 29. Ne4+ Kc7) 25... Kf7 26. Bg6+ (26. Qg6+) 26... Ke7 $1 (
+26... Kf6 27. Ng5 (27. Nd2 Bd5) 27... Bd5 (27... Rh8 28. Ne4+ Ke7 29. Qxg7#)
+28. Bxe8) 27. Qxg7+ Kd6 28. Nd2 (28. Bxe8 Rxe8 29. Ng5 (29. Nd2 Qd7) 29... Bxg5
+) 28... Qd7 29. Ne4+ Kc7 30. Qxd7+ Bxd7 31. Bxe8 Rxe8) 25. Ng5 Bxg5 26. Rxg5
+Qd7 (26... Rf7 $1 27. g4 Kh8 28. gxf5 Nxf5 29. Bxf5 Bxf5 30. Rexf5 Qxf5 31.
+Rxf5 Rxf5) 27. d5 cxd5 (27... Bxd5 28. Bxf5) 28. Ba4 Qf7 29. Bxe8 Rxe8 30. Rxe6
+Rxe6 31. Rxg7+ Qxg7 32. Qxe6+ Qf7 33. Qxf7+ (33. Qd6) 33... Kxf7 34. Kf1 Ke6
+35. Ke2 f4 36. g4 fxg3 37. fxg3 Ke5 38. Ke3 d4+ 39. Kf3 Kf5 40. g4+ Kg5 41. Kg3
+d3 42. h4+ Kf6 43. Kf3 Ke5 44. Ke3 d2 45. Kxd2 Kf4 46. g5 Kg4 47. Ke3 Kxh4 48.
+Kf4 a6 (48... Kh5 49. Kf5) 49. a3 b6 50. a4 a5 51. b3 Kh3 52. Kf3 Kh4 1/2-1/2
+
+[Event "WchT 7th"]
+[Site "Bursa"]
+[Date "2010.01.08"]
+[Round "4.1"]
+[White "Gashimov, Vugar"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "B97"]
+[WhiteElo "2759"]
+[BlackElo "2736"]
+[PlyCount "82"]
+[EventDate "2010.01.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2010.01.18"]
+[WhiteTeam "Azerbaijan"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "AZE"]
+[BlackTeamCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd3
+Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 fxe6 12. Be2 Qa5 13. Bd2 Qc7 14. g4 h6 15.
+Qh3 Rh7 16. Rf1 Nc6 17. Nxc6 Qxc6 18. e5 dxe5 19. Bd3 e4 20. Nxe4 Nxe4 21. Qh5+
+Kd7 22. Rd1 Rh8 23. Bf4 Bb4+ 24. c3 Nxc3 25. Bd2 {Diagram #} Qd5 {
+An important multi-purpose move} (25... Nxd1 26. Bxb4) 26. Rf7+ Kc6 27. Rc1 Kb6
+$1 ({Clearly worse are} 27... Qxh5 $2 28. gxh5 {and}) (27... Qxd3 $2 28. Qe5 $1
+a5 29. Rxc3+ Bxc3 30. Rc7+ Kb6 31. Rxc3 {in both cases leading to unclear play.
+}) 28. Be3+ (28. Bxc3 Qxd3 29. Bxb4 Qe4+) 28... Ka5 29. a3 Ka4 ({Losing is} 
+29... Qxh5 $2 30. axb4+ Kxb4 31. gxh5) 30. axb4 (30. Rf4 {
+wouldn't help either, as after} Qxh5 31. gxh5 (31. Rxb4+ Kxa3) 31... Na2+ 32.
+Rxb4+ Nxb4 33. axb4 Rd8 {Black is technically winning.}) 30... Qxd3 {
+Robert Ris: '[%csl Re1,Ge2]'} 31. Qa5+ Kb3 {
+White has run out of checks, while he has to deal with mate and the hanging B.}
+32. Rxc3+ Qxc3+ 33. Bd2 b6 $1 {Forcing White to give up control over e5.} (
+33... Qd3 $2 34. b5) 34. Qxb6 Qe5+ 35. Kd1 Bb7 $1 {
+Returning material is the easiest way to bring Rs into play.} 36. Qxb7 Rhd8 37.
+Rf3+ Ka2 38. Rf2 Kb1 {Touchdown!} 39. Qf3 Rac8 {
+Threatening mate on c1, so White is forced to play} 40. Qb3+ Qb2 41. Qxb2+ Kxb2
+{after which Gashimov resigned, as he can't prevent entering a lost pawn
+ending after Rc2 and Rxd2.} 0-1
+

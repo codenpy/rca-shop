@@ -1,0 +1,185 @@
+[Event "Bagneux Open-06"]
+[Site "Bagneux"]
+[Date "1972.07.??"]
+[Round "?"]
+[White "Diemer, Emil Joseph"]
+[Black "Trommsdorf, Fro"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "1972.07.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2010.11.25"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Be2 c6 5. g4 b5 6. g5 Nfd7 7. h4 b4 8. Nb1 d5
+9. e5 e6 10. h5 c5 11. hxg6 fxg6 12. Bd3 Bg7 13. Rxh7 Rxh7 14. Bxg6+ Ke7 15.
+Bxh7 cxd4 16. f4 Qh8 17. Qh5 Ba6 18. Nf3 Nc6 19. Nh4 Nf8 20. g6 {Diagram #} Kd7
+$6 {During the game, Black starts running with the king immediately, but it
+was better to play d3 in order to activate his pieces.} (20... d3 $5 21. cxd3
+Bxd3 $36 {Black's pieces are active now and the g6-pawn is under attack. On
+the other hand, White's pieces are not coordinated, so they cannot create a
+strong attack.}) (20... Rc8 $5) (20... Re8 $5) (20... Nd7 $5) 21. Nd2 Kc7 {
+Black's king is totally safe now and he should activate his remaining pieces.}
+22. Ndf3 Nd7 23. Bd2 Qf8 {Indeed the g6-pawn is advanced, but it's blocked
+very well and White's pieces are stuck on the kingside. Black's king is safe
+on c7, and Black has some posibilities to attack on the queenside after a long
+castling.} 24. Ng5 Re8 {This is a little more passive move. It was better to
+play Nc5, as you can see in the sub-variation. Black manages to keep the draw
+afterwards.} (24... Nc5 {This was a more active move with the idea to play d3
+and activate his pieces.}) 25. Qg4 Ndxe5 26. Qh3 Nc4 27. Nxe6+ Kd7 28. f5 Nxd2
+29. O-O-O Qf6 30. Nxg7 Re3 31. Nh5 Qg5 32. Qg4 b3 33. axb3 Nxb3+ 34. Kb1 Rd3
+35. Qg1 Nd2+ 36. Ka1 Qd8 37. Nf6+ Kc8 38. Rxd2 Qa5+ 39. Kb1 Nb4 40. Rxd3 Qa2+
+41. Kc1 Nxd3+ 42. Kd2 Qa5+ 43. Ke2 Ne5+ 1/2-1/2
+
+[Event "FRA-ch47"]
+[Site "Rosny sous Bois"]
+[Date "1972.08.17"]
+[Round "1"]
+[White "Mazzoni, Guy"]
+[Black "Derreumaux, Patrick"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "140"]
+[EventDate "1972.08.17"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2013.11.20"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nh4 h6 11. O-O g5 12. Nf5 Bxf5 13. exf5 Qd7 14. Bc2 O-O-O 15.
+Rb1 Nxf5 16. Ba4 Qe7 17. Bc6 b6 18. a4 {Diagram #} Kc7 $5 {White had started a
+venom attack with very nice sacrifices and active moves. Black felt the danger
+and the only practical way is to run away with the king. There is no other
+defense because White is threatening a5 and blowing up the position.} (18...
+Qc7 $2 19. Qf3 $18) (18... Nd7 $2 19. a5 Nb8 20. axb6 $40) 19. a5 Rb8 {Just in
+time, Black can defend the b6-pawn. White still has a strong initiative, but
+Black is fighting.} 20. Qa4 Rhc8 {Everything is prepared now and the king can
+start running towards the kingside.} 21. axb6+ axb6 22. Qc2 (22. Bd2 e4) (22.
+f3) 22... Nh4 23. Ra1 Kd8 {The king here is far safer, but White has the
+initiative. After a long fight, Black manages to keep the draw.} 24. f3 Rc7 25.
+g3 Ng6 26. Re1 Ng8 27. Kg2 Qf6 28. Ra6 N8e7 29. Bb5 Qf5 30. Qe2 Nc8 31. Ba4 Ra7
+32. Rxa7 Nxa7 33. Bc2 Qf6 34. Bd2 Kc7 35. Ra1 Nc8 36. Be1 Rb7 37. Be4 Ra7 38.
+Rxa7+ Nxa7 39. Qa2 Kb7 40. Qa4 Qd8 41. Bd2 Ne7 42. g4 Nac8 43. Be1 Kc7 44. Qa6
+Qd7 45. Bc2 Kb8 46. Ba4 Qd8 47. h4 Na7 48. hxg5 hxg5 49. Bd2 f6 50. Bc2 Qc7 51.
+Qa4 Qc8 52. Be4 Kb7 53. Be3 Qd8 54. Bc1 Nac8 55. Be3 Kc7 56. Bf2 Qd7 57. Qa6 f5
+58. gxf5 Nxf5 59. Qb5 Qf7 60. Qb1 Nce7 61. Qa2 Kb8 62. Qb1 Ka7 63. Qa2+ Kb7 64.
+Qa4 Nc8 65. Qc2 Nh4+ 66. Bxh4 gxh4 67. Bf5 Ne7 68. Bg4 Ng6 69. Qa4 Nf4+ 70. Kh1
+Qh7 1/2-1/2
+
+[Event "FRA-ch60 Championnat"]
+[Site "Clermont Ferrand"]
+[Date "1985.08.22"]
+[Round "6"]
+[White "Fauvel, Philippe"]
+[Black "Mercier, Jean Pierre"]
+[Result "1-0"]
+[ECO "B14"]
+[BlackElo "2220"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "77"]
+[EventDate "1985.08.17"]
+[EventRounds "13"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. exd5 Nf6 6. Nc3 Bg7 7. Bc4 O-O 8.
+Nge2 Nbd7 9. Bb3 Nb6 10. Nf4 Bf5 11. Qf3 a5 12. a4 Qd6 13. Bd2 Rfc8 14. O-O Qb4
+15. Qd1 Nc4 16. Bc1 Bh6 17. g3 Bxf4 18. gxf4 Nd6 19. f3 Bh3 20. Re1 Qb6 21. Ra3
+Nf5 22. Nb5 Nh5 23. Ba2 Qf6 24. d6 exd6 25. Bd5 Ne7 26. Bxb7 Rxc1 27. Qxc1 Nxf4
+{Diagram #} 28. Bxa8 $1 {This is the best move because White's king can run to
+f2 and e3. White has little time to capture material and put Black with the
+back on the wall.} (28. Ree3 $6 Rd8 29. Be4 Qg5+ 30. Kf2 d5 $1 $19 {Black has
+a close to winning positon.}) (28. Kf2 $6 Ned5 29. Bxd5 Qh4+ 30. Ke3 Nxd5+ 31.
+Kd2 Rc8 $19 {And Black faces plenty of difficulties!}) (28. Rxe7 $2 Qxe7 29.
+Qe3 Qg5+ 30. Kf2 Rd8 $19 {White's king is in a great danger.}) 28... Qg5+ 29.
+Kf2 Nf5 30. Rg1 $1 {Just in time, White brings more pieces into the defense
+and overprotects the g2-square.} Bg2 $2 (30... Qh4+ 31. Rg3 $14 {As we already
+mentioned many times, it's wise to give back some material; that reduces the
+attacking possibilities.}) 31. Qc8+ Kg7 32. Ke1 $19 {The king manages to
+escape from the danger zone, and now White is winning thanks to his extra
+material.} Qh4+ 33. Kd1 Qf2 34. Re1 d5 35. Qc3 Nh4 36. Qe3 Bxf3+ 37. Kc1 Qxh2
+38. Nd6 Nhg2 39. Qe5+ 1-0
+
+[Event "Reggio Emilia 9900 42nd"]
+[Site "Reggio Emilia"]
+[Date "2000.01.03"]
+[Round "8"]
+[White "Genocchio, Daniele"]
+[Black "Solozhenkin, Evgeniy"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "2291"]
+[BlackElo "2544"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "106"]
+[EventDate "1999.12.27"]
+[EventRounds "9"]
+[EventCountry "ITA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2000.04.05"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6 8.
+O-O Bd6 9. f4 Qd7 10. Bd3 Bxd3 11. Qxd3 g6 12. f5 gxf5 13. Bg5 Be7 14. Rae1 Rg8
+15. Bxf6 Bxf6 16. Nxf5 exf5 17. Rxf5 {Diagram #} Bh8 $1 {This is the best
+defense because this bishop is very important. The idea behind the move is to
+put the rook on g7, sacrificing it if needed, and then bring the king to g8.
+Right now, White doesn't have any good discovered check with the e2-knight and
+this gives some time for Black to organize his pieces.} (17... Bg7 18. Qb3 $44)
+(17... Bg5) (17... Qd6) 18. Qb3 Rg6 $1 {This is a nice defensive sacrifice.
+The idea behind it is to create the free square for the king, the g8. It's
+important to place the rook here because it gives the option to play f6, if
+needed.} (18... Rg4 19. Ng3+ Kf8 20. Ref1 $16) 19. Nf4+ (19. Ng3+ Kf8 20. Ref1
+f6 $1) 19... Kf8 {The line is forcing now.} 20. Qb4+ Kg8 21. Nxg6 Bxd4+ 22. Kh1
+hxg6 {Black manages to stabilize his position and he can develop his remaining
+pieces easily. Black has a small plus because his dark-squared bishop is
+extremely strong. The coordination of the bishop and knight could be stronger
+than the rook. Black manages to win the game afterwards.} 23. Rf4 c5 24. Qc4
+Nc6 25. c3 Be5 26. Rf3 b6 27. h4 Bg7 28. Qe4 Rd8 29. h5 Ne5 30. Rg3 Qd2 31.
+hxg6 f5 32. Qe3 f4 33. Qxd2 Rxd2 34. Rg5 Rxb2 35. a4 Ra2 36. Re4 Bf6 37. Rf5
+Ng4 38. Rexf4 Ra1+ 39. Rf1 Rxf1+ 40. Rxf1 Kg7 41. Rf3 Ne5 42. Rg3 Nc4 43. Rd3
+Kxg6 44. Rd7 Bxc3 45. Rxa7 Be5 46. Kg1 Na3 47. Kf2 c4 48. Ke2 c3 49. Kd1 c2+
+50. Kc1 Bc3 51. Rc7 Be5 52. Rc8 Kf7 53. Kd2 Bf4+ 0-1
+
+[Event "EU-ch 2nd"]
+[Site "Ohrid"]
+[Date "2001.06.14"]
+[Round "13"]
+[White "Acs, Peter"]
+[Black "Kempinski, Robert"]
+[Result "0-1"]
+[ECO "B85"]
+[WhiteElo "2509"]
+[BlackElo "2582"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "74"]
+[EventDate "2001.06.01"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+Qc7 9. Kh1 O-O 10. a4 Nc6 11. Be3 Re8 12. Bf3 Na5 13. g4 Nc4 14. Bc1 Bf8 15. g5
+Nd7 16. Bg2 b6 17. Nde2 Bb7 18. b3 Na5 19. Bb2 Nc6 20. Qe1 Nb4 21. Qh4 Nxc2 22.
+Rf3 Nxa1 23. Rh3 {Diagram #} f6 $1 {White is threatening a checkmate on h7;
+this is obvious. Both ways, f6 and h6 can bring results. Nonetheless, after h6,
+Black should find a lot of moves; as you can see in the sub-variation. In this
+line, f6, Black is preparing the king run; the safest option.} (23... h6 $5 24.
+gxh6 Qd8 $8 25. Qg3 $5 (25. hxg7 Qxh4 26. gxf8=Q+ Kxf8 27. Rxh4 Nxb3 $19) 25...
+Nc2 26. Nb5 $1 {opening up the b2-bishop.} e5 $8 {with an unclear game.} (26...
+axb5 $2 27. hxg7 f6 28. gxf8=Q+ Kxf8 29. Rh8+ Kf7 30. Rh7+ Kf8 31. Qg7#)) 24.
+Qxh7+ Kf7 25. Bxa1 (25. g6+ Ke7 26. Bxa1 Qc5 $17) 25... Qc5 {A nice
+centralizing move. Black's king is ready to run to e7 and d8. White's attack
+comes to an end.} 26. Bb2 Ke7 {Black's king looks safe, but the game is not
+over yet. White's pieces are still active and can generate some threats. In
+any case, the king manages to escape from the danger zone! Black won the game
+afterwards.} 27. Qg6 Kd8 28. gxf6 gxf6 29. Rh7 Qf2 30. h3 Re7 31. Rxe7 Bxe7 32.
+Qf7 Rc8 33. Qxe6 Rxc3 34. Bxc3 Qxe2 35. Qg8+ Kc7 36. Qe6 Qe3 37. Bb4 Qc1+ 0-1
+

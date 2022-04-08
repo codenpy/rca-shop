@@ -1,0 +1,419 @@
+[Event "Ch World FIDE (KO-system)"]
+[Site "Tripoli (Libya)"]
+[Date "2004.06.19"]
+[Round "1"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Haznedaroglu Kivanc (TUR)"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2395"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "6k1/pp3pp1/1bn1pnp1/1N6/8/4P2P/PPr1BPP1/3RBK2 w - - 0 24"]
+[PlyCount "63"]
+[EventDate "2004.??.??"]
+
+{What is an evaluation of a position? White has a huge advantage, because of: 
+1) a bishop against a knight (a material advantage);  2) a rook with bishops
+have better harmony than rook with knight.  The black's activity is a
+temporary factor, which will be neutralized soon.} 24. Rb1 (24. Bc3 $2 Ne4)
+24... Rc5 25. Nc3 Ne7 26. Na4 Rc6 27. Bb5 Rc8 28. Nxb6 axb6 {(white got 2
+positional advantages: he took the bishop and broke the black's pawn structure.
+)} 29. f3 Nf5 30. Bf2 Nd6 31. Bd3 Nd5 32. a3 b5 33. g3 Nc4 34. e4 Nf6 35. Ke2
+Ne5 $2 {(black is sacrificing a pawn for a pieces activity. The stable
+positional factor is more important in an endgame however.)} 36. Bxb5 Rc2+ 37.
+Ke3 g5 38. g4 Ng6 39. Bd3 Rc8 40. Bg3 Nd7 41. Rd1 e5 42. Bc4 Rxc4 43. Rxd7 Rc2
+44. Rxb7 Rg2 45. Bf2 Nf4 46. Rd7 Rh2 47. a4 Ng2+ 48. Ke2 Nf4+ 49. Kf1 Rh1+ 50.
+Bg1 Rxh3 51. a5 Rxf3+ 52. Ke1 Ng2+ 53. Ke2 Rb3 54. a6 Nf4+ 55. Kd1 1-0
+
+[Event "Ch Russia"]
+[Site "Krasnoyarsk (Russia)"]
+[Date "2003.??.??"]
+[Round "4"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Gleizerov Evgeny (RUS)"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2589"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1r3k1/p2n2pp/bp2p3/1N3p2/3P4/2nBPN2/P4PPP/R1R3K1 w - - 0 18"]
+[PlyCount "83"]
+[EventDate "2003.??.??"]
+
+18. a4 $1 (18. Nxc3 $2 Bxd3 {loses a stable positional advantage (a bishop
+against a knight)}) 18... Bxb5 19. axb5 {(White improved his pawn strucutre
+and won a bishop against a knight. These stable positional advantages
+determines the white's advantage.)} Rc7 20. Kf1 Kf7 21. Nd2 Rac8 22. Re1 Nf6
+23. Ra3 Nfd5 {(Though the black's position looks active, it is a temporary
+situation. White will exchange or push back the black's piece sooner or later.)
+} 24. Rb3 Na2 25. Bb1 Nac3 26. Bd3 Na2 27. Rb2 Nab4 28. Bb1 Rc1 29. Nb3 Rxe1+
+30. Kxe1 a5 31. bxa6 Nxa6 32. Kd2 Nab4 33. Nc1 Kf6 34. Nd3 Nxd3 35. Bxd3 Rc6 {
+(White neutralized the black's active pieces and we can see the white's
+advantage clearly.)} 36. f3 Nc7 37. e4 fxe4 38. fxe4 e5 39. d5 Rd6 40. Rc2 Rd7
+41. Rc6+ Kf7 42. Rxb6 Ke7 43. Rc6 Kd8 44. Rb6 Ke7 45. Be2 Rd6 46. Rb7 Kd8 47.
+Bg4 Ne8 48. Kd3 Nc7 49. Kc4 Rf6 50. g3 Rh6 51. Bf5 Rf6 52. Bg4 Rg6 53. h3 h6
+54. Kc5 Na6+ 55. Kb5 Nc7+ 56. Kc4 Rf6 57. h4 g6 58. Bh3 g5 59. h5 1-0
+
+[Event "Cup World FIDE (Gr.A)"]
+[Site "Hyderabad (India)"]
+[Date "2002.??.??"]
+[Round "2"]
+[White "Iuldachev Saidali (UZB)"]
+[Black "Malakhov Vladimir (RUS)"]
+[Result "0-1"]
+[WhiteElo "2487"]
+[BlackElo "2677"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/p4kb1/1p3pp1/3p3p/2pP1B1P/2P3P1/PP2KP2/8 b - - 0 29"]
+[PlyCount "51"]
+[EventDate "2002.??.??"]
+
+{The position looks approximately equal. Some players would probably agree to
+a draw here. Let's see what the black player did instead.} 29... Ke6 30. f3 {
+(White is going to improve his pawn structure by playing g4. Certainly black
+should prevent it. One of the main things you should do in an endgame is to
+collect stable positional advantage.)} Kf5 31. Kf2 b5 32. Kg2 g5 33. hxg5 fxg5
+34. Be3 Bf8 35. Bd2 Be7 36. Kf2 g4 {(Black got a new positional advantage - he
+has fixed the white's weak pawn on g3.)} 37. Ke2 Bf6 38. Be3 Ke6 39. Kf2 Kd7
+40. Ke2 Kc6 41. Kf2 b4 42. cxb4 Kb5 43. fxg4 hxg4 44. Ke2 Kxb4 45. Bd2+ Kb5 46.
+Ke3 a5 47. Bc3 Bg5+ 48. Ke2 a4 49. a3 {(Black got one more positional
+advantage - the white's queen-side pawns are fixed on the dark squares. The b2
+pawn became a backward (weak) pawn.)} Kc6 50. Bd2 Be7 51. Bf4 c3 52. Bc1 cxb2
+53. Bxb2 Bd6 54. Kf2 Kb5 {This game shows an importace of stable positional
+factors in an endgame.  In the starting position of this example black had
+better pawn structure. He was gaining new stable advantages consistently and
+won the game after all.} 0-1
+
+[Event "It (open)"]
+[Site "Porto San Giorgio (Italy)"]
+[Date "2000.??.??"]
+[Round "4"]
+[White "Lazarev Vladimir (RUS)"]
+[Black "Malakhov Vladimir (RUS)"]
+[Result "0-1"]
+[WhiteElo "2478"]
+[BlackElo "2605"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "6k1/5ppp/4p3/1r1bR3/3B4/1p3P2/1P3KPP/8 b - - 0 34"]
+[PlyCount "55"]
+[EventDate "2000.??.??"]
+
+{Black is a pawn up, but it is quite difficult to realize this advantage. In
+such positions you should play slowly and collect little positional advantages.
+} 34... f6 35. Re1 Kf7 36. Ra1 g5 37. Ra7+ Kg6 38. Ke3 h5 {(black improved his
+pawn structure)} 39. Rc7 Rb8 40. g3 Ra8 41. Rc1 g4 42. fxg4 hxg4 {(Now black
+has a passed pawn on the "e" file and white has a new weakness - the h2 pawn.)}
+43. Rf1 e5 44. Bc3 Be6 45. Rd1 Bf5 46. Rd6 Kf7 47. Rb6 Be6 48. Rb7+ Kg6 49. Rb6
+Kf5 50. Rd6 Rh8 51. Rd2 Bc4 52. Rf2+ Ke6 53. Kd2 Rd8+ 54. Ke1 Rd3 55. Rd2 Re3+
+56. Kf2 Rf3+ 57. Kg1 e4 58. Rd4 Rxc3 59. bxc3 b2 60. Rxe4+ Kd5 61. Re1 Bd3 0-1
+
+[Event "It (open)"]
+[Site "San Sebastian (Spain)"]
+[Date "1991.??.??"]
+[Round "2"]
+[White "Azmaiparashvili Zurab (GEO)"]
+[Black "Montolio Benedicto Cesar (ESP)"]
+[Result "1-0"]
+[WhiteElo "2678"]
+[BlackElo "2076"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp1n1bp/5p1n/4p1p1/2P1P3/2N2NBP/PP2BPP1/R2R2K1 w - - 0 15"]
+[PlyCount "37"]
+[EventDate "1991.??.??"]
+
+15. Nd5 $1 Nxd5 16. cxd5 {(Now black has a weak pawn c7)} Bd7 17. Nd2 Nf7 18.
+Rac1 Rfc8 19. Bg4 {(White exchanges his "bad" bishop on the opponent's "good"
+one, which gives white another positional advantage.)} Bxg4 20. hxg4 Nd6 21. f3
+Bf8 22. Bf2 Kf7 23. Nb3 {(provoking black to move a pawn, which will create
+new weaknesses)} b6 24. Rc2 Ke7 25. Rdc1 Kd7 26. Nd2 Be7 27. Nf1 Bf8 28. Ng3
+Be7 29. Rc6 Rab8 30. Nh5 Ne8 31. Be3 Bd6 32. Kf2 a5 33. Rh1 1-0
+
+[Event "Ch World FIDE (play-off)"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "2"]
+[White "Slobodjan Roman (GER)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2645"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r4r2/3n1pkp/2p2np1/pp2p3/4P1b1/P1NBRN2/1PP2PPP/5RK1 b - - 0 17"]
+[PlyCount "63"]
+[EventDate "1997.??.??"]
+
+{The only relatively active piece in the white's position is the knight f3 (it
+is attacking the e5 pawn).} 17... Bxf3 18. Rxf3 {(Now all the white's pieces
+are totally passive and black can improve his position gradually.)} Rfd8 19.
+Re3 Nc5 20. f3 Rd7 21. Rc1 h5 22. Kf2 h4 23. Bf1 Nh5 24. Ree1 b4 25. Nb1 Rad8
+26. g3 Rb7 27. axb4 Rxb4 28. b3 a4 29. bxa4 Rxa4 30. Re3 Ra1 31. Rc3 Ne6 32.
+Bc4 Nd4 33. Rf1 Rda8 34. Nd2 R1a3 35. Bb3 hxg3+ 36. hxg3 Nxg3 37. Re1 Nh5 38.
+Nc4 Rxb3 39. cxb3 Ra2+ 40. Ke3 Nf4 41. Nxe5 Nde6 42. Rcc1 c5 43. Nc4 Ng2+ 44.
+Kd3 Nef4+ 45. Kc3 Nxe1 46. Rxe1 Ne2+ 47. Kd3 Nd4 48. Nd2 Rxd2+ 0-1
+
+[Event "It (active)"]
+[Site "Cap d'Agde (France)"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Azmaiparashvili Zurab (GEO)"]
+[Black "Smagin Sergey (RUS)"]
+[Result "1-0"]
+[WhiteElo "2670"]
+[BlackElo "2580"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1r1rnnk1/1b4p1/3p1p1p/p1p1pB2/2P4B/P3P3/1P1RNPPP/3R2K1 w - - 0 23"]
+[PlyCount "89"]
+[EventDate "1996.??.??"]
+
+{Quite often you have an advantage, but your opponent protects everything.
+Thus it is difficult for you to realize any aggressive plan. In such
+situations you should not hurry up. You should collect little positional
+advantages. After some time you will collect "a critical mass" of little
+advantages and it will give you a winning position suddenly.} 23. Nc3 Ba6 24.
+Bd3 Kf7 25. Nb5 Bxb5 26. cxb5 Ke7 27. a4 Nd7 28. f3 Nb6 29. b3 Rdc8 30. Be1 c4
+31. bxc4 Nxc4 32. Rc2 Nb6 33. Rxc8 Rxc8 34. Ra1 Ra8 35. e4 Nd7 36. Bc4 Nc7 37.
+Bf2 Nc5 38. Bxc5 dxc5 39. b6 Ne8 40. Rb1 Rb8 41. Kf2 Nd6 42. Bd5 Kd7 43. h4 Nc8
+44. b7 Ne7 45. Ke3 Kc7 46. Rb5 Kd6 47. Rb6+ Kd7 48. Rb5 Nxd5+ 49. exd5 c4 50.
+g4 h5 51. Ke4 hxg4 52. fxg4 c3 53. Kd3 Kc7 54. Rc5+ Kxb7 55. Kxc3 Rc8 56. Kc4
+Rh8 57. h5 Rc8 58. Rxc8 Kxc8 59. Kb5 Kd7 60. Kxa5 Kd6 61. Kb5 Kxd5 62. a5 Kd6
+63. Kb6 e4 64. a6 e3 65. a7 e2 66. a8=Q e1=Q 67. Qd8+ 1-0
+
+[Event "It"]
+[Site "London (England)"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Yates Frederick"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4rnk1/pp3pp1/2b1r1p1/3p4/1BpP3P/2P1PBP1/P4P2/1R2R1K1 w - - 0 24"]
+[PlyCount "87"]
+[EventDate "1922.??.??"]
+
+24. a4 $1 {(White is using a sudden chance to improve his position on the
+queen-side. Maybe it seems not very important, BUT in fact little positional
+advantages are very important in an endgame.)} Nh7 25. a5 a6 26. Re2 g5 27. Bg4
+Rh6 28. hxg5 Nxg5 29. Kg2 Ne4 30. f3 Nd6 31. Bxd6 Rxd6 32. Rb6 Rh6 33. f4 Kf8
+34. Bf3 f5 35. Kf2 Re7 36. Re1 Rh2+ 37. Bg2 Rh6 38. Rbb1 Kf7 39. Rh1 Rhe6 40.
+Rbe1 Kf6 41. Bf3 Rd6 42. g4 Bd7 43. Rh5 g6 44. Rg5 Rh7 45. Rb1 Be6 46. Kg3 Re7
+47. Re1 {(White is tormenting his opponent - "you should make a lot of moves
+and create simple threats".)} Rd8 48. Bg2 Rh7 49. Rb1 Rd6 50. Bh3 Rc6 51. Rb2
+Rd6 52. gxf5 gxf5 53. Bg2 b5 $2 {(When you torment an opponent, he will loose
+by himself.)} 54. axb6 Rb7 55. Rh5 Rdxb6 56. Rxb6 Rxb6 57. Bxd5 Kg6 58. Rg5+
+Kf6 59. e4 fxe4 60. Bxe4 Rb3 61. Rg6+ Ke7 62. f5 Rxc3+ 63. Kf4 Bf7 64. Rxa6 Bh5
+65. f6+ Ke8 66. Kg5 Bf3 67. Bg6+ 1-0
+
+[Event "29th Politiken Cup"]
+[Site "?"]
+[Date "2007.07.22"]
+[Round "2"]
+[White "Flindt T"]
+[Black "Malakhov V"]
+[Result "0-1"]
+[WhiteElo "2192"]
+[BlackElo "2676"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r1kb1r/pp1bpp2/3p1p1p/q7/2BQPP2/2N5/PPP3PP/2KR3R b k - 0 12"]
+[PlyCount "69"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{Black has 2 stable positional advantages:  1) a bishop against a knight;  2)
+the white's pawns are more advanced.  In an endgame these advantages will be
+very valuable.} 12... Qc5 13. Bb3 Qxd4 14. Rxd4 Rc5 15. Rb4 b5 16. a4 a5 17.
+Rd4 b4 18. Nb5 h5 19. Rhd1 h4 20. Rd5 Rxd5 21. Bxd5 Bh6 22. g3 Rg8 23. Kb1 hxg3
+24. hxg3 Rxg3 25. f5 Be3 26. Rh1 Rg1+ 27. Rxg1 Bxg1 28. Bc4 Bc5 29. Ka2 e6 30.
+Bd3 Bc6 31. Kb3 Kd7 32. c4 exf5 33. exf5 Bf3 34. Kc2 Kc6 35. Kd2 d5 36. b3 dxc4
+37. bxc4 Bg1 38. Kc2 Kc5 39. Kd2 Bh2 40. Kc2 Be5 41. Na7 Kd4 42. Nb5+ Ke3 43.
+Bf1 Be4+ 44. Kb3 Kd2 45. c5 Bc2+ 46. Kc4 Bxa4 0-1
+
+[Event "Open"]
+[Site "?"]
+[Date "2007.01.31"]
+[Round "5"]
+[White "Malakhov V"]
+[Black "Ionov S"]
+[Result "1-0"]
+[WhiteElo "2663"]
+[BlackElo "2522"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "6k1/p4rpp/8/Np1rPp2/1P1p1P2/P1bP4/5R1P/6RK w - - 0 38"]
+[PlyCount "59"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{The position is about equal. It is difficult to realize any active plan here.
+White should play slowly, collect little positional advantages and torment his
+opponent. This is "an endgame Master's style"!} 38. h4 Rd8 39. Kg2 Re8 40. Kf3
+Re6 41. h5 Rh6 42. Rh2 g6 43. Nb3 Re7 44. Rgg2 Kg7 45. Nc5 Be1 46. Ke2 Bc3 47.
+Kf1 Ba1 48. Ke1 Bc3+ 49. Kd1 Ba1 50. Na6 Bc3 51. Kc2 Rb7 52. Kb3 Rb6 53. Nc7 a5
+54. bxa5 Bxa5 55. Ne8+ Kf8 56. Nf6 Rc6 57. hxg6 Rxg6 58. Nxh7+ Ke7 59. Rxg6
+Rxg6 60. Ng5 Rc6 61. Rh7+ Ke8 62. Nf7 Rc3+ 63. Kb2 Bc7 64. Nh6 Bd8 65. Nxf5
+Rxd3 66. e6 Bf6 67. Nd6+ 1-0
+
+[Event "8th ch-Euro"]
+[Site "?"]
+[Date "2007.04.08"]
+[Round "6"]
+[White "Malakhov V"]
+[Black "Palac M"]
+[Result "1-0"]
+[WhiteElo "2679"]
+[BlackElo "2568"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2k5/5pp1/p1P1p2p/Bp2P3/8/1P2KP1P/P5P1/1b6 w - - 0 42"]
+[PlyCount "54"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{In positions with different colored bishops an attacker side should keep his
+pawns on an opposite color comparing to his bishop. Otherwise an opponent can
+create a fortress.} 42. Kd2 $1 {(White is keeping the pawns on the light
+squares. It seems like it doesn't matter really, BUT it is a stable positional
+advantages and white should keep it.)} (42. a3 $2 Ba2 43. b4 {it is fixing the
+queen-side position and white has no chances to create a passed pawn here.})
+42... h5 43. a3 h4 44. Kc3 Bf5 45. Bb6 Bb1 46. Kd4 Ba2 47. Kc3 Bb1 48. Ba5 Bf5
+49. Bb4 Kc7 50. Bf8 g6 51. Be7 Kxc6 52. Bxh4 Kd7 53. g4 Bb1 54. Bf6 a5 55. a4 {
+(Now we can see that it was REALLY important for white to keep his pawn on b3)}
+bxa4 56. bxa4 Ba2 57. h4 Bd5 58. h5 gxh5 59. gxh5 Bxf3 60. h6 Be4 61. Kd4 Bc2
+62. Kc5 Kc7 63. Kb5 Kb7 64. Kxa5 Kc6 65. Kb4 Bd3 66. a5 Bg6 67. Bd8 Bd3 68. a6
+Kd5 1-0
+
+[Event "World Cup"]
+[Site "?"]
+[Date "2007.11.29"]
+[Round "2.3"]
+[White "Volkov Sergey1"]
+[Black "Malakhov V"]
+[Result "0-1"]
+[WhiteElo "2648"]
+[BlackElo "2690"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r3k1/p1r1bppp/1n6/8/3BPP2/3N4/6PP/3RR1K1 b - - 0 34"]
+[PlyCount "47"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+34... Rd7 $1 {(Black forces white to exchange his bishop)} 35. Bxb6 axb6 {
+(Black has a bishop against a knight and a distant passed pawn. It gives black
+a huge advantage.)} 36. Ne5 Rxd1 37. Rxd1 f6 38. Nd7 b5 39. Kf1 Rc4 40. Re1 b4
+41. Re3 Rc7 42. Nb8 Rc1+ 43. Ke2 Bd6 44. Na6 Bxf4 45. Rb3 Rc2+ 46. Kf3 Rc3+ 47.
+Rxc3 bxc3 48. Nb4 Bxh2 49. g3 Bg1 50. Ke2 Bd4 51. Nc6 Be5 52. Nxe5 fxe5 53. Kd3
+h5 54. Kxc3 Kf7 55. Kc4 Ke6 56. Kd3 g5 57. Ke3 Kd6 0-1
+
+[Event "Torre ENTEL PCS"]
+[Site "?"]
+[Date "2006.03.28"]
+[Round "9"]
+[White "RYBKA"]
+[Black "Rojas L"]
+[Result "1-0"]
+[BlackElo "2423"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r5k1/1pb1r2p/nBp3p1/5p2/N1p1P3/P4PP1/1PK4P/3R3R w - - 0 25"]
+[PlyCount "55"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{It seems like black has some attacking chances here. However, white should
+not worry about it too much. In an endgame an opponent's attack usually can't
+be very powerful.   White should care about the stable positional advantages
+instead.} 25. exf5 gxf5 {(now black has weak pawns on the king-side)} 26. Bxc7
+Nxc7 27. Nb6 {(white is going to take the c4 pawn and so to get a material
+advantage)} Re2+ 28. Kc1 Rae8 29. Nxc4 b5 30. Na5 Nd5 31. Rd2 {(White gained a
+few stable advantages and how he will neutralize the black's activity)} b4 32.
+a4 {(white got one more stable advantage - a distant passed pawn a4)} R2e6 33.
+Nc4 b3 34. Rd3 Rb8 35. a5 Rb5 36. Kd2 Rb4 37. Rd4 Ra4 38. Re1 Rxe1 39. Kxe1 Kg7
+40. Kd2 Ra1 41. Kd3 Ra2 42. g4 fxg4 43. Rxg4+ Kf6 44. Kd4 Ra4 45. Rg8 Ne3 46.
+Kxe3 Rxc4 47. a6 Ra4 48. Ra8 Kg7 49. f4 c5 50. a7 c4 51. Kd4 Ra2 52. f5 1-0
+
+[Event "?"]
+[Site "Alushta (Ukraina)"]
+[Date "2001.10.??"]
+[Round "12"]
+[White "Smirnov Igor (UKR)"]
+[Black "Zubarev Aleksandr (UKR)"]
+[Result "1-0"]
+[WhiteElo "2446"]
+[BlackElo "2331"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2k3r/pppb1ppp/4p1n1/2b5/4PPn1/2NB1N2/PPP3PP/R1B2R1K w - - 0 12"]
+[PlyCount "73"]
+[EventDate "2001.??.??"]
+
+12. Nd1 $1 {(We should care about the stable factors in an endgame. The knight
+is certainly passive on d1, but while will activate it easily in the future.)}
+(12. g3 $2 Nf2+ 13. Kg2 Nxd3 {and black won a bishop against a knight}) 12...
+h5 13. h3 Ke8 14. g3 Nf6 15. Kg2 Rd8 16. Re1 {(White is protecting the e4 pawn
+in advance to not to give black any counterchances.)} Bc6 17. Bd2 a6 {(The
+black's attacking attempts failed, and now white starts gaining stable
+advantages.)} 18. b4 Be7 19. a4 Bd7 20. Nb2 Bc8 21. b5 axb5 22. axb5 Nf8 23.
+Ba5 b6 24. Bc3 N8d7 25. Ra7 Nc5 26. Be5 Bb7 27. Bxc7 Rc8 28. Bxb6 Bxe4 29. Bxe4
+Ncxe4 30. c4 Bb4 31. Rc1 h4 32. Nd3 Be7 33. g4 Nd7 34. Bd4 f6 35. c5 Rf8 36. c6
+Nb8 37. c7 Nd7 38. b6 Bd6 39. Rb1 Ke7 40. Rb3 g5 41. fxg5 fxg5 42. Be3 Ndc5 43.
+Nxc5 Nxc5 44. Bxc5 Bxc5 45. Ra5 Bxb6 46. Rxb6 Rxc7 47. Rb2 Rc3 48. Rf2 1-0
+
+[Event "It (cat.18)"]
+[Site "Dortmund (Germany)"]
+[Date "1997.??.??"]
+[Round "2"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Jussupow Artur (GER)"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2640"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4r1k1/2q2pp1/1p3n1p/p1p5/8/P3PN1P/1PQ2PP1/3R2K1 w - - 0 27"]
+[PlyCount "79"]
+[EventDate "1997.??.??"]
+
+27. a4 {! (white has fixed the black's weaknesses on the queen-side)} Rd8 28.
+Rxd8+ Qxd8 29. Ne5 Qd5 30. Nc4 Nd7 31. b3 f5 32. Kf1 Kf7 33. f3 Ke7 34. Ke2 Qe6
+35. Qc3 Nf6 36. Kf2 Kd7 37. g4 {! (white wants to create a passed pawn on the
+"e" file)} Kc6 38. Qe5 $16 {!} Qxe5 39. Nxe5+ Kd5 40. Nc4 fxg4 41. Nxb6+ {!}
+Kc6 42. Nc4 gxf3 43. Kxf3 Kd5 44. Nxa5 g5 45. Nc4 h5 46. Nd2 Ke5 47. e4 Ne8 48.
+Ke3 Nc7 49. Nc4+ Kf6 50. Kf2 Na6 51. Kg3 Nb4 52. h4 $18 {!} Nc6 53. a5 Nb4 54.
+Nd2 Nc6 55. a6 gxh4+ 56. Kxh4 Ke6 57. Kxh5 Kd7 58. Kg6 Kc7 59. Nc4 Kb8 60. Kf6
+Ka7 61. e5 Kxa6 62. e6 Kb5 63. e7 Nxe7 64. Kxe7 Kb4 65. Nd2 Kc3 66. Kd6 1-0
+
+[Event "It"]
+[Site "Linares (Spain)"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Portisch Lajos (HUN)"]
+[Result "1-0"]
+[WhiteElo "2755"]
+[BlackElo "2600"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r3k2r/pp2npp1/2p5/6Pp/3PpN1P/4P3/PP1K1P2/R6R w kq - 0 20"]
+[PlyCount "75"]
+[EventDate "1989.??.??"]
+
+{It is very instructive to observe how white outplayed his opponent by gaining
+little positional advantages constantly.} 20. Rac1 O-O-O 21. Rc5 Nd5 22. Nxd5
+Rxd5 23. Rhc1 Rhd8 24. b4 Kc7 25. Ke2 a6 26. f3 exf3+ 27. Kxf3 {(now white has
+a pawn majority in the center)} R5d6 28. Rf5 R8d7 29. Rcc5 Re7 30. Rce5 Kd8 31.
+a4 g6 32. Rxe7 Kxe7 33. Re5+ Kf8 34. Ke4 f6 35. gxf6 Rxf6 36. b5 {(white wants
+to create an isolated pawn in the black's position)} axb5 37. axb5 Kf7 38. Rc5
+Ke7 39. Rg5 Kf7 40. Rg2 Rf5 41. bxc6 bxc6 42. Rc2 Rf6 43. Ra2 Ke7 44. Ra7+ Kd6
+45. Rg7 Ke6 46. Kd3 Kd6 47. e4 Rf4 48. e5+ Ke6 49. Rxg6+ Kd7 50. Kc4 Rf1 51.
+Rh6 Rc1+ 52. Kd3 c5 53. d5 c4+ 54. Kd2 Rh1 55. Rh7+ Ke8 56. Rxh5 Rh3 57. Kc2
+1-0
+

@@ -1,0 +1,1627 @@
+[Event "DDR 6c/41"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Fiensch"]
+[Black "Postler, R."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2r3k1/1b4pp/p3pbr1/1p6/3pPP2/PP6/2P1R1BP/1RB4K b - - 0 1"]
+
+1...Rxg2 {!} 2.Kxg2 Rxc2 {!!} 3.Rxc2 ( 3.Kf3 Rc3+ {!} 4.Kg2
+( 4.Kg4 {?} g6 {!} 5.f5 h5+ $19 ) d3 5.Rd2 Bxe4+ 6.Kf1 Bd4 $19 )
+Bxe4+ 4.Kf1 Bxc2 5.Rb2 d3 $19 6.Rxc2 ( 6.Ra2 d2 {!} 7.Bxd2 Bxb3
+$19 ) dxc2 7.Ke2 Kf7 8.Kd3 Kg6 9.Kxc2 Kf5 10.Kd3 Be7 11.Ke2 Ke4
+12.a4 Bd6 13.axb5 axb5 0-1
+
+[Event "France 7c/1"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Todorcevic, M."]
+[Black "Jean, C."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b2rk1/pppn2bp/3p1qp1/3p2N1/3P4/3BB3/PPP2PPP/R2QR1K1 w - - 0 1"]
+
+1.Nxh7 {!} Kxh7 2.Qh5+ Kg8 3.Bxg6 Rf7 ( 3...Rd8 4.Bg5 $18 ) 4.Qh7+
+Kf8 5.Bh6 $18 Bxh6 6.Qxh6+ Qg7 ( 6...Kg8 7.Re8+ Nf8 8.Rxf8+ {!}
+Rxf8 9.Qh7# {#} ) 7.Re8+ {!} Kxe8 8.Qxg7 1-0
+
+[Event "USSR 7c/12"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Bitman, A."]
+[Black "Alexeev, A.M."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Yudovich,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/p5kp/2bp2p1/p1q1b3/2B1P1r1/PPN2R1K/2PQ3P/8 b - - 0 1"]
+
+1...Qxc4 {!} 2.Kxg4 ( 2.bxc4 Bd7 {!} {#C5 #CBg3!} ) Qe6+ 3.Kh4
+h6 0-1
+
+[Event "Jugoslavija 7c/16"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Ostojic, P."]
+[Black "Marangunic, S."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rkr3/1p2qp2/3b1p1R/1p1p1Pp1/1P1P4/P2Q4/R1P1NKP1/8 b - - 0 1"]
+
+1...Rc3 {!!} $19 2.Qd2 Re3 3.c3 g4 4.Rh5 Qe4 {!} {[#C5 #CCg3!]} 0-1
+
+[Event "Wijk aan Zee II 7c/32"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Honfi, Karoly"]
+[Black "Ciocaltea, V."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3r1rk1/p1q4b/2pn3p/4Npp1/4nQ2/1P4PP/PBP3PK/3RRB2 w - - 0 1"]
+
+1.Ng4 {!!} Bg6 ( 1...fxg4 2.Bc4+ Rf7 3.Qe5 Kf8 4.Bxf7 Qxf7 5.Rf1
+Bf5 6.hxg4 $18 ) 2.Qe5 Kh7 3.Rxe4 {!} $16 fxg4 ( 3...fxe4 4.Nf6+
+Rxf6 5.Qxf6 { #C5 #CBd6+-} ) 4.Red4 Rfe8 5.Rxd6 {!!}
+( 5.Qf6 {!} ) Rxe5 6.Rxd8 Bf5 7.hxg4 Bxg4 8.Bd3+ Kg7 9.Re8 Kf7
+10.Bxe5 Qa5 ( 10...Qb7 11.Rh8 {!} ) ( 10...Qb6 11.Re1 {!} $18 )
+11.b4 {!} $18 Qa4 ( 11...Qxb4 12.Rb8 ) ( 11...Qa3 12.Re1 {!} )
+( 11...Qxa2 12.Ra1 Qd5 13.Ra5 {!} $18 ) 12.Rd8 Bxd1 13.Bc4+ Ke7
+14.Rxd1 Qxc2 15.Bb3 Qe2 16.Bc7 Ke8 17.Rd8+ Ke7 18.Rd6 Qb2 19.Rxc6
+h5 20.Rh6 Qg7 21.Bd6+ Kd7 22.Ba4+ {[#C5 #CBe6]} 1-0
+
+[Event "USSR 7c/35"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Irzhanov"]
+[Black "Ivanov, Alexa"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Yudovich,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2kr4/pprn4/1n3p1p/QR2pPp1/2q5/R3B1PP/P4PB1/6K1 w - - 0 1"]
+
+1.Bxb7+ {!} Kxb7 ( 1...Rxb7 2.Rc3 $18 ) 2.Qxa7+ Kc6 3.Rxb6+ Nxb6
+4.Qxb6+ Kd7 5.Rc3 {!} Rb8 ( 5...Qxc3 6.Qe6# {#} ) 6.Rxc4 Rxb6
+7.Rxc7+ {!} 1-0
+
+[Event "Jugoslavija 7c/36"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Mihaljcisin, M."]
+[Black "Koraksic, Lj"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Milic,B"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1qr2k1/ppn2pb1/2n1p1p1/3P2P1/6B1/1PN1B3/1PP4P/R2Q1RK1 w - - 0 1"]
+
+1.Rxf7 {!} $16 Bxc3 ( 1...Kxf7 2.Qf3+ {#C5 dc6} ) 2.Rxc7 {!}
+Qxc7 3.Bxe6+ Kh7 4.bxc3 Qe5 5.Qf3 {[#C5 #CAh3!+-]} Kg7 6.Bf4
+{!} $18 Rf8 7.Bxe5+ Nxe5 8.Qe3 Nf3+ 9.Kh1 Kh7 10.Rf1 Nh4 11.Qh3
+{!} 1-0
+
+[Event "Jugoslavija 7c/37"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Sibarevic, M."]
+[Black "Gruber, B."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Milic,B"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/2n2pp1/1p1p3p/p1pPp1b1/P1P1P1qn/2N1B1N1/1P1Q1PPP/1R3RK1 b - - 0 1"]
+
+1...Qf3 {!} 2.gxf3 Nxf3+ 3.Kg2 Nxd2 4.Bxd2 Bxd2 5.Nb5
+( 5.Nf5 {!?} ) Nxb5 6.cxb5 g6 7.b3 Bg5 $17 8.Rb2 c4 {!} 9.bxc4
+Rac8 10.Rc2 Rc5 11.Ne2 Rfc8 12.f4 exf4 13.h4 ( 13.Nxf4 Rxc4 $19 )
+Bxh4 14.Rfc1 f3+ {!} $19 15.Kxf3 Bg5 16.Rd1 Rxc4 17.Rxc4 Rxc4
+18.Rd4 Rc2 ( 18...Rxd4 19.Nxd4 {#C5 20.#CDc6, 21.#CDa7!?} ) 19.Rd3
+Bf6 20.Rd1 Rc4 21.Rc1 Rxc1 22.Nxc1 Bd4 23.Ne2 Bc5 24.Nc1 Kf8
+25.Nb3 Ke7 26.Nd2 Kd7 27.Kg4 f6 28.Kh3 h5 29.Kg2 Ke7 30.Kh3 g5 0-1
+
+[Event "Skopje (ol) 14c/44"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Uhlmann, W."]
+[Black "Rossetto, H."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Velimirovic,D"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qn1k1/1p1b3p/2pp1b2/6pQ/p1P1P3/P1N3PB/1P6/3R1R1K w - - 0 1"]
+
+1.Rxf6 {!} ( 1.e5 Ng7 {!} ) Nxf6 ( 1...Qxf6 2.Bxd7 $18 ) 2.Qxg5+
+Kf7 3.Rxd6 h6 4.Qf4 Bxh3 ( 4...Kg7 5.e5 $18 ) 5.Rxd8 Rxd8 6.e5 1-0
+
+[Event "USSR 14c/48"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Mukhin, M."]
+[Black "Nikitin, A.S."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Yudovich,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2r1r2k/1R5p/1p3Rb1/p5P1/P1n2B2/1B4K1/1PP5/8 w - - 0 1"]
+
+1.Bxc4 Rxc4 2.Rf8+ {!} Rxf8 3.Be5+ Rf6 4.gxf6 ( 4.gxf6 Kg8 5.f7+
+{!} $18 ) 1-0
+
+[Event "Argentina 14c/51"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Rubinetti, J."]
+[Black "Najdorf, M."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3rr1k1/pp3ppp/q1p1bn2/8/4P3/4N1P1/PPQ1RPBP/R5K1 b - - 0 1"]
+
+1...Bb3 {!} 2.Qxb3 Qxe2 3.Bf1 Qh5 4.Qxb7 Nxe4 5.Qxc6 Qf3 6.Nd1
+g6 { [#C5 7...#CBe6, 8...#CBd1]} 7.Qb5 Nxg3 {!} 8.hxg3 Re1 9.Qb3
+Qe2 0-1
+
+[Event "Skopje (ol) 14c/57"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Yanofsky, D."]
+[Black "Tatai, S."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Velimirovic,D"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/1b1qQpk1/p4npp/1p6/4PN2/P1N5/1PPr2PP/5R1K w - - 0 1"]
+
+1.Nh5+ {!} gxh5 ( 1...Nxh5 2.Rxf7+ $18 ) 2.Qxf6+ Kg8 3.Qxh6 Rd6
+4.Qxh5 Rg6 5.Qf5 Qxf5 6.Rxf5 Rd6 7.Kg1 1-0
+
+[Event "Varna 14c/61"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bednarski, J."]
+[Black "Adorjan, A."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Milic,B"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rq1rk1/pp1b1pbp/5np1/3Np1B1/3pP1P1/1P1Q1P2/1PP1N2P/R3K2R b KQ - 0 1"]
+
+1...Nxd5 {!!} 2.Bxd8 Nb4 3.Qd2 Nxc2+ 4.Kf2 Nxa1 5.Be7
+( 5.Rxa1 Rfxd8 6.Rxa7 Bb5 {!} 7.Rxb7 Bxe2 {!} {#C5 d3#A4} ) Nxb3
+6.Qb4 Be6 {!!} 7.Bxf8 Bxf8 8.Qxb7 Rc2 9.Ke1 Bc4 10.Ng3 d3 {!}
+11.Nf1 Re2+ 12.Kd1 Rxb2 ( 12...Rxb2 13.Ke1 Re2+ 14.Kd1 Na5 {!}
+15.Qb8 Bb3+ 16.Kc1 Rc2+ 17.Kb1 Ba2+ $19 ) 0-1
+
+[Event "Sukhumi 14c/69"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Murey, J."]
+[Black "Beliavsky, A."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Tal,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/1kr5/4P3/8/1p5R/1P6/1K1pbp2/R7 b - - 0 1"]
+
+1...Rc2+ {!} ( 1...d1Q {?} 2.Rxd1 Bxd1 3.Rxb4+ Kc8 4.Rf4 ) 2.Kxc2
+d1Q+ 3.Rxd1 Bxd1+ 0-1
+
+[Event "USA 15c/4"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Patty, J."]
+[Black "Frankle, J."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Milic,B"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bqn1r1/p2k1pp1/1p5p/n1pPpN2/2P1P3/P1PBB2P/4Q1P1/R4RK1 w - - 0 1"]
+
+1.Nxh6 {!} gxh6 2.Rxf7+ Kd6 3.Qh5 Bd7 ( 3...Rg5 4.Qxh6+ $18 )
+4.Qxe5+ {!} Kxe5 5.Bf4# {#} 1-0
+
+[Event "corr 15c/7"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Petersson"]
+[Black "Ortiz"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Purins,O"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3rkb2/ppp1q2p/6N1/7Q/3nn3/8/PPP1BPPP/RNB1K2R b KQ - 0 1"]
+
+1...Nxc2+ 2.Kf1 Rd1+ {!} 3.Bxd1 Ng3+ {!} ( 3...Ng3+ 4.fxg3 Qe1#
+{#} ) 0-1
+
+[Event "corr 15c/10"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Focht"]
+[Black "Gheorghe, N."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/ppk3pp/4Bp2/KPP5/2P1P3/P1R3P1/1r1r3P/3b1R2 b - - 0 1"]
+
+1...b6+ 2.cxb6+ axb6+ 3.Ka6 Rb4 {!!} ( 3...Rb4 4.axb4 Ra2+ $19 ) 0-1
+
+[Event "USSR 15c/13"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Thelidze"]
+[Black "Gutkin, B."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Yudovich,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "5rk1/1b1R1ppp/1q2p3/1p6/p3PQ2/P7/Br3PPP/3R2K1 w - - 0 1"]
+
+1.Rxf7 {!} Rxf7 ( 1...Rd8 2.Rxd8+ Qxd8 3.Rf8+ {!} Qxf8 4.Bxe6+
+$18 ) 2.Bxe6 {!} ( 2.Bxe6 Qxe6 3.Rd8+ $18 ) ( 2.Bxe6 Qc7 3.Qxf7+
+Qxf7 4.Rd8# {#} ) 1-0
+
+[Event "Canada 15c/31"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Fuester, G."]
+[Black "Dobrich, W."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Milic,B"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "7k/pp2pRrn/8/2pP3Q/q1PbN1BP/8/PP5P/7K b - - 0 1"]
+
+1...Qd1+ {!} 2.Kg2 ( 2.Bxd1 Rg1# {#} ) Qxg4+ ( 2...Rxg4+ {?!}
+3.Kh3 ) 3.Qxg4 Rxg4+ 4.Kf3 Rg7 0-1
+
+[Event "DDR 15c/32"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Pawlitzki, Th"]
+[Black "Raetsch, H."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "5r1k/p5b1/1qp4p/1r2p3/4N1P1/2Pn2B1/QP2R1PP/R6K b - - 0 1"]
+
+1...Ra5 {!} 2.Qb1 ( 2.Qxa5 {?} Qxa5 3.Rxa5 Rf1# {#} ) Rxa1 3.Qxa1
+Qa6 {!} 4.Qb1 {?} ( 4.Qg1 {?} Nc5 {!} 5.Re1 Nxe4 $19 )
+( 4.Qd1 {!?} Nxb2 5.Qe1 Nd3 6.Qd1 $17 ) Nc1 {!} 5.Qxc1
+( 5.Rf2 Qf1+ {!} $19 ) Qxe2 0-1
+
+[Event "USSR 15c/34"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kalnoy"]
+[Black "Islamov"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Yudovich,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bbqr1k/1p4pp/p7/5p2/2B1pN2/1P2PnP1/PB2QPKP/2RR4 w - - 0 1"]
+
+1.Rxd8 {!} Qxd8 2.Nh5 Rf6 3.Rd1 Qe7 4.Bxf6 gxf6 5.Qb2 Ne5 6.Qa3
+{!} ( 6.Qa3 Qxa3 7.Rd8+ $18 ) ( 6.Qa3 Qe8 7.Nxf6 Nxc4 8.bxc4
+Qf7 9.Rd8+ Kg7 10.Ne8+ Kg6 11.Qd6+ $18 ) 1-0
+
+[Event "DDR 15c/39"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Espig, L."]
+[Black "Brueggemann, Jo"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "7r/p1r1kppp/1p2p3/4P3/P1n3R1/2P1B3/5PPP/3R2K1 w - - 0 1"]
+
+1.Bg5+ {!} f6 2.Bxf6+ {!} ( 2.Bxf6+ gxf6 3.Rg7+ $18 ) 1-0
+
+[Event "Budapest 15c/46"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Ribli, Z."]
+[Black "Vaganian, R."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Florian,T"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1r3k1/1q3ppp/pnn1pb2/3p3b/QP1P4/P1R2N1P/1B1NBPP1/2R3K1 w - - 0 1"]
+
+1.Bxa6 {!!} Nxa4 ( 1...Rxa6 2.Qb5 Ne7 3.Rxc8+ Nexc8 4.Qe8# {#} )
+( 1...Qxa6 2.Qxa6 Rxa6 3.Rxc6 $16 ) 2.Bxb7 Nxc3 3.Rxc3 {!}
+( 3.Bxc8 Ne2+ ) Nxd4 {!} 4.Rxc8+ Rxc8 5.Bxd4 Rc1+ 6.Kh2 Bxd4
+7.Nxd4 Ra1 8.b5 {!} 1-0
+
+[Event "Sverige 16c/1"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Westin, B."]
+[Black "Fredriksson, L."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Velimirovic,D"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rr2k1/1b4p1/6B1/p3pPpN/1pp1P3/7Q/PPPq4/1KR5 b - - 0 1"]
+
+1...Qxc2+ {!!} ( 1...Qxc2+ 2.Kxc2 Bxe4+ ) ( 1...Qxc2+ 2.Rxc2
+Rd1+ 3.Rc1 Bxe4+ ) 0-1
+
+[Event "USSR 16c/3"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Vinogradov, K."]
+[Black "Fedin, V."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Velimirovic,D"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2r1b2k/p3qpp1/1p2pN1p/4P2Q/3P1nP1/3B3R/PP5P/6K1 w - - 0 1"]
+
+1.Qxh6+ {!} gxh6 2.Rxh6+ Kg7 3.Rh7+ Kf8 4.Rh8+ Kg7 5.Rg8+ Kh6
+6.g5# { #} 1-0
+
+[Event "USSR 16c/4"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Polies"]
+[Black "Kremenietsky, A.M."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Kremenietsky,A.M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r3r1k1/5ppp/1qpp1b2/p3nN2/4P3/4Q2P/PPPRBPP1/2K4R b - - 0 1"]
+
+1...Qxb2+ {!!} 2.Kxb2 Nd3+ 3.Ka3 ( 3.Kb1 Rab8+ $19 )
+( 3.Kb3 Reb8+ 4.Ka4 ( 4.Kc4 Nb2# {#} ) Rb4+ 5.Ka3 Bb2# {#} )
+Bb2+ 4.Ka4 ( 4.Kb3 Reb8+ 5.Kc4 Ne5# {#} ) Rxe4+ {!!} 5.c4
+( 5.Qxe4 Nc5# {#} ) Rxc4+ 6.Kb3 Rc3+ 7.Ka4 Ra3# {#} 0-1
+
+[Event "USSR 25c/27"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Fominyh, A."]
+[Black "Sabinin"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Yudovich,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "6k1/p2Qb3/1pp1r3/6p1/1P5R/6BP/q5PK/8 w - - 0 1"]
+
+1.Qe8+ Bf8 2.Rh8+ {!} Kxh8 3.Qxf8+ Kh7 4.Qf7+ Kh6 ( 4...Kh8 5.Be5+
+$18 ) 5.Be5 1-0
+
+[Event "corr 25c/29"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Uzunov, N."]
+[Black "Gerasimov, N."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Mechkarov,V"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "4r1k1/r4p1p/pq4pB/1pbBpN1n/1n2P3/5Q2/PP3PPP/R1R3K1 w - - 0 1"]
+
+1.Rxc5 {!} Qxc5 2.Be3 Qc7 3.Bxf7+ Qxf7 ( 3...Kxf7 4.Nd6+ Ke7
+5.Qf7+ Kxd6 6.Rd1+ $18 ) 4.Nh6+ Kg7 5.Nxf7 Rxf7 6.Bh6+ {!} Kg8
+7.Qc3 1-0
+
+[Event "Argentina 25c/31"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Najdorf, M."]
+[Black "Seidler, A."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Minev,N"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3R1nk1/2Q2p2/2q1rP1p/6p1/8/2P1p1BP/6P1/7K w - - 0 1"]
+
+1.Qe7 {!} ( 1.Qxc6 Rxc6 2.Bd6 {?} Rxd6 {!} 3.Rxd6 e2 $19 ) Rxe7
+2.fxe7 1-0
+
+[Event "Oslo 25c/33"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Niklasson, Ch"]
+[Black "Lundin, E."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Minev,N"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/4p3/P1b1P3/Rn2n1q1/5N2/1PB1Q1PP/2B2R1K b - - 0 1"]
+
+1...Ng3+ {!} ( 1...Ng3+ 2.hxg3 Qh5+ {!} 3.Nh2 Qxe2 $19 ) 0-1
+
+[Event "Portugal 26c/2"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pereira, S."]
+[Black "Pereira, Re"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Pereira,Al"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "7k/7p/p2p2r1/1p1Rbpr1/5p1q/2PN1Q2/PP3PPP/6RK b - - 0 1"]
+
+1...Rg3 {!} ( 1...Rg3 2.fxg3 Qxh2+ {!!} 3.Kxh2 Rh6+ $19 ) 0-1
+
+[Event "USSR 26c/4"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Klovsky, R."]
+[Black "Babodzhanov"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Gufeld,E"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2pp2/3pb3/3Qb2R/4P1p1/1BN1Bn2/PPP2P2/2K4R w - - 0 1"]
+
+1.Rh8+ {!} Kg7 ( 1...Bxh8 2.Qh5 $18 ) 2.R8h7+ {!} Kg8 3.Qxe6
+{!} fxe6 4.Bxe6+ Rf7 5.Bxf7+ Kf8 6.Bh6+ ( 6.Bh6+ Bg7 7.Rxg7 e5
+( 7...e6 8.Rh7+ Ke7 9.Bh5+ {!} Kf6 10.Rf7+ Ke5 11.Bg7+ $18 )
+8.Rh7+ Ke7 9.Bh5+ {!} Ke6 10.Bxg4+ Kf6 11.Nd5+ Kg6 12.Rg7# {#} ) 1-0
+
+[Event "USSR 26c/5"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Gurevich, D."]
+[Black "Kuzovkin, A."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Gufeld,E"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1rbb3/1R3pkp/2pBp1p1/p3P3/q6P/6P1/P2Q1P2/1R3BK1 w - - 0 1"]
+
+1.R1b4 {!} axb4 2.Qh6+ {!} Kxh6 3.Bf8+ Kh5 4.Be2# {#} 1-0
+
+[Event "Roskilde 26c/9"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Fedder, S."]
+[Black "Westerinen, H."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Kaikamdzozov,J"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "6rk/p2b4/3p1Nqp/2pPpn2/P1P4p/5P1P/Q2B1NP1/6RK b - - 0 1"]
+
+1...Ng3+ {!} 2.Kh2 Nf1+ {!} 3.Kh1 Qg3 {!!} ( 3...Qg3 4.N6g4 Qh2+
+{!} 5.Nxh2 Ng3# {#} ) 0-1
+
+[Event "France 26c/23"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Herb, P."]
+[Black "Bellas, A."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Bozic,Al"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2kr2r1/pbp4p/1p4p1/1NqpNp2/4nQ2/8/PPPR1PPP/2K1R3 w - - 0 1"]
+
+1.Nc6 {!!} {[#C5 #CAc7#]} Rg7 ( 1...Qxc6 2.Nxa7+ $18 )
+( 1...Rd7 2.Nbxa7# {#} ) ( 1...Nd6 2.Nbxa7+ Kd7 3.Re7# {#} )
+2.Nbxa7+ Kd7 3.Qe5 Bxc6 4.Qxg7+ Kd6 5.f3 {!} ( 5.f3 Nxd2 6.Qe7#
+{#} ) 1-0
+
+[Event "USSR 26c/26"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Domuls, E."]
+[Black "Terentiev, S."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Domuls,E"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b2rk1/1p4pp/p1n3q1/4ppN1/7Q/2P1B3/P1P2PPP/R2R2K1 w - - 0 1"]
+
+1.Rd6 {!} Rf6 ( 1...Qxd6 2.Qxh7# {#} ) 2.Qc4+ Kh8 ( 2...Kf8 3.Bc5
+{!} Rxd6 4.Bxd6+ Ke8 5.Qg8+ Kd7 6.Rd1 $18 ) 3.Qxc6 {!!} Rxd6
+4.Qxd6 {!} ( 4.Qxd6 Qxd6 5.Nf7+ $18 ) 1-0
+
+[Event "Odzaci 27c/4"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Konc, V."]
+[Black "Markovic, Mirolj"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Minev,N"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "rn1q1k1r/pp3p1p/6p1/1BpPb2n/6b1/2N2N2/PP4PP/R1BQ1RK1 w - - 0 1"]
+
+1.Nxe5 {!!} Bxd1 2.Bh6+ Kg8 3.Nxf7 Qe7 ( 3...Qh4 4.Raxd1 $18 )
+4.d6 {!} Qxf7 ( 4...Qe6 5.Ng5 Qe3+ 6.Kh1 {#C5 #CBf8, #CCc4+-} )
+5.Bc4 {!} 1-0
+
+[Event "Magyarorszag 27c/9"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Sugar, K."]
+[Black "Vegh, E."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Forintos,Gy; Vegh,E"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/5k2/2R1bnpp/2q2p2/5P2/4PB2/3R1KPP/8 b - - 0 1"]
+
+1...Ng4+ {!} 2.Kg3 Qxe3 3.Re2 Qxf4+ {!!} 4.Kxf4 g5+ 5.Kg3 f4+
+( 5...f4+ 6.Kh3 Nf2# {#} ) 0-1
+
+[Event "USSR 27c/29"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Musaev"]
+[Black "Karmov, M."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Milic,B"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3ppp/2n1p3/q2n4/1b1P4/P1NB1N2/1P1B1PPP/R2QK2R b KQkq - 0 1"]
+
+1...Nxc3 {!} 2.axb4 Nxb4 {!!} ( 2...Nxd1 {?} 3.bxa5 Nxb2 4.Be2
+{!} { #C5 #CCc3#A5} ) 3.Be4 {!!} ( 3.Rxa5 {?} Nxd3+ 4.Kf1 Nxd1
+5.Ke2 N1xb2 $19 ) Qd5 {!!} ( 3...Nxd1 {?} 4.Rxa5 {#C5 #CCb4+-} )
+4.Bxd5 ( 4.bxc3 Qxe4+ 5.Kf1 Nd5 $17 ) Nd3+ 5.Kf1 Nxd1 6.Ke2 {?}
+( 6.Bb3 {!!} N1xb2 {!} ( 6...N1xf2 {?!} 7.Ke2 {!} Nxh1
+( 7...Bd7 {?} 8.Rhf1 Bb5 9.Ba4 {!} Bxa4 10.Rxa4 Nxb2 11.Ra2 Nfd3
+12.g3 {!} Rc8 13.Rb1 Rc2 14.Ne1 {!!} Nxe1 15.Rbxb2 {!} $18 )
+8.Rxh1 Nxb2 9.Rb1 O-O 10.Rxb2 $14 ) 7.Ke2 Bd7 8.Rhb1 Bb5 9.Ke3
+{!} O-O {!} 10.Bc3 Nc4+ 11.Bxc4 ( 11.Kxd3 Na3+ {} ) Bxc4 12.Rxb7
+{!} Rfc8 {!} {} ) exd5 7.Rhxd1 Nxb2 8.Rdb1 Nc4 9.Rb5 O-O 10.Rxd5
+Re8+ 11.Kd3 Be6 12.Rc5 Nd6 {!} 13.Ng5 {?} Bf5+ 14.Kc3 h6 15.Bf4
+b6 {!} 16.Rd5 Rac8+ 17.Kb4 a5+ 18.Ka4 Bc2+ 19.Ka3 Nc4+ 0-1
+
+[Event "USSR 27c/30"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Podgaets, M."]
+[Black "Sturua, Z."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Tal,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1n3rk1/p4pp1/1pp1P2p/5B2/2b2q2/1Q4N1/PP3PPP/4R1K1 w - - 0 1"]
+
+1.e7 {!} Bxb3 ( 1...Re8 2.Qc3 Bd5 3.Nh5 Qg5 4.g4 {!} f6 5.f4
+Qh4 6.Re3 {!} {#C5 #CBh3+-} ) 2.Bh7+ Kxh7 3.exf8Q Bd5 {?}
+( 3...Qd2 {!} 4.Rf1 Nd7 5.Qa3 Bc4 6.Ra1 Nc5 7.Nf1 $16 ) 4.Qxg7+
+{!} Kxg7 5.Nh5+ Kh7 6.Nxf4 Bxa2 7.Ra1 Bc4 8.Rxa7 b5 9.Rc7 1-0
+
+[Event "Bucuresti 27c/31"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Peev, P."]
+[Black "Haik, A."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Haik,A"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3pp1/2p2q1p/3Pn3/1b2P3/2NB4/PP2NPPP/R2QK2R b KQkq - 0 1"]
+
+1...Qf3 {!!} 2.Bb1 ( 2.gxf3 Nxf3+ 3.Kf1 Bh3# {#} ) Qxg2 3.Kd2
+Qxf2 4.Kc1 Qe3+ 5.Qd2 Qxd2+ 6.Kxd2 Bg4 7.a3 Be7 8.Ba2 O-O-O 0-1
+
+[Event "Portugal (ch) 28c/6"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Fernandes, An"]
+[Black "Santos, A."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Pereira,Al"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/2p3pp/b1pb4/p2p4/5n1q/1P1P2N1/PBQ1NPPP/3RR1K1 b - - 0 1"]
+
+1...Nxg2 {!} 2.Kxg2 Rxf2+ {!} 3.Kxf2 Qxh2+ 4.Ke3 Re8+ 5.Ne4
+( 5.Kf3 Rf8+ 6.Kg4 ( 6.Ke3 Qf2+ 7.Kd2 Bf4+ 8.Kc3 Qc5# {#} ) Bc8+
+$19 ) ( 5.Kd2 Qh6+ 6.Kc3 Bb4+ $19 ) Bf4+ 6.Kf3 ( 6.Nxf4 Qxc2
+7.Rd2 Rxe4+ {!} ) ( 6.Kd4 Rxe4+ {!} 7.Kc3 ( 7.dxe4 Qf2+ 8.Kc3
+Qc5# {#} ) ( 7.Kc5 Be3+ 8.Kxc6 Qd6# {#} ) Be5+ 8.d4
+( 8.Kd2 Qh6+ $19 ) Re3+ $19 ) dxe4+ 7.dxe4 Bxe2+ ( 7...Bxe2+
+8.Qxe2 Qg3# {#} ) 0-1
+
+[Event "USSR 28c/14"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Lerner, K."]
+[Black "Sideif-Sade, F."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Taimanov,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k3/1p3p2/pQ3bp1/2p1q3/2B5/B3P3/P4PP1/3RK3 w q - 0 1"]
+
+1.Bb2 {!} Qxb2 2.Rd8+ {!} Bxd8 3.Qxb2 1-0
+
+[Event "Greece 29c/1"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Triantafillidis, A."]
+[Black "Vlahos, K."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Siaperas,T; Minev,N"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "5rk1/5r2/1NRR2p1/3PQ3/7p/3q3P/6P1/7K b - - 0 1"]
+
+1...Qxh3+ {!} ( 1...Qxh3+ 2.gxh3 Rf1+ 3.Kg2 R8f2# {#} )
+( 1...Qxh3+ 2.Qh2 Rf1# {#} ) ( 1...Qxh3+ 2.Kg1 Rf1# {#} ) 0-1
+
+[Event "USSR 29c/3"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Chepukaitis, G."]
+[Black "Glyanets, A."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Livshits,A"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1r2r2k/pp2Npbp/3qb1p1/6Q1/5P2/2B2P2/PP3R1P/4R1K1 w - - 0 1"]
+
+1.Qf6 {!} Rg8 2.Rxe6 {!} Qxe6 ( 2...fxe6 3.Nxg6+ $18 ) 3.Nxg6+
+{!} 1-0
+
+[Event "USSR 36c/35"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Rashkovsky, N."]
+[Black "Kupreichik, V."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Rashkovsky,N"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3r2r1/p4kp1/2n2pb1/1p1p1q2/2pP1B1R/2P1PP2/P3BK1Q/6R1 w - - 0 1"]
+
+1.e4 {!} dxe4 2.fxe4 Qxe4 3.Rxg6 {!!} Rde8 4.Be5 {!} Qc2 5.Rg2
+{??} ( 5.Rf4 {!} Nxe5 6.dxe5 Rxe5 7.Rfxf6+ gxf6 8.Qh7+ Ke6 9.Qxg8+
+Kf5 10.Rg5+ Ke4 ( 10...fxg5 11.Qh7+ $18 ) 11.Qg6+ f5 12.Rg4+
+Kd5 13.Rd4+ Kc5 14.Qd6# {#} ) Nxe5 6.dxe5 Rxe5 7.Kg1 Qxc3 8.Bf1
+g5 {?} 9.Rh7+ Ke6 10.Qh5 Qd4+ {??} 11.Kh1 {??} {} ( 11.Rf2 {!}
+{#C5 #CAf7+-} ) Re4 $19 1-0
+
+[Event "London II 37c/4"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "McKay, R."]
+[Black "Condie, M."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Lawton,G"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "6R1/p2r1n1p/1pb3rk/3pB3/3P1PP1/P7/8/4R1K1 w - - 0 1"]
+
+1.Kf2 {!!} ( 1.Kf2 Rxg8 2.Rh1+ Kg6 3.f5+ Kg5 4.Kg3 {!} Nxe5 5.dxe5
+{ #C5 #CBh5#} ) 1-0
+
+[Event "Budapest 37c/9"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Andreev, D."]
+[Black "Cserna, L."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Tompa,J"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1nr2rk1/1b1nbppp/p7/1p3PP1/3Qp1NP/PP2B3/2q1B3/R2NK1R1 w Q - 0 1"]
+
+1.Nh6+ {!} Kh8 2.Qxg7+ {!!} ( 2.Qxg7+ Kxg7 3.Bd4+ Bf6 4.gxf6+
+Kh8 5.Rg8+ {!} Rxg8 6.Nxf7# {#} ) 1-0
+
+[Event "corr 37c/14"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Palevich, M."]
+[Black "Sosnin, N."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Palevich,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnq2k1r/1p3p1p/3p4/p3P1R1/1b5Q/1P2NB2/P2P2P1/R5K1 w - - 0 1"]
+
+1.Bxb7 {!!} Qxb7 2.Rg8+ {!!} Rxg8 3.Qd8+ Kg7 4.Nf5+ Kg6
+( 4...Kh8 {??} 5.Qf6+ ) 5.Qf6+ Kh5 6.Qh6+ ( 6.Qh6+ Kg4 7.Ne3+
+Kg3 8.Qh2# {#} ) 1-0
+
+[Event "Oakham 37c/15"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Grivas, E."]
+[Black "Norwood, D."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Norwood,D"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "4N1k1/5p2/8/2pP3p/r1Nb2bq/1Q6/1P4PP/2R4K b - - 0 1"]
+
+1...Rxc4 {!!} 2.Qxc4 $7 Be5 3.h3 Qg3 4.Kg1 ( 4.Nf6+ Kh8 5.Nxg4
+hxg4 6.Kg1 gxh3 7.Qc2 hxg2 $19 ) Bd4+ {!} 5.Kh1 Bf3 {!} {[#C5 #CAh3#]}
+ 0-1
+
+[Event "Champigny sur Marne (open) 37c/24"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Tompa, J."]
+[Black "Lauvsnes, A."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Tompa,J"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/p4p1p/2p2P1b/3n2q1/3R3N/PpB3P1/1Q3P1P/1K2R3 w - - 0 1"]
+
+1.Re5 {!} Nxc3+ ( 1...Qxf6 2.Rg4+ $18 ) 2.Qxc3 Qxe5
+( 2...Qxf6 3.Nf5 {!} {(#C5 #CBd6, #CDh6)} Bg5 4.Ne7+ Kg7 5.Rxg5+
+$18 ) 3.Rg4+ Qg5 4.Nf5 {!} Kh8 5.Rxg5 Bxg5 6.f4 Bxf4 7.gxf4 Rab8
+8.Nh6 {[#C5 #CAg3]} 1-0
+
+[Event "Trnava 37c/30"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Plaskett, J."]
+[Black "Cabrilo, G."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Plaskett,J"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1qbk2r/3n2pp/N1n2p2/1B2pR2/1p6/4B3/PPP1Q1PP/5RK1 w kq - 0 1"]
+
+1.Nxb4 {!} $18 Nxb4 2.Rxe5+ {!!} fxe5 ( 2...Kf8 3.Bxd7 Qxd7 4.Bc5+
+Kf7 5.Qc4+ Kg6 6.Qe4+ f5 7.Rfxf5 ) 3.Qh5+ Ke7 ( 3...g6 4.Qxe5+
+Be7 5.Qxh8+ Bf8 6.Qxf8# {#} ) 4.Rf7+ Kd6 5.Qd1+ Nd5
+( 5...Kc7 6.Rxd7+ Kb8 7.Qd6+ Bc7 8.Qxb4 ) 6.Rxd7+ Qxd7 7.Bxd7 1-0
+
+[Event "England 38c/7"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Perkins, A."]
+[Black "Littlewood, P."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Littlewood,P"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r5k1/p4Rp1/bp1p3p/2pPp1qB/4P3/n1P1PQ2/P5PP/5NK1 w - - 0 1"]
+
+1.h4 {!} Qxh4 2.Rxg7+ Kxg7 3.Qf7+ Kh8 4.Bg6 1-0
+
+[Event "Schweiz 38c/10"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Toth, B."]
+[Black "Nemet, I."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "RR"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "5rk1/7p/2Np2p1/3P4/4Qn1q/R7/5rP1/4RBK1 b - - 0 1"]
+
+1...Rxf1+ {!} 2.Kxf1 ( 2.Rxf1 Nh3+ {!} $19 ) Ne2+ {?}
+( 2...Nh3+ {!} 3.Rf3 Qf2+ {!!} 4.Rxf2 Rxf2# {#} ) 3.Qf3 Ng3+
+4.Kg1 Rxf3 5.Rxf3 Nf5 6.Ne7+ {??} {} ( 6.Ref1 {} ) Nxe7 0-1
+
+[Event "Warszawa 38c/16"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Krason, J."]
+[Black "Szypulski, A."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Przewoznik,J"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1k1r1b1r/pp1nqp1p/5np1/1B2Nb2/3Pp3/2N5/PPQ3PP/R1B2RK1 w - - 0 1"]
+
+1.Nc6+ {!!} bxc6 2.Bf4+ Kb7 3.Bxc6+ {!} Kxc6 4.Nd5+ {!} Kxd5
+( 4...Kb7 5.Rfc1 {!!} $18 ( 5.Qc7+ {?} Ka6 6.Qc4+ ( 6.b4 Nxd5
+7.Qc6+ N7b6 8.b5+ Ka5 9.Bd2+ Qb4 {!!} $19 ) ( 6.Qc6+ Nb6 7.Nxe7
+Bxe7 8.a4 Bd7 $17 ) Kb7 7.Qc7+ {} ) ) 5.Rac1 Nc5 ( 5...Qc5 6.dxc5
+Bxc5+ 7.Kh1 Ke6 8.b4 {!} Bb6 9.Qc6+ Ke7 10.Bd6+ Ke8 11.a4 a5
+12.bxa5 Bxa5 13.Rc5 Bb6 14.Rfxf5 {!} gxf5 15.Re5# {#} ) 6.Qc4+
+Kc6 7.Qa6+ Kd7 8.Qb5+ Ke6 9.Rxc5 Ne8 ( 9...Nd5 10.Rc6+ Rd6
+( 10...Kd7 11.Rb6+ Kc8 12.Rb8# {#} ) 11.Bxd6 Qxd6 12.Rfc1 {!}
+Be7 13.R1c5 Nb6 14.Rxf5 gxf5 15.Qe5+ $18 ) 10.Re5+ Kf6 11.Rxe7
+Kxe7 12.Qe5+ $18 1-0
+
+[Event "Manzanillo 65c/8"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Arencibia, W."]
+[Black "Sariego, W."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Becerra Rivero,J; Moreno,Ale"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rq3r/p3bk2/4pp2/2Np2p1/3P1n2/1P3N1P/P1Q2PP1/2R1R1K1 w - - 0 1"]
+
+1.Nxe6 {!} Qb6 ( 1...Nxe6 2.Qf5 Ng7 ( 2...Qb6 3.Ne5+ Kg7 4.Qg6+
+$18 ) 3.Nxg5+ Kf8 4.Qxc8 fxg5 5.Rxe7 {!} Kxe7 6.Rc7+ Kf6 7.Rc6+
+{!} Kf7 8.Qb7+ $18 ) 2.Nfxg5+ {!} ( 2.Nfxg5+ fxg5 3.Qf5+ Bf6
+4.Nxg5+ Kg7 5.Rxc8 Rxc8 6.Qh7+ $18 ) 1-0
+
+[Event "La Habana 65c/9"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Gonzalez, M.A."]
+[Black "Bravo, J."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Perez,J.C"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3rnrk1/2p4p/1p5q/pPpPN2n/P1P1Qp2/3B4/4R1PP/3R1K2 b - - 0 1"]
+
+1...Ng3+ {!} 2.hxg3 fxg3+ 3.Ke1 ( 3.Kg1 Qh2# {#} )
+( 3.Nf3 Qh1# {#} ) Rf1+ {!} ( 3...Rf1+ 4.Kxf1 Qh1# {#} ) 0-1
+
+[Event "Lviv 65c/15"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Zheliandinov, V."]
+[Black "Mikhalchishin, A."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Mikhalchishin,A"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3r1rk1/1b3ppp/pp2pnq1/2b5/P4P2/2N1P2P/1P1BBQPK/2RR4 b - - 0 1"]
+
+1...Rxd2 {!} 2.Rxd2 Bxe3 {!} 0-1
+
+[Event "Ukraine 65c/20"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Scharapov, E."]
+[Black "Retinsky, V."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Retinsky,V"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r5k1/1R3ppp/2p1r3/3p2qn/3P2bn/2NBP3/2QN1PPP/6RK b - - 0 1"]
+
+1...Qxe3 {!!} 2.Bg6 ( 2.fxe3 Ng3+ {!} 3.hxg3 Rh6 4.Rgb1 Nf3#
+{#} ) ( 2.Bxh7+ Kh8 3.Rxf7 Qxf2 {!} 4.Rxf2 Ng3+ {!} {#C5 #CBh6-+} )
+( 2.Nd1 Qh6 $19 {#EF} ) Qxf2 3.Bxf7+ ( 3.Rxf7 Rxg6 4.Rxf2 Ng3+
+{!} $19 ) Qxf7 {!!} 4.Rxf7 Ng3+ 5.hxg3 Rh6 0-1
+
+[Event "Matanzas 65c/22"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sariego, W."]
+[Black "Medina, M."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Sariego,W"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2brr2k/pp3Qp1/4P2p/8/2qp2P1/P7/1BP2PP1/R4RK1 w - - 0 1"]
+
+1.Bxd4 {!} Rg8 ( 1...Qxd4 2.e7 $18 ) 2.Bxg7+ {!} Rxg7 3.e7 {!!} 1-0
+
+[Event "Bern 66c/1"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Zueger, B."]
+[Black "Kharlov, A."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "RR"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1b4k1/1p3r2/p1p2p2/2P3pQ/P2P4/3qBN1n/4RPP1/5K2 b - - 0 1"]
+
+1...Ng1 {!!} 2.Kxg1 ( 2.Nxg1 Qd1+ $19 ) Qxe2 3.Qg6+ Kf8 0-1
+
+[Event "Zagan 66c/17"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Pinski, J."]
+[Black "Twardowski, L."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Pinski,J"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r3k2r/1bq2p2/p2pp3/1pn3bp/3NP1n1/P1NB1Q2/1PP3PP/4RRBK w kq - 0 1"]
+
+1.Bxb5+ {!} axb5 2.Ndxb5 Qe7 3.Nxd6+ Qxd6 4.Qxf7+ Kd8 5.Rd1 Bd2
+6.Rxd2 {!} ( 6.Bxc5 {??} Qxh2# {#} ) Qxd2 7.Bxc5 {!} Kc8 8.Rd1
+Qxd1+ $8 ( 8...Qh6 9.Qd7+ Kb8 10.Qd6+ Kc8 11.Bb6 {!} $18 {#5Ec7, d8} )
+9.Nxd1 Ra6 10.h3 {!} $18 1-0
+
+[Event "Port Erin 66c/22"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Baburin, A."]
+[Black "Van Mil, J."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Baburin,A"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qr1k1/3n1n1p/bpp1pppb/p2P4/P2P4/BPN2NPP/2P1QP2/3RRBK1 w - - 0 1"]
+
+1.Qxa6 {!!} Rxa6 2.dxe6 Ra7 {?} ( 2...Ra8 $8 3.Bc4 {!} Rxe6 4.Rxe6
+Bf8 5.Bxf8 Kxf8 6.Rxc6 $16 ) 3.Bc4 {!} Rxe6 ( 3...Kg7 4.exf7
+Rh8 5.Re7 $18 ) ( 3...Nf8 4.exf7+ Rxf7 5.Rxe8 Qxe8 6.Re1 Qd7
+7.Re7 $18 ) 4.Rxe6 Bf8 {} 5.Rde1 {!} Bxa3 ( 5...Ra8 6.Re7 {!}
+Bxe7 7.Rxe7 $18 ) 6.Re8+ Kg7 7.Rxd8 Nxd8 8.Re8 Nb7 9.Rc8 Nd6
+10.Rxc6 Bb4 11.Rxd6 Bxd6 12.Nb5 Bb8 13.Nxa7 Bxa7 $18 1-0
+
+[Event "Cuba 71c/4"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Delgado, N."]
+[Black "Arguelles, H."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Perez,Yo; Delgado,N"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bk3r/1pp2pp1/p2p1n1p/5q2/8/4BN2/PPPQ1PPP/3RR1K1 w - - 0 1"]
+
+1.Bb6 {!!} Ne8 ( 1...d5 2.Qa5 $18 ) ( 1...cxb6 2.Qxd6+ Bd7
+( 2...Nd7 3.Qxb6# {#} ) 3.Qxb6+ Kc8 4.Re5 Qf4 ( 4...Qg6 5.Rc5+
+Bc6 6.Rd6 $18 ) 5.Qd6 {!} ( 5.Rd4 Qc1+ 6.Re1 Qxc2 7.Ne5 Re8 )
+Qa4 ( 5...g5 6.Rd4 Qc1+ 7.Re1 Qxc2 8.Qxf6 $18 ) 6.Rc5+ Bc6
+( 6...Kd8 7.Ne5 $18 {#C5 b3} ) 7.Ne5 Ra7 8.Nc4 $18 ) 2.Bxc7+
+{!} Nxc7 ( 2...Kxc7 3.Rxe8 $18 ) 3.Qxd6+ Bd7 4.Re7 Kc8 5.Rxd7
+Ne6 6.Ne5 f6 7.Nc6 1-0
+
+[Event "Biel (open) 71c/8"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Bagirov, R."]
+[Black "Rieke, Th"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Bagirov,R; Bagirov,I"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3nk3/8/3p1R2/2pP1N1p/2P1p1qP/2Q1K1p1/6P1/3r4 w - - 0 1"]
+
+1.Rf8+ {!} Kxf8 ( 1...Kd7 2.Rxd8+ {!} Kxd8 3.Qa5+ Ke8 4.Qa8+
+Kd7 ( 4...Kf7 5.Nh6+ $18 ) 5.Qa7+ Kd8 6.Qe7+ Kc8 7.Nxd6+ Kb8
+8.Qb7# {#} ) 2.Qh8+ Qg8 ( 2...Kf7 3.Nh6+ $18 ) 3.Qf6+ Nf7 {?}
+( 3...Qf7 4.Qxd8+ Qe8 5.Qf6+ Qf7 6.Qh8+ Qg8 7.Qh6+ Ke8
+( 7...Kf7 8.Qe6+ Kf8 9.Qe7# {#} ) 8.Qxh5+ Kd8 9.Qxd1 $18 ) 4.Qe7#
+{#} 1-0
+
+[Event "Cuba 71c/17"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Perez, J.C."]
+[Black "Bravo, J."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Perez,J.C"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1nrk/4b1pp/p4p2/1pp1p2R/P1N1P1Q1/1P1PBR2/K1P3PP/8 w - - 0 1"]
+
+1.Nxe5 {!} fxe5 ( 1...Qe8 2.Rxh7+ {!} Nxh7 ( 2...Kxh7 3.Rh3+
+$18 ) 3.Ng6+ $18 ) 2.Rxf8 {!} Rxf8 ( 2...Qxf8 3.Rxh7+ Kxh7 4.Qh5#
+{#} ) 3.Qg6 {!} Kg8 ( 3...h6 4.Bxh6 {!} $18 ) 4.Rxh7 Rf7 5.Qh5
+{[#C5 #CBh8#]} 1-0
+
+[Event "Cuba 71c/21"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Fernandez, E."]
+[Black "Leal, V."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Nogueiras,J"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1r2/1bp2p1n/pb1p2kp/1p1PpNpn/P3P2P/1BP1N1B1/1P3PP1/R2Q1RK1 w - - 0 1"]
+
+1.Qxh5+ {!!} Kxh5 2.Bd1+ g4 $8 ( 2...Kg6 3.h5+ Kf6 4.Ng4# {#} )
+3.Nxg4 {[#C5 #CDe5#]} Kg6 $8 4.h5+ Kg5 ( 4...Kxh5 5.Nxe5+ Kg5
+6.Bh4+ Kf4 7.Nd3+ Kxe4 8.Ng3+ {!} Kxd3 ( 8...Kxd5 9.Bxd8 Raxd8
+10.Bf3+ Kc4 11.Bxb7 Kxd3 12.Be4+ $18 ) 9.Bb3 {!} {(#C5 #CBd1#)}
+Bxf2+ ( 9...Be3 10.Rad1+ Bd2 11.Rxd2+ $18 ) 10.Kxf2 Qf6+ 11.Bxf6
+{#C5 #CBad1+-} ) 5.Re1 {!} { [#C5 6.#CCh4 #C8f4 7.g3#]}
+( 5.Re1 Kxh5 6.Nxe5+ Kg5 7.Bh4+ Kf4 8.Nd3# {#} ) 1-0
+
+[Event "Saint Petersburg 71c/22"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Khamidulin, V."]
+[Black "Tunik, G."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Tunik,G"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r5k1/pp3pNp/2p5/3q4/P1nBn3/2P2PPP/2Q3K1/3R4 b - - 0 1"]
+
+1...Qxd4 {!} ( 1...Qxd4 2.Nf5 Qe5 3.Qxe4 Qxf5 {!} 4.Qxc4 Qc2+
+$19 ) 0-1
+
+[Event "Sao Paulo 71c/23"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Chaves, Jor"]
+[Black "Baccarin, N."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Vera,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1rb2rk1/5p1p/2q3n1/pp3QN1/2pB4/8/PPP3PP/3R1R1K w - - 0 1"]
+
+1.Nxf7 {!!} Qxg2+ {!} {#EC} ( 1...Bxf5 2.Nh6# {#} ) 2.Kxg2 Nh4+
+3.Kh1 Nxf5 4.Rxf5 Rxf7 ( 4...Bb7+ 5.Kg1 Rxf7 6.Rg5+ Kf8 7.Bc5+
+Ke8 ( 7...Re7 8.Rf1+ Ke8 9.Rg8+ Kd7 10.Rxb8 $18 ) 8.Rg8+ Rf8
+9.Rxf8# {#} ) 5.Rg1+ Kf8 6.Bc5+ Ke8 7.Rg8+ 1-0
+
+[Event "Koeln 71c/27"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Rauschenberger, J."]
+[Black "Heinel, M."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Heinel,M"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2nnr1k/pp5b/2p1qb1P/3pB2R/3P4/P1N2B2/1PP3Q1/2K3R1 w - - 0 1"]
+
+1.Qg7+ {!!} Nxg7 ( 1...Bxg7 2.hxg7+ Kg8 ( 2...Nxg7 3.Rxg7 $18 )
+3.Rxh7 {!} Nf7 4.Rh8+ Nxh8 5.gxh8Q+ Kf7 6.Qh7+ $18 ) 2.hxg7+
+Kg8 3.Rxh7 {!} Nf7 ( 3...Kxh7 4.gxf8N+ $18 ) ( 3...Qe7 4.Rh8+
+Kf7 5.Bh5+ Ke6 6.gxf8Q $18 ) 4.gxf8Q+ Kxf8 5.Bh5 {!!} Nxe5
+( 5...Bxe5 6.Bxf7 Bf4+ 7.Kb1 Qxf7 8.Rxf7+ Kxf7 9.Rf1 $18 )
+( 5...Ng5 6.Rh6 Qh3 7.Rxf6+ Ke7 8.Ne2 {!!} Qxh5 ( 8...Qe3+ 9.Kd1
+$18 ) 9.Nf4 {!} Qh7 10.Rxg5 $18 ) 6.dxe5 Bxe5 7.Rf1+ Bf6
+( 7...Kg8 8.Bf7+ $18 ) 8.Rh8+ Kg7 9.Rxa8 Bxc3 10.Bf7 {??}
+( 10.bxc3 Qh6+ 11.Kb2 Qxh5 12.Rxa7 Qe2 13.Rxb7+ Kg6 14.Rf8 $18 )
+( 10.Rg1+ {!} Kh7 ( 10...Kh6 11.Rg6+ $18 ) 11.Bg6+ Kh6 12.Re8
+{!} Bxb2+ 13.Kxb2 Qf6+ 14.Kb3 $18 ) Qe3+ 11.Kb1 Bf6
+( 11...Bf6 12.Bh5 Qe5 $19 ) ( 11...Bf6 12.Be8 Qd4 13.Rxf6
+( 13.c3 Qd3+ $19 ) Kxf6 $19 ) 0-1
+
+[Event "Hannover 72c/11"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Alper, Y."]
+[Black "Bronznik, V."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Bronznik,V"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1r3rk1/p2b4/4p2p/2p1nppP/3q4/2NP2P1/PPPQ2B1/2K1RR2 b - - 0 1"]
+
+1...Rxb2 {!} 2.Rxe5 {!} ( 2.Kxb2 Nc4+ $19 ) Rxa2 {!} 3.Rd5 {!}
+Ra1+ {!} 4.Kb2 Qb4+ {!} 5.Kxa1 Qa5+ ( 5...Qa5+ 6.Kb1 Rb8+ $19 )
+( 5...Qa5+ 6.Na2 Qxd2 $19 ) 0-1
+
+[Event "Cuba 72c/17"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Hernandez, Ang"]
+[Black "Ramos, Al"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Hernandez,Ang"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/ppqb1ppp/3b1n2/2pP4/2P5/1P1BB3/P1KQ1P2/R5R1 w - - 0 1"]
+
+1.Rxg7+ {!} Kxg7 ( 1...Kh8 2.Bd4 {!!} $18 ) 2.Bh6+ Kh8 3.Bg7+
+{!!} Kxg7 4.Qg5+ Kh8 5.Qxf6+ Kg8 6.Rg1+ Bg3 7.f4 Bg4 8.Bxh7+
+{!} ( 8.Bxh7+ Kxh7 9.Rh1+ Kg8 10.Rh8# {#} ) 1-0
+
+[Event "USSR 45c/16"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Janovsky, S."]
+[Black "Muratov, V."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Piskov,Y; Janovsky,S"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2kr2n1/pppqb3/4p1p1/6B1/7Q/2Pn4/P3NPPP/R4K1R b - - 0 1"]
+
+1...Nc1 {!!} {[#C5 #CAd1]} 2.Nd4 $7 Qb5+ {!!} 3.Kg1 $7 Rxd4 4.cxd4
+( 4.Qxd4 Ne2+ $19 ) Ne2+ 5.Kf1 Ng3+ 6.Kg1 Qf1+ 7.Rxf1 Ne2# {#} 0-1
+
+[Event "USSR 45c/18"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Odeev, H."]
+[Black "Germanavicius, S."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Odeev,A; Odeev,H"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b2rk1/4bppp/p3p3/q3B1PQ/1p6/1PN5/1PP2P1P/3RK1R1 w - - 0 1"]
+
+1.Nd5 {!} Re8 ( 1...exd5 2.Qh6 {!!} $18 ) 2.g6 {!}
+( 2.g6 fxg6 3.Rxg6 hxg6 4.Qxg6 $18 ) 1-0
+
+[Event "Nederland 45c/27"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Perez Garcia, H."]
+[Black "Kuijf, M."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Perez Garcia,H"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rqr1k1/p4p1p/3Pb1p1/4Q3/5R1N/6P1/P1n3BP/5R1K w - - 0 1"]
+
+1.Nxg6 {!!} fxg6 ( 1...hxg6 2.Rh4 f6 3.Rxf6 Bf7 4.Rxg6+ {!} Bxg6
+5.Bd5+ $18 ) 2.Bd5 Bxd5+ ( 2...Qd7 3.Rf8+ {!} $18 ) 3.Qxd5+ Kg7
+( 3...Kh8 4.d7 $18 ) 4.Qf7+ Kh8 5.Rh4 h5 6.d7 Re1 7.Rxe1 Nxe1
+8.Qxg6 ( 8.Qxg6 Rc5 9.Qe8+ $18 ) 1-0
+
+[Event "Magyarorszag 45c/34"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Perenyi, B."]
+[Black "Pinter, J."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "RR"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2N1q3/1rRr1pk1/3p3p/p2PbQp1/1p2Pp2/nP1B3P/P4PP1/2R3K1 w - - 0 1"]
+
+1.Nxd6 {!!} Bxd6 2.e5 Qxe5 ( 2...Bxc7 3.Qh7+ Kf8 4.Qxh6+ Ke7
+5.Qf6+ Kf8 6.Rxc7 {!} Rbxc7 7.d6 $18 ) 3.Rxd7 Rxd7 4.Qxd7 f3
+5.g3 Qb2 6.Rc6 {!} Qa1+ 7.Bf1 Bxg3 8.Qg4 Bf4 9.Qh5 1-0
+
+[Event "Koblenz 46c/1"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Andruet, G."]
+[Black "Spassky, B."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Vaisman,V"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "4r1k1/3b1p2/5qp1/1BPpn2p/7n/r3P1N1/2Q1RPPP/1R3NK1 b - - 0 1"]
+
+1...Qf3 {!!} ( 1...Qf3 2.gxf3 Nexf3+ 3.Kh1 Bh3 {#C5 #CCg2#} ) 0-1
+
+[Event "Dieren 46c/21"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Meulders, R."]
+[Black "Hartoch, R."]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Meulders,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "3r2k1/1pnr1ppp/1qp1p3/8/1P1b2R1/PB3QPP/1B3P2/3R2K1 w - - 0 1"]
+
+1.Rdxd4 {!} Rxd4 2.Qf6 {!!} ( 2.Qf6 Ne8 3.Bxd4 Nxf6 4.Bxb6 Rd3
+5.Rd4 {!} $18 ) 1-0
+
+[Event "Gausdal 46c/27"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Meduna, E."]
+[Black "Inkiov, V."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "RR"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "5r2/pb2qr1k/1p2p1p1/3p3p/3BnP1P/2PBQRP1/PP6/3R2K1 b - - 0 1"]
+
+1...e5 {!} 2.Bxe5 Qxe5 {!} 3.fxe5 Rxf3 4.Qd4 Rxg3+ 5.Kh2
+( 5.Kh1 Rf4 $19 ) Rf2+ 6.Kh1 Rf4 7.Rd2 Rxh4+ 8.Rh2 Nf2+ {!!}
+( 8...Nf2+ {!!} 9.Qxf2 d4+ $19 ) 0-1
+
+[Event "Nederland 13c/28"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bassler, M."]
+[Black "Scheichel, H."]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Maric,R"]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2ppbp/2p3p1/4Nb2/PP1Pn2N/2nQ2P1/1B2PPBP/R4RK1 b - - 0 1"]
+
+1...Nxg3 {!} ( 1...Nxg3 2.Nxf5 Ncxe2+ $19 ) ( 1...Nxg3 2.Qxg3
+Nxe2+ $19 ) 0-1
+

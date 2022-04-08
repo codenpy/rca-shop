@@ -1,0 +1,121 @@
+[Event "It (cat.15)"]
+[Site "Tilburg (Netherlands)"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Beliavsky Alexander G (SLO)"]
+[Black "Larsen Bent (DEN)"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2610"]
+[SetUp "1"]
+[FEN "r2qk2r/1p1nbpp1/2p1pn1p/4N2P/p2P1B2/3Q2N1/PPP2PP1/2KRR3 w kq - 0 15"]
+[PlyCount "17"]
+[EventDate "1981.??.??"]
+
+15. Ng6 {(white has a huge advantage in actiity, so he should attack. To start
+an attack we should open the positio first. That's why white needs to consider
+Ng6 and Nf7 moves.)} Nd5 (15... fxg6 16. Qxg6+ Kf8 17. Rxe6 Qe8 18. Nf5 Qxg6
+19. hxg6 Bb4 (19... Bd8 20. Rde1) 20. a3 Nd5 21. axb4 Nxf4 22. Re7 Nxg6 23.
+Rxd7 $18) 16. Nf5 {(moving forward and increasing the tension)} Bf8 17. Bd6 {
+(white is attacking the black's weaknesses and wants to mate the black's king.
+That's why white doesn't take the h8 rook, but continues the attack.))} Rg8 18.
+c4 {(pushing away the main defender piece)} Nb4 19. Qh3 {(white is preparing
+the sacrifice on e6 to open the position)} fxg6 20. Rxe6+ {!} Kf7 21. hxg6+ {
+(white is finishing the attack with all the forcing moves)} Kxe6 22. Re1+ Ne5 (
+22... Kf6 23. Ng3) 23. Bxe5 1-0
+
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Miles Anthony J (ENG)"]
+[Black "Beliavsky Alexander G (SLO)"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2565"]
+[BlackElo "2600"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2bppp/2n1pn2/q2p4/2P2B2/P1N1PN2/1PQR1PPP/4KB1R b K - 0 11"]
+[PlyCount "31"]
+[EventDate "1984.??.??"]
+
+11... Ne4 {! (white didn't develop his king-side pieces. Black should use it
+starting the attack. Ne4 is the only logical forcing move on the white's
+territory)} 12. Nxe4 dxe4 13. Qxe4 Rd8 {!} 14. Qc2 {?} e5 {(attack by every
+move)} 15. Bg3 e4 {! (disctructing the queen from the defense. Black is still
+making only the forcing moves)} 16. Qxe4 Bf5 17. Qf4 Rxd2 18. Nxd2 Rd8 19. e4
+Bg4 {! ( to cut off the king)} 20. c5 (20. Qe3 Bb4 21. Bd3 Bxd2+ 22. Qxd2 Rxd3
+23. Qxa5 Rd1#) 20... Nb4 {!} 21. f3 (21. Be2 g5 {!}) (21. axb4 Qa1+) 21... g5 {
+!} 22. axb4 (22. Qxg4 Nc2+) 22... Qa1+ 23. Ke2 gxf4 24. Bxf4 Be6 25. Be5 Qc1
+26. Bc3 Bg5 0-1
+
+[Event "Tournament \"]
+[Site "New York (USA)"]
+[Date "2004.11.16"]
+[Round "1"]
+[White "Schneider Igor (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[WhiteElo "2227"]
+[BlackElo "2565"]
+[SetUp "1"]
+[FEN "r4rk1/1bqnbppn/p2pp2p/2p5/1p2PPP1/3P1N1N/PPP1Q1BP/R1B2RK1 b - - 0 15"]
+[PlyCount "37"]
+[EventDate "2004.??.??"]
+
+{Black has finished the main opening's tasks, so he should start an attack. c4
+move helps black to open the position.)} 15... c4 16. dxc4 Rac8 17. b3 d5 18.
+exd5 Bc5+ 19. Kh1 exd5 {(when the position become open - black got a huge
+activity)} 20. cxd5 Ndf6 {("what else?")} 21. g5 Rfe8 {(counterblow)} 22. Qd3
+Nxd5 23. gxh6 Rcd8 {(black is totally dominating)} 24. Nhg5 Ndf6 25. Qc4 Nxg5
+26. fxg5 Re4 {(the next counterblow)} 27. gxf6 Rxc4 28. bxc4 g6 29. Bb2 Bf8 30.
+Rae1 Bxf3 31. Bxf3 Qxc4 32. Be4 Re8 33. h7+ Kxh7 0-1
+
+[Event "II Rapid"]
+[Site "?"]
+[Date "2007.04.07"]
+[Round "6"]
+[White "Cabrera Al"]
+[Black "Shirov A"]
+[Result "0-1"]
+[WhiteElo "2514"]
+[BlackElo "2699"]
+[SetUp "1"]
+[FEN "r1bqk1r1/pp2npbp/2n3p1/1Bpp2Q1/5P2/1PN2N2/P1PP2PP/R1B1K2R b KQq - 0 10"]
+[PlyCount "37"]
+[EventDate "2007.??.??"]
+
+10... h6 {(the white's queen is too much advanced. Black can use it to gain
+some extra tempos for an attack)} 11. Qh4 g5 {(an attack again and a good
+illustration of the rule: if something seems impossible, you should try to
+figure out how to realize it anyway)} 12. fxg5 hxg5 13. Qh5 (13. Nxg5 Bf6) (13.
+Qxg5 Bxc3) 13... Bf6 {(threatening Rh8. Black attacks by every move)} 14. Ng1
+g4 {(threatening Rh8 again)} 15. Qh6 Nf5 16. Qf4 Nfd4 {(now black has so huge
+advantage in activity, that his attack is easily winning)} 17. Kd1 Nxb5 18.
+Nxb5 Bxa1 $19 19. c3 Be6 20. Nc7+ Kd7 21. Nxa8 Qa5 22. Ne2 Rxa8 23. Ng3 Qxa2
+24. Nf5 Qxb3+ 25. Ke1 Re8 26. Qd6+ Kc8 27. Ng7 Rd8 28. Qxc5 d4 0-1
+
+[Event "World Cup"]
+[Site "?"]
+[Date "2007.12.01"]
+[Round "3.2"]
+[White "Onischuk Al"]
+[Black "Shirov A"]
+[Result "0-1"]
+[WhiteElo "2674"]
+[BlackElo "2739"]
+[SetUp "1"]
+[FEN "r4rk1/2q3pp/4pn2/pBPb1p2/1p1Pn3/4PN1P/1B2QPP1/R3R1K1 b - - 0 20"]
+[PlyCount "45"]
+[EventDate "2007.??.??"]
+
+{(To start an attack black needs to open the position. So he plays g5-g4)} 
+20... g5 21. Ne5 g4 {(black is sacrificing the pawn to open the "g" file)} 22.
+hxg4 fxg4 23. Nd3 (23. Nxg4 Qg7 24. Nxf6+ Rxf6 25. f3 Ng3 $19) 23... Qg7 {(to
+make your attack more powerful you should bring the most powerful attacking
+piece (the queen) into the attack.)} 24. Nf4 Qh6 25. Rf1 g3 26. Nh3 gxf2+ 27.
+Rxf2 Nxf2 28. Nxf2 Bxg2 {( a positional sacrifice helps black to open the
+white's king.} 29. Kxg2 Ra7 30. Rh1 Qg6+ 31. Kf1 Ng4 32. Be8 Qb1+ 33. Kg2 Rxf2+
+34. Qxf2 Qxh1+ 35. Kxh1 Nxf2+ 36. Kg2 Nd1 37. Bc1 b3 38. e4 b2 39. Bxb2 Nxb2
+40. Bb5 a4 41. d5 exd5 42. exd5 a3 0-1
+

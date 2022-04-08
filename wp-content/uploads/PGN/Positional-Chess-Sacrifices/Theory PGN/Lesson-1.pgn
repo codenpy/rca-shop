@@ -1,0 +1,81 @@
+[Event "Match Keres-Euwe +6-5=3"]
+[Site "Amsterdam"]
+[Date "1940.01.05"]
+[Round "9"]
+[White "Euwe, Max"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[ECO "E19"]
+[PlyCount "72"]
+[EventDate "1939.12.24"]
+[EventType "match"]
+[EventRounds "14"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2000.04.19"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 d6 10. Qc2 f5 11. Ne1 Qc8 12. e4 Nd7 13. d5 fxe4 14. Qxe4 Nc5 15.
+Qe2 Bf6 16. Bh3 Re8 17. Be3 Qd8 18. Bxc5 exd5 19. Be6+ Kh8 20. Rd1 dxc5 21. Ng2
+d4 22. f4 {Diagram #} d3 $1 (22... Rxe6 23. Qxe6 d3 24. Qf5) 23. Rxd3 Qxd3 (
+23... Bd4+ 24. Kh1 Qf6 $44 25. f5 Rad8) 24. Qxd3 Bd4+ 25. Rf2 (25. Kh1 Rxe6 { 26... Rae8, 27... Re2 -+} 26. Re1 (26. h3 Rae8 27. Kh2 Re2 28. Rf3 Rxb2)
+26... Rxe1+ 27. Qf1 Rxf1#) 25... Rxe6 26. Kf1 Rae8 {
+'!' ' 27... Bf2, 28.Kf2 Re2 -+'} (26... Bxf2 27. Kxf2 Rae8 28. Nh4 $17) 27.
+f5 (27. Rd2 Be4 28. Qb3 Bf5 29. Qd1 Bh3 30. Rc2 g5 $1 $19 {Euwe}) (27. Re2 Rxe2
+28. Qxe2 Rxe2 29. Kxe2 Bxg2) 27... Re5 28. f6 (28. Rd2 Be4 29. Qb3 Rxf5+ 30.
+Nf4 g5 $19) (28. Rf4 Re2 $19) 28... gxf6 (28... Bxf2 29. Kxf2 Re2+ $2 30. Qxe2
+Rxe2+ 31. Kxe2 Bxg2 32. f7 $18) 29. Rd2 (29. Rxf6 $2 Bxg2+ (29... Re2 $1) 30.
+Kxg2 Re2+ { 31... Bf6 -+}) 29... Bc8 (29... Be4 30. Qb3 Rf5+ 31. Nf4 {-/+/=/+
+}) 30. Nf4 Re3 (30... Re1+ 31. Kg2 R8e3 (31... Rg1+ 32. Kf3 $10) 32. Qc2 Bg4
+$19) 31. Qb1 Rf3+ 32. Kg2 Rxf4 {'!!'} 33. gxf4 Rg8+ 34. Kf3 (34. Kf1 Rg1+ $19)
+(34. Kh1 Bb7+ $18) 34... Bg4+ 35. Ke4 (35. Kg3 Bf5+ $19) 35... Re8+ 36. Kd5 (
+36. Kd3 Bf5#) 36... Bf3+ {New game} 0-1
+
+[Event "USA-ch"]
+[Site "Saint Louis"]
+[Date "2018.04.28"]
+[Round "10"]
+[White "Nakamura, Hikaru"]
+[Black "Akobian, Varuzhan"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2787"]
+[BlackElo "2647"]
+[PlyCount "99"]
+[EventDate "2018.04.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "2018.05.16"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4 Bd7
+9. Nf3 Bxb5 10. Bxb5+ Nc6 11. Bd3 Nge7 12. O-O Bb6 13. Kh1 Qd7 14. Rb1 Nf5 15.
+a4 a6 16. a5 Ba7 17. Bxf5 exf5 18. Ba3 Rc8 19. b5 axb5 20. Rxb5 Nd8 21. Qb1 Rc3
+{Diagram #} 22. e6 fxe6 (22... Nxe6 23. Rxb7) 23. Ne5 Qc7 24. Qb4 g5 25. Qa4
+Rxa3 26. Qxa3 gxf4 27. Re1 Qc3 28. Qc1 Rg8 29. Nd3 Kd7 30. Qxf4 Kc8 31. a6 bxa6
+32. Rb3 Qc7 33. Qxc7+ Kxc7 34. Ra3 Bb6 35. Rxa6 Kb7 36. Ra3 Rg7 37. Rb3 Rc7 38.
+Reb1 Rc6 39. Ne5 Rd6 40. Rh3 Nc6 41. Rxh7+ Ka6 42. Rd7 Rxd7 43. Nxd7 Ba7 44. h4
+e5 45. h5 e4 46. h6 d3 47. cxd3 Bd4 48. dxe4 fxe4 49. h7 Ne7 50. Nc5+ 1-0
+
+[Event "eycc 2010"]
+[Site "batumi"]
+[Date "2010.09.17"]
+[Round "?"]
+[White "Givon Asaf (ISR)"]
+[Black "Siclovan, Cristian Daniel"]
+[Result "1-0"]
+[ECO "C05"]
+[SetUp "1"]
+[FEN "1rnnkb1r/1q1B1pp1/7p/p2pPp1P/3P1N2/PP1Q1NR1/2R3P1/2B1K3 b k - 0 22"]
+[PlyCount "18"]
+[EventDate "2010.??.??"]
+
+22... Qxd7 {black is obviously in serious trouble due to his undeveloped
+position. finish him off!} 23. e6 $1 {
+opening up his king position and giving white a very nice outpost on e5.} fxe6
+24. Ne5 {white is in complete domination.} Qb7 25. Rg6 {white has such
+domination that his pieaces can penetrate to blacks position quit easily.} Qe7
+26. g3 (26. Rxc8 Rxc8 27. Qb5+) 26... Na7 27. Qa6 Qb7 28. Rxe6+ Nxe6 29. Qxe6+
+Be7 30. Qg6+ Kf8 31. Qf7# 1-0

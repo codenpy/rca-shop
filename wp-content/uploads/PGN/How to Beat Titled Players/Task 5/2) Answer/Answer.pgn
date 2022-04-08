@@ -1,0 +1,247 @@
+[Event "Ch URS (1 liga)"]
+[Site "Odessa (Ukraine)"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Podgaets Mikhail (UKR)"]
+[Black "Dvoretzky Mark (RUS)"]
+[Result "0-1"]
+[WhiteElo "2465"]
+[BlackElo "2495"]
+[SetUp "1"]
+[FEN "5r2/p5k1/Pp1p2p1/2pP4/4Q1nq/8/1PP2P2/5RKB w - - 0 29"]
+[PlyCount "4"]
+[EventDate "1974.??.??"]
+
+29. Qg2 {(Let's ask ourselves "what white is going to do on the next move?".
+Not much really. The only possible move for white is Qg3. Can black prevent it
+somehow?)} Rf3 30. c4 Kh6 0-1
+
+[Event "Izt (cat.12)"]
+[Site "Leningrad (Russia)"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Kuzmin Gennadi P (UKR)"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2575"]
+[SetUp "1"]
+[FEN "5rk1/pp3ppp/1qnr2n1/3p4/5P2/1NPB2P1/PPQ2P2/R3R1K1 b - - 0 19"]
+[PlyCount "40"]
+[EventDate "1973.??.??"]
+
+19... Rfd8 {Black is preparing d4 move. It will open the lines for all his
+pieces and will make them much more active.} 20. a3 ({If white makes the
+natural move Rd1 ignoring the opponent's idea, then} 20. Rad1 d4 {of course
+white doesn't want to take and open the lines for the black's pieces. The
+problem is after c4 move black can answer} 21. c4 Nb4 {attacking the white's
+queen, bishop and pawn c2. It is a bit unpleasant for white.}) (20. a4 $5 {
+(this move is also possible and it is a good illustration of the fact that a
+prophylaxis can be very active.)} d4 21. a5 Qc7 22. cxd4 {and black can't
+recapture because of the pin.}) 20... h5 (20... d4 21. c4 {Now black can't
+play Nb4 and he really has nothing to do. White has a very comfortable
+advantage.}) 21. Kg2 {(White has prevented the black's main plan with d4 move.
+Black was very confused about it and he wasn't able to find any other good
+plan untill the end of the game.  That's why black white won the game easily.
+This game shows very good that a prophylaxis is a very powerful weapon.)} h4
+22. Re2 Nf8 23. Nd2 Rh6 24. Nf3 hxg3 25. fxg3 Nd7 26. Rae1 Kf8 27. g4 Qc7 28.
+g5 Rh8 29. Kg3 Nc5 30. Bf5 g6 31. b4 {!} Ne4+ (31... gxf5 32. bxc5 Qd7 33. Rh2
+Kg7 34. Nh4 $18) (31... Nd7 32. Bxg6 fxg6 33. Qxg6 $18) 32. Bxe4 dxe4 33. Qxe4
+Kg7 34. b5 Na5 35. Qe7 {!} Qxe7 (35... Qxc3 36. Re3 Qb2 37. Re5 $18) 36. Rxe7
+Rd3 37. Rc7 Nb3 38. Kg4 Rf8 39. Ree7 1-0
+
+[Event "Moscow (Russia)"]
+[Site "Moscow (Russia)"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Gik E."]
+[Black "Dvoretzky M."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "7r/1pk1n2p/pNb1p1p1/2P2p2/3pP3/6P1/PP3PBP/2K4R w - - 0 22"]
+[PlyCount "38"]
+[EventDate "1972.??.??"]
+
+22. Re1 {(Black certainly needs to develop the h8 rook now. It makes no sense
+to play Rd8 because the d file is closed with his own pawn. So the most
+logical move is Rf8.)} g5 (22... Rf8 {(now rook is making pressure on the "f"
+line and is attacking the f2 pawn. The problem is that white will answer)} 23.
+f4 {closing the "f" file, which makes rook f8 totally passive. Now we may come
+to the conclusion that black should prevent f4 move, before playing Rf8.}) 23.
+Bh1 Rf8 24. f4 gxf4 25. gxf4 Ng6 {(now black's plan works clearly)} 26. exf5
+Rxf5 27. b4 Nxf4 28. Kd2 Rh5 29. Bxc6 Rxh2+ 30. Kd1 Kxc6 31. Re4 e5 32. Rxe5
+Nd3 33. Re6+ Kb5 34. a3 a5 35. bxa5 Kxc5 36. Re7 Nb2+ 37. Ke1 d3 38. Rd7 d2+
+39. Rxd2 Rxd2 40. Kxd2 Nc4+ 0-1
+
+[Event "It (cat.13)"]
+[Site "Mar del Plata (Argentina)"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Timman Jan H (NED)"]
+[Black "Larsen Bent (DEN)"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2595"]
+[SetUp "1"]
+[FEN "1r2rbk1/2q3p1/p1p1bn1p/1pP1p3/N7/1P4P1/PBQ1PPB1/2RR2K1 w - - 0 23"]
+[PlyCount "8"]
+[EventDate "1982.??.??"]
+
+23. Nc3 {(white want to play Ne4 now. It will attack a lot of black's
+weaknesses and will open the diagonal a1-h8 for his bishop b2.)} Kh8 ({Let's
+see what will happen in case if black makes the "natural" move Rbd8 ignoring
+the white's ideas.} 23... Rbd8 24. Ne4 Nd5 (24... Nxe4 25. Rxd8 Rxd8 26. Qxe4 {
+attacking the c6 and e5 pawns}) 25. Nd6 Bxd6 26. cxd6 Rxd6 (26... Qxd6 27. e4
+$18) 27. Bxe5 $18 {Now we may coclude that black should definitely prevent the
+white's move Ne4.}) 24. e3 ({now after} 24. Ne4 {black will answer} Bf5 {
+making an unpleasant pin. You see that now white can't take Nf6 with check and
+this was an idea of a preventive move Kh8.}) 24... Rbc8 25. Ne2 Qf7 26. Qd2 Bd5
+{Black got a good position and won the game finally.} 0-1
+
+[Event "It"]
+[Site "Baden-Baden (Germany)"]
+[Date "1925.??.??"]
+[Round "17"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Marshall Frank J (USA)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2ppp/5n2/4q3/4P3/2NB3P/PP1Q1PP1/R3K2R b KQkq - 0 13"]
+[PlyCount "34"]
+[EventDate "1925.??.??"]
+
+13... Bd7 {(Black is preparing castling queen-side. If white makes the logical
+move 14.0-0, black will really answer 14...0-0-0 and will then attack with
+g5-g4 moves. Thus white should prevent the black castling queen-side.)} 14. Qe3
+{!} Bc6 15. O-O-O O-O 16. f4 $16 Qe6 (16... Qa5 17. e5 Nd5 18. Nxd5 Bxd5 19.
+Bxh7+ Kxh7 20. Qd3+ $16) 17. e5 {(white has forced black to castle king-side.
+Now white is starting to realize his pawn majority. It is extremely effective
+in this situation, because it also helps white to attack the black's king.)}
+Rfe8 18. Rhe1 Rad8 (18... Nd7 {?!} 19. g4) 19. f5 Qe7 20. Qg5 Nd5 21. f6 Qf8
+22. Bc4 {!} Nxc3 23. Rxd8 Rxd8 24. fxg7 {!} Nxa2+ (24... Qe8 25. Bxf7+ Kxf7 26.
+Rf1+ Ke6 27. Rf6+ Kd5 28. Rf8 $18) 25. Kb1 {!} Qe8 26. e6 {!} Be4+ 27. Ka1 (27.
+Rxe4 Rd1+ 28. Kc2 Qa4+ 29. b3 Nb4+ 30. Kxd1 $18) 27... f5 (27... fxe6 28. Bxe6+
+Qxe6 29. Qxd8+ Kxg7 30. Qd4+ $18) 28. e7+ Rd5 29. Qf6 Qf7 30. e8=Q+ 1-0
+
+[Event "Izt"]
+[Site "Petropolis (Brazil)"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Savon Vladimir A (UKR)"]
+[Black "Kagan Shimon (ISR)"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2405"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp1n1bp/3pbnp1/3Np3/2P1P3/4B1PP/PP2NPB1/R2Q1RK1 b - - 0 14"]
+[PlyCount "8"]
+[EventDate "1973.??.??"]
+
+14... c5 {(Black wants to transfer the knight on d4 playing Ne7-c6-d4. This
+will make his central position very powerful. So white should prevent it.)} 15.
+Nxe7+ $1 {(If you don't use a prophylaxis idea you will never find Ne7,
+because it exchanges the active piece on the passive piece. However, as you
+know, in this position it is the best decision for white)} Qxe7 16. Qd3 Ne8 17.
+Nc3 Rb8 18. Rfd1 $14 1-0
+
+[Event "Izt"]
+[Site "Stockholm (Sweden)"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Petrosian Tigran V (ARM)"]
+[Black "Schweber Samuel (ARG)"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[BlackElo "2349"]
+[SetUp "1"]
+[FEN "r1bq1rk1/3n1pb1/3p1n1p/p2Pp1pP/Pp2P1P1/4BP2/1P1NB3/R2QK1NR b KQ - 0 16"]
+[PlyCount "54"]
+[EventDate "1962.??.??"]
+
+16... Nc5 {(Black is going to play Nfd7 now, which will totally close the
+position. After that it will be really difficult for white to find any active
+plan.)} 17. Bxc5 {(breaking the black's defensive plan)} dxc5 {(Now black is
+going to blockade the d5 pawn with a maneuver Nf6-e8-d6. In general the knight
+is the best blocker piece. White needs to stop it.)} 18. Bb5 {!} Bb7 19. Ne2
+Ne8 20. Bxe8 $1 Rxe8 21. Nc4 {(white has prevented all the black's plans and
+now white has a strategically winning position.)} Ba6 22. Qb3 Qf6 {?} 23. Rc1
+Bf8 24. Ng3 Bc8 (24... Qf4 25. Kf2 Bxc4 26. Rxc4 Qd2+ {?} 27. Ne2 $18) 25. O-O
+Rd8 26. Kg2 Ra7 27. Rf2 Kh7 28. Rfc2 Qa6 29. Nxe5 Rc7 30. Nc4 Bg7 31. Qd3 Kg8
+32. Rd2 Re7 33. e5 Bxe5 34. Nxe5 Rxe5 35. Qxa6 Bxa6 36. Rxc5 Bc8 37. Rxa5 f5
+38. gxf5 Bxf5 39. Nxf5 Rxf5 40. Rb5 Rdf8 41. d6 Rxb5 42. axb5 Kf7 43. d7 {Z0} (
+{Rd8} 43. b6 {Ke7 b7} b3 44. Kg3 $18) 1-0
+
+[Event "Ch URS (qual)"]
+[Site "Kostroma (Russia)"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Malaniuk Vladimir P (UKR)"]
+[Black "Ivanov Alexey (RUS)"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2462"]
+[SetUp "1"]
+[FEN "rn2k2r/pbppqp2/1p3n1p/4p1p1/2PP4/2P1P1B1/P2NBPPP/R2QK2R b KQkq - 0 11"]
+[PlyCount "60"]
+[EventDate "1985.??.??"]
+
+11... d6 {(The g2 pawn is under the attack. If white plays 12.0-0, it is good
+for black because: 1) black can attack on the king-side in the future pushing
+the pawns h5-h4 etc with a support if his bishop b7. 2) white can't attack the
+black's weaknesses with a move h4 any more.)} 12. Bf3 $1 e4 13. Be2 {(it looks
+like a wasting of time. However it closes the black's bishop and breaks the
+black's eventual plan of an attack on the king-side.)} Nbd7 14. Qa4 $1 {
+(preventing the black's castling queen-side)} O-O 15. h4 $16 {(Now white
+starts to attack the black's weaknesses and the black's king without any
+counterplay from the black side.)} c5 16. Nb3 a6 17. Qa3 a5 18. Qb2 a4 19. Nd2
+Kg7 20. Nb1 Ne8 21. Na3 f5 22. hxg5 hxg5 23. Qd2 Bc6 24. Rh3 Rh8 25. Rxh8 Kxh8
+26. O-O-O Kg7 27. Nb5 Ndf6 28. Qb2 a3 29. Qb3 Bxb5 30. cxb5 d5 31. dxc5 Qxc5
+32. Be5 Kg6 33. Kb1 Qe7 34. Bd4 Qe6 35. c4 Nc7 36. Rc1 Qd6 37. cxd5 Ncxd5 38.
+Rc6 Qd8 39. Bc4 Kh7 40. Bxd5 Nxd5 41. Qd1 1-0
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Savon Vladimir A (UKR)"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2570"]
+[SetUp "1"]
+[FEN "r2q1rk1/2p2ppp/6b1/1p1pP3/pn1Pn3/4B3/PP1N1PPP/RB1Q1RK1 b - - 0 17"]
+[PlyCount "14"]
+[EventDate "1971.??.??"]
+
+17... a3 {(white needs to protect the b2 somehow. )} 18. Qc1 $1 {(it protects
+the b2 pawn and prevents Nc6 move)} (18. bxa3 $6 {(it only helps black to make
+his rook more active)} Rxa3 $132) (18. Qb3 {(seems like the most natural move)}
+Nc6 {but now white has some problems with a protection of his d4 pawn. it
+gives black a good counterplay.}) 18... Ra6 19. bxa3 Rc6 20. Qb2 Nc2 21. Rc1
+Nxe3 22. Rxc6 Nxf2 23. Nf1 Qd7 24. Nxe3 {It is pretty interesting that white
+won the game just in a few moves after the powerful preventive move Qc1.} 1-0
+
+[Event "It"]
+[Site "Madrid (Spain)"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Karpov Anatoly (RUS)"]
+[Black "Uhlmann Wolfgang (GER)"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2560"]
+[SetUp "1"]
+[FEN "r3r1k1/1p3ppp/1qn5/pB1p4/P2Nb3/2P3P1/1P3PP1/R2QR1K1 b - - 0 21"]
+[PlyCount "42"]
+[EventDate "1973.??.??"]
+
+21... Red8 22. g4 {!!} ({If white makes something simple, like} 22. Qd2 {then}
+Nxd4 23. Qxd4 Qxd4 24. cxd4 Rac8 {What white can do now? The only active plan
+is to use the open "e" file.} 25. f3 Bf5 26. Re7 b6 {The problem for white now
+is that black always can close the "e' file playing Be6.} 27. Rae1 Be6 {and
+black is ok.}) 22... Nxd4 23. Qxd4 Qxd4 24. cxd4 Rac8 25. f3 Bg6 26. Re7 b6 27.
+Rae1 {(Black can't play Be6 now and the white's plan works great)} h6 28. Rb7
+Rd6 29. Ree7 h5 30. gxh5 Bxh5 31. g4 Bg6 32. f4 Rc1+ 33. Kf2 Rc2+ 34. Ke3 Be4
+35. Rxf7 Rg6 36. g5 Kh7 37. Rfe7 Rxb2 38. Be8 Rb3+ 39. Ke2 Rb2+ 40. Ke1 Rd6 41.
+Rxg7+ Kh8 42. Rge7 1-0
+

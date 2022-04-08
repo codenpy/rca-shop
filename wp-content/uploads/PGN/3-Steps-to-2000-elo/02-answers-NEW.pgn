@@ -1,0 +1,370 @@
+[Event "Ruhrgebiet VK1 0910"]
+[Site "SVR"]
+[Date "2010.03.21"]
+[Round "8.3"]
+[White "Altenburg, Frank"]
+[Black "Hessel, Malte"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1883"]
+[BlackElo "1957"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "68"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Oberhausen III"]
+[BlackTeam "Castrop Rauxel II"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 d5 4. Nd2 c5 5. c3 Nc6 6. Ngf3 Bd6 7. Ne5 Qc7 8. Bb5
+O-O 9. Ndf3 cxd4 10. exd4 Nh5 11. Be3 f6 12. Nxc6 bxc6 13. Bf1 Nf4 14. g3 Ng6
+15. h4 e5 16. h5 Ne7 17. Nh4 exd4 18. Bxd4 Re8 19. Be2 Nf5 20. Nxf5 Bxf5 21.
+O-O {Diagram #} Bxg3 $1 {Black can create a very strong attack by opening up
+White's kingside. It's very common to destroy the enemy pawn structure in
+front of the king.} (21... Bh3 $5) (21... Rab8 $5) (21... h6 $5) 22. Bf3 (22.
+fxg3 Qxg3+ 23. Kh1 Re4 $1 {This is a key move to calculate.} 24. -- Rh4#) 22...
+Bh2+ 23. Kg2 Re4 $5 {This is an interesting sacrifice, but Bf4 was enough to
+win. Black won in any case at the end.} (23... Bf4 $19) 24. Bxe4 Bxe4+ 25. f3
+Qg3+ 26. Kh1 Qh3 27. Qe2 Be5+ 28. Kg1 Bd3 29. Qg2 Bxd4+ 30. cxd4 Bxf1 31. Rxf1
+Qxh5 32. Re1 Re8 33. Re2 Kf8 34. Qf1 Qg5+ 0-1
+
+[Event "Ruhrgebiet VK1 0910"]
+[Site "SVR"]
+[Date "2010.03.21"]
+[Round "8.8"]
+[White "Marx, Henning"]
+[Black "Gruetering, Lutz"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1995"]
+[BlackElo "1630"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "55"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Hattingen"]
+[BlackTeam "Hervest Dorsten"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. Nf3 Bg4 3. Ne5 Nf6 4. Nxg4 Nxg4 5. e4 Nf6 6. e5 Nfd7 7. Bd3 e6 8.
+O-O c5 9. c3 Qb6 10. dxc5 Bxc5 11. Qe2 Nc6 12. b4 Be7 13. Bf4 a6 14. a3 g5 15.
+Bg3 h5 16. h3 O-O-O 17. Nd2 g4 18. h4 Rdg8 19. c4 Qd4 {Diagram #} 20. cxd5 $5 {
+This is a very interesting move, but it was even better to attack first the
+queen. Black's king is exposed and White should open up lines against it.} (20.
+Nb3 $1 Qb6 21. cxd5 exd5 22. e6 fxe6 23. Qxe6 Bd8 24. Nc5 Rg7 25. Bf5 $18) (20.
+Rfd1 $5) (20. Rad1 $5) 20... Ncxe5 21. Rac1+ {You should try to open as many
+lines as you can in order to free your attacking pieces.} (21. dxe6 $1 fxe6 22.
+Rac1+) 21... Kd8 22. Bxa6 $5 {This wasn't the most accurate way to continue,
+but indeed very brutal and effective.} Bd6 (22... bxa6 23. Qxa6 -- 24. Rc8#)
+23. Bxe5 Nxe5 24. Ne4 $2 (24. Bxb7 $1 Nf3+ 25. Nxf3) 24... Nf3+ $1 25. Kh1 Qe5
+26. g3 exd5 $2 (26... bxa6 27. Qxa6 Ke7 $132) 27. Nxd6 Qxe2 28. Bxe2 1-0
+
+[Event "Ruhrgebiet VK1 0910"]
+[Site "SVR"]
+[Date "2010.04.18"]
+[Round "9.7"]
+[White "Ozerov, Ilja"]
+[Black "Lueker, Horst"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "1991"]
+[BlackElo "1879"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "33"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Muelheim Nord III"]
+[BlackTeam "Hervest Dorsten"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 Bb4+ 10. Kf1 O-O 11. Nf4 Be7 12. h4 Nb4 {Diagram #} 13. Bxh7+ $1 {
+This is the classical Greek gift. White has all the circumstances to perform
+it. This happens very often on the French Defense because the Nf6 is absent.} (
+13. Bb1 $5) (13. Be2 $5) (13. Rh3 $5) (13. Ng5 $5) 13... Kxh7 14. Ng5+ {
+The situation is even better for White because Nf4 is providing extra support
+and it controls the g6-square.} Bxg5 15. hxg5+ Kg8 16. Qh5 {White is a pawn
+down, but his attack over the h-line is devastating. Black cannot escape from
+it.} f6 17. g6 1-0
+
+[Event "Ruhrgebiet VK2 0910"]
+[Site "SVR"]
+[Date "2010.02.07"]
+[Round "6.3"]
+[White "Fraenkel, Karl Heinz"]
+[Black "Hoffterheide, Thomas"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1901"]
+[BlackElo "1976"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "36"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Bochum SV II"]
+[BlackTeam "Kirchhellen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 Nd7 5. Qd2 c6 6. O-O-O b5 7. Kb1 Nb6 8. Bd3
+Nc4 9. Bxc4 bxc4 10. d5 c5 11. f4 Rb8 12. Ka1 Qa5 13. Nge2 Bg4 14. Rb1 Rb6 15.
+h3 {Diagram #} Bxe2 $1 {The best move that destroys White's coordination. The
+knights use to keep together the queenside but, after removing them by force,
+Black can create a very strong attack.} 16. Nxe2 (16. Qxe2 Qxc3 17. bxc3 Bxc3+
+18. Rb2 Rxb2 $19 {White cannot stop all the threats... The Bc3 and Rb2 are
+powerful pieces that worth more than the queen.}) 16... Qxa2+ $1 {
+This was the point of the combination...} 17. Kxa2 Ra6+ 18. Qa5 Rxa5# 0-1
+
+[Event "Ruhrgebiet VK2 0910"]
+[Site "SVR"]
+[Date "2010.02.21"]
+[Round "7.8"]
+[White "Nalepa, Daniel"]
+[Black "Berger, Konstantin"]
+[Result "1-0"]
+[ECO "E76"]
+[WhiteElo "1964"]
+[BlackElo "1732"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "99"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Altenessen"]
+[BlackTeam "Essen Werden"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. e5 dxe5
+9. fxe5 Ng4 10. Bg5 Qe8 11. d6 Nxe5 12. Be7 Bd7 13. Nxe5 Bxe5 14. Qd2 Kg7 15.
+O-O-O Bc6 16. h4 Rh8 17. h5 Nd7 18. h6+ Kg8 19. Bd3 f5 20. Rhe1 Kf7 {Diagram #}
+21. Rxe5 $5 {Black's king is not safe. The situation is tougher thanks to Be7
+and the h6-pawn that control the dark squares. Maybe this was the reason why
+White sacrificed the Exchange on e5. This is a very interesting idea, but it
+was more practical to open up lines first with g4.} (21. Qg5 $5) (21. g4 $1 Kg8
+(21... Rc8 22. gxf5 exf5 23. Bxf5 gxf5 24. Qg5 $40) 22. gxf5 exf5 23. Bxf5 gxf5
+24. Rg1+ Kf7 25. Qd3 $40) 21... Nxe5 22. Qg5 Nd7 23. Nd5 $5 {Another very
+brutal sacrifice. However, when you play chess, you should be more practical
+and use all the preparation moves as g4 first.} Qg8 (23... exd5 24. Bxf5 $18
+gxf5 25. Qg7+ Ke6 26. Re1+ Ne5 27. Qf6+ Kd7 28. Qxf5#) 24. Nf6 {White has a
+winning advantage because he's penetrating through the dark squares.} Nxf6 25.
+Bxf6 (25. Qxf6+ Ke8 26. d7+ Bxd7 27. Bxc5 Qf7 28. Qxh8+ Qf8 29. Qxf8#) 25...
+Qe8 26. Be7 Kg8 27. d7 Bxd7 28. Bxf5 exf5 29. Rxd7 Qf7 30. Qd2 Qxc4+ 31. Kd1
+Qf1+ 32. Kc2 Qc4+ 33. Qc3 Qxc3+ 34. Kxc3 Kf7 35. Bxc5+ Ke6 36. Rxb7 Rac8 37.
+Kc4 a6 38. Rb6+ Kd7 39. Rxa6 Rc6 40. Ra7+ Rc7 41. Ra6 Re8 42. Rd6+ Kc8 43. b4
+Re2 44. a4 Rxg2 45. a5 Ra2 46. a6 Kb8 47. Kb5 Rc8 48. Rd7 Re2 49. Bd6+ Ka8 50.
+Kb6 1-0
+
+[Event "Ruhrgebiet VK3 0910"]
+[Site "SVR"]
+[Date "2010.01.10"]
+[Round "5.6"]
+[White "Ahling, Michael"]
+[Black "Rohloff, Markus"]
+[Result "0-1"]
+[ECO "E87"]
+[WhiteElo "1792"]
+[BlackElo "1850"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "58"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Marten Boevinghausen"]
+[BlackTeam "Haltern"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Ne8 8. Qd2 f5
+9. Nge2 a6 10. Nc1 Nd7 11. Nd3 Ndf6 12. Be2 Bd7 13. a4 Qe7 14. c5 h6 15. O-O f4
+16. Bf2 g5 17. b4 h5 18. b5 g4 19. b6 cxb6 20. cxd6 Nxd6 21. Qb2 gxf3 22. gxf3
+Bh3 23. Rfc1 {Diagram #} Nfxe4 $1 {A very strong move that opens the g5-square
+for the queen, the a1-h8 diagonal and gives possibilities to play f3 in the
+future. In the King's Indian Defense, Black has a stronger army on the
+kingside. Thus, he needs some sacrifices in order to open up the lines and
+create the strong decisive attack.} (23... Nxd5 $5) (23... Nd7 $5) (23... Kh7
+$5) 24. Nxe4 Nxe4 25. fxe4 $2 (25. Kh1 Ng3+ 26. hxg3 e4 $40) 25... Qg5+ {
+When you're attacking, you need the strongest piece in the attack: the queen.
+Black captured the second knight on e4, and now he is forced to give back some
+material. However, Black has a winning attack.} 26. Bg3 (26. Kh1 Qg2#) 26...
+fxg3 27. Bf1 Qe3+ 28. Kh1 Rxf1+ $1 {
+It's the final killing blow that wins a lot of material.} 29. Rxf1 g2+ 0-1
+
+[Event "Ruhrgebiet VK3 0910"]
+[Site "SVR"]
+[Date "2010.03.21"]
+[Round "8.5"]
+[White "Schoetz, Hans Joachim"]
+[Black "Ahling, Michael"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "1817"]
+[BlackElo "1792"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "87"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Boenen"]
+[BlackTeam "Marten Boevinghausen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. Qe2 d5 3. d3 Nf6 4. Nf3 Be7 5. g3 O-O 6. Bg2 dxe4 7. dxe4 c5 8. O-O
+Nc6 9. c3 e5 10. h3 Qc7 11. Na3 a6 12. Nc2 Bd7 13. Ne3 Na5 14. b3 b5 15. Nf5
+Rfe8 16. N3h4 Bf8 17. Bg5 Qb6 18. Rad1 Rad8 {Diagram #} 19. Rd6 $5 {A very aggr
+essive and fighting move! The computer doesn't like it a lot, but during the
+game is very unpleasant. White's idea is to destroy Black's pawn structure in
+front of the king in order to open lines for his attack.} (19. Nh6+ $5) (19.
+Qf3 $5) (19. Rfe1 $5) (19. Kh2 $5) (19. Ne3 $5) 19... Bxd6 20. Bxf6 Bxf5 $6 (
+20... gxf6 $4 21. Qg4+ Kf8 22. Qg7#) (20... Bf8 $1 21. Bxd8 Rxd8 22. Ne3 $36 {
+White has the initiative and a powerful d5-square for the knight. However, the
+position is approximately equal, and Black avoided the danger on this line.})
+21. Nxf5 Bf8 $2 (21... gxf6 $4 22. Qg4+ Kh8 23. Qg7#) (21... g6 $8) 22. Nh6+ $1
+{Black was confused and he missed this very strong tactic! One problem that
+amateur players have is the lack of clear calculation. It's much more
+difficult to calculate the best defensive moves. Many times, we overlook the
+opponent's strong moves.} Kh8 (22... gxh6 $4 23. Qg4+ Bg7 24. Qxg7#) 23. Nxf7+
+Kg8 24. Bxd8 $18 {White has a winning position and he wins the game afterwards.
+} Rxd8 25. Nxd8 Qxd8 26. f4 Nc6 27. Qg4 Qd6 28. Rd1 Qf6 29. Rf1 Qd6 30. f5 Qf6
+31. Qd1 b4 32. Qd5+ Kh8 33. cxb4 Nxb4 34. Qd2 Nc6 35. Qd5 Nd4 36. Kh2 h5 37.
+Rf2 g5 38. Bf1 g4 39. Bc4 Kg7 40. Qg8+ Kh6 41. h4 Bg7 42. Bf7 Nf3+ 43. Rxf3
+gxf3 44. Bg6 1-0
+
+[Event "Ruhrgebiet VL2 0910"]
+[Site "Germany"]
+[Date "2010.04.18"]
+[Round "9.5"]
+[White "Bense, Dirk"]
+[Black "Hochstein, Udo"]
+[Result "1-0"]
+[ECO "B95"]
+[WhiteElo "1974"]
+[BlackElo "1955"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "55"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Brackel II"]
+[BlackTeam "Linden"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Be7 7. Qd2 O-O 8.
+O-O-O a6 9. f4 Qc7 10. Bd3 Nc6 11. Nxc6 bxc6 12. e5 dxe5 13. fxe5 Qxe5 14. Rde1
+Qa5 15. Rhf1 Rb8 {Diagram #} 16. Bxf6 $5 {Once again, White destroys the
+kingside pawn structure in order to start an attack. Black's problem here is
+the c8-bishop and the pieces that are locked on the queenside. This is a
+typical situation in opposite castlings. One side is attacking on the right
+and the other on the left. The faster player will win the game.} Bxf6 17. Rxf6
+gxf6 18. Re3 {We can see here that White has a c3-knight for the f8-rook, but
+White can create the stronger army on the kingside. The d3-bishop, the rook
+and the queen can join the attack rapidly. Black is not losing, but he should
+find the unique moves.} Rd8 $8 (18... Qb4 $4 19. Rg3+ Kh8 20. Qh6 Rg8 21. Qxf6+
+Rg7 22. Qxg7#) (18... f5 $4 19. Rg3+ Kh8 20. Qh6 Qd8 21. Qg7#) 19. Rf3 (19. Qf2
+$5) (19. Rg3+ Kf8 $1) 19... Kf8 $2 {Black didn't find the calm move Rd7, as
+usually happens in similar situations. White's attack is very scary, but Black
+has an important check on g5; as you can see in the sub-variations.} (19... Rd7
+$1 20. Rxf6 (20. Qh6 Qg5+ $1 $19)) 20. Qh6+ Ke8 21. Qxf6 $18 {
+The situation now changed dramatically because Black's king isn't safe at all.}
+Rb7 (21... -- 22. Qxf7#) (21... Rd7 22. Rg3 Kf8 23. Bxh7) 22. Rg3 {
+White is threatening a deadly check on g8 and Black cannot do anything for it.}
+Kf8 (22... -- 23. Rg8+ Kd7 24. Qxf7+ Kd6 25. Ne4+ Kd5 26. Rg5+ Kd4 27. Qf2#)
+23. Bxh7 Ke8 24. Rg8+ Kd7 25. Qxf7+ Kd6 26. Ne4+ Kd5 27. Qh5+ e5 28. Rxd8+ 1-0
+
+[Event "Muensterland Verbandsliga 0910"]
+[Site "Germany"]
+[Date "2010.02.06"]
+[Round "6.6"]
+[White "Lutterbey, Ralf"]
+[Black "Hunhoff, Sebastian"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1913"]
+[BlackElo "1695"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "45"]
+[EventDate "2009.09.26"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Saerbeck"]
+[BlackTeam "Bocholt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. c4 dxe4 4. Nc3 Bb4 5. f3 c5 6. d5 exd5 7. cxd5 exf3 8.
+Nxf3 Bg4 9. Bb5+ Nd7 10. O-O Ngf6 11. Qe1+ Kf8 12. Bg5 Qb6 13. Bxd7 $2 Bxd7 {
+Diagram #} 14. Ne5 $1 {White's position looks amazing because he has very
+active pieces which can generate threats. Black's problem is the uncastled
+king. Sometimes, you can sacrifice even a rook because Black will have
+problems to activate their own ones. The threat right now is to capture on d7
+and then to deliver checkmate.} (14. Bxf6 $5) (14. Qh4 $5) (14. Rf2 $5) 14...
+Qc7 (14... -- 15. Nxd7+ Nxd7 16. Qe7+ Kg8 17. Qxf7#) (14... Re8 15. Rxf6 $1 {
+All this kind of sacrifices are possible when you have such an aggressive
+position.} gxf6 16. Bh6+ Ke7 17. Nc6+ Kd6 18. Bf4+ Re5 19. Bxe5+ fxe5 20. Qxe5#
+) 15. Qg3 (15. Bxf6 $5 gxf6 16. Rxf6 Be8 17. d6 Qd8 18. Qf2 $18) (15. Rxf6 $5 {
+Again, as you can see in the above sub-variation, this sacrifice works.}) 15...
+Rc8 16. d6 Qd8 (16... Qxd6 17. Ng6+ $1 hxg6 18. Qxd6+ $18) 17. Rxf6 $1 {
+Finally, it came. The tactical idea is to eliminate a key defender and use the
+weak dark squares around the king. White won the game afterwards.} gxf6 18.
+Bxf6 Rg8 (18... Qxf6 $2 19. Nxd7+ Ke8 20. Nxf6+ Kd8 21. Qg7 Re8 22. Qxf7 Re1+
+23. Rxe1 Bxc3 24. Re8#) 19. Bxd8 Rxg3 20. Be7+ Ke8 21. Nd5 $1 Rg6 22. Nxg6 hxg6
+23. Nf6# 1-0
+
+[Event "44th Ikaros International Chess"]
+[Site "?"]
+[Date "2021.07.16"]
+[Round "3"]
+[White "DALLAS, NIKOLAOS ALEXANDROS."]
+[Black "FOUNTAS, PETROS."]
+[Result "0-1"]
+[ECO "B15"]
+[WhiteElo "1255"]
+[BlackElo "1857"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "70"]
+[EventDate "2021.06.02"]
+[SourceDate "2021.07.16"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. e5 Bg7 5. h3 e6 6. Bf4 Nd7 7. Nf3 Ne7 8. Qd2 O-O
+9. Bd3 c5 10. dxc5 Nxc5 11. b4 Nxd3+ 12. cxd3 Bd7 13. h4 h5 14. Bh6 Nf5 15.
+Bxg7 Kxg7 16. Ng5 Rc8 17. Rc1 Qb6 18. a3 a5 19. Qb2 Qd4 20. O-O Qxh4 21. Nf3
+Qg4 22. bxa5 h4 23. Qb4 {Diagram #} d4 $5 (23... Rc4 $3 {An amazing sacrifice
+with the idea to keep the queens on the board, White's queen is isolated on
+the queenside, and continue with the strong attack on the kingside.} 24. dxc4
+h3 25. Ne1 hxg2 26. cxd5 (26. Nxg2 Nh4) 26... Nd4 $1 {This was the difficult
+move! With the same idea to keep White's queen out of the game. The g4-queen,
+d4-knight, f8-rook, and g2-pawn can create deadly threats against White's king.
+} 27. f3 (27. -- Qh3 28. a6 (28. Nxg2 Nf3#) 28... gxf1=Q#) 27... gxf1=Q+ 28.
+Kxf1 Qh3+ 29. Kf2 Qh4+ 30. Ke3 Qg5+ 31. Kf2 Qd2+ 32. Kg1 Rh8 $19) 24. Nh2 Qf4
+25. Rfe1 Bc6 $17 {
+Black has a clear advantage here and he manages to win the game afterwards.}
+26. Ne4 Qxe5 27. Nf3 Qb5 28. Nxd4 Qxb4 29. Nxf5+ exf5 30. axb4 fxe4 31. dxe4
+Bb5 32. f3 Kf6 33. Kf2 Rfd8 34. Ke3 Rd3+ 35. Kf4 g5+ 0-1
+

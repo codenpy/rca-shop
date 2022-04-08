@@ -1,0 +1,326 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.07.26"]
+[Round "6"]
+[White "Fischer, Robert James"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "1-0"]
+[ECO "C98"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "3q2k1/6p1/p3pnnp/1p2p3/2p1P3/2P1N1PP/PPB1QP2/6K1 w - - 0 27"]
+[PlyCount "19"]
+[EventDate "1970.07.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+27. b3 $1 {The position is almost equal. Black has doubled pawns on the e-line,
+but the e6-pawn is restricting the activity of the e3-knight. Black's queen is
+more active in the open line. White needs to activate his pieces. We know from
+the video lesson that the bishop needs to have open diagonals and, for that
+reason, White tries to open one for it.} cxb3 28. Bxb3 Nf8 (28... Nxe4 $2 29.
+Qg4 $1 $18 {This is a very strong blow and, because of that, Black cannot
+capture the pawn on e4.}) 29. c4 {Again, we see the same technique. White is
+opening the diagonal for the bishop. He exchanges the weak c3-pawn with the
+healthy b5-pawn. After that, the mobility of the bishop will be even better.
+The a6-pawn will be weak and White could attack it in the future with the
+bishop or queen.} Qd7 30. Qc2 Qb7 31. cxb5 axb5 32. Ng4 N6d7 (32... Nxe4 33.
+Nxe5 $14) 33. Qd3 {Comparing this position with the starting one, we can see
+that White's pieces activity is tremendous! They are controlling more space
+and they are attacking Black's weak pawns. The pressure is very big and, for
+that reason, Black made a mistake and lost the game. This happens very often
+in the practical games.} Qc6 34. Qe3 Kf7 35. Nxe5+ Nxe5 36. Qf4+ 1-0
+
+[Event "Poughskeepie"]
+[Site "Poughskeepie"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Fischer, Robert James"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1-0"]
+[ECO "C59"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "1963.??.??"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nh3 Bc5 10. O-O O-O 11. d3 Bxh3 12. gxh3 Qd7 13. Bf3 $1 {The Two Knights Defense is a very agressive opening. In order to protect the pawn, White
+could have played Kg2, but Fischer has reserved this square for his bishop.
+Black doesn't have an attack here because the knight cannot go to g4. The
+queen alone cannot checkmate White's king. The bishop will be extremely active
+on the long diagonal h1-a8. It can defend his king and, at the same time, put
+pressure on the weak c6-pawn.} Qxh3 14. Nd2 Rad8 15. Bg2 {The bishop is
+covering White's king, and also is now controlling the long diagonal.} Qf5 16.
+Qe1 Rfe8 17. Ne4 Bb6 18. Nxf6+ Qxf6 19. Kh1 $1 {White has decided to play f4
+and open up lines for his f1-rook and dark-squared bishop.} c5 20. Qc3 Nc6 21.
+f4 {White's pieces are very active. This is Fischer's style: He improves the
+activity of his pieces step by step.} Nd4 22. Qc4 Qg6 23. c3 {
+This is a nice move because it kicks the knight out from its active outpost.}
+Nf5 24. fxe5 Rxe5 25. Bf4 {
+Now we can see clearly that both White's bishops are very active.} Re2 26. Be4
+Rxb2 $2 {Black could not resist the temptation: He captured the pawn, so he
+lost a knight and the game afterwards...} (26... Re8 $5) 27. Be5 Re8 28. Rxf5
+Rxe5 29. Rxe5 1-0
+
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1965.??.??"]
+[Round "11"]
+[White "Robatsch, Karl"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B86"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r2rk1/4bppp/p2p1n2/1p1BpP2/4P3/P3q1N1/1PP3PP/R2Q1R1K b - - 0 18"]
+[PlyCount "31"]
+[EventDate "1965.??.??"]
+[EventRounds "21"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+18... Bd8 $1 {The bishop was blocked by Black's pawns and, therefore, Black
+transfers the bishop to an open diagonal. This is a very important bishop's
+manouver in the Sicilian Defense. Black should take care of his d6-pawn; but
+if he has time, then he definitely may activate the bishop by placing it in
+front of the pawns.} 19. a4 Bb6 {Now the bishop+queen battery is ready to
+cause some troubles for White's king. Also, the bishop is covering the
+a7-square, so that White's rook can't go there in the future.} 20. axb5 axb5
+21. Ra6 b4 22. Nh5 $5 {This is an intresting way to attack. White would like
+to remove the f6-knight which is blockading the f-pawn and protecting the
+g4-square.} Nxd5 23. Qg4 g6 24. exd5 Rxc2 {White cannot threaten any more with
+his queen and knight, so Black captures a juicy c2-pawn.} 25. fxg6 hxg6 26.
+Nf6+ Kg7 27. Nh5+ Kh6 $5 (27... Kh8 $17 {
+Black has a better position and he manages to win the game afterwards.}) 28.
+Nf6 Rf2 $1 29. Raa1 Ra8 $1 30. Qxb4 (30. Rxa8 Rxf1#) 30... Kg7 31. Qxd6 Qe2 32.
+Ne8+ Rxe8 33. Rfe1 Qb5 0-1
+
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1967.??.??"]
+[Round "3"]
+[White "Damjanovic, Mato"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B90"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "5rk1/2q1npbp/p2p2p1/1p1Pp1P1/2r4P/3QB3/PPPN1P2/2KR3R b - - 0 20"]
+[PlyCount "47"]
+[EventDate "1967.??.??"]
+[EventRounds "17"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+20... e4 $1 {This pawn is not so important and, instead, its advance allows to
+open the diagonal for the bishop. The bishop, together with the rest of the
+pieces, can create deadly threats against White's king.} 21. Qb3 Ra4 22. Kb1
+Nf5 23. c3 {As White is feeling the pressure, then he would like to limit the
+g7-bishop's activity.} Rc8 24. Rc1 Qb7 {White has no threats against Black's
+kingside. Black is focusing on the queenside and also on the weak d5-pawn.
+Black's pieces are dominating the position, so he wins the game afterwards.}
+25. a3 Be5 26. h5 Ne7 27. hxg6 hxg6 28. c4 Qd7 29. cxb5 Rxc1+ 30. Rxc1 Qxb5 31.
+Qxb5 axb5 32. Rc7 Nxd5 33. Rb7 Bf4 34. Bxf4 Nxf4 35. Rxb5 d5 36. Nb3 Kf8 37.
+Nc5 Ra7 38. a4 Nh3 39. a5 Nxf2 40. a6 e3 41. Rb8+ Kg7 42. Re8 d4 43. Nb3 d3 0-1
+
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1965.??.??"]
+[Round "3"]
+[White "Evans, Larry Melvyn"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E45"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "3rr1k1/pbq2ppp/2p1pn2/Pp6/1PpP4/B1Q1PB2/3R1PPP/2R3K1 b - - 0 20"]
+[PlyCount "71"]
+[EventDate "1965.??.??"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+20... c5 $1 {Black is willing to sacrifice a pawn in order to activate his
+bishop. In addition to that, Black is dreaming to jump with the knight to e4
+for a double attack. The b7-bishop is open and active. If we compare the
+f6-knigth with the a3-bishop, we can see that the knight is far more active
+that this bishop. Am I right?} 21. dxc5 Bxf3 22. gxf3 Rxd2 23. Qxd2 Rd8 $17 {
+Black didn't manage to create a doube attack, but he controls the open d-line.
+The a3-bishop is totally blocked and the d5-square is a very cool outpost for
+the knight.} 24. Qe1 Rd3 25. Bb2 Nd5 26. Bc3 f6 {Black is limiting the
+activity of White's bishop. Black's pieces are dominating the position and he
+finally manages to win the game.} 27. Ba1 e5 28. Kg2 Qd7 29. Rc2 e4 30. Rc1
+exf3+ 31. Kh1 Nxb4 32. Qg1 Kf7 33. Bd4 Nc6 34. Qg3 Nxd4 35. exd4 Rxd4 36. Rg1
+g5 37. c6 Qxc6 38. Qb8 Rd7 39. h3 Qe6 40. Rg3 c3 41. Qh8 Qf5 42. Kh2 Rd2 43.
+Rxf3 Rxf2+ 44. Rxf2 Qxf2+ 45. Kh1 Qf3+ 46. Kh2 Qf4+ 47. Kg1 Qe3+ 48. Kf1 Qxh3+
+49. Ke2 g4 50. a6 Qf3+ 51. Ke1 Qe3+ 52. Kf1 Qd3+ 53. Kf2 g3+ 54. Kg2 Qe4+ 55.
+Kxg3 Qg6+ 0-1
+
+[Event "Siegen ol (Men) fin-A"]
+[Site "Siegen"]
+[Date "1970.09.22"]
+[Round "8"]
+[White "Gligoric, Svetozar"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2575"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1pp2pb1/3p1npp/p1nPp3/2P1P3/2N1BN2/PPQ1BPPP/R4RK1 b - - 0 11"]
+[PlyCount "109"]
+[EventDate "1970.09.05"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Yugoslavia"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "USA"]
+
+11... Ng4 $5 {The most popular and perhaps the strongest move here according
+to the database and the computer is b6. However, Fischer's move, Ng4, is also
+very good and very dynamic. Black is sacrificing temporarily the e5-pawn in
+order to activate the g7-bishop.} (11... b6 $5) (11... Re8 $5) 12. Bxc5 dxc5
+13. h3 Nf6 14. Nxe5 (14. Nd2 $5) 14... Nxd5 $1 {Of course, it was necessary to
+foresee this move before playing Ng4. Black recovers the pawn because the Ne5
+is under attack. We can see that the long diagonal a1-h8 is open for the
+dark-squared bishop.} 15. cxd5 Bxe5 16. f4 Bd4+ {Usually, the g-7bishop is the
+worst piece in the King's Indian Defense. We can see that, after some moves,
+Fischer has managed to gain the bishop pair; especially, this d4-bishop is
+really powerful, isn't it? Black manages to win the game afterwards.} 17. Kh1
+Qh4 18. Qd3 c6 19. Qf3 h5 20. f5 Bd7 21. Bc4 g5 22. Rad1 Rae8 23. dxc6 Bxc6 24.
+Bd5 Re5 25. Bxc6 bxc6 26. Rd3 Rfe8 27. Qg3 Qxg3 28. Rxg3 f6 29. Rd3 h4 30. b3
+Rb8 31. g3 hxg3 32. Kg2 Rb4 33. Rc1 Kf7 34. Kxg3 Ke7 35. Re1 Kd6 36. Rh1 Re7
+37. h4 Rh7 38. h5 Rh6 39. Kf3 Ke5 40. Ne2 a4 41. Ng3 c4 42. bxc4 Rb2 43. Nf1
+Rxh5 44. Rxh5 Rf2+ 45. Kg3 Rxf1 46. Rh8 Kxe4 47. Ra3 Rg1+ 48. Kh2 Rc1 49. Rxa4
+Rc2+ 50. Kh1 c5 51. Ra3 Kxf5 52. Rh2 Rc1+ 53. Kg2 g4 54. Rh1 Rc2+ 55. Kf1 Kg5
+56. Rh8 f5 57. Rg8+ Kh4 58. Ke1 f4 59. Kd1 Rg2 60. Ra6 f3 61. Rh6+ Kg3 62. Rhg6
+Kf4 63. a4 Rg1+ 64. Kd2 f2 65. Rf8+ Kg3 0-1
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.07.20"]
+[Round "2"]
+[White "Damjanovic, Mato"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B36"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r2rk1/qp2ppbp/3p2p1/p1nP4/4P3/1P2BP2/P1RQB1PP/5RK1 b - - 0 18"]
+[PlyCount "123"]
+[EventDate "1970.07.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "USA"]
+
+18... Bh6 $1 {Black's position is a little cramped because the c5-knight is
+pinned. White has more space and he also has the possibility to dominate
+totally the c-line. Similarly, White has the bishop pair and, in this kind of
+situations, we should exchange one of the bishops.} 19. f4 (19. Bxh6 $4 Nxe4+
+20. Qe3 Qxe3+ 21. Bxe3 Rxc2 22. fxe4 Rxe2 $19 {
+This sub-variation is the tactical justification for Black's last move, 18.Bh6.
+}) 19... Rc7 20. g3 b6 21. Rfc1 Bg7 {
+Bishop has nothing to do on h6, so it's wise to return it to the long diagonal.
+} 22. Bb5 Qa8 23. Qe2 e5 $5 {This is an ingenious move because he tries to
+close the position entirely. In closed positions, knights can dominate.} 24.
+dxe6 fxe6 25. Rd1 Rd8 26. Bd4 $2 Bxd4+ 27. Rxd4 e5 {Black plays in the dark
+squares. He would like to stop the pawn on e4 in order to have a better minor
+piece. He achieved his goal and he managed to win the game afterwards.} 28.
+fxe5 dxe5 29. Rxd8+ Qxd8 30. Bc4+ Kg7 31. Bd5 Nd7 32. Qf2 Rxc2 33. Qxc2 b5 34.
+Kg2 b4 35. Qc6 Nf6 36. Kf3 Qd7 37. Qxd7+ Nxd7 38. Ke3 Kf6 39. Kd3 Nb6 40. Bc6
+Ke7 41. h4 h6 42. Ke3 Nc8 43. Kd3 Nd6 44. Ke3 Kd8 45. Kd3 Kc7 46. Ba4 Kb6 47.
+Ke3 Kc5 48. Bd7 Kb6 49. Ba4 Kc7 50. Kd3 Kd8 51. Bc6 Ke7 52. Ke3 Ke6 53. Kf3 Kf6
+54. g4 g5 55. h5 Ke7 56. Ke3 Kd8 57. Kd3 Kc7 58. Ba4 Kb6 59. Bd7 Kc5 60. Ba4
+Nc8 61. Be8 Ne7 62. Ke3 Ng8 63. Bd7 Nf6 64. Bf5 Kb5 65. Kd3 a4 66. bxa4+ Kxa4
+67. Kc4 Ka3 68. Kc5 Kxa2 69. Kxb4 Kb2 70. Kc5 Kc3 71. Kd6 Kd4 72. Ke6 Nxe4 73.
+Kf7 Nf2 74. Kg6 e4 75. Kxh6 e3 76. Kg7 e2 77. h6 e1=Q 78. h7 Qe7+ 79. Kg8 Ne4
+0-1
+
+[Event "Rovinj/Zagreb"]
+[Site "Zagreb"]
+[Date "1970.04.20"]
+[Round "7"]
+[White "Ghitescu, Theodor"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E82"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r4rk1/pb1q1p2/1p1p1bpp/2pP1P2/2P5/2NQ4/PP2N1PP/R4RK1 b - - 0 17"]
+[PlyCount "61"]
+[EventDate "1970.04.12"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "USA"]
+
+17... g5 $5 {This is an interesting move because Black would like to stop
+White's attack. Similarly, he's controlling the long diagonal a1-h8. Now he is
+controlling the f4-square and for that reason, White cannot activate the
+knight. Black's future plan is to play b5 in order to activate the b7-bishop.}
+(17... Be5 $5) 18. Qh3 $1 Be5 (18... Kg7 19. Ne4 $40) 19. Qxh6 f6 {Black sacrifices a pawn, but White has no attack. Black will exchange queens soon. White's
+knights aren't well placed. Knights need good squares. Here we cannot find
+such a square, so Black has a very good strategic plan to activate his bishop
+with b5.} 20. Rf3 Qh7 21. Qxh7+ Kxh7 22. h4 g4 23. Rd3 Rae8 24. Ng3 Ba6 25. b3
+b5 $1 {This was the perfect time to strike. The rook on a1 is hanging, so this
+move is tactically correct. Black won the game afterwards.} 26. cxb5 Bxb5 27.
+Nxb5 Bxa1 28. Nxd6 Bd4+ 29. Kf1 Re5 30. Nc4 Rxd5 31. Ne3 Rd7 32. Nxg4 Rg7 33.
+Nf2 Rfg8 34. Nfe4 Kh6 35. h5 Rg4 36. Ke2 Be5 37. Kf2 R4g7 38. Rf3 Rg4 39. Rd3
+a6 40. Rf3 Bd4+ 41. Kf1 Be5 42. Kf2 a5 43. a4 Rd8 44. Ke3 Rb8 45. Kf2 c4 46.
+bxc4 Rb2+ 47. Kf1 Rb4 0-1
+
+[Event "Meralco"]
+[Site "Manila"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Reyes, Romuel"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B95"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2rqk2r/1b1nbppp/p2ppn2/1p6/3NP3/P1N1B1P1/1PP1QPBP/3RK2R b Kk - 0 12"]
+[PlyCount "43"]
+[EventDate "1967.??.??"]
+[EventType "simul"]
+[EventRounds "8"]
+[EventCountry "PHI"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "YUG"]
+[BlackTeamCountry "USA"]
+
+12... Rxc3 $1 {In this Fianchetto System, White is trying to dominate in the
+center and slowly build pressure against the d6-pawn. For that reason, Fischer
+tries to find something dynamic to complicate the position and to have his own
+active chances.} 13. bxc3 Nxe4 {Black sacrificed the rook in order to win a
+pawn and to activate the b7-bishop. Black is threatening to capture on c3, and
+so, White is almost forced to give up the bishop on e4.} 14. Bxe4 Bxe4 15. O-O
+Qa8 16. f3 Bd5 17. Rf2 O-O 18. Re1 Rc8 19. Bd2 Bd8 $1 {This is another typical
+bishop's maneuver. We saw a similar situation in the video lesson, and now, we
+can see it in the practical part as well. I hope you will do it in your own
+games one day! :-) Black won the game afterwards.} 20. Qd1 Bb6 21. Be3 Rxc3 22.
+Nf5 exf5 23. Bxb6 Nxb6 24. Qd4 Rc6 25. Re7 Be6 26. Re2 Qf8 27. Rb7 Nc4 28. h4
+h5 29. g4 Ne5 30. Re3 hxg4 31. fxg4 f4 32. Rc3 Rc4 33. Qd2 Qc8 0-1
+

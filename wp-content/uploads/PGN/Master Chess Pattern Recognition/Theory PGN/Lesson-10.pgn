@@ -1,0 +1,43 @@
+[Event "?"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "Exercise 1"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Qb1/1p4Pk/pqrpp2P/2p1p3/2P1P1Nb/n1N4B/P7/7K w - - 0 1"]
+[PlyCount "8"]
+[EventDate "2012.??.??"]
+
+1. Qxg8+ Kxg8 2. Nf6+ Bxf6 3. Bxe6+ Kh7 4. g8=Q+ Kxh6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "Exercise 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p1q1kp/3p2p1/7P/4bQ2/1BP5/1P4P1/6K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "2012.??.??"]
+
+1. h6+ Kh8 2. Be6 Qxe6 (2... d5 3. Qe5+ Qg7 4. Qxg7#) 3. Qf8+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "Exercise 3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/3nbpp1/b1r1p2p/4P2Q/1pp2B1P/pP3NPB/P1R2P1N/3R2K1 b - - 0 22"]
+[PlyCount "2"]
+[EventDate "2012.??.??"]
+
+22... Nb6 (22... cxb3 $5 23. Rxc6 Be2 24. Re1 bxa2) (22... Nf6 23. Rxd8 Nxh5
+24. Rxf8+ Kxf8) 23. Rxd8 *
+

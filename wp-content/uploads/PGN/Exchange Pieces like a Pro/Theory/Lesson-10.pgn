@@ -1,0 +1,86 @@
+[Event "Tomsk"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Gleizerov, E."]
+[Black "Nevostrujev, V."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "rn1q2k1/1p1b2bp/3p2p1/2pN3n/p1P1r3/8/PPN1B1PP/1RBQ1RK1 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1998.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1. Bxh5 gxh5 2. Bh6 $1 {
+Using some minor tactics White manages to swap off the fianchettoed bishop.} ({
+Less convincing is} 2. Qxh5 $6 Be8 $1 3. Qf3 Bg6 {
+and Black defends pretty well.}) 2... Nc6 ({Obviously} 2... Bxh6 $2 {failed to}
+3. Nf6+ {, while other bishop moves permit 3 Rf8+.}) ({Finally, if} 2... Bg4 {
+, then} 3. Qd3 {intending} Re5 4. Bxg7 Kxg7 5. Rf7+ $1 {
+with a strong attack - Huzman.}) 3. Bxg7 Kxg7 4. Qf3 ({Again} 4. Qxh5 $6 Be8 {
+followed by ...Bg6 was less convincing for White}) ({but} 4. b3 $1 {
+activating the rook on b1 seems very strong; e.g.} axb3 5. Rxb3 {, eyeing both
+b7 and g3, while the a1-h8 diagonal becomes available to the queen.}) 4... Re5
+5. Qf7+ Kh8 6. Nce3 Nd4 $2 ({Missing} 6... Be6 $1 7. Qxb7 Qc8 {
+with equality - Gleizerov.}) 7. Nf6 Re7 8. Qxh5 Be8 9. Qh4 Bg6 10. Rbe1 Rf7 11.
+Ned5 {. With all his pieces mobilized, White enjoys a strong attack. . (press
+F10 for the next exercise)} *
+
+[Event "USSR Championship, Moscow"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Keres, P."]
+[Black "Taimanov, M."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "1nr1rbk1/pb3ppp/1p1q1n2/3P4/3R4/2N2N2/PB2QPPP/1B1R2K1 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1951.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1. Ne4 $1 {Exchanging the main defender of Black's kingside.} Nxe4 ({
+The desirable} 1... Nbd7 {loses material after} 2. Nxd6 Rxe2 3. Nxc8 Rxb2 4.
+Nxa7 {.}) 2. Rxe4 Rxe4 3. Qxe4 Qh6 $6 ({After} 3... g6 4. Qd4 f6 5. h4 $1 {
+, preparing h4-h5, Black is also under pressure, but in the game he will
+suffer more.}) 4. Ng5 $1 Bd6 ({Aware that} 4... g6 $2 {failed to} 5. Nxf7 {
+, Black offers the h7-pawn. However, Keres just gets on with the attack.}) 5.
+h4 $1 Nd7 6. Qf5 Nf6 7. Bxf6 gxf6 ({If} 7... Qxf6 8. Qxh7+ Kf8 {, then} 9. Re1
+$1 g6 10. Nxf7 $1 {with a quick win - Keres.}) 8. Nxf7 $1 Qc1 ({Or} 8... Kxf7
+9. Qd7+ Kg8 10. Qxd6 {etc.}) 9. Qxh7+ ({Even stronger was} 9. Nxd6 $1 Qxd1+ 10.
+Kh2 Rc7 11. Qe6+ {with a quick mate.}) 9... Kf8 10. Nxd6 Qxd1+ 11. Kh2 Qxd5 12.
+Nxb7 Qe5+ 13. g3 {. White soon won. . (press F10 for the next exercise)} *
+
+[Event "Novosibirsk"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Beliavsky, A."]
+[Black "Gufeld, E."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "2r3k1/p1qbp1bp/3p1np1/1p6/2rNP1P1/2N1BP2/PPPQ4/1K1R3R w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1976.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1. Nd5 $1 {Eliminating the main defender of Black's kingside.} ({
+Less promising is} 1. Bh6 $2 Nxe4 $1 2. Nxe4 Rxd4) ({or} 1. Qh2 $6 Rxc3 $1 2.
+bxc3 Qxc3 {with counterplay.}) 1... Nxd5 2. exd5 Qb7 $2 {
+Underestimating White's attack.} ({Correct was} 2... Be5 3. Qf2 Rf8 $1 4. Qh4
+Rf7 {with chances for a defence.}) 3. Qh2 Kf7 ({After} 3... h6 4. Bxh6 {both}
+Rxd4 ({and} 4... Bxd4 5. Rxd4 $1 Rxd4 6. Be3 {, followed by 7 Qh7+}) 5. Rde1 $1
+Be5 6. Rxe5 dxe5 7. Qxe5 {lead to a White win.}) (3... Kf7 {
+Black prepares to meet} 4. Qxh7 $2 {with} Rh8 {
+; however, there is a better of way of capturing on h7.}) 4. Qf4+ $1 Kg8 5.
+Rxh7 $1 Qxd5 {This loses material,} ({but} 5... Kxh7 {failed to} 6. Qf7 {
+with the inevitable 7 Rh1+ next.}) 6. Rxg7+ $1 Kxg7 7. Nf5+ Bxf5 8. Qh6+ Kf7 9.
+Rxd5 Bxc2+ 10. Ka1 {
+. White soon won the game. . (press F10 for the next exercise)} *
+

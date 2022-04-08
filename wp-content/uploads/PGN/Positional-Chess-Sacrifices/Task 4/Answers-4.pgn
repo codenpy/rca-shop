@@ -1,0 +1,359 @@
+[Event "1st GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2013.02.07"]
+[Round "?"]
+[White "Naiditsch, A."]
+[Black "Anand, V."]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "2716"]
+[BlackElo "2780"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "98"]
+[EventDate "2013.02.07"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. O-O Nc6 10. Nde2 Qe6 11. Nd5 {Diagram #} Qxe4 $5 {This is one of
+the two possible ways to sacrice the Exchange. The other one was 0-0. In both
+ways, Black gets compensation for the pawn.} (11... Rc8 $5) (11... Qc8 $5) (
+11... Qd7 $5) (11... O-O $5 12. Nc7 $6 Qxe4 13. Nxa8 Rxa8 $15 {This is a
+similar continuation to the game, and Black is a little better because he has
+very active pieces and White has development problems with his queenside
+pieces.}) (11... O-O-O $6 12. f3 {Here White is better and the Qe6 is a
+tactical target.}) 12. Nc7+ Kd7 13. Nxa8 Qxc4 $1 {Black will recapture the
+a8-knight because it is trapped. Meanwhile, he has time to capture another
+pawn. Yes, Black's king is in the center, but White doesn't have active pieces
+to attack and he cannot open lines. White still should solve the queenside
+pieces development. This is the most ambitious continuation from Black's side,
+isn't it?} 14. Nc3 Rxa8 {The material is equal here, but black has a better
+development and a good activity for his pieces. Black is controlling the
+center well, so he manages to fully equalize the game, and now, he is hoping
+for more to grab the initiative.} 15. Bg5 e6 16. Re1 Nd5 {This is a good
+positional move. Black is exchanging some pieces and doubling his central
+pawns (!) but he totally control the open lines, e and c. White cannot
+penetrate with his rooks and Black's double central pawns are controlling a
+lot of squares; similarly, they are threatening to advance.} 17. Nxd5 Qxd5 18.
+Qxd5 exd5 19. Rad1 h6 20. Bc1 d4 $15 {Black has a small but clear advantage
+here. The d4-pawn is powerful blocking the c1 dark-squared bishop and the rook.
+White cannot do anything on the e-line and Black can continue maneuvering his
+pieces. After a long game, Anand manages to win it afterwards.} 21. Rd3 Rc8 22.
+Rb3 b6 23. Kf1 Ne5 24. Ra3 a5 25. b4 Rc2 26. bxa5 bxa5 27. Rxa5 Nd3 28. Ra7+
+Kc6 29. Rxf7 Nxe1 30. Kxe1 Rxc1+ 31. Kd2 Rg1 32. Rxg7 Rxg2 33. Ke1 Rxh2 34.
+Rxg6 Rh1+ 35. Kd2 h5 36. Rh6 h4 37. a4 h3 38. a5 h2 39. a6 Kc7 40. Rh7+ Kb8 41.
+Ke2 d3+ 42. Kd2 Ka8 43. Rh5 Ka7 44. Rh6 d5 45. Rh8 Kxa6 46. Rh6+ Kb5 47. Rh8
+Kc4 48. Rc8+ Kd4 49. Rh8 Ke4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.05.18"]
+[Round "1.1"]
+[White "Alexakis, Dimitris"]
+[Black "Kourkoulos Arditis, Stamatis"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2224"]
+[BlackElo "2449"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "90"]
+[EventDate "2019.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. f3 Bb7 7. h4 h6 8. a4 b4 9.
+Nd5 Bxd5 10. exd5 Nf6 11. Bc4 c6 12. dxc6 Nxc6 13. Ne2 h5 14. Nf4 d5 15. Be2
+O-O 16. Nd3 a5 17. O-O-O Rc8 18. Ne5 b3 19. Nxc6 Rxc6 20. c3 {Diagram #} Rc4 $5
+{Black had plenty of options here, but he chose to sacrifice the Exchange in
+order to continue the game. But he chose an aggressive one! Black is
+sacrificing the Exchange in order to attack the weak a4-pawn, to free the
+d5-square for the knight, to dominate on the light squares and to create an
+attack against White's king.} (20... Nd7 $5) (20... Qb6 $5) (20... Rb6 $5) (
+20... Ne8 $5) 21. Bxc4 dxc4 22. Bh6 (22. Qe2 $5 Qd5 $132) 22... Qd7 {Now
+Black's plan is clear: to attack the weak a4-pawn and, from there, to find a
+path in order to come closer to White's king.} 23. Bxg7 Kxg7 24. Rde1 Qxa4 $36
+{Black has the same material. White cannot capture on e7 thanks to a chekcmate
+threat on a1. The situation is very uncomfortable for White because his king
+is in danger. Black has a clear compensation here and a lot of advantages in
+his position.} 25. Kd1 (25. Rxe7 Qa1#) 25... Qd7 26. Ke2 a4 {Now comes another
+strategical threat in the position. White's king is unsafe, of course, but
+White manages to connect the rooks. However, the a-pawn is very strong and
+Black's idea is to create a passed pawn on the queenside. The central
+domination can give Black the initiative.} 27. Ra1 Rd8 28. Rhd1 Nd5 {Before
+doing anything, Black stabilizes his position by activating and
+over-protecting his pieces. This is a good practical lesson to remember from a
+strong IM.} 29. Kf2 Ra8 {Black is threatening a3 in order to create the passed
+pawn.} 30. Ra3 Qf5 {White's pieces aren't well-coordinated and, for that
+reason, Black is attacking on the other side of the board.} 31. Rda1 Nf4 $17 {
+Black has a clear avantage because his pieces are extremely active; the
+queeside pawns are very strong. The b3-pawn can prove to be very powerful, and
+White isn't safe. Black manages to win the game afterwards.} 32. Kg3 (32. Rxa4
+Rxa4 33. Rxa4 Qc2 $17) (32. Kg1 g5 $40) 32... g5 33. Rxa4 Rxa4 34. Rxa4 Qc2 35.
+Qxc2 bxc2 36. Ra1 Ne2+ 37. Kf2 c1=Q 38. Rxc1 Nxc1 39. hxg5 Kg6 40. f4 Kf5 41.
+Ke3 e6 42. Kd2 Nb3+ 43. Ke3 h4 44. Kf3 Na5 45. g4+ hxg3 (45... hxg3 46. Kxg3
+Nc6 47. Kf3 Ne7 48. Kg3 Nd5 $19) 0-1
+
+[Event "Budapest FS07 GM"]
+[Site "Budapest"]
+[Date "1993.??.??"]
+[Round "7"]
+[White "Davies, Nigel Rodney"]
+[Black "Onischuk, Alexander"]
+[Result "0-1"]
+[ECO "A60"]
+[WhiteElo "2505"]
+[BlackElo "2495"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "110"]
+[EventDate "1993.07.??"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "1994.01.01"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 b5 6. Bg2 Bb7 7. e4 d6 8. a4 b4
+9. Nd2 g6 10. a5 Ba6 11. Bf1 Bg7 12. Qa4+ Qd7 13. Bxa6 Nxa6 14. Qxd7+ Nxd7 15.
+Nc4 Ne5 16. Nxe5 Bxe5 17. Nf3 Bg7 18. Nd2 Kd7 19. Ke2 Rhe8 20. Kf3 f5 21. exf5
+gxf5 22. Nc4 Re4 23. Ne3 Rf8 24. g4 c4 25. Nxf5 Re5 26. Bf4 {Diagram #} Rexf5
+$1 {Black is giving the Exchange in order to capture on b2 and create two
+powerful connected passed pawns. If these pawns, b4 and c4, manage to move
+forward to the 3rd rank, then they will be worth more than a rook! Similarly,
+Black eliminates the pressure against the d6-pawn; so, Black will have a clear
+strategical plan. But we cannot say the same for White.} (26... Rfxf5 27. gxf5
+Rxf5 28. Rac1 $132 {The position is not clear now because White will capture
+one of the powerful pawns.}) (26... Rxd5 27. Rad1 $16 {White will have the
+initiative thanks to the heavy pressure on d6.}) 27. gxf5 Bxb2 28. Rae1 Nc5 $5
+(28... Rxf5 $1 $19 {It was better to capture the pawn. In general, you can
+capture the pawns in the endgame without too much hesitation.. . :-) In
+general, if you capture a pawn in the opening or middlegame, then your
+opponent may have counterplay. However, in the endgame is less strong,
+compared with the previously mentioned chess stages.}) 29. Re6 Nxe6 30. fxe6+
+Ke7 $19 {White desperately tried to give back the Exchange in order to defend,
+but Black has a winning advantage here. He manages to win the game afterwards.}
+31. Ke4 b3 32. Be3 a6 33. Bd4 Bxd4 34. Kxd4 b2 35. Rb1 Rxf2 36. Kxc4 Rxh2 37.
+Rf1 h5 38. Rf7+ Ke8 39. Rb7 h4 40. Rb8+ Ke7 41. Kd3 h3 42. Rb7+ Kf6 43. Rf7+
+Kg6 44. Rf1 Rf2 45. e7 b1=Q+ 46. Rxb1 Kf7 47. Ke3 Ra2 48. Kf4 Kxe7 49. Rb7+ Kf6
+50. Rb6 Rf2+ 51. Kg3 h2 52. Rxd6+ Kg5 53. Kxf2 h1=Q 54. Rxa6 Qh2+ 55. Kf1 Qf4+
+0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Jussupow, Artur"]
+[Black "Christiansen, Larry Mark"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2645"]
+[BlackElo "2620"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "93"]
+[EventDate "1993.06.??"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "16"]
+[Source "ChessBase"]
+[SourceDate "1993.10.01"]
+
+1. d4 d6 2. e4 Nf6 3. f3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Be6 7. Bxe6 fxe6
+8. Nh3 Bc5 9. Nf2 Bxf2+ 10. Kxf2 Nc6 11. Be3 Ke7 12. Na3 a6 13. c3 Rhd8 14. Ke2
+h6 15. Nc2 Rd7 16. Rhd1 Rad8 17. Rxd7+ Rxd7 18. Ne1 Ne8 19. Nd3 Nd6 20. Bf2 b6
+21. Bg3 Nf7 22. a4 a5 23. Rc1 Kf6 24. b4 Rd8 25. b5 Ne7 26. Bf2 Rb8 27. c4 c5 {
+Diagram #} 28. Nxc5 $1 {Christiansen is a very aggressive player and, wisely,
+Artur selected a quiet opening line, in which he managed to exchange the
+queens early in the game. With nice manouvers, he manages to tie down his
+opponent and force him to defend passively. He sacrificed his knight in order
+to create two powerful passed pawns.} bxc5 29. Bxc5 Nd8 (29... Nc8 $5 30. Be3
+$16 {Black cannot block the pawns and, for that reason, White has a strong
+initiative!}) 30. Bd6 Rb7 31. Rd1 $5 (31. c5 $5 {This is the best option for
+the computer, but we are humans!! Humans are firstly intrested in having
+active pieces, and then, in pushing the pawns. If you like to play better in
+your games, then follow this rule: first activate your pieces and, only then,
+push your pawns. Do it like Jussupow!} Nec6 $1 $132 {This is Anand's idea in
+order to return the piece and block the pawns. Black has counterplay.}) 31...
+Ndc6 (31... Rd7 32. Bxe5+ $18) (31... Nf7 32. Ba3 {White has a trementous
+piece activity by blocking the enemy pieces. White's plan is c5 and c6. White
+has a winning advantage here.}) 32. bxc6 Nxc6 33. Bc5 $1 $16 {White is a pawn
+up and has a dominant position. He manages to win the game afterwards.} Rb2+
+34. Rd2 Rb3 35. Rd6 Ne7 36. Bb6 Ng6 37. Bxa5 Nf4+ 38. Kd2 Nxg2 39. c5 Ne3 40.
+Bd8+ Kf7 41. Rd3 Nc4+ 42. Kc2 Rb8 43. c6 Ke8 44. c7 Ra8 45. Rc3 Nb6 46. a5 Rxa5
+47. c8=Q 1-0
+
+[Event "Eastern States-ch op"]
+[Site "Washington DC"]
+[Date "1956.11.??"]
+[Round "?"]
+[White "Nash, Edmund"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B95"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "96"]
+[EventDate "1956.11.??"]
+[EventRounds "7"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2003.04.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 h6 8. Be3
+Ng4 9. Nb3 Nxe3 10. Qxe3 Nc6 11. Be2 Be7 12. O-O O-O 13. Rad1 b5 14. f4 Bd7 15.
+Bf3 Na5 16. Be2 Nc4 17. Bxc4 bxc4 18. Nd2 Qc7 19. Kh1 Rfc8 20. Nf3 Rab8 21. Rb1
+a5 22. f5 a4 23. fxe6 fxe6 24. a3 Qc5 25. Qxc5 Rxc5 26. Na2 Rcb5 27. Nb4 c3 28.
+Nd4 {Diagram #} Rc5 $5 {A brilliant idea. Here Black should sacrifice the
+Exchange in order to create powerful pawns on the queenside. Black will create
+a powerful passed pawn on b2 and the bishop pair will help him to keep it
+alive and attack other weak pawns on the queenside.} (28... cxb2 $5 29. Nxb5
+Bxb5 30. Rf3 $132) (28... R5b7 $5) (28... R5b6 $5) 29. Na6 Rxb2 {It doesn't
+matter so much what rook White will capture first. The problem is that his
+pieces are not coordinated and he cannot block Black's powerful pawns.} 30.
+Nxc5 (30. Rxb2 cxb2 31. Nxc5 dxc5 32. Nf3 c4 33. c3 Bxa3 $19) 30... dxc5 31.
+Nf3 c4 {You can see clearly how powerful the black pieces are. The pawn on a3
+is under attack and the c4-pawn is ready to support the b2-pawn after the
+Exchange of Rxb2.} 32. Ne5 Bb5 33. Rxb2 {White is running out of good moves
+and this is the first sign of defeat...} (33. Rfd1 Bxa3) (33. Ra1 Rxc2) 33...
+cxb2 34. c3 Bf6 $19 {Black has a winning advantage thanks to his powerful
+passed pawn on b2. Soon more pawns will fall, for example on c3; and White
+cannot create a suitable blockade. Fischer wins the game afterwards.} 35. Rb1
+Bxe5 36. Rxb2 Be8 37. Rb4 Bxc3 38. Rxc4 Bb2 39. Rb4 Bxa3 40. Rb6 Kf7 41. Rb7+
+Be7 42. e5 a3 43. Kg1 Bc6 44. Ra7 Bd5 45. Kf1 a2 46. Ke2 Kg6 47. g4 Bc5 48. Ra5
+Bd4 0-1
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Topalov, Veselin"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2801"]
+[BlackElo "2752"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "91"]
+[EventDate "2006.01.14"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2006.04.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Nf6 13. e4 b5 14. exd5 exd5
+15. Re1 Rb8 16. c5 Bc8 17. Nf3 Ne4 {Diagram #} 18. Rxe4 $1 {Out of the blue,
+Topalov later admitted that this idea was prepared for San Luis. This is a
+powerful and very deep sacrifice. The idea is to dominate in the center and
+create very dangerous passed pawns.} (18. Ne5 $5 {This is what was usually
+played in this position before this game, and Black managed to equalize the
+game.} Nxc3 19. Qd3 Qc7 20. Qxc3 $11) 18... dxe4 19. Ne5 {The pawn on d5 was a
+key defender of the h1-a8 diagonal, and now all Black's queenside is
+compromised. White is executing strong pressure in the center.} Qd5 (19... Qc7
+20. Bxe4 b4 21. Bb2 {This was a passive defense for Black. White has a clear
+advantage here because he is dominating the center, pressing the c6 pawn,
+controlling more space, and he has possibilities to increase his advantage.})
+20. Qe1 $1 {White is pressing the e4-pawn and keeps an eye on the e1-a5
+diagonal.} Bf5 (20... f5 21. f3 {White is activating his bishop and gains the
+strong initiative.} exf3 22. Bxf3 $36) 21. g4 $1 {White is playing risky, but
+he has in mind to create new problems. This idea was suggested by Cheparinov,
+as Topalov himself stated. The idea is to limit the mobility of Black's pieces.
+} Bg6 22. f3 (22. Nxg6 hxg6 23. Qxe4 Qxe4 24. Bxe4 b4 25. Bb2 Rfc8 $132 {Black
+will play Bf6 and then he will perform the Rb7 and Rd7 maneouver; so, he will
+have a great counterplay against White's pawn structure.} 26. -- Bf6 27. -- Rb7
+28. -- Rd7) 22... b4 23. fxe4 {Intermediate moves are always very strong! :-)}
+Qe6 24. Bb2 Bf6 25. Nxc6 $1 {Another great move by Topalov, giving him two
+strong passers in the center.} (25. d5 Qe8 26. Nxg6 Bxb2 27. Nxf8 Bxa1 28. Qxa1
+cxd5 29. exd5 Qe3+ 30. Kh1 Kxf8 $19 {Black is winning here because he can stop
+White's pawns and, similarly, he can create problems against White's weak king.
+} 31. c6 Re8 32. h3 Qe1+ (32... Qd2 $5) 33. Qxe1 Rxe1+ 34. Kh2 Ke7 $19) (25.
+Nxg6 $6 hxg6 26. Qg3 Rbd8 $132) 25... Qxc6 26. e5 $36 {White has powerful
+passed pawns for a rook. It's not easy at all for Black to blockade them; so,
+Topalov manages to win a brilliant game afterwards.} Qa6 27. exf6 Rfe8 28. Qf1
+Qe2 29. Qf2 Qxg4 30. h3 Qg5 31. Bc1 Qh5 32. Bf4 Rbd8 33. c6 Be4 34. c7 Rc8 35.
+Re1 Qg6 36. Rxe4 Rxe4 37. d5 Rce8 38. d6 Re1+ 39. Kh2 Qf5 40. Qg3 g6 41. Qg5
+Qxg5 42. Bxg5 Rd1 43. Bc6 Re2+ 44. Kg3 Rd3+ 45. Kf4 Rd4+ 46. Kf3 1-0
+
+[Event "Marshall CC"]
+[Site "New York"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Mednis, Edmar John"]
+[Black "Fedorowicz, John P"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2430"]
+[BlackElo "2440"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "93"]
+[EventDate "1977.01.??"]
+[EventRounds "13"]
+[EventCountry "USA"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "1997.11.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. g4 Be6 10. O-O-O Nxd4 11. Bxd4 Qa5 12. a3 Rfc8 13. Kb1 Rab8 14. g5 Nh5
+15. Nd5 Qxd2 16. Rxd2 Bxd5 17. exd5 Bxd4 18. Rxd4 Rc5 19. Bh3 b5 20. Re1 Kf8
+21. Re3 a5 22. c3 Rc7 23. b4 Ra7 24. Kb2 Rba8 25. Rh4 Kg8 26. Rhe4 Kf8 27. Bf1
+Rb7 28. Rh4 Ng7 29. Bd3 Kg8 30. f4 axb4 31. cxb4 Rba7 {Diagram #} 32. Bxb5 $1 {
+White sacrifices the Exchange for the two connected passed pawns on the
+queenside. Of course, it's not realistic to calculate everything, but with
+this sacrifice, you are betting that your pawns will be stronger in the future.
+The good sign for White is the presence of the bishop on b5, a piece that is
+able to support the pawns. Similarly, there is no obvious way for Black to
+block these pawns. White has a very dangerous initiative here.} (32. Bc2 $5) (
+32. Be4 $5) (32. Bb1 $5) (32. Reh3 $6 Rxa3 33. Bb1 Rxh3 34. Rxh3 $17) 32... Nf5
+33. Rhh3 Nxe3 34. Rxe3 {White gave up the Exchange but, in return, he has two
+powerful passed pawns on the queenside, an active bishop and he is pressing
+the e7-pawn.} e6 35. Bc4 {White has good choices here. The best way is to keep
+your pieces active, to place the bishop on c6. However, the game continuation
+was also good. White managed to win the game afterwards.} (35. Bc6 $5) (35.
+dxe6 $5 fxe6 36. Bc6 $14) 35... exd5 36. Bxd5 Rb8 37. Kb3 Kf8 38. a4 Re8 39.
+Rxe8+ Kxe8 40. a5 Kd8 41. Ka4 Kc8 42. Kb5 Kb8 43. Kb6 Re7 44. a6 Rc7 45. Bb7
+Rxb7+ 46. axb7 d5 47. Kc5 1-0
+
+[Event "Linares 19th"]
+[Site "Linares"]
+[Date "2002.02.28"]
+[Round "5"]
+[White "Kasparov, Garry"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2838"]
+[BlackElo "2742"]
+[Annotator "https://online.chess-teacher.com"]
+[PlyCount "93"]
+[EventDate "2002.02.22"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2002.03.21"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Bf5 14. Re1 Rfe8
+15. Bf4 Rac8 16. c4 Qe4 17. Be3 Bf6 18. Ra2 b6 19. h3 Na5 20. g4 Bg6 21. g5 Be7
+22. Ne5 Bd6 23. Nxg6 hxg6 24. c5 Bf8 25. Bg4 Rcd8 26. Rae2 Qd5 27. Bf4 Rxe2 28.
+Qxe2 c6 29. Bc7 Ra8 30. Qe5 Qxe5 31. Rxe5 Nc4 {Diagram #} 32. d5 $5 {White's
+rook was under attack, but Kasparov sacrifices it in order to create a
+powerful passed pawn. This pawn in connection with the bishops could be a
+powerful strenght.} (32. Re4 $5) (32. Re1 $5) (32. cxb6 $5 Nxe5 (32... axb6 33.
+Re2 c5 $132) 33. b7 $18) 32... Nxe5 (32... f5 33. gxf6 Nxe5 34. Bxe5 gxf6 35.
+Be6+ Kg7 36. Bg3 Re8 37. Bd7 Re1+ 38. Kg2 cxd5 39. c6 Bxa3 40. c7 Rc1 41. c8=Q
+Rxc8 42. Bxc8 $16) (32... cxd5 $1 33. c6 (33. cxb6 Nxb6 34. a4 $44 {with some
+compensation thanks to the bishop pair and a good coordination.}) 33... Na5 $1
+{These were the best moves in the position and not to accept the sacrifice.
+Even here White will have compensation thanks to his bishop pair.} 34. Rxd5 (
+34. Bd7 Nxc6 $1 35. Bxc6 Rc8 36. Bxd5 Rxc7 37. Re8 $44 {White has compensation,
+but he should fight for the draw in this position.}) 34... Nxc6 35. Bd7 $44 Na5
+36. a4 $15) 33. Bxe5 cxd5 (33... Re8 $5 34. Bf4 {Black may try to activate his
+pieces, but White's bishop pair and a passed pawn are a deadly attacking
+weapon. Again, it's not obvious for Black how to block the passed pawn. Please
+also note that the bishop pair is controlling all the squares in front of the
+pawn and, for that reason, it's extremely difficult for Black to block the
+pawn.} f5 35. gxf6 gxf6 36. dxc6 $16) 34. c6 f5 (34... Bxa3 35. c7 Be7 36. h4
+f6 37. Be6+ Kf8 38. Bf4 $36 {There is no obvious way to stop the pawn; so,
+Black will be forced to sacrifice the rook. Then White will be able to block
+Black's queenside pawns. White has a big advantage.}) 35. gxf6 gxf6 36. Be6+
+Kg7 37. Bg3 $16 {White isn't in a hurry. The c6-pawn is there and Black should
+sacrifice the rook for it. White has the advantage and he manages to win the
+game afterwards.} Bxa3 38. Bxd5 Rc8 39. c7 Bc5 40. Bb7 Rxc7 41. Bxc7 a5 42. Bc6
+g5 43. Kf1 Kg6 44. f3 Kh5 45. Be8+ Kh6 46. Ke2 f5 47. Bd8 1-0
+

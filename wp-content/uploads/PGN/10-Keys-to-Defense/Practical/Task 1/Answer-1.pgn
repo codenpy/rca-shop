@@ -1,0 +1,409 @@
+[Event "World Students Team-ch09 fin-A"]
+[Site "Marianske Lazne"]
+[Date "1962.07.19"]
+[Round "6.4"]
+[White "Kovacs, Laszlo M"]
+[Black "Savon, Vladimir A"]
+[Result "0-1"]
+[ECO "E89"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "1962.07.13"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+[WhiteTeam "Hungary U26"]
+[BlackTeam "Soviet Union U26"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "URS"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nf6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. d5
+cxd5 9. cxd5 Nbd7 10. g4 h5 11. h3 a6 12. Bg5 Qb6 13. Qd2 Nc5 $146 14. O-O-O
+Bd7 15. Kb1 Rfc8 16. Rc1 Nh7 17. Bh4 Bf6 18. Bxf6 Nxf6 19. Ng3 h4 20. Nf5 Bxf5
+21. gxf5 {Diagram #} Kg7 $1 {This is a move that Black should play in any case.
+Black's kingside is weakened and Black should consolidate the position somehow.
+The idea is to bring the rook on h-file in order to overprotect the g6-pawn.
+At this point, Black should not think about the attack on the queenside
+because his pieces are not coordinated.} (21... Rc7 $5 22. Qg5 $36) (21... Kh7
+$6 22. Qg5 Kg7 $8) (21... Qa5 22. Rg1 Na4 23. Rg2 Nxc3+ 24. bxc3 Kg7 $16) 22.
+fxg6 fxg6 23. Qg5 Rh8 {This was Black's original idea; it's not a bad one.
+Nonetheless, it could be better to play the more active move, Nh5.} (23... Nh5
+24. Rg1 Nf4 $1 {And Black's position is very solid.}) 24. Rg1 Rh6 {Black
+covered the immediate threat on g6, but he played a little passively.} 25. f4
+$5 Re8 26. f5 Ncxe4 $1 {Finally, Black manages to push back White's pieces. He
+is a pawn up and he manages to consolidate his position. Later, he won the
+game.} 27. Nxe4 Nxe4 28. f6+ Nxf6 29. Bd3 e4 30. Rgf1 Ng8 31. Qf4 Kh8 32. Bxe4
+Qd4 33. Rce1 Qe5 34. Qf7 Re7 35. Qf8 Qg3 36. Rc1 Qxh3 37. Rf7 Rxf7 38. Qxf7 Qg4
+39. Qe8 h3 40. Rc8 Qd1+ 41. Rc1 Qd4 42. Bxg6 h2 43. Bf7 Qg1 0-1
+
+[Event "FRA-ch 57 Championnat"]
+[Site "Schiltigheim"]
+[Date "1982.08.19"]
+[Round "4"]
+[White "Lecuyer, Christian"]
+[Black "Manouck, Thierry"]
+[Result "0-1"]
+[ECO "B42"]
+[BlackElo "2405"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "74"]
+[EventDate "1982.08.16"]
+[EventRounds "13"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Ne7 8.
+Nc3 d6 9. Kh1 O-O 10. f4 f6 11. Rf3 Re8 12. Rh3 Ng6 13. Qh5 {Diagram #} Nf8 $1
+{The pawn on h7 is under attack and Black should protect it. He has two
+possible ways to do that: a trap and a solid move. Nf8 is the best move
+because it creates a lot of obstacles to White.} (13... Kf7 $6 {A trap, but
+White can avoid it. He can capture the pawn later.} 14. Bd2 $16 (14. Qxh7 Rh8
+$19)) 14. e5 f5 {When someone attacks you, you should keep the position closed.
+} 15. exd6 Nbd7 $132 {Black sacrificed temporarily a pawn, but the position is
+very solid. His idea is to transfer rapidly the knight close to the kingside.
+After a long fight, Black manages to win the game.} 16. Be3 Nf6 17. Qe2 Qxd6
+18. Bxa7 Rxa7 19. Qf2 b6 20. Be2 Rae7 21. Rd1 Qc7 22. Re3 Ng6 23. g3 Bb7+ 24.
+Kg1 e5 25. fxe5 Nxe5 26. Nd4 g6 27. Qf4 b5 28. a3 Ba8 29. Rf1 Qb7 30. Nf3 Nfg4
+31. Rxe5 Nxe5 32. h3 Qb6+ 33. Kh2 Nxf3+ 34. Bxf3 Qe3 35. Bd5+ Kg7 36. Qd6 Qd2+
+37. Kg1 Re1 0-1
+
+[Event "RUS-ch51"]
+[Site "St Petersburg"]
+[Date "1998.08.06"]
+[Round "10"]
+[White "Shchekachev, Andrei"]
+[Black "Shipov, Sergei"]
+[Result "0-1"]
+[ECO "B41"]
+[WhiteElo "2560"]
+[BlackElo "2635"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "56"]
+[EventDate "1998.07.28"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1998.11.30"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. e4 Nc6 5. Be2 Qc7 6. d4 cxd4 7. Nxd4 Nxd4 8.
+Qxd4 Bc5 9. Qd3 a6 10. O-O Be7 11. f4 d6 12. b3 Bd7 13. Qg3 O-O 14. Kh1 Bc6 15.
+Bb2 Rad8 16. Rae1 b6 17. Bd3 Qb7 18. Qh3 h6 19. Re3 Kh8 20. Rg3 Rg8 21. e5 {
+Diagram #} Nh7 $5 {This is the best move. Black is trying to keep the position
+close or to exchange pawns under his favorite circumstances.} (21... dxe5 $5 {
+Strategically, this is not a good move because it opens lines; but it doesn't
+work tactically either.} 22. fxe5 Nh7 (22... Nd7 $4 23. Rxf7 Nxe5 24. Qxh6+
+gxh6 25. Rh7#) 23. Bxh7 Kxh7 24. Rxf7 $36 {Black is not losing immediately,
+but White has a strong initiative.}) (21... Ne8 $6 {This is a very passive
+position, and White can create a very strong attack after:} 22. Nd5 $40) 22.
+Qh5 (22. f5 Ng5 {This was one of the ideas. Black is keeping close the
+kingside and tries to kick away the white pieces.} 23. Qg4 exf5 24. Qxf5 (24.
+Rxf5 dxe5 $132) 24... g6 25. Qf2 dxe5 $132) 22... dxe5 $1 {Once again, Black
+chooses the most active defense, trying to exchange pawns under their own
+terms. White should be careful on g2 and with the d3-bishop.} (22... Rgf8 23.
+Nd5 $5 $16 (23. Bxh7 $5 $16) (23. Qg4 $5 $16)) 23. Bxh7 (23. Qxf7 $2 Rxd3 24.
+Rxd3 Bxg2+ 25. Kg1 Bc5+ $19) (23. fxe5 $2 Rxd3 24. Rxd3 Bxg2+ $19) 23... Kxh7
+24. Qxf7 Bf6 {Black manages to exchange some pawns and pieces, so his king is
+safer now. Thus, Black manages to stabilize his position and afterwards, he
+fights to win the game.} 25. Qg6+ Kh8 26. Rh3 Rgf8 27. fxe5 Bg5 28. Rg1 Bxg2+
+0-1
+
+[Event "Politiken zt"]
+[Site "Munkebo"]
+[Date "1998.09.13"]
+[Round "2.1"]
+[White "Danielsen, Henrik"]
+[Black "Wedberg, Tom Birger"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2510"]
+[BlackElo "2475"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "1998.09.10"]
+[EventRounds "5"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "1998.11.30"]
+
+1. f4 d5 2. Nf3 g6 3. g3 Bg7 4. Bg2 c5 5. O-O Nf6 6. d3 O-O 7. c3 b6 8. Na3 Bb7
+9. Qe1 Nbd7 10. h3 Qc7 11. g4 e5 12. Nb5 Qc6 13. a4 e4 14. Ne5 Nxe5 15. fxe5
+Ne8 16. dxe4 dxe4 17. Bf4 a6 18. Nd6 Nxd6 19. exd6 Rad8 20. Qg3 Rfe8 21. Rad1 {
+Diagram #} Qxa4 $15 {Here White doesn't have any immediate threat; for that
+reason, Black has time to capture a pawn. White has a passed pawn and Black's
+main aim is to block it.} (21... Rd7 $5) (21... Re6 $5) 22. b3 Qd7 {The queen
+isn't the best piece to block the passed pawn, but White cannot kick it away.}
+(22... Qxb3 $2 {It was OK to capture the first pawn, but not the second one!
+After Qxb3, the queen is very far away and White can take a serious initiative!
+} 23. d7 Re7 $2 (23... Rf8 24. Bc7 $16) 24. Bg5 Be5 25. Bxe7 Bxg3 26. Bxd8 $18
+{And White is winning because he cannot stop the pawn on d7 from promotion!})
+23. Bg5 Rb8 {We can see clearly now that Black has a a very stable blockade on
+d7, and White cannot promote his attacking plans.} 24. Bf6 Bf8 25. c4 Re6 26.
+Ba1 Rd8 27. Qh4 h6 $19 {The d6-pawn is under heavy pressure, and Black manages
+to gain it after some moves. Black wins the game afterwards.} (27... Rxd6 $2
+28. Be5 $1 Rxd1 29. Qf6 $18) 28. Rf6 g5 29. Qg3 Bg7 30. Rxe6 Qxe6 31. Bxg7 Kxg7
+32. Qe3 f6 33. Qd2 Rd7 34. e3 a5 35. Kh1 Qe5 36. Bf1 Kf7 37. b4 axb4 38. Qa2
+Rxd6 39. Rb1 Rd7 0-1
+
+[Event "RUS-Cup03 Geller Memorial"]
+[Site "Moscow"]
+[Date "1999.02.08"]
+[Round "7"]
+[White "Motylev, Alexander"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2505"]
+[BlackElo "2458"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "1999.02.10"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1999.06.08"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 O-O 8.
+O-O Bb6 9. Na3 d6 10. f4 Nxd4 11. Bxd4 Nc6 12. Bxb6 axb6 13. Nb5 Qe7 14. f5 Ne5
+15. Bb3 Qd8 16. Qh5 Bd7 17. Nd4 c5 18. Bd5 {Diagram #} Bc6 $5 {White's attack
+is dangerous and Black should be careful. The main problem is the f6
+advancement, but it doesn't work in all of the variations. Black chose to save
+the bishop on c6 in order to exchange pieces. Nonetheless, he could possibly
+capture the d4-knight, as you can see in the sub-variations.} (18... cxd4 $1
+19. cxd4 g6 $1 {This is a very important intermediate move in order to drive
+the White pieces into bad squares. Similar moves are a very typical defensive
+method because they can disorganize the attacking pieces.} (19... Nc6 $2 20. f6
+$1 gxf6 (20... Kh8 21. fxg7+ Kxg7 22. Rf4 $1 h6 23. Raf1 $40 {With attack.}) (
+20... h6 $2 21. Qg6 $1 $18 {The checkmate on g7 is inevitable.}) 21. Rf4 Be6
+22. Rh4 Re8 23. Qxh7+ Kf8 24. Rh6 $1 $40 {White has a very strong attack.}) 20.
+Qh6 (20. fxg6 $2 Nxg6 $17) (20. Qh3 Nc6 21. Qh6 Qf6 $5 22. fxg6 Qxg6 $17) 20...
+Ng4 21. Qf4 gxf5 $1 22. exf5 Nf6 $17) 19. f6 $2 {White would like to prove
+that his attack is correct, but now he becomes very optimistic. Black can take
+the upper hand now.} (19. Nf3 $5 {This was the best and most solid move,
+offering an approximately equal position.}) 19... cxd4 20. cxd4 Bxd5 {The
+exchange is a very important defensive technique.} 21. exd5 Ng6 $19 {Black
+manages to stop all of the attacking threats. He is a piece up, but he doesn't
+manage to win the game afterwards...} 22. Rf3 Re8 23. Raf1 Ra5 24. Rh3 h6 25.
+Rg3 Kh7 26. fxg7 Qh4 27. g8=Q+ Rxg8 28. Rxf7+ Kh8 29. Qxh4 Nxh4 30. Rf6 Kh7 31.
+Rf7+ 1/2-1/2
+
+[Event "Hamburg-ch int"]
+[Site "Hamburg"]
+[Date "1999.05.22"]
+[Round "1.11"]
+[White "Voigt, Martin"]
+[Black "Joecks, Christian"]
+[Result "0-1"]
+[ECO "B86"]
+[WhiteElo "2257"]
+[BlackElo "2415"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "68"]
+[EventDate "1999.05.22"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.10.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. Qf3 Be7 10. f5 O-O 11. Be3 Qc7 12. g4 b5 13. g5 Nfxe4 14. Nxe4 Bb7 15.
+fxe6 Bxe4 16. exf7+ Kh8 17. Qh5 {Diagram #} Nxb3 {White's immediate threat is
+to play Bd5 in order to kick away the e4-bishop from the b1-h7 diagonal. After
+that, he'd like to play g6.} (17... Bxh1 $4 {Removing the e4-bishop will not
+protect the g6-square any more, and this could create huge problems!} 18. g6 h6
+19. Bxh6 $18) (17... Bxg5 $2 18. Qxg5 Bxh1 19. Nf5 $18 {White's pieces are
+concentrating on Black's kingside, and Black is unable to stop all of the
+threats.}) (17... g6 $2 18. O-O $3 {White has this stunning (!) continuation
+in order to attack Black's king from the open diagonals.} gxh5 19. Nxb5 axb5
+20. Bd4+ Bf6 21. Bxf6#) (17... -- 18. Bd5 Bxd5 19. g6) 18. axb3 Bg6 {Now we
+can see that Black's king position is totally safe and well protected by his
+own pieces. The bishop on g6 isn't doing a great job, is it?} 19. Qg4 Rxf7 {
+Another important attacking unit, the f7-pawn; it went out of the board and,
+definitely, it's on Black's favor.} 20. Kd2 $5 {The idea is to avoid any
+tricks on the c-line and c2.} d5 {Black's pieces are active now and have a lot
+of space.} 21. h4 Be4 $15 {Black has a better position, and there is no danger
+against his king. He manages to win the game afterwards.} 22. Rhe1 Bd6 23. c3
+b4 24. Rf1 bxc3+ 25. bxc3 Rxf1 26. Rxf1 Rc8 27. Ne2 Be5 28. Rc1 Rb8 29. b4 Qc4
+30. Bd4 Qd3+ 31. Ke1 Bf3 32. Nf4 Bxf4 33. Bxg7+ Kxg7 34. Qd7+ Kh8 0-1
+
+[Event "RUS-Cup final"]
+[Site "Ekaterinburg"]
+[Date "1999.??.??"]
+[Round "10"]
+[White "Volkov, Sergey"]
+[Black "Kobalia, Mihail"]
+[Result "1/2-1/2"]
+[ECO "A91"]
+[WhiteElo "2587"]
+[BlackElo "2537"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "196"]
+[EventDate "1999.08.28"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2000.04.05"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. Bg5 Be7 5. g3 O-O 6. Bg2 d6 $146 7. Bxf6 Bxf6
+8. e4 e5 9. dxe5 Bxe5 10. exf5 Nc6 $5 11. g4 Bxc3+ 12. bxc3 Qf6 13. Ne2 g6 14.
+h4 Bd7 15. h5 gxf5 16. g5 {Diagram #} Qe7 $1 {The queen is under attack; this
+is the obvious threat. The question is where the queen should go. The best
+square is e7 because it's pinning the e2-knight, immobilizing White's pieces.}
+(16... Qxg5 $2 17. Rg1 Qxh5 18. Bxc6+ Kh8 19. Bxd7 $18) (16... Qf7 $6 17. Bd5
+Be6 18. Nf4 Bxd5 19. cxd5 Rae8+ 20. Kd2 Ne5 21. g6 $40) (16... Qe5 $5 17. f4
+Qe3 18. Rh3 Qc5 19. Qd5+ Qxd5 20. cxd5 Na5 21. Nd4 $14) (16... Qg7 $5 17. Bd5+
+Kh8 18. f4 Rae8 19. Qd2 $16) 17. Bd5+ Be6 18. Kf1 f4 {White's pieces are not
+coordinated now and, for that reason, they cannot create a strong attack.
+Please also note that White cannot use the pin over the e-line.} 19. Rh4 Kh8 (
+19... f3 $2 20. Nf4 Bf7 21. Qxf3 $16) 20. Bxc6 $5 (20. Nxf4 $2 Rxf4 $1 21. Rxf4
+Bh3+ 22. Bg2 Qxg5 23. Bxh3 Qxf4 $17) (20. Bxe6 $5 Qxe6 21. Nxf4 Qxc4+ 22. Qd3
+Qc5 {Unclear.}) 20... bxc6 21. Qd4+ Qg7 (21... Kg8 22. Nxf4 Bf5 23. h6 $44) 22.
+Rxf4 {The position is approximately equal. Both sides have weaknesses, but the
+most important thing is that Black manages to consolidate his kingside; so,
+White cannot create an attack. The game ended in a draw after some fight.} c5
+23. Qxg7+ Kxg7 24. Rb1 Rae8 25. Rxf8 Rxf8 26. Rb7 Rf7 27. Ng3 Bxc4+ 28. Ke1
+Bxa2 29. Rxa7 Bd5 30. Ke2 Re7+ 31. Kd2 Rf7 32. f4 h6 33. Ne2 hxg5 34. fxg5 Rf5
+35. Rxc7+ Kg8 36. Rc8+ Kg7 37. h6+ Kg6 38. Rc7 Bf7 39. Rb7 d5 40. Rc7 d4 41. c4
+Rf2 42. Ke1 Rf5 43. Re7 Rf3 44. Rd7 Rf5 45. Re7 Rf3 46. Rc7 Rf5 47. Kd2 Rf2 48.
+Rxc5 Bxc4 49. Rxc4 Kxg5 50. h7 Rh2 51. Rc7 Kg6 52. Kd3 Rxh7 53. Nf4+ Kh6 54.
+Rc6+ Kg5 55. Ne6+ Kf5 56. Nxd4+ Ke5 57. Rc5+ Kd6 58. Rg5 Rh1 59. Nf5+ Ke6 60.
+Ke4 Re1+ 61. Ne3 Ra1 62. Rg6+ Kf7 63. Rc6 Ra5 64. Nc4 Ra1 65. Ne3 Ra5 66. Nd5
+Ra1 67. Rf6+ Kg7 68. Rf3 Re1+ 69. Kf5 Kf7 70. Rc3 Rf1+ 71. Nf4 Ke7 72. Rd3 Ra1
+73. Ng6+ Ke8 74. Ne5 Ra6 75. Rd7 Rb6 76. Rh7 Rb1 77. Nc6 Rc1 78. Nd4 Rf1+ 79.
+Ke6 Re1+ 80. Kf6 Rf1+ 81. Nf5 Kd8 82. Ra7 Re1 83. Nd4 Rf1+ 84. Ke6 Re1+ 85. Kd6
+Ke8 86. Nf3 Rd1+ 87. Ke6 Kd8 88. Rh7 Rf1 89. Ne5 Re1 90. Rg7 Rd1 91. Nc6+ Kc8
+92. Ne7+ Kc7 93. Nd5+ Kc6 94. Rc7+ Kb5 95. Kd6 Rh1 96. Rc5+ Ka4 97. Rc3 Rh8 98.
+Rg3 Kb5 1/2-1/2
+
+[Event "Mitropa Cup 21st"]
+[Site "Leipzig"]
+[Date "2002.05.05"]
+[Round "3.2"]
+[White "Sarno, Spartaco"]
+[Black "Touzane, Olivier"]
+[Result "1-0"]
+[ECO "A26"]
+[WhiteElo "2399"]
+[BlackElo "2352"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "73"]
+[EventDate "2002.05.03"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2002.08.12"]
+[WhiteTeam "Italy"]
+[BlackTeam "France"]
+[WhiteTeamCountry "ITA"]
+[BlackTeamCountry "FRA"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. d3 e5 8. Rb1
+a5 9. a3 h6 10. b4 axb4 11. axb4 Be6 12. b5 Ne7 13. Bb2 Qd7 14. Re1 Bh3 15. Bh1
+Ng4 16. Qb3 Kh8 17. Ra1 Rab8 18. Nd5 Nxd5 19. cxd5 f5 20. Rec1 f4 {Diagram #}
+21. Ra4 $1 {We can see that Black concentrated his pieces on the enemy
+kingside, but there are no immediate threats. This gives White some tempi in
+order to organize his counterplay. White should find counterplay on the weak
+c7-pawn. Similarly, the rook can help on the 4th rank.} (21. Rc4 {This is the
+similar move with the idea to double on the c-line. If you manage to find it,
+then please accept my congratulations.}) (21. Qc4 $5 Rf7 22. Bg2 Bxg2 23. Kxg2
+fxg3 24. hxg3 h5 25. Rc2 {And White should try to double the rooks on the
+c-file in any case.}) (21. b6 $5 cxb6 22. Qxb6 Rf7 23. Rc4 $14) 21... g5 22.
+Rac4 fxg3 23. hxg3 Qf7 (23... Rbc8 24. b6 $36) 24. Rxc7 {Black gave up a pawn
+in order to bring his queen to the kingside, but White's pieces are extremely
+active. Similarly, the f3-knight and h1-bishop are providing a good support to
+the king.} Qh5 25. Qb4 Bf1 26. Qe1 $1 $16 {White is protecting everything.
+There are no other immediate threats, and Black should retreat his pieces. As
+you can see in the sub-variation, the Exchange sacrifice on f3 isn't working.
+White manages to win the game afterwards.} Kg8 (26... Rxf3 27. exf3 Qh2+ 28.
+Kxf1 Qxh1+ 29. Ke2 $18) 27. b6 Rbe8 28. R1c4 Bh3 29. Rxb7 Bh8 30. Rcc7 Bf1 31.
+Re7 Rxe7 32. Rxe7 e4 33. Rxe4 Bxb2 34. Qxf1 Rxf3 35. Rxg4 Rxd3 36. Rb4 Bc3 37.
+b7 1-0
+
+[Event "RUS-ch"]
+[Site "Krasnodar"]
+[Date "2002.08.28"]
+[Round "2"]
+[White "Dashko, Andrey"]
+[Black "Jakovenko, Dmitrij"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2401"]
+[BlackElo "2552"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "70"]
+[EventDate "2002.08.27"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2002.11.12"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 8.
+O-O b5 9. f4 Bc5 10. Nf5 Ne7 11. Nxg7+ Kf8 12. Bxc5 Qxc5+ 13. Kh1 Kxg7 14. e5
+Ne8 15. Qh5 d5 16. Rf3 h6 17. f5 exf5 18. g4 {Diagram #} Kf8 $1 {This is a
+very important profylactic move in order to put the king into safety and
+closer to his pieces. Black can create some threats on the long a8-h1 diagonal
+or put pressure on White's central pawns. The good news for Black is that not
+all of the white pieces are participating on the attack; the a1-rook is out of
+the game.} (18... fxg4 $4 19. Qxf7#) (18... d4 $1 {This is winning as well.}
+19. e6 Bxe6 20. gxf5 Kf8 $19 {But the king should go to f8 in any case.}) (
+18... Qd4 $5 19. Re1 Kf8 $1) (18... Nc6 19. gxf5 Kf8 $1 {In every variation,
+the king doesn't stand well on g7; he should run to f8.}) 19. gxf5 Ng7 20. Qh4
+(20. Qh3 d4 {The best move! White cannot play f6 because the c8-bishop is
+pinning that pawn.} 21. Ne4 Qxe5 $19 {Black's position is solid and the
+f5-pawn is under attack.}) 20... Ngxf5 $1 {This is the most solid move. Black
+has more pieces and his next task is to consolidate and organize his pieces.
+This move stops the queen from jumping on d8.} (20... Nexf5 21. Qd8+ Ne8 22.
+Bxf5 Bb7 23. Qh4 d4 24. Be4 $16) (20... Bxf5 21. Qf6 $132) 21. Qf6 (21. Bxf5
+Bxf5 {It was necessary to stop the queen's penetration on d8.} 22. Qf6 Rh7 23.
+Rxf5 Nxf5 24. Qxf5 Rg7 $17) 21... Rg8 {White doesn't threat to checkmate on f7;
+so, the rook can develop in a more active square, g8.} 22. Bxf5 (22. Raf1 Rg7
+23. Bxf5 Bxf5 24. Rxf5 Nxf5 25. Qxf5 d4 26. Ne4 Qxc2 $19) 22... Nxf5 $5 $17 (
+22... Bxf5 $19 {It was better to recapture with the bishop in order to bring
+the a8-rook into the game. In any case, Black is a piece up and, finally, he
+manages to win the game.}) 23. Qd8+ Kg7 24. Qf6+ Kh7 25. Rxf5 Rg6 26. Qxf7+ Rg7
+27. Qh5 Bb7 28. Re1 Rag8 29. Rf7 d4+ 30. Ne4 Bxe4+ 31. Rxe4 d3 32. Qf5+ Kh8 33.
+Rxg7 Rxg7 34. Rd4 Qc6+ 35. Re4 dxc2 0-1
+
+[Event "EU-ch 4th"]
+[Site "Istanbul"]
+[Date "2003.06.02"]
+[Round "4"]
+[White "Krasenkow, Michal"]
+[Black "Iordachescu, Viorel"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2609"]
+[BlackElo "2550"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "74"]
+[EventDate "2003.05.30"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2003.09.25"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Qc2 O-O 6. cxd5 Nxd5 7. a3 c5 $146
+8. dxc5 Bxc5 9. Nxd5 Qxd5 10. Ng5 g6 11. e4 Qc6 12. Bd3 Nd7 13. O-O Ne5 14. Qe2
+Nxd3 15. Qxd3 Be7 16. e5 b6 17. Qh3 h5 18. Bf4 Bb7 19. Rac1 Qb5 20. Qg3 Rad8
+21. Nxe6 {Diagram #} Rd3 {Black cannot capture immediately the e6-knight, as
+you can see in the sub-variation. Black tried to kick the queen away from the
+g-file in order to capture the knight.} (21... fxe6 $2 22. Qxg6+ Kh8 23. Qxh5+
+Kg8 24. Qg6+ Kh8 25. Rc3 $18) 22. Be3 h4 {He continues with his main idea, to
+kick the queen away.} 23. Qg4 (23. Qh3 $2 fxe6 24. Qxe6+ Rf7 25. Qxg6+ Rg7 26.
+Qe6+ Kh8 27. Qh6+ Rh7 $19 {Black has a winning position.}) 23... Bc8 {This is
+creating problems to White because the knight is pinned and White doesn't
+manage to perform his original plan. During the game, he overestimates his
+position by sacrificing the rook on c8; but it wasn't the best idea.} 24. Rxc8
+$2 (24. Nd4 $1 Bxg4 25. Nxb5 $44 {The position now is dynamically equal. Black
+has the bishop pair and very active pieces that compensate for the lost pawn.})
+24... Rxc8 25. Nf4 (25. Nd4 Qc4 $1 {The same idea: to attack the queen isn't
+woking now because Black can save the queen, pin the knight on d4 and protect
+the c8-rook at the same time.} 26. b3 Rxb3 27. Qd7 Rxe3 $1 {It's time for
+Black to make some sacrifices. Giving back the material is a good strategy.}
+28. fxe3 Bg5 29. Re1 Rd8 $17) 25... Rc4 $17 {Black's king is safe and he has
+material advantage. Black manages to win the game afterwards.} 26. e6 Rd6 $1
+27. exf7+ Kxf7 $17 28. Qe2 Qc6 29. Nd3 Re4 30. f3 Ree6 31. Nf4 Re5 32. Qf2 Qc4
+33. g3 Qb3 34. Re1 Rd1 35. Rxd1 Qxd1+ 36. Kg2 g5 37. Bd4 Bc5 0-1
+

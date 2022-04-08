@@ -1,0 +1,237 @@
+[Event "2nd President's Cup"]
+[Site "?"]
+[Date "2007.05.04"]
+[Round "2"]
+[White "Milov V"]
+[Black "Gassanov A"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2353"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bqr3/1p2b1kp/p1p1n1p1/3p1p1n/1P1P4/P1N1PP2/2B1NBPP/R2Q1R1K w - - 0 17"]
+
+{Black has a lot of weaknesses. The most effective plan to use the opponent's weaknesses is to open the position.} 17.e4
+fxe4 18.fxe4 dxe4 19.d5 {(it is a logical continuation of the white's plan. It was necessary to find this move BEFORE playing e4.)}
+cxd5 20.Nxd5 Bd6 {(Now we have an open center, so white should centralize his pieces and use them to attack the black's weaknesses.)}
+21.Bxe4 Be5 22.Rc1 Rf8 23.Nb6 Qe7 24.Qd5 {(white is keeping the strong centralization)}
+Nef4 25.Qxe5+ Qxe5 26.Bd4 Qxd4 27.Nxd4 Rb8 28.g3 Bh3 29.gxf4
+Rbd8 30.Rfd1 Rxf4 31.Bf5 gxf5 32.Ne6+ Kf6 33.Nxf4 Rxd1+ 34.Rxd1
+Nxf4 35.Nd5+ Nxd5 36.Rxd5 f4 37.Rc5 Bf5 38.Kg2 Be4+ 39.Kh3 f3
+40.Kg3 Bc6 41.Kf2 Kg6 42.Ke3 Kf6 43.Rh5 Kg6 44.Ra5 Kf6 45.a4
+h6 46.b5 axb5 47.axb5 Bd5 48.b6 Ke5 49.Rc5 Kd6 50.Rc7 Bc6 51.Rh7
+Kc5 52.Rxh6 Kxb6 53.h4 Kc5 54.h5 Be8 55.Rh8 1-0
+
+[Event "16th Open"]
+[Site "?"]
+[Date "2006.08.20"]
+[Round "8"]
+[White "Allahverdiev A"]
+[Black "Azarov S"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2579"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "6rr/4bk2/1q1p1p2/4n3/1p1NbN2/1P4BP/2PR3P/3Q1RK1 b - - 0 35"]
+
+{In positions with an open center you need to put your pieces on the central
+squares. Black has done it already with his bishop e4 and knight e5. Now it is time to centralize another bishop.} 35...d5
+36.Rdf2 Bc5 37.Nfe6 Qxe6 38.Nxe6 Rxh3 {(Black was able even to sacrifice a queen - it shows the power of the centralized pieces.)}
+ 0-1
+
+[Event "3rd Rapid Open"]
+[Site "?"]
+[Date "2006.10.31"]
+[Round "8"]
+[White "Bologan V"]
+[Black "Sandipan C"]
+[Result "1/2-1/2"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2550"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1kb1r/1pqn1p2/p2ppnpp/8/3NPPP1/2N4P/PPP3B1/R1BQ1RK1 w kq - 0 11"]
+
+{Black made a lot of pawn moves. It is usually bad in positions with an open center. So white should create such position!} 11.f5
+gxf5 12.exf5 e5 13.Ne6 Qb6+ 14.Kh1 fxe6 15.fxe6 Be7 16.exd7+
+Bxd7 17.Rxf6 Bxf6 18.Nd5 Qd8 19.Be3 ( 19.Qd3 {was winning for white} )
+O-O 20.Bb6 Qe8 21.Nc7 Qe7 22.Nxa8 Rxa8 23.Qd3 Bc6 24.Bxc6 bxc6
+25.Qc4+ Kh8 26.Qxc6 Rb8 27.Rd1 e4 28.Rxd6 Bg7 29.Rxh6+ Bxh6 30.Qxh6+
+Kg8 31.Qg6+ Qg7 32.Qxg7+ Kxg7 33.Bd4+ Kg6 34.Kg2 Rf8 35.a4 Kg5
+36.b4 Rc8 37.c3 Kf4 38.Kf2 Rb8 39.Ke2 Rb7 40.a5 Rh7 41.Be3+ Ke5
+42.c4 Rxh3 43.b5 Rh2+ 44.Kf1 axb5 45.cxb5 Rh3 46.Kf2 Rh2+ 47.Kg3
+Re2 48.Bf4+ Kd5 49.b6 Kc6 50.Bc7 Ra2 51.Kf4 Rxa5 52.Kxe4 Rb5
+53.Kf4 Kd7 54.Ke4 Kc6 55.Kf4 Kd7 56.Kf3 Ke7 57.Ke4 Kd7 58.Kf4
+Ke6 59.Kf3 Rb4 60.Kg3 Kf7 61.Kh4 Rb5 62.g5 Kg6 63.Bd8 Rd5 64.Bf6
+Rb5 65.Bd8 Rd5 66.Be7 Rb5 67.Bd8 Rd5 1/2-1/2
+
+[Event "ch-USA GpB"]
+[Site "?"]
+[Date "2006.03.05"]
+[Round "3"]
+[White "Christiansen L"]
+[Black "Wojtkiewicz A"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2554"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k2r/2qnbppp/p2ppn2/1p4B1/3NP3/1BN2Q2/PPP2PPP/2KR3R w kq - 0 11"]
+
+{White has finished an opening stage, so he should compose a middlegame plan. If you can attack in a center - do it.} 11.e5
+Bb7 12.Qg3 Nxe5 13.Bxe6 {(In an open position white will be able to exploit the black's weaknesses and his centralized king.)}
+fxe6 14.f4 Ng6 15.Nxe6 Qd7 16.Rhe1 Kf7 17.f5 Nf8 18.Bxf6 Bxf6
+19.Rxd6 Qc8 20.Ng5+ Kg8 21.Rxf6 gxf6 22.Nge4+ Ng6 23.fxg6 1-0
+
+[Event "8th ch-Euro"]
+[Site "?"]
+[Date "2007.04.09"]
+[Round "7"]
+[White "Eljanov P"]
+[Black "Jianu V"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2506"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1qrk1/pp3pb1/2ppnnpp/8/1PPNP2B/2N4P/P4PP1/R2QRBK1 w - - 0 16"]
+
+{Black has a lot of weaknesses (because of his pawn moves), but white can't use
+them at the moment. White needs to open the position first.} 16.Nf5
+gxf5 17.exf5 Qd7 18.fxe6 fxe6 19.Bg3 {
+ (Now white only needs to centralize his pieces and to attack the black's
+numerous weaknesses. In the position with an open center black will not be able
+to protect them. That's why the white's position is already strategically winning. )}
+Ne8 20.Qc2 a5 21.b5 Bd4 22.Rad1 e5 23.c5 Qg7 24.cxd6 Bf5 25.Qb3+
+Kh8 26.Ne2 Bc5 27.Qb2 Kh7 28.bxc6 bxc6 29.d7 Nf6 30.Qxe5 Ne4
+31.Qxg7+ Kxg7 32.Be5+ Kh7 33.Bd4 Bb4 34.f3 Ng5 35.Ng3 Bxd7 36.Bd3+
+Kg8 37.Bc4+ Kh7 38.h4 Nf7 39.Bd3+ Kg8 40.Nh5 Nd6 41.Re7 1-0
+
+[Event "8th ch-Euro"]
+[Site "?"]
+[Date "2007.04.04"]
+[Round "2"]
+[White "Frolyanov D"]
+[Black "Hracek Z"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2613"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rq1rk1/1p1bbppp/p2ppn2/8/Pn1NPP2/2N1B1Q1/1PP1B1PP/R4R1K b - - 0 13"]
+
+13...Rxc3 {(This standard sacrifice helps black to open the center and to create weaknesses in the white's position.)}
+14.bxc3 Nxe4 15.Qe1 Nd5 {(It is interesting that white has a material advantage, but can't do anything.)}
+16.Bf3 Ndxc3 17.Bd2 Nxd2 18.Qxd2 Qc7 19.Bxb7 Bf6 20.Bf3 e5 21.fxe5
+dxe5 22.Nb3 e4 23.Bh5 Be5 24.Rae1 Bxa4 25.Qe3 g6 26.Bg4 Bb5 27.Rf2
+f5 28.Nc5 Nd5 29.Qa3 Bd6 30.Rd2 Bxc5 31.Qb3 Bb4 32.Rxd5 Qc4 0-1
+
+[Event "37th Olympiad"]
+[Site "?"]
+[Date "2006.05.24"]
+[Round "4"]
+[White "Gashimov V"]
+[Black "Adebayo A"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2251"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k2r/pp1pn2p/2n1ppp1/2q5/2P5/P1P2NP1/4PPBP/R1BQ1RK1 w kq - 0 11"]
+
+{In positions with an open center, we should mainly attack the opponent's weaknesses and centralize our pieces.} 11.Nd2
+{(This move prepares Ne4 and realizez both of those ideas.)}
+f5 12.a4 Na5 13.e4 {(white opens the position even more)} Qc7
+14.exf5 Nxf5 15.Ba3 h5 16.c5 Rb8 17.Ne4 b6 18.Qd2 bxc5 19.Qg5
+d6 20.Qxg6+ Qf7 21.Qxf5 1-0
+
+[Event "10th Essent Open"]
+[Site "?"]
+[Date "2006.10.28"]
+[Round "9"]
+[White "Goloshchapov A"]
+[Black "Dambacher M"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2429"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r3kb1r/2qb1pp1/p2ppn1p/np6/3NPPP1/2N1B2P/PPPQ4/1K1R1B1R w kq - 0 13"]
+
+{To exploit the black's weaknesses and to use white's better development - it is necessary to open the position.} 13.e5
+b4 {(perhaps this move looks dangerous, but if you are confident in your strategic understanding, you will continue calculating.)}
+14.Ncb5 axb5 15.exf6 Nc4 16.Bxc4 Qxc4 17.b3 Qc3 18.Qe2 gxf6 19.Nf5
+{(As usual white should centralize his pieces and attack the black's weaknesses.)}
+Qc6 20.Bd4 Rg8 21.Bxf6 Qa6 22.Rd3 Rg6 23.Bb2 Kd8 24.Nxd6 Bxd6
+25.Qd2 e5 26.Rd1 Kc7 27.fxe5 Qxa2+ 28.Kc1 Qxb2+ 29.Kxb2 Bxe5+
+30.Rd4 Rga6 31.Qxb4 Ra2+ 32.Kc1 1-0
+
+[Event "2nd MAIG Team Standard"]
+[Site "?"]
+[Date "2007.10.30"]
+[Round "5"]
+[White "Xu Yuhua"]
+[Black "Nguyen Thi Thanh An"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2324"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/1p2b1pp/p1np2q1/2p5/2P2p2/1P3Q2/PB4PP/RN3RK1 b - - 0 20"]
+
+{In positions with an open center you should struggle for the control over the central squares.} 20...Bf6
+21.Bxf6 Qxf6 22.Nc3 Rae8 23.Rad1 Nd4 {(Black has a fully centralized position)}
+24.Qxb7 f3 {(When you have a domination in a center, you may transfer the attack on a side. It will be easily successful.)}
+25.Kh1 Re5 26.Ne4 Qh4 27.Ng3 f2 28.Qd7 h6 29.Rd2 Re1 30.Rd1 Rxd1
+31.Rxd1 Qf6 32.h3 Qe5 33.Nf1 Rf4 34.Qd8+ Kh7 35.Qa5 Re4 36.Qd2
+Re1 37.Qd3+ Kh8 38.Rd2 Ne2 0-1
+
+[Event "World Cup"]
+[Site "?"]
+[Date "2007.12.02"]
+[Round "3.4"]
+[White "Karjakin Sergey"]
+[Black "Bacrot E"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2695"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1nrk1/1pq3bp/p2pp3/4np2/2P2B2/1NN5/PP1QBPPP/2RR2K1 w - - 0 16"]
+
+{Black made too many pawn moves, what is very dangerous in open positions.} 16.c5
+{(So white opens the position more)} dxc5 17.Qe3 { (now white can attack all the black's weaknesses directly.)}
+c4 18.Na4 b5 19.Nb6 Bb7 20.Nxa8 Bxa8 21.Qg3 Kh8 22.Nd4 Bd5 23.Re1
+Qd6 24.Bh5 1-0
+

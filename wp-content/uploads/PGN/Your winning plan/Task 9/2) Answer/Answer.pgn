@@ -1,0 +1,320 @@
+[Event "59th ch-RUS 1st League"]
+[Site "?"]
+[Date "2006.09.08"]
+[Round "6"]
+[White "Khismatullin D"]
+[Black "Alekseev Evgeny"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2644"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2r2rk1/1pqnb1pp/p2p4/P2Ppp2/8/6P1/1PPBQPBP/R3R1K1 w - - 0 20"]
+
+{White has a pawn majority on the queen-side. Thus white should use it and this
+is the white's plan. That's why the move c3 would be a mistake - it doesn't help white to realize his plan} 20.Rac1
+{(preparing c4)} Bf6 21.Bh3 {
+ (white uses the tactical motif to prevent the realization of the black's plan.
+You see that it is important to always think about the opponent's plan also.)}
+Be7 ( 21...g6 22.g4 f4 23.g5 Bxg5 24.Be6+ Kh8 25.Qg4 $16 ) 22.Kh1
+{(white is preventing the black's plan again. This move is preparing the move f3 to stop the black's central pawns)}
+( 22.c4 {however it gives black some counterplay after} Nc5 )
+Rce8 ( 22...e4 23.f3 ) 23.f3 Bd8 24.b4 {(white stopped the black's plan and now he can realize his own ideas without any problems.)}
+e4 25.f4 g5 26.c4 g4 27.Bf1 Bf6 28.Be3 Rc8 29.c5 dxc5 30.bxc5
+Qxa5 31.c6 bxc6 32.dxc6 {(white got a winning position easily, because he used the advantage of his position)}
+Nb8 33.Qc4+ Rf7 34.Qe6 Rxc6 35.Qb3 Qc7 36.Bc4 Rxc4 37.Rxc4 Nc6
+38.Rc5 Qd7 39.Rd1 1-0
+
+[Event "8th ch-Euro"]
+[Site "?"]
+[Date "2007.04.05"]
+[Round "3"]
+[White "Khismatullin D"]
+[Black "Brendel O"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2370"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnbqk2r/pp3pbp/3ppnp1/2pP4/2P5/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 0 7"]
+
+{White has a good chance to create weaknesses in the black's position and to
+attack them afterwards. It gives white a clear plan and of course white should use it.} 7.dxe6
+fxe6 8.Bf4 {(Forcing black to weaken his position again. More advanced pawns are easier object of an attack.)}
+e5 9.Bg5 Nc6 10.Nf3 Be6 11.O-O Bxc4 12.Nd2 Ba6 13.Nde4 {
+ (White is attacking the black's weaknesses. Everything is very simple for
+white here. Almost any logical moves are good for white.)} Nd4
+14.e3 Bxf1 15.Qxf1 Ne6 16.Bxf6 Bxf6 17.Rd1 {(It is very difficult for black to play such position practically. Also it is bad for black objectively.)}
+Be7 18.Nb5 d5 19.Rxd5 Qxd5 20.Nf6+ Bxf6 21.Bxd5 Ke7 22.Bxe6 Kxe6
+23.Nc7+ Ke7 24.Qc4 Kd6 25.Nxa8 Rxa8 26.Qf7 Be7 27.Qxh7 g5 28.Qg6+
+Kd7 29.Qe4 Rb8 30.Qxe5 Rc8 31.Kg2 b5 32.f4 gxf4 33.exf4 Rc6 34.g4
+Bf6 35.Qd5+ Kc7 36.Qd2 c4 37.Qa5+ Rb6 38.Qd2 b4 39.g5 c3 40.Qd3
+Rd6 41.Qc4+ Rc6 42.Qf7+ Kb6 43.bxc3 bxc3 44.Qb3+ Kc7 45.gxf6
+c2 46.Qb2 1-0
+
+[Event "23rd ECC Men"]
+[Site "?"]
+[Date "2007.10.04"]
+[Round "2"]
+[White "Adams Mi"]
+[Black "Smirin I"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2649"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k2r/bp1p1ppp/p1n1pq2/8/2B1P3/1N4Q1/PPP2PPP/R1B2RK1 w kq - 0 13"]
+
+{Black has a lot of weaknesses on the dark squartes. Certainly white should
+attack them. Also we should play in the center if possible. Thus the most
+effective plan is an attack of an opponent's central weaknesses.} 13.Bf4
+{(White is attacking the weak squares e5 and d6 and is going to put the bishop on d6)}
+e5 {(When your opponent makes pawn moves to protect weaknesses, he is creating new (more significant) weaknesses.)}
+14.Be3 {(It is good for white to trade the black's dark squared bishop, which is the main protector of the black's weaknesses.)}
+O-O 15.Rad1 Bxe3 16.Qxe3 d6 17.Rd2 a5 18.a4 Be6 19.Bxe6 Qxe6
+20.Qd3 Nb4 21.Qxd6 Qxd6 22.Rxd6 Nxc2 {(black exchanged his d6 pawn, but he has a lot of other weaknesses now)}
+23.Rb6 f6 24.g3 Rfc8 25.Rd1 Rc7 26.Kf1 h5 27.h4 Kh8 28.Rd2 Rac8
+29.Nxa5 Nd4 30.Nb3 Nxb3 31.Rxb3 Rc1+ 32.Kg2 R8c7 33.a5 Re1 34.Kf3
+Kh7 35.Rb6 Rc4 36.Rxb7 f5 37.Re2 fxe4+ 38.Ke3 Rd1 39.Rb3 Ra4
+40.Rd2 Re1+ 41.Re2 Rd1 42.a6 Rdd4 43.Rd2 Rxd2 44.Kxd2 Rxa6 45.Rb5
+Rf6 46.Ke2 Kg6 47.b4 Kf5 48.Rb7 g5 49.hxg5 Kxg5 50.Ke3 Kg4 51.b5
+Rf3+ 52.Kxe4 Rxf2 53.Rg7+ Kh3 54.Rg5 h4 55.gxh4 Re2+ 56.Kd5 e4
+57.Re5 e3 58.Ke4 1-0
+
+[Event "World Blitz"]
+[Site "?"]
+[Date "2007.11.22"]
+[Round "36"]
+[White "Adams Mi"]
+[Black "Rublevsky S"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2676"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnbqk1nr/4bp1p/pp1pp1p1/8/P3P3/1N1B4/1PP1QPPP/RNB1K2R w KQkq - 0 10"]
+
+{Black has a lot of weaknesses in this position. However the most weak pawn is
+the b6 one. That's why white should think how to use his pieces to attack that
+pawn. White needs to play Be3, Nb1-d2-c4 and maybe he can push a5} 10.Be3
+Nd7 11.N1d2 Ngf6 12.a5 b5 13.c4 b4 14.O-O {?!} ( 14.Bh6 {after that white can attack on both sides.}
+) e5 15.Rfc1 O-O 16.h3 Nc5 17.Nxc5 dxc5 18.Bh6 Re8 19.Nf1 Nh5
+20.Rd1 Bg5 21.Bc2 Nf4 22.Qf3 Qe7 23.Bxg5 Qxg5 24.Kh2 Ne6 25.Ba4
+Rf8 26.Bc6 Ra7 27.Bd5 Nd4 28.Qg3 Qh5 29.Nd2 Re7 30.Nb3 Nxb3 31.Qxb3
+Kh8 32.Qe3 Rc7 33.Rf1 g5 34.Rad1 f6 35.Rd3 g4 36.f4 gxh3 37.g3
+Rg7 38.Rf2 exf4 39.Qxf4 Qg5 40.Qd6 Re8 41.Rxf6 h5 42.Rh6+ Rh7
+43.Rg6 Qd8 44.Qxc5 Rg7 45.Qd4 Qe7 46.Rh6# 1-0
+
+[Event "Corus A"]
+[Site "?"]
+[Date "2008.01.22"]
+[Round "9"]
+[White "Adams Mi"]
+[Black "Van Wely L"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2681"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rnb1nr1k/2q1bppp/p2pp2B/1p6/3NP3/1BN3Q1/PPP2PPP/R4R1K w - - 0 13"]
+
+{The opening has finished and white needs to compose an attacking plan. First
+we need to choose the direction of an attack. If you can play in the center -
+do it, so white should attack there. More specifically we should attack
+weaknesses. That's why the concrete target of an attack is the d6 pawn} 13.Bg5
+{(There is one important strategic rule: THE MAIN DEFENDER OF WEAKNESSES IS A
+BISHOP. That's why if you want to attack the opponent's weaknesses, you should
+exchange his bishop, which protects those squares.)} Bxg5 14.Qxg5
+Nf6 15.f3 Bd7 16.Rfd1 Nc6 17.Nxc6 Bxc6 18.a3 Rab8 19.Rd4 Rfc8
+20.Rad1 h6 21.Qd2 Ne8 {
+ (White got a comfortable position, where black has no real counterplay. As we
+already know, you should play slowly in such situations.)} 22.Ne2
+a5 {(this move seems normal, but we should not forget that it is often bad to move
+the flank pawns in positions with a dynamic center.)} 23.c3 Nf6
+24.Qe3 Rd8 25.Ng3 Rd7 26.h3 Qa7 27.Qe1 Rbd8 28.R4d2 Qc5 29.Ne2
+Qe5 30.Rd4 g5 31.c4 bxc4 32.Bxc4 Nh5 33.Qc3 Bb7 34.Bb5 Rc8 35.Qxa5
+{(White won that pawn, which black pushed forward some time ago.)}
+Rc2 36.R4d2 Rdc7 37.Qb4 Kg7 38.Qd4 Kf6 39.Kg1 d5 40.exd5 Bxd5
+41.Qxe5+ Kxe5 42.Nc3 Rxd2 43.Rxd2 Nf4 44.g3 Nxh3+ 45.Kh2 g4 46.f4+
+Kd6 47.Be2 1-0
+
+[Event "28th Nezhmetdinov mem"]
+[Site "?"]
+[Date "2006.06.05"]
+[Round "5"]
+[White "Bocharov D"]
+[Black "Bezgodov A"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2554"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2rqr1k1/pp1bbpp1/5n1p/n2p4/3N4/2N1B1P1/PPQ1PPBP/R2R2K1 w - - 0 15"]
+
+{Black has the isolated pawn d5, which is a weakness. So white should attack it.} 15.Nf5
+Bf8 16.Bxd5 Nxd5 17.Rxd5 Nc4 18.Rad1 Bxf5 19.Qxf5 Nxe3 20.fxe3
+Qb6 21.Rd7 Qxb2 22.Qxf7+ Kh8 {(Now black has weaknesses on the light squares. Those squares (f7, g6 etc) are the new target of the white's attack.)}
+23.Nd5 Qxa2 24.Qf3 a5 25.Nf4 Qc2 26.R1d3 Qc6 27.Qg4 Qe4 28.Ng6+
+Kg8 29.Qxe4 Rxe4 30.Rxb7 a4 31.Rdd7 Rg4 32.Nxf8 Rxf8 33.Ra7 Re8
+34.Kf2 Rf8+ 35.Kg2 Re8 36.Kf3 Rge4 37.Rxg7+ Kh8 38.Rh7+ Kg8 39.Rxh6 1-0
+
+[Event "TCh-SRB 1st League"]
+[Site "?"]
+[Date "2009.09.05"]
+[Round "5"]
+[White "Sutovsky E"]
+[Black "Miroshnichenko E"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source "The Week in Ches"]
+[Remark ""]
+[SetUp "1"]
+[FEN "3q1rk1/2b2pp1/prp1p1p1/3n4/Q2P1P2/1R4P1/P2BB2P/2R3K1 b - - 0 25"]
+
+{White has the weak pawn d4 and this is the object of the black's attack. Now
+we come to the second step of a planning: black should detect how to use his
+pieces to attack the d4 pawn. The night should go to the f5, the bishop to the
+b6 or f6, heavy pieces will put pressure on the "d" file. This is the black's
+plan. When you understand it clearly, you will play all the next moves easily.} 25...Ne7
+26.Be3 a5 27.Bf3 Qd6 28.Rbc3 Rb4 29.Qd1 Bb6 30.a3 Rb2 31.Kh1
+Rd8 32.Rb3 Rxb3 33.Qxb3 Rb8 34.Qa4 Nf5 35.Rxc6 Qd8 36.Rc3 Bxd4
+37.Bxd4 Qxd4 38.Qxd4 Nxd4 39.Kg2 Rb2+ 40.Kh3 f5 41.Bd1 Rd2 42.Rc1
+Kf7 43.g4 g5 44.gxf5 exf5 45.fxg5 Kg6 46.Kg3 Kxg5 47.h4+ Kf6
+48.a4 g6 49.Rb1 Ke5 50.h5 f4+ 51.Kh3 gxh5 52.Bxh5 Rd3+ 53.Kh2
+Ra3 54.Be8 Ra2+ 55.Kh3 f3 56.Rb7 Nf5 57.Bg6 Nd6 58.Rb3 Kf4 59.Rd3
+Ra1 60.Rd4+ Ke5 61.Rd2 Rh1+ 62.Rh2 Rg1 63.Bd3 Kf4 64.Rc2 Rh1+
+65.Rh2 Rxh2+ 66.Kxh2 Ke3 67.Ba6 Ne4 68.Kg1 Nc3 0-1
+
+[Event "2nd Mayors Cup"]
+[Site "?"]
+[Date "2009.05.03"]
+[Round "3"]
+[White "Miroshnichenko E"]
+[Black "Udeshi A"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2281"]
+[Annotator ""]
+[Source "The Week in Ches"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b2rk1/1p3ppp/2n1pq2/p1b5/2Pp4/P1N2NP1/1P2PPBP/R2Q1RK1 w - - 0 12"]
+
+12.Na4 {!} {
+(White has the pawn majority on the queen-side, so the white's plan is to use
+this advantage. The move Na4 helps white to do it immediately)}
+( 12.Ne4 {(this move seems natural and most players would play it automatically. However,
+we should not find the right move, we should find the right PLAN.)}
+Qe7 {and the position is equal} ) Ba7 13.b4 e5 ( 13...axb4 14.axb4
+Nxb4 15.Nb6 Bxb6 16.Rxa8 $16 ) 14.b5 Nd8 15.Nd2 ( 15.c5 {(the most direct way of a realization of the white's plan was also possible)}
+Bd7 16.c6 bxc6 17.b6 Bb8 18.Nc5 $40 {when you realize your plan insistently, you can get great results quickly!}
+) Bg4 16.c5 Qe7 17.Rc1 Rc8 18.Nb3 Ne6 19.b6 Bb8 20.Qc2 Ng5 21.Nxa5
+e4 22.c6 bxc6 23.Nxc6 Qxa3 24.Qc5 Qxa4 25.Ne7+ Kh8 26.Nxc8 Ne6
+27.Qd5 Bxe2 28.Bxe4 Bxf1 29.Kxf1 Rd8 30.Qf5 Nf8 31.Qxf7 Qa6+
+32.Kg2 Rxc8 33.Bb7 Qa3 34.Bd5 1-0
+
+[Event "12th Corsica Masters"]
+[Site "Bastia/Ajaccio FRA"]
+[Date "2008.10.25"]
+[Round "4"]
+[White "Milov, V."]
+[Black "Dimitrov, Pa"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2404"]
+[Annotator ""]
+[Source "Mark Crowther"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1qrk1/pp1nb1pp/2p1pn2/3pNp2/2PP1B2/2N3P1/PPQ1PPBP/R4RK1 w - - 0 11"]
+
+{Of course white should calculate the move cd, because it can create weaknesses in the black's position.} 11.cxd5
+Nxd5 {?} { (black should think twice before making such a move like this. It creates
+stable weaknesses in his position and certainly black should try to avoid this situation)}
+( 11...exd5 {(black was able to avoid an "ugly" move Nd5)} 12.Qxf5
+Nxe5 13.Qxe5 Ng4 14.Qc7 Bd8 15.Qd6 Be7 {} ) 12.Nxd7 Bxd7 13.Be5
+Qh5 14.e4 {(we should open the position to exploit the opponent's weaknesses)}
+fxe4 15.Nxe4 Be8 16.Nc5 {(now white has a clear plan - to attack the black's weak pawns)}
+Bg6 17.Qc1 Bf5 18.Nxb7 Bh3 19.Qd1 Qf5 20.Qe2 Bxg2 21.Kxg2 h5
+22.Rae1 Bb4 23.Nd6 Qg5 24.Rc1 h4 25.Rxc6 Bxd6 26.Rxd6 Rac8 27.Rd7
+Rf7 28.Rxf7 Kxf7 29.Re1 h3+ 30.Kxh3 Qf5+ 31.Kg2 Rc2 32.Qf3 Qxf3+
+33.Kxf3 Rxb2 34.Re2 Rxe2 35.Kxe2 Nc3+ 36.Kd3 Nxa2 37.Kc4 Nc1
+38.h4 Ne2 39.g4 Ng1 40.Kd3 Nf3 41.Bg3 a5 42.Ke3 Ne1 43.Ke2 Nc2
+44.Kd3 Nb4+ 45.Kc4 Nc2 46.Be5 g6 47.Kb5 Ne1 48.Kxa5 Nf3 49.h5
+gxh5 50.gxh5 Ng5 51.Kb5 Ne4 52.f3 Ng5 53.f4 Ne4 54.Kc6 Ng3 55.f5
+Ke8 56.d5 exd5 1-0
+
+[Event "4th SICC Masters"]
+[Site "?"]
+[Date "2007.12.19"]
+[Round "5"]
+[White "Azmaiparashvili Z"]
+[Black "Dao Thien Hai"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2530"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "4k1nr/p1pq2pp/1rnbp3/8/3pP3/3Q1N2/PP3PPP/RNB2RK1 w k - 0 12"]
+
+{Black has a lot of weaknesses. The easiest targets of an attack are the pawn
+d4 and the weaknesses on the "c" file, because they are on the open files.
+Secondly, white should find the right set up of his pieces to realize this
+attacking plan. The b1 knight should go to the c4, the bishop - to the d2, the
+rooks may go to the d1 and c1 or they can be doubled on the "c" file.} 12.Nbd2
+e5 13.Nc4 Rb8 14.Bd2 Nge7 15.Rfc1 O-O 16.Rc2 h6 17.b4 Qe6 18.b5
+Nd8 19.Qb3 Ng6 20.Rb1 Kh7 21.Ne1 Qf6 22.Qg3 Ne6 23.Nd3 Nef4 24.Bxf4
+Nxf4 25.Nxf4 Qxf4 26.Qxf4 Rxf4 27.f3 Rf6 28.Nxd6 Rxd6 29.Rxc7
+a6 30.a4 d3 31.Rc5 Rd4 32.Rd5 Rxd5 33.exd5 axb5 34.Kf2 b4 35.Rb3
+Kg6 36.Ke3 Kf6 37.Kxd3 Ke7 38.Kc4 Kd6 39.Rxb4 Rc8+ 40.Kb3 Kxd5
+41.a5 1-0
+
+[Event "ch-COL w"]
+[Site "?"]
+[Date "2007.06.14"]
+[Round "3"]
+[White "Mateus Mar"]
+[Black "Herrera Mil"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "1949"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bqk1nr/b4ppp/p1npp3/1p6/4P3/1N1BB3/PPP1QPPP/RN3RK1 w kq - 0 10"]
+
+{The most advanced opponent's pawn/pawns is often the best object of an attack.} 10.a4
+bxa4 11.Rxa4 Bxe3 12.Qxe3 Nge7 13.Nc3 O-O 14.Rfa1 a5 15.e5 Nxe5
+( 15...dxe5 16.Qc5 {attacking the a5 pawn again} ) 16.Qe4 {?}
+( 16.Bxh7+ Kxh7 17.Qe4+ Kg8 18.Qxa8 $18 ) Nxd3 17.Qxa8 Qb6 18.Qf3
+Nxb2 19.Rxa5 Bb7 20.Qh3 Qc6 21.Nd4 Qc4 22.Rb5 Ba8 23.Nde2 d5
+24.Rxb2 d4 25.Ra4 Qc6 26.Rxd4 1-0
+

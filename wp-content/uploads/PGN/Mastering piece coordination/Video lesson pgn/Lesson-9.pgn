@@ -1,0 +1,77 @@
+[Event "Friendly Game, 3 min"]
+[Site "Main Playing Hall"]
+[Date "2019.02.28"]
+[Round "?"]
+[White "Tiger Lilov"]
+[Black "Ano Nym"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2929"]
+[BlackElo "2047"]
+[PlyCount "69"]
+[EventDate "2019.02.28"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 c6 6. O-O Bg7 7. Qe2 O-O 8. Rd1
+Bg4 9. Bd2 b5 10. Bg5 bxc4 11. exd6 Qxd6 {Diagram #} 12. Nbd2 h6 13. Nxc4 Qc7
+14. Bh4 Nd7 15. Bg3 Qc8 16. c3 a5 17. Qd3 Bxf3 18. Qxf3 N5b6 19. Ne3 Nf6 20. c4
+Rd8 21. Rac1 a4 22. h3 Qd7 23. Be5 Nh5 24. Ng4 Qf5 25. Qxc6 Nd7 26. Bxg7 Kxg7
+27. c5 Ndf6 28. Ne5 Nf4 29. Qf3 Qg5 30. c6 N6d5 31. Kh1 Qf5 32. c7 Rdc8 33. Rc5
+Qe6 34. Rdc1 g5 35. Rc6 1-0
+
+[Event "Friendly Game, 3 min"]
+[Site "Main Playing Hall"]
+[Date "2019.02.28"]
+[Round "?"]
+[White "Tiger Lilov"]
+[Black "Ano Nym"]
+[Result "1-0"]
+[ECO "A88"]
+[WhiteElo "2929"]
+[BlackElo "2047"]
+[PlyCount "51"]
+[EventDate "2019.02.28"]
+
+1. d4 f5 2. Nf3 d6 3. g3 Nf6 4. Bg2 c6 5. O-O g6 6. c4 Bg7 7. Nc3 O-O 8. Re1
+Nbd7 {Diagram #} 9. e4 e6 10. Bf4 d5 11. exd5 exd5 12. cxd5 cxd5 13. Ng5 Nb6
+14. Qb3 h6 15. Ne6 Bxe6 16. Rxe6 Kh7 17. Rae1 Ne4 18. Nb5 Qd7 19. Nc7 Qxe6 20.
+Nxe6 Rfe8 21. Nxg7 Kxg7 22. Be5+ Kh7 23. Bxe4 dxe4 24. Rc1 Rac8 25. Rxc8 Rxc8
+26. Qf7# 1-0
+
+[Event "Friendly Game, 3 min"]
+[Site "Main Playing Hall"]
+[Date "2019.02.28"]
+[Round "?"]
+[White "Frida1851"]
+[Black "Tiger Lilov"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteElo "2101"]
+[BlackElo "2929"]
+[PlyCount "39"]
+[EventDate "2019.02.28"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 {
+Diagram #} b6 8. Qc2 Nbd7 9. Nf3 Bb7 10. Ne5 h6 11. Bh4 c5 12. Nxd7 Qxd7 13.
+dxc5 bxc5 14. O-O a6 15. Rad1 Rad8 16. Bxf6 Bxf6 17. Nxd5 Bxd5 18. e4 Bb7 19.
+e5 Qc6 20. f4 0-1
+
+[Event "Friendly Game, 3 min"]
+[Site "Main Playing Hall"]
+[Date "2019.02.28"]
+[Round "?"]
+[White "Tiger Lilov"]
+[Black "Frida1851"]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "2929"]
+[BlackElo "2101"]
+[PlyCount "65"]
+[EventDate "2019.02.28"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 c5 5. cxd5 Nxd5 {Diagram #} 6. Nf3 (6. e4
+Nxc3 7. bxc3) 6... cxd4 7. Nxd4 Nxc3 8. bxc3 Qd5 9. f3 e5 10. e4 Qa5 11. Ne2
+Nc6 12. Bg2 Bc5 13. a4 Be6 14. Ba3 Rd8 15. Qc1 O-O 16. Qb2 Bxa3 17. Qxa3 Nd4
+18. Nxd4 exd4 19. Rc1 dxc3 20. O-O Rd3 21. f4 Rfd8 22. f5 Bc4 23. f6 Rd2 24.
+Rfe1 Qb6+ 25. Kh1 Qf2 26. Rg1 c2 27. Qe7 Rd1 28. Rcxd1 cxd1=Q 29. Qxd8+ Qxd8
+30. e5 Qdd2 31. e6 Bd5 32. exf7+ Kxf7 33. fxg7 1-0
+

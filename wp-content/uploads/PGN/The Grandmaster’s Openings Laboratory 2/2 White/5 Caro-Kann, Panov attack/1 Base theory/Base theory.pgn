@@ -1,0 +1,32 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.03.30"]
+[Round "?"]
+[White "Panov attack"]
+[Black "Base theory"]
+[Result "*"]
+[ECO "B14"]
+[Annotator "RCA"]
+[PlyCount "19"]
+[EventDate "2013.03.30"]
+[SourceDate "2013.03.30"]
+
+1. e4 c6 2. d4 {Dominates the center.} d5 3. exd5 cxd5 4. c4 {Putting pressure
+on blacks center this is called the Panov-Botvinik attack.} Nf6 5. Nc3 e6 (5...
+dxc4 6. Bxc4 {Helps white to develop his pieces.}) (5... g6 6. Qb3 {Putting
+pressure on d5 black has no good way of defend this pawn.} Bg7 (6... dxc4 {
+Helps white to develop his pieces.}) (6... e6 {Weak dark squares}) 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. a4 Nf6 (12... a5 13. Bf4
+{Followed by d6 with positional advantage due to the activity of white pieces.}
+) 13. Nf4 a5 14. O-O Qd6 15. Nb5 Qd7 16. d6 {returning the material. With
+positional advantage due to the pieces activity.}) (5... Nc6 6. Bg5 dxc4 (6...
+e6 7. c5 {Reaching a similar but not equal position that in the 5...e6 6.c5
+variation.}) (6... Be6 7. a3 {Preparing b4. Because it seems like black is
+going to castle queenside because of his last move 6...Be6.}) 7. Bxc4 {
+Sacrificing a pawn for development.} Qxd4 8. Qxd4 Nxd4 9. O-O-O e5 10. f4 {
+With compensation due to the advantage in development.}) 6. c5 Be7 (6... Nc6 {
+White should wait black from playing Nc6 to play Bb5.} 7. Bb5 $1) (6... b6 7.
+b4 {With a more confortable situation for white due to the space advantage.})
+7. Nf3 O-O 8. Qc2 b6 (8... Nc6 9. Bb5) 9. b4 a5 10. Na4 {This is all the basic
+you should know about the Panov Botvinik attack.} *
+

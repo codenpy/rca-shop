@@ -1,0 +1,151 @@
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 1"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "4q3/2R1p1k1/3p1bpr/1p1P4/4Q3/5RP1/1P3P2/rB4K1 w - - 0 1"]
+
+1.Rxf6 {%02 (black has 2 possible answers: Rb1, Kf6)} {%03(White has several forcing moves-candidates: Qg6, Re7, Rf6. So we need to analyse them first of all.)}
+( 1.Qxg6+ Rxg6 $19 ) ( 1.Rxe7+ Qxe7 $19 ) Kxf6 {%02
+ (now white has several possible checks with the queen. According to the
+principle of maximum activity we should calculate the most forward move first)}
+( 1...Rxb1+ {%02 (white has Qb1 and Kg2, but we should calculate the forcing moves first)}
+2.Qxb1 Kxf6 3.Qe4 {%02 (the attacking moves are also forcing. Now black has no defense against Qe6 or Qd4, so white is winning)}
+) 2.Qe6+ Kg7 ( 2...Kg5 3.f4+ Kh5 4.Qh3# ) 3.Rxe7+ Qxe7 4.Qxe7+
+$18 1-0
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 2"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "8/1p1r1pk1/6p1/P1R1P1qp/3N3n/7P/P4QPK/8 w - - 0 1"]
+
+1.e6 {%02 (The black's queen and rook are under the attack now, so the only real forcing move black has here is Qc5)}
+{%03(As usual we should realize all the forcing moves-candidates first. They are:
+Qf6, Qh4, Ne6, Nf5, e6. We need to calculate these moves first and only then we
+may start to think about the simple moves. The calculation will not be very
+long, because most of these moves-candidates are obviously bad. But we need to look quickly at every possibility.)}
+( 1.Qxh4 Qxh4 $19 ) ( 1.Qf6+ Qxf6 2.exf6+ Kxf6 {%02 losing a pawn} )
+( 1.Ne6+ fxe6 $19 ) ( 1.Nf5+ Nxf5 $19 ) Qxc5 {%02
+ (Now white has a choice, so we need to realize the candidate moves again. The
+are: Qh4, Nf5, ed. First we should calculate the most forcing move - check. Then captures ed and Qh4)}
+2.Nf5+ Qxf5 {%02 (the only move to save the queen)} 3.Qxf5
+( 3.exd7 Qxf2 4.d8Q Qxg2# ) Nxf5 4.exd7 {%02 promoting the pawn, so white is winning}
+ 1-0
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 3"]
+[Black ""]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "2r4k/pp1P4/7b/4p2B/8/2Q1p1P1/PP3q2/3K3R b - - 0 1"]
+
+1...e2+ {%03
+(It is certainly a tactical position, so we should realize the candidate moves
+here. They are: Qd2, e2 (checks), Rc3 (capture).)}
+( 1...Qd2+ 2.Qxd2 exd2 3.dxc8Q+ $18 ) 2.Bxe2 {%02 now the moves candidates are Qe2, Qd4, Rc3. First as usual we should calculate checks.}
+( 2.Kc2 e1Q+ $19 ) Qd4+ {%02 (now white has a couple of answers: Qd4 (capture), Kc2, Ke1, Qd3, Bd3)}
+( 2...Qxe2+ 3.Kxe2 $18 ) 3.Ke1 ( 3.Qxd4 Rc1# ) ( 3.Qd3 Rc1# )
+( 3.Kc2 {%02
+ (black has several possible moves, but we should not calculate them, because
+black is winning after the simple move Rc3. So for now we should stop to
+calculate this line. If this position happens in the game - then we will calculate it properly)}
+Rxc3+ 4.bxc3 {%02 and at least Qd7 winning} ) ( 3.Bd3 Rxc3 4.Rxh6+
+Kg8 {%02 winning} ) Rxc3 {%02 (the only real move candidate)}
+4.Rxh6+ {%02 (white also has bc, but we should calculate the most forcing moves first)}
+Kg7 5.bxc3 {%02
+ and here at least black can play Qd7 winning the game, so we can stop to
+calculate this line, because the first move e2 is winning for black and we should do it.}
+ 0-1
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 4"]
+[Black ""]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "1n1q1r1k/r3p1bp/1pp1b1p1/p3Np2/2pP4/1P4P1/PB1QPPBP/2RR2K1 w - - 0 1"]
+
+1.d5 {%02 (now black has 3 moves candidates: Be5, Bd5, cd)} {%03
+ (Which forcing moves-candidates white has here? First we should calculate
+checks: Ng6 and Nf7. Then we should analyse captures: Nc6, Bc6, bc. And the last forcing move - an attacking move: d5.)}
+( 1.Nf7+ Bxf7 {%02 doesn't do anything} ) ( 1.Nxg6+ hxg6 {%02
+ (after the sacrifice of the knight, we certainly need to look only on the
+powerful attacking moves. So it makes no sense to calculate Bc6 or bc. The only really aggressive move here is d5)}
+2.d5 {%02 (now black has a choice. The moves candidates are Bb2, Bd5 and bc)}
+Bxb2 ( 2...Bxd5 {%02 (or cd)} 3.Qh6+ Kg8 4.Qxg7# ) 3.Qxb2+
+( 3.Qh6+ Kg8 4.Qxg6+ Kh8 {=} ) Kg8 4.dxe6 {%02 and white has an advantage. We need to remember this conclusion: Ng6 gives white an advantage.}
+) ( 1.Nxc6 Nxc6 2.Bxc6 {%02 the white's position here is good, but not so good as in the line Ng6. So no reason for us to resume calculating this line.}
+) ( 1.Nxc4 {%02 (or bc) also doesn't give anything special for white} )
+Bxd5 {%02 (or cd)} ( 1...Bxe5 2.Bxe5+ Kg8 3.dxe6 {%02 winning} )
+2.Nxg6+ {%02 (it is check, so the first move we should look at)}
+hxg6 3.Qh6+ Kg8 4.Qxg7# {
+ Once again I want to pay your attention on this idea: we usually need to
+realize ALL the forcing candidate moves BEFORE starting to calculate the lines.
+Otherwise you can forget about something. And while finding the candidate moves
+you should think about every move for a second. Because it helps to realize which move you should calculate first.^013^010
+}
+{%04} 1-0
+
+[Event ""]
+[Site ""]
+[Date "????.??.??"]
+[Round "?"]
+[White "Example 5"]
+[Black ""]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bQ1nk1/bp3ppp/p7/P2B4/1P6/4P1P1/2P4P/q1B2RK1 b - - 0 1"]
+
+1...Bxe3+ {%02 (now white has 3 moves, and we should calculate all of them)}
+{%03( Let's think about the opponent's threats first. White is threatening Bf7 and
+Qf8 mate. So black need to be careful. The forcing moves-candidates for black
+are: Be3, Be6, Bh3. Certainly we should calculate the most forcing move first - Be3)}
+2.Bxe3 ( 2.Kg2 Bh3+ 3.Kxh3 Rxd8 $19 ) ( 2.Kh1 {%02 (now black has 2 forcing moves: Bh3 and Be6)}
+Bh3 ( 2...Be6 3.Qxa8 Bxd5+ 4.Rf3 Bxf3# ) 3.Bxf7+ {%02 (for an opponent we also should calculate the most forcing moves first)}
+Kh8 4.Qxa8 Bxf1 5.Qxf8# ) Qxf1+ {%02 (black has the only forcing move really)}
+3.Kxf1 Bh3+ 4.Kf2 Rxd8 $19 {  As you can see with the right way of thinking you can calculate the lines very quickly even in so complicated positions!}
+ 0-1
+

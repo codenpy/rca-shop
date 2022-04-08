@@ -1,0 +1,51 @@
+[Event "Burgas 59/610"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Granda Zuniga J"]
+[Black "Smirin I"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "0"]
+[BlackElo "2640"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nc6 7.Nc3
+Bf5 8.b3 Ne4 9.Bb2 Nxc3 10.Bxc3 Be4 11.Qd2 {
+(Of course it is good to know an opening theory. However, even if you don't
+know it - all the previous moves should be done quite quickly. The position is
+not stable and it makes no sense to compose a plan here.)} e5
+{(here white should compose a plan: 1) It is the end of an opening stage; 2) Black made a pawn move.)}
+12.d5 Nb8 13.Rfe1 {(As usual first of all we should play in a center. That's why white is trying to prepare the move e4.)}
+Re8 ( 13...Nd7 {?} 14.Nxe5 Bxg2 15.Nxd7 $18 ) 14.Rac1 {?! (a deflection from the white's plan)}
+Nd7 15.Bf1 {(white is preparing Ng5 and e4)} Bxf3 16.exf3 {(Now white should think about a plan again: 1) an exchanges happened 2) a pawn move was made.)}
+f5 17.b4 b6 {
+(black made a pawn move and white should make corrections in his plan. Black
+has created weaknesses on the queen-side. White can use it by transferring the bishop Be2-d1-a4-c6.)}
+18.Bd3 Re7 19.Re2 Qf8 20.Rce1 h5 {
+(This is a pawn move, but it doesn't change something for white. Black is
+stronger on the king-side and he is realizing his attacking plan there. White
+should continue playing in the center and on the queen-side. That's why the
+last black's move doesn't make any changes for white. You see that not ALL the
+pawn moves are a signal for making adjustments in your plan.)}
+21.Kh1 Kh7 22.Bc2 Rd8 23.Ba4 Rf7 24.Qc2 f4 {
+? (this is a pawn move, which weakens the black's central and king-side
+position. White may try to use it. We should not think about a planning too
+much here, because it is a tactical position and we should rather calculate the concrete variations.)}
+25.g4 {!} hxg4 26.Rg1 e4 ( 26...gxf3 27.Qxg6+ Kg8 28.Bc2 Nf6
+29.Ree1 $40 ) 27.Bxd7 Rdxd7 ( 27...gxf3 28.Rxe4 Rdxd7 29.Rxg6
+{!} Kxg6 ( 29...Bxc3 30.Re8 $18 ) 30.Re6+ Kg5 31.Qg6+ Kh4 32.h3
+Kxh3 33.Qh5# ) 28.Rxg4 Bxc3 29.Qxc3 $18 Qh6 ( 29...exf3 {??}
+30.Rh4+ ) 30.Rxe4 Rf5 {
+(The tactical complications have finished, the position became stable - so
+white should compose the new plan. Of course first of all white should occupy the center.)}
+31.h4 Rdf7 32.Kg2 Rh5 33.Re8 Qg7 34.Qd3 Rhf5 35.Qe4 R7f6 {
+ (White has a domination in the center, but there is no way to continue the
+attack here. That's why white should transfer the attack on a side.)}
+36.a4 { #C5 a5-a6} a5 37.bxa5 bxa5 38.Qe1 Rf7 39.Re6 Rh5 40.Qxa5
+{(White took the material and he should make adjustments in his plan. Obviously
+white can now use his passed pawn on the "a" file.)} Qh6 41.Kh3
+Qg7 42.Qe1 Rf6 43.Rg5 Rxe6 44.Rxh5+ gxh5 45.dxe6 1-0
+

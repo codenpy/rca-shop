@@ -1,0 +1,114 @@
+[Event "Porto San Giorgio op 9th"]
+[Site "Porto San Giorgio"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Glek, Igor V"]
+[Black "Lazarev, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2500"]
+[SetUp "1"]
+[FEN "2R2bk1/5rpp/p3Q3/1p1p4/4qp2/7P/5BP1/7K w - - 0 43"]
+[PlyCount "1"]
+[EventDate "1997.07.??"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+43. Rxf8+ {After this move Black resigned probably thinking that the mate is
+inevitable} ({however after} 43. Rxf8+ Kxf8 44. Bc5+ Re7 45. Bxe7+ Ke8 {Black
+is winning due to the passed pawns on the queenside} 46. Qxe4 dxe4 47. Bg5 Kd7
+48. Bxf4 Ke6 49. Bd2 Kd5 50. Kg1 Kc4 51. Kf2 b4 $19 {Now the black pawns will
+start marching}) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Short, N."]
+[Black "Miles, A."]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p1q1ppp/2r2b2/8/1QNnR3/5P2/PP3P1P/1K1R1B2 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1984.??.??"]
+
+{White played} 1. a3 $6 {and although White is still better White had a much
+better move here} (1. Nb6 $1 {Black probably thought that he set up a trap and
+that 1.Nb6 is followed by} Ne2 {but a very strong counterattacking move
+would`ve decided the game in white`s favor} 2. Qf8+ $1 $18 (2. Bxe2 Qxd1+ $19)
+2... Rxf8 3. Nxd7 Nc3+ 4. bxc3 Rfc8 5. Nxf6+) *
+
+[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "19[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "1953.09.22"]
+[Round "13"]
+[White "Boleslavsky, Isaak"]
+[Black "Averbakh, Yuri L"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1r5r/3bkp2/2p3p1/1p1pP2p/p2P1P2/2R3PP/PP4K1/2R1N3 w - - 0 40"]
+[PlyCount "18"]
+[EventDate "1953.08.30"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{White has a clear advantage. The knight is much better than the bishop, the
+pawn structure is better as well} 40. Nd3 $2 {missing black`s counterplay} (40.
+Rc5 {(pointed out by Bronstein) With the idea Ne1-d3} b4 41. Ra5) 40... b4 41.
+Rc5 Bf5 $1 {not letting the knight come to c5} 42. Nf2 b3 43. a3 Bc2 $1 44. Kf3
+(44. Rxc6 Rhc8 {with counterplay}) 44... Kd7 45. Ke3 Ra8 46. h4 Ra6 47. Nh3 Rb8
+48. Ng5 Ke7 1/2-1/2
+
+[Event "World Championship 19th"]
+[Site "Moscow"]
+[Date "1951.04.03"]
+[Round "9"]
+[White "Botvinnik, Mikhail"]
+[Black "Bronstein, David I"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "rn2qrk1/2pb2pp/p2p1n2/1PbPpp2/N7/1Q2PPP1/PP1BN1BP/R3K2R b KQ - 0 14"]
+[PlyCount "55"]
+[EventDate "1951.03.16"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+14... Ba7 $2 (14... axb5 {would lead to an unclear position}) 15. b6 Bxa4 $2 {
+now White is winning a lot of material} 16. b7 Bxb3 17. bxa8=Q Bb6 18. axb3 Qb5
+{White has an extra rook and normally the level of Mikhail Botvinnik should be
+good enough to win the game but probably relaxe Botvinnik doesn`t find precise
+moves} 19. Nc3 (19. Nc1 {With the idea Bf1}) 19... Qxb3 20. Rxa6 Nxa6 21. Qxa6
+Nxd5 22. Qa4 Qxa4 23. Nxa4 Bxe3 24. Bf1 Ra8 25. b3 Bxd2+ 26. Kxd2 Kf8 {White
+is still winning but the task now is more difficult} 27. Bd3 g6 28. Rc1 Rb8 29.
+Nc3 Nb4 30. Be2 Ra8 31. Na4 c6 32. Rc4 Rb8 33. Bd1 Ke7 34. Nb2 d5 35. Rh4 h5
+36. g4 hxg4 37. fxg4 f4 38. g5 Rf8 39. Rh7+ Kd6 40. Rg7 e4 41. Rxg6+ Ke5
+1/2-1/2
+
+[Event "SUI-chT"]
+[Site "Switzerland"]
+[Date "2011.04.17"]
+[Round "3.1"]
+[White "Hickl, Joerg"]
+[Black "Milov, Vadim"]
+[Result "0-1"]
+[WhiteElo "2605"]
+[BlackElo "2684"]
+[SetUp "1"]
+[FEN "1r5r/1Rp2pk1/p1P2qp1/N7/P2pP1P1/3QbP2/6KP/7R w - - 0 38"]
+[PlyCount "2"]
+[EventDate "2011.02.27"]
+[Source "ChessBase"]
+[SourceDate "2011.05.03"]
+
+{
+Black is trying to attack on the h-file and and at the same time created a trap
+} 38. Rxb8 $2 {this obvious move loses} (38. Nc4 {
+was necessary with the idea to exchange the strong bishop} 38... Rh3 39. Qe2)
+38... Qh4 $1 {Black doesn`t have to take back. Taking advantage of the fact
+that the bishop on e3 is untouched Black is creating mating threats. White
+can`t prevent Qh3 mate and Qf2 mate without big material losses} 0-1
+
+erial losses} 0-1
+

@@ -1,0 +1,181 @@
+[Event "open"]
+[Site "Sankt_Peterburg"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Petrushin, A."]
+[Black "Yakovich, Y."]
+[Result "0-1"]
+[WhiteElo "2485"]
+[BlackElo "2555"]
+[Annotator "Microsoft"]
+[SetUp "1"]
+[FEN "5r2/3Q1pk1/3p1bp1/3Pp2p/1q2P2P/6PK/6B1/2R5 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+[Source "63/(558)"]
+
+{Black's turn}  0-1
+
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Ulloa"]
+[Black "Gomez, A."]
+[Result "0-1"]
+[BlackElo "2355"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/3q4/3p4/1b1PpBnP/2N3KN/PP4P1/R2Q1B1R b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1994.??.??"]
+[Source "63/(586)"]
+
+{Black's turn}  0-1
+
+[Event "La Habana (rapid) 89c/2"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Dominguez, L."]
+[Black "Vasquez Ramirez, R."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r2rbk1/3qn1pp/p2pb3/2nN1p2/1pP2PP1/1P4N1/PB4BP/R2Q1R1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2003.??.??"]
+
+{White's turn}  1-0
+
+[Event "Santa Clara"]
+[Site "Santa Clara"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Martinez, B."]
+[Black "Fernandez, Y."]
+[Result "1-0"]
+[WhiteElo "2205"]
+[SetUp "1"]
+[FEN "r2r2k1/pb3pb1/1p1qp1p1/2p1N3/3P1P2/2P4Q/PP4P1/1BKR3R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+[Source "63/(573)"]
+
+{White's turn}  1-0
+
+[Event "Koszalin 76c/26"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Stohl, I."]
+[Black "Urban, K."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rr1k2/2q2p1p/3p2p1/pp2n3/4N3/P1QR3P/1PR2PP1/6K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1999.??.??"]
+
+{White's turn}  1-0
+
+[Event "Yerevan 76c/23"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Budnikov, O."]
+[Black "Vuckovic, Bo"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1br2rk1/pp4pp/2nq4/3p4/4n3/4BN2/PPN1QPPP/2RR2K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1999.??.??"]
+
+{Black's turn}  0-1
+
+[Event "Cuba 89c/17"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Delgado, N."]
+[Black "Alvarez Pedraza, A."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r3r/1b1pbk1p/3R1pp1/ppqpB3/4P3/P4Q2/1PP2PPP/4R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2003.??.??"]
+
+{White's turn}  1-0
+
+[Event "Romania 77c/11"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Grigore, Ge"]
+[Black "Sanduleac, V."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/3r1p2/RRp1q1pb/1pP1p2p/1P2P1nP/5BP1/4QPK1/4B3 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1999.??.??"]
+
+{Black's turn}  0-1
+
+[Event "Berlin 6c/22"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Ortega, Ro"]
+[Black "Fuchs, R."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4R3/5pkp/1bB2qp1/p2N4/5n2/2P5/PP3PPP/3R3K b - - 0 2"]
+[PlyCount "0"]
+[EventDate "1968.??.??"]
+
+{Black's turn}  1-0
+
+[Event "Jugoslavija 74c/26"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Vuckovic, Bo"]
+[Black "Djukic, Ni"]
+[Result "1-0"]
+[BlackElo "20"]
+[SetUp "1"]
+[FEN "2rqr3/1b2b1kp/p2pQnp1/1p2p1B1/2nNP3/P1NB4/1PP3PP/4RR1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1998.??.??"]
+
+{White's turn}  1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.04.15"]
+[Round "?"]
+[White "WFM_Abrahamyan"]
+[Black "WGM_Baginskate"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2386"]
+[SetUp "1"]
+[FEN "3rr1k1/ppp1qppp/5n2/n3P3/1b6/4QP2/P1BN1P1P/1RB1R1K1 b - - 0 20"]
+[PlyCount "0"]
+[EventDate "2011.??.??"]
+
+{Black's turn}  1-0
+
+[Event "Lanzarote (Spain)"]
+[Site "Lanzarote (Spain)"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Martin Gonzalez Angel (ESP)"]
+[Black "Miles Anthony J (ENG)"]
+[Result "0-1"]
+[WhiteElo "2340"]
+[BlackElo "2555"]
+[SetUp "1"]
+[FEN "2r3k1/pp2pqbp/4bnp1/4B3/3N2P1/2r2P2/PPP4Q/1K1R3R w - - 0 24"]
+[PlyCount "0"]
+[EventDate "1977.??.??"]
+
+{White's turn}  0-1
+

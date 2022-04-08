@@ -1,0 +1,34 @@
+[Event "?"]
+[Site "?"]
+[Date "2017.09.20"]
+[Round "?"]
+[White "New game"]
+[Black "?"]
+[Result "*"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "8/R1r2pkp/Qpq1p1p1/8/8/5nP1/P4PKP/5B2 b - - 0 1"]
+[PlyCount "19"]
+[EventDate "2017.??.??"]
+
+1... Nd2+ 2. Kg1 Rxa7 3. Qxa7 Qc1 4. Qa6 Kf6 5. Kg2 Qxf1+ 6. Qxf1 Nxf1 7. Kxf1
+Ke5 8. Ke2 Kd4 9. Kd2 e5 10. f3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.20"]
+[Round "?"]
+[White "New game"]
+[Black "?"]
+[Result "*"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "7r/3bk1p1/3p1p2/p1rPpPp1/1pP1B1P1/1P5P/P5K1/2RR4 b - - 0 1"]
+[PlyCount "41"]
+[EventDate "2017.??.??"]
+
+1... Kd8 (1... a4 $5) 2. Rh1 Kc7 3. Kg3 Rh4 4. Rh2 Kb6 5. Rd2 (5. a3 $5) 5...
+Rc8 6. Rf1 Rch8 7. Bg2 Kc5 8. Rff2 Ra8 9. Be4 a4 10. Rf1 axb3 11. axb3 Ra3 12.
+Bc2 Ra2 13. Rf3 Ra3 14. Rf1 Rh8 15. Rh2 Ra2 16. Rb1 Rha8 17. Kf3 R8a3 18. Ke3
+Ba4 19. Rd2 Rxc2 20. Rxc2 Bxb3 21. Rcb2 Ba2+ *
+

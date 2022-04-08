@@ -1,0 +1,77 @@
+[Event "SUI-ch int"]
+[Site "Chiasso"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Zueger, Beat"]
+[Black "Landenbergue, Claude"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "2430"]
+[BlackElo "2415"]
+[PlyCount "72"]
+[EventDate "1991.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "1998.11.16"]
+
+1. c4 e5 2. g3 d6 3. Bg2 g6 4. Nc3 Bg7 5. d3 Nc6 6. Rb1 Be6 7. b4 Qd7 8. b5 Nd8
+9. Nd5 c6 10. bxc6 bxc6 11. Nc3 f5 12. Qb3 Ne7 13. Nf3 h6 14. Ba3 O-O 15. O-O
+Rc8 16. Nd2 Nf7 17. Qc2 h5 18. Rb3 g5 19. Rfb1 h4 20. Rb7 Rc7 21. Rxc7 Qxc7 22.
+Qb3 hxg3 23. hxg3 Bc8 24. Qb8 Qd7 25. Qb4 g4 26. Qa5 Ng5 27. Rb8 Bh6 28. Ra8 f4
+29. Rxa7 Qf5 30. Rxe7 fxg3 31. Nce4 gxf2+ 32. Kf1 Qf4 33. Bxd6 Qh2 34. Nxf2 g3
+35. Qxe5 Bh3 {Diagram #} 36. Qxg3 $2 (36. Rg7+ Bxg7 37. Qxg7+ (37. Bxh3 Qxf2#)
+37... Kxg7 38. Bxf8+ Kxf8 39. Nxh3 Nxh3 40. Nf3) 36... Qh1# 0-1
+
+[Event "IJsland"]
+[Site "?"]
+[Date "2018.03.01"]
+[Round "?"]
+[White "Kveinys, A."]
+[Black "Ris, R."]
+[Result "1-0"]
+[ECO "D24"]
+[Annotator "Robert Ris"]
+[SetUp "1"]
+[FEN "8/2r1k1p1/4P3/p4p2/5q2/7P/6P1/Q3R2K b - - 0 46"]
+[PlyCount "4"]
+[EventDate "2017.04.19"]
+
+46... Kf8 $2 (46... Qg3 $1 47. Qxa5 Qc3 48. Qxc3 Rxc3) (46... Qg5 47. Qxa5) 47.
+Qxa5 Qd6 (47... Re7 48. Qd8+ Re8 49. Qd7 Re7 50. Qc8+ Re8 51. e7+ Kf7 52. Qe6#)
+(47... Rc1 48. Qd8#) 48. Qxf5+ 1-0
+
+[Event "GRE-chT"]
+[Site "Aghia Pelagia"]
+[Date "2004.07.09"]
+[Round "7.6"]
+[White "Papadopoulos, Ioannis K"]
+[Black "Ris, Robert"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2236"]
+[BlackElo "2336"]
+[Annotator "Robert Ris"]
+[SetUp "1"]
+[FEN "6k1/5pp1/P2p4/3Ppq2/7p/2P1P2P/2bR2PK/6R1 b - - 0 40"]
+[PlyCount "4"]
+[EventDate "2004.07.04"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2004.09.01"]
+[WhiteTeam "15"]
+[BlackTeam "11"]
+[WhiteTeamCountry "GRE"]
+[BlackTeamCountry "GRE"]
+
+{[%csl Yc2][%evp 0,2,0,424,499] [#]} 40... Qd7 (40... Qc8 41. Ra1 (41. Rxc2
+Qxa6) (41. a7 Qa6 {[%csl Ra7]}) 41... Qxc3 {[%csl Ra1,Rd2][%cal Ya1a8]} 42. Ra2
+Qxd2 43. a7 Qf2 44. a8=Q+ Kh7) (40... Be4 41. a7 {[%csl Ra7]} Qg5 {
+[%csl Rg2] [%cal Yg5g3,Yg3h3,Ye4h1]} (41... Qc8 42. Rb2 {[%cal Yb2b8,Yb8h8]})
+42. a8=Q+ Kh7 43. Rgd1 Qg3+ 44. Kg1 Qxe3+ 45. Rf2) 41. Ra1 {[%cal Ya1a8]} (41.
+Rxc2 Qa4 {[%csl Ra6,Rc2][%cal Ya4a8]}) 41... Be4 42. a7 1-0
+

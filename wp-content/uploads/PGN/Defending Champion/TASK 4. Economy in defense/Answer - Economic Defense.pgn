@@ -1,0 +1,178 @@
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Smirnov"]
+[Black "Romanov"]
+[Result "*"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "rr4k1/2qbbppp/3p1n2/ppnPp3/2p1P3/P1P1B1NP/1PBN1PP1/R2QR1K1 b - - 0 1"]
+[PlyCount "23"]
+[EventDate "2016.??.??"]
+
+{How do you think does Black needs to organyze the defense or not? Try to
+figure out where and how Black needs to place and replace his pieces. Black's
+turn.} 1... Ne8 {Black puts the Knight to e8 with an idea to defend e5 pawn
+with f6 and Knight is a perfect defender for g7 square. Also after White's
+idea of playing f4 and taking on e5, Black can take with d pawn and then bring
+this Knight on a perfect square d6.} 2. f4 {A clear idea to open the center
+and attack Black on the king-side.} Bd8 {A very nice defensive move, whic is
+all about the chapter Economy in defense. Black relocate this bishop to active
+b6 square and prepare 7th rank for the Rooks, if it will be necessery to
+defend it.} 3. Kh2 {Nice move which doesn't allow Black to exchange of dark
+squared bishops after Bb6.} Qc8 {Preparing the idea of Bb6.} 4. Qe2 {With this
+move White connects the Rooks and prepare attack on thhe black King!} Bb6 5.
+Rf1 {The idea is to bring the Rook in the attack on the black King with move
+Rf1 - f3 - g3.} f6 {A very nice defensive move, it defends the pawn on e5 and
+clear 7 rank for rooks.} 6. Nh5 Qd8 7. Rf3 Bc8 {Again a very nice defensive
+move, which follows the idea of clearing 7 rank.} 8. Rg3 Kh8 9. f5 {White
+closes the center and takes some space on the king-side.} Ra7 {Rook finaly
+gets to be on the 7 rank and perfectly defends black King and the g7 square.}
+10. Nf3 Nd7 {One more defensive move, Knight wants to go on f8 and Black wants
+also to exchange darksquared Bishop.} 11. Bd2 {White can not allow this
+exchange to happen, becouse without darksquared Bishop White doesn't have
+enough pieces for the attack.} Nf8 12. Nh4 Qe7 {You can see how nice Black
+plays in this position. Black has exactly enough pieces in the defense and
+White can not make any progress in the attack, and on the other hand, Black
+can with this economic defense use the rest of his piesec for achieveing the
+progress on the queen-side with the moves like b4 and so on.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Hou Yifan"]
+[Black "Kosteniuk"]
+[Result "*"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r4rk1/2qbbppp/p2p1n2/1pnPp3/2p1P1P1/P1P2N1P/1PB2P2/R1BQRNK1 b - - 0 1"]
+[PlyCount "27"]
+[EventDate "2016.??.??"]
+
+{What is here, in your opinion, the best move for Black? Black's turn.} 1... h5
+{Black have very nicely placed pieces and with h5 he wants to stop White from
+advancing on the king-side.} 2. N3h2 {White needs to defend his g4 pawn for a
+moment.} hxg4 3. hxg4 Qc8 {Black wants to take the pawn on g4.} 4. f3 {White
+defends it!} (4. g5 {This is not a good move because Black will open the
+position on the king-side and White will not have enough pieces in the defense.
+} Nh7 5. Qh5 g6 6. Qh4 f6 {Now Black opens the position and it is much better!}
+7. gxf6 Nxf6 8. Nf3 Rf7 {Rook can go to h7 and all Black pieces can attack the
+white King, which is without of any defense.}) 4... Nh7 {This is a very nice
+move that stops White from advancing of the g pawn and prepares the trading of
+the worst Black's piece for the best piece of White - the darksquared Bishop.}
+5. Ng3 Bg5 {This is the idea.} 6. Nf5 {A very nice move! White attacks d6 pawn
+and covers some of the bad squares on the king-side.} Qd8 {Black doesn't allow
+Nd6, because of Qb6!} 7. Kg2 {White wants to take the h file. How Black needs
+to proceed? Best Black's plan is to play g6 in order to get the white Knight
+out of f5 and after that to move the King to g7. It is also possible to get
+with the Rook from f8 to h8 and after this to prepare the strong idea of
+playing on the dark squares. Qf6 maybe to f4 and so on...} (7. Nxd6 Qb6 $17)
+7... g6 8. Ng3 Kg7 9. Rh1 Rh8 10. Nhf1 Qf6 11. Be3 Bxe3 12. Nxe3 {Now you can
+see how Black plan works perfectly. After occupying dark squares Black will
+aslo be a little bit better.} Ng5 13. Qe2 Rag8 14. Raf1 Qf4 {Black occupied
+dark squares and he has a better position. Here black economically exchanges
+darksquared Bishops and bring all of his pieces on perfect suares not only for
+the defense but also for the offense.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Marin"]
+[Black "Ljubojevic"]
+[Result "*"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "2rqnrk1/3bbp1p/p1p1n1p1/1p1p4/3P1NP1/3BPP2/PPQ1NB1P/1K1R3R b - - 0 1"]
+[PlyCount "19"]
+[EventDate "2016.??.??"]
+
+{The White's idea is to play h4 and open h file for the attack on the black
+King. How Black can defend it? Black's turn.} 1... Bh4 {The main idea of White
+is to play h4 and h5 in order to oppen the h file for the attack. With Bh4
+Black stops this and also wants to exchange the great white darksquared Bishop.
+} 2. Bg3 {White doesn't want to trade this Bishop, and he plays this move
+because Black cannot take the Bishop because it will open the h file.} N8g7 {
+Black very economically brings his pieces in to the play. The idea is to cover
+the squares on f5 and h5 and after exchanging of the Knight on e6 the other
+black Knight can come to his position.} 3. Qd2 Re8 {A nice defensive and
+attacking move. Black brings the Rook on the half open e file and for a moment
+alows the Knight, if it will be necessery, to come on f8.} 4. Qe1 {A nice
+attacking move. White needs to attack Black. With Qe1 White wants to open the
+h file eventually.} Bf6 {Another nice move. Black retreat with the Bishop and
+prepares that piece for the defense of the dark squares around his King (g7
+and h8) .} 5. Qf2 Qe7 6. h4 {White attack.} Nxf4 {One more very nice defensive
+move. Black take attacking piece on f4, after whitch  he will bring other
+Knight to e6 and the Bishop will stay on this vital defensive diagonal.} 7.
+Bxf4 Ne6 8. g5 Nxf4 9. Nxf4 Bg7 {Now you can see the point. Black perfectly
+cover all the squares around the king with the darksquared Bishop and now can
+use other pieces for even attack on the white King on the queen-side.} 10. Rde1
+Qd6 {The next move will be c5 and black is better. His King is perfectly safe
+and it is very hard for White to organize attack on the black King.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Yusupov"]
+[Black "Ivanchuk"]
+[Result "*"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "2rq1rk1/pb3ppp/1pn1p3/3n4/1b1P4/2NB1N2/PP1B1PPP/2RQR1K1 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "2016.??.??"]
+
+{White is on the move and he plays Re4! Great attacking move! What do you
+think? Is White much better? Can White mate black King or Black has enough
+resources for the defense? How do you think, in which way Black needs to
+defend? Where does he need to put his pieces?} 1. Re4 {It seems like White has
+a strong attack on the black King. All of the White's pieces attack black King.
+But if you look at it carefully, you will see that Black is also defending
+himself with all pieces he needs. After Re4 idea is to bring the Rook to the h
+file and the Knight on g5 and the Queen to h5.} Nce7 {Economic defense! Knight
+from c6 comes to defense!} 2. Nxd5 Nxd5 3. Rh4 g6 {A nice move that does not
+allow White's Queen to get to the h5 square and Black does not need to bring
+his perfect Knight from d5 to defense on f6 if there is no need to do this.} 4.
+Rxc8 Qxc8 5. Ng5 {Now White wants to take the h7 pawn.} Be7 {A great defensive
+move. There is no need to play h5 and potentially allowing White to sacrfice
+some piece on h5.} 6. Qg4 {White wants to bring the Queen to h3 and attack h7
+pawn once again.} h5 {Now this is the tempo. Black doesn't not alow White to
+take on h7 and makes White get his Queen from g4.} 7. Qg3 Qb8 {Now once again
+you can see perfect economic defense. Black defends himself only with the
+pieces that he needs. After of the excahnge of the Queens White will not have
+any attacking chances and all of his pieces will be on the wrong side of the
+board.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Lasker"]
+[Black "Steinitz"]
+[Result "*"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bppp/2pp4/4n3/4P3/1B2Q3/PPPB1PPP/R4RK1 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "2016.??.??"]
+
+{What do you think Black needs to play here? White wants to attack Black with
+f4. Can the black Knight stay on e5? And what is the future of this Knight?
+Where do you think Black needs to move this knight?And how to organyze some
+counter-chances? Black's turn.} 1... Nd7 {This is a very nice defensive move!
+Black wants to transfer the Knight to f8, from where it will defend the
+potentially endangered h7 square.} 2. Rad1 a5 {Nice move. Black wants to get
+this Bishop from the attacking b3 square and also maybe later on to play Ra5.}
+3. c3 a4 4. Bc2 {White tries to relocate the Bishop to c2 and with next move
+Qh3 to attack h7 square.} Re8 {Nice move. Rook plays great role on the half
+open e file and removes from f8 square, allowing the Bishop or the Knight to
+move there.} 5. Qh3 {Now you can see the point. White wants to attack the h7
+square.} Nf8 {And the Knight is on f8. The Knight is perfectly placed. This
+piece defends the vital h7 square and secure the black King. Black defend
+himself very economically. Only with the Knight on f8.} 6. Be3 Qa5 7. a3 Qb5 {
+One more perfect move following the idea of the economic defense. Black use
+only the Knight for the defense and all other pieces for the counter-play.} *
+

@@ -1,0 +1,396 @@
+[Event "17th Asian Continental"]
+[Site "Makati PHI"]
+[Date "2018.12.11"]
+[Round "2.19"]
+[White "Garma, C."]
+[Black "Le, Quang Liem"]
+[Result "0-1"]
+[ECO "B59"]
+[WhiteElo "2342"]
+[BlackElo "2714"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "2018.12.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. Bf3 {Diagram #} a5 $1 {There are plenty of good
+available options here. Black gets ready to meet the Boleslavsky; for that
+reason, he tried to advance to keep the queenside pawns blocked.} (10... Bc4 $5
+) (10... Na5 $5) (10... Qc7 $5) (10... Nd7 $5) 11. Nd5 Bxd5 12. exd5 Nb4 {
+He cannot capture the d5-pawn, but he started a maneuver in order to relocate
+the knight and block the queenside.} 13. c3 Na6 14. a4 Nd7 {Black's knights
+are extremely useful because they are blocking the c5-square, shutting down
+White's strategical plan.} 15. Be2 Nc7 {Black protected his knight from the
+exchange because he considered it as more useful. This knight on c7 is
+fighting for the b5-square.} 16. f3 Bg5 $1 {
+It's important to exchange your bad located bishop with White's active bishop.}
+17. Bf2 f5 {The position is approximately balanced, but Black started his
+usual kingside initiative. On the other side of the board, we can see that
+White's strategical plan is stuck.} 18. g3 Qe7 19. Re1 Qf7 20. c4 b6 $1 {
+Black manages to totally block the queenside, and White is struggling now to
+find something active to do.} 21. Nc1 Na6 {Now the knight is protected; it
+cannot be captured or exchanged by the light-squared bishop.} 22. Na2 Ndc5 $15
+{Black has a slight edge, and he manages to win the game afterward.} 23. Nc3
+Qd7 24. Bf1 Rae8 25. Ra3 Qd8 26. Nb5 Nb4 27. Bg2 Re7 28. Be3 Bxe3+ 29. Raxe3 f4
+30. Ra3 Ref7 31. g4 h5 32. Kh1 hxg4 33. fxg4 f3 34. Bxf3 Nbd3 35. Rf1 e4 36.
+Nd4 Qg5 37. Nf5 exf3 38. Rxd3 Nxd3 39. Qxd3 Rxf5 0-1
+
+[Event "CRO-chT 15th"]
+[Site "Sibenik"]
+[Date "2006.09.25"]
+[Round "4"]
+[White "Delchev, Aleksander"]
+[Black "Kozul, Zdenko"]
+[Result "0-1"]
+[ECO "B58"]
+[WhiteElo "2637"]
+[BlackElo "2593"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "130"]
+[EventDate "2006.09.22"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2006.11.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Re1 O-O 10. h3 a6 11. Bf1 Re8 12. Nh2 Be6 13. Nd5 Rc8 14. Be3 {Diagram #
+} Nb8 $1 {Black should try to block the queenside, so he tried to relocate the
+knight on a better square. Similarly, the knight blocked the c-line and the
+rook's activity from c6.} (14... Bxd5 $5) (14... Rb8 $5) (14... b5 $5) (14...
+Nd7 $5) 15. c4 Nbd7 16. Qf3 Bxd5 17. exd5 a5 $1 {Black manages to achieve his
+strategic goal. Now he should think about how to advance his kingside pawns.}
+18. b3 Nc5 19. h4 h5 20. g3 Qd7 21. Bd2 b6 $11 {The position is about equal,
+but Black manages to win the game after a long fight.} 22. Bg5 Ng4 23. Bxe7
+Rxe7 24. Qe2 Nxh2 25. Kxh2 g6 26. Qe3 f5 27. Qg5 Rg7 28. f4 e4 29. Qf6 Qd8 30.
+Qxd8+ $2 (30. Qb2 $15) 30... Rxd8 31. Kg2 Rc7 32. Kf2 a4 33. b4 Nd3+ 34. Bxd3
+exd3 35. Rad1 $2 (35. Ke3 Rxc4 36. Kxd3 Rxb4 37. Reb1 Rxb1 38. Rxb1 Rb8 39. Kc4
+Rc8+ 40. Kd4 Rb8 41. Kc4 Rc8+ 42. Kd4 $11) 35... Rxc4 36. Rxd3 Rxb4 37. Rc3 Rd7
+38. Rc8+ Kg7 39. Ree8 Rd4 40. Rb8 Rxd5 41. Rxb6 Rd2+ 42. Re2 Rd4 43. Reb2 Re7
+44. R6b4 Ree4 45. Rxd4 Rxd4 46. Ke3 Re4+ 47. Kd2 Kf6 48. Rb5 Ke6 49. a3 Kd7 50.
+Ra5 Kc6 51. Ra6+ Kc5 52. Ra5+ Kb6 53. Rd5 Kc6 54. Ra5 Rc4 55. Kd3 Rc1 56. Rxa4
+Rg1 57. Rc4+ Kd7 58. a4 Rxg3+ 59. Kc2 d5 $6 (59... Rh3 60. Kb1 Rh1+ 61. Kb2
+Rxh4 62. a5 Rh2+ 63. Kb3 Rh1 64. Ra4 Kc7 65. a6 Kb8 66. a7+ Ka8 $19) 60. Rb4
+Kc6 61. Kb2 (61. a5 Ra3 62. Rb6+ Kc5 63. Rxg6 Rxa5 64. Rg5 Kc4 65. Rxf5 Ra2+
+66. Kd1 d4 67. Rxh5 Kd3 68. Ke1 Ra1+ 69. Kf2 Ke4 70. Rh7 d3 71. Rd7 $11) 61...
+Kc5 62. Rb3 Rg4 63. a5 Rxf4 64. Ra3 Rxh4 65. a6 Rb4+ 0-1
+
+[Event "Sinquefield Cup 3rd"]
+[Site "Saint Louis"]
+[Date "2015.08.30"]
+[Round "7"]
+[White "Carlsen, Magnus"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2853"]
+[BlackElo "2771"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "132"]
+[EventDate "2015.08.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+[Source "ChessBase"]
+[SourceDate "2015.09.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Qd3 Nbd7 10. Nd5 O-O 11. O-O Bxd5 12. exd5 Rc8 13. c4 Ne8 14. Qd2 {
+Diagram #} b6 $1 {Black would like to play b6 and a5. He cannot play
+immediately a5 because it's hanging; so, he started his blocking strategy with
+b6 followed by a5.} (14... f5 $5) (14... h6 $5) (14... Nef6 $5) (14... Qc7 $5)
+15. Rac1 a5 {The strategic goal #1 is achieved! :D} 16. Na1 g6 {This move has
+two ideas behind it; one is to play f5 and the other one to activate the
+knight from e8.} 17. b4 Ng7 18. bxa5 bxa5 19. Bd3 Nc5 {Black has a fantastic
+blockade on the c5, stopping White's initiative in that area of the board.} 20.
+Bc2 a4 $1 {Black has a fantastic activity and White's pieces are restricted.
+After a long fight, Black manages to win the game.} 21. Rb1 (21. Bxc5 Rxc5 22.
+Bxa4 Bg5 $17) 21... e4 22. Bxc5 Rxc5 23. Bxa4 Rxc4 24. Bc6 Nf5 25. Qe2 Rc3 26.
+Qxe4 Ra3 27. Qe2 Bf6 28. Nb3 Qe7 29. Qxe7 Nxe7 30. Nd2 Rxa2 31. Nc4 Rd8 32. g4
+Bd4 33. Rbd1 Bc5 34. Rd2 Rxd2 35. Nxd2 Nxc6 36. dxc6 Rc8 37. Ne4 Rxc6 38. Rd1
+h6 39. h4 Kf8 40. Kg2 Ke7 41. Rc1 Rc8 42. Kf3 Ke6 43. Rc2 Rc7 44. h5 gxh5 45.
+gxh5 Bb6 46. Re2 Bd4 47. Kg3 d5 48. Nd2+ Kf5 49. Kg2 Be5 50. Nf3 Bf6 51. Ra2
+Rd7 52. Ne1 Rc7 53. Kf3 Bg5 54. Ra5 Ke5 55. Ke2 Ke4 56. Ra4+ d4 57. f3+ Kd5 58.
+Ra5+ Kc4 59. Nd3 Re7+ 60. Re5 Re6 61. f4 Bf6 62. Rxe6 fxe6 63. Nf2 Be7 64. Ng4
+Kc3 65. f5 exf5 66. Nxh6 Kc2 0-1
+
+[Event "Tata Steel-A 73rd"]
+[Site "Wijk aan Zee"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "Ponomariov, Ruslan"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2744"]
+[BlackElo "2810"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "104"]
+[EventDate "2011.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2011.03.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Nd5 Nbd7 11. Qd3 Bxd5 12. exd5 Nc5 13. Qd2 Nfe4 14. Qb4 {
+Diagram #} a5 $1 {In this particular position, Black can play a5, so he did it.
+This is a very important move in Black's strategy in order to block the
+queenside and White's initiative there. After that, he can focus his energy on
+the kingside.} (14... Qc7 $5) (14... Rc8 $5) (14... h6 $5) 15. Qb5 Qc7 16. Qc4
+Rac8 {Black improved his position a lot and started pressing on the c-line.
+White doesn't have an active plan there.} 17. Rfd1 f5 $1 {Black moves forward
+his strategic plan. He controls the center and creates a dangerous initiative
+against White's kingside.} 18. c3 Qd8 19. Qb5 b6 20. Nd2 Nxd2 21. Bxd2 Bf6 22.
+Rab1 e4 $1 $36 {Black has an amazing position. He blocks White's initiative on
+the queenside, controls the center, and advances his kingside pawns. After a
+long fight, he manages to win the game.} 23. b4 Nd7 24. Rb3 Be5 25. a3 Rf7 26.
+c4 axb4 27. axb4 Ra8 $1 28. Bc3 Bxc3 29. Rxc3 Ra2 30. Re3 g6 31. Bf1 Qf6 32.
+Rde1 Kg7 33. R3e2 Ra3 34. Qc6 h5 35. Re3 Ra7 36. h3 h4 37. Rb3 Ra2 38. Rbe3 g5
+39. R3e2 Ra7 40. Qc8 Ne5 41. Rc2 Rf8 42. Qe6 Qd8 43. c5 bxc5 44. bxc5 Rf6 45.
+Qxe5 dxe5 46. d6 g4 47. hxg4 fxg4 48. g3 hxg3 49. fxg3 Qa5 50. Rec1 Qa3 51. Rc3
+Qb2 52. R1c2 Qb4 0-1
+
+[Event "World Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.12.28"]
+[Round "13.9"]
+[White "Nepomniachtchi, Ian"]
+[Black "Salem, Abdarahim"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2763"]
+[BlackElo "2660"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "186"]
+[EventDate "2018.12.26"]
+[EventType "rapid"]
+[EventCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Qd3 Be6 10. Bd2 Nbd7 11. Nd5 Bxd5 12. exd5 {Diagram #} a5 $5 {Black stop
+ped the Na5 maneuver and he prepares a blockade on the dark squares in order
+to shut down White's initiative on the queenside.  h6} (12... e4 $5) (12... Qc7
+$5) (12... Rc8 $5) 13. a4 g6 {
+He's preparing his own plan, to advance the kingside pawns.} 14. Be3 Ne8 {
+In order to advance the f-pawn, it's important to free it, am I right? :-)
+Similarly, Black frees the h4-d8 diagonal in order to exchange thedark-squared
+bishops.} 15. Nd2 Bg5 $1 {This is a very important strategic exchange because
+Black's bishop wasn't active and, in the same way, it will make it much more
+difficult for White to carry on his queenside attack.} 16. Nc4 Bxe3 17. Qxe3 f5
+{Black's position started to become more preferable thanks to his kingside
+space advantage. At the same time, we can see that White cannot do much on the
+queenside thanks to Black's amazing strong handle of the position. The 12...a5
+and the 15...Bg5 moves improved his position significantly.} 18. c3 Qc7 19. b4
+b6 {This is the perfect setup for Black's pieces on the queenside.} 20. Na3
+Ndf6 21. Rfd1 Ng7 22. Nb5 Qd8 23. bxa5 Rxa5 $1 {keeping the blockade on c5.} (
+23... bxa5 24. c4 $36) 24. c4 Ne4 $1 {overprotecting the c5-square.} 25. Bd3
+Nc5 26. Bc2 f4 $1 $36 {
+Black started a kingside attack and won the game after a long fight.} 27. Qh3
+Nf5 28. Re1 h5 29. Kh1 Kg7 30. g3 fxg3 31. fxg3 Nh6 (31... Nd4 $1 32. Nxd4 exd4
+33. g4 hxg4 34. Qxg4 d3 35. Bd1 Ra7 36. Rg1 Qf6 $19) 32. Qg2 Ng4 33. Re2 Qf6
+34. h3 e4 35. Rae1 Ne5 36. Bxe4 Rxa4 37. Bb1 Rb4 38. Nd4 Rxc4 39. Ne6+ Nxe6 40.
+dxe6 Rc3 41. Qb7+ Kh6 42. Qg2 Ra3 43. Ra2 Rxa2 44. Bxa2 b5 45. Bd5 Kg7 46. Rc1
+Qe7 47. Qd2 h4 48. g4 g5 49. Qe3 Kh6 50. Qb3 b4 51. Rd1 Rf4 52. Bg2 Nc4 53. Re1
+Ne5 54. Rd1 Rc4 55. Bf1 Rf4 56. Bg2 Kg7 57. Ra1 Qc7 58. Qd5 Kf6 59. Qa8 Ng6 60.
+Ra7 Qc1+ 61. Kh2 Qc5 62. Rf7+ Ke5 63. e7 Nxe7 64. Rxe7+ Kd4 65. Qa1+ Kc4 66.
+Qc1+ Kb3 67. Re3+ Ka4 68. Qa1+ Kb5 69. Bf1+ Kb6 70. Qa6+ Kc7 71. Qe2 Kb6 72.
+Bg2 Rc4 73. Qf3 Rc1 74. Qb7+ Ka5 75. Qa8+ Kb6 76. Qd8+ Ka6 77. Qe7 Kb6 78. Qe8
+Ka6 79. Bf3 Kb6 80. Qd8+ Qc7 81. Qxg5 d5+ 82. Qe5 Qxe5+ 83. Rxe5 b3 84. Bxd5 b2
+85. Ba2 Ra1 86. Re6+ Kc5 87. Re5+ Kb4 88. Re4+ Ka3 89. Bb1 Rxb1 90. Re8 Ra1 91.
+Ra8+ Kb3 92. Rb8+ Kc3 93. Kg2 b1=Q 0-1
+
+[Event "WCh 2018"]
+[Site "London ENG"]
+[Date "2018.11.26"]
+[Round "12"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2832"]
+[BlackElo "2835"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "2018.11.09"]
+[EventType "match"]
+[EventRounds "9"]
+[EventCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Bf5 12. h4 h5 13. Qa4 Bd7 14. Qb4 Bf5
+15. Be3 a6 16. Nc3 Qc7 17. g3 Be7 18. f3 {Diagram #} Nf8 $1 {Black started a
+strong maneuver in order to relocate the knight and strongly block the
+c5-square.} (18... O-O $5) (18... Rc8 $5) (18... Qd7 $5) (18... Rb8 $5) 19. Ne4
+Nd7 20. Bd3 O-O {Black finalized his development; what you should do all the
+time. Similarly, he used the fact that White didn't have a good way to take
+advantage of the unprotected f5-bishop.} 21. Rh2 (21. Nf6+ Bxf6 22. Bxf5 g6 $11
+) (21. Nxd6 $4 Bxd6 $19) 21... Rac8 22. O-O-O Bg6 {Caruana used his creativity
+and castled long. In this way, he could avoid Black's attack on the kingside.
+Black stabilized the position of the bishop and started to advance his
+kingside pawns in any case.} 23. Rc2 f5 {
+Black has a good position as he completely dominates the center.} 24. Nf2 Nc5 {
+finishing with the 18th move maneuver.} 25. f4 a5 $1 {
+gaining time and creating a fortress on the queenside.} 26. Qd2 e4 27. Be2 Be8
+$1 {
+It's always important to relocate the pieces that are not in good positions.}
+28. Kb1 Bf6 29. Re1 a4 30. Qb4 g6 31. Rd1 Ra8 {And here Carlsen decides to
+offer the draw even if he has a slightly better position. He did it in order
+to continue the match in the tie-breaks.} 1/2-1/2
+
+[Event "RUS-ch 57th"]
+[Site "Moscow"]
+[Date "2004.11.17"]
+[Round "3"]
+[White "Svidler, Peter"]
+[Black "Timofeev, Artyom"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2735"]
+[BlackElo "2611"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "126"]
+[EventDate "2004.11.15"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "2005.01.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 a6 10. Nc3 Be7 11. Bd3 O-O 12. O-O f5 13. f3 {Diagram #} Bg5 $1
+{Black has plenty of good options in this particular position. However, he is
+exchanging the dark-squared bishops right now because he'd like to create a
+dark-squared complex problem to White. Similarly, he wants to make the c5
+break less strong.} (13... Nd7 $5) (13... a5 $5) (13... f4 $6) (13... b6 $5)
+14. Kh1 Nd7 15. b4 a5 $1 {This is an amazing move because Black is fighting on
+the dark squares and, at the same time, he's trying to shut down White's
+initiative on the queenside.} 16. a3 axb4 17. Bxg5 Qxg5 18. axb4 Rxa1 19. Qxa1
+Qe3 {Black is dominating on the dark squares and controls the c5-square.} 20.
+Be2 Nb8 $1 {This is a really cool maneuver in order to relocate the knight and
+increase the pressure against the dark squares.} 21. Qb2 Na6 $132 {Black has a
+good counterplay in this position. White pushed it too hard, so Black took a
+small advantage in the endgame and, finally, he managed to convert it into a
+full point.} 22. Rb1 Bd7 23. Nd1 Qd4 24. Qxd4 exd4 25. Kg1 Rb8 26. b5 Nc5 27.
+Nf2 Ra8 28. Rd1 Ra4 29. Nh3 h6 30. Rxd4 Bxb5 31. g4 Bd7 32. Rd2 fxg4 33. fxg4
+Nb3 34. Rb2 Nd4 35. Bf1 Bxg4 36. Nf2 Bf3 37. Nh3 Bg4 38. Nf2 Bf3 39. Nh3 g5 40.
+Kf2 (40. Rxb7 Ra2 41. Bd3 Rg2+ 42. Kf1 Rxh2 $19) 40... Bg4 41. Ke3 Nf5+ 42. Kd2
+Ra1 43. Bg2 Rd1+ 44. Kc3 Rc1+ 45. Kd3 Re1 46. Nf2 Re3+ 47. Kd2 Re2+ 48. Kc3
+Rxb2 49. Kxb2 Ne3 50. Kc3 Bf5 51. Be4 Bd7 52. Kd4 Nf5+ 53. Bxf5 Bxf5 54. c5
+dxc5+ 55. Kxc5 Kf7 56. Kb6 Ke7 57. Kc7 b5 58. d6+ Ke8 59. Nd3 h5 60. Ne1 g4 61.
+Ng2 b4 62. Ne3 Be6 63. Nc2 h4 0-1
+
+[Event "Wch Blitz 2nd"]
+[Site "Moscow"]
+[Date "2007.11.22"]
+[Round "21"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2690"]
+[BlackElo "2714"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "2007.11.21"]
+[EventType "tourn (blitz)"]
+[EventRounds "38"]
+[EventCountry "RUS"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "2007.11.25"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 Be7 10. Be2 O-O 11. O-O Nd7 12. Be3 a6 13. Nc3 f5 14. f3 Bg5 15.
+Bf2 Bh4 16. Be3 Bg5 17. Qd2 Bxe3+ 18. Qxe3 {Diagram #} a5 $1 {Once again, we
+can see the critical position and a lot of good options for Black. During the
+game, he chose to play in the dark squares and to limit White's initiative on
+the queenside.} (18... Nf6 $5) (18... b6 $5) (18... f4 $6) (18... Re8 $5) (
+18... Qc7 $5) 19. f4 Re8 $1 {This is another important moment, and Black
+replied correctly. He didn't advance the pawn on e4 because it stopped his
+initiative. Instead, he kept the tension.} 20. Bd3 Nc5 21. Bc2 Bd7 22. Kh1 Qf6
+{Black has a good control of the center and active pieces.} 23. fxe5 Rxe5 24.
+Qf2 Rae8 $15 {Thanks to his wise decision, he didn't release the tension
+before activating all of his pieces. Now we can see that Black has a small
+initiative thanks to his fantastic control over the center and the dark
+squares block on the queenside.} 25. Rad1 g6 26. h3 Kg7 27. Qf4 g5 28. Qf2 f4
+29. Bb1 a4 30. b4 axb3 31. axb3 Re3 32. b4 Qxc3 33. bxc5 Bxh3 34. cxd6 Bxg2+
+35. Kxg2 Re2 36. d7 Rxf2+ 37. Rxf2 Qg3+ 38. Kf1 Qh3+ 39. Rg2 Qf3+ 0-1
+
+[Event "USA-ch"]
+[Site "Saint Louis"]
+[Date "2009.05.16"]
+[Round "8"]
+[White "Brooks, Michael A"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2463"]
+[BlackElo "2701"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "68"]
+[EventDate "2009.05.08"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2009.05.20"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 10. Bd3 Be7 11. O-O O-O 12. Bxg6 hxg6 13. Be3 f5 14. f3 {
+Diagram #} b6 $1 {Before doing anything else, Black is waiting for White's
+initiative on the queenside; thus, he tries to shut it down.} (14... Bd7 $5) (
+14... a6 $5) (14... f4 $5) (14... g5 $5) 15. f4 a6 16. Nc3 exf4 $1 {He's using
+the momentum in order to activate his pieces. Please notice that the knight
+cannot go to d4 right now; therefore, this exchange on f4 is good.} 17. Bxf4
+Bf6 18. Be3 Bd7 19. Bd4 Rc8 {Already Black's position is preferable because he
+started putting pressure against White's c4-pawn.} 20. Qd3 Qc7 21. Bxf6 Rxf6
+22. b3 Qc5+ 23. Kh1 b5 $15 {Black is better thanks to his more active pieces
+and the strong pressure against the c4-pawn.} 24. Rae1 bxc4 25. Qg3 cxb3 26.
+Ne4 fxe4 27. Rxf6 Bf5 28. Rxd6 b2 29. Rc6 Rxc6 30. dxc6 Qc1 31. Qb3+ Kh7 32.
+Qd1 Qxd1 33. Rxd1 e3 34. c7 e2 0-1
+
+[Event "CHN-ch"]
+[Site "Xinghua Jiangsu"]
+[Date "2011.04.06"]
+[Round "7"]
+[White "Zhang, Ziyang"]
+[Black "Wang, Yue"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2442"]
+[BlackElo "2734"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "72"]
+[EventDate "2011.03.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "2011.05.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Nbd7 10. Qd3 O-O 11. O-O Bxd5 12. exd5 Qc7 13. c4 Nc5 14. Qc2 Nxb3
+15. Qxb3 Nd7 16. Rac1 {Diagram #} a5 $1 {Black continues with his successful
+strategy to block the dark squares on the queenside. He will play his typical
+f5 move in the future. White cannot prevent it.} (16... Nc5 $5) (16... b6 $5) (
+16... g6 $5) (16... h6 $5) 17. Rfd1 b6 18. Qb5 f5 {Objectively, the position
+is aproximately equal. However, Black managed to stabilize the position on the
+queenside and, now, he will have a kingside initiative.} 19. Rc2 Qd8 20. b3 e4
+$1 $36 {Black has the initiative because he's threatening f4 and f3. He
+created the strong square for the e5-knight and freed the a1-h8 diagonal.} 21.
+f4 (21. -- f4 22. Bd4 f3 $36) 21... exf3 22. Bxf3 Bf6 {
+Black has the initiative, and he managed to win the game afterwards.} 23. Bf2
+Be5 24. a3 g5 25. g4 Kh8 26. Re2 Nc5 27. gxf5 $2 (27. Rxe5 $1 dxe5 28. d6 Rc8
+29. b4 axb4 30. axb4 Nd7 31. c5 bxc5 32. bxc5 $18) 27... Rxf5 28. Bg2 g4 29. b4
+axb4 30. axb4 Na4 31. Be1 Qf6 32. Rxe5 Qxe5 33. Qd7 Raf8 34. Bg3 Qe3+ 35. Kh1
+Nc3 36. Re1 Ne2 0-1
+

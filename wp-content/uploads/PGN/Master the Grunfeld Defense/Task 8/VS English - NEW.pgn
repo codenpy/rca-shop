@@ -1,0 +1,609 @@
+[Event "Spanish Championship CECLUB - edited"]
+[Site "?"]
+[Date "2011.08.29"]
+[Round "?"]
+[White "Shatko, Danil"]
+[Black "Ipatov, Alexander"]
+[Result "0-1"]
+[ECO "D90"]
+[WhiteElo "2064"]
+[BlackElo "2562"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "114"]
+[EventDate "2011.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 $5 {This is a rare line in
+the Grunfeld defense. With 6.Bd2 White potentially wants to take on c3 with
+his Bishop.} Nb6 6. Bf4 Bg7 7. e3 O-O 8. Nf3 c5 $1 {One year later Ipatov
+played this line against Kalinin and he played here 8...Nc6. Black temporarily
+sacrificed a pawn for the active play.} 9. dxc5 N6d7 10. Bc4 Nxc5 11. Be5 Be6 {
+A very nice play by Black and very inacurate play by White. Black manages to
+take the pawn on c5 and with exchange of the Bishops position is completely
+equal.} 12. Bxe6 Nd3+ 13. Ke2 Nxe5 14. Qxd8 Rxd8 15. Nxe5 Bxe5 16. Bb3 {Black
+equalizes the position easily. Position is completely equal. Black has a Rook
+on the open file and White has a little bit more active King.} Bxc3 $5 {his
+move has a deep strategic idea. Black wants to destroy White's pawn structure
+on the queenside and then make the pressure against it. Nevertheless White
+gets the Bishop against the Black Knight with pawns on both sides and the
+position is about equal.} 17. bxc3 Nd7 18. Rhd1 Nc5 19. f3 e6 20. Rxd8+ Rxd8
+21. Rd1 Rc8 $1 {This is a strong move. Black can not exchange both Rooks. One
+Rook needs to stay on the board because without it Black will not be able to
+cause any pressure against c pawn.} (21... Rxd1 $6 22. Bxd1 Kf8 23. Bb3 Ke7 24.
+e4 Kd6 25. Ke3 $11) 22. Bc2 Kf8 23. g4 Ke7 24. Rb1 b6 25. f4 Nb7 26. Kd2 Rd8+
+27. Ke1 Rc8 28. Kd2 Rc5 29. a4 Rd5+ {Now is clear that Black has some
+advantage. His Rook and Knight are better than White's pieces and potentially
+all White's pawns can be targets for Black pieces. Black is a little bit
+better.} 30. Ke2 Nd6 31. Bd3 h6 32. h4 Kd7 33. Rb4 Rc5 34. Kd2 Kc7 35. Kc2 h5
+36. g5 e5 37. fxe5 Rxe5 38. Kd2 Kd7 39. Rd4 {White plays very nice defensive
+moves and completely equalizes the position.} Ke7 40. Rf4 Rc5 41. Rd4 Re5 42.
+Rf4 Re6 43. Rd4 Nb7 44. Rf4 Na5 45. Ke2 Rc6 46. Kd2 Rd6 47. Kc2 Nc6 48. Bc4 Ne5
+49. Re4 f6 50. gxf6+ Kxf6 51. Rf4+ Kg7 52. Be2 Rd7 53. Bb5 Re7 54. Be2 Nd7 55.
+Kd2 Nc5 56. Bd3 $4 {After good defense White makes a huge blunder and loses
+the game.} (56. Bb5 $11) 56... Rd7 $1 57. Rd4 Nb3+ 0-1
+
+[Event "Lvov Kart Jubilee - edited"]
+[Site "?"]
+[Date "2009.04.14"]
+[Round "?"]
+[White "Vovk, Yuri"]
+[Black "Ipatov, Alexander"]
+[Result "1-0"]
+[ECO "D71"]
+[WhiteElo "2575"]
+[BlackElo "2486"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "113"]
+[EventDate "2009.??.??"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 $5 {With this move order White does not
+want to show Black what is his idea in the opening. White can play classical
+fianchetto variation or try to take the advantage over d4 move and try to make
+some English type of the position.} g6 5. Bg2 c6 $6 {This is a very rare move
+and I think it is a novelty in this game. In my view more natural move is 5...
+Nb6. After this move with next move 6.d4 White reaches Grunfeld where c6 is
+clearly a waste of a tempo.} (5... Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8. O-O {With
+this move order White avoids classical Grunfeld. Idea is to play position
+without d4.}) (5... Nb6 6. Nf3 Bg7 7. O-O O-O 8. d4 Nc6 $13 {With the
+classical Grunfeld position.}) 6. d4 $1 {Now Black has one tempo less than in
+the normal position. White is here a little bit better.} Bg7 7. e4 Nb6 8. Nge2
+e5 $5 {A nice try. Black wants to play actively. After 8...e5 position is very
+active.} 9. dxe5 Qxd1+ 10. Kxd1 Na6 11. f4 Be6 12. b3 O-O-O+ 13. Kc2 Nb4+ 14.
+Kb1 Rd3 {Black sacrifices a pawn for a few tempo and very active play.
+Position is unclear but Black has a full compensation for the sacrificed
+material.} 15. a3 Na6 16. Kc2 Nc5 17. Rb1 Rhd8 18. Rf1 f5 19. exf6 Bxf6 20. Rf3
+$1 {A very nice play by Yuri Vovk. He keeps the extra pawn and defends his
+position. Nevertheless Black still has a very active play and a balanced
+position.} R3d7 21. f5 gxf5 22. exf5 Bf7 $6 {First inaccuracy. Black has a
+much better move here:  22...Bd5.} (22... Bd5 $5 23. Nxd5 Nxd5 $13 {Here all
+Black's pieces play very active role and black compensation is clear.}) 23. Nf4
+Nd5 24. Ncxd5 cxd5 $2 {Now Black closes his only open file and White gets a
+huge advantage.} 25. b4 Ne4 26. Ne6 Re8 27. Bb2 Bxe6 28. fxe6 Rc7+ 29. Kd3 Bxb2
+30. Rxb2 {White has an extra pawn without compensation for Black.} Kd8 31. Rf5
+Rxe6 32. Rxd5+ Nd6 33. Rf2 Rce7 34. Rd2 Kc7 35. Kc2 a6 36. a4 Ne4 37. Re2 Nf6
+38. Rc5+ Kb6 39. a5+ Ka7 40. Rxe6 Rxe6 41. Bf3 Re7 42. g4 Kb8 43. g5 {A very
+nice technique and position is better for White with every move. Position is
+very bad for Black.} Nd7 44. Rc3 Ne5 45. h4 Nxf3 46. Rxf3 Re4 47. Rf8+ Ka7 48.
+h5 {After this move White is winning and the rest of game is very easy for
+White.} Rg4 49. Rg8 Rxb4 50. h6 Rc4+ 51. Kd3 Rc7 52. Kd4 Rf7 53. Ke5 Rc7 54.
+Rg7 Rc5+ 55. Kf6 Rxa5 56. Rxh7 Rc5 57. Re7 1-0
+
+[Event "ChigorMemorial - edited"]
+[Site "?"]
+[Date "2012.10.27"]
+[Round "?"]
+[White "Kalinin, Nikita"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[WhiteElo "2153"]
+[BlackElo "2591"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "209"]
+[EventDate "2012.??.??"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 d5 5. cxd5 Nxd5 6. Bd2 $5 {This is rare
+line in the Grunfeld defence. With 6.Bd2 White potentially wants to take on c3
+with his Bishop.} Nb6 {The most natural move. Black does not want to take on
+c3 and move his Knight to b6.} (6... Nxc3 7. Bxc3 O-O 8. e4 $14 {White is
+better. His Bishop is the most active diagonal a1-h8 and compare with the main
+line where White takes with pawn on c3 White has a better development and more
+active play.}) 7. Bf4 O-O 8. e3 $11 {White tries to build a very nice and
+solid position but nothing more. He plays two times in the opening with the
+dark-squared Bishop and now with e3 White does not occupy center and Black is
+completely fine. White has lost the opening advantage.} Nc6 9. h3 {Idea of the
+last move is not allow Black's light-squared Bishop to develop on g4 or, maybe,
+even to exchange.} Be6 {This is move that has been played before. It looks
+like Black wants to develop his last piece but in my view this gives White a
+little bit better position.} (9... e5 $5 {This is a very interesting move.
+After this Black is just fine and the position is equal.} 10. dxe5 Qe7 11. Be2
+Nxe5 12. O-O Rd8 $11 {With the equal chances for both sides.}) 10. Be2 Nd5 {
+Here ends Black's idea related with move 9...Be6. Black wants to take
+advantage over the diagonale a8-h1 with exchange of Knights and then bringing
+the light-squared Bishop on d5. Idea is very nice but White maintains some
+advantage because Black position is somehow passive.} 11. Nxd5 Bxd5 12. O-O Qd7
+13. Qc2 f5 {Black maintains his light-squared block. His position is solid but
+passive and in perspective White can play on c7 pawn. White position is a
+little bit better.} 14. Bc4 h6 15. Qb3 Bxc4 16. Qxc4+ e6 {After exchange of
+light-squared Bishops white take over the initiative. Now white have more
+space and better develop pieces. Black dark-squared Bishop and Knight are
+badly placed and potentially bad pawn on c7 can be very unpleasant for him.}
+17. h4 $1 {Now white have the advantage.} Rfc8 18. Qb5 Rab8 19. Rac1 a6 20. Qa4
+Kh7 21. Rfd1 Bf6 22. Qc4 Rd8 23. Rd2 Qe7 24. Rcd1 $6 {Here White loses the
+compas. Only idea that can bring him the advantage was to play 24.Rdc2 and
+after the exchanges of light pieces White potentialy can have pressure against
+the c7 pawn.} Rd5 25. g3 Rbd8 26. Qc3 R8d7 27. Be5 {Now White knows that
+position is completely equal and the exchange of light pieces that has just
+happen after whitch position is very drawish.} Nxe5 28. Nxe5 Rd8 29. f4 c6 30.
+Kf2 Qc7 31. Nf3 Qb6 32. Qc2 Kg7 33. b3 R8d7 34. Rc1 Qa5 35. Ke2 Qb4 36. Qc4 Qe7
+37. Rh1 Qd8 38. Rc2 Qa5 39. Rhc1 Qa3 40. Rd2 R7d6 41. Qc2 Rd8 42. Rcd1 Qa5 43.
+Rc1 Rc8 44. Qc3 Qd8 45. Rdc2 Qd7 46. Qe1 Rd8 47. Rc4 Rh8 48. Qc3 Qe8 49. Rh1
+Be7 50. Qc1 Rd8 51. Kf2 Qd7 52. Qb2 Qd5 53. Rcc1 Bf6 54. Qe2 Rc8 55. Qc4 Be7
+56. Rc2 {Here position is completely equal.} g5 {Black sees that White does
+not have any plan and wants to take some chances. Objectively position is
+still equal but Black has an easier play.} 57. Qxd5 exd5 58. Rhc1 Ba3 59. Rg1
+g4 60. Nd2 Rhe8 61. Nb1 Bb4 62. Rd1 Re6 63. Rd3 Rce8 64. a3 Bd6 65. b4 Ra8 66.
+Rb3 Re7 67. a4 Kf7 68. Nc3 Ke6 69. a5 Kd7 70. Na4 Rae8 71. Nb6+ {Now White
+consolidates his position once again. Again the position is equal.} Ke6 72.
+Rcc3 h5 73. Rc2 Kf7 74. Rcc3 Rh8 75. Rc2 Re6 76. Rcc3 Rd8 77. Rc2 Be7 78. Rcc3
+Bf6 79. Rd3 Rde8 80. Rd2 Ke7 81. Rc2 Kd6 82. Rd2 R6e7 83. Rc3 Bg7 84. Ke2 Re6
+85. Kf2 Re4 86. Rdd3 Bf6 87. Rd2 Bd8 88. Ra2 R8e6 89. Rac2 Rg6 90. Ra2 Bf6 91.
+Rd2 Rg8 92. Rd1 Rd8 93. Rdd3 Kc7 94. Rd2 Kb8 95. Rdc2 Ka7 96. Ra3 Bg7 97. Rd2
+Re6 98. Na4 Bf8 99. Rb2 Rb8 100. Ke2 Bd6 101. Kf2 Bc7 102. Rba2 Bd8 103. Nc5
+Rg6 104. Kg2 Rg7 105. Kf2 {Neider White nor Black can not make any progress
+and the game is a draw.} 1/2-1/2
+
+[Event "VASYLYSHYN Memorial - edited"]
+[Site "?"]
+[Date "2008.10.29"]
+[Round "?"]
+[White "Nyzhnyk, Illya"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2444"]
+[BlackElo "2472"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 $5 {This is a rare line in
+the Grunfeld defence. With 6.Bd2 White wants to take on c3 with his Bishop.}
+Bg7 6. e4 Nxc3 {Black plays just like White wants him to. Nevertheless he has
+a very clear plan he knows what he is doing and how to reach the equal
+position in this game.} (6... Nb6 $5 {This is the alternative and in my
+opinion even a better move. If White wants to take with the Bishop on c3 Black
+does not need to allow him that. Now White loses the tempo and he needs to
+play two times with the same Bishop in the opening.} 7. Nf3 O-O 8. Be3 Bg4 $13)
+7. Bxc3 c5 8. d5 Bxc3+ 9. bxc3 O-O 10. Qd2 e6 {This is the Black's idea. It is
+very clear that Black wants to exchange some pieces and reach some potential
+endgame with litle bit better position for White.} 11. d6 Bd7 12. Rd1 Bc6 13.
+Qe3 Nd7 14. Nf3 Qf6 15. Be2 e5 $1 {Nice move. Black now controls all squares
+in the center and the advanced "d" pawn does not make any significant
+advantage for White. Black can easily hold this position.} 16. g3 Qe6 17. Ng5
+Qxa2 {Black now takes the a2 pawn but White has some active play already.
+Because that a2 pawn is not so dangerous and White somehow misplaced his Queen,
+White starts an interesting attack on the Black King.} 18. O-O Qa5 19. f4 h6
+20. Nh3 f6 21. fxe5 Nxe5 22. Qxh6 Qxc3 23. d7 Rad8 24. Bg4 $6 {
+A very bad move that draws the game.} (24. Rd3 $1 Qc4 (24... Nxd3 $4 25. Qxg6+
+Kh8 26. Rf5 $18) 25. Ng5 $1 Rf7 26. Rd2 Qb3 27. Nxf7 Qxf7 28. Rd6 $16 {
+With a clearly better position for White.}) 24... f5 25. Bxf5 gxf5 26. Qg5+ Kh8
+27. Qh6+ {Perpetual check and the game is a draw.} 1/2-1/2
+
+[Event "2nd Obert Internacional d'Esca - edited"]
+[Site "?"]
+[Date "2009.09.01"]
+[Round "?"]
+[White "Balague Camps, Marc"]
+[Black "Ipatov, Alexander"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "1846"]
+[BlackElo "2463"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "42"]
+[EventDate "2009.??.??"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. e4 {This is the move order where
+White does not want to show Black his idea in the opening. White can play
+position with or sometimes without d4 move in the opening.} Nxc3 6. dxc3 $6 {
+Black is a much better player and White plays this bad move. This is very
+unambitious move. White just wants to make the draw in my opinion. With this
+move White completely misses the chance to get some advantage in the opening
+and allows Black completely equalize the position after only 6 moves.} (6. bxc3
+Bg7 7. d4 $13 {With a standard Grunfeld position.}) 6... Qxd1+ 7. Kxd1 f6 8.
+Kc2 e5 9. Be3 Nd7 10. Bc4 Bc5 11. Rhe1 Ke7 12. Rad1 Bxe3 13. Rxe3 Nb6 14. Bb3
+a5 15. Kb1 a4 16. Bc2 Nc4 17. Re2 Bg4 {With every single move White moves all
+his pieces back and Black improves his position. Now all Black's pieces are
+much better and White has some problems.} 18. Bxa4 $4 {
+This is a huge blunder! Now White loses the game.} (18. Bd3 $15 Nd6 19. a3 $15
+{Here Black is just a little bit better.}) 18... Rxa4 19. b3 Na3+ 20. Kb2 Ra6
+21. c4 b5 {Black takes the White's Bishop and wins the game.} 0-1
+
+[Event "33rd Open Internacional de B - edited"]
+[Site "?"]
+[Date "2010.07.12"]
+[Round "?"]
+[White "Gongora Reyes, Maikel"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D25"]
+[WhiteElo "2451"]
+[BlackElo "2507"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "56"]
+[EventDate "2010.??.??"]
+
+1. d4 d5 2. c4 dxc4 {The game starts as the Queen's gambit Accepted.} 3. Nf3
+Nf6 4. e3 g6 {With this move Black tries to play some hybrid of the Grunfelf
+style. It is a rare but playable move. Idea is to bring the dark-squared
+Bishop on long diagonal in the Grunfeld style and later attacking White's
+center.} 5. Bxc4 Bg7 6. O-O O-O 7. Nc3 Nc6 $5 {Black plays this move because
+he wants to develop all his light pieces very quickly and make some kind of
+blockade on the light squares. Possible alternative is the plan related with
+idea of attacking White's center in the Grunfeld style with c5 or even e5.} (
+7... Nfd7 {Black plays this move because he wants to develop all his light
+pieces very quickly and make some kind of blockade on the light squares.
+Possible alternative is the plan related with idea of attacking White's center
+in the Grunfeld style with c5 or even e5.} 8. e4 Nb6 9. Be2 Bg4 10. Be3 Nc6 $14
+) 8. Qe2 Bf5 9. Rd1 Ne4 {With this move Black ends his idea of making blockade
+on the light square. Black has close to equal position, but White's structure
+in the center is very solid and with more space and somehow more active pieces
+White has some advantage.} 10. Bd2 Nd6 $5 {Nice and accurate move. Black gets
+the tempo on the retreatment of the c4 Bishop . Also, he gets some space in
+the center.} 11. Bb3 a6 {Black prepare e5 next move.} 12. Na4 e5 $1 {White play
+s last two moves without any idea and it gets him nowhere. Black now strikes
+in the center and equalizes the position.} 13. dxe5 Nxe5 14. Nxe5 Bxe5 15. Bc3
+Qe7 16. Bxe5 Qxe5 17. Rac1 {Position is equal. White has nicely placed Rooks
+on the open and half-open files but his initiative is not worth much because
+Black does not have any weaknesses.} c6 18. f3 Rad8 19. e4 Nb5 20. Qf2 {
+Black Bishop is untouchable because White's Queen hangs on e2.} (20. exf5 $4
+Qxe2 $19) 20... Bc8 21. Qc5 Qf4 22. Nb6 Nd4 23. Bc4 Bh3 {Black brings all his
+pieces in attack on the kingside. Nevertheless position is equal and White has
+all his pieces nicely placed and Black's attack can not bring him any real
+advantage.} 24. Bf1 $1 Nxf3+ 25. gxf3 Rxd1 26. Rxd1 Qxf3 27. Qd4 Qg4+ 28. Kh1
+Qf3+ {Perpetual check and the game ended as a draw.} 1/2-1/2
+
+[Event "4th Palma de Mallorca Spain - edited"]
+[Site "?"]
+[Date "2009.11.24"]
+[Round "?"]
+[White "Breier, Andreas"]
+[Black "Ipatov, Alexander"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "2405"]
+[BlackElo "2487"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "70"]
+[EventDate "2009.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 {White starts the game in the
+"English style" and does not show White his main idea. In this position White
+can reach standard Grunfeld position with d4 move or in some rare lines even
+without it.} Nxc3 6. dxc3 $6 {Black is a much better player and White plays
+this bad move. This is a very unambitious move. White just wants to make the
+draw in my opinion. With this move White completely misses the chance to get
+some advantage in the opening and allows Black completely equalizes the
+position after only 6 moves.} Qxd1+ 7. Kxd1 f6 8. e5 {
+White tries to exchange even e5 pawn in order to equalize the position.} Nc6 {
+Black tries to get the advantage over the e5 pawn and play very aggressively.}
+9. Bb5 Bg4 10. Kc2 O-O-O $5 {
+White plays this opening very bad and now Black wants to play for a win.} 11.
+Bxc6 bxc6 12. Bf4 {Now White consolidates his position a little bit but Black
+gets two Bishops and a very active play that compensates some pawn weaknesses
+on the queenside. Position is unclear but Black is not worse.} Bf5+ $1 13. Kb3
+Rd5 14. a4 Bg7 15. Nd4 $6 {Mistake. White needed to protect his e5 pawn at any
+cost. His e5 pawn is by far better than Black's weak c6 pawn.} (15. exf6 $5
+exf6 16. Rhd1 $11) 15... fxe5 $1 16. Nxc6 $2 (16. Nxf5 $5 gxf5 17. Be3 $15)
+16... Kd7 {Now Black will take two pieces for the Rook and will easily get a
+winning position.} 17. Nb4 Rb8 18. Ka3 Rxb4 19. Kxb4 exf4 {Black takes two
+pieces for the Rook and has now a winning position. The rest of the game is
+just matter of Black's technic.} 20. Rad1 Bd3 21. c4 a5+ 22. Kb3 Rd4 23. Kc3
+Rd6+ 24. Kb3 c5 25. h4 Ke8 26. Ka3 Bxc4 27. Rxd6 exd6 28. h5 g5 29. h6 Be5 30.
+Rh5 Bf6 31. g3 f3 32. Rh1 Bd4 33. b3 Be2 34. Rh5 Bxf2 35. Rxg5 Bd4 {
+White resigned her.} 0-1
+
+[Event "2rd Barcelona Sants op - edited"]
+[Site "?"]
+[Date "2009.08.25"]
+[Round "?"]
+[White "Ikonnikov, Vyacheslav"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D25"]
+[WhiteElo "2556"]
+[BlackElo "2454"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "51"]
+[EventDate "2009.??.??"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 {Black plays here a very interesting plan
+related with mainly two ideas. It is some kind of hybrid system of Queen's
+Gambit Accepted and Grunfeld. GM Ipatov has played this system couple of times
+and got nice results.} 4. e3 g6 $5 {Here this hybrid system starts. It is some
+kind of hybrid of Grunfeld where Black wants to attack White center later on.}
+5. Bxc4 Bg7 6. Nc3 O-O 7. e4 $5 {This is an interesting but in my view not the
+best way how to play this with White. This e4 move before the castling is
+somehow premature and Black quickly gets a very nice position. A better move
+here would be 7.0-0 as Gongora Reyes play against GM Ipatov one year later.} (
+7. O-O Nc6 8. Qe2 Bf5 9. Rd1 Ne4 $13 {Gongora Reyes - Ipatov 2010 1/2}) 7...
+Bg4 (7... c5 $1 {This is even a better move. White plays without the castling
+so Black can strike in the center.} 8. Bg5 cxd4 9. Qxd4 Qxd4 10. Nxd4 Nxe4 11.
+Nxe4 Bxd4 $11 {With equalizes the position.}) 8. Be2 Nfd7 $5 {This is a classic
+al move related with idea of bringing this Knight from f6 to b6 in order to
+open the dark-squared Bishop and make some pressure on the queenside.} 9. O-O
+Nb6 10. Be3 Nc6 {Now Black develops all of his pieces and gets a solid play.
+White is a little bit better because of space in the center but Black's
+position is very solid.} 11. d5 Bxf3 12. Bxf3 Ne5 {Now White gets a Bishop's
+pair but the Black's Knight occupies the great e5 square.} 13. Be2 Nec4 14. Bg5
+c6 15. Bxc4 Nxc4 16. Qe2 b5 {Black takes one Bishop back and after exchange of
+some pawns his position will be equal.} 17. dxc6 Bxc3 18. bxc3 Qc7 19. Qg4 h5
+20. Qh4 f6 21. Bf4 Qxc6 22. Rae1 Qe6 23. h3 g5 {
+A very aggressive move that brings draw.} (23... Rad8 $5 24. Qg3 Qf7 25. Rd1 a6
+$13 {And Black can play on with the better Knight in this ending.}) 24. Qxh5
+gxf4 25. Qg6+ Kh8 26. Qh6+ $11 {Perpetual check and the draw is agreed.}
+1/2-1/2
+
+[Event "Moscow Aeroflot op-A - edited"]
+[Site "?"]
+[Date "2009.02.25"]
+[Round "?"]
+[White "Dziuba, Marcin"]
+[Black "Ipatov, Alexander"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2556"]
+[BlackElo "2494"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "77"]
+[EventDate "2009.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Be2 Nc6 {Here we can see a classical Grunfeld position. White gets an
+advantage in the center but Black gets counter chances in potential attack on
+the White's center. The position is very tensed, active and interesting.} 9. d5
+Bxc3+ 10. Bd2 Bxa1 11. Qxa1 {In this position White sacrifices an exchange for
+the initiative. White dark-squared Bishop will be very unpleasant piece and
+the Black's King can be in a big danger very soon. Nevertheless Black obtains
+extra material in terms of an extra exchange.} Nd4 12. Nxd4 cxd4 13. Qxd4 f6
+14. O-O Qb6 {Black wants to exchange the Queens because without the Queens
+Black's position will be clearly better.} 15. Qa1 Bd7 16. Bc3 Rc8 17. Bd4 Qa5
+18. Qb2 b6 19. f4 O-O 20. Bd3 $6 {White plays too many waiting moves and Black
+completely consolidates his position.} f5 $1 21. d6 $6 {
+This is an inaccurate move but Black did not find the best answer.} (21. Qe2 $5
+Qb4 22. Qe3 fxe4 23. Bxe4 Rc4 $17 {But even in this position Black is better.})
+21... exd6 $6 (21... fxe4 $1 22. Bxe4 Rf7 23. dxe7 Rxe7 24. Bc2 Be6 $19 {
+Black has an extra exchange without compensation for White.}) 22. Qb3+ d5 $6 {
+Mistake. Now White has a full compensation.} (22... Rf7 $5 23. exf5 Qd2 24. Bb2
+Qe3+ 25. Rf2 Kf8 $17) 23. exd5 $6 {
+Now White makes a mistake. Better move was exf5.} (23. exf5 Bxf5 24. Bxf5 Rxf5
+25. Qe3 $13 {Now position is unclear and White has a full compensation for the
+exchange in terms of the strong Bishop and the vulnerable Black King.}) 23...
+Qa4 24. Qb2 Qa5 25. Qb3 h5 26. d6+ Kh7 27. h3 Rc5 $2 {That was a bad move. I
+do not know what the Black's idea is, but this is not a good move. Black
+advantage was in this extra exchange. Without it Black's position is worse.}
+28. Bc4 Rcc8 $4 {This is now a losing move. Now position is winning for White.
+A very bad mistake.} 29. Bg8+ $1 Kh6 30. Qg3 Rxg8 31. Qg5+ Kh7 32. Qe7+ Kh6 33.
+Bf6 g5 34. Bxg5+ Rxg5 35. fxg5+ Kg6 36. Qf6+ $18 {White is completely winning.}
+Kh7 37. Qf7+ Kh8 38. g6 Qc5+ 39. Kh1 1-0
+
+[Event "16th European Individual Champ - edited"]
+[Site "?"]
+[Date "2015.02.27"]
+[Round "?"]
+[White "Dreev, Aleksey"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2643"]
+[BlackElo "2592"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "66"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 $6 {This is a very unambitious
+move in the Grunfeld defense. White plays very solid but nothing else. If
+White wants to get any advantage out of opening he needs to play ideas related
+with the e4 move.} O-O 6. Bd2 c5 $1 {White plays passively and Black can
+easily strike in the center. Position is after 6 moves is completely equal.
+White does not have any advantage.} 7. dxc5 Na6 8. cxd5 Nxc5 9. Bc4 Bf5 10. O-O
+Rc8 11. Be1 Nce4 $1 {Black temporarily sacrificed a pawn for the active play.
+Now after few exchanges Black will get this pawn back with a nice position as
+a dividend.} 12. Bb3 Nc5 13. Bc4 Nce4 14. Qe2 (14. Bb3 $11 {
+This only brings the draw by repetition.}) 14... Bg4 15. Nxe4 Nxe4 16. h3 Bxf3
+17. gxf3 (17. Qxf3 $4 Rxc4 $19) 17... Qc7 18. fxe4 Qxc4 19. Qxc4 Rxc4 {
+We can see that Black has a very nice play. After a few exchanges Black
+obtains an equal position. Black pieces are more active and it is only the
+matter of time when Black will get the pawn back. Extra pawn of White only
+secures him equal position.} 20. f3 f5 21. Bh4 Kf7 22. Rac1 Rfc8 23. Rxc4 Rxc4
+24. b3 Rc3 {Now all White pawns are weak and the game will end as a draw in
+the next few moves.} 25. exf5 Rxe3 26. fxg6+ hxg6 27. Re1 Rxe1+ 28. Bxe1 e6 29.
+d6 Be5 30. Bb4 Ke8 31. Kf2 Bf4 32. Bc5 b6 33. Be3 Bxd6 $11 {
+Here players agreed for a draw.} 1/2-1/2
+
+[Event "Qatar Masters Open - edited"]
+[Site "?"]
+[Date "2015.12.21"]
+[Round "?"]
+[White "Li, Chao B"]
+[Black "Ipatov, Alexander"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2750"]
+[BlackElo "2619"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "135"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. d4 Bg7 6. e3 $6 {This is a very
+rare and not too ambitious move. White wants to stay very solid in the center
+but with this move he also does not achieve any advantage in the opening.} (6.
+e4 Nxc3 7. bxc3 $13 {This is the most natural move after which game continues
+in a very active and rich play for both sides.}) 6... O-O 7. Bc4 Nb6 8. Bb3 c5
+$1 {Principle move. White does not want to take a big advantage in the center
+and now Black has the chance to equalize the game. With this move Black
+maintains the tension in the center and now White is unable to play any active
+moves likes for example e4. Pawn now stays on e3 and Black does not have any
+problems. Position is now very close to equal.} 9. O-O cxd4 10. exd4 Bg4 (10...
+Nc6 $5 {This is a nice alternative to 10...Bg4. Now Black instantly attacks
+the White's pawn on d4 and creates the pressure on the White center.} 11. d5
+Na5 12. Re1 Bg4 13. h3 Bxf3 14. Qxf3 Re8 15. Bg5 Nxb3 16. axb3 Bxc3 17. bxc3
+Qxd5 $11) 11. d5 (11. h3 Bxf3 12. Qxf3 Nc6 13. Be3 Nxd4 14. Qxb7 Nf5 $11) 11...
+N8d7 12. h3 Bxf3 13. Qxf3 Nc5 14. Rd1 Nxb3 15. axb3 Nc8 {Now we can say that
+position is completely equal. White has a little bit better developed pieces
+for now and he also has a nice pawn on d5 but Black has a very solid position
+without weaknesses and potentially weak pawns of White ones that are doubled
+on "b" file.} 16. Be3 a6 17. b4 Nd6 18. Na4 Nc4 19. Bd4 Bxd4 20. Rxd4 b5 21.
+Nc5 a5 22. Qf4 axb4 23. Rad1 Nd6 24. Rxb4 Qc8 25. Ne4 $5 {White is now
+slightly better. White's advantage is caused by more active pieces. It is a
+smart strategy of White to exchange light pieces and now he has better placed
+Rooks and the Queen makes some pressure on the position of Black. White wants
+to make the pressure on e7 and b5 pawns.} Nxe4 26. Rxe4 Qc2 $5 {This is a very
+nice active move. Little bit better than solid but passive move Qd7.} (26...
+Qd7 $13) 27. Rde1 Rad8 28. Rd4 Qxb2 $6 {
+Here the problems of Black start arising. More solid was 28...Rd7.} (28... Rd7
+$5 29. Rd2 Qc5 $11) 29. Rxe7 b4 30. Kh2 b3 31. Rb7 Qc2 32. Rd2 Qc5 (32... Qc3
+$5 $11 {This was a better move. White's ideal place for his Queen is e5 square.
+After 32... Qc5 with the next move 33. Qe5 White gets the best square and
+causes the pressure.}) 33. Qe5 Rde8 $6 {This is a mistake. Black pawn on b3 is
+not defendable and White will stay in this endgame with extra pawn.} (33...
+Rfe8 $5 34. Qf4 Rf8 $11) 34. Qb2 Qd6+ 35. g3 h5 36. Rxb3 Rb8 37. Qa3 Qxa3 38.
+Rxa3 Rfd8 39. Kg2 Rb5 40. Rad3 Kg7 41. Kf3 Kf6 42. Ke4 $16 {Strong d-pawn and
+better placed King without weakneses secure White's much better position.} Ra8
+43. h4 Ke7 44. Kf4 Kf6 45. Rd4 Rd8 46. f3 Rg8 47. Rc2 Rd8 48. Rc6+ Ke7 49. Ke5
+Rd7 50. g4 hxg4 51. fxg4 $16 {Move by move White makes his position better and
+better. Now both Rooks and King are on much better positions than those of
+Black.} Ra5 52. Rc8 Rb5 53. Ra8 Rc5 54. Rh8 Rc1 55. Rd3 Re1+ 56. Kf4 Kf6 57.
+Rc8 Rf1+ 58. Ke4 Rg1 $2 {This is mistake after which Black loses the game.
+After 58...Re1 Black has nice drawish chances though.} (58... Re1+ $1 59. Kd4
+Ra1 $16) 59. d6 $18 {
+White is completely winning and wins this game in the next few moves.} Rxg4+
+60. Kd5 Ra4 61. Rf3+ Kg7 62. Rc7 Ra5+ 63. Kc6 Rd8 64. Rfxf7+ Kg8 65. Rg7+ Kh8
+66. Rh7+ Kg8 67. Rcg7+ Kf8 68. Ra7 1-0
+
+[Event "French Top 12 Club Championship- edited"]
+[Site "?"]
+[Date "2016.05.28"]
+[Round "?"]
+[White "Edouard, Romain"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[WhiteElo "2641"]
+[BlackElo "2648"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "64"]
+[EventDate "2016.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 {This is one of the most solid
+set ups for White pieces against the Grunfeld defence. White plays solid and
+develops all of his light pieces. Drawback is the fact that White does not
+take advantage of the opening and doesn't try to play e4 and dominate in the
+center.} O-O 6. Rc1 dxc4 $1 {Black completes his development for now and
+because of little bit passive White's play in the center now Black has time
+for action on the queenside.} 7. e3 Nbd7 $5 {That's a very interesting move.
+Main line is 7...Be6, but this is a clearly prepared and a very nice line for
+Black.} (7... Be6 8. Ng5 Bd5 9. e4 h6 10. exd5 hxg5 11. Bxg5 Nxd5 12. Bxc4 Nb6
+13. Bb3 Nc6 14. Ne2 a5 $13) 8. Bxc4 Nh5 9. O-O Nxf4 10. exf4 Nb6 $11 {
+Black takes White's dark-squared Bishop and now he has a very nice position.}
+11. Bb3 Bg4 12. d5 (12. h3 Bxf3 13. Qxf3 c6 14. d5 Bxc3 15. bxc3 Nxd5 16. Rfd1
+Qc7 17. Bxd5 cxd5 18. Qxd5 $11) 12... a5 13. a4 Qd6 $11 {Now position is a
+little bit messy. White has a broken pawn structure in the center but he also
+has a strong pawn on d-file, and Black has the Bishop pair and nice pawn
+structure. Position is equal but playable.} 14. h3 Bd7 $6 {Here I believe the
+Black wants too much from his position. With Bd7 he wants to play for a win
+but this is not the best way to play because position is equal.} (14... Bxf3 $5
+15. Qxf3 Qb4 $11) 15. Ne5 $1 {That is a very strong move. White sacrifices a
+pawn for the nice initiative. Now Black even with extra pawn has to play very
+accurate not to get in the worse position.} Bxe5 16. fxe5 Qxe5 17. Re1 Qf4 18.
+Ne4 Rad8 19. Qc2 Bf5 {Black plays very nice and now position is equal again.}
+20. Qxc7 Nxd5 21. Bxd5 Qxc7 22. Bxf7+ Rxf7 23. Rxc7 Bxe4 24. Rxe4 Rd1+ 25. Kh2
+Rd2 {This is a completely drawish position.} 26. Rxb7 Rfxf2 27. Rg4 Kf7 28. b3
+Kf6 29. Rb6+ e6 30. Rb8 h5 31. Rg3 Rf5 32. b4 Ke5 {
+And the draw was agreed in this equal position.} 1/2-1/2
+
+[Event "Turkish ChampionshipSuperLeag - edited"]
+[Site "?"]
+[Date "2016.07.25"]
+[Round "?"]
+[White "Matsenko, Sergei"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D83"]
+[WhiteElo "2534"]
+[BlackElo "2657"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "128"]
+[EventDate "2016.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 $11 {Very solid, maybe even too
+solid set up with White pieces against the Grunfeld defence. Drawback is the
+fact that White does not take advantage of the opening and doesn't play e4 to
+dominate in the center.} O-O 6. Rc1 dxc4 $1 {Black completes his development
+for now and because of a little bit passive White play in the center now Black
+has time for action on the queenside. This is very straight forward play that
+brings Black an equal game.} 7. Bxc4 Nbd7 $5 {Alternative to the more popular
+move 7...c5. This move Ipatov has also played against Romain in French top 12
+team championship.} (7... c5 8. Nf3 cxd4 9. Nxd4 Bd7 10. O-O Nc6 11. Nb3 Na5
+$13) 8. Nf3 Nh5 9. Bg5 $5 {
+White does not want to give black his dark-squared Bishop.} (9. O-O {
+This is Romain's move in this game that ended as a draw.} Nxf4 10. exf4 Nb6 11.
+Bb3 Bg4 12. d5 a5 $13) 9... h6 10. Bh4 g5 11. Bg3 Nxg3 12. hxg3 {Nevertheless
+Black takes White's dark-squared Bishop but somehow compromises his pawn chain
+on the kingside. But with an active play Black equalizes the position.} c5 $1
+13. dxc5 Nxc5 14. Qc2 e6 {Black cannot allow White Ng5.} (14... b6 $2 15. Nxg5
+$18) 15. Nh2 b5 $1 {Black needs to play very actively and with this pawn
+sacrifice he gets a nice counter-play on the queenside.} 16. Bxb5 Rb8 17. Be2
+Ba6 18. Bxa6 Nxa6 19. O-O Nb4 {After White castled he does not have any real
+advantage because now Black King is safe and this extra pawn Black compensates
+with very active pieces.} 20. Qe2 Qd3 21. Qh5 Qg6 22. Qxg6 fxg6 23. Rfd1 Rfd8
+24. Rxd8+ Rxd8 25. Nf1 Rc8 26. Nd2 Bxc3 27. a3 Rd8 28. bxc3 Nd3 29. Rc2 Nc5 30.
+f3 Rb8 $11 {White obtains an extra pawn but both Black pieces (Rook and the
+Knight) are better than White and the position is equal.} 31. Kf2 Kf7 32. Ke2
+Kf6 33. g4 h5 34. gxh5 gxh5 35. Nc4 Rb3 36. e4 h4 37. Rc1 e5 38. Ke3 Ne6 39.
+Kd2 Rb8 40. Rg1 Nf4 41. Kc2 Ke6 42. Ne3 Rb6 43. a4 Rc6 44. Rb1 Rb6 45. Rd1 Rd6
+$11 {Because of a bad pawn on g2 Black position is so good and Black can also
+exchange the Rooks. This is equal now. Both players play some moves but
+eventualy game ended as a draw.} 46. Rb1 Rb6 47. Rh1 Rc6 48. Ra1 Rc7 49. Rb1
+Rf7 50. Rh1 Rc7 51. Rf1 Rf7 52. Rf2 Rd7 53. Nf5 Nd3 54. Rf1 Nc5 55. Ne3 Nxa4
+$11 {Black now takes White's extra pawn and both opponents agreed for a draw
+in next few moves.} 56. Ra1 Nc5 57. Nd5 g4 58. fxg4 Rf7 59. Ne3 Rf2+ 60. Kd1
+Nxe4 61. Ra6+ Kf7 62. Ke1 Rb2 63. Nf5 Rxg2 64. Nxh4 Rxg4 1/2-1/2
+
+[Event "42nd Olympiad - edited"]
+[Site "?"]
+[Date "2016.09.10"]
+[Round "?"]
+[White "Parligras, Mircea-Emilian"]
+[Black "Ipatov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2595"]
+[BlackElo "2652"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "90"]
+[EventDate "2016.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Be3 Qa5 {One of the most active and playable Grundfeld positions. White
+obtains some advantage in the center and Black wants to attack White's center
+later. This is a very active and reach position with chances for the both
+sides.} 9. Nd2 (9. Qd2 O-O 10. Rc1 Rd8 11. d5 e6 12. Bg5 f6 13. Be3 Nc6 14. Bd3
+b6 $13) 9... Bd7 {This is a rare move. Black avoids playing cd4 because he
+wants to develop the light-square Bishop first. Interesting alternative to 9...
+cd4.} (9... cxd4 10. Nc4 Qd8 11. cxd4 O-O 12. Rc1 f5 $13) 10. Rb1 Qxc3 11. d5
+b6 12. Bc4 O-O 13. O-O Qa5 $13 {After 13-th move position is very unclear.
+Black has an extra pawn but White has a strong compensation in terms of the
+great development and attack on the Black's Queen. Nevertheless Black's
+position is very strong without of any weaknesses.} 14. Bb3 Qa6 15. Re1 Bb5 16.
+Bg5 c4 $6 (16... Re8 $5 17. e5 Nd7 $13) 17. a4 cxb3 18. axb5 Qxb5 19. Bxe7 Re8
+20. Rxb3 Qa4 21. Bd6 Nd7 $11 {Now White gets back Black's extra pawn but black
+develops all of his pieces and equalizes the position.} 22. Qb1 Rac8 23. Ra3
+Qc2 24. Qxc2 Rxc2 25. Rxa7 Rxd2 26. Rxd7 Rxd5 $1 27. Re7 Rxe7 28. Bxe7 Rd7 29.
+Bb4 Rd4 $11 {Now position gets into an endgame with equal material and
+position. It is very hard to make any progress with White or Black here.} 30.
+Bc3 Rc4 31. Bxg7 Kxg7 32. f3 b5 33. Rb1 Rc5 34. Kf2 Kf6 35. Ke3 Ke5 36. Kd3 h5
+{This Rook's endgame is completely equal and players agreed to a draw in next
+few moves.} 37. f4+ Kxf4 38. Rf1+ Ke5 39. Rxf7 b4 40. Re7+ Kf4 41. Rf7+ Ke5 42.
+Re7+ Kf6 43. Rb7 Rc3+ 44. Kd4 Rc2 45. g3 Rxh2 {Draw is agreed.} 1/2-1/2
+

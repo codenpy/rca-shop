@@ -1,0 +1,145 @@
+[Event "World Championship 13th"]
+[Site "Buenos Aires"]
+[Date "1927.10.15"]
+[Round "15"]
+[White "Capablanca, Jose Raul"]
+[Black "Alekhine, Alexander"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2b1rk1/1b3pp1/pp2pn1p/8/7B/P1N1P3/1P1RBPPP/5RK1 b - - 0 17"]
+[PlyCount "0"]
+[EventDate "1927.09.16"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.11.12"]
+[Round "15"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "*"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[SetUp "1"]
+[FEN "r4rk1/pp1q1ppp/2np4/2b1p3/8/1P2P1PP/PB1P1PB1/R2Q1RK1 b - - 0 15"]
+[PlyCount "0"]
+[EventDate "1981.10.01"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "Interpolis"]
+[Site "Tilburg"]
+[Date "1983.10.16"]
+[Round "4"]
+[White "Spassky, Boris V"]
+[Black "Karpov, Anatoly"]
+[Result "*"]
+[WhiteElo "2605"]
+[BlackElo "2710"]
+[SetUp "1"]
+[FEN "3q1bk1/3n1ppp/3p4/1Bp3N1/3Pb3/7P/1P3PP1/2BQ2K1 b - - 0 23"]
+[PlyCount "0"]
+[EventDate "1983.10.12"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Bakulin"]
+[Black "Dvoretsky, M."]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp2nppp/3r4/3p4/N7/8/PPP2PPP/3RR1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1974.??.??"]
+
+{black to move}  *
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "23"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "*"]
+[WhiteElo "2785"]
+[BlackElo "2560"]
+[SetUp "1"]
+[FEN "2r2k2/pp3p2/3b2p1/2pN1nP1/3pR3/P2P4/1PP2PB1/5K2 b - - 0 33"]
+[PlyCount "0"]
+[EventDate "1992.09.??"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+{black to move}  *
+
+[Event "Candidates m3 g/45"]
+[Site "Wijk aan Zee"]
+[Date "1991.??.??"]
+[Round "12"]
+[White "Jussupow, Artur"]
+[Black "Dolmatov, Sergey"]
+[Result "*"]
+[WhiteElo "2605"]
+[BlackElo "2620"]
+[SetUp "1"]
+[FEN "r3r1k1/pb3pbp/1p4p1/2p5/4P3/3N2PP/PP3PB1/2RR2K1 w - - 0 25"]
+[PlyCount "0"]
+[EventDate "1991.01.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+ *
+
+
+25. e5 $1 {Giving up the paw White is getting rid of black bishops and is
+activating his rook} 25... Bxg2 26. Kxg2 Bxe5 27. Nxe5 Rxe5 28. Rd7 a5 29. Rb7
+Re6 30. Rc3 Rd8 31. Rf3 f6 32. Rb3 Rdd6 33. g4 g5 34. a4 h6 35. h4 Re4 36. hxg5
+hxg5 37. Kg3 Ree6 (37... Rb4 38. Re3) 38. Kf3 Kf8 39. Kg2 Re4 40. Kg3 Rxa4 41.
+Re3 Rf4 42. Ree7 Rd3+ 43. Kg2 Rxg4+ 44. Kf1 {
+in spite of 3 extra pawn there is no win} 44... Rd8 45. Rf7+ Kg8 46. Rg7+ Kh8
+47. Rh7+ Kg8 48. Rhg7+ Kf8 49. Rgf7+ 1/2-1/2
+
+[Event "URS-ch41"]
+[Site "Moscow"]
+[Date "1973.10.20"]
+[Round "13"]
+[White "Karpov, Anatoly"]
+[Black "Polugaevsky, Lev"]
+[Result "*"]
+[WhiteElo "2660"]
+[BlackElo "2625"]
+[SetUp "1"]
+[FEN "3r1k1r/pb2bp2/1q2p1pp/3nP3/1pB5/5N2/PPRBQPPP/2R3K1 b - - 0 20"]
+[PlyCount "0"]
+[EventDate "1973.10.02"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "New York Manhattan CC"]
+[Site "New York"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Marshall, Frank James"]
+[Black "Capablanca, Jose Raul"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/pb3ppp/1pp1q3/8/3NP3/2Q5/PP3PPP/2R1R1K1 b - - 0 18"]
+[PlyCount "0"]
+[EventDate "1918.10.23"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+

@@ -1,0 +1,204 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Shirov, Alexei"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "2695"]
+[BlackElo "2590"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "55"]
+[EventDate "1995.07.??"]
+[EventRounds "13"]
+[EventCountry "SUI"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "1995.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Be2 exd4 8.
+Qxd4 d6 9. Qxg7 Bf6 10. Qg3 Qe7 11. O-O Bd7 12. Nd4 O-O-O 13. Nd2 Nc6 14. Qe3
+h5 15. Rb1 Nh6 16. Qd3 b6 17. a4 Kb8 18. a5 Nxa5 19. Qa6 Ka8 20. e5 Qxe5 21.
+Bf3+ d5 22. Nc4 Bc8 {Diagram #} 23. Qxa5 $1 {A cool sacrifice in order to open
+up lines. As you can see in the sub-variation, Black cannot capture the queen.}
+(23. Qxc8+ $5 Rxc8 24. Nxe5 Bxe5 25. Re1 $14) 23... Qxd4 (23... bxa5 24. Nxe5
+Bxe5 25. Nc6 {Attacking the d8-rook and with checkmate on b8, White is
+completely winning.}) 24. Qa2 Qxc3 25. Be3 Bb7 26. Bxb6 cxb6 27. Nxb6+ Kb8 28.
+Nxd5 1-0
+
+[Event "Quenza sim"]
+[Site "Quenza"]
+[Date "2012.07.07"]
+[Round "?"]
+[White "Fressinet, Laurent"]
+[Black "Bunoust, Lucas"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "2714"]
+[BlackElo "1645"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "33"]
+[EventDate "2012.07.10"]
+[EventRounds "1"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2013.11.20"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. O-O Nf6 8.
+cxd4 Bb6 9. e5 Ng8 10. d5 Na5 11. Bd3 Ne7 12. Nc3 O-O {Diagram #} 13. Bxh7+ $1
+{This is a very illustrative game on how to play the Evans Gambit. White
+sacrificed a pawn for central control and attacking opportunities. All the
+circumstances are ready for the Greek Gift Sacrifice on h7. The idea is to
+destroy the Black's king shield of pawns and then, lure it to the center of
+the board.} (13. d6 $5) (13. Ng5 $5) (13. Qc2 $5) 13... Kh8 (13... Kxh7 14.
+Ng5+ Kg8 (14... Kg6 15. Qg4 {This is a well-known mechanism and Black is
+running out of good options. White is threatening Ne6 and Qg7# .}) 15. Qh5 Ng6
+16. Qh7#) 14. Ng5 g6 15. Qf3 {Black didn't accept the sacrifice, but he cannot
+avoid the checkmate. A lot of white pieces are attacking the black king.
+Please also notice that Black's pieces are mainly on the other side of the
+board, so White will win the game after some moves.} Nf5 16. Bxg6 fxg6 17. Qh3+
+1-0
+
+[Event "CHN-chT"]
+[Site "Beijing"]
+[Date "2012.09.24"]
+[Round "13"]
+[White "Li, Chao B"]
+[Black "Ma, Zhonghan"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "2703"]
+[BlackElo "2369"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "60"]
+[EventDate "2012.04.28"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "ChessBase"]
+[SourceDate "2012.11.22"]
+[WhiteTeam "Beijing"]
+[BlackTeam "Qingdao"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "CHN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Be2 exd4 8.
+Qxd4 d5 9. Qxg7 Bf6 10. Qg3 dxe4 11. Nd4 Ne7 12. Nb5 Nd5 13. c4 Bd7 14. cxd5
+Bxb5 15. Bxb5+ c6 16. Nc3 cxb5 17. O-O Nc4 18. Re1 e3 19. Bxe3 Nxe3 20. Qxe3+
+Kf8 21. Rad1 Qb6 22. Qf3 Rg8 {Diagram #} 23. d6 $5 {White is dominating again
+in the center of the board and all of his pieces are extremely active. The
+central passed pawn creates problems for Black because it leaves the queen on
+b6 out of action and gives a pivot square on e7 for the rook. However, the
+best move was Re6. This was a difficult move to find; did you discover it?} (
+23. Re6 $1 fxe6 24. Qxf6+ Ke8 25. d6 $18) (23. Ne4 $5 Bd4 24. d6 $36) 23...
+Bxc3 24. Re7 {In attack, it is extremely important to create threats. White is
+threatening the f7- and b7-square as well. Black's pieces are disorganized and,
+for that reason, he cannot protect his c3-bishop and avoid the f7 mate at the
+same time. White manages to win the game after some moves.} Rg7 25. Rxb7 Qd8
+26. Qxc3 Qg5 27. Qf3 Rd8 28. Rxa7 f6 29. d7 Qe5 30. Ra8 Qc7 1-0
+
+[Event "Wch Blitz 8th"]
+[Site "Dubai"]
+[Date "2014.06.20"]
+[Round "16"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Aleksandrov, Aleksej"]
+[Result "1-0"]
+[ECO "C52"]
+[WhiteElo "2619"]
+[BlackElo "2554"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "2014.06.19"]
+[EventType "blitz"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "ChessBase"]
+[SourceDate "2014.07.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. O-O
+Bb6 9. Nbd2 Na5 10. Qc2 Nxc4 11. Nxc4 exd4 12. cxd4 Ne7 13. a4 c6 14. e5 dxe5
+15. Nfxe5 Qd8 16. Ba3 O-O 17. Rfe1 Be6 18. Rad1 Bc7 {Diagram #} 19. Nxf7 $5 {
+The position is complicated, but very interesting. White manages to activate
+all of his pieces and now, it's time to do something with them. For that
+reason, he found a very interesting sacrifice in order to open lines. The
+problem for the black pieces is the e7-knight and the undeveloped a8-rook.} (
+19. Qb3 $5) (19. Qb1 $5) 19... Rxf7 (19... Bxf7 20. Bxe7 $16 {This is an
+important point of the combination. Black cannot recapture with the bishop
+because he is losing material.}) (19... Kxf7 {This was the only attempt to
+protect the extra material, but White has a strong initiative, as you can see
+in the sub-variation.} 20. Rxe6 $1 Kxe6 21. Re1+ Kf7 22. Bxe7 Qxd4 23. Bxf8
+Rxf8 24. Rd1 Qg4 {This move is protecting the d7-square.} 25. Ne3 Qe6 26. Qxh7
+$36) 20. Rxe6 {White regains the material and he stands slightly better in the
+position.} Nf5 21. Qe4 {White's domination is unquestionable.} Qd7 22. d5 {
+Another strong and typical move; White is opening up lines in order to reveal
+the power of his pieces.} cxd5 23. Rxd5 Qxa4 24. g3 g6 25. Bb2 Ng7 26. Re7 Re8
+27. Rxf7 $3 {Black played logical moves, but after this amazing sacrifice,
+White is completely winning, as you can see in the remaining moves.} Rxe4 28.
+Rxg7+ Kf8 29. Rxc7 Re7 30. Ba3 Qxa3 31. Rc8+ 1-0
+
+[Event "AUT-chT2W 9596"]
+[Site "Austria"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Sermek, Drazen"]
+[Black "Unzicker, Ferdinand"]
+[Result "1-0"]
+[ECO "C52"]
+[WhiteElo "2515"]
+[BlackElo "2295"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "43"]
+[EventDate "1995.??.??"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "1997.11.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. dxe5
+Bb6 9. Nbd2 Na5 10. Qc2 Nxc4 11. Nxc4 Qe6 12. Qb3 dxe5 13. Ba3 f6 14. O-O-O Nh6
+15. Rd2 Bd7 {Diagram #} 16. Rxd7 $1 {White is a pawn down, but the enemy king
+is in the center of the board. Please also notice how powerful the a3-bishop
+is; it's preventing 0-0. White sacrificed the Exchange in order to eliminate a
+key defensive piece and speed up the attack. After this move, the a4-e8
+diagonal is weakened.} (16. Rhd1 $5) 16... Qxd7 17. Rd1 {Black is now forced
+to move the queen. Neither short nor long castle is allowed and White's pieces
+are extremely active. The queen, the a3-bishop, the c4-knight, and the d1-rook
+can create deadly threats. Black's rooks cannot help with the defense.} Qc6 (
+17... Qf7 18. Qa4+ c6 19. Nxb6 $18 (19. Nd6+ $18)) 18. Nd6+ $3 {This is the
+point of the combination! White is winning the enemy queen and the game.} cxd6
+19. Qe6+ Kd8 20. Rxd6+ Qxd6 21. Qxd6+ Kc8 22. Qe6+ 1-0
+
+[Event "Pula op 12th"]
+[Site "Pula"]
+[Date "1998.??.??"]
+[Round "3"]
+[White "Sermek, Drazen"]
+[Black "Sale, Srdjan"]
+[Result "1-0"]
+[ECO "C52"]
+[WhiteElo "2510"]
+[BlackElo "2415"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "59"]
+[EventDate "1998.05.??"]
+[EventRounds "9"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. O-O Bb6 11. Ba3 Nh6 {Diagram #} 12. Rd1 $1 {This time
+White didn't sacrifice material, but you can see the power of White's bishop.
+It is a characteristic position of the Evans Gambit. Black is a pawn up (the
+b7-pawn), but his pieces are unorganized and the king is still in the center
+of the board.} Qg4 13. Qb5+ Bd7 14. Qxe5+ {White is gaining back the pawn and
+keeping his superior development.} Kd8 15. Be7+ Kc8 16. Na3 {Here, White
+finalizes his development. Black's king position is solid; White cannot attack
+it immediately, but Black has problems with how to develop the rooks.} Bc6 17.
+Bd5 Bxf2+ $5 18. Kh1 $1 {Avoiding the trap. White has the initiative and he
+manages to win the game afterwards.} (18. Kxf2 Qxd1 19. Rxd1 Ng4+ 20. Kg1 Nxe5
+$19) 18... Re8 19. Rab1 Qd7 20. Qf4 Bxd5 21. exd5 Bb6 22. Bh4 Qf5 23. d6 cxd6
+24. Qxd6 Bc7 25. Qb4 b6 26. Nc4 Re6 27. Qa4 Qe4 28. Rd8+ Kb7 29. Na5+ Ka6 30.
+Qb5# 1-0
+

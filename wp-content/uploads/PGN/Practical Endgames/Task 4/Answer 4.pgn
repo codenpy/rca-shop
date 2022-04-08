@@ -1,0 +1,106 @@
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.04"]
+[Round "2.59"]
+[White "Zhigalko Sergei (BLR)"]
+[Black "Kuzubov Yuriy (UKR)"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2644"]
+[BlackElo "2652"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "136"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. e3 Nh5 8.
+Bg5 Be7 9. Bxe7 Qxe7 10. Qc2 Nb6 11. Ne5 g6 12. Be2 Ng7 13. O-O O-O 14. Bd3 Bf5
+15. Rab1 Bxd3 16. Qxd3 Nf5 17. b4 Rfc8 18. Rfc1 Nd6 19. a4 f6 20. Nf3 Ne4 21.
+Nxe4 dxe4 22. Qb3+ Qf7 23. Nd2 Qxb3 24. Rxb3 f5 25. a5 Nd5 26. Nc4 a6 27. g3 {
+Diagram #} Re8 {Black has more space in the center and a fantastic square on
+d5 from which he can enter White's camp. On the other hand, White has more
+space on the queenside, but he cannot use it because he cannot enter Black's
+space or he cannot make a breakthrough.} (27... Kg7 $5 {He would like to bring
+the king to the center, while avoiding a check from the knight. Thus, it
+wasn't acurate to play Kf7.}) 28. Nb6 Nxb6 29. axb6 Rad8 {Black has a small,
+but stable advantage now because White cannot complicate the game and Black
+has a clear plan: to enter White's camp via the d5-square.} 30. Rc5 Kf7 31.
+Rbc3 Re7 $1 {A very nice move because Black will have the option to re-capture
+with the rook on d5 and not only with the pawn. By capturing with the rook,
+the d5-square will be open.} 32. h4 Red7 33. Kf1 Rd5 34. Ke2 Ke6 35. Rxd5 cxd5
+{It was a better move to capture with the rook in order to play Rb5 and attack
+the b4-pawn. In any case, Black won the game afterwards.} (35... Rxd5 $1 36.
+Kd2 Rb5 37. Rb3 a5 $19) 36. b5 axb5 37. Rc7 Rd7 38. Rc5 Rd6 39. Rxb5 Rc6 40.
+Kd2 Kd6 41. h5 gxh5 42. Rb1 Kd7 43. Rh1 Rh6 44. Rh4 Kc6 45. Kc3 Kxb6 46. Kb4
+Kc6 47. Rf4 h4 48. gxh4 Rf6 49. Ka4 b6 50. Kb4 b5 51. h5 Rf8 52. Ka5 h6 53. f3
+Rf7 54. Kb4 Rf6 55. Ka5 Rf8 56. Kb4 Kb6 57. Kb3 Kc7 58. Kb4 Kd6 59. fxe4 dxe4
+60. Kxb5 Ke6 61. Rf1 f4 62. exf4 Kd5 63. Kb4 Kxd4 64. Rd1+ Ke3 65. Rd6 Kf2 66.
+Rxh6 e3 67. Re6 e2 68. Kc5 Rxf4 0-1
+
+[Event "World Cup 2017"]
+[Site "Tbilisi"]
+[Date "2017.09.05"]
+[Round "3.11"]
+[White "Tomashevsky Evgeny (RUS)"]
+[Black "Antipov Mikhail Al. (RUS)"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2710"]
+[BlackElo "2580"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "99"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. e3 b6 6. Bd3 Bb7 7. Nc3 d6 8. O-O
+Nbd7 9. Qe2 Bxc3 10. Bxc3 Be4 11. Nd2 Bxd3 12. Qxd3 Qe7 13. e4 e5 14. Rfe1 Nh5
+15. Qf3 Qg5 16. Nf1 Nf4 17. Ne3 O-O 18. Rad1 Rfe8 19. Qg3 Qxg3 20. hxg3 exd4
+21. Bxd4 Ne6 22. Nd5 Ndc5 23. b3 Nxd4 24. Rxd4 Rac8 25. Re3 f6 26. f3 Kf7 27.
+a3 c6 28. Nf4 Rcd8 29. Kf2 Ne6 30. Rd1 Re7 31. Ne2 Nc5 {Diagram #} 32. b4 $5 {
+White has a little more space and, for that reason, we can claim that he has a
+small advantage. With his last move, b4, he increases his space advantage.
+Similarly, he would like to open one file on the queenside in order to enter
+with his rooks.} (32. Nd4 $5) 32... Na4 33. Rb3 Rc7 34. g4 $5 {White wins more
+space on the kingside and stops any possible breakthroughs which Black may
+think or try. White's plan is to double the rooks on the d-line and transfer
+the knight to f5 via d4. White has the advantage because he has more space and
+he can press the weakness on d6.} h6 35. Rd2 axb4 36. axb4 b5 37. c5 $5 {
+White's advantage could have been bigger if he had captured on b5; however,
+the move which he played in the game was also good. White won the game
+afterwards.} (37. cxb5 cxb5 38. Nd4 $16) 37... Rcd7 38. Rbd3 d5 39. exd5 Rxd5
+40. Rxd5 Rxd5 41. Rxd5 cxd5 42. Ke3 g5 43. Kd3 Nb2+ 44. Kd4 Nd1 45. Kxd5 Ne3+
+46. Kc6 Nxg2 47. Kxb5 Ne3 48. Kc6 f5 49. b5 fxg4 50. fxg4 1-0
+
+[Event "BUL-ch"]
+[Site "Bulgaria"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Lukov, Valentin"]
+[Black "Semkov, Semko"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2250"]
+[BlackElo "2300"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "73"]
+[EventDate "1977.??.??"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "BUL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 Qa5+ 6. Qd2 Qxd2+ 7. Nbxd2 bxc4 8.
+e4 Bb7 9. Bxf6 gxf6 10. Bxc4 f5 11. O-O-O Bh6 12. Kb1 O-O 13. Rhe1 a5 14. Nb3
+d6 15. exf5 a4 16. dxe6 axb3 17. e7 bxa2+ 18. Bxa2 Re8 19. Rxd6 Bf4 20. Ne5
+Bxe5 21. Rxe5 Nc6 {Diagram #} 22. Rxc6 $1 {A fantastic sacrifice which
+highlights the power of space advantage. The white pawns are very close to the
+promotion square and Black was forced to use his pieces in order to blockade
+them.} (22. Rxc5 $6 Rxe7 23. Bd5 $2 (23. Bc4 Ne5 $15) 23... Nb4 24. Bxb7 Re1+
+25. Rc1 Ra1+ 26. Kxa1 Rxc1#) 22... Bxc6 23. f6 {
+White is threatening Rg5 and then Bxf7.} h6 24. Re3 {White's pieces are
+extremely active, while, on the other hand, Black's pieces are not well
+coordinated. White again is threatening with his rook on the g-file, Rg3+.} c4
+25. Bxc4 Rec8 26. b3 $5 {This is a necessary prophylactic move.} (26. Rg3+ $5
+Kh8 27. b3) 26... Ra5 27. g4 {The f4 move was better in order to prevent Rg5,
+but the move which was played during the game was also good. White won the
+game afterwards.} (27. f4 $1) 27... Be8 28. f4 Rca8 29. Rd3 Kh7 30. Rd6 Rc8 31.
+h4 Ra7 32. Kb2 Rd7 33. Rxd7 Bxd7 34. Bxf7 Rb8 35. g5 hxg5 36. fxg5 Be8 37. g6+
+1-0
+

@@ -1,0 +1,14 @@
+﻿[Event "Nacionalno prvenstvo"]
+[Site "1|_ Mención Honorífica"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "STOJNIC Dragan"]
+[Black "#2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5B1K/2p1R3/q2p4/2p1R1Qp/p2k4/N1n1pp1r/1r3b2/4N3 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2003.??.??"]
+
+1. Rxe3 Bxe3 2. Bg7# 1-0
+

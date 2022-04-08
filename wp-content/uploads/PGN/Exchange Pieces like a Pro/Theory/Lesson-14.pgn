@@ -1,0 +1,64 @@
+[Event "israel champoinship 2014"]
+[Site "https://lichess.org/study/eJwC"]
+[Date "2014.06.20"]
+[Round "4"]
+[White "Mikhalevski, Victor"]
+[Black "Givon, Asaf"]
+[Result "*"]
+[ECO "E60"]
+[WhiteElo "2520"]
+[BlackElo "2459"]
+[Annotator "https://lichess.org/@/Asaf_Givon"]
+[PlyCount "71"]
+[EventDate "2014.??.??"]
+
+1. d4 Nf6 2. c4 g6 {[%csl Gd5][%cal Gd7d5]} 3. Nf3 (3. Nc3 d5) 3... Bg7 4. e3
+O-O 5. Be2 {i didnt expect this system at all, he actually almost always plays
+1.c4, but i knew it was popular.} c5 (5... d5 6. cxd5 Nxd5 {[%cal Gd5c3]}) 6.
+d5 d6 (6... b5 $5 {during the game i was wondering if this is good, trying to
+achive some improved benko, but i was not convinced.}) 7. Nc3 e6 {
+[%csl Gd5][%cal Gd2d5]} 8. Nd2 {not to give bg4 after ed.} (8. O-O exd5 9. cxd5
+{[%csl Gg4][%cal Gc8g4]} Bg4 (9... Re8 {[%cal Gf3d2]} 10. h3 Ne4 11. Nxe4 Rxe4
+{[%csl Gg7,Ga1][%cal Gg7a1]})) 8... exd5 9. cxd5 Re8 10. O-O {i have never
+played benoni so it was difficult for me to play, which also cost me on clock.
+[%csl Gd2,Gc4,Gd6][%cal Gd2c4,Gc4d6]} Na6 (10... Nbd7 11. h3 $5 {
+i didnt saw where my knight is going.} (11. e4 Ne5 12. f4 (12. h3 g5 13. Nf3
+Nxf3+ 14. Bxf3 h6 $13) 12... Neg4 13. Nc4 Nxe4 14. Bxg4 Bd4+ 15. Kh1 Bxg4 16.
+Qxg4 Nf2+ 17. Rxf2 Re1+ {is some varaiation i saw during the game.})) 11. e4 (
+11. Bxa6 bxa6 {[%csl Ga6,Ga7,Gb2,Gc8,Gg7][%cal Ga8b8,Gb8b2]}) 11... Nc7 12. a4
+{[%csl Gc8]} b6 {
+i wanted to exchange the bishops after ba6.  [%csl Ga6][%cal Gc8a6]} (12... Bd7
+) 13. Bb5 $5 {i didnt saw this idea at all.} (13. f3 Nh5 $5 14. Nc4 Ba6 {
+i liked my position here.}) (13. f4 Ba6 $1) 13... Bd7 $2 {
+[%csl Gd7][%cal Gb5d7]} (13... Nxb5 14. axb5 a6 15. f3 Nd7 $1 {
+i didnt pay much attention to this move during the game.} (15... Bd7 {
+i was mainly thinking about this, trying to sacrifice a pawn for theinitiative.
+} 16. Nc4 (16. bxa6 $2 b5 $15) 16... Bxb5 (16... axb5 17. Rxa8 Qxa8 18. Nxd6 b4
+19. Nxe8 Nxe8 20. Ne2 $16) 17. Nxb5 axb5 18. Rxa8 Qxa8 19. Nxd6 $16) 16. Qe2 a5
+{it looked strange to close the position with two bishops, but here black has
+clear plan of f5 while on nc4 black always has ne5.}) 14. Bd3 $1 {
+[%csl Gd7][%cal Gf6d7]} (14. Bxd7 Nxd7 {[%csl Gd7][%cal Gd7e5]} 15. Nc4 Ne5 {
+[%csl Ge5,Gc4]} 16. Nxe5 Bxe5 {[%csl Gc7,Ga6,Gb4][%cal Gc7a6,Ga6b4]}) 14... Ng4
+{[%csl Gd4,Ge5][%cal Gg7d4,Gd8h4]} 15. Be2 $1 {
+i missed this move.  [%csl Gb5,Gd3,Ge2][%cal Ge2b5,Gb5d3,Gd3e2]} (15. h3 Ne5
+16. Be2 g5 $5 {and at least i get stable knight on e5.}) 15... Nf6 {my opponent
+managed to trick me and i got a bad position, the bishop on d7 completlly
+stuck my position.} (15... f5 16. exf5 gxf5 {
+i felt that in the long run my weaknesses will tell}) (15... h5 {
+i felt this is wrong.} 16. h3 Ne5 17. f4 Ng4 18. Nb3) (15... Ne5 16. f4 {
+[%csl Ge5,Gd7][%cal Ge5d7]}) 16. f3 {white got what he wanted with the
+micplaced bishop on d7.  [%csl Gc4,Gd6][%cal Gd2c4,Gd8d6]} Nh5 {
+i didnt see other way to get counterplay.  [%csl Gf4,Ge2][%cal Gh5f4,Gf4e2]}
+17. Nc4 {[%csl Gd6][%cal Gc4d6]} Bd4+ {[%csl Ge3,Gh1][%cal Gc1e3,Gg1h1]} 18.
+Kh1 (18. Be3 Bxe3+ 19. Nxe3 {[%csl Gh5,Gf4][%cal Gh5f4]} Nf4 {
+[%csl Gf4,Ge2][%cal Gf4e2]}) 18... Qf6 {[%cal Gf6d6]} (18... Qh4 19. Qe1 {
+ending are bad for black here.}) 19. Qd2 $5 {
+didnt see this idea of controlling f4.  [%csl Gf4][%cal Gh5f4]} b5 {
+i knew my position is very bad so i tried to complicate things.} 20. axb5 Nxb5
+{[%csl Gc3,Gb5]} 21. Nd1 $1 (21. Nxb5 Bxb5 {[%csl Gb5,Ge2,Gc4][%cal Gb5e2]} 22.
+Nxd6 Re5 $1 $132 (22... Ng3+ 23. hxg3 Re5 24. Nf5)) 21... Qe7 22. Bd3 Bg7 23.
+g4 $16 {from this point white start to push black back while he doesnt have
+any counterplay. alsi, i was short on time.} Nf6 24. Qg2 h5 25. Bg5 Qf8 26. h3
+hxg4 27. fxg4 Nh7 28. Bf4 Qe7 29. Qg3 Be5 30. Nxe5 dxe5 31. Be3 Nd6 32. Nc3
+Rec8 33. Qf2 Rc7 34. Ra6 Rac8 35. Ra5 c4 36. Bb1 *
+

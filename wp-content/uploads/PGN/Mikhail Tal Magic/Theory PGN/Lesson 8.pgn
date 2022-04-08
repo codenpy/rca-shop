@@ -1,0 +1,113 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Leonov, A."]
+[Result "1-0"]
+[ECO "B13"]
+[PlyCount "49"]
+[EventDate "1949.??.??"]
+[EventType "game"]
+[EventRounds "1"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 h6 6. Bf4 e6 7. Nf3 Bd6 8. Bxd6
+Qxd6 9. c3 Nc6 10. O-O O-O 11. Qe2 Re8 12. Ne5 Qc7 13. f4 Nxe5 14. fxe5 Nh7 15.
+Qh5 Re7 16. Na3 a6 17. Nc2 Qd7 18. Ne3 Qe8 {Diagram #} 19. Rf6 $1 Qf8 $5 (19...
+gxf6 20. Bxh7+ $1 (20. exf6 Nxf6 21. Qxh6 Ne4 22. Bxe4 f5 $1 23. Bxf5 exf5 24.
+Nxd5 Re6 25. Qg5+ Rg6 26. Ne7+ Kg7 27. Nxg6 Qxg6 28. Qe7+ $14) 20... Kxh7 21.
+Ng4 Qf8 22. Rf1 f5 23. Nf6+ Kh8 24. Rf3 $18) 20. Rf4 (20. Ng4 Nxf6 21. exf6 $18
+) (20. Bxh7+ Kxh7 21. Ng4 gxf6 22. Rf1 f5 23. Nf6+ Kh8 24. Rf3 $18) 20... Bd7
+21. Ng4 Be8 (21... Bb5 $142) 22. Nf6+ $1 Nxf6 23. exf6 Rc7 (23... gxf6 24. Rxf6
+Qg7 25. Rxh6 f5 26. Qh4 $18) (23... Rd7 24. fxg7 Kxg7 25. Qe5+ f6 26. Qxe6 $18)
+24. fxg7 Kxg7 25. Qe5+ 1-0
+
+[Event "URS-chT U20 final Gr2"]
+[Site "Kharkov "]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Birbrager, Isaak"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "A70"]
+[Annotator "Psakhis/Primel,D"]
+[PlyCount "76"]
+[EventDate "1953.??.??"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[BlackTeam "Latvia"]
+[BlackTeamCountry "LAT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bd3
+O-O 9. O-O Na6 (9... Bg4) (9... a6) 10. Nd2 (10. h3 Nc7 11. Re1) 10... Nb4 $6 {
+Une perte de temps} 11. Be2 Re8 12. a3 Na6 13. Re1 Nc7 14. Qc2 Rb8 15. a4 b6
+16. Nb5 $6 (16. Bf1 a6) 16... a6 17. Nxc7 Qxc7 18. Ra2 $6 Qe7 19. f3 Nh5 (19...
+b5 $132) 20. Nf1 {Les Blancs continuent de jouer trop passivement} f5 21. Bd3
+f4 22. g4 $2 Bd4+ $1 23. Kh1 Qh4 $1 24. Re2 Qh3 $40 25. Rg2 (25. gxh5 Qxf1#)
+25... Qxf3 26. Nd2 Qe3 27. Nf1 Qf3 28. Nd2 Bxg4 {
+Spectaculaire mais malheureusement incorrect} 29. Nxf3 Bxf3 30. h4 (30. b3 Rxe4
+31. Bxe4 Re8 32. Qc4 Rxe4 33. h4 Be5 34. Qxa6 Re1+ 35. Kh2 Rxc1 $13 {
+Psakhis: "Advanced chess Tactics"}) 30... Rf8 31. Be2 $2 (31. b3 Ng3+ 32. Kh2
+$18) 31... Ng3+ 32. Kh2 Bxg2 33. Kxg2 Nxe2 34. Qxe2 f3+ 35. Qxf3 Rxf3 36. Kxf3
+Rf8+ 37. Kg3 Be5+ 38. Kg2 Bf4 0-1
+
+[Event "LAT-ch 10th "]
+[Site "Riga"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Pasman, Marks"]
+[Result "1-0"]
+[ECO "B93"]
+[PlyCount "82"]
+[EventDate "1953.02.20"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bd3
+Be7 9. O-O O-O 10. Kh1 b5 11. a3 Qc7 12. fxe5 dxe5 13. Nh4 Nc5 14. Bg5 Qd8 $146
+15. Nf5 Bxf5 16. Rxf5 Nfd7 17. Bxe7 Qxe7 18. Nd5 Qd6 19. Qg4 g6 20. Raf1 f6 21.
+h4 Kh8 22. R5f3 f5 {Diagram #} 23. exf5 $1 Qxd5 24. fxg6 Rxf3 25. g7+ (25. Rxf3
+e4 26. Rf5 Qe6 27. g7+ Kg8 28. Be2 $13) 25... Kg8 26. Bxh7+ $2 {Typique du e
+du futur Champion du Monde qui aimait pêcher en eaux troubles mais le
+sacrifice est incorrect sur une défense précise des Noirs mais devant
+l'Echiquier, c'est une autre histoire...} Kxh7 27. Rxf3 Ne4 (27... Qe6 28. Qh5+
+Qh6 29. Qf7 Qxg7 $19) 28. h5 Ndf6 29. Qg6+ Kg8 30. h6 $40 Ra7 31. Kh2 Re7 $2 (
+31... Qd2 32. h7+ Nxh7 33. Qxe4 Qh6+ 34. Rh3 Nf6 $1 {la pointe!} 35. Rxh6 (35.
+Qxe5 Ng4+) 35... Nxe4 $19) 32. Rh3 Nh7 33. Rd3 Qa8 34. Qxe4 Qxe4 35. Rd8+ Kf7
+36. g8=Q+ Kf6 37. Rd6+ Kf5 38. Qg6+ Kf4 39. g3+ Ke3 40. Rd3+ Qxd3 41. Qxd3+ Kf2
+1-0
+
+[Event "Master Classification m"]
+[Site "Riga"]
+[Date "1954.??.??"]
+[Round "8"]
+[White "Saigin, Vladimir"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "E01"]
+[PlyCount "64"]
+[EventDate "1954.??.??"]
+[EventType "match"]
+[EventRounds "14"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. g3 cxd4 5. Nxd4 d5 6. Bg2 e5 7. Nf3 d4 8. O-O
+Nc6 9. e3 Be7 10. exd4 exd4 11. Nbd2 Be6 12. Re1 O-O 13. b3 Qc7 14. Bb2 Rad8
+15. a3 a5 16. Ne5 Nxe5 17. Rxe5 b6 18. Nf3 Bc5 19. Qd2 Ng4 20. Ree1 d3 21. Rf1
+Qd6 22. Qc3 f6 23. Rad1 Rfe8 24. Rd2 Bf5 25. Ng5 {Diagram #} Ne3 $1 26. fxe3 (
+26. Re1 Nxg2 27. Rxe8+ Rxe8 28. Kxg2 Qc6+ 29. f3 Re1) (26. Rb1 Nxg2 27. Kxg2
+Qc6+ 28. f3 Be4 29. Nxe4 Rxe4 30. fxe4 Qxe4+ 31. Kh3) 26... Bxe3+ 27. Kh1 Bxd2
+28. Qxd2 Re2 29. Qc3 Rxg2 30. Kxg2 d2 31. Rd1 Bg4 32. Nf3 Qd3 $1 0-1
+

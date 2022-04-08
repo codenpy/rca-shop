@@ -1,0 +1,42 @@
+[Event "?"]
+[Site "?"]
+[Date "1619.??.??"]
+[Round "?"]
+[White "Clasical ¥ sac"]
+[Black "?"]
+[Result "*"]
+[ECO "C01"]
+[Annotator "Smirnov"]
+[PlyCount "23"]
+[EventDate "1619.??.??"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+
+1. e4 e6 2. d4 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bd3 Be7 6. c3 O-O {Diagram #} 7. h4
+(7. Bxh7+ Kxh7 8. Ng5+ Bxg5) 7... d6 (7... g6 8. h5) (7... h6 8. Bc2 d6 9. Qd3
+f5 (9... g6 10. Bxh6) 10. exf6 Nxf6 11. Bxh6 gxh6 12. Qg6+ Kh8 13. Qxh6+ Kg8
+14. Rh3) (7... f5 $1 8. exf6 Nxf6 9. h5 d6 10. h6 g6 11. Qc2) (7... f6 8. Ng5 (
+8. Bxh7+ Kxh7 9. Ng5+ Kg8) 8... fxg5 9. Bxh7+ Kxh7 10. hxg5+ Kg8 11. Rh8+ (11.
+Qh5 Rf5 12. Qh8+ Kf7 13. Qh5+) 11... Kxh8 12. Qh5+ Kg8 13. g6 Rf5 14. Qh7+ Kf8
+15. Qh8#) (7... h6) (7... f6) 8. Bxh7+ Kxh7 9. Ng5+ Bxg5 10. hxg5+ Kg8 (10...
+Kg6 11. Qh5+ Kf5 12. g6+ Ke4 13. Qf3#) 11. Qh5 f5 12. g6 *
+
+[Event "Friendly Game, 3m"]
+[Site "Main Playing Hall"]
+[Date "2011.10.25"]
+[Round "?"]
+[White "Kesaris"]
+[Black "muttaki"]
+[Result "1-0"]
+[ECO "B13"]
+[BlackElo "1732"]
+[SetUp "1"]
+[FEN "2r2rk1/3b1ppp/p2qpn2/np1pN3/3P1P2/2PB4/PP1NQ1PP/4RRK1 w - - 0 15"]
+[PlyCount "21"]
+[EventDate "2011.11.24"]
+[Source "ChessBase"]
+[SourceDate "2003.05.26"]
+
+15. g4 Nc4 16. g5 Ne8 17. Ndxc4 dxc4 18. Bxh7+ Kxh7 19. Qh5+ Kg8 20. Rf3 g6 21.
+Qh6 Ng7 22. Rh3 Nh5 23. Ng4 Qxf4 24. Nf6+ Nxf6 25. Qh8# 1-0
+

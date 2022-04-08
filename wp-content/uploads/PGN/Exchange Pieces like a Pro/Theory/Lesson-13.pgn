@@ -1,0 +1,104 @@
+[Event "Bundesliga 0405 playoff"]
+[Site "Bremen"]
+[Date "2005.05.08"]
+[Round "1.4"]
+[White "Efimenko, Zahar"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2594"]
+[BlackElo "2640"]
+[PlyCount "95"]
+[EventDate "2005.05.08"]
+[EventType "match"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2005.08.01"]
+[WhiteTeam "Werder Bremen"]
+[BlackTeam "Porz"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+{Johan Hellsten: 'Rxc2  Kxc2  Kc4  a5  the white king is first to reach the
+kingside'} 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6
+7. c3 c5 8. Ne5 a6 9. Be3 cxd4 10. Bxd4 Qc7 11. Bd3 Bc5 12. Bxc5 Qxc5 13. Qe2
+b6 14. O-O-O Bb7 15. Rhg1 Ke7 16. f4 Rhd8 17. Rde1 b5 18. f5 b4 19. fxe6 bxc3
+20. exf7 cxb2+ 21. Kb1 Bd5 22. Qxb2 Kd6 23. Nc4+ Kc6 24. Ka1 Rab8 25. Qc3 Bxc4
+26. Qxc4 Rd5 27. Qxa6+ Kd7 28. Qa4+ Kd6 29. Qf4+ Re5 30. Bc4 Nd7 31. Rd1+ Ke7
+32. Rge1 Kf8 33. Rxe5 Nxe5 {Diagram #    Johan Hellsten: 'Rxc2  Kxc2  Kc4  a5 
+the white king is first to reach the kingside'} {Johan Hellsten: In this late
+middlegame position White is two pawns up but his king is rather exposed on a1.
+Efimenko finds a technical solution.} 34. Qd4 {'!' Johan Hellsten.  Johan
+Hellsten: 'Forcing a queen exchange that will finish off Black's counterplay
+and produce a superior endgame. When carrying out such exchanges, we should be
+ready to return some of the extra material if needed, like the f7-pawn in this
+case.'} (34. Bb3 $2 {failed to} Qc3+ 35. Kb1 Rxb3+ $1 36. axb3 Qxb3+ {
+with a perpetual.} 37. Kc1) 34... Qxd4+ (34... Qe7 35. Bb3 {
+Black's counterplay is gone}) (34... Qxc4 $2 {fails to} 35. Qd6+ Kxf7 36. Qxb8
+Qc3+ 37. Qb2 {etc.}) 35. Rxd4 Nxc4 36. Rxc4 Kxf7 {
+Johan Hellsten: '[%csl Ga2][%cal Ga2a8]'} 37. Re4 {'?!' Johan Hellsten.  Johan
+Hellsten: ', when Black could have put up some resistance by'} (37. a4 $1 {
+Passed pawns should move forward!  [%csl Ba4][%cal Ba4a5,Bc4a4]} Ke6 38. Ka2 {
+White wins by bringing up his king; Efimenko,Z-Vaganian,R/https://lichess.org/
+study/03X 2005/[JohanHellsten]} ({Rb7  Ka3  Kd5} 38. Rc2 {Ra7  Kb4} Rb7 {Kc3} (
+) {Ka5  is also possible} 39. Rc7 {Kd3} Ra7 {Ra2  Ra5  Ra1!  with a position
+reminiscent of the famous game A.Alekhine-J.R.Capablanca, World Championship
+(game 34), Buenos Aires 1927.} ())) (37. Ra4) 37... Kf6 (37... Rd8 $1 38. Re2
+Ra8 $1 {, hindering the advance of the a-pawn - Meyer/Efimenko.}) 38. Re2 h5
+39. a3 g5 40. Ka2 h4 41. a4 Kf5 42. Ka3 Kg4 43. a5 h3 44. g3 Kf3 45. Ra2 Ke4
+46. a6 Kd5 47. a7 Ra8 48. Kb4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.01.18"]
+[Round "?"]
+[White "Kinnmark"]
+[Black "Tal"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2rk1/3b2pp/p2Q1b2/2nPp3/2B5/5p1P/P4PP1/1R2RNK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2019.??.??"]
+
+1. Qc7 {'!' Johan Hellsten.  Johan Hellsten: 'Forcing a queen exchange in
+order to neutralize Black's attack and transpose to an endgame with extra
+material.  [%cal Rc7c5]'} Qxc7 (1... fxg2 2. d6+ Kh8 (2... Be6 $6 3. Ne3 Bxc4
+4. Qxc8 Rxc8 5. Nxc4 {White is winning - Kinnmark.}) 3. Ng3 Bxh3 4. Qxc8 Rxc8 {
+[%csl Rg2]} 5. Kh2 Bd7 6. Re2 $1 e4 {
+Black gives up a pawn to prevent Reb2-b8 with further simplifications.} 7. Nxe4
+Be5+ 8. Kg1 (8. Kxg2 $2 Nxe4 9. Rxe4 Bc6 {and Black recovers the exchange.})
+8... Nxe4 9. Rxe4 Bxd6 10. Rd1 Bf5 11. Be6 $1 {Forcing favourable exchanges.}
+Bxe6 12. Rxe6 Bf8 13. Rxa6 {. White is winning. . (press F10 for the next
+exercise) Kinnmark,O-Tal,M/https://lichess.org/study/03X 1961/[Johan Hellsten]}
+) 2. d6+ {Johan Hellsten: 'and White reaches his goal.'} *
+
+[Event "FIDE World Championship, Tripoli"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Adams, M."]
+[Black "Kasimdzhanov, R."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "5rk1/1R3ppp/3rq3/p2N4/Pb1Q4/1P4P1/5P1P/3R2K1 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2004.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1. Rxb4 $1 {
+Initiating an exchange combination that will help in realizing the extra pawn.}
+axb4 2. Ne7+ Qxe7 3. Qxd6 {
+Unfortunately for Black, he cannot even save the b4-pawn.} Qe2 4. Rd4 $1 h5 5.
+Qxb4 Qf3 6. h4 Rc8 ({If} 6... Re8 {, then} 7. Rf4 Qd1+ 8. Kh2 Re1 9. Qb7 {
+- Adams.}) 7. Qd2 $1 Rc3 (7... Qxb3 {
+White is ready to give up one of the pawns in order to swap rooks; e.g.} 8.
+Rd8+ Rxd8 9. Qxd8+ Kh7 10. a5 {with an easy win.}) 8. Rf4 Qc6 9. Kh2 ({
+Alternatively,} 9. Rc4 $1 Rxc4 10. bxc4 {in the spirit of the previous note.})
+9... Rxb3 ({Or} 9... Rc1 10. Qd8+ Kh7 11. Qd3+ Kg8 12. Qf3 {and wins - Adams.})
+10. Qd8+ Kh7 11. Qd1 $1 {
+. A timely double attack. White soon won. . (press F10 for the next exercise)}
+*
+

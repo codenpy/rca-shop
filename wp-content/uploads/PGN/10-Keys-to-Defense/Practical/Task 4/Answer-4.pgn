@@ -1,0 +1,196 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1943.12.??"]
+[Round "?"]
+[White "Zagoriansky, Evgeny"]
+[Black "Yudovich, Mikhail Mikhailovic"]
+[Result "1-0"]
+[ECO "D48"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "1943.??.??"]
+[EventRounds "16"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2011.11.24"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. O-O c5 10. Qe2 Be7 11. Rd1 Qb6 12. a4 b4 13. a5 Qc7 14. Ne4 Bb7 15. Nxf6+
+Bxf6 16. Bd2 O-O 17. Be1 Rfd8 18. Qc2 Qc6 19. Bxh7+ Kh8 20. Bd3 g5 21. h3 g4
+22. hxg4 Rg8 {Diagram #} 23. d5 {White sacrifices back some material in order
+to decrease the activity of Black's pieces against the g2-pawn. The queen,
+b7-bishop and g8-rook are eyeballing this pawn.} exd5 24. Bf5 d4 {White gave
+back a pawn, but now he manages to activate the bishop to f5. The g4-pawn is
+protected and the bishop joined the defense.} 25. exd4 Bxd4 26. Rxd4 $1 {Here
+comes the real defensive sacrifice. White sacrifices the Exchange in order to
+eliminate one very important atttacking piece, the dark-squared bishop. At the
+same time, he'll manage to exchange queens and it means that the attack will
+be over.} cxd4 27. Qxc6 Bxc6 28. Nxd4 {The material is equal, a bishop and 2
+pawns for the rook; but White's pieces are extremely active and Black will
+soon lose more material. Thus, White wins after some moves.} Ne5 29. Bxb4 Rgd8
+30. Bc3 Kg8 31. f4 1-0
+
+[Event "Champions Showdown: Chess9LX"]
+[Site "?"]
+[Date "2020.09.11"]
+[Round "3"]
+[White "Carlsen"]
+[Black "Caruana"]
+[Result "1-0"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "3r2kb/pp1q4/3p1rpp/3Pp1n1/P1N1Bp2/1P1P2P1/4QP1P/1R2R2K w - - 0 1"]
+[PlyCount "37"]
+[EventDate "2020.??.??"]
+
+{It was a 960 type of game, and we can see that White is under pressure. Here
+Carlsen found a nice way to close the position; nonetheless, it contains an
+Exchange sacrifice.} 1. Rg1 {It was a 960 game, and we can see that White is
+under pressure. Here Carlsen found a nice way to close the position;
+nonetheless, it contains an Exchange sacrifice.} (1. Rf1) (1. Nd2) (1. gxf4)
+1... Rdf8 2. g4 Nh3 3. f3 {White should give the Exchange because, as you can
+see in the sub-variation, Black is threatening f3.} (3. Rgc1 f3 $36) 3... Nxg1
+4. Rxg1 g5 5. h4 $5 {A very interesting and figting way to continue. White has
+compensation here because his light pieces are very nice positioned in the
+center. The h4 move isn't dangerous because Black cannot use any file on the
+kingside. White himself would like to open up the h-file and then jump there
+with the queen.} (5. Qf2 $5) (5. Bf5 $6 Rxf5 6. gxf5 Rxf5 $15 {And step by
+step, Black can prepare the g4 advancement. White should defend passively here.
+}) 5... gxh4 6. Qf2 {Suddenly, White gains the initiative and he is createing
+attacking chances. Black's problem is the passive rooks and the h8-bishop.
+These pieces doesn't have any good prospects. Now both pawns are under attack
+-the h4 and a7! Both players had a time trouble here and this was a reason why
+Caruana didn't defend correctly. The main point is that White made the
+Exchange sacrifice early on and he managed to find good counterattacking
+chances. White manages to win the game afterwards.} Qg7 7. Qxa7 Qe7 8. Kh2 R6f7
+9. Qb6 Rd8 10. Rc1 Bf6 11. Nd2 Rg7 12. Bf5 h5 13. gxh5 e4 14. Nxe4 Bb2 15. Rc2
+Ba3 16. h6 Rg3 17. Rc7 Qf8 18. Bh7+ Kh8 19. Qd4+ (19. Qd4+ Qg7 20. Rxg7 Bb2 21.
+Rg8+ Kxh7 22. Nf6+ Kxh6 23. Qxf4+ Rg5 24. Qxg5#) 1-0
+
+[Event "Linares Anibal op 08th"]
+[Site "Linares"]
+[Date "2001.01.13"]
+[Round "6"]
+[White "Golod, Vitali"]
+[Black "Skripchenko, Almira"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[WhiteElo "2591"]
+[BlackElo "2450"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "110"]
+[EventDate "2001.01.08"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2001.03.20"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Be2 Nf6 7. O-O a6 8.
+Kh1 Bb4 9. Nxc6 bxc6 10. Qd4 Bd6 11. Bg5 Be5 12. Qe3 h6 13. Bh4 Bf4 14. Bg3
+Bxg3 15. hxg3 d5 16. Rad1 O-O 17. g4 Bb7 18. exd5 cxd5 19. g5 hxg5 20. Qxg5 e5
+21. Rd3 Rfd8 22. f4 e4 23. Rg3 Ne8 24. Rh3 d4 25. f5 dxc3 26. f6 Nxf6 27. Rxc3
+Qd6 28. Bc4 Rd7 29. Rg3 Ne8 30. Rh3 Bd5 31. Rd1 {Diagram #} Bxc4 $1 {This was
+a fantastic move. Black sacrificed the queen in order to stop White's attack.
+However, after that, Black's remaining pieces will be extremely active.} (31...
+Nc7 $5 32. Bxd5 Nxd5 33. c4 Rad8 34. Rxd5 Qf6 35. Qh5 {The position is equal,
+but White has some threats. Black should be careful here.}) (31... Nf6 $5 32.
+Bxd5 Nxd5 33. c4 {Transposition to the other line.}) (31... Qf6 $5 32. Qh5 g6
+33. Qh7+ Kf8 34. Rxd5 Rxd5 35. Bxd5 Rd8 36. c4 Ke7 {The position is
+approximately equal.}) 32. Rxd6 Rxd6 33. Qh4 Rh6 {Black manages now to
+exchange all of White's attacking pieces, so White cannot perform a checkmate
+attack only with his queen. Black has better chances here because three pieces
+can coordinate better. Maybe it isn't enough to win, but definitely, Black has
+the upper hand.} 34. Qxe4 Rxh3+ 35. gxh3 Rc8 $17 {Black's pieces are extremely
+well-coordinated, but White has some pawns. Black has better prospects but,
+after a fighting game, White manages to keep the balance.} 36. b3 Nf6 37. Qf5
+Be6 38. Qd3 Rc6 39. c4 Nd7 40. Kh2 f6 41. Qd4 Kf7 42. Qa7 Ke7 43. Kg3 Bf5 44.
+b4 Be6 45. b5 Rxc4 46. bxa6 Rc3+ 47. Kf2 Rc2+ 48. Ke1 Rxa2 49. Qb7 Kd6 50. Qb4+
+Kc6 51. Qb7+ Kd6 52. Qb4+ Ke5 53. Qc3+ Ke4 54. Qc6+ Ke5 55. Qc3+ Ke4 1/2-1/2
+
+[Event "EU-chT (Men) 13th"]
+[Site "Leon"]
+[Date "2001.11.08"]
+[Round "3.2"]
+[White "Socko, Bartosz"]
+[Black "Lautier, Joel"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2564"]
+[BlackElo "2653"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "122"]
+[EventDate "2001.11.06"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2002.02.05"]
+[WhiteTeam "Poland"]
+[BlackTeam "France"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bg5 f6 $1 $146 7. dxe5
+Nxb5 8. exf6 gxf6 9. Re1+ Kf7 10. Qd5+ Kg7 11. Bf4 Nd6 12. Nh4 Rg8 13. Nc3 Kh8
+14. Qh5 Nd4 15. Nd5 {Diagram #} b6 $5 {Both moves, b6 and Nxc2, are
+interesting. But the main point here is that Black should give up his queen on
+f6; the only way to defend himself from checkmate threat on h7.} (15... Nxc2 $5
+16. Nxf6 Qxf6 17. Be5 Bg7 18. Bxf6 Bxf6 $15 {Black has preferable chances here.
+}) 16. Nxf6 Qxf6 17. Be5 Bg7 18. Bxf6 Bxf6 {White has a queen, but Black's
+pieces are coordinated. There is a threat on c2, with a fork. Please also
+notice that, after this defensive sacrifice, White's attack came to an end.}
+19. Re3 Bb7 (19... Nxc2 $2 20. Rh3 {With the idea of Ng6+!} Rg7 21. Rc1 $18 {
+White has a big advantage because he is threatening the c2-knight and the
+hidden double attack with the queen on f3.}) 20. Rg3 Rae8 {Black is preparing
+the Ne2 move.} (20... Ne2+ 21. Qxe2) 21. Kh1 Ne4 $5 $15 {This is an
+interesting move and Black has the initiative. However, Ne4 wasnt the only
+interesting move. As you can see in the sub-variations, Black had other
+alternatives. He manages to win the game afterwards.} (21... Nxc2 $5 22. Rd1
+Rxg3 23. hxg3 Nd4 $17) (21... Re4 $5 22. Nf3 Nxf3 23. Qxf3 Re1+ 24. Rxe1 Bxf3
+25. Rxg8+ Kxg8 26. gxf3 Kf7 $17) (21... Ne6 $5 22. Rd1 Nf4 $19) 22. Ng6+ Rxg6
+23. Rxg6 Nxf2+ 24. Kg1 Ne2+ 25. Kf1 Nf4 26. Rxf6 Nxh5 27. Rxf2 Kg7 28. c4 Nf6
+29. Rd1 Bc6 30. Re2 Ne4 $1 31. Kg1 a5 32. Rf1 Re6 33. Rf4 h5 34. Re3 Kg6 35. h4
+$6 Nf6 $1 36. Rxe6 dxe6 37. Rd4 Bd7 38. c5 b5 39. Rd3 e5 40. c6 Be6 41. Rg3+
+Ng4 42. Rc3 Bxa2 43. Ra3 Bc4 44. b3 Be2 45. Rxa5 Nf6 46. Ra8 Kf7 47. Rc8 Nd5
+48. Kf2 Bg4 49. Rh8 Ke7 50. Rh6 b4 51. Ke1 e4 52. g3 Ne3 53. Rh8 Kd6 54. Kd2
+Nd5 55. Rh6+ Kc5 56. Rg6 Kd4 57. Ke1 Kc3 58. Rg5 Ne3 59. Kf2 Nf5 60. Ke1 e3 61.
+Rg8 Nd4 0-1
+
+[Event "RUS-ch 56th"]
+[Site "Krasnoyarsk"]
+[Date "2003.09.08"]
+[Round "5"]
+[White "Kurnosov, Igor"]
+[Black "Lastin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C52"]
+[WhiteElo "2527"]
+[BlackElo "2634"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "56"]
+[EventDate "2003.09.03"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2004.02.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. dxe5
+Bb6 9. Nbd2 Na5 10. Qc2 Nh6 11. O-O O-O 12. h3 Re8 13. Rd1 dxe5 14. Nxe5 Rxe5
+15. Nf3 {Diagram #} Nxc4 $1 {A very strong defensive sacrifice. Black will
+have the bishop pair and 3 pieces for the queen. Similarly, Black will control
+the center better than White.} (15... Qe7 16. Nxe5 $16 {White has material
+advantage and a better position, so Black avoided this continuation.}) 16. Rxd7
+Bxd7 17. Qd3 Be6 18. Nxe5 Nxe5 {Now we can asses the position. Black's pieces
+are very active with a dominant position in the center of the board. White's
+pawn structure is damaged on the queenside. The bishop on b6 is eyeballing the
+f2-pawn. On the other hand, White has his own chances thanks to his queen. The
+position is aproximately equal, but White should find counterplay in order to
+equalize the position.} 19. Qg3 Nhg4 $5 {This is an interesting try; Black
+sacrifices more material in order to destroy White's pawn structure. However,
+the continuation on the sub-variation is also good; Ng6.} (19... Ng6 $5 20.
+Bxh6 gxh6 21. h4 h5 $13 {White has some counterplay here and he manages to
+destroy Black's kingside pawn structure. The position is dynamically equal.})
+20. hxg4 Nxg4 21. Be3 (21. Qf3 Bxf2+ 22. Kh1 Bb6 $36) 21... Nxe3 22. fxe3 Rd8
+$132 {White cannot hope for much here because his pawns are destroyed and
+Black's pieces are active. The players agreed to a draw after some moves.} 23.
+Qe1 h5 24. Rd1 Rxd1 25. Qxd1 Bxa2 26. Qxh5 Bxe3+ 27. Kh1 Be6 28. Qb5 b6 1/2-1/2
+

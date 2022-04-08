@@ -1,0 +1,215 @@
+[Event "Moscow/Leningrad m"]
+[Site "Leningrad"]
+[Date "1933.12.14"]
+[Round "9"]
+[White "Botvinnik, Mikhail"]
+[Black "Flohr, Salo"]
+[Result "1-0"]
+[ECO "B13"]
+[Annotator "RCA"]
+[PlyCount "65"]
+[EventDate "1933.11.28"]
+[EventRounds "12"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 {The most Caro Kann style
+move. Because it's the only one that allows Black to develop his light-squared
+bishop that is the main idea of the Caro Kann.} 6. Bg5 {Putting pressure on f6
+and threatening to win a pawn on d5. Also this move follows the principle of
+maximum activity.} dxc4 7. d5 (7. Bxc4 {Sacrificing the "d" pawn for
+development is another alternative, and we are going to check it in another
+game.}) 7... Ne5 8. Qd4 {Principle of maximum activity and principle of an
+attack!} Nd3+ 9. Bxd3 {Only move.} cxd3 10. Nf3 {Now White doesn't hurry to
+recover the pawn: is giving preference to following the opening tasks. Black
+has the option of defending the pawn - and we should certainly analyse it.} g6
+$6 (10... Bf5 {Developing and defending was an important option.} 11. O-O {
+Finishing the opening tasks. Now Black should find a way of developing his
+pieces, especially on the king side.} e6 {Is the most natural move, but allows}
+(11... Qb6 12. Qa4+ Bd7 13. Qd1 {And White has definite compensation because
+Black hasn't developed the king side and the d3 pawn is very weak. Taking the
+b2 pawn right now is very risky. And Bf5 is faced with Nh4, recovering the
+pawn.}) 12. Qa4+ Qd7 13. Nb5 $18 {With a double threat: Nc7 and Ne5.}) 11. Bxf6
+exf6 12. O-O Qb6 (12... Be7 {Is the only move Black has, to survive.} 13. Rfe1
+O-O 14. Rad1 {And White's better, because he is going to recover the pawn with
+a better position (passed pawn, active pieces).}) 13. Rfe1+ Kd8 14. Qh4 {White
+threatening 15.Ne5.} (14. Qxd3 {Was more simple.}) 14... g5 15. Qh5 {White has
+a clear advantage. The rest was easy for Botvinik.} Bd6 16. Qxf7 Rf8 17. Qxh7
+g4 18. Nd2 Qc7 19. Qh6 Qf7 20. Nc4 Be5 21. Nxe5 fxe5 22. Qg5+ Qe7 23. Qxe5 Qxe5
+24. Rxe5 Bf5 25. Rf1 Kd7 26. f3 b5 27. fxg4 Bxg4 28. h3 b4 29. Ne4 Rxf1+ 30.
+Kxf1 Rf8+ 31. Ke1 Bf5 32. g4 Bg6 33. Re6 {What you should learn from this game:
+1. The importance of development. You may ask: "Just this?" I answer: "YES!
+It's very important to know this and to remember it all the time."} 1-0
+
+[Event "FRA-chT Top 16"]
+[Site "Asnieres sur Seine"]
+[Date "2006.05.04"]
+[Round "8"]
+[White "Adams, Michael"]
+[Black "Nikolaidis, Ioannis"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2707"]
+[BlackElo "2525"]
+[Annotator "RCA"]
+[PlyCount "57"]
+[EventDate "2006.03.03"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2006.11.23"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. a3 $1 {A
+excellent move, ignoring for a moment the opening tasks. But White needs to
+play this move to support b4 in the future, as you are going to see. I'm going
+to explain to you how to discover this move using the following understanding:
+"Black's last move demonstrates his intentions of castling queen side, because
+with Be6 blocking the "e" pawn, that is the natural move for developing the
+king side. That's why White prepares an attack on the queen side with the move
+a3".} Qd7 8. Be2 (8. Nf3 {Is the most natural move according to the principle
+of the least active piece. But it allows.} Ne4 {And after the exchange.} 9.
+Nxe4 dxe4 {Black wins a tempo attacking the f3 knight and is also a pawn up
+after} 10. d5 exf3 11. dxe6 Qxe6+ $17) 8... O-O-O 9. c5 {Now White gets queen
+side space and you can see how useful the move a3 is going to be in this
+position.} Ne4 10. Nf3 {Developing.} Nxg5 11. Nxg5 h6 12. Nf3 g5 {Black should
+attack on the king side and develop his pieces, but White's attack comes first.
+} 13. b4 g4 14. b5 $1 {An excellent intermediate move.} gxf3 15. bxc6 Qxc6 16.
+Bxf3 {White has the advantage and the plan is to push the "c" pawn in some way.
+Look how GM Adams treats the rest of the game, in a very simple way.} Bf5 17.
+O-O Rg8 18. Re1 e6 19. Rc1 h5 20. Na2 $1 {Logical move according to the plan.}
+h4 21. Rc3 f6 22. Nb4 Qb5 23. Be2 {Forcing Black's queen to adopt a passive
+situation.} Qe8 24. c6 $1 Bxb4 25. axb4 Be4 26. f3 Bf5 27. Qa4 Bh3 28. Qxa7
+Rxg2+ 29. Kh1 {What you should learn about this game: 1. The reason for the
+move a3.. 2. How to think about your plan depending on your opponent's last
+move (Be6) 3. Manoeuvre 20. Na2-b4 to help the move c6.} 1-0
+
+[Event "RUS-ch 57th"]
+[Site "Moscow"]
+[Date "2004.11.25"]
+[Round "9"]
+[White "Grischuk, Alexander"]
+[Black "Bareev, Evgeny"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2704"]
+[BlackElo "2715"]
+[Annotator "RCA"]
+[PlyCount "109"]
+[EventDate "2004.11.15"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "2005.01.27"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Bxc4 Qxd4 {
+Now Black captures the pawn but White gets a lot of development in
+compensation.} 8. Qxd4 Nxd4 9. O-O-O {Developing and attacking that is always
+ideal in the opening.} e5 10. f4 {White wants to open the position.} Bg4 11.
+Nf3 {Sacrificing another pawn to get more development and open even more the
+position.} Nxf3 12. gxf3 Bxf3 13. fxe5 {Look at White's situation - very
+comfortable and with a lot of compensation.} Bxh1 {The best move for Black.
+The other options give White a clear advantage.} (13... Nd7 14. Rhf1 $16) 14.
+exf6 Rc8 (14... h6 {Is another option.}) 15. Re1+ Kd7 16. Rd1+ $1 {To prevent
+Black from castling.} Bd6 {Now White has a great advantage.} (16... Ke8 {Was
+better.} 17. Bd3 {With a great position for White.}) 17. Be2 (17. fxg7 {Was
+better. In this kind of situation, it is difficult to explain, based on
+strategic concepts, which move is better: you need to calculate the specific
+variations.} Rhg8 18. Bd3 Bd5 19. Bh6 $16) 17... gxf6 18. Bxf6 Bg2 19. Be5 {
+Now the endgame is better for White. The rest doesn't deserve commentary.} Ke6
+20. Bxd6 Rhd8 21. Bg3 Rxd1+ 22. Kxd1 a6 23. Kd2 Kf5 24. Bd3+ Kg4 25. Nd1 Kg5
+26. Bxh7 Rf8 27. Bd3 f5 28. h4+ Kh5 29. Be2+ Kg6 30. Bf4 Be4 31. Nc3 Bc6 32. a3
+Re8 33. h5+ Kf6 34. h6 Kg6 35. Bd3 Re7 36. Bc2 Bf3 37. Bd3 Re8 38. Bc4 Bc6 39.
+Be2 Re7 40. Bd3 Re8 41. a4 Rd8 42. Ke3 Re8+ 43. Kd2 Rd8 44. Ke3 Re8+ 45. Kf2
+Rd8 46. Bc2 Re8 47. Be3 Re7 48. Ne2 Be4 49. Bb3 Re8 50. Nd4 Kh7 51. Bf4 Rc8 52.
+Nf3 Bb1 53. Ne5 Rd8 54. Bf7 Rd6 55. Be8 {What you should learn about this game:
+1. The playing style in this variation. 2. The subtle idea Re1+ followed by
+Rd1+, preventing Black from castling.} 1-0
+
+[Event "FIDE-Wch k.o."]
+[Site "Tripoli"]
+[Date "2004.06.22"]
+[Round "?"]
+[White "Ivanchuk, Vassily"]
+[Black "Harikrishna, Penteala"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2716"]
+[BlackElo "2599"]
+[Annotator "RCA"]
+[PlyCount "67"]
+[EventDate "2004.06.19"]
+[EventRounds "7"]
+[EventCountry "LBY"]
+[Source "ChessBase"]
+[SourceDate "2004.09.23"]
+
+1. c4 {Another move in order to reach a Panov position.} c6 2. e4 d5 3. exd5
+cxd5 4. d4 {The Panov was reached.} Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Bxc4 {
+Sacrificing the pawn for development} e6 {Black doesn't take the pawn. We will
+analyse this in another game.} 8. Nf3 {Developing and maximum activity.} Be7 9.
+O-O O-O 10. Rc1 {White has a more active position.} a6 11. Bd3 {This is the
+typical position for this bishop in Isolated "d" pawn positions. Because
+White's plan is to attack on the king side and this square is the best for the
+purpose of attacking h7.} Bd7 {Black's finishing his development.} 12. Re1 {
+Maximum activity.} Rc8 13. h4 {Typical move. At some point, Black should play
+g6. So White prepares to play h5 against g6. Also provides the h2 square for
+the king. But maybe this move isn't the most accurate, as it isn't really
+necessary to play it right now. Maybe something like 13. Ne5, following the
+principle of maximum activity, was better.} Nb4 14. Bb1 {In this kind of
+position, this bishop is a very important piece for three reasons: 1. First of
+all, White should avoid exchanges because all the endings favour Black. 2.
+Controls a lot of important squares (c4,d5,e4). 3. Helps White attack the king
+side.} Bc6 15. Ne5 {Following the principle of maximum activity.} g6 16. Qb3 {
+Developing the queen and attacking the b4 knight. This move sacrifices the d4
+pawn and Black didn't capture it.} Nbd5 (16... Qxd4 $5 17. Rcd1 Qc5 18. Nxc6
+Nxc6 19. Bxf6 Bxf6 20. Ne4 Qe5 21. Nxf6+ Qxf6 22. Qxb7 $13) 17. Nxc6 {A
+typical move. Now Black is going to have a weak pawn on the c6 square.} bxc6
+18. Na4 {Going to the c5 square.} Nd7 19. Qg3 Bxg5 20. hxg5 Qa5 21. b3 Rfd8 22.
+Be4 Qd2 23. Red1 Qb4 24. Bxd5 $1 {Great understanding by GM Ivanchuk. White
+has the advantage now! The rest is instructive but doesn't deserve commentary
+because it's out of our subject.} cxd5 25. Rc7 Rxc7 26. Qxc7 Qb8 27. Rc1 Qa8
+28. Rc6 Nf8 29. Nc5 e5 30. Rf6 exd4 31. Qxf7+ Kh8 32. Rxa6 Qb8 33. Ra7 Qe5 34.
+Nd3 {What you should learn from this game: 1. The importance of the
+light-squared bishop in the Isolated "d" pawn positions. 2. The strategic idea
+of the move 17.Nxc6.3. A little bit about how to play positions with an
+isolated "d" pawn.} 1-0
+
+[Event "Yerevan ol (Men)"]
+[Site "Yerevan"]
+[Date "1996.??.??"]
+[Round "10"]
+[White "Ehlvest, Jaan"]
+[Black "Granda Zuniga, Julio E"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2660"]
+[BlackElo "2610"]
+[Annotator "RCA"]
+[PlyCount "57"]
+[EventDate "1996.09.??"]
+[EventRounds "14"]
+[EventCountry "ARM"]
+[Source "ChessBase"]
+[SourceDate "1996.11.15"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6 {White should
+wait until Black has played e6 before playing c5. Now we get the pawn
+structure that we already learned how to play in the 5...e6 variation.} 7. c5
+h6 8. Bxf6 (8. Bf4 {Putting the bishop in this "super square" was another
+interesting alternative. You already know the power of the bishop placed here.}
+) 8... Qxf6 9. Bb5 {The typical square for the bishop here, indirectly
+controlling the e5 square.} g6 10. Nf3 Bg7 11. Qd2 Bd7 12. Rd1 {Providing the
+d4 pawn with super protection.} O-O 13. O-O {White simply develops his pieces
+and has the typical advantage of this pawn structure.} Qd8 14. Rfe1 b6 15. Bxc6
+Bxc6 16. b4 {Getting the protected passed pawn.} bxc5 17. bxc5 Rb8 18. Ne5 Be8
+19. f4 {White has a clear advantage here. The rest was easy for GM Ehlvest,
+because Black's bishop pair is inferior to White's knights and the "c" pawn
+gives White a strategic advantage. Also Black has nothing to do.} f6 20. Nd3
+Bf7 21. Rb1 g5 22. Rxb8 Qxb8 23. Rb1 Qc8 24. Nb5 Bg6 25. Nd6 Qa6 26. Nb4 Qa5
+27. f5 exf5 28. Rb2 Rd8 29. Nb7 {What you should learn about this game: 1.
+It's mainly to review the things that we learnt in the 5...e6 variation. 2.
+You must remember to play c5 if Black plays e6 with the light-squared bishop
+inside the pawn chain e6-d5.} 1-0
+

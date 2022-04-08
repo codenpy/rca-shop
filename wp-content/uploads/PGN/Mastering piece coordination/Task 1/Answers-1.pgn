@@ -1,0 +1,223 @@
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.08"]
+[Round "4.18"]
+[White "Mamedov, Rauf"]
+[Black "Tikkanen, Hans"]
+[Result "1-0"]
+[ECO "B15"]
+[WhiteElo "2701"]
+[BlackElo "2510"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "2019.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Ne2 Re8 9. Qc2 h5 10. Be3 Nd7 11. Ng3 Nf8 12. O-O-O g6 13. Ne4 Be7 14. Kb1 f5
+15. Nd2 Be6 16. h3 b5 17. g4 fxg4 18. hxg4 hxg4 19. Bf4 Bg5 {Diagram #} 20. Be5
+$1 {White avoids the exchange and he is coordinating his pieces in order to
+attack the enemy king. A lot of white pieces are looking at Black's kingside.
+Right now, White is threatening checkmate on h8; so, he should defend himself.}
+(20. Bxg5 $5) (20. Bg3 $5) 20... f6 21. f4 $1 {It was important to foresee
+this active move before placing the bishop on e5. When you're puting a piece
+actively in the center of the board, you don't like to allow your opponent to
+kick it right in the next move. For that reason, White played this counterblow,
+attacking the g5-bishop.} gxf3 (21... fxe5 22. fxg5 Qxg5 (22... exd4 23. Ne4
+$40) 23. Ne4 $40) 22. Nxf3 $1 {This is a fantastic move because White is
+sacrificing a piece in order to coordinate his pieces against the enemy king.
+In chess, the entertaining thing is to attack the enemy king, am I right?} fxe5
+23. Bxg6 Qf6 (23... Nxg6 24. Qxg6+ Kf8 25. Nxg5 {It is mate in 6 moves...}) 24.
+Be4 $18 {White clears Black's pawn cover, and now he can continue his attack.
+He has a winning position and he manages to collect the full point afterwards.}
+Bg4 $18 25. Nxg5 Qxg5 26. Rdg1 Kf7 27. Bf3 Bf5 28. Rxg5 Bxc2+ 29. Kxc2 exd4 30.
+Bxc6 Re2+ 31. Kd1 Rxb2 32. Bxa8 dxc3 33. Rf1+ Ke7 34. Rg7+ 1-0
+
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.08"]
+[Round "4.6"]
+[White "Yu, Yangyi"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[ECO "E21"]
+[WhiteElo "2761"]
+[BlackElo "2633"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "132"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. cxd5 exd5 6. Qa4+ Nc6 7. Bg5 h6 8.
+Bxf6 Qxf6 9. e3 O-O 10. Be2 Be6 11. O-O a6 12. Rfc1 Bd6 13. Qd1 Ne7 14. Na4 b6
+15. b4 a5 16. b5 g5 17. Nb2 Ng6 18. Nd3 Rae8 19. Nfe1 h5 20. Bxh5 Kg7 21. h3
+Rh8 22. Bg4 Bxg4 23. hxg4 {Diagram #} (23. Qxg4 Re4 24. Qd1 g4 $40) 23... Rxe3
+$3 {This is an amazing sacrifice, but it is working because all of Black's
+pieces are focusing on the kingside. They are active and coordinate for the
+same purpose, to attack the enemy king.} (23... Qe6 $5) (23... Bh2+ $5) 24. Rc6
+(24. fxe3 {White cannot accept the sacrifice because he will be checkmated in
+two moves.} Rh1+ 25. Kxh1 Qf1#) 24... Bh2+ 25. Kf1 Bg3 {Black is using his
+advanced pieces and important squares around the enemy king. The e3- and
+g3-squares are important for Black's pieces and he can use it thanks to the
+f2-pinned pawn.} 26. Kg1 Bh2+ 27. Kf1 Bg3 28. Kg1 Qxd4 $3 {Black is using his
+active pieces in order to create problems to the enemy king. Unfortunately,
+White cannot use either his rook or bishop. Black has a very strong attack,
+and he manages to win the game afterwards.} 29. Nc2 (29. fxe3 Qxe3+ 30. Kf1
+Rh1#) (29. fxg3 Rxe1#) 29... Bh2+ 30. Kh1 Bf4+ 31. Kg1 Bh2+ 32. Kh1 Bf4+ 33.
+Kg1 Qxd3 34. Nxe3 Bh2+ 35. Kh1 Be5+ 36. Kg1 Bh2+ 37. Kh1 Qxb5 38. Rac1 Bg3+ 39.
+Kg1 Bh2+ 40. Kh1 Ne7 41. g3 Nxc6 42. Nf5+ Kf8 43. Kg2 Bxg3 44. Nxg3 Rh6 45. Nf5
+Re6 46. Qf3 Qb2 47. Rh1 Ne7 48. Qg3 Nxf5 49. gxf5 Re2 50. Qf3 Qe5 51. f6 Ke8
+52. Rh8+ Kd7 53. Rf8 Qe6 54. Qh5 Qe4+ 55. Qf3 Qxf3+ 56. Kxf3 Rxa2 57. Rxf7+ Ke6
+58. Rxc7 Kxf6 59. Rc6+ Kf5 60. Rxb6 Ra3+ 61. Ke2 a4 62. Rd6 Ke4 63. Re6+ Kd4
+64. Rg6 Ra2+ 65. Kf3 a3 66. Rxg5 Rc2 0-1
+
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.09"]
+[Round "5.17"]
+[White "Amin, Bassem"]
+[Black "Grandelius, Nils"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2709"]
+[BlackElo "2694"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "73"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nge7 7. Bg5 f6 8.
+Bh4 a5 9. Bb5 Ne5 10. f4 N5g6 11. Bg3 c6 12. Bc4 Bc7 13. Qf3 b5 14. Bd3 a4 15.
+Nd4 a3 16. b4 O-O 17. Nce2 Qe8 18. O-O Bb6 19. Kh1 d6 20. c4 bxc4 21. Bxc4+ Kh8
+22. Rad1 f5 {Diagram #} 23. exf5 $5 {A very nice move; White is fighting for
+the central squares. He would like to activate his pieces in the center and,
+more specifically, is flirting with the e6-square.} (23. Bd3 $5) (23. Nxf5 $5)
+23... Bxf5 (23... d5 $5 24. fxg6 dxc4 25. gxh7 {Black has compensation for the
+two sacrificed pawns, and the position is playable for both sides.}) (23...
+Nxf5 $6 24. Nxf5 Bxf5 25. Rxd6 $14) 24. Bf2 {White is preparing a tactical
+trick, to capture on f5, and then, the unprotected bishop on b6. Black
+sacrificed a pawn, but it wasn't the best decision. In general, we should keep
+the same material on the board or sacrifice it for very specific reasons.} Rb8
+$6 (24... Bd7 $5) 25. Qxa3 Be4 26. Ne6 $16 {White has a fantastic piece
+activity: he controls the center, he is a pawn up and the e6-knight is
+extremely active. White uses his advantage in order to win the game afterwards.
+} Rf6 27. Bxb6 Nh4 28. Rf2 Rxb6 29. Rxd6 Rb8 30. Ng3 Qg6 31. Qa7 Re8 32. Nxe4
+Nc8 33. Nxf6 gxf6 34. Qd7 Nxd6 35. Qxd6 Nxg2 36. f5 Qg4 37. Qg3 1-0
+
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.09"]
+[Round "5.19"]
+[White "Fawzy, Adham"]
+[Black "Smith, Axel"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "2461"]
+[BlackElo "2487"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "154"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Be7 6. Nc3 Bf6 7. h3 Ne7 8.
+Ne2 c5 9. d3 Nc6 10. c3 O-O 11. Be3 b6 12. Qc2 Re8 13. Rad1 Qe7 14. Rfe1 Bb7
+15. Ng3 g6 16. Nh2 Rad8 17. Bh6 Bg5 18. Bxg5 Qxg5 19. Ng4 Rd6 20. Ne3 Nd8 21.
+a3 Ne6 22. b4 Red8 23. Kh2 Nf4 24. bxc5 bxc5 25. Nc4 {Diagram #} Rxd3 $5 {
+Black had other interesting options here, but this was a very fighting move!
+Black sacrifices material in order to fully activate his pieces and create an
+attack against the enemy king. Please notice that the combination of Qg5 and
+Nf4 is fantastic.} (25... R6d7 $5) (25... Nxd3 $5) 26. Rxd3 Rxd3 27. Qb3 h5 $1
+{Black's bishop is under attack on b7, but Black continues the game with a
+counterblow. The g3-knight is pinned because Black's queen and knight are
+attacking the g2-square. If the g3-knight is removed, then the Qg2 mate will
+follow. The move which was played in the game is difficult and, if you like to
+find similar moves, first of all, you should believe in your pieces. Please
+also notice which square your pieces are coordinated in. And, last but not
+least, you should follow your plan at any cost, insist on it and try to
+promote your ideas.} 28. Qxb7 h4 29. Ne3 hxg3+ 30. fxg3 Nxh3 $1 {Both
+sacrifices were correct; Black has completely opened White's position by
+destroying the pawn cover. Similarly, he opened the c1-h6 diagonal in order to
+capture the e3-knight.} (30... Nxg2 $1 31. Kxg2 Rxe3 $19) 31. Qc8+ Kg7 32. Ng4
+(32. Kxh3 Qh5#) (32. gxh3 Rxe3 $19) 32... Nf4 $1 $18 {The final killing move!
+The knight is a taboo because, if White accepts it, then Black will have
+access to the h4-square with devastating consequences, as you can see in the
+sub-variation. Black has a clear advantage here and a strong attack; so, he
+manages to win the game afterwards.} 33. Ne3 (33. gxf4 Qh4+ 34. Kg1 Qxe1+ 35.
+Kh2 Qg3+ 36. Kg1 Rd1#) 33... Ne2 34. Rxe2 Qh5+ 35. Qh3 Qxe2 36. Ng4 Rd6 37.
+Qh6+ Kg8 38. Qg5 Qxe4 39. Nf6+ Rxf6 40. Qxf6 Qe3 41. Qxa6 Qxc3 42. a4 Kg7 43.
+Qa8 c4 44. a5 Qa1 45. a6 c3 46. Qc6 Qb2 47. a7 c2 48. Qxc7 c1=Q 49. Qxc1 Qxc1
+50. a8=Q Qh6+ 51. Kg1 Qe3+ 52. Kh2 Qh6+ 53. Kg1 Qe3+ 54. Kh2 Qd4 55. Qe8 e4 56.
+Qe7 e3 57. Qe8 Qd2 58. Qe5+ Kh7 59. Qe7 Kg8 60. Qe8+ Kg7 61. Qe5+ Kf8 62. Qb8+
+Ke7 63. Qe5+ Kd7 64. Qb5+ Kd6 65. Qb8+ Kc5 66. Qc7+ Kd4 67. Qd8+ Kc4 68. Qc8+
+Kb3 69. Qb7+ Kc2 70. Qc6+ Qc3 71. Qa4+ Kc1 72. Qf4 f5 73. Qf1+ Kd2 74. Qf4 Ke1
+75. Qf3 Qh8+ 76. Kg1 Qd4 77. Kh2 Qe4 0-1
+
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.12"]
+[Round "7.11"]
+[White "Howell, David W L"]
+[Black "Fawzy, Adham"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2693"]
+[BlackElo "2461"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "2019.??.??"]
+
+1. Nf3 c5 2. c4 Nc6 3. e3 e5 4. Nc3 d6 5. d4 cxd4 6. exd4 Bg4 7. Be2 f5 8. d5
+Bxf3 9. gxf3 Nce7 10. h4 g6 11. h5 Bh6 12. f4 Nf6 13. hxg6 Bxf4 14. Bxf4 exf4
+15. gxh7 Qb6 {Diagram #} 16. Qb3 $5 {This is not a bad decision at all;
+however, when you are going to attack the enemy king, you should keep the
+queens on the board. I can totally understand White's player: he has the
+advantage and a good control of the center; so, you can have a smaller but
+permanent initiative. In conclusion, this is a good practical decision as well.
+} (16. Qd2 $5 Ne4 17. Nxe4 fxe4 18. Bg4 $18 {Black is undeveloped, so he faced
+huge problems. His king's position is unsecure and the h7-pawn is powerful.}) (
+16. Rh6 $5 Rxh7 17. Rxf6 Qxb2 18. Rc1 O-O-O 19. Bf1 Re8 20. Re6 $18 {Black
+cannot create any real threats here; however, White's position is not very
+well coordinated yet. White needs some time in order to organize his pieces.})
+(16. Qa4+ $5 Kf7 17. O-O-O Qxf2 {White is clearly better here because he has
+very active pieces and Black's king is not in a secure position; however, it's
+not totally clear how to continue. The knights are protecting the king very
+well.}) 16... Qd4 17. Nb5 {Black feels the pressure and, for that reason, he
+tries to keep the queens on the board. However, this makes the situation even
+worse for him because White is very active and attacks Black's weaknesses with
+his pieces.} Qb6 18. Qc3 $18 {Black's main problem is that his pieces are not
+protected by the pawns, so they are vulnerable. Similarly, Black's pawn
+structure is destroyed and White's active queen can find a lot of targets.
+White has a clear advantage, and he manages to win afterwards.} Kf7 19. Bh5+
+Nxh5 20. Rxh5 Raf8 21. O-O-O Qxf2 22. Nxd6+ Kg6 23. Rhh1 Qe3+ 24. Kc2 Qxc3+ 25.
+Kxc3 Kg7 26. Nxb7 Ng6 27. d6 Ne5 28. d7 Nf7 29. c5 1-0
+
+[Event "World Team Championship (men)"]
+[Site "Astana"]
+[Date "2019.03.12"]
+[Round "7.12"]
+[White "Hesham, Abdelrahman"]
+[Black "Jones, Gawain C B"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2450"]
+[BlackElo "2681"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "98"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Qd6 10. Nb5 Qd7 11. Bh6 {Diagram #} Bxh6 12. Qxh6 a6 13. Nc3 Nxd4
+14. f4 f6 15. Nf3 {Diagram #} e5 $1 {Black took the best decision, giving back
+the extra pawn. The king's safety is very important; thus, he stops now
+White's attack.} (15... c5 16. h4 $36 Qg4 17. Nxd4 $14) 16. fxe5 fxe5 17. Nxe5
+Qd6 18. Nc4 (18. Nf3 c5 $132 {The position is still complicated; however, the
+d4-knight is in a powerful position, protected by the c5-pawn, and Black can
+continue developing the rest of his pieces.}) 18... Qc5 19. Nxb6 cxb6 {Now
+Black starts taking the initiative because White's king is not secure, the
+e4-pawn is isolated and in the same color of the f1-bishop. The position is
+about equal, but Black's chances are a little bit preferable because his
+pieces are organized better and have better potentials. For example, he can
+play b5 and b4, kicking out the c3-knight. The rooks can penetrate on f2 and
+c8, and he can control the open files. After the big fight, Black manages to
+win the game.} 20. Kb1 Be6 21. Qe3 Rad8 22. Bd3 Nc6 23. Qg3 Qf2 24. Qg5 Nb4 25.
+Rhf1 Qc5 26. Rxf8+ Rxf8 27. Qg3 b5 28. Nd5 Bxd5 29. exd5 Qxd5 30. b3 Nxd3 31.
+Rxd3 Qe4 32. Kb2 Qe2+ 33. Ka3 a5 34. Qd6 b4+ 35. Ka4 Qxa2+ 36. Kb5 Qxg2 37.
+Qe6+ Rf7 38. Kxa5 Qxh2 39. Rd7 Qf4 40. Rxb7 Qf5+ 41. Qxf5 Rxf5+ 42. Kxb4 h5 43.
+Kc4 h4 44. Re7 g5 45. b4 h3 46. Re2 g4 47. b5 g3 48. b6 Rf7 49. Re8+ Kg7 0-1
+

@@ -1,0 +1,178 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.05.18"]
+[Round "?"]
+[White "4.e3 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "E41"]
+[Annotator "RCA"]
+[PlyCount "36"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 {This is the move if you want to play
+in the spirit of how Nimzowitch liked to play the Nimzo, i.e. give White
+doubled pawns and then play on them and not undouble them by playing d5. This
+line guarantees such strategically rich positions that it will definitely help
+any player to improve his understanding of the game of chess! From this
+position, there are basically three set-ups for White: 1. with Nge2 and later
+play a3; 2. with Bd3 and Nge2; 3.with Bd3 and Nf3, which is the most popular.}
+5. Bd3 {This is the most natural way to develop.} (5. Nge2 {Has become very
+popular in recent times.} b6 $5 {I like the treatment of this position.} 6. a3
+Ba5 7. Rb1 {The threat is now to win the a5 bishop with b4.} (7. d5 {Is not so
+popular. It's quite early for White to make this move, as he is behind in his
+development.} exd5 8. cxd5 O-O 9. Ng3 Bb7 10. e4 Re8 11. Bd3 (11. Be2 Nxe4 12.
+Ngxe4 Rxe4 13. O-O (13. b4 Rd4) 13... Bxc3 14. bxc3 d6 $15) 11... Nxd5 $17)
+7... Na6 {Here White has a few possibilities.} 8. Bd2 {Is by far the main line.
+} (8. g3 {Is logical to post the bishop on the long diagonal, but Black is
+ready to face it.} Bb7 9. d5 {Taking on d5 would lead to Benoni structures -
+which would be quite fine for White. As White is a little bit behind in
+development, it makes sense to blast open the centre with...} b5 $1 {
+Undermining the central control.} (9... exd5 10. Bg2 O-O 11. O-O Bxc3 12. Nxc3
+Nc7 13. cxd5 $14 {Gives White quite a pleasant position.}) 10. Bg2 (10. cxb5
+Bxd5 $15) 10... bxc4 11. O-O O-O 12. e4 exd5 {White now has two moves - ed5 or
+e5.} 13. exd5 (13. e5 Ng4 14. Bxd5 (14. Nxd5 Nxe5 15. Ne7+ (15. Bf4 Re8 16.
+Ne7+ Qxe7 17. Bxb7 Rab8 18. Bxa6 Rb6 19. Bxe5 Rxa6 20. Bc3 Qxe2 21. Qa4 Bxc3
+22. Qxa6 Bxb2 $11) 15... Qxe7 16. Bxb7 Rab8 17. Bxa6 Nf3+ 18. Kh1 Qe4 $17 {
+Attacking the b1 rook and the king, black is just better.}) 14... Bc6 $1 {This
+position will be further explained in the annotated games section,
+Martinovic-Zelcic.} 15. Bf4 (15. f4 Nc7 16. Bxc6 dxc6 17. Qxd8 (17. Qa4 Bxc3
+18. bxc3 (18. Nxc3 Qd4+) 18... Qd3 $17) 17... Raxd8 18. h3 Nh6 19. f5 Rd3 20.
+f6 Re8 21. fxg7 Bxc3 22. bxc3 Kxg7 (22... Rxe5 23. Bxh6 Rxe2 24. Rxf7 Rxg3+ 25.
+Kf1 Kxf7 26. Kxe2 Ne8) 23. Nf4) 15... Re8 16. Bxc6 dxc6 17. Qa4 Nxe5 18. Bxe5
+Rxe5 19. Rfd1 (19. Qxc4 Nc7 20. Rfd1 Qe8 21. Nf4 Nb5 22. a4 Bxc3 23. axb5 Bd4
+24. bxc6 Re4 25. Rxd4 Rxd4 26. Qxc5 Qe4 $15) 19... Qb6 20. Qxc4 Qb7 21. Nf4
+Rae8 22. Nd3 R5e6 23. Nxc5 Nxc5 24. Qxc5 Bb6 25. Qc4 $11) 13... d6 14. Qa4 Bb6
+(14... Bxc3) 15. Qxc4 Nc7 16. Bf4 Ba6 17. Qa4 Re8 18. Rfe1 c4 19. Rbd1 Ng4 $17)
+(8. Qa4 {White again threatens to play b4 and trap our bishop. But we can play
+quite smartly here.} Bb7 $1 {Not worrying about the trap.} 9. Bd2 (9. b4 {
+Looks pretty natural to trap the bishop - and it was played against me by
+Bhakti Kulkarni in June 2013, but is met by...} Bc6 $1 {The queen cannot
+retreat now, as the b4 pawn will fall.} 10. b5 Be4 $15 {Black has saved his
+bishop and, after White moves his rook, Black will play Nc7 - when the bishop
+on a5 will be extremely well placed!} 11. Ra1 cxd4 12. exd4 {And now for the
+stunning move which gives Black almost a winning position...} e5 $3 $17) 9...
+Qe7 {More control on b4. White now has to develop his f1 bishop; he has to
+play Ng3, as Nf4 is strongly refuted by cd4 ed4 and e5.} 10. Ng3 (10. Nf4 cxd4
+11. exd4 e5 $17) 10... O-O 11. b4 (11. Bd3 $2 Bxg2 12. Rg1 Bc6 13. Qc2 g6 $17 {
+Black has won a pawn and White has no compensation.}) (11. d5 Bxc3 12. Bxc3 Nc7
+$11) 11... cxb4 12. Nb5 {Now taking ba3 is also fine - but we can play a
+better move, i.e.} Be4 $1 13. Nxe4 (13. Rc1 Bg6 14. axb4 Nxb4 $15) 13... Nxe4
+$15 14. Bxb4 (14. axb4 Nxd2 $19) 14... Nxb4 15. axb4 a6 {Now White cannot move
+the knight, as Nc3 will be an annoying fork. So he is forced to take the
+bishop.} 16. bxa5 axb5 {White cannot even take the pawn on b5, as it results
+in a fork with Nc3, no matter in whichever way he takes.} 17. Qc2 f5 18. Bd3 (
+18. axb6 Qa3 $17) 18... bxc4 19. Bxe4 fxe4 20. axb6 d5 21. O-O Rfb8 $11 {Black
+has a fine position.}) (8. Ng3 Bb7 9. Bd3 Bxg2 {Taking the pawn now is fine
+because he hasn't played Bd2 yet.} 10. Rg1 Bb7 11. Bd2 O-O 12. d5 Ne8 {We
+revert back into the main line.}) (8. Nf4 Ne4 $1 {Is a good way to take
+advantage of the fact that c3 knight has lost its defender from e2.} (8... Bb7
+{Is also not bad.}) 9. Bd2 Bxc3 10. Bxc3 Bb7 11. Qc2 Nxc3 12. Qxc3 cxd4 13.
+exd4 O-O $11) 8... Bb7 9. Ng3 (9. b4 cxb4 10. Nb5 Qe7 11. axb4 Nxb4 12. Nc7+
+Kd8 13. Nxa8 Nd3# {Is worth avoiding if you are White.}) (9. Nf4 cxd4 10. exd4
+Bxc3 11. bxc3 (11. Bxc3 Ne4 12. Qc1 (12. Qc2 Qf6 $15) 12... Nxc3 13. Qxc3 (13.
+bxc3 e5 $1 $15) 13... O-O 14. Be2 d5 15. cxd5 Nc7 $5 {Trying to make use of
+the lead in development.} 16. dxe6 Qd6 17. Qe3 fxe6 $15) 11... O-O 12. Bd3 e5 {
+Keep in mind this break when your opponent captures on c3 with the 'b' pawn.}
+13. dxe5 Re8 14. O-O Rxe5 $11) 9... O-O 10. Bd3 d5 {Is an excellent way to get
+a safe position. I tried to analyse the pawn grab with Bg2 instead of d5, but
+it just seemed that White was getting too much play. However, the analysis of
+this line you can find in the game Socko-Moiseenko.} 11. cxd5 cxd4 $1 12. exd4
+Bxc3 13. bxc3 Qxd5 $11 14. f3 e5 $1 {Annotated game Olliver-Salgado Lopez.})
+5... Nc6 6. Nf3 (6. Nge2 cxd4 7. exd4 d5 8. cxd5 Nxd5 9. O-O O-O 10. Bc2 (10.
+a3 {Will transpose into the game most of the times.}) 10... Bd6 11. Ne4 Be7 12.
+a3 {White has to make this move to prevent Nb4 in reply to Qd3.} Qc7 $1 {This
+plan was originated by Ivanchuk, who wanted to place his rook on d8 to
+pressurise the 'd' pawn.} 13. Qd3 Rd8 {Rogers-Ivanchuk and Milov-Gelfand are
+two wonderful examples of the viability of this position for Black. We shall
+analyse this position further in Rogers-Ivanchuk}) 6... Bxc3+ $1 {You might be
+wondering why it is that Black specifically took the knight on this move
+unprovoked and not two moves earlier? What difference does it make? The answer
+is that the f3 knight is not so well placed. White would very much want to
+play f4 but the knight being on f3 it will waste a tempo in moving away, and
+that tempo is the precise reason why we take on c3 without being forced to by
+the move a3 and enter the BLOCKADE SYSTEM' - also known as the Huebner wall.}
+7. bxc3 d6 {After Black has exchanged his dark-squared bishop, he goes about
+setting up pawns on dark squares so that his remaining bishop is unimpeded.
+White has a variety of plans, but Black's remains one and the same: place his
+pawns on the opposite colour to his bishop and then try to keep the centre
+closed. If the centre remains closed, then Black's knights will turn out to be
+superior than White's bishops. The most important thing to remember is 'BLACK
+WANTS THE CENTRE TO REMAIN CLOSED AND WHITE WANTS IT OPEN. THE PLAYER WHO
+EMPLOYS HIS PLAN SUCCESSFULLY IS THE WINNER'.} 8. e4 {Once White makes this
+move, we move into the blockade of the centre.} (8. O-O e5 9. Nd2 {This
+approach is advocated by Ivan Sokolov. He likes to keep the centre fluid
+rather than blocked - and later tries to open it with f4.} (9. dxe5 {Looks
+pretty silly when you see the terrible state of the 'c' pawns - but it has
+specific aims in mind, that is, trying to exploit the slight lead in
+development and also trying to open the position when you have the bishop pair.
+} dxe5 10. Qc2 O-O 11. Ng5 {Well, White now wants to reroute his knight to e4
+and then, after Ne4 Be4, wants to plonk his bishop into the strong d5 square
+where it will rule like a king.} Kh8 $1 {A novelty by Roman Dzindzichashivili.
+Now taking on h7 isn't possible and Black gets a favourable version of all the
+above variations.} (11... g6 $6 12. f4 {With the weakening of the dark squares
+around the Black king, this move gains in strength and I guess White enjoys an
+advantage}) (11... h6 $6 12. Ne4 Nxe4 13. Bxe4 $14 {Now the bishop comes into
+d5 followed by e4 - and White has all that he desires.}) 12. Ne4 {But what
+about this move? Well, here's the point...} (12. Nxh7 Nxh7 13. Bxh7 g6 14. Bxg6
+fxg6 15. Qxg6 Qe7 {And again White is worse.} (15... Qf6 {With a winning
+position for Black.})) (12. Bxh7 g6 13. Bxg6 fxg6 14. Qxg6 Qe7 {And again,
+White's sacrifice can at best be termed 'dubious' and three pawns look
+insufficient.}) (12. f4 h6 13. Ne4 exf4 14. exf4 b6 {Looks better.} 15. Rd1
+Nxe4 16. Bxe4 Qf6) 12... Bf5 $1 {And now Nf6 doesn't come with a check! So
+Black exchanges pieces, which always accentuates the weaknesses in White's
+camp.} 13. Nxc5 Bxd3 14. Nxd3 e4 15. Nb4 {Black seems to have enough
+compensation because of the whole on d3 and poor pawn structure for White.} Ne5
+{With more than sufficient compensation for the pawn.}) (9. d5 {Looks pretty
+natural, but may not be White's best effort because he doesn't want to block
+the centre.} Ne7 10. Qc2 {Trying to keep the diagonal open looks logical, but
+the c1 bishop isn't feeling too happy about it.} (10. e4 h6 $1 {A little pawn
+move which lays the foundation of the plan for Black. White wants to open the
+position using an f4 break. What Black does is to play g5 followed by Ng6,
+when playing f4 will be a distant possibility. Black has a comfortable game
+after this little pawn push.} 11. Nh4 g5 $1 {A move based on precise
+calculations and the right timing.} 12. Nf5 Nxf5 13. exf5 e4 $1 {If it were
+not for this move, then Black would be severely cramped. Now I think he has
+the advantage.} 14. Re1 (14. Bxe4 Nxe4 15. Re1 Bxf5 16. f3 Qe7 17. fxe4 Bxe4
+$17 {And with f5 coming up, the pin on the 'e' file is not dangerous.}) 14...
+Bxf5 15. f3 Qe7 16. fxe4 Bg6 $15) 10... O-O 11. Nh4 $2 {With the idea of f4
+and Black's aim of keeping the position closed could not be fulfilled. But
+tactics come to Black's rescue. Try to find Black's best move!} (11. Nd2 {
+Since Nh4 doesn't work well, White moves the knight to d2. Again, White has f4
+on the agenda.} g6 $5 {Directed against f4.} 12. f4 exf4 13. exf4 (13. Rxf4 Nf5
+{/\Ng7-Ngh5.}) 13... Bf5 $1 {It's all about strategy. The active bishop is
+exchanged, the pawn on f4 is blocked and bishop on c1 is rendered bad.} 14.
+Bxf5 Nxf5 $15 {With a clear advantage to Black.}) 11... e4 $3 12. Bxe4 (12. Be2
+g5 {Knight is trapped.}) 12... Nxe4 13. Qxe4 g5 {How many times do I have to
+say: 'knights on the rim are dim!'} 14. Nf3 Bf5 {And suddenly the majestic
+dame sitting on the most central square has run out of space!}) 9... O-O $1 10.
+Rb1 (10. Nb3 b6 11. f4 e4 $1 $11 {The position remains closed and Black's
+chances aren't worse. For more info., look into the game Johner-Nimzowisch 
+(it's a classic), where Nimzowitsch shows the right way to go about it in such
+structures! Nimzo planned Qd7-f5 followed by pawn to h5 and placed his queen
+on h7, and then brought his knight to f5 via e7 and started a brilliant king
+side attack.}) (10. d5 Ne7 11. Qc2 {White wants to break open with f4. So
+Black must be ready with...} g6 $1 12. f4 exf4 13. exf4 Bf5 $11) 10... b6 11.
+h3 {To prevent Ng4 ideas when White goes f4.} (11. f4 exd4 12. cxd4 cxd4 13. e4
+Re8 {/\ Bb7 Nd7-c5.}) 11... cxd4 12. cxd4 exd4 13. exd4 (13. e4 Re8 $15) 13...
+d5 $5 14. Re1 Ba6 {With the idea of Na5. Black equalises this position.} 15.
+Bf1 Na5 16. c5 Bxf1 17. Nxf1 Nc4 18. Bg5 h6 19. Bh4 Rc8 20. cxb6 axb6 21. Qf3
+Rc6 $11) 8... e5 9. d5 {Black should be very happy, because White usually
+wants to keep the central tension alive and Black wants White to define the
+central structure. After d5, the structure has been closed and Black's knights
+can do a better job than White's bishops.} Ne7 10. Nh4 h6 $1 {The idea is to
+play g5 now.} 11. f4 (11. f3 {This move is played so that when White plays Nf5
+and Black takes it off, he cannot play e4.} Qa5 12. Qc2 g5 13. Nf5 Nxf5 14.
+exf5 Bd7 15. h4 g4 16. fxg4 Nxg4 17. Be2 Rg8 18. Bxg4 Rxg4 19. Bxh6 Bxf5 20.
+Qxf5 Qxc3+ 21. Kf2 Qb2+ 22. Ke3 Rxg2 {0-1 Donner,J (2470)-Portisch,L (2640)}) (
+11. O-O g5 12. Nf5 Nxf5 13. exf5 e4 $15) 11... Ng6 $1 {This was Fischer's
+brilliant idea in his 1972 World Championship match against Spassky.} (11...
+exf4 12. Bxf4 g5 $6 13. e5 $1 $14 {And White is better in this position.}) 12.
+Nxg6 fxg6 13. O-O (13. fxe5 dxe5 {This position is further analysed in the
+annotated games section, in Spassky-Fischer.}) 13... O-O 14. f5 {Has taken
+over as the new move, but with a few energetic blows White gets an interesting
+position.} b5 $1 15. cxb5 (15. g4 bxc4 16. Bc2 $13 (16. Bxc4 Nxe4 $17)) 15...
+c4 16. Bc2 gxf5 17. exf5 {Unzicker-Timman} Qb6+ $1 18. Kh1 Qxb5 {And White's
+pawns really look like ripe apples - ready to be plucked!} *
+

@@ -1,0 +1,161 @@
+[Event "WchT U26 fin-A 05th"]
+[Site "Varna"]
+[Date "1958.??.??"]
+[Round "2"]
+[White "Bobotsov, Milko G"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "E81"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "60"]
+[EventDate "1958.07.09"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+[WhiteTeam "Bulgaria"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "BUL"]
+[BlackTeamCountry "URS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c5 7. Be3 Nbd7 8. Qd2
+a6 9. O-O-O {Diagram #} Qa5 $5 {In an opposite side castling, it's normal to
+attack the enemy king. Black has plenty of ideas to do it here; however, Tal
+chooses the most straightforward move, 9.Qa5. White cannot play Nd5
+immediately because the queen can capture on d2 with check.} (9... b5 $5) (9...
+b6 $5) (9... Qc7 $5) (9... Rb8 $2 10. dxc5 dxc5 11. e5 $1) 10. Kb1 b5 $5 {
+This is a very risky idea which Tal has foreseen before playing Qa5. His idea
+was to sacrifice his queen in order to create heavy problems in White's
+position.} 11. Nd5 Nxd5 12. Qxa5 Nxe3 13. Rc1 Nxc4 $44 {The computer analysis
+shows that White has a clear advantage here; however, in a practical game it's
+very difficult to play because one doesn't have any active moves. Black can
+develop his attack very naturally, and the g7-bishop is without its
+counterpart. For that reason, White sacrifices the Exchange here.} 14. Rxc4 (
+14. Qe1 $14) 14... bxc4 {
+Now the b-line is open, and Tal manages to win a beautiful game afterwards.}
+15. Nc1 Rb8 16. Bxc4 Nb6 17. Bb3 Bxd4 18. Qd2 Bg7 19. Ne2 c4 20. Bc2 c3 21. Qd3
+cxb2 22. Nd4 Bd7 23. Rd1 Rfc8 24. Bb3 Na4 25. Bxa4 Bxa4 26. Nb3 Rc3 27. Qxa6
+Bxb3 28. axb3 Rbc8 29. Qa3 Rc1+ 30. Rxc1 Rxc1+ 0-1
+
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1959.??.??"]
+[Round "7"]
+[White "Tal, Mikhail"]
+[Black "Keller, Dieter"]
+[Result "1-0"]
+[ECO "D44"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "1959.05.19"]
+[EventRounds "15"]
+[EventCountry "SUI"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+[WhiteTeam "Bulgaria"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "BUL"]
+[BlackTeamCountry "URS"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. Bg5 dxc4 6. e4 b5 7. a4 Qb6 8. Bxf6
+gxf6 9. Be2 a6 10. O-O Bb7 {Diagram #} 11. d5 $5 {The Botvinnik system in the
+Semi-slav is one of the most exciting variations in the opening. White is
+ready to sacrifice a lot of material in order to open the position and attack
+his enemy king. This system has a lot of fun. Black's king is in the center of
+the board, so White should find a way to open it. As we already mention in the
+attack lesson, when you want to open the center, you need to advance your
+pawns and exchange them with your opponent's counterparts.} (11. b3 $5 b4 12.
+a5 Qc7 13. Na4 c3 14. Nb6 Ra7 15. d5 {With complications.}) (11. Qd2 $5) 11...
+cxd5 (11... Nd7 $5 12. dxe6 fxe6 13. Nd4 c5 14. Bh5+ Ke7 15. Nf5+ $1 $40 {
+White has an attack.}) (11... b4 $2 12. dxe6 bxc3 13. exf7+ Kxf7 14. Bxc4+ Ke8
+15. bxc3 $40 {White has a strong attack.}) (11... Bc5 $5 12. dxe6 fxe6 13. e5
+Nd7 14. exf6 O-O-O 15. f7 $13 {The position is very complicated.}) 12. exd5 b4
+13. a5 (13. dxe6 $1 {
+It is even stronger to capture immediately on e6, as we've seen earlier.} bxc3
+14. exf7+ Kxf7 15. Bxc4+ $40) 13... Qc7 14. dxe6 (14. Na4 $5) 14... bxc3 (14...
+fxe6 15. Nd4 $40) 15. Nd4 $1 {
+Material is not so important here because Black's army is undeveloped.} Rg8 (
+15... cxb2 16. exf7+ Kxf7 17. Bh5+ Kg8 18. Qg4+ Qg7 19. Qe6+ Qf7 20. Qxf7#) 16.
+Qa4+ Kd8 (16... Nc6 17. exf7+ Kxf7 18. Bxc4+ $18) 17. g3 Bd5 18. Rfd1 $2 {
+It was better to bring the other rook to the center; however, Tal managed to
+win the game afterwards.} (18. Rad1 $1) 18... Kc8 19. bxc3 Bc5 20. e7 Nc6 21.
+Bg4+ Kb7 22. Nb5 Qe5 23. Re1 Be4 24. Rab1 Rxg4 25. Rxe4 Qxe4 26. Nd6+ Kc7 27.
+Nxe4 Rxe4 28. Qd1 Re5 29. Rb7+ Kxb7 30. Qd7+ Kb8 31. e8=Q+ Rxe8 32. Qxe8+ Kb7
+33. Qd7+ Kb8 34. Qxc6 1-0
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.12.20"]
+[Round "13"]
+[White "Klavins, Janis"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "B99"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "90"]
+[EventDate "1959.12.05"]
+[EventRounds "13"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+[WhiteTeam "Bulgaria"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "BUL"]
+[BlackTeamCountry "URS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Be2 h6 11. Bh4 {Diagram #} b5 $5 {Tal played the most
+aggressive move here without fearing the complications and the discovered
+attack on the h1-a8 diagonal.} (11... O-O $5) (11... Rb8 $5) 12. e5 Bb7 13.
+exf6 {White sacrifices his queen in order to capture material, so we have a
+long and very forcing variation.} Bxf3 14. Bxf3 Bxf6 15. Bxf6 Rc8 (15... Nxf6
+$1 16. Bxa8 O-O $15 {White has more material here; however, Black has a strong
+center and possibilities to counterattack on the c-line. White cannot create
+an active play and, for that reason, the position is little better for Black;
+or at least we can say he has compensation for his sacrificed material.}) 16.
+Bxg7 Rh7 17. Bh5 (17. f5 $1 {
+Both players missed the f5 move which indeed is very difficult.} Rxg7 18. fxe6
+fxe6 $2 (18... Ne5 19. Bd5 $36 {White has a very strong initiative and Black's
+king is not safe any more in the center of the board.}) 19. Nxe6) 17... Rxg7
+18. Nxe6 Qc4 19. Rhe1 $1 (19. Nxg7+ $5 Kf8 20. Nf5 Qxf4+ 21. Kb1 Qxf5 22. Bxf7
+$1 Qxf7 23. Rhf1 Nf6 24. Nd5 Kg7 25. Nxf6 Qc4 $13 {
+The position is complicated and unclear.}) 19... Rxg2 {
+The position is complicated, but Tal manages to win afterwards.} 20. Rxd6 Ke7
+21. Rd4 Qxe6 22. Nd5+ Kf8 23. Rxe6 Rcxc2+ 24. Kd1 Rxb2 25. Re2 Rg1+ 26. Re1
+Rb1+ 27. Kd2 Rbxe1 28. Ne3 Nb6 29. Rd6 Rxe3 30. Kxe3 Nc4+ 31. Kf2 Nxd6 32. Kxg1
+Ne4 33. Bf3 Nc3 34. Bb7 a5 35. Ba6 b4 36. Bc4 a4 37. Kf2 Nxa2 38. Ke3 Nc3 39.
+Kd3 Ke7 40. Ba6 Kd6 41. Kc4 a3 42. Kb3 Kc5 43. f5 a2 44. Kb2 b3 45. f6 Kb4 0-1
+
+[Event "EU-chT (Men) 02nd"]
+[Site "Oberhausen"]
+[Date "1961.06.21"]
+[Round "1.2"]
+[White "Toran Albero, Roman"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "A21"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "50"]
+[EventDate "1961.06.20"]
+[EventRounds "10"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+[WhiteTeam "Spain"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "URS"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. d4 e4 5. f3 Nf6 6. Bg2 exf3 7. Nxf3 g6 8. O-O
+Bg7 9. e4 fxe4 10. Ng5 O-O 11. Ngxe4 Nxe4 12. Rxf8+ Qxf8 13. Nxe4 Nc6 14. Be3
+Bf5 15. Qd2 Re8 16. Ng5 {Diagram #} Rxe3 $1 {Sometimes, material is not the
+most important factor in the game. I can understand very clearly that the
+queen is the strongest piece in a chess game; however, if we have some other
+pieces which are cooperating well, then they can prove to be stronger than the
+queen. In any case, this is a situation to complicate the game and push for a
+win.} (16... h6 $5) 17. Bd5+ (17. Qxe3 Bxd4 $19) 17... Kh8 18. Nf7+ Qxf7 $1 19.
+Bxf7 Rd3 20. Qe2 Bxd4+ $17 {Black has only two minor pieces for the queen;
+however, they are controlling perfectly the center. Tal uses this activity in
+order to win the game afterwards.} 21. Kg2 Ne5 22. Rd1 Re3 23. Qf1 Be4+ 24. Kh3
+Rf3 25. Qe2 Bf5+ 0-1
+

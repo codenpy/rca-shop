@@ -1,0 +1,85 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.04.14"]
+[Round "?"]
+[White "Loewenthal variation 5...a6"]
+[Black "Advanced theory"]
+[Result "*"]
+[Annotator "RCA"]
+[PlyCount "35"]
+[EventDate "2013.04.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 {...so called Loewenthal variation...
+an interesting deviation from the Sveshnikov opening. This opening is very
+popular at club level. Even some GMs include this variation into their
+repertoires.} 5. Nb5 {White's knight aims at Black's weak 'd6' square that was
+created by Black's last move...} a6 (5... d6 $5 {See 5..d6 in theory section.})
+6. Nd6+ {The strategic drawback to this 5...a6 variation is that (i) Black has
+to give up his dark-squared bishop for a knight despite the dark colour
+weakness in his camp; (ii) Black has a backward pawn in the semi-open 'd' file.
+} Bxd6 $8 7. Qxd6 Qf6 (7... Qe7 {A reasonable alternative to be considered...}
+8. Qd1 {Queen back to its original square... not redundant to any of his
+pieces; his plan is Nc3, Bc4, 0-0 etc. with a good game.} Nf6 9. Nc3 h6 (9...
+d6 10. Bg5 $36 {Intending Nd5...}) 10. Bc4 b5 (10... d6 $5 11. Be3 Be6 (11...
+Bg4 $5 12. f3 Be6 $14 {Similar to the main line..}) 12. Nd5 {Forcing Black to
+take on d5, so as to create a pawn majority on the queen side.} Bxd5 13. exd5 {
+White successfully creates a pawn majority on the queen side...} Nb8 14. Be2 {
+Idea is to play c4,b4, a nice direct way for taking advantage of his pawn
+majority.} Nbd7 15. c4 O-O 16. O-O Rac8 17. b4 $14) 11. Nd5 $1 Nxd5 (11... Qd6
+$5 12. Nxf6+ Qxf6 13. Bd5 $16 {Followed by Be3, 0-0 and domination over
+Black's weak dark squares is evident...}) 12. Bxd5 O-O 13. O-O Bb7 14. f4 $36 {
+White opens up the position so that he can take control of Black's weaknesses
+with the help of his bishops.}) 8. Qd2 {Avoiding exchange is necessary... as
+Black has lots of weak squares, e.g. d6, d5, f5, c7 and b6, for which White
+can continue some attacking plan in the middlegame.} Qg6 (8... Nge7 $5 9. Nc3
+O-O (9... d6 $5 10. Bd3 Be6 11. O-O Rd8 12. f4 $36) 10. Bd3 d6 (10... h6 $5 {
+Back tries to restrict White's dark bishop...} 11. b3 $5 {But White discovers
+another key diagonal for his dark bishop in this way...} d6 12. Bb2 Be6 13. O-O
+$14 {Followed by f4 and Black's queen is not in a very safe position...}) 11.
+Qg5 (11. O-O $5 h6 12. Qe3 Be6 13. Qb6 Rab8 14. f4 $36) 11... Qxg5 12. Bxg5 {
+Preparing 0-0-0 and thus creating pressure on d6... White has an easier game
+in comparison to Black...}) 9. Nc3 {Best amongst all probable alternatives...
+maintaining the principle of least active piece... simple chess!} Nge7 (9...
+Nf6 $6 10. Qd6 Ng4 11. Qxg6 hxg6 12. Nd5 {Followed by h3, f3, Be3 and Bc4, etc.
+, with a better position for White.}) (9... d5 $6 {This premature break
+doesn't help Black either.} 10. Nxd5 Qxe4+ (10... Rb8 11. f3 $16) 11. Be2 Qxg2
+(11... Nd4 $6 {Tactically incorrect...} 12. Nc7+ Ke7 (12... Kf8 {?} 13. c3 $16)
+13. Nxa8 Nxc2+ (13... Bg4 14. c3 Nc2+ (14... Qxe2+ 15. Qxe2 Nxe2 16. Bg5+ f6
+17. Be3 Nf4 18. Bxf4 exf4 {Back has no compensation for the exchange...}) 15.
+Kf1 Nxa1 16. f3 $18) (13... Qxg2 $2 {Looks tricky... but only a tactical
+blunder due to White's next series of moves...} 14. Qg5+ $1 Qxg5 15. Bxg5+ f6
+16. Be3 Nxc2+ 17. Kd2 Nxa1 18. Rxa1 $18 {White is up in material: a winning
+position...}) 14. Kf1 Nxa1 15. b3 $36 {White has a decisive edge... he is
+threatening Qg5, Qc3 or Nb6, etc.}) 12. Nc7+ Kf8 13. Rf1 Rb8 14. b3 $40 {
+Followed by Ba3 and 0-0-0, mounting pressure on Black's camp... anybody would
+like to play with White in this position!}) 10. h4 {Preparing h5 for attacking
+the queen and throwing her out of her ideal square...} Nd4 (10... h5 $6 11. Qg5
+Nb4 12. Qxg6 Nxg6 13. Kd1 $1 d6 14. a3 Nc6 15. Nd5 {With a strong initiative...
+}) (10... O-O $6 11. h5 Qe6 12. h6 g6 13. Nd5 Rb8 14. b3 b5 15. Ba3 Bb7 16.
+O-O-O $16 {White has a very active position... again d7 and g7 are good
+targets...}) (10... d5 $6 11. h5 Qg4 12. f3 Qg3+ 13. Qf2 Qxf2+ 14. Kxf2 d4 (
+14... Be6 $6 15. h6 g6 16. exd5 Nxd5 17. Nxd5 Bxd5 18. Bg5 O-O 19. Bf6 $16 {
+White's domination over the dark squares is evident.}) 15. Na4 $14 {With the
+idea of Bd2, c3 and cxd4, and an excellent endgame for White...}) 11. h5 {
+White successfully destroys Black's king side... and creating space there at
+the same time!!} Qg4 {Untested, but a possible alternative which we can't
+ignore at all.} (11... Qc6 12. Bd3 O-O (12... d5 $6 {Good-looking but
+premature...} 13. Qg5 dxe4 14. Bxe4 Qd6 15. Be3 f5 16. O-O-O $1 Qf6 (16... fxe4
+17. Nxe4 $16) 17. Bd5 Nxd5 18. Nxd5 Qxg5 19. Bxg5 Kf7 20. Nb6 Rb8 21. Nc4 $18 {
+And Black's position has collapsed...}) (12... f5 {?!} 13. Qg5 Ne6 14. Qh4 fxe4
+15. Bxe4 d5 16. Nxd5 Nxd5 17. c4 $16 {White suddenly dominates in the centre
+and king side as well; his next plan is cxd5, 0-0 and h6, thus creating more
+pressure on Black's camp...}) 13. h6 g6 14. Ne2 $14 {White enjoys a slight
+edge; his next plan is b3, Bb2, f4, 0-0-0 or c3 followed by f4 with better
+prospects...}) 12. h6 $1 {Weakening Black's king position is necessary.} gxh6 (
+12... g6 13. Qd3 {Clearing the diagonal for the c1 bishop...} O-O 14. Be3 Nec6
+15. f3 Qg3+ 16. Bf2 Qg5 17. Nd5 {Followed by c3 and Bh4, with a decisive edge
+in the position for White!!}) 13. Qd1 $1 {White is happy to eliminate Black's
+strongest piece at this moment, his endgame - with bishop pair against lots of
+Black weaknesses - is also a decisive factor...} d5 (13... Qxd1+ $6 14. Kxd1 d5
+15. Bxh6 $16 {Better endgame for White...}) 14. Qxg4 Bxg4 15. Bd3 O-O-O 16. f3
+$5 (16. Rxh6 $5 $14) 16... dxe4 17. Nxe4 Bf5 18. Rxh6 $14 {Here, White enjoys
+the bishop pair, a smaller pawn island and fewer weaknesses in comparison to
+Black; his next plan is to play Kf2, Be3, Rah1, etc., with good practical
+chances!!} *
+

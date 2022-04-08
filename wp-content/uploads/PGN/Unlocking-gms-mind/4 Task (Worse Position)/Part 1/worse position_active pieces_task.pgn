@@ -1,0 +1,172 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1954.??.??"]
+[Round "12"]
+[White "Filip, Miroslav"]
+[Black "Kortschnoj, Viktor"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2kb/pb1q1p1p/1pn3pB/1B1pP1Q1/5N2/8/P4PPP/3R1RK1 b - - 0 20"]
+[PlyCount "0"]
+[EventDate "1954.??.??"]
+
+{black to move}  *
+
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1970.10.20"]
+[Round "13"]
+[White "Taimanov, Mark E"]
+[Black "Larsen, Bent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2bppp/2n5/q2p4/5B2/PQN1PN2/1P3PPP/2R1K2R b K - 0 14"]
+[PlyCount "0"]
+[EventDate "1970.10.??"]
+
+{black to move}  *
+
+[Event "Staunton Memorial"]
+[Site "Groningen"]
+[Date "1946.08.24"]
+[Round "10"]
+[White "Botvinnik, Mikhail"]
+[Black "Euwe, Max"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/8/4k1p1/6Pp/2p1PK1P/2R5/8/8 w - - 0 41"]
+[PlyCount "0"]
+[EventDate "1946.08.13"]
+
+ *
+
+
+{Black position is clearly better, Botvinnik sees his only chance in creating
+counterplay even if it`s connected with material losses.} 41. Ke3 41... Ke5 42.
+Rc2 $1 42... c3 43. Kd3 Rd8+ (43... Rc7 44. Rxc3 $1 44... Rxc3+ 45. Kxc3 Kxe4
+46. Kc4 Kf4 47. Kd4 Kg4 48. Ke5 Kxh4 49. Kf6 $1 $10 49... Kg4 50. Kxg6 h4 51.
+Kf6 h3 52. g6 h2 53. g7 h1=Q 54. g8=Q+) 44. Ke3 $1 (44. Kxc3 44... Kxe4 $15 45.
+Rf2 Rd3+ 46. Kc4 Rh3 47. Rf6 Rxh4) 44... Rd4 45. Rxc3 Rxe4+ 46. Kf3 Rxh4 47.
+Rc6 $1 47... Rf4+ (47... Kf5 48. Rc5+ Ke6 49. Rc6+ $10) 48. Ke3 Re4+ 49. Kf3
+Kf5 50. Rf6+ Kxg5 51. Rxg6+ $1 1/2-1/2
+
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1920.??.??"]
+[Round "4"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Tarrasch, Siegbert"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1k4/p5r1/QpPq1p2/3Ppp2/P1P2P2/1K4P1/6B1/4R3 w - - 0 51"]
+[PlyCount "0"]
+[EventDate "1920.??.??"]
+
+ *
+
+
+{white active play didn`t lead him anywhere and for the moment it`s Black is
+the one who is ready to use the open position of the white king. White sees
+his last chance in activating his pieces} 51. Rh1 $1 51... Rxg3+ (51... Qc7 52.
+Kc2 $13) 52. Bf3 $3 52... Rxf3+ 53. Kc2 Rf2+ 54. Kd1 {White rejects 54.Kb3
+that would lead to perpetual check and is trying to play for a win.} 54... Rf1+
+$1 (54... Qb4 $4 55. Rh8+ Ke7 56. Qxa7+ Kd6 57. Qxb8+ Kc5 58. Qf8+ Kxc4 59.
+Qxb4+ Kxb4 60. c7 $18) 55. Rxf1 55... Qa3 {forcing the perpetual check} 56. Rf2
+(56. Ke2 e4) 56... Qd3+ 57. Kc1 Qc3+ 1/2-1/2
+
+[Event "Nottingham"]
+[Site "Nottingham"]
+[Date "1936.08.21"]
+[Round "10"]
+[White "Thomas, George Alan"]
+[Black "Lasker, Emanuel"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2br1rk1/ppq1bp2/2p1p1pp/4P2n/2B1N1P1/2Q1PN2/PP3P1P/2R2RK1 b - - 0 17"]
+[PlyCount "0"]
+[EventDate "1936.08.10"]
+
+{black to move}  *
+
+[Event "Candidates Tournament "]
+[Site "Zuerich"]
+[Date "1953.08.31"]
+[Round "2"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Petrosian, Tigran V"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rq1k1/4rppp/2n3b1/pp2P3/2pP1QB1/P1P1R3/1B4PP/4R1K1 b - - 0 25"]
+[PlyCount "0"]
+[EventDate "1953.08.30"]
+
+{black to move}  *
+
+[Event "Niksic"]
+[Site "Niksic"]
+[Date "1983.??.??"]
+[Round "15"]
+[White "Tal, Mihail"]
+[Black "Portisch, Lajos"]
+[Result "*"]
+[WhiteElo "2620"]
+[BlackElo "2600"]
+[SetUp "1"]
+[FEN "r2q1r2/1p2Nppk/p2p1R1p/8/3pP1bQ/3P4/PP4PP/2K2R2 b - - 0 23"]
+[PlyCount "0"]
+[EventDate "1983.08.24"]
+
+{black to move}  *
+
+[Event "World Championship 32th-KK2"]
+[Site "Moscow"]
+[Date "1985.09.19"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "*"]
+[WhiteElo "2720"]
+[BlackElo "2700"]
+[SetUp "1"]
+[FEN "1r1q1rk1/pp1b1pp1/1n2p2p/8/3QN3/4PB2/PP3PPP/R2R2K1 b - - 0 16"]
+[PlyCount "0"]
+[EventDate "1985.09.03"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "World Championship 32th-KK2"]
+[Site "Moscow"]
+[Date "1985.09.24"]
+[Round "8"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "*"]
+[WhiteElo "2720"]
+[BlackElo "2700"]
+[SetUp "1"]
+[FEN "1r4k1/p4pp1/7p/2np4/8/4PN1P/P4PP1/3R2K1 b - - 0 23"]
+[PlyCount "0"]
+[EventDate "1985.09.03"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+
+[Event "URS-ch28"]
+[Site "Moscow"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Gufeld, Eduard"]
+[Black "Polugaevsky, Lev"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1bqnbppp/p1n5/1p1pPN2/5B2/5BQ1/PPP3PP/R4R1K b - - 0 17"]
+[PlyCount "0"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{black to move}  *
+

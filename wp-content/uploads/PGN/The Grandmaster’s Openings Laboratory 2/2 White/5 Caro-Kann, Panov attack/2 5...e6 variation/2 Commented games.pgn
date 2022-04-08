@@ -1,0 +1,276 @@
+[Event "POL-ch 59th"]
+[Site "Warsaw"]
+[Date "2002.05.07"]
+[Round "8"]
+[White "Gdanski, Jacek"]
+[Black "Bartel, Mateusz"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2523"]
+[BlackElo "2417"]
+[Annotator "RCA"]
+[PlyCount "67"]
+[EventDate "2002.04.29"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2002.08.12"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Nc6 $6 {Not the most
+accurate move. For Black the best plan is to postpone the typical methods for
+counterplay which I'm going to repeat: 1. b6 attacking White's pawn chain 2.
+Nc6 preparing e5 at a later moment 3. Ne4 If White takes Black's knight,
+obtain counterplay against the "d" pawn; if White doesn't take it, this knight
+is very well placed and can be supported by f5. And you already know that
+White's plan is to prevent all Black's counterplay and, later on, take
+advantage of his queen side majority.} 7. Nf3 (7. Bb5 {Maybe was a little more
+accurate. Remember White should wait for Black's Nc6 and then answer with Bb5;
+this is a general rule of this variation.}) 7... Ne4 8. Qc2 {Keeping the pawn
+structure and attacking the knight on e4; this move is a typical response to
+Ne4.} f5 {Blacks using a typical method of counterplay in this line; of course,
+this has some inconvenience: 1. leaves the e6 pawn backward; 2. now the e5
+square can be used.} 9. Bb5 $1 {Of course it was time.} Bd7 10. O-O Be7 11.
+Bxc6 Bxc6 12. b4 {Now White has a typical position. Black has a bishop pair v
+the queen side majority and the weaknesses on the "e" file. This determines
+White's advantage because Black's bishop pair is temporarily very passive.} O-O
+13. Bf4 {Controlling the key e5 square.} g5 14. Be5 $1 f4 15. Nd2 (15. b5 $5 {
+Prepares an interesting exchange sacrifice.} Be8 16. Nxe4 dxe4 (16... Bg6 $5
+17. Nfd2 dxe4 18. Nxe4 f3 19. Rfe1 {With not enough compensation for Black.}
+Qd5 20. Rab1 Bxc5 21. Qxc5 Bxe4 22. Qe7 Rf7 23. Qxg5+ $16) 17. Qxe4 Bxb5 18.
+Qxb7 Bxf1 19. Rxf1 $16 {With a clear advantage, because of the more active
+play and the passed "c" pawn.}) 15... Nxd2 16. Qxd2 f3 17. g4 $1 {With the
+plan of Kh1-Rg1 and Rg3 attacking the weak f3 pawn.} Bf6 18. Bd6 Qd7 19. Kh1 {
+Prophylactic move against e5.} Qg7 $6 (19... Rf7 $1) 20. Rad1 (20. Bxf8 $1 Rxf8
+21. Rad1 {Black hasn't enough compensation.}) 20... Rf7 21. Rg1 h5 $6 {After
+this White's advantage is clear; simply, White's won a pawn.} 22. gxh5 Qh6 23.
+Be5 $6 {I will never understand why GM Gdanski failed to push his pawn to b5
+instead of this move!} (23. b5 $1) 23... Bxe5 $6 24. Qxg5+ Qxg5 25. Rxg5+ {The
+rest is very easy.} Kh7 26. Rxe5 Rg8 27. Rxe6 Rg2 28. b5 Rf5 29. Rg6 Rxf2 30.
+Kg1 Rc2 31. bxc6 Rxh5 32. Rf6 bxc6 33. Rxf3 Rhxh2 34. Rg3 {In this game you
+should learn at least the following: 1. For Black, the start isn't very good,
+looking for counterplay without development. 2. The use of the e5 square for
+white. 3. White should in general advance his queen side majority as much as
+he can. 4. Qc2 as a typical response to Ne4 5. The exchange Bxc6 at the
+appropriate moment followed by b4. I said 'at least' because if you were able
+to reach a conclusion by your own efforts, that's even better.} 1-0
+
+[Event "Saint Affrique op 10th"]
+[Site "Saint Affrique"]
+[Date "2002.??.??"]
+[Round "4"]
+[White "Delchev, Aleksander"]
+[Black "Piankov, Evgenij"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2591"]
+[BlackElo "2345"]
+[Annotator "RCA"]
+[PlyCount "53"]
+[EventDate "2002.07.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2002.11.25"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 b6 {As I said in the
+previous game: it's better to first develop and then look for counterplay. But
+this move is certainly better than 6...Nc6?!} 7. b4 a5 8. Na4 $1 {The typical
+response against this attempt at counterplay. White keeps his position even
+with advantage. Now Black's the side that should think how to keep his
+position :) . This move probably has a psychological effect on the player who
+doesn't expect it.} bxc5 9. bxc5 {White obtains a protected passer.} Nfd7 10.
+Nf3 Be7 11. Bf4 O-O 12. Rc1 {The player who understands this variation
+understands all the last moves of both sides. It's a positional battle that
+White finally won. In the last three moves Black was postponing Nc6 until
+White developed his f1 bishop; and White was postponing the development of the
+bishop until Black defined the Knight! Now White is threating c6, so Black
+needs to stop it with 12... Nc6 - that's why I said that White won the
+positional battle.} Nc6 13. Bb5 $1 {This move is typical because it avoids
+Black's counterplay based on e5!} Bb7 14. O-O Bf6 15. Re1 {Controlling even
+more the important e5 square.} Rc8 16. Bf1 $5 {An interesting move. White
+already has an advantage and this move is a direct attempt for White. An
+important thing you should take note of is that the bishop on f4 plays a very
+important job, which is to control the b8 square and avoid Black's rook being
+placed on the open "b" file. That's why White moves his bishop from this file
+to start using it with the heavy pieces.} Ne7 17. Qb3 {White starting to use
+the "b" file.} Bc6 18. Nb6 $1 {A typical strategy - look at White's perfect
+coordination! The knight on b6 is trapping Black's c8 rook in combination with
+the f4 bishop, and if Black exchanges it Whites obtains a "b" passer that,
+combined with the f4 bishop, gives him a clear advantage.} Nxb6 19. cxb6 Qd7 {
+Black should prevent b7.} 20. Ba6 {Threatening b7.} Bb7 21. Bb5 {Attacking the
+queen.} Bc6 (21... Qd8 22. Bc7 $1 {Definitely this bishop deserves a medal of
+honour for this game! And in general, it's a very important piece in this
+variation.}) 22. Bxc6 Nxc6 23. b7 {Now White's advantage is completely
+decisive.} Rcd8 24. Rxc6 Qxc6 25. b8=Q Rxb8 26. Bxb8 a4 27. Qb1 {What we
+should learn at least from this game: 1. As we already know, Black's direct
+attempts at counterplay aren't very effective. 2. The strategic fight in the
+moves 9-12: Black's waiting to play Nc6 for White to define his f1 bishop in a
+square different than b5 and finally White won the strategic battle because he
+forced Black to play Nc6 first. 3. You should look at Whites Bf1!? and all the
+strategy that follows. 4. You should start feeling the strength of the bishop
+on f4.5. The importance of the "b" file. 6. How to use the b6 square to create
+a more dangerous passer that, combined with the f4 bishop, gives White a
+decisive advantage. 7. The tactical motifs of trapping Black's pieces in the
+variation - 21...Qd8 22. Bc7! and also after 18.Nb6! Black's rook is trapped;
+this gives White a clear-cut advantage because it forces Black to allow the
+"b" passer.} 1-0
+
+[Event "EU-ch 11th"]
+[Site "Rijeka"]
+[Date "2010.03.14"]
+[Round "8"]
+[White "Postny, Evgeny"]
+[Black "Yilmaz, Mustafa Enes"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2641"]
+[BlackElo "2468"]
+[Annotator "RCA"]
+[PlyCount "63"]
+[EventDate "2010.03.06"]
+[EventRounds "11"]
+[EventCountry "CRO"]
+[Source "ChessBase"]
+[SourceDate "2010.05.18"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 {We reach the position from a different
+move order.} Nf6 5. Nc3 e6 6. c5 Be7 $1 {The best move for Black; he wants to
+castle first and then look for counterplay.} 7. Nf3 O-O 8. Qc2 $1 {A very
+important move. In this particular line, if White prevents all Black's
+attempts at counterplay, or at least if not prevent it prepare a good reply
+against it, this guarantees a good game for White. You already know what the
+typical methods of counterplay are. And the idea of this move is to prevent
+Ne4, and prepares good replies to b6 and Nc6.} b6 (8... Nc6 9. Bb5 $1 {Of
+course!}) 9. b4 Bb7 $5 {Against a5 White should play 10. Na4! The typical
+response!} 10. Rb1 $1 {A very important and typical prophylactic move. After 9.
+. .Bb7 Black's threat of 10...a5! gains force. That's why White is PREVENTING
+HIS OPPONENT'S COUNTERPLAY! against 10... a5 now White simply has 11.a3!} Nc6
+11. Bd3 (11. Bb5 $1 {Is of course more logical. Anyway this game is very
+instructive.}) 11... Rc8 12. O-O Ne4 {Sacrificing a pawn in the look for
+counterplay. This variation is really funny to play as White, for the
+following reason: you are simply waiting and placing your pieces to prevent
+your opponent's counterplay, while Black is desperately looking for something
+that probably, in the end, doesn't work. You should just wait and see how your
+opponent gets on - losing his last breath of active play in the pure style of
+Tigran Petrosian :D . In the present game after 12...Ne4 White has clear
+advantage.} 13. b5 $1 {A typical move; the idea is not just to create a passer
+but also to trap Black's pieces on the queen side.} Nxd4 {A desperate-looking
+attempt, but also necessary.} (13... Na5 14. c6 Bxc6 15. bxc6 Rxc6 16. Bd2 $16)
+14. Nxd4 Nxc3 15. Bxh7+ $1 {Whites gives back the piece to obtain a decisive
+positional advantage WITH NO COUNTERPLAY FOR BLACK!} Kh8 16. Qxc3 Kxh7 17. c6
+$1 {The typical idea. Now White's strategy is based on Capablanca's iron
+principle: when you trap an opponent's piece on one side of the board, you
+should attack on the other side, because on that side you will have a piece
+up! So now just look how GM Evgeny Postny gives a masterclass.} Kg8 18. Qh3 Ba8
+19. Rb3 Bf6 20. Qg4 Re8 21. Rh3 $1 {Capablanca was a very wise man.} Bxd4 22.
+Qxd4 e5 23. Qd3 e4 24. Qd4 Qd6 25. Rh5 Red8 26. Rd1 Bxc6 {What else?} 27. bxc6
+Rxc6 28. Bb2 f6 29. Rxd5 Qxd5 30. Qxd5+ Rxd5 31. Rxd5 Rc2 32. Rb5 {What you
+should learn at least from this game: 1. The idea of preventing your
+opponent's counterplay (8. Qc2; 10. Rb1). 2. The idea of trapping Black's
+pieces on the queen side ( 13.b5!; 17. c6!). 3. And finally, how to take
+advantage of the fact that Black's pieces, or one Black piece, are trapped on
+the queen side - using Capablanca's iron principle.} 1-0
+
+[Event "Granada op"]
+[Site "Granada"]
+[Date "2006.12.07"]
+[Round "3"]
+[White "Gofshtein, Leonid D"]
+[Black "Kononenko, Tatiana"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2509"]
+[BlackElo "2375"]
+[Annotator "RCA"]
+[PlyCount "69"]
+[EventDate "2006.12.06"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2007.01.10"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. c5 Be7 7. Nf3 {Simply
+developing a piece to its most active square.} O-O 8. Qc2 $1 {We already
+understand this move :)} b6 9. b4 bxc5 10. bxc5 Nc6 11. Bb5 {Automatic!} Bb7
+12. O-O Rc8 13. Bf4 {The 'Super Bishop'!} Qa5 14. Bxc6 {A move that sooner or
+later White should make anyway.} Bxc6 15. Rab1 {Now it's time to evaluate the
+position: Black has bishop pair while White has the open "b" file, a protected
+passer, a super bishop on f4 and good squares for his knights, especially e5
+that is one typical square for the "f3" knight in this variation.} Rfd8 16. Ne5
+$14 {White's advantage is clear.} Be8 {We have a clear positional advantage,
+so it's time to create a plan. White should without any doubt make use of his
+passer, but one weakness is not enough - White should create another to
+stretch Black's defence. So the plan is to attack on the king side and, at the
+same time, use the passer.} 17. Bd2 Qa6 18. Bg5 {Pinning the knight. And
+tempting Black to weaken his king side.} h6 19. Bh4 Rb8 $6 (19... g5 $1 {Risky,
+but the right decision. Black shouldn't just wait.} 20. Bg3 Ne4 $1 21. Nxe4
+dxe4 22. Qxe4 f5 23. Qe3 Qxa2 (23... f4 24. Bxf4 gxf4 25. Qxf4 {With attack
+for White.}) 24. Ra1 Qd5 25. Rxa7 $14 {With just a slight advantage for White.}
+) 20. f4 $1 {Starting the attack on the king side and preventing g5.} Qa5 21.
+Qd3 (21. f5 {White should be careful about Black's resources.} Bxc5 $1 {
+Typical resource in this variation.} 22. dxc5 Qxc5+ 23. Kh1 Rxb1 24. Rxb1 d4
+$15) 21... Rdc8 {Threatening the same resource.} 22. Bf2 $1 Nd7 23. Rxb8 $1
+Nxb8 24. f5 $1 {Now it's time to realise our plan! After this, look how Whites
+plays, first creating pressure on the king side and then just pushing his
+passer.} Nd7 25. Nf3 Nf8 (25... Nxc5 $1 26. dxc5 Bxc5 {Was an interesting
+attempt}) 26. Re1 Bc6 27. g4 Rb8 28. Be3 $6 (28. Ne5 $1 {More logical and
+better.}) 28... Qd8 29. Re2 exf5 30. Ne5 Be8 31. gxf5 Nh7 32. Rg2 {White put
+his pieces looking at the king side.} Kh8 33. Bf4 Rb4 34. c6 $1 {Now it's time
+to use the passer!} Qa5 35. c7 $1 {And the game is over. What we should learn
+at least from this game: 1. The plan of White's attack on the king side to
+distract Black's pieces. 2. Black should do something, not just wait. 3. White
+should be careful about the sacrifice on c5!? (very important).} 1-0
+
+[Event "Chigorin Memorial 13th"]
+[Site "St Petersburg"]
+[Date "2005.10.16"]
+[Round "2"]
+[White "Kashtanov, Ruslan"]
+[Black "Vokarev, Sergey"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2353"]
+[BlackElo "2488"]
+[Annotator "RCA"]
+[PlyCount "78"]
+[EventDate "2005.10.15"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2005.11.04"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Be7 7. Qc2 {A
+different move order to reach the same position anyway; I prefer 7.Nf3 because
+it's more flexible.} O-O 8. Nf3 b6 9. b4 a5 10. Na4 $1 axb4 11. Nxb6 Ra5 {Now
+the first critical position! You may think the following: the knight on b6 is
+very strong, so I will never exchange it for the c8 bishop! This is the WRONG
+thinking. The knight on b6 is temporarily strong, but in a few moves Black
+will reject it or exchange it by playing Bb7 and Nfd7, for example. So it's
+better to take advantage of his temporarily active position and get a stable
+factor - which is the bishop pair!} 12. Nxc8 $1 (12. Bd3 Ba6 $1 {Even better
+than Bb7.} 13. O-O Bxd3 14. Qxd3 Nc6 {No problems for Black here. The b6
+knight does nothing.}) 12... Qxc8 13. Bd3 Nc6 14. Bf4 Qb7 15. O-O {The main
+opening tasks are finished and it's time to evaluate the position. White first
+of all has a bishop pair and a protected passer, and Black has a weak pawn on
+b4 while White has a weak pawn on a2. So the plans are determined: each side
+should attack the weak pawn of the other side. Of course, White has more
+possibilities because of his other advantages.} Rfa8 16. Rfb1 {Logical moves.}
+Qa7 17. Rb2 g6 18. Qe2 $1 {Threatening Bb5.} Qb7 (18... Ra3 $1 {Fixing the
+weaknesses was better!} 19. Bb5 $6 Rxf3 $1 20. Qxf3 Nxd4 $17) 19. Rd1 R8a7 20.
+h3 {Both sides are making slow positional manoeuvres. White is maintaining his
+slight advantage.} Nd7 21. h4 $6 {Allows e5, a typical break in this variation.
+} Bf6 $6 (21... e5 $1 22. Bxe5 Ndxe5 23. dxe5 Rxc5 24. h5 Bf8 $11) 22. Bb1 {
+Preventing e5 and defending the weak a2 pawn.} Qa6 23. Bd3 Qb7 24. Bb1 Qa6 25.
+Bd3 Qc8 {Black wrongly avoids the repetition of moves. White now enjoys even
+more advantage.} 26. Bb5 h5 $2 {A move that no make sense - Black should play
+on the queen side, where the main battle is! After this White wins the b4 pawn
+and with that the game.} 27. Rdd2 $1 Bg7 28. Bxc6 Qxc6 29. Rxb4 Ra8 30. Rdb2
+Ra4 31. Bd6 Bf6 32. Rxa4 Qxa4 33. Qc2 Qc6 34. Qb3 $18 e5 35. dxe5 Bg7 36. Qb7
+Rc8 37. Qxc6 Rxc6 38. Rb5 Ra6 39. Rb7 Nxc5 {What you should learn at least
+from this game: 1. The concept of the move Nxc8 - exchanging a temporary
+factor for a permanent one. 2. The plans of this particular pawn structure. 3.
+Always be careful about the e5 break. 4. White's slow but precise manoeuvres.
+Ok, with that we finish the model games. I hope you get all the most important
+ideas of this variation.} 1-0
+

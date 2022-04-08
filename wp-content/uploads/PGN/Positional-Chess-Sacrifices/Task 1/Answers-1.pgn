@@ -1,0 +1,206 @@
+[Event "FRA-ch 57 Championnat"]
+[Site "Schiltigheim"]
+[Date "1982.08.20"]
+[Round "4"]
+[White "Benoit, Michel"]
+[Black "Boulard, Eric"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "2225"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "48"]
+[EventDate "1982.08.16"]
+[EventRounds "13"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+
+1. d4 f5 2. h3 $5 Nf6 3. g4 fxg4 4. hxg4 Nxg4 5. e4 d6 6. Nc3 e5 7. Nf3 c6 8.
+Bh3 Na6 9. dxe5 Qb6 10. Bxg4 Bxg4 11. exd6 O-O-O 12. e5 {Diagram #} Bxd6 $3 $40
+{Black is doing something drastically, sacrifice the bishop for two powerfull
+pawns, in order to stop White's initiative and start counter attacking.} (12...
+Nb4 $5) (12... Kb8 $5) 13. exd6 Rhf8 {Black is creating huge problems. He
+increases the pressure against the pin and, similarly, he is eyeballing the
+f2-square...} (13... Rhe8+ $2 14. Kf1 $18) 14. Qd4 $1 Bxf3 15. Qxb6 axb6 16.
+Rxh7 Nb4 $36 {White is a pawn up, but Black has terrific pieces because they
+are very active. After a long fight, Black manages to win the game.} 17. Kf1
+Nxc2 18. Rb1 Rh8 $1 19. d7+ Kxd7 20. Rxg7+ Ke6 21. Bf4 Kf5 22. Bc7 Rd7 23. Rg1
+Rxc7 24. Rc1 Nd4 0-1
+
+[Event "FRA-ch 57 Championnat"]
+[Site "Schiltigheim"]
+[Date "1982.08.16"]
+[Round "9"]
+[White "Grizou, Regis"]
+[Black "Schwicker, Francois"]
+[Result "1-0"]
+[ECO "D61"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "49"]
+[EventDate "1982.08.16"]
+[EventRounds "13"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 h6 {
+Diagram #} 8. h4 $5 {White sacrifices, or intents to sacrifice, the bishop in
+order to open the position of the enemy king. The bishop has tempo for now
+because White can create threats against the h7-square.} c5 (8... hxg5 $2 9.
+hxg5 Ne8 10. Qh7#) 9. O-O-O Qa5 (9... cxd4 $5) 10. g4 $1 $36 {White is creating
+a strong initiative. Thanks to the h6-pawn, White has good chances to open the
+position on the kingside.} dxc4 (10... cxd4 $142 11. Nxd4 dxc4 12. Bxc4 $36 Nb6
+13. Bb3 Bd7 14. Bxf6 Bxf6 15. g5 Bxd4 16. Rxd4 Kh8 17. gxh6 gxh6 18. Qe4) (
+10... Re8 $2 11. Bxf6 Nxf6 12. g5 $40) (10... hxg5 $2 11. hxg5 Ne8 12. Qh7#)
+11. Bxf6 gxf6 12. d5 $1 {This is the best move in the position. White is
+blowing up the center in order to liberate his pieces. Black's pieces are not
+active and, similarly, the kingside is weaken; so, White has posibilities to
+attack it.} Nb6 13. Qe4 $5 (13. d6 $1 {This was the killing blow.}) 13... Rd8
+14. g5 $1 {White successfully opens the position, and he manages to win the
+game afterwards.} f5 15. Qe5 h5 16. d6 Bf8 17. g6 Bg7 18. gxf7+ Kxf7 19. Ng5+
+Kg8 20. Qg3 Nd5 21. Rxd5 $1 exd5 22. Rg1 f4 23. Qf3 Bg4 24. Qxd5+ Kh8 25. Qe4
+1-0
+
+[Event "Angouleme Boucheron Cup"]
+[Site "Angouleme"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Andruet, Gilles"]
+[Black "Vukic, Milan"]
+[Result "0-1"]
+[ECO "E60"]
+[WhiteElo "2410"]
+[BlackElo "2465"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "102"]
+[EventDate "1986.02.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2010.11.25"]
+
+1. c4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 d6 5. d4 O-O 6. e3 Nbd7 7. Nc3 e5 8. Be2
+Re8 9. Qc2 c6 10. O-O-O e4 11. Nd2 d5 12. g4 h6 13. h4 Nf8 14. Rdg1 a6 15. c5
+N6h7 16. Na4 Be6 17. Rg2 Nd7 18. Bc3 Bf6 19. Rgh2 Qc7 20. Nb6 Nxb6 21. Ba5 Qd7
+22. Bxb6 Bxg4 23. Bxg4 Qxg4 24. h5 g5 25. Nf1 Re7 26. b4 Bg7 27. a4 f5 28. Qd1
+Qxd1+ 29. Kxd1 f4 30. Ke2 Nf8 31. Rg1 Ne6 32. Rhh1 Rf8 33. Nh2 Ref7 34. Ng4
+fxe3 35. fxe3 Rf3 36. Rh2 Kh7 37. Ba5 {Diagram #} Bxd4 {Black has a lot of
+good moves here and this is a good sign that his position is powerful! However,
+the position is closed and, for that reason, Black should open lines for his
+pieces. This is a fantastic bishop sacrifice in order to open lines for the
+rooks. The rooks, the knight and the passed pawns can create a lot of problems
+to White.} (37... Nxd4+ $5) (37... R8f7 $5) (37... R8f5 $5) 38. exd4 Nxd4+ 39.
+Kd1 {Now you can understand clearly Black's idea. Black's rooks can penetrate
+White's position, the knight on d4 is dominant and the a5-bishop is out of the
+game. White has lack of coordination.} Ra3 {Black is not only attacking the
+a4-pawn, but creating tactical problems because the g1-rook is unprotected.
+Similarly, the f8-rook is ready to enter the game. Black wins the game easily.}
+40. Rgh1 Rff3 41. Kc1 Rfc3+ 42. Kb1 Rxa4 43. Rf1 Kg7 44. Bc7 Nf3 45. Be5+ Nxe5
+46. Nxe5 Rxb4+ 47. Ka1 e3 48. Rb2 Rf4 49. Rg1 d4 50. Rxb7+ Kf6 51. Ng4+ Rxg4
+0-1
+
+[Event "Bundesliga 9798"]
+[Site "Germany"]
+[Date "1997.10.19"]
+[Round "2.1"]
+[White "Ftacnik, Lubomir"]
+[Black "Cvitan, Ognjen"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2585"]
+[BlackElo "2570"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "54"]
+[EventDate "1997.10.18"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1998.01.31"]
+[WhiteTeam "Hamburger SK"]
+[BlackTeam "Zaehringen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Ne8 10. b4 f5 11. c5 Nf6 12. f3 f4 13. Nc4 g5 14. a4 Ng6 15. Ba3 Rf7
+16. b5 dxc5 17. Bxc5 h5 18. a5 g4 19. b6 g3 20. Kh1 Nh7 21. d6 Qh4 22. Bg1 {
+Diagram #} Bh3 $5 {This is a typical position of the King's Indian Defense
+(KID). Black is strategically lost on the queenside, but he has a good
+initiative on the kingside. He should create tactical probems because all of
+his pieces are there. That being said, Black sacrificed his bishop in order to
+open lines. KID is a very dangerous system and a small sidestep by White; it
+can be fatal...} (22... axb6) (22... cxb6) 23. bxc7 $4 (23. gxh3 $1 {This was t
+he most tenacious defense. In order to refute one sacrifice, you should accept
+it! :-) Let's check the sub-variations...} Qxh3 {Black is threatening the
+g2-mate... Simply and powerful. This was the idea behind the bishop sacrifice.}
+24. Rf2 {The only move. Yes, White should sacrifice his rook. This is a
+difficult variation to calculate and play during a real game situation.} (24.
+Ne3 fxe3 {And the problem remains the same.}) 24... gxf2 25. Bxf2 axb6 26. Nd5
+$1 {Now White should find this brilliant idea. As you can see, even strong
+gradnmasters cannot see it during a real game. For that reason, chess is such
+a difficult game with plenty of hidden ideas.} cxd6 27. Nxd6 Rff8 28. Nxb6 Ng5
+{Black should continue brutally, but White is faster... However, White had to
+find the Rf2 and then the Nd5 move; he didn't manage to do it during the game.}
+(28... Rad8 29. Bf1 Qe6 30. Bc4) 29. Qb3+) 23... Bxg2+ $1 {It's amazing that
+White didn't foresee it... Black has a very strong attack now!} 24. Kxg2 Qh3+
+$3 {This move was totally missed by White and, for that reason, he played like
+this. Now it's all over because Black is pulling out White's king hand; then,
+the checkmate will be inevitable on the light squares. A checkmate that
+started from the amazing bishop sacrifice on h3.} (24... Ng5 $2 25. Rf2 $1 {
+White happily sacrifices the rook in order to stop White's attack. If Black
+attack is over, then the powerful passed pawns, c and d, will decide the game.}
+) 25. Kxh3 (25. Kh1 g2# {
+This is the well known checkmate as we've seen earlier.}) 25... Ng5+ 26. Kg2
+Nh4+ 27. Kh1 g2# 0-1
+
+[Event "NED-chT 9899"]
+[Site "Netherlands"]
+[Date "1999.02.06"]
+[Round "6"]
+[White "Winants, Luc"]
+[Black "Kabatianski, Alexander"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2480"]
+[BlackElo "2425"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "1998.??.??"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "1999.08.01"]
+
+1. d4 Nf6 2. Bg5 e6 3. e3 c5 4. Nf3 Be7 5. Bd3 cxd4 6. exd4 b6 7. O-O Bb7 8. c4
+O-O 9. Nc3 d5 10. Qe2 dxc4 11. Bxc4 Nc6 12. Rad1 h6 13. Bc1 Re8 14. a3 Bf8 15.
+Ba2 Rc8 16. Rfe1 Ne7 17. Ne5 Ned5 18. Qd3 Qc7 19. Nb5 Qb8 20. Bb1 Be7 {
+Diagram #} 21. Bxh6 $1 {White has some good attacking moves here because all
+of his pieces are extremely active and focused against the enemy king. White
+sacrifices the bishop in order to open lines against the enemy king. He is not
+winning on the move, but the attack is very dangerous after the sacrificed
+piece.} (21. Nd7 $5 {This is another interesting idea in order to control the
+f8-square and try to remove the defender, Nf6, from the h7-square.} Qa8 (21...
+Nxd7 22. Qh7+ Kf8 23. Qh8#) 22. Bxh6 gxh6 23. Rxe6 $3 $40 {This is outstanding.
+.. White's idea is to remove the defender of the g6-square and, similarly, to
+capture the f6-knight.} fxe6 (23... Rc6 24. Re5 $1 {The rook captured a pawn
+on e6 and now he continues with the attack. It's threatening to capture the
+d5-knight this time because the f6- knight is overloaded, defending h7 and d5
+at the same time.}) 24. Qg6+ Kh8 25. Ne5 $18) (21. Bd2 $5) (21. Nc3 $5) 21...
+gxh6 22. Qg3+ Kf8 23. Qh4 $6 {White didn't find the best move during the game,
+but his move was also playable. He sacrifices the bishop for positional
+reasons, to open lines; and now he is building his attack.} (23. Bg6 $3 fxg6
+24. Qxg6 {And checkmate on f7.}) 23... h5 24. Qg5 Bd6 25. Bf5 $1 {Now White fou
+nd the strongest attacking continuation. He cannot continue normally because
+the enemy king can escape. However, White intends to destroy the cover of the
+f7- and e6-pawns.} (25. Qh6+ Ke7 26. Qg7 Rf8 27. Ng6+ Kd7 $132 {
+And Black's king manages to escape!}) 25... exf5 (25... Ke7 26. Qg7 Rf8 27.
+Nxf7 Rxf7 28. Rxe6+ $40) (25... Re7 26. Qh6+ Kg8 27. Nxd6 Qxd6 28. Rd3 $40) 26.
+Nd7+ {When you're attacking, it's important to cut off the enemy king. If the
+black king manages to escape to the queenside, then the attack will be over
+and Black will have a winning advantage thanks to his material superiority.}
+Nxd7 27. Qh6+ Kg8 28. Nxd6 {
+And after a long fight, White manages to win the game.} (28. Qg5+ Kf8 29. Qh6+
+$11) 28... Qxd6 29. Qxd6 N7f6 30. Qg3+ Kf8 31. Qg5 Rxe1+ 32. Rxe1 f4 33. h3 Re8
+34. Qh6+ Kg8 35. Re5 Rxe5 36. dxe5 1-0
+

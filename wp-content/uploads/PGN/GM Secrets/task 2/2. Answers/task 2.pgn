@@ -1,0 +1,272 @@
+[Event "Geller Memorial"]
+[Site ""]
+[Date "2007.09.??"]
+[Round "5"]
+[White "Sulejmanova Ava (RUS) "]
+[Black "Smirnov Igor"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 d5 {%02 (The pawn move, prepaartion for development.)} 2.exd5
+Nf6 {%02 (Pricniple of the least active piece.)} 3.c4 c6 {%02 (Principle of neutralizing of an oppoent's pieces on your territory of the board.)}
+4.d4 cxd5 {%02 (Winning the material)} 5.Nc3 g6 {%02 (The preparation for development.)}
+6.Nf3 Bg7 {%02
+ (According to the principle of the least active piece black should develop the
+knigh first. But into this position the pricniple of flexibility works - black
+need to make castling anyway, then black will decide what to do better with the queen-side pieces.)}
+7.cxd5 O-O 8.Bc4 Nbd7 {%02 (Principle of the least active piece.)}
+9.O-O Nb6 {%02 (Principle of an attack. Pricniple of the least active piece.)}
+10.Qb3 Bf5 {%02
+ (Principle of the least active piece. According to the princilpe of maximum
+activity black should play Bg4. But into this position it doesn't work well, because of the white's answer Ne5)}
+11.Bg5 Ne4 {%02 (Principle of an attack - black is attacking the bishop)}
+12.Rfe1 Nxg5 {%02 (winning the material)} 13.Nxg5 Rc8 {%02 (Principle of an attack. Force white to go back.)}
+14.Bf1 e5 {%02 (Principle of an attack.)} 15.Nxf7 Rxf7 16.dxe5
+Rxc3 {%02 (The forcing move in the tactical position. It helps black to destroy the white's powerful pawn center)}
+17.bxc3 Qxd5 {%02 (Principle of the material. Principle of the least active piece - the queen didn't make the moves in this game)}
+18.Qb4 Bf8 {%02 (The pricniple of an attack - attack if you can!)}
+19.Qh4 Be7 {%02 (Attack)} 20.Qg3 Be6 {%02 (Limitation of the white's activity - blockade the passed pawn.)}
+21.Kh1 Qd2 {%02 (The attacking move. Principle of maximum activity.)}
+22.f3 Qxc3 {%02 (Winning the material.)} 23.Rac1 Qd2 {%02
+ (Principle of maximum activity. When you need to decide where the piece should
+go - you should choose the most forward square.)} 24.Bb5 Qb4
+{%02 (Attack)} 25.Rb1 Qf4 {%02 (It was better to go forward, but practically it is easier to realize the material advantage in the endgame.)}
+26.a4 Qxg3 {%02 (The forcing move.)} 27.hxg3 Bc5 {%02 (Pricniple of an attack - threatening Bf2.)}
+28.Kh2 a6 {%02 (An attacking move.)} 29.Rec1 Be3 {%02 (Attack)}
+30.Rc3 Bd4 {%02 (As usual in the tactical variations we should make the forcing moves)}
+31.Rd3 Bf5 {%02 (Attack)} 32.Rxd4 Bxb1 {%02 (Winnign the material)}
+33.e6 Re7 {%02 (Attacking the pawn)} 34.Bd7 Bf5 {%02 (Attack)}
+35.Rb4 Nxd7 {%02 (Winning the material.)} 0-1
+
+[Event "It"]
+[Site ""]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Nimzowitsch Aaron "]
+[Black "Capablanca Jose Raul (CUB) "]
+[Result "0-1"]
+[ECO "C62"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 {%02 (The preparation for development.)} 2.Nf3 Nc6 {%02 (The least active piece and protect the material.)}
+3.Nc3 Nf6 {%02 (Principle of the least active piece.)} 4.Bb5
+d6 {%02 (Protect the e5 pawn, but close the diagonal for the black-squared bishop. So
+it is a bad move, since the pieces activity is the most important idea.)}
+5.d4 Bd7 {%02 (Defend the material. Principle of keeping up the tension.)}
+6.Bxc6 Bxc6 {%02 (Principle of maximum activity - we should move the pieces first, not the pawns.)}
+7.Qd3 exd4 {%02 (Black has to remove the tension to save the pawn.)}
+8.Nxd4 g6 {%02 (The preparation for development. Principle of maximum activity - on the g7 bishop will be the most active.)}
+9.Nxc6 bxc6 10.Qa6 Qd7 {%02 (Keep the material and move the piece.)}
+11.Qb7 Rc8 12.Qxa7 Bg7 {%02 (development)} 13.O-O O-O {%02 (Black have finished the main opening's tasks.)}
+14.Qa6 Rfe8 {%02 (An attack. Principle of the least active piece.)}
+15.Qd3 Qe6 {%02 (An attack. Maximum activity.)} 16.f3 Nd7 {%02
+ (In the middlegame we should compose an attacking plan. Usually we need to
+open the position to start an attack. In this position black already has some
+open file on the queen-side. So it would be easier for black to attack there.
+Then we need to realize how exactly we will use the pieces to realize our plan.
+Black's rooks should be on the "a" and "b" lines. Bishop is on the good
+position. Knight need to be transfered on the queen-side with a maneuveur Nd7-c5 or Nd7-e5-c4)}
+17.Bd2 Ne5 {%02 (An attack)} 18.Qe2 Nc4 {%02 (Attack)} 19.Rab1
+Ra8 20.a4 Nxd2 {%02 (Winning the material, because bishop is stronger)}
+21.Qxd2 Qc4 {%02 (An attack - threatening to take Bc3 and win the pawn a4 then)}
+22.Rfd1 Reb8 {%02
+ (Principle of the least active piece. In this position also works the
+well-known principle: "The threat is stronger than its execution." It means you
+should save several possible threats and choose the best one in the future,
+depending on the concrete situation. So it is also a principle of flexibility.)}
+23.Qe3 Rb4 {%02 (Maximum activity)} 24.Qg5 Bd4+ {%02 (The forcing move. Maximum activity)}
+25.Kh1 Rab8 {%02 (An attack)} 26.Rxd4 Qxd4 27.Rd1 Qc4 {%02 (According to the principle of maximum activity it was better to play Qf2)}
+28.h4 Rxb2 {%02 (Winning the material)} 29.Qd2 Qc5 {%02 (The preparation for attack. If you can't attack right now - you should prepare an attack on the next move.)}
+30.Re1 Qh5 {%02 (An attack.)} 31.Ra1 Qxh4+ {%02 (Winning the material)}
+32.Kg1 Qh5 {%02 (Principle of the least active piece - brining the queen back in the game)}
+33.a5 Ra8 {%02 (An attack)} 34.a6 Qc5+ {%02 (The forcing move)}
+35.Kh1 Qc4 {%02 (An attack and the move forward.)} 36.a7 Qc5
+{%02 (An attack)} 37.e5 Qxe5 {%02 (Winning the material)} 38.Ra4
+Qh5+ {%02 (The forcing move)} 39.Kg1 Qc5+ {%02 (Check)} 40.Kh2
+d5 {%02 (Accoring to the principle of material it was better to play Ra7)}
+( 40...Rxa7 41.Ne4 Qe5+ 42.f4 Qe7 43.Rxa7 Qh4+ 44.Kg1 Rb1+ $19 )
+41.Rh4 Rxa7 0-1
+
+[Event "X Miedzynarodowe Mistrzostwa Gdanska"]
+[Site ""]
+[Date "2008.07.??"]
+[Round "8"]
+[White "Smirnov Igor"]
+[Black "Stolarczyk Adam (POL) "]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 {%02 (The preparation for development)} d6 {%02
+ (The preparation for development, but it breaks the principle of maximum of
+activity - the most forward move with a "d" pawn is d7-d5)} 2.d4
+{%02 (preparation for development)} Nf6 3.Nc3 g6 4.f4 {%02 (It is a pawn move, and it doesn't prepare the development. So the move Nf3 should be better.)}
+Bg7 {%02 (The development of a piece. According to the principle of the least active
+piece we usually need to develop the knights before bishops. But into this
+position Nc6 doesn't work well for black, because white can push the knight back after the move d4-d5)}
+5.Nf3 {%02 (Principle of the least active piece)} c5 {%02 (It is the pawn move, which doesn't help black to develop something. So it should be wrong)}
+6.Bb5+ {%02 (Principle of the least active piece. Principle of maximum of activity.)}
+Bd7 7.Bxd7+ {%02 (We should try to make the forcing moves first of all in the situation when we can see the contact between the pieces.)}
+Nfxd7 8.d5 {%02
+ (Principle of maximum activity - go forward. Principle of keeping up the
+preassure - don't take in take in the situation with the contacts between the pieces.)}
+Qa5 9.O-O {%02
+ (The opponent's attack was premature, because he didn't resume the realization
+of the main opening tasks. It means white should not defend. After the mistake
+of the opponent we should try to start an attack. That's why white can resume
+the development and make the positional sacrifice of a pawn to open the lines for the attack.)}
+b5 10.e5 {%02
+ (Principle of maximum activity - black is threatening b4 pushing the knight
+back. As we know we should go forward and not to go back. So white is preparing
+the e4 square for the knight. Principle of an attack - after the mistakes of
+the opponent we should start to make the moves on his territory of the board.)}
+O-O 11.e6 {%02 (Principle of an attack - you should attack something if you can.)}
+fxe6 12.Qe2 {%02 (Principle of attack - threatening Qe6. Principle of maximum activity - we should move the pieces, not the pawns.)}
+e5 13.Nxb5 {%02(Principle of the material - take!)} Na6 14.Bd2
+{%02 (Principle of an attack. Principle of the least active piece. White have finished the main opening tasks.)}
+Qb6 15.c4 {%02
+ (In the middlegame we should try to attack. White can't attack in the center
+immediately, because he needs to protect the knight. So white is defending the knight and prepare an attack on the next move.)}
+Nb4 16.fxe5 {%02(The forcing move. To start the real attack we should open the position first.)}
+Rxf3 17.Qxf3 Nxe5 18.Qe4 {%02 (Principle of maximum activity - go forward, go in the center.)}
+Nbd3 19.b3 {%02 (Principle of material - save your material.)}
+a6 20.Nc3 Qb7 21.Rad1 {%02
+ (Principle of the least active piece. Principle of neutralizing the opponent's
+pieces, which is on your territory of the board.)} a5 22.Nb5
+{%02 (Principle of maximum activity.)} a4 23.Bc3 {%02 (Principle of maximum activity. Neutralize the knight.)}
+Nb4 24.a3 {%02 (Principle of an attack. Principle of neutralizing the opponent's pieces on your territory of the board.)}
+Na6 25.bxa4 {%02 (Principle of material - take!)} Nc7 26.Rb1
+{%02 (Principle of an attack. Principle of the least active piece. Principle of maximum activity.)}
+Qc8 27.Nxc7 {%02 (Take the opponent's piece in the situation with the contact between the pieces. So this should be wrong.)}
+Qxc7 28.a5 {%02 (Principle of material)} Qc8 29.h3 {%02 (Pawn move, so it breaks the principle of maximum activity. We should use the pieces first.)}
+Qa6 30.Rb5 {%02 (The principle of a material. Principle of maximum activity - go forward.)}
+Re8 31.Bxe5 {%02 (Bishop is stronger than a knight, so we should not trade it.)}
+Bxe5 32.Qg4 {%02 (Principle of an attack - intending to play Qe6 or Qd7)}
+Qa8 33.Qd7 {%02 (Principle of maximum activity - go as forward as it possible.)}
+Bd4+ 34.Kh1 Rf8 35.Qe6+ {%02
+ (The forcing move, which we shoud try to make first after the opponent's move
+Rf8 (which created contact between the pieces).)} Kh8 36.Rxf8+
+{%02 (The forcing move)} Qxf8 37.Rb1 {%02 (Protect the king)}
+Be5 38.a6 {%02 (In the endgame we should use the passed pawns.)}
+Qf4 39.Rb8+ {%02
+ (The forcing move. Principle of an attack - we should try to make an attacking
+moves all the time, nomatter if the opponent attacked us with his last move or not.)}
+Kg7 40.Qxe7+ {%02 (The forcing move.)} 1-0
+
+[Event "It"]
+[Site ""]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB) "]
+[Black "Hodges Albert "]
+[Result "1-0"]
+[ECO "C83"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 {%02 (The preparation for development)} e5 2.Nf3 {%02 (Principle of an attack. Principle of the least active piece.)}
+Nc6 3.Bb5 {%02 (A principle of an attack - white is putting the pressure on the e5 pawn.)}
+a6 4.Ba4 {%02 (Bishop is stronger than knight and we should keep the material.)}
+Nf6 5.O-O {%02
+ (Development. Principle of flexibility - the castling should be done anyway,
+then white will decide how to develop better the queen-side pieces. White
+doesn't protect the e4 pawn, because we should make the defencive moves only after the REAL threat of an opponent.)}
+Nxe4 6.d4 {%02 (Principle of an attack. Preparation for development.)}
+b5 7.Bb3 d5 8.dxe5 {%02 (Take the material.)} Be6 9.c3 {%02
+ (White is trying to save the bishop b3, so white is preparing a square for an
+escape - c2. But it is a pawn move, which doesn't help white to develop something. So it is not the best move.)}
+Be7 10.Nbd2 {%02 (Principle of the least active piece. Principle of neutralizing an opponent's piece on your territory of the board.)}
+Nc5 11.Bc2 {%02 (Saving the material.)} d4 12.Ne4 {%02
+ (Principle of the least active piece - white is preparing the development of
+bishop from c1. Principle of maximum activity - the most forward move.
+Pricniple of keeping up the tension- white didn't take on d4.)}
+dxc3 13.Nxc5 {%02 (The forcing move in the tactical position.)}
+Bxc5 14.Be4 {%02 (An attacking move. Counterblows happens very often. You only need to try to find an attacking moves at every move.)}
+Qd7 15.bxc3 {%02 (Taking the material)} Rd8 16.Qxd7+ {%02 (A forcing move, which force black to go back.)}
+Bxd7 17.Rd1 {%02
+ (Sometimes according to the principle of the least active piece we should move
+the rook before bishop. For example in this position the bishop c1 is already quite active. And the rook f1 does nothing.)}
+Nb8 18.Nd4 {%02
+ (The principle of maximum activity, but it breaks the principle of the least
+active piece. So the best move should be Bg5 (it is also an attacking move.).)}
+Be7 19.Be3 {%02
+ (Principle of the least active piece. According to the principle of maximum
+activity white should play Bf4, but in this case the white's pawn e5 restrict an activity of the bishop. )}
+O-O {%02 (Principle of the least active piece, white is preparing the development of rook a1.)}
+20.Rd2 c5 21.Nb3 {%02 (An attack)} Rc8 22.Rad1 {%02 (An attack. Principle of the least active piece.)}
+Bg4 23.f3 {%02 (An attack. Neutralize an opponent's piece on the white's territory.)}
+Be6 24.f4 {%02
+ (The main plan in the endgame - advance your passed pawns. In this position
+white has the pawns majority on the king-side, so white should push the pawns there to create a passed pawn.)}
+g6 25.h3 {%02 (The preparation of "g4" move)} c4 26.Nd4 {%02 (An attack. Principle of center - we should bring the pieces in direction of center.)}
+Bc5 27.Kf2 {%02 (An attack - white is protecting the bishop e3 and threatening Ne6 again. Principle of the least active piece.)}
+Bd7 28.Nc2 {%02 (An attack. Neutralize the black's bishop c5, which looks at the white's territory of the board.)}
+Bxe3+ 29.Kxe3 {%02 (In the endgame king should be in the center)}
+Bc6 30.Rd6 {%02 (Principle of maximum activity)} Rc7 31.Nb4 {%02 (An attack. Maximum activity.)}
+Bxe4 32.Kxe4 a5 33.Nd5 {%02 (An attack. Centralization)} Ra7
+34.a3 {%02 (In the endgame we should attack the opponent's weak pawns. By moving a3 white
+is fixing an object of an attack and don't allow black to exchange it after b4.
+So it make sence. But according to the principle of maximum activity - moving
+of the pieces (not pawns) are the most effective. So it was better for white to play Nf6 following with Rd8)}
+Na6 35.Rc6 {%02 (Limit an activity of the black's knight.)} Rb8
+36.Nf6+ {%02 (The forcing move)} Kg7 37.Rdd6 {%02 (An attack)}
+b4 38.axb4 axb4 39.Rxa6 {%02 (Winning the material)} Rc7 40.Rab6
+{%02 (An attack)} 1-0
+
+[Event "Geller Memorial"]
+[Site ""]
+[Date "2007.09.??"]
+[Round "?"]
+[White "Golovlev Nikolaj (UKR) "]
+[Black "Smirnov Igor"]
+[Result "0-1"]
+[ECO "E53"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 {%02 (Principle of the least active piece)} 2.c4 e6
+{%02 (The preparation for development.)} 3.Nc3 Bb4 {%02 (Principle of maximum activity - goes as forward as possible. Limit the opponent's activity - prevent the "e4" move.)}
+4.e3 O-O {%02 (development, realizing the main opening's tasks.)}
+5.Bd3 d5 {%02 (The pawn move, preparation for development and attack the white's center.)}
+6.a3 Bxc3+ {%02 (The forcing move. It trades the bishop for knight, but helps black not to make the move back.)}
+7.bxc3 dxc4 {%02 (It removes the pressure, but in this position black has a concrete tactical idea.)}
+8.Bxc4 c5 {%02 (attack the white's center)} 9.Nf3 Qc7 {%02
+ (The attacking move - threatening the discovered attack after cxd4. Now we can
+realize why did black entice the white's bishop onto c4 square.)}
+10.Qc2 b6 {%02 (Preparation for development.)} 11.Bd3 cxd4 {%02 (Forcing move, which force the white's bishop to go back.)}
+12.cxd4 Qxc2 13.Bxc2 Ba6 {%02 (Principle of maximum activity. Limit the white's activity, because prevent castle.)}
+14.Bb2 Nc6 {%02 (Principle of the least active piece. Principle of maximum activity. Black have finished the main opening's tasks.)}
+15.Rc1 Rac8 {%02 (Principle of the least active piece. Principle of maximum activity - the rook is usually most active on the open line.)}
+16.h3 Na5 {%02
+ (Principle of the attack - after finishing the main opening's tasks we should
+start an attack. To realise this - we should start to make the moves of our
+pieces forward on the opponent's territory of the board.)} 17.Ne5
+Nd5 {%02 (the same, like the previous move)} 18.Kd1 f6 {%02 (Neutralizing the atcivity of the white's knight, which is on the black's territory of the board.)}
+19.Nd3 Nc4 {%02 (Principle of an attack)} 20.e4 Nxb2+ {%02 (The forcing move. Principle of the material - bishop is stronger than knight)}
+21.Nxb2 Nc3+ {%02 (The forcing move. Principle of maximum activity - goes as forward as it possible.)}
+22.Kd2 Ne2 {%02 (The principle of an attack.)} 23.Bd3 Nxc1 {%02 (Take the material advantage)}
+24.Bxa6 Nb3+ {%02 (The forcing move, which we should try to make first in the tactical positions.)}
+25.Ke3 Rc3+ {%02 (The attacking move. The forcing move.)} 26.Nd3
+Rd8 {%02 (The attacking move. Principle of the least active piece.)}
+27.d5 exd5 {%02 (winning the material)} 28.exd5 Rxd5 {%02 (winning the material)}
+ 0-1
+

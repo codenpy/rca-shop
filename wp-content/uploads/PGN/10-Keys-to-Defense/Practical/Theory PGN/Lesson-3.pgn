@@ -1,0 +1,58 @@
+[Event "Dubai Open"]
+[Site "?"]
+[Date "2016.04.17"]
+[Round "7"]
+[White "Di Berardino, D."]
+[Black "Ris, R."]
+[Result "0-1"]
+[ECO "B01"]
+[Annotator "Ris,Robert"]
+[SetUp "1"]
+[FEN "2rqk2r/p2b1p1p/4p2Q/1pp2p2/8/1BPP4/PP1R2PP/2K1R3 b k - 0 21"]
+[PlyCount "73"]
+[EventDate "2016.??.??"]
+
+21... Rg8 22. Qxh7 (22. Bxe6 Bxe6 23. Rxe6+ fxe6 24. Qxe6+ Kf8 25. Qxf5+ Kg7)
+22... Qg5 23. Qh3 Bc6 (23... a5 $5) 24. g3 Ke7 25. Qf1 Rgd8 26. Bc2 b4 (26...
+Bd5) 27. Qf2 Bd5 28. c4 Bb7 29. Re5 Kd6 30. Re1 (30. d4 cxd4 31. Qxd4+ (31. h4
+Qh6 (31... Qxd2+ 32. Kxd2 Kxe5 33. Qf4+ Kf6 34. Qg5+ Ke5 35. Bxf5) 32. Rb5 Be4)
+31... Ke7) 30... Kc6 31. Kb1 Rd4 32. Rde2 Rcd8 33. Re5 Kb6 34. R1e2 Bc6 35. Qe1
+a5 36. a3 Qf6 37. R5e3 R8d6 38. axb4 axb4 39. Rf2 Qh6 40. Re5 Rd7 41. Rfe2 Qh8
+42. Qf2 Ra7 43. Qe3 Qa8 44. Kc1 Ra1+ 45. Kd2 b3 (45... Qa2 46. Rxc5 Qxb2 (46...
+Kxc5 47. Qe5+)) 46. Rxc5 (46. Bxb3 Be4 47. Qxd4 cxd4 48. dxe4) 46... bxc2 47.
+Rb5+ Kc7 48. Kxc2 Bxb5 (48... Rd6) 49. Qxd4 Qa4+ 50. Kd2 Qb4+ 51. Ke3 Bd7 52.
+Qf6 Re1 53. Qe5+ Kb7 54. Kf4 f6 55. Qe3 Rf1+ 56. Rf2 Bc6 57. Qe2 Re1 0-1
+
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "2009.03.25"]
+[Round "2"]
+[White "Tratatovici, Dan"]
+[Black "Ris, Robert"]
+[Result "0-1"]
+[ECO "B85"]
+[WhiteElo "2122"]
+[BlackElo "2436"]
+[Annotator "Robert Ris"]
+[PlyCount "78"]
+[EventDate "2009.03.24"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "2009.05.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Nc6 8. Be3
+Qc7 9. O-O Be7 10. Kh1 O-O 11. g4 Nxd4 12. Bxd4 {Diagram #} b5 (12... e5 13.
+Be3 exf4 14. Bxf4 Be6 15. g5 Nd7) 13. g5 Nd7 14. Bd3 Bb7 15. Qh5 e5 (15... Rac8
+16. Rf3 g6 17. Qxh7+ Kxh7 18. Rh3+ Kg8 19. Rh8#) 16. Nd5 (16. fxe5 Nxe5) 16...
+Qd8 (16... Bxd5 17. exd5 g6 18. Qh6 exd4 (18... Qb7) 19. f5 Bxg5 20. Qxg5 f6
+21. Qh6 g5) 17. Rf3 exd4 18. Rh3 h6 19. Rg1 Kh8 20. f5 Bxd5 21. exd5 (21. gxh6
+g6 22. fxg6 fxg6 23. Qxg6 Rg8 (23... Bf6 24. h7) 24. Qg7+ Rxg7 25. hxg7+ Kg8
+26. exd5 Bf6 27. Rh8+ Kf7 28. Bf5 Qxh8 (28... Nc5 $2 29. g8=Q+ Qxg8 30. Be6+
+Nxe6 31. dxe6+ Kxe6 32. Rhxg8) 29. gxh8=Q Rxh8 30. Bxd7) 21... Bxg5 (21... Ne5)
+22. Rxg5 Qf6 (22... a5 23. Qxh6+ gxh6 24. Rxh6#) 23. Rhg3 Rg8 24. R5g4 Rae8 $19
+25. Qh4 Re5 26. Qxf6 Nxf6 27. Rxd4 Rc8 28. c4 bxc4 29. Rxc4 Rb8 30. b3 Rxd5 31.
+Rc7 Rf8 32. Rf3 a5 33. a3 Ng4 34. Bc2 Rd2 35. h3 Re8 36. Rf1 Ree2 37. Rc1 Rh2+
+38. Kg1 Rdg2+ 39. Kf1 Ne3+ 0-1
+

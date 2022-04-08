@@ -1,0 +1,471 @@
+[Event "Rated game, 5m + 2s"]
+[Site "?"]
+[Date "2011.04.17"]
+[Round "?"]
+[White "Sumulica1"]
+[Black "Tazmania-999"]
+[Result "0-1"]
+[WhiteElo "1486"]
+[BlackElo "1934"]
+[Annotator "Smirnov+Kesaris"]
+[SetUp "1"]
+[FEN "r2q1rk1/p1pbppbp/1pnp2p1/8/2PP3N/P1P1P1P1/5PBP/1RBQ1RK1 b - - 0 12"]
+[PlyCount "61"]
+[EventDate "2011.??.??"]
+[Source "playchess.com"]
+
+{An opening stage is almost finished, the position is quite static, so it's
+time to compose a middlegame plan. First we should choose a direction of an
+attack. White has weaknesses on the queen-side and the weakest point is the c4
+pawn. Next we should think about the best squares for our pieces to realize
+this plan. The a6-rook can go to c8 and after c5 it will pressure the c4 and
+c3 pawns. The d7-bishop may go to e6 or a6. The c6 knight will be certainly
+placed on a5.} 12... Rc8 13. Bb2 Na5 14. Qe2 c5 {(this also helps black to fix
+the weaknesses)} 15. Rfc1 Qc7 16. d5 Rce8 {(Black is giving the c8 square for
+the bishop's transfer to c8-a6. Also black is preparing the central
+advancement e6. If you can play in the center - do it).} 17. Rf1 Bc8 18. Nf3
+Ba6 19. Nd2 Qd7 20. Rfe1 Qa4 21. Bf1 e6 {(White protected his queen-side pawns
+and black is looking for the 2nd weakness)} 22. e4 $2 exd5 23. Qg4 dxe4 24.
+Nxe4 f5 25. Nxc5 dxc5 26. Qf3 Bb7 27. Qd1 Qc6 28. Qd5+ Qxd5 29. cxd5 Bxd5 30.
+c4 Bxc4 31. Bxg7 Kxg7 32. Bxc4 Nxc4 33. a4 Nd2 34. Rxe8 Nxb1 35. Re7+ Rf7 36.
+Re1 Nc3 37. Ra1 Rd7 38. f3 Rd1+ 39. Rxd1 Nxd1 40. Kf1 Nc3 41. a5 b5 42. Ke1 a6
+0-1
+
+[Event "8th ICT"]
+[Site "?"]
+[Date "2008.05.01"]
+[Round "9"]
+[White "DEEP SJENG"]
+[Black "HANSDAMPF"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2qrbk1/5ppp/p2p1n2/nppPp2b/4P3/2P1BN1P/PPBN1PP1/R2QR1K1 w - c6 0 15"]
+[PlyCount "67"]
+[EventDate "2008.??.??"]
+[Source "The Week in Ches"]
+
+{When the center is closed we should transfer an attack on a side. White is
+stronger on the queen-side where he has a space advantage (due to the pawn d5).
+Therefore white should attack here. In the closed positions we should use
+pawns to open a position. Only then we'll be able to organize an effective
+attack.} 15. b4 {(This also pushes the black's knight back on the passive
+position)} Nb7 16. a4 Bg6 17. Qb1 Qc7 {(White forces black to remove the
+tension. After that it'll be simpler for white to perform different maneuvers)}
+18. Bd3 c4 19. Bc2 Be7 20. Qb2 {(White is preparing doubling rooks on a-file)}
+Rac8 21. Ra3 Nh5 22. axb5 axb5 23. Rea1 f5 24. exf5 Bf7 25. Ra7 Bxd5 {(The
+center became open and so white should start thinking about the central
+situation. Since white has no pawns in a center, white should place his pieces
+on the central squares.)} 26. Qb1 Nf6 27. Ng5 Qd7 28. Ne6 Bc6 (28... Bxe6 $2
+29. fxe6 Qxe6 30. Rxb7 $18) 29. Ne4 Nxe4 30. Bxe4 d5 31. Bf3 d4 32. Bxc6 Qxc6
+33. cxd4 exd4 34. Bxd4 Bf8 35. Qb2 Re7 36. Nxf8 c3 (36... Rxf8 37. Bc5 Nxc5 38.
+Rxe7 $18) 37. Bxc3 Rxf8 38. f6 gxf6 39. R7a6 Qd5 40. Bxf6 Re6 41. Rxe6 Qxe6 42.
+Ra6 Qf7 (42... Qxa6 43. Qb3+ Rf7 44. Qg3+ Kf8 45. Qb8+ $18) 43. Be5 Nd8 44. Ra3
+Qe6 45. Bh8 Rf7 46. Rg3+ Kf8 47. Bg7+ Ke7 48. Re3 1-0
+
+[Event "26th Open Dutch CCCh"]
+[Site "?"]
+[Date "2006.11.04"]
+[Round "6"]
+[White "DEEP SHREDDER"]
+[Black "DEEP GANDALF"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppnbpp1/3p3p/B2Ppb2/P1B5/3P1N2/1PP1QPPP/R3R1K1 b - - 0 16"]
+[PlyCount "160"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{(It's time for black to compose an attacking middlegame plan. 1) If you can
+play in the center - you should do it. 2) In the close position we should move
+pawns to open some lines for our piece. Black has 2 possible ideas: c6 or f5
+and e4. 3) We should play on that side of the board where your bishops look.
+Here it's a center and a king-side)} 16... Bg4 17. Bd2 f5 18. Rac1 Bh4 {(Black
+is preparing a pawn breakthrough e4 and is concentrating pieces on the
+king-side.)} 19. b4 e4 $1 20. dxe4 Ne5 21. Bd3 Qf6 22. exf5 Rae8 {(Black
+concentrated ALL his pieces on the central/king-side directions.)} 23. Qd1
+Nxf3+ 24. gxf3 Bxf5 {(After some tactical complications the position became
+stable again. It's time to think about a plan again. White has weaknesses on
+the king-side and black should attack them. The weakest point is the f3 pawn.}
+25. Be3 Rf7 $2 {(planless move)} ({An immediate attack} 25... Bh3 {doesn't
+work because of} 26. f4) (25... Bg5 $1 {black is blockading the f3 weakness
+first and will then play Bh3.}) 26. Bxf5 Qxf5 27. c4 Qh3 28. f4 Rfe7 29. Bd2
+Rxe1+ 30. Bxe1 Bf6 31. b5 Re4 32. Bd2 Bb2 33. Rb1 Bd4 34. Rc1 Kf8 35. a5 Bc5
+36. a6 bxa6 37. bxa6 Qd3 38. Rb1 Re8 39. Rb3 Qxc4 40. Be3 Qxa6 41. Rc3 Qb5 42.
+Qc2 Qd7 43. Qg6 Qh3 44. Rxc5 Rxe3 45. Rc1 Re7 46. Rb1 Re8 47. Rc1 a5 48. Qg3
+Qd7 49. Qd3 a4 50. h3 Ra8 51. Qh7 Qf7 52. Rxc7 Qxc7 53. Qh8+ Kf7 54. Qxa8 Qc1+
+55. Kg2 Qxf4 56. Qb8 Kg6 57. Qe8+ Kh7 58. Qe2 Qg5+ 59. Kh2 Qf5 60. Qa2 Kg6 61.
+Kg2 Qg5+ 62. Kf3 Qf6+ 63. Kg2 Qd4 64. Qc2+ Kf6 65. Qc6 Ke5 66. Kg1 a3 67. Qe8+
+Kf6 68. Qd8+ Kf5 69. Qd7+ Ke4 70. Qg4+ Kxd5 71. Qf3+ Ke6 72. Qxa3 d5 73. Qf8
+Qe5 74. Kg2 d4 75. Kf1 Qc7 76. Qg8+ Kd6 77. Ke2 Qc2+ 78. Ke1 Qc3+ 79. Ke2 Kc5
+80. Qf8+ Kc4 81. Qf7+ Kb4 82. Qg6 Kb3 83. Qb1+ Ka3 84. Qd3 g5 85. Qb5 Qc2+ 86.
+Ke1 Qc1+ 87. Ke2 Qc3 88. Qd3 h5 89. Qh7 h4 90. Qe7+ Kb2 91. Qb7+ Kc2 92. Qe4+
+d3+ 93. Kf3 Kc1 94. Qe3+ Kd1 95. Kg2 Qc6+ 96. Kg1 0-1
+
+[Event "X Miedzynarodowe Mistrzostwa Gdanska"]
+[Site "Gdansk (Poland)"]
+[Date "2008.07.??"]
+[Round "5"]
+[White "Smirnov, Igor"]
+[Black "Murawski Wieslaw (POL)"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r4rk1/3nbppp/p1qp1nb1/Pp2p3/4P3/2P2NNP/1PB2PP1/R1BQR1K1 w - - 0 19"]
+[PlyCount "45"]
+[EventDate "2008.??.??"]
+
+{The center is static. In such positions we should place our pieces on the
+central squares under a control of the pawn (e4). Therefore white needs to
+occupy the d5 and f5 squares. Next we should think about each piece and its
+role in our plan. The a1 rook should be on the d1. The ñ2 bishop should go to
+b3. The c1 bishop - to g5 (to pressure the f6 knight, which protects the d5
+square). The f3-knight may go to h4-f5 or h2-g4.} 19. Bg5 Rfe8 20. Bb3 Rad8 {
+(It's very simple to make right moves when you have a clear plan)} 21. Nh2 Nc5
+22. Bxf6 Bxf6 23. Bd5 Qc7 24. Ng4 Bg5 25. Ne3 Ne6 26. Nef5 Bxf5 27. exf5 Nc5
+28. b4 Na4 29. Ne4 Bf6 (29... Nxc3 30. Nxc3 Qxc3 31. Qh5 $18) 30. Qb3 Rf8 {
+White occupied the center. Now white may transfer an attack on a side. There
+are 2 possible plans: 1) c4 and attack on the queen-side. 2) g4-g5 with an
+attack on the king-side.} 31. Rad1 Qd7 32. g4 Bh4 33. Rd3 Kh8 34. Red1 g6 35.
+Rf3 f6 36. Be6 Qb7 37. Rd5 Qc6 38. Rfd3 Qc4 39. Qxc4 bxc4 40. Rd2 Bg5 41. Ra2
+1-0
+
+[Event "18th Russian Team Championship"]
+[Site "?"]
+[Date "2011.04.21"]
+[Round "9"]
+[White "Caruana Fabiano"]
+[Black "Kuznetsov Viktor"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2427"]
+[Annotator "Smirnov I"]
+[SetUp "1"]
+[FEN "r1bq1rk1/p3n1bp/1pp2pp1/2p1p3/2N1P3/3PBN1P/PPP2PP1/R2Q1RK1 w - - 0 11"]
+[PlyCount "47"]
+[EventDate "2011.??.??"]
+
+{(White has finished an opening and should compose an attacking middlegame
+plan. First it's necessary to open a position. There are 3 pawn undermine
+moves: b4, d4 and f4. Usually we should play in the center when we have a
+choice. However, it's a disputable issue in this position: c3 and d4 moves
+will open a position for 2 black's bishops.} 11. a3 {(The white's pieces (Nc4,
+Be3, Ra1) are on the right places for a queen-side attack. That's why white
+has chosen this plan.)} a5 12. b4 axb4 13. axb4 Rxa1 14. Qxa1 b5 15. Ncd2 cxb4
+{(The position became open and now white can attack the black's weaknesses
+directly)} 16. Qa2+ Kh8 17. Bc5 g5 18. Ra1 Bd7 19. Qa5 Qe8 (19... Qxa5 20. Rxa5
+Re8 21. Ra7 $18) 20. Qxb4 Rf7 21. Ra7 Bf8 22. d4 {(Black has numerous
+weaknesses. The easiest way to attack them is to open a position.)} Nc8 23. Ra8
+exd4 24. Nb3 g4 25. hxg4 Bxg4 26. Nfxd4 Bh6 27. Nf5 Bxf5 28. exf5 Rd7 29. Bd4
+Kg8 30. Nc5 Rd5 31. Qb3 Bf8 32. Qg3+ Kf7 33. Qc7+ Qe7 34. Rxc8 1-0
+
+[Event "TCEC - Elite Match - S1"]
+[Site "http://www.tcec-chess.org"]
+[Date "2011.02.05"]
+[Round "35.1"]
+[White "Houdini 1.5a"]
+[Black "Rybka 4.0"]
+[Result "1/2-1/2"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p1nbppp/p3p3/2p5/5P2/1PNB1Q2/P1PP2PP/R1B2RK1 b - - 0 12"]
+[PlyCount "154"]
+[EventDate "2011.??.??"]
+
+{Black needs to develop his queen-side pieces. In such situations it's
+important to think about EVERY piece you have and to figure our the best
+position for it. Black did it in the game and found a nice regrouping)} 12...
+Ra7 $1 {(preparing b5)} 13. a4 b6 14. Kh1 Nb8 $1 {(the knight is going to
+c6-d4 and is vacating the 7th rank for the rook)} 15. Nd1 Nc6 16. Qe4 (16. Qxc6
+Bb7 $19) 16... g6 17. Bb2 Nd4 18. b4 Rd7 {(That's why black moves the rook on
+a7 instead of b8)} 19. bxc5 Bb7 20. Qe1 Bxc5 {(Now the black's pieces are on
+the most active positions and black has an advantage.)} 21. Ne3 h5 22. h3 Nf5
+23. Kh2 Qc7 24. Bxf5 exf5 25. Nxf5 Qc6 26. Nh4 Bd6 27. Qg3 Qxc2 28. Bc3 Kh7 29.
+Rae1 b5 30. axb5 axb5 31. Rf2 Rg8 32. Be5 Bf8 33. f5 gxf5 34. d4 Rxg3 35. Rxc2
+Rg5 36. Rf2 b4 37. Bf6 Bd6+ 38. Kg1 Rg6 39. Nxg6 Kxg6 40. Be5 Be7 41. Rb2 Bd5
+42. Kf2 h4 43. Ra1 b3 44. Ra4 f6 45. Bf4 Rb7 46. Ra5 Be4 47. Ra1 Bf8 48. Ke2
+Kf7 49. Kf1 Ke6 50. Ra8 Be7 51. Ra5 Bd3+ 52. Kf2 Bc4 53. Bd2 Bd6 54. Ke3 Bc7
+55. Rc5 Bd5 56. Be1 Bd6 57. Ra5 Bxg2 58. Rxg2 b2 59. Rxb2 Rxb2 60. Ra6 f4+ 61.
+Kd3 Rb3+ 62. Kc2 Rb7 63. Bxh4 f5 64. Kd3 Rb2 65. Ra8 Rh2 66. Kc4 f3 67. d5+ Kf7
+68. Ra1 Rb2 69. Kd3 Bc5 70. Rf1 f2 71. Bg5 Ba7 72. h4 Kg6 73. d6 Rb6 74. Bf4
+Rb4 75. d7 Rd4+ 76. Ke2 Rxd7 77. Bg3 Re7+ 78. Kf3 Kh5 79. Bxf2 Bxf2 80. Rxf2
+Kg6 81. Rg2+ Kh5 82. Kf4 Ra7 83. Rg5+ Kxh4 84. Rxf5 Rb7 85. Kf3 Ra7 86. Rf4+
+Kg5 87. Rg4+ Kf5 88. Rf4+ Ke5 89. Re4+ 1/2-1/2
+
+[Event "Rated game, 3m"]
+[Site "?"]
+[Date "2011.04.15"]
+[Round "?"]
+[White "Tazmania-999"]
+[Black "Mincentar"]
+[Result "1-0"]
+[WhiteElo "1904"]
+[BlackElo "2297"]
+[Annotator "Smirnov+Kesaris"]
+[SetUp "1"]
+[FEN "2rq1rk1/1p2bpp1/p3p1p1/3pB3/3Pn3/2PQRN2/PP3PPP/5RK1 w - - 0 20"]
+[PlyCount "59"]
+[EventDate "2011.??.??"]
+[Source "playchess.com"]
+
+{In positions with a static center we should occupy central squares with our
+pieces. Here white has 2 problems: 1) he needs to neutralize the black's
+knight e4; 2) his 2 pieces (bishop and knight) wants to be placed on e5, thus
+one of them is superfluous. White found an interesting regrouping which solves
+both these problems.} 20. Ne1 $5 (20. Nd2 $2 {(trying to neutralize the
+e4-knight)} Nxd2 21. Qxd2 Bg5 22. f4 Be7 {threatening to capture the bishop
+after f6.}) (20. Bg3 f5 $5 {black is threatening f4 and white has no time for
+Ne5 move.}) 20... b5 21. a3 Bf6 22. f3 {(white kicks out the e4-knight - the
+1st problem is solved)} Nd6 23. Bxd6 $1 {(Since white has 1 superfluous piece,
+he trades it. Usually it's better to occupy strong squares with a knight.)}
+Qxd6 24. f4 {(This fixes the e5 square for the white's knight. Also white will
+be able to transfer heavy pieces to the h-file.)} Rc4 25. Nf3 a5 26. Ne5 {
+(white realized his regrouping and got an advantage)} Bxe5 27. fxe5 Qc7 28.
+Ref3 $2 (28. Rh3 $1 {(white can easily invade the h-file)} b4 29. Qg3 {and Qh4
+gave white a win}) 28... b4 29. axb4 axb4 30. Qe3 bxc3 31. bxc3 Qe7 32. Qf4 g5
+33. Qg3 Rfc8 34. h3 R8c7 35. Kh2 Qd8 36. R1f2 Qc8 37. Qxg5 Rxc3 38. Rf4 Qf8 39.
+Rh4 g6 40. Qf6 Qg7 41. Qd8+ Qf8 42. Rh8+ Kxh8 43. Qxf8+ Kh7 44. Rf4 g5 45. Rf6
+Rxh3+ 46. Kxh3 g4+ 47. Kh2 g3+ 48. Kh3 Rc8 49. Rh6# 1-0
+
+[Event "St Petersburg9596"]
+[Site "?"]
+[Date "1896.01.09"]
+[Round "4.2"]
+[White "Steinitz William"]
+[Black "Lasker Emanuel"]
+[Result "1-0"]
+[Annotator "Kasparov+Smirnov+Kesaris"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp3pp/2n1pb2/2P2p2/2BPpB2/P3P3/1PQ2PPP/R3K1NR w KQ - 0 11"]
+[PlyCount "41"]
+[EventDate "1896.??.??"]
+[Source "Tournaments"]
+
+{The position is pretty closed. Thus white will need to open it by making pawn
+moves. There are 3 possible pawn undermines: d5, f3, g4. Black can take
+control over the d5 square easily, therefore white only can use f3 and g4
+moves really.} 11. O-O-O {(After that white will play f3 (or g4) and will open
+the king-side position quickly. This should give white a strong attack.)} Kh8 (
+11... b6 {?} 12. d5 {! leads to a disaster.}) 12. f3 Qe7 $5 {(black is trying
+to mix up the things)} 13. Bg3 {! refusing the pawn sacrifice that would give
+Black an initiative:} (13. fxe4 {?} e5 14. dxe5 Nxe5 $13) 13... f4 {?! Very
+typical for Lasker - by complicating dubious positions he won many great games.
+Now he hoped for 14.Bxf4...} 14. Qxe4 {!! White sacrifices a hole piece with
+the idea to keep the center close and black pieces crabped.} (14. Bxf4 {?} e5
+15. dxe5 Nxe5 16. Qxe4 Bf5 {!} 17. Qxf5 Nxc4 {suddenly black is winning}) 14...
+fxg3 15. hxg3 {White has 2 pawns+a strong attack for a minor piece.} g6 {
+Giving up the third pawn Lasker hopes to use the g-file for defence. After the
+obvious} (15... g5 16. f4 g4 17. Ne2 Bd7 (17... Rf7 18. Qc2 b6 19. e4 Bg7 20.
+e5 h6 21. Qg6 Qe8 22. Bd3 {Kasparov-Fritz}) 18. Qc2 {followed by e3-e4-e5
+Black would die without a breath.}) 16. Qxg6 (16. f4 {!?} e5 17. fxe5 Bf5 18.
+Qf3 Bxe5 {The most active! Black give up the material to open the position and
+give free play to his pieces.} (18... Bg5 {!?})) 16... Bd7 (16... Rg8 17. Qe4
+Rxg3 {would bring the white knight into the attack:} 18. Ne2 Rg7 19. Nf4) 17.
+f4 Rf7 {? After this mistake Black's game is finally doomed.} (17... Rg8 {
+would offer solid resistance, although White's pressure remains very
+unpleasant.} 18. Qe4 Rxg3 19. Ne2 Rg7 20. Rh6 {followed by Rdh1.}) 18. g4 Rg7
+19. Qh6 {!} Rxg4 20. Bd3 Rg7 (20... Rh4 21. Rxh4 Bxh4 22. Nf3 Bf2 23. Rh1 $18)
+21. Nf3 Qf7 22. g4 {! (Black has no counterplay while white has a lot of
+possibilities to increase the pressure)} Rag8 23. g5 Bd8 24. Rh2 {! The
+disaster on h7 is unavoidable.} Rg6 25. Qh5 {!} R6g7 26. Rdh1 {!} Qxh5 27. Rxh5
+Rf8 28. Rxh7+ Rxh7 (28... Kg8 29. Rxg7+ Kxg7 30. Rh7+) 29. Rxh7+ Kg8 30. Rxd7
+Rf7 31. Bc4 (31. Bc4 Rxd7 32. Bxe6+ Rf7 33. g6 $18) 1-0
+
+[Event "2011 U.S. Championship"]
+[Site "?"]
+[Date "2011.04.21"]
+[Round "6"]
+[White "Ivanov"]
+[Black "Akobian Varuzhan"]
+[Result "1-0"]
+[BlackElo "2619"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2rq1rk1/pp1bbppp/1n2p3/3pP3/3P1P1P/PP1B1NP1/1Q2N3/1R3RK1 b - - 0 18"]
+[PlyCount "44"]
+[EventDate "2011.??.??"]
+
+{Generally the black's plan is pretty obvious - he should attack on the
+queen-side. However it's hard to do it practically. White controls most
+squares on the c-file while black's pieces are passive.} 18... Na8 $1 {(You
+should realize your plan persistently! Black found correct set up of his
+pieces, which will allow him to realize his attacking plan)} 19. Ra1 Qb6 {
+(Black is preparing Bb5. This trades black's passive bishop for the white's
+active one. After that black will be able to invade on the c2-square in the
+future)} 20. a4 {(White prevents Bb5 move, but weakens the b4 square.)} Nc7 21.
+Qb1 h6 22. g4 Na6 23. g5 Nb4 $1 {(Black realizes his plan maximally
+persistently! You should ignore your opponent as long as you can)} 24. gxh6
+gxh6 25. Kh1 Kh8 26. a5 Qd8 27. f5 Rg8 $2 ({After} 27... Nxd3 $1 28. Qxd3 exf5
+{black got a good position. He can make a lot of defensive moves if necessary:
+Rg8, Kh7, Be6 etc.}) 28. f6 Bf8 29. Bh7 Bb5 30. Bxg8 Bd3 31. Qd1 Kxg8 32. Rg1+
+Kh8 33. Nf4 Be4 34. Rg3 Rc3 35. Rc1 Nc2 36. Kh2 Ba3 37. Ng5 hxg5 38. Rxc3 Bxc1
+39. Qxc1 gxf4 40. Qg1 1-0
+
+[Event "ICC 1 0"]
+[Site "Internet Chess Club"]
+[Date "2010.06.30"]
+[Round "?"]
+[White "Charodej"]
+[Black "bambampioute"]
+[Result "1-0"]
+[WhiteElo "2442"]
+[BlackElo "2280"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1bqr1k1/3n2pp/3b1p2/p1p1pP2/PpP1P3/1N1P3P/1BP1N1P1/R2Q1RK1 w - - 0 17"]
+[PlyCount "35"]
+[EventDate "2010.??.??"]
+
+{There are a few guideline ideas in such positions. 1) Since the center is
+closed, you should attack on a side. 2) You should choose the flank where you
+have a space advantage. 3) You need to push your pawns first (this will open
+the lines for your pieces and will give you a real attack. 4) In the closed
+positions its impossible to defend. An opponent will definitely realize an
+attack on "his" flank sooner or later. Thus you should mainly develop your
+attack and try to ignore an opponent.} 17. Kh1 Nb6 18. g4 Bd7 19. Rg1 Nxa4 20.
+Bc1 Nb6 21. g5 Be7 22. g6 h6 23. Ng3 Bf8 24. Nh5 a4 25. Nxc5 Bxc5 26. Nxg7 Kxg7
+27. Bxh6+ Kxh6 28. g7 Bxg1 29. Qg4 Kh7 30. Rxg1 Kg8 31. Qh5 Rf8 32. gxf8=Q+
+Kxf8 33. Qh7 Ke8 34. Rg8# {By the way it's my 1-minute blitz game :) As you
+can see it's possible to find right moves quickly when you have a good
+strategic background.} 1-0
+
+[Event "2011 US Championship Group A"]
+[Site "?"]
+[Date "2011.04.17"]
+[Round "3"]
+[White "Shulman Yuri"]
+[Black "Ehlvest Jaan"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2b4k/1p3p1p/4rp2/1p4q1/8/P3R3/3QBPPP/6K1 w - - 0 27"]
+[PlyCount "27"]
+[EventDate "2011.??.??"]
+
+{White is going to attack the black's weak pawns. Since black has a lot of
+weaknesses, white's pieces have a lot of objects of an attack. At the same
+time the black's pieces our bound to a defense of his weak pawns. That's why
+white should avoid exchanges.} 27. h4 $1 Qg8 (27... Qxh4 $2 28. Qd8+ $18) 28.
+Rg3 {(White saved all his pieces and will have a long-term initiative)} Qf8 29.
+Bxb5 Rd6 30. Qf4 b6 31. Bd3 Bd7 32. h5 Re6 33. Bc4 Rd6 34. Kh2 f5 35. Bxf7 Rf6
+36. Rg8+ Qxg8 37. Bxg8 Kxg8 38. Qd4 Rf7 39. Qxb6 f4 40. h6 1-0
+
+[Event "Amsterdam 12/508"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Gligoric S"]
+[Black "Smyslov V"]
+[Result "0-1"]
+[Annotator "Smirnov+Smyslov"]
+[SetUp "1"]
+[FEN "r4rk1/pp1bqppp/2p2nn1/8/1bBN4/2N1P1BP/PPQ2PP1/R4RK1 b - - 0 14"]
+[PlyCount "59"]
+[EventDate "1971.??.??"]
+
+{1) When the center is opened - you should put your pieces on the central
+squares. 2) If you can play in the center - do it.} 14... Bxc3 15. bxc3 Ne4 16.
+Bh2 c5 {(Black occupies central squares and pushes away white's pieces.)} 17.
+Nf3 $2 {White doesn't know what to do.} (17. Nb5 Bc6 18. f3 {of course white
+should fight for the central squares}) 17... Bc6 $17 18. Bd3 f5 19. Rfd1 Rad8 {
+(Black gained a strong central position and now controls the situation.)} 20.
+Be2 Qf6 21. Rxd8 Rxd8 22. Rc1 h6 23. Bd3 Kh8 24. Ne1 c4 {!} 25. Bxe4 (25. Bxc4
+Rd2) 25... fxe4 26. Qe2 b5 27. Bg3 Ne7 28. Qb2 Nd5 29. Qa3 a5 {!} 30. Kh2 (30.
+Qxa5 {?} Ra8) 30... h5 31. h4 Qf8 32. Qb2 Nf6 33. Kg1 Ng4 34. Qe2 Qf6 35. f3
+exf3 36. gxf3 Ne5 37. e4 Nd3 38. Rc2 Nxe1 39. Bxe1 Rd3 40. Kg2 Qg6+ 41. Bg3 Kh7
+42. Rc1 (42. Rd2 Bxe4 {!} 43. Rxd3 cxd3) (42. Kh2 Rxf3 {!}) (42. Qe1 Qf6 $19)
+42... Qf6 43. Be1 Qf4 0-1
+
+[Event "Tournament (candidates)"]
+[Site "Zurich (Switzerland)"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Smyslov Vassily (RUS)"]
+[Black "Reshevsky Samuel H (USA)"]
+[Result "1-0"]
+[WhiteElo "2494"]
+[BlackElo "2430"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3rr1k1/4qpp1/1p1p2p1/p1n1p2n/2P1P3/1P2QPP1/PB2R1BP/5RK1 w - - 0 29"]
+[PlyCount "55"]
+[EventDate "1953.??.??"]
+
+{First we should choose a direction of an attack. Black has weak pawns b6 and
+d6 and white should attack them. Seconly we need to decide what are the best
+squares for our pieces (to realize our plan). The white's rooks probably
+should be doubled on the "d" file. The dark-squares bishop should go to e3.} 
+29. Bc1 Qc7 30. Rd1 Kh7 31. Qf2 Nf6 32. Be3 Nh5 33. Rc2 f5 {(Black doesn't
+want to wait and makes a pawn move. After a pawn move we should make
+adjustments in our plan. Since white has 2 bishops it's good for white to open
+a position.)} 34. exf5 $1 gxf5 35. g4 Nf4 36. Bxf4 exf4 37. Qh4+ Kg8 38. gxf5 {
+(Now the f4 pawn is hanning)} d5 39. cxd5 Qe5 40. Rcd2 Rd6 41. Rd4 Qe3+ 42. Kh1
+Re5 43. Qxf4 Qxf4 44. Rxf4 Re2 45. Rg4 Kf8 46. Rg6 Nb7 47. Re6 Rxa2 48. f4 Rb2
+49. Rde1 Rxe6 50. dxe6 Nd6 51. e7+ Kf7 52. Bd5+ Ke8 53. Bc6+ Kf7 54. e8=Q+ Nxe8
+55. Bxe8+ Kf6 56. Bg6 1-0
+
+[Event "Bruxelles 45/431"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Seirawan Y"]
+[Black "Beliavsky A"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2645"]
+[Annotator "Smirnov+Mikhalchishin"]
+[SetUp "1"]
+[FEN "2rqk2r/p2nbppp/2p1p3/3p1b2/N2P1B2/4PN2/PP3PPP/2RQ1RK1 b k - 0 12"]
+[PlyCount "19"]
+[EventDate "1988.??.??"]
+
+12... g5 {! (Black has enough control over the central squares and he may
+start a flank attack)} 13. Bg3 h5 {(Threatening h4)} 14. h3 g4 15. hxg4 hxg4
+16. Ne5 (16. Nh2 Nf6 {!} (16... Bh4 17. Bd6 (17. Nxg4 Qg5 18. Bxh4 Rxh4 $17))
+17. Nc5 Bxc5 18. dxc5 Ne4 19. Nxg4 Qg5 $17 {Ligterink, G}) 16... Nxe5 17. Bxe5
+(17. dxe5 c5 $17) 17... f6 18. Bg3 Kf7 19. Re1 Rh5 20. Qd2 (20. Kf1 Qa5 {!} 21.
+Ke2 {?} Qb5+ 22. Kd2 Qd3#) 20... Be4 {!} 21. Kf1 (21. Nc3 Qh8 22. Kf1 Rh1+ 23.
+Ke2 Bxg2 $19) 21... Bf3 {!} 0-1
+
+[Event "Belfort 45/18"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Kasparov G"]
+[Black "Hjartarson J"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2590"]
+[Annotator "Smirnov+Kasparov"]
+[SetUp "1"]
+[FEN "2r1r1k1/1p1nqpp1/p3bn1p/3p4/3B1Q2/P1N3P1/1P2PPBP/2RR2K1 w - - 0 21"]
+[PlyCount "47"]
+[EventDate "1988.??.??"]
+
+{Obviously white has an advantage and therefore he should attack. At the first
+sight it seems like white should capture the d5 pawn. However, there is way to
+do it really. That's why white needs another plan.} 21. e4 $1 (21. Be3 $2 Rc4)
+(21. Bxf6 $2 {(it doesn't win a pawn)} Nxf6 22. Nxd5 Nxd5 23. Bxd5 Rxc1 24.
+Qxc1 Bxd5 25. Rxd5 Qxe2 $11) 21... dxe4 22. Nxe4 {(White wants to open a
+position because of 2 major reasons: 1) this allows white to use a power of
+his 2 bishops; 2) The white's pieces are already centralized which is very
+important for positions with an open center.)} Nxe4 (22... Nd5 23. Qd6 $16) 23.
+Qxe4 $5 ({perhaps it was even stronger to trade rooks first} 23. Rxc8 $1 Rxc8
+24. Qxe4 $40) 23... Rxc1 24. Rxc1 Qd6 25. Qe3 $1 {(In open positions you
+should centralize your pieces and then use them for an attack of opponent's
+flank weaknesses)} b6 $6 {(In open positions we should avoid unnecessary pawn
+moves. This creates weaknesses and gives new objects for an attack to our
+opponent)} (25... Qb8 {was better}) 26. Rc6 Qb8 27. Qc3 $1 {(White is
+attacking black's flank weaknesses and is provoking black to make more pawn
+moves.)} f6 28. b4 Bf5 29. h3 Kh7 30. Be3 {%04!} Qd8 31. Qd4 Ne5 (31... Qe7 32.
+Rc7 $18) 32. Rxb6 $18 Qc8 (32... Qxd4 33. Bxd4 Bxh3 34. Bxe5 Bxg2 35. Kxg2 Rxe5
+36. Rxa6 $18) 33. Kh2 $6 (33. g4 $1 {attacking moves are the best}) 33... Rd8 (
+33... Bxh3 34. Bxh3 Nf3+ 35. Kg2 Ne1+ 36. Kf1 $18) 34. Qc5 {? (a blunder)} (34.
+Rd6 Rxd6 35. Qxd6 $18) 34... Bxh3 {!} 35. Be4+ (35. Bxh3 Nf3+ 36. Kg2 Ne1+ {=})
+35... Kg8 36. Qxc8 Bxc8 37. Bc5 f5 38. Bb1 {?} (38. Ba8 {kept the bishop on
+important diagonal}) 38... Rd1 {(black suddenly got a counterplay)} 39. Ba2+
+Kh7 40. Rd6 (40. Be6 Bxe6 41. Rxe6 Nf3+ 42. Kg2 Ne1+ 43. Kf1 Nd3+ 44. Kg2 {=} (
+44. Ke2 {?} Re1+ $19)) 40... Ng4+ 41. Kg2 Bb7+ 42. f3 Rc1 43. Be6 Rc2+ 44. Kg1
+1/2-1/2
+

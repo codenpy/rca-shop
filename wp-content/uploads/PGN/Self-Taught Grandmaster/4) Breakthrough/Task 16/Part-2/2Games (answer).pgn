@@ -1,0 +1,818 @@
+[Event "Khanty Mansiysk ol (Men) 39th"]
+[Site "?"]
+[Date "2010.09.29"]
+[Round "8.1"]
+[White "Le Quang Liem"]
+[Black "Papaioannou Ioannis"]
+[Result "1/2-1/2"]
+[WhiteElo "2694"]
+[BlackElo "2622"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1nb1pp/2p5/3Ppp2/2P1N3/6P1/PP1B1PBP/R2Q1RK1 w - - 0 14"]
+[PlyCount "76"]
+[EventDate "2010.??.??"]
+[Source "CBM 139"]
+
+{When you are under an attack, you should first try to ignore an opponent and
+to make a counterblow.} 14. d6 {!} fxe4 15. dxe7 Qxe7 16. Bxe4 Nf6 17. Bg2 Bf5
+18. Qe2 Rad8 19. Rfe1 Bd3 20. Qxe5 Qxe5 21. Rxe5 Bxc4 22. Bf4 Rfe8 23. Rxe8+
+Rxe8 24. Be3 a6 25. a4 Bd5 26. Bh3 Re4 27. Bc5 Re2 28. Bd4 Ne4 29. Bg4 Rd2 30.
+Rd1 Kf7 31. a5 g6 32. Kf1 h5 33. Be2 Rxd1+ 34. Bxd1 Nd2+ 35. Ke2 Nf3 36. Ke3
+Nxh2 37. Kf4 g5+ 38. Kxg5 Nf3+ 39. Bxf3 Bxf3 40. Kf4 Bd1 41. Ke5 Kg6 42. Bc5
+Bf3 43. Kd6 Kf5 44. Kc7 Be2 45. Kxb7 Bb5 46. f3 Be2 47. b4 Bb5 48. Kc7 Be2 49.
+f4 Bb5 50. Kd6 h4 51. gxh4 Kxf4 1/2-1/2
+
+[Event "Cappelle op 26th"]
+[Site "?"]
+[Date "2010.02.14"]
+[Round "2"]
+[White "Mastrovasilis Athanasios"]
+[Black "Fedorchuk Sergey A"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2641"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "rnbqk2r/1p2bppp/p2p4/1N2p3/2P5/2PQB1P1/P3PP1P/R3KB1R w KQkq - 0 12"]
+[PlyCount "168"]
+[EventDate "2010.??.??"]
+[Source "CBM 134 Extra"]
+
+12. Na7 {! When it looks like you may not do something, you should try to do
+it anyway. This is how you can find a lot of unexpected moves.    Generally 12.
+Na7 move makes sense, because we should go forward.} (12. Na3 $2 d5 $40) 12...
+Bd7 (12... Be6 13. Bg2 Qd7 14. Qe4 $40) 13. Bg2 Nc6 14. Nxc6 Bxc6 15. Bxc6+
+bxc6 {(This closes the c-file and white may not worry about his doubled
+ñ-pawns anymore)} 16. O-O O-O 17. Rab1 Qc7 18. Rb6 Rfb8 19. Rfb1 Rxb6 20. Rxb6
+Bg5 21. c5 Bxe3 22. Qxe3 d5 23. Qd3 a5 24. Qb1 e4 25. Qc1 a4 26. Qf4 Qxf4 27.
+gxf4 Kf8 28. Rxc6 Ra5 29. Kf1 Rb5 30. Ke1 Rb2 31. Rd6 Ke7 32. Rxd5 Rxa2 33. Rd4
+a3 34. Rxe4+ Kd7 35. Ra4 Kc6 36. Ra5 h5 37. f3 f5 38. h4 Ra1+ 39. Kf2 a2 40.
+Kg2 g6 41. e4 Kc7 42. e5 Kc6 43. e6 Kd5 44. e7 Re1 45. Rxa2 Rxe7 46. Ra6 Rg7
+47. Kf2 Kxc5 48. Ke3 Rg8 49. Kd3 Rd8+ 50. Kc2 Rg8 51. Rf6 Kc4 52. Rf7 Kc5 53.
+Rc7+ Kd6 54. Ra7 Kc5 55. Ra5+ Kc4 56. Ra4+ Kc5 57. Kd3 Rd8+ 58. Kc2 Re8 59. Kd2
+Rd8+ 60. Ke2 Re8+ 61. Kf2 Re6 62. Rd4 Re8 63. Rd7 Kc4 64. Rd6 Rg8 65. Ke3 Kc5
+66. Rd7 Kc6 67. Re7 Kc5 68. Kd3 Rd8+ 69. Kc2 Rg8 70. Rc7+ Kd6 71. Rc4 Ra8 72.
+Kd3 Ra1 73. Rc8 Ke7 74. Rc6 Kf7 75. Rb6 Rd1+ 76. Ke3 Re1+ 77. Kd4 Rd1+ 78. Ke5
+Re1+ 79. Kd5 Rd1+ 80. Kc6 Rh1 81. Kd6 Rd1+ 82. Kc7 Rh1 83. c4 Rxh4 84. c5 Rxf4
+85. c6 h4 86. Kb7 h3 87. c7 Rc4 88. f4 h2 89. Rb1 g5 90. Rh1 Rb4+ 91. Ka7 Rc4
+92. Kb7 Rb4+ 93. Ka7 Rc4 94. Kb7 Rb4+ 95. Ka7 Rc4 1/2-1/2
+
+[Event " 1 Eswteriko Iwanninwn"]
+[Site "?"]
+[Date "2011.03.27"]
+[Round "2"]
+[White "Bletsios D"]
+[Black "Kesaris E"]
+[Result "*"]
+[WhiteElo "1000"]
+[BlackElo "1858"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r1k2r/4bppp/p3p3/1pn1P3/3Nq3/P3B3/1PPQ2PP/1K1R3R w k - 0 18"]
+[PlyCount "7"]
+[EventDate "2011.??.??"]
+
+{An opponent's centralized king often gives you different tactical
+possibilities.} 18. Nxe6 $1 {(we should calculate all the forcing moves on the
+opponent's territory, including the moves which seems impossible)} fxe6 (18...
+Nxe6 19. Qd7+ $18) 19. Bxc5 Rxc5 (19... Rd8 20. Qa5 $1 {we should go as
+forward as it possible}) 20. Qd7+ Kf7 21. Rhf1+ $18 {In the game white's
+didn't find a correct 1st move and lost afterwards} *
+
+[Event "Odessa Pivdenny Bank 4th"]
+[Site "?"]
+[Date "2008.06.01"]
+[Round "14"]
+[White "Ponomariov Ruslan"]
+[Black "Gelfand Boris"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2723"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1q1r1k1/ppp1bp1p/3p2pP/4N3/6b1/2P1B3/PPPQBPP1/2KR3R b - - 0 14"]
+[PlyCount "6"]
+[EventDate "2008.??.??"]
+[Source "CBM 124 Extra"]
+
+14... Bxe2 $2 (14... dxe5 15. Bxg4 Qxg4 16. Qd5 {Though it gives white an
+advantage, it's the only possible line for black}) 15. Nxg6 $1 {(When you have
+an obvious move, always ask yourself "What else I can do?")} Bxd1 16. Qd4 $1 f6
+17. Qd5+ 1-0
+
+[Event "Cologne TVm2"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Huebner Robert"]
+[Black "Kasparov Garry"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2790"]
+[Annotator "Ftacnik"]
+[SetUp "1"]
+[FEN "r1b1rqk1/pp1n1ppp/2pb4/4p1B1/2PPQ3/3B1N2/PP3PPP/R2R2K1 b - - 0 14"]
+[PlyCount "3"]
+[EventDate "1992.??.??"]
+[Source "CBM 032"]
+
+14... f5 $1 {(When it seems that you may not do something aggressive, you
+should check it anyway.)} 15. Qxf5 {?} Nf6 {the queen is suddenly trapped!} 0-1
+
+[Event "Rated game, 3m"]
+[Site "?"]
+[Date "2011.04.18"]
+[Round "?"]
+[White "Tazmania-999"]
+[Black "Andrei60"]
+[Result "*"]
+[WhiteElo "1971"]
+[BlackElo "1951"]
+[Annotator "Smirnov+Kesaris"]
+[SetUp "1"]
+[FEN "3r1k2/2pr1ppb/1nq1p2p/4P2P/2P5/PP2QN2/4BPP1/2R1R1K1 w - - 0 30"]
+[PlyCount "3"]
+[EventDate "2011.??.??"]
+[Source "playchess.com"]
+
+30. Ng5 $1 {(We need to check ALL the attacking moves on the opponent's side
+quickly)} hxg5 31. Bf3 $18 *
+
+[Event "Hastings 3435"]
+[Site "?"]
+[Date "1934.12.31"]
+[Round "4"]
+[White "Botvinnik Mikhail"]
+[Black "Menchik Vera"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2rnk2/5ppp/pp2p3/3bPP2/3N4/PB4P1/1P3K1P/2RR4 w - - 0 24"]
+[PlyCount "3"]
+[EventDate "1934.??.??"]
+[Source "HCL"]
+
+24. fxe6 $1 ({after} 24. Bxd5 $2 Rxd5 {the white's advantage is not that big})
+24... Bxb3 25. e7+ {! ("What else I can do?")} (25. e7+ {!} Kxe7 26. Nc6+ Kf8
+27. Rxd8 $18) 1-0
+
+[Event "Diasulogiko prwtathlima B.D."]
+[Site "?"]
+[Date "2011.04.22"]
+[Round "4"]
+[White "Kesaris E"]
+[Black "Sigounas A"]
+[Result "1-0"]
+[WhiteElo "1858"]
+[BlackElo "1701"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2kr3r/2p1npp1/pp2q3/5b1p/NP2n3/P2P1QPP/2P2PB1/1R3RK1 w - - 0 19"]
+[PlyCount "33"]
+[EventDate "2011.??.??"]
+
+19. Rfe1 {! (We should keep and increase the tension. Maybe Re1 is not the
+best move objectively, but it makes the black's task much harder practically.)}
+(19. dxe4 {!? (though it's certainly a good move, it doesn't create any
+problems for black. The next black's moves are obvious here)} Bxh3 20. Bxh3
+Qxh3 21. e5 Kb8 $2 (21... h4 $1 {(counterattack!)} 22. Qa8+ Kd7 23. Rfd1+ Ke6
+24. Rxd8 Rxd8 25. Qxd8 hxg3 26. fxg3 Qxg3+ {with perpetual check}) 22. Nc5 $40)
+19... Bxh3 $2 {(Black made a mistake right away!)} ({better was} 19... Nc6 {
+keeping up the tension}) 20. Bxh3 $2 {(white missed a forcing win)} (20. Rxe4
+$1 {(it's an attacking and the most forcing move)} Bxg2 21. Qxg2 Qd6 22. Rxe7
+$1 Qxe7 23. Qc6 {(threatening Nb6)} Kb8 24. Nc5 $1 bxc5 25. bxc5+ Kc8 26. Qxa6+
+Kd7 27. Qa4+ $18) 20... Qxh3 21. Qxe4 {(White is threatening the e7 knight and
+the black's king)} h4 $2 {(in complex position black makes mistakes all the
+time. This is why it's so good to complicate a position and to increase the
+tension.)} ({better was} 21... Nd5) 22. Nxb6+ {! (this destroys the black's
+castling and gives white a forcing win)} cxb6 23. Qa8+ Kc7 24. Rxe7+ Kd6 25.
+Qe4 f6 () 26. Rxg7 hxg3 27. Qd4+ (27. Qf4+ {!} Kc6 28. Rc7+ Kb5 29. Qc4+ Ka4
+30. Qxa6#) 27... Kc6 28. b5+ axb5 29. Qc3+ Kd6 30. Qc7+ Ke6 31. Qe7+ Kd5 32.
+Rxb5+ Kc6 33. Qc7+ Kxb5 34. Qc4+ Ka5 35. Ra7# 1-0
+
+[Event "20th Amber Rapid"]
+[Site "Monaco MNC"]
+[Date "2011.03.19"]
+[Round "7"]
+[White "Grischuk, A."]
+[Black "Ivanchuk, V."]
+[Result "0-1"]
+[WhiteElo "2747"]
+[BlackElo "2779"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2n1rk1/p3qppp/1p4b1/2pPp3/1PR1P3/2Q3P1/P2N1PBP/4K2R b K - 0 19"]
+[PlyCount "53"]
+[EventDate "2011.??.??"]
+
+19... a5 $1 {(a counterattack!)} 20. b5 (20. bxc5 $2 b5) 20... Nb7 21. O-O Nd6
+22. a4 Rae8 23. Qb3 f5 24. Rc3 f4 25. Nc4 Nxc4 26. Qxc4 Qd7 27. Qe2 Rf6 28. g4
+Bf7 29. f3 g5 30. h4 gxh4 31. Bh3 Rg6 32. Kf2 h5 33. Rh1 Qe7 34. Rcc1 Kh7 35.
+Rcg1 Reg8 36. Kf1 Kh6 37. Rg2 c4 38. Qxc4 Qa3 39. Rf2 hxg4 40. Bxg4 Rxg4 41.
+fxg4 Rxg4 42. Qe2 Bh5 43. Rf3 Qc1+ 44. Qe1 Qc4+ 45. Kf2 Qc2+ 0-1
+
+[Event "Siegen (ol) 10c/47"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bloch, N."]
+[Black "Milbers, P."]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1k1r2nr/pp3pp1/3q2b1/2N4p/5Q1P/5PN1/PP3P2/2R2RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1970.??.??"]
+
+1. Rfd1 {! (We should calculate all the forcing moves, including the lines
+which seem impossible)} Qxf4 2. Rxd8+ (2. Rxd8+ Kc7 3. Ne6+ $18) 1-0
+
+[Event "Zheleznovodsk (izt) 40c/18"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Ferrer-Lucas, P."]
+[Black "Gurieli, N."]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1rb2rk1/p2nppbp/2pp2P1/6P1/2pPPP2/P1N1B3/1qPKQ3/3R2NR b - - 0 1"]
+[PlyCount "17"]
+[EventDate "1985.??.??"]
+
+{When your opponent is attacking you, you should think "what are the exact
+threats?" and "are they REALLY dangerous?" In this position the white's
+threats are not that dangerous actually. That's why black may and should think
+about a counterblow.} 1... Nc5 {! (This is a move forward and it creates a
+threat of Nb3)} 2. Qh2 Qxc3+ {!} 3. Ke2 (3. Kxc3 Nxe4+ 4. Kxc4 Ba6#) 3... Bg4+
+4. Nf3 Qxc2+ 5. Rd2 Bxf3+ 6. Kxf3 Qxe4+ 7. Kg4 fxg6 8. dxc5 Qxe3 9. cxd6 Qe6+
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.15"]
+[Round "?"]
+[White "GM_Gelfand(R)"]
+[Black "GM_Kramnik(R)"]
+[Result "*"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1qb1rbk1/p2n1ppp/2p2n2/2Pp4/N2Q1N2/PrB1PP2/4B1PP/R1R3K1 b - - 0 21"]
+[PlyCount "9"]
+[EventDate "2011.??.??"]
+
+21... Ne4 $1 {(We should consider forcing moves on the opponent's side,
+including the moves which seem impossible. There is a great chance that you
+will find an unexpected move for your opponent.)} 22. Bb4 (22. fxe4 $2 Rxe4 23.
+Qd2 Rxa4 $17) 22... Ng5 23. Rc3 Rxc3 24. Bxc3 f6 25. Kf2 Ne5 {with better
+chances for black} *
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.15"]
+[Round "?"]
+[White "GM_Gelfand(R)"]
+[Black "GM_Kramnik(R)"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5bk1/p3q1pp/2p1npn1/Q1Pp4/3B2P1/P3PP2/3NBK1P/8 b - - 0 35"]
+[PlyCount "19"]
+[EventDate "2011.??.??"]
+
+{In order to start an attack we should open a position first. We can do it
+with the help of pawn moves or a positional sacrifice.} 35... f5 $1 {(It's not
+even a sacrifice because black will take a pawn back easily)} 36. Nb3 (36. gxf5
+Qh4+ 37. Kf1 Nxd4 38. exd4 (38. fxg6 Qh3+ 39. Ke1 Nc2+ 40. Kd1 Nxe3+ $19) 38...
+Nf4 {with a decisive attack}) 36... Qh4+ 37. Kg1 fxg4 38. fxg4 Qh3 39. Qd2 Nh4
+40. Bd1 Nf3+ 41. Bxf3 Qxf3 42. Be5 Ng5 $1 {(When you have an obvious move, ask
+yourself "What else I can do?")} 43. h4 Nh3+ 44. Kh2 Nf2 {Black wins} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.22"]
+[Round "?"]
+[White "GM_Topalov(B)"]
+[Black "GM_Aronian(B)"]
+[Result "*"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4rrk1/pp1Q1p1q/4n2p/3pB1P1/2pP2B1/4P3/P5PP/5RK1 b - - 0 25"]
+[PlyCount "15"]
+[EventDate "2011.??.??"]
+
+{White is putting strong pressure on the black's position. It's quite hard to
+find correct defensive moves in such situation. However, you do NOT need to do
+it! Instead you should first think about a counterattack!} 25... f5 $1 {(this
+is the only attacking move and it's very simple to find it, when you are on
+the right way of thinking)} (25... hxg5 26. Bf5 (26. Qxd5 $5) 26... Qh5 27. h3
+{and white saves various attacking possibilities}) 26. Qxh7+ Kxh7 27. Bxf5+
+Rxf5 28. Rxf5 {(After this forcing variation black got a better endgame due to
+his passed pawns on the queen-side)} c3 (28... Nxg5 $5) 29. gxh6 b5 30. Bd6 a5
+31. Ba3 b4 32. Bc1 a4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.22"]
+[Round "?"]
+[White "GM_Topalov(B)"]
+[Black "GM_Aronian(B)"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4r3/1R6/4n2k/3p4/pp1P4/2p1P3/P5PP/2B3K1 b - - 0 34"]
+[PlyCount "53"]
+[EventDate "2011.??.??"]
+
+34... Nf4 $1 {(we need to consider all the attacking moves forward)} 35. exf4
+Re1+ 36. Kf2 Rxc1 37. Rxb4 Ra1 38. Rb6+ Kg7 39. Rc6 Rxa2+ 40. Ke3 Rxg2 41. Rxc3
+Rxh2 42. Rc6 a3 43. f5 Rh6 44. Rc1 Ra6 45. Kd3 a2 46. Ra1 Kf6 47. Kc3 Kxf5 48.
+Kb2 Ke4 49. Re1+ Kxd4 50. Ka1 Kc3 51. Rc1+ Kd2 52. Rc2+ Kd3 53. Rc3+ Ke4 54.
+Rh3 d4 55. Rh4+ Kd3 56. Rh3+ Kc4 57. Rc3+ Kd5 58. Rh3 Rb6 59. Kxa2 Kc4 60. Rh1
+Kc3 {Black wins} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.24"]
+[Round "?"]
+[White "GM_Kramnik(R)"]
+[Black "GM_Nakamura(R)"]
+[Result "*"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r7/3bq1k1/1p1p1nnr/3Pp1pp/pPN1PpPP/2B2P2/1Q2BK2/6RR b - - 0 30"]
+[PlyCount "17"]
+[EventDate "2011.??.??"]
+
+{We need to calculate only the forcing moves mainly. That's why black has only
+a few possibilities.} 30... hxg4 $1 (30... gxh4 $2 31. g5 $16) (30... Nxh4 $6
+31. Rxh4 gxh4 32. g5 $13) (30... Nxg4+ $2 31. fxg4 hxg4 32. Bxg4 $16) (30... a3
+$5 {this deflects the white's knight and may help in the black's attack}) 31.
+hxg5 Nxe4+ {(this positional sacrifice gives black 2 powerful connected passed
+pawns and a strong attack on the white's king)} 32. fxe4 Rxh1 (32... g3+ $5)
+33. Rxh1 f3 {(in unbalanced positions it's very important to attack)} 34. Nxb6
+g3+ $1 {(we should calculate checks first of all)} 35. Kxf3 Rf8+ 36. Ke3 Qxg5+
+37. Kd3 Bb5+ 38. Kc2 Rf2 $19 *
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.24"]
+[Round "?"]
+[White "GM_Kramnik(R)"]
+[Black "GM_Nakamura(R)"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "8/6k1/1N1p2n1/1b1Pp1q1/1P2P3/p1Q5/3Br1p1/2K3R1 b - - 0 42"]
+[PlyCount "7"]
+[EventDate "2011.??.??"]
+
+{(we need to calculate forcing moves)} 42... Rxd2 $1 43. Qxd2 a2 $1 {(when you
+have an obvious move, ask yourself "what else I can do?")} 44. Kc2 Qxd2+ 45.
+Kxd2 Bf1 {Black wins} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.27"]
+[Round "?"]
+[White "GM_Polgar, J."]
+[Black "GM_Ragger"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/1qp1b1n1/3N4/4P3/3P1N2/PP1BQ1PP/R3K2R b KQkq - 0 12"]
+[PlyCount "55"]
+[EventDate "2011.??.??"]
+
+12... cxd5 $1 {(of course we should calculate the most forcing and logical
+move first of all)} 13. exd5 Qxb2 {(a counterblow! By the way, this is the
+only forcing move now)} 14. O-O {(Now it seems that white has good attacking
+chances. Really it's not that simlpe to} Nf4 15. Qe4 Nxd5 16. Rab1 Qa3 17. Rxb7
+Nf6 18. Qc6+ Nd7 19. d4 Qd6 20. Qa4 Qd5 21. Rfb1 Bd6 22. Qa6 Be7 23. R1b5 Qe4
+24. Rxd7 Bxd7 25. Re5 Qb1+ 26. Kf2 Qb6 27. Qe2 O-O 28. Rxe7 Be6 29. Qe5 Rad8
+30. a4 Qb2 31. Kg3 Qb3 32. Rxa7 Rd5 33. Qf4 g5 34. Qc7 g4 35. Rb7 Qd3 36. Rb8
+gxf3 37. Rxf8+ Kxf8 38. Bh6+ Ke8 39. Qc6+ Ke7 {Black wins} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.27"]
+[Round "?"]
+[White "GM_Polgar, J."]
+[Black "GM_Ragger"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5rk1/R4ppp/4b3/3r4/P2P1Q2/1q3NK1/3B2PP/8 b - - 0 33"]
+[PlyCount "13"]
+[EventDate "2011.??.??"]
+
+33... g5 $1 {(This move is certainly pretty simple. However, often we missed
+such ideas, which look bad at the first sight. It's very important to consider
+ALL the attacking moves.)} 34. Qc7 g4 35. Rb7 Qd3 36. Rb8 gxf3 37. Rxf8+ Kxf8
+38. Bh6+ Ke8 39. Qc6+ Ke7 {Black wins} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.30"]
+[Round "?"]
+[White "GM_Ragger"]
+[Black "GM_Kobalia"]
+[Result "*"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r2rk1/1p3ppp/p6q/8/4R3/1P4P1/PB2QP1P/2b1R1K1 w - - 0 25"]
+[PlyCount "8"]
+[EventDate "2011.??.??"]
+
+{We should keep up a tension and avoid exchanges. This creates more problems
+for an opponent.} 25. Bd4 $1 Qd6 $2 {(black made a mistake immediately)} 26. b4
+$1 {(white is threatening Bc5 which attacks the black's f8-rook and c1-bishop)}
+Ba3 {(Now white has an obvious move Bc5. In such positions it's useful to ask
+yourself "What else I can do?")} 27. Qg4 $5 {(White wants to weaken the
+black's king-side position. Also white is keeping the tension and this creates
+more difficulties for black)} g6 28. Qh4 h5 {now white could play Bc5 getting
+a material advantage.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.30"]
+[Round "?"]
+[White "GM_Ragger"]
+[Black "GM_Kobalia"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r2rk1/1p3p2/p2q2p1/6Qp/1P1BR3/b5P1/P4P1P/4R1K1 b - - 0 29"]
+[PlyCount "88"]
+[EventDate "2011.??.??"]
+
+{The black's position is very hard. White is threatening Bc5 and Qh6. The
+black's a3-bishop is out of game. So what should black do? Do not panic, and
+use your usual thinking system. Black has 2 forcing moves on the white's side:
+Bb4 and Rc4.} 29... Bxb4 ({better was} 29... Rc4 $1 30. Bc5 Rxe4 {(counterblow)
+} 31. Rxe4 Qc6 32. Qe7 Rc8 {though white has an advantage, it's not fatal for
+black.}) 30. Be5 {(A lot of players would stop calculating here thinking that
+white is winning. White is attacking the queen, bishop and is threatening Qh6
+or Qf6)} (30. Qh6 Qxd4 {(counterblow)} 31. Rxd4 Bxe1 {and black has good
+chances for a draw}) 30... Bd2 $1 {(counterblow! We should first think about
+an attack, and only then about a defense)} 31. Bxd6 Bxg5 32. Bxf8 Kxf8 {
+(Though white won the exchange, black did not lose and he saves some chances
+for a draw)} 33. Rd1 Rc7 34. Rdd4 Bf6 35. Rc4 Rd7 36. Rc8+ Kg7 37. Kg2 Rd2 38.
+Rc7 b5 39. a3 a5 40. Rb7 Rb2 41. h3 Rb3 42. Re3 Rxe3 43. fxe3 a4 44. Rxb5 Be7
+45. Ra5 Bxa3 46. Rxa4 Bb2 47. Kf3 Be5 48. Ra7 Bd6 49. g4 hxg4+ 50. hxg4 Be5 51.
+Ke4 Bc3 52. Kd5 Bd2 53. e4 Bc3 54. Rb7 Kf8 55. Kd6 Be1 56. Kd7 Bg3 57. Rb5 Bf4
+58. Ra5 Bg3 59. Ra8+ Kg7 60. Ke8 Kf6 61. Ra6+ Kg7 62. Ra3 Be5 63. Rf3 f6 64.
+Ke7 Bd4 65. Ke6 Bb2 66. Rf1 Bd4 67. Rd1 Bc3 68. Rd3 Bb2 69. Rd5 Kh6 70. Kf7 Bc3
+71. Rb5 Bd4 72. g5+ fxg5 73. e5 {White wins} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.31"]
+[Round "?"]
+[White "GM_Gharamian"]
+[Black "GM_Jobava"]
+[Result "*"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p2bppp/p1npbn2/4p1B1/4P3/1NN5/PPPQBPPP/R2R2K1 b - - 0 12"]
+[PlyCount "11"]
+[EventDate "2011.??.??"]
+
+{White is going to play Bf6 and to capture the d6 pawn then. Should black play
+Ne8?} 12... a5 $5 ({First of all you should try to ignore an opponent's threat.
+This will help you to realize the REAL danger of an opponent's threat.} 12...
+Rc8 13. Bxf6 Bxf6 14. Qxd6 Nd4 15. Qxd8 Rfxd8 {black has 2 bishops and a very
+active position. This should be enough for just a pawn. Since this variation
+is not dangerous for black, we may conclude that white has NO real threats in
+the starting position of this example.}) 13. Bxf6 Bxf6 14. Qxd6 Qxd6 15. Rxd6
+Be7 16. Rdd1 a4 {(black is making attacking moves all the time)} 17. Nd2 Nd4 {
+and black got a strong attacking position.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.31"]
+[Round "?"]
+[White "GM_Gharamian"]
+[Black "GM_Jobava"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r4rk1/1p2bppp/4b3/4p3/p2nP3/2N2N2/PPP1BPPP/R2R2K1 b - - 0 18"]
+[PlyCount "17"]
+[EventDate "2011.??.??"]
+
+18... Rfc8 $1 {(we should keep and increase the tension)} 19. Bd3 (19. Nxe5
+Rxc3 $1 20. Rxd4 Rxc2 $40) (19. Nxd4 exd4 20. Rxd4 a3 $19) 19... a3 {(black is
+still keeping a tension and continue attacking)} 20. Nd5 Bxd5 21. exd5 axb2 22.
+Rab1 e4 $1 {(We should calculate ALL the forcing and attacking moves on the
+opponent's side (even when it seems that you may not do something))} 23. Nxd4
+exd3 24. Rxb2 (24. Rxd3 Rxa2 {and Ra1}) 24... Ba3 25. Rdb1 Bxb2 26. Rxb2 Ra4 {
+Black wins} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.25"]
+[Round "?"]
+[White "GM_Polgar, J."]
+[Black "GM_Edouard"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r3k/5R2/3p2pp/3Bp1P1/2P4P/8/3b1PK1/8 w - - 0 36"]
+[PlyCount "5"]
+[EventDate "2011.??.??"]
+
+{When it seems like you have the only move (gh) - ask yourself "What else I
+can do?"} 36. h5 $1 Rg8 37. Rd7 Rg7 38. Bf7 $1 {keeping the black's king and
+rook in the cage} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.25"]
+[Round "?"]
+[White "GM_Mastrovasilis"]
+[Black "GM_Inarkiev"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4rbk1/2q3p1/p1br4/1p1ppp2/4n1N1/P1P1B2P/BP2QPP1/3RR1K1 w - - 0 30"]
+[PlyCount "51"]
+[EventDate "2011.??.??"]
+
+{The white's knight is attacked. Should white retreat Nh2? Of course not.
+First we should apply the "ignoring" and "counterblow" ideas.} 30. Bc1 (30. f3
+$5 Nxc3 31. bxc3 fxg4 32. fxg4 $13) 30... Qd7 (30... fxg4 $2 31. Qxe4 {
+attacking 2 pawns}) 31. f3 {(counterblow. white is keeping and increasing the
+tension)} Ng3 32. Qf2 fxg4 33. fxg4 {(the knight is trapped)} Ne4 34. Rxe4 $16
+{(White won a pawn and got more active position)} Rf6 35. Qg3 Qf7 36. Ree1 e4
+37. g5 Rf5 38. Rf1 Re6 39. Rxf5 Qxf5 40. Rf1 Qg6 41. Be3 Bd6 42. Qg4 Qe8 43.
+Rf5 Re5 44. g6 Rxf5 45. Qxf5 Qe5 46. Qc8+ Be8 47. Bf4 Qxf4 48. Qxe8+ Bf8 49.
+Bxd5+ Kh8 50. Bxe4 a5 51. b4 axb4 52. cxb4 Kg8 53. Bd3 Qd6 54. Kh1 Qf4 55. Qxb5
+{White wins} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.26"]
+[Round "?"]
+[White "GM_Nisipeanu"]
+[Black "GM_Kotronias"]
+[Result "*"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2b2rk1/5ppp/r2p1b2/2q5/ppP1PP2/1P1Q4/P1N3BP/3R1R1K w - - 0 23"]
+[PlyCount "5"]
+[EventDate "2011.??.??"]
+
+23. a3 $1 {(a counterblow!)} axb3 $2 {(Unexpected moves confuse your opponent
+and he starts making mistakes)} ({better was} 23... bxa3 24. b4 Qa7 25. Nxa3 {
+with mutual chances}) 24. axb4 Qa7 25. Qxb3 $14 {white gained an extra passed
+pawn.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.26"]
+[Round "?"]
+[White "GM_Vallejo"]
+[Black "GM_Papaioannou"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1p3pp1/pq1ppn1p/4n3/4P1PP/1NN5/PPPBQP2/R3KB1R w KQkq - 0 12"]
+[PlyCount "35"]
+[EventDate "2011.??.??"]
+
+{Though the g4-pawn is attacked, we should always think about attacking moves
+first.} 12. f4 $5 Nexg4 13. e5 dxe5 14. fxe5 {(Now it seems like black loses
+material. However, he can make a counterblow)} Qc7 15. exf6 Qg3+ 16. Kd1 Nf2+
+17. Kc1 Nxh1 18. Ne4 {(The white's positional sacrifice gave white more active
+position and good attacking chances.)} Qxh4 19. Qc4 {(threatening a discovered
+attack Nd6)} g5 20. Nbc5 Ng3 $2 {Black made a fatal blunder. When you create
+problems for your opponet, even strong players will make a lot of mistakes.} (
+20... b5 {was necessary}) 21. Qa4+ b5 22. Bxb5+ axb5 23. Qxb5+ Kd8 24. Ba5+
+Rxa5 25. Qxa5+ Ke8 26. Qb5+ Kd8 27. Qb6+ Ke8 28. Nd6+ Bxd6 29. Qc6+ $1 {("What
+else I can do?")} (29. Qxd6 $2 Qf4+ $19) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.26"]
+[Round "?"]
+[White "GM_Hammer"]
+[Black "GM_Riazantsev"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r2rk1/p2q1pp1/2npbn1p/1pp1p3/2P5/PPQ1PNPP/1B1P1PBK/3R1R2 w - - 0 16"]
+[PlyCount "83"]
+[EventDate "2011.??.??"]
+
+{Black just has played b5 and it seems that white should react. However, it's
+not the right way of thinking. Black didn't create any real threats. That's
+why white should ignore an opponent and realize his own plans.} 16. d4 $1 {(In
+order to start an attack we need to open a position first)} (16. cxb5 $2 Ne7
+17. a4 c4 (17... Ned5 $5) 18. bxc4 Bxc4 19. d3 Bxb5 $40) 16... cxd4 17. exd4
+bxc4 18. Nxe5 $5 (18. dxe5 Nd5 19. Rxd5 Bxd5 20. Rd1 $1 {(we should try to
+attack always in unbalanced positions)} Bxf3 21. Rxd6 $1 {(counterblow)} Qc7
+22. Bxf3 $40) 18... Nxe5 (18... dxe5 $2 19. dxe5 Nd5 20. Bxd5 Bxd5 21. bxc4 Ne7
+22. e6 $18) 19. dxe5 cxb3 {(counterblow)} 20. Qe3 Nh7 {(of course white can
+take the d6 pawn now, but white asked himself "what else I can do?")} 21. f4
+Rc2 22. Rf2 Rfc8 23. Rxd6 Qb5 24. Qxa7 Nf8 25. Rdd2 h5 26. Qd4 g6 27. Bf1 Qa5
+28. Kg1 Kh7 29. g4 Rxd2 30. Rxd2 hxg4 31. hxg4 Rc2 32. Rxc2 bxc2 33. f5 Qe1 34.
+Qf2 c1=Q 35. Bxc1 Qxc1 36. fxe6 Nxe6 37. Qxf7+ Kh6 38. Qxe6 Qe3+ 39. Kg2 Qe4+
+40. Kf2 Qd4+ 41. Kf3 Qc3+ 42. Ke4 Qe1+ 43. Kd5 Qxf1 44. Qf6 Qd1+ 45. Ke6 Qxg4+
+46. Kf7 Qd7+ 47. Qe7 Qd4 48. e6 Qg7+ 49. Ke8 Qe5 50. a4 g5 51. a5 Qxa5 52. Kf7
+Kh5 53. Qf6 Qd5 54. Kg7 Qe4 55. e7 Kh4 56. Qf7 Qe5+ 57. Kg8 {White wins} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.27"]
+[Round "?"]
+[White "GM_Volokitin"]
+[Black "GM_Reinderman"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1bq2k1/ppp2r2/3p1nnb/PNPPp3/4P2p/3N1P2/1P2B1PB/2RQ1RK1 w - - 0 22"]
+[PlyCount "25"]
+[EventDate "2011.??.??"]
+
+{A move like Rc2 would be a principled mistake here. In complex and sharp
+positions an initiative becomes a key factor. Thus we should play aggressively.
+} 22. f4 $1 Nxe4 23. cxd6 (23. Bh5 $5) 23... Nxd6 24. Bh5 $1 {(an attack and a
+counterblow)} Rg7 25. Nxc7 Bh3 26. gxh3 Nxf4+ 27. Kh1 Rxc7 28. Rxc7 Qxc7 29.
+Nxe5 (29. Rg1+ $5 Bg7 30. Nxf4 exf4 31. Bxf4 $18) 29... Nxh5 30. Qxh5 Bg7 31.
+Ng4 Qe7 32. Bxd6 Qxd6 33. Qf7+ Kh8 34. Rf5 {White wins} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.28"]
+[Round "?"]
+[White "GM_Wojtaszek"]
+[Black "GM_Hracek"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppqp1ppp/4p3/1Rb5/2P5/6P1/P1Q1PPBP/2BR2K1 w - - 0 16"]
+[PlyCount "23"]
+[EventDate "2011.??.??"]
+
+16. Bf4 {(this is the only attacking move here)} e5 17. Rxc5 $1 {(this
+positional sacrifice gives white so powerful position that it must be good)}
+Qxc5 18. Rd5 {(counterblow)} Qb4 19. Bxe5 Re8 20. Be4 h6 21. Bd6 Qe1+ 22. Kg2
+a5 23. Rf5 Ra6 24. c5 Re6 25. Bd5 Qa1 26. Bxe6 dxe6 27. Be5 {White wins} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.31"]
+[Round "?"]
+[White "GM_Lupulescu"]
+[Black "GM_Polgar, J."]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2kr2r1/1p1q1p2/p1nB3p/2Pb2p1/B2N4/4QP2/PP4PP/2K4R b - - 0 22"]
+[PlyCount "55"]
+[EventDate "2011.??.??"]
+
+{(It seems like white has an initiative on the queen-side. However, black has
+a nice breakthrough)} 22... b5 $1 23. Bc2 (23. cxb6 $2 Qxd6) 23... Rge8 24. Qd2
+Nxd4 25. Qxd4 Qe6 26. Qb4 Bxa2 27. Rd1 Qe3+ 28. Rd2 Qe1+ 29. Bd1 Re2 {(Pay
+attention on the black's style of playing. He is attacking by every move.)} 30.
+Qg4+ Re6 31. Re2 Qf1 32. Qf5 Bb3 33. Rd2 Qc4+ 34. Kb1 Ba2+ 35. Ka1 Qc1+ 36.
+Kxa2 Qxd2 37. Qxf7 Rexd6 38. cxd6 Qxd6 39. Bb3 Kb8 40. h3 Qe5 41. Qg6 Rd6 42.
+Qg8+ Ka7 43. Qh7+ Kb6 44. Bc2 a5 45. Be4 Qe6+ 46. Ka1 Rd1+ 47. Bb1 a4 48. Qh8
+Qd6 49. Qe8 Rd2 {Black wins} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.31"]
+[Round "?"]
+[White "GM_Svidler"]
+[Black "GM_Hracek"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1r3rk1/p1ppnpbp/q1p3p1/2P1P3/8/1P3N2/P1QB1PPP/R2KR3 w - - 0 18"]
+[PlyCount "115"]
+[EventDate "2011.??.??"]
+
+{The only white's problem in this position is a centralized king.} 18. Qc4 $1
+Qb7 (18... Qxc4 19. bxc4 {Usually doubled pawns are weak, but in this position
+they control a lot of squares and restrict the black's pieces. Also the
+white's king is OK now.}) 19. Rc1 Nd5 20. Ke2 Rfe8 21. Kf1 Qb5 22. g3 a5 23.
+Qxb5 Rxb5 24. Re4 Ra8 25. Ne1 a4 26. Rxa4 Rxa4 27. bxa4 Rb2 28. Rc2 Rb1 29. f4
+f6 30. exf6 Bxf6 31. Ke2 Kf7 32. Nd3 Ke7 33. Rc1 Rb8 34. a5 Kd8 35. g4 Ne7 36.
+Bb4 Nd5 37. a3 Ke7 38. Kf3 Rf8 39. Re1+ Kf7 40. Bd2 Ra8 41. Bb4 Ne7 42. h4 Rh8
+43. f5 gxf5 44. g5 Bg7 45. h5 Rb8 46. Kf4 Rb5 47. Ne5+ Bxe5+ 48. Rxe5 Rb8 49.
+Re1 Ra8 50. Rh1 Kg8 51. Ke5 Kg7 52. Rh2 Re8 53. Rd2 Rd8 54. Rd3 Kf7 55. Bd2 Kg7
+56. g6 Nd5 57. h6+ Kxg6 58. Rg3+ Kh5 59. Rg5+ Kh4 60. Rg7 f4 61. a6 Re8+ 62.
+Kd4 Ra8 63. Rxh7 Kg5 64. a4 Rxa6 65. a5 Ra8 66. Rxd7 Kxh6 67. Rxd5 cxd5 68.
+Bxf4+ Kg6 69. Bxc7 Kf6 70. Kxd5 Ke7 71. Kc6 Ke6 72. Bb6 Rc8+ 73. Kb7 Rg8 74. c6
+Kd6 75. c7 {White wins} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2011.04.15"]
+[Round "?"]
+[White "GM_Christiansen"]
+[Black "GM_Shabalov"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r2r2/1b1nppkp/1q1p2p1/pp6/3NP3/PB3P2/1PP2QPP/3R1RK1 w - - 0 19"]
+[PlyCount "53"]
+[EventDate "2011.??.??"]
+
+19. e5 $1 {(we should consider ALL attacking moves on an opponent's territory)}
+d5 (19... Nxe5 $2 20. Nf5+ gxf5 21. Qxb6 $18) (19... dxe5 $2 20. Ne6+ fxe6 21.
+Rxd7 $16) 20. f4 {(White got a favourable pawn structure and good attacking
+possibilities on the king-side.)} e6 21. Kh1 Ba6 22. Rfe1 Nc5 23. Re3 Qd8 24.
+h3 Qe7 25. c3 Ne4 26. Qe1 Rc5 27. Bc2 Rfc8 28. Bxe4 dxe4 29. b4 Rc4 30. Qg3 Kh8
+31. Nb3 axb4 32. axb4 Bb7 33. Rd6 R4c7 34. Nd4 Bc6 35. Kh2 Be8 36. Qe1 Rd8 37.
+Rxd8 Qxd8 38. Rxe4 Qd5 39. Re3 Bc6 40. Qg3 Bb7 41. Qg5 Rc8 42. Rg3 Kg8 43. h4
+h6 44. Qxh6 Rxc3 45. Nxe6 {White wins} 1-0
+
+[Event "U.S. Chess Championship 2011"]
+[Site "Missouri, USA"]
+[Date "2011.04.21"]
+[Round "7"]
+[White "GM_Finegold"]
+[Black "GM_Shabalov"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2k1b1r/pb1n3p/1p1pN1p1/5q2/3P4/1Q6/PP3PPP/R1B2RK1 b - - 0 19"]
+[PlyCount "153"]
+[EventDate "2011.??.??"]
+
+19... Ke7 $1 {(When your opponent is attacking you, you should ask yourself
+"what are the exact threats of my opponent?" and "are they REALLY dangerous?".
+After that the situation will not seem so dangerous anymore.} (19... Ke8 20.
+Nc7+ Kd8 21. Ne6+ {leads to a draw}) (19... Kc8 $2 20. Qc3+ $18) 20. Re1 (20.
+Bg5+ Kf7 21. Nd8+ Kg7 22. Ne6+ Kg8 {and black is fine}) 20... Kf7 $1 {(Though
+it looks dangeours white has nothing really)} 21. Nd8+ Kg7 22. Ne6+ (22. Nxb7
+Rb8 {capturing the knight}) 22... Kg8 23. Nc7+ (23. Nxf8+ Bd5 $1 {counterblow}
+(23... Kxf8 $2 24. Bh6#)) 23... Qf7 24. Nxa8 Bxa8 {The white's attack is over
+and black saved a material advantage.} 25. Bg5 Bd5 26. Qg3 h6 27. Bf4 Qf6 28.
+Rac1 g5 29. Bd2 Rh7 30. Rc8 Rf7 31. Be3 a5 32. b3 Kh7 33. Rec1 Qf5 34. h3 Nf6
+35. R1c7 Be7 36. Rb8 Be6 37. Rc1 Nd5 38. Rb7 Qd3 39. Re1 Qa6 40. Rxe7 Rxe7 41.
+h4 g4 42. Bc1 Qb5 43. Ba3 Bd7 44. Rxe7+ Nxe7 45. Qxd6 Nf5 46. Qf6 Qd5 47. Qxb6
+Nxh4 48. f3 gxf3 49. Qf6 Nf5 50. Qe5 Qxd4+ 51. Qxd4 Nxd4 52. Bc5 Ne6 53. Bb6
+fxg2 54. Kxg2 a4 55. bxa4 Bxa4 56. Ba7 Kg6 57. Bb8 Kg5 58. Kg3 h5 59. Bd6 h4+
+60. Kh3 Kh5 61. Bb8 Ng5+ 62. Kg2 Kg4 63. a3 Bc6+ 64. Kf2 Ne4+ 65. Kg1 Nd2 66.
+Kf2 Nc4 67. a4 Bxa4 68. Bc7 Bc6 69. Bb8 Nb2 70. Bc7 Nd3+ 71. Ke3 Nb4 72. Kf2
+Nd5 73. Bd6 Nf6 74. Kg1 Ne4 75. Bc7 Bb5 76. Kg2 Be2 77. Kg1 Bc4 78. Kg2 h3+ 79.
+Kg1 Ng5 80. Bb8 Nf3+ 81. Kf2 h2 82. Bxh2 Nxh2 83. Ke3 Nf3 84. Ke4 Be6 85. Kd3
+Kf4 86. Kc2 Ke3 87. Kc3 Nd2 88. Kc2 Ne4 89. Kc1 Kd3 90. Kb2 Kd2 91. Ka3 Kc3 92.
+Ka4 Nd6 93. Ka5 Kc4 94. Kb6 Ne8 95. Kc6 Kb4 {Black wins} 0-1
+
+[Event "U.S. Chess Championship 2011"]
+[Site "Missouri, USA"]
+[Date "2011.04.21"]
+[Round "7"]
+[White "GM_Hess"]
+[Black "GM_Seirawan"]
+[Result "1/2-1/2"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r1rk1/RQ2ppbp/6p1/3nN3/1q1n4/2N5/1P3PPP/2B1R1K1 w - - 0 23"]
+[PlyCount "56"]
+[EventDate "2011.??.??"]
+
+{We should keep and increase the tension.} 23. Nd7 $1 {(it's the only
+attacking move)} (23. Qxb4 $2 Nxb4 {gives black more initiative position})
+23... Nc2 $1 {a counterblow} (23... Rfe8 $2 24. Qxd5 $18) 24. Rf1 Nxc3 25. bxc3
+Qxb7 26. Rxb7 Rfe8 $11 27. Bb2 Bh6 28. g3 Ra8 29. c4 Ra4 30. c5 Rc4 31. Rd1 Bg7
+32. Bxg7 Kxg7 33. Rc1 Ne3 34. Rxc4 Nxc4 35. Nb6 Nxb6 36. cxb6 Kf6 37. Rc7 Ke6
+38. Rc3 Rb8 39. Rb3 Kd6 40. g4 Kc6 41. Rh3 Rh8 42. Rf3 Rf8 43. Rh3 Rh8 44. Rf3
+f6 45. Re3 Re8 46. Rh3 Rh8 47. Re3 Kd6 48. Rd3+ Kc6 49. Re3 Re8 50. Rh3 Rh8 {
+Game drawn} 1/2-1/2
+
+[Event "U.S. Chess Championship 2011"]
+[Site "Missouri, USA"]
+[Date "2011.04.21"]
+[Round "7"]
+[White "GM_Kaidanov"]
+[Black "GM_Christiansen"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r1rk1/1pq2ppp/4bb2/8/pPPNR1n1/P2p2P1/1B1Q1PBP/R5K1 b - - 0 22"]
+[PlyCount "74"]
+[EventDate "2011.??.??"]
+
+22... Bd7 $2 {In sharp unbalanced positions an initiative becomes a key factor.
+} (22... Ne5 $1 {(black has to play actively)} 23. Nxe6 (23. Nb5 Nxc4 $1 {
+counterblow}) 23... fxe6 24. c5 Nf3+ 25. Bxf3 Bxb2 26. Qxb2 Rxf3 27. Rxe6 Qf7 {
+and black has a good counterplay}) 23. Rae1 $6 {it doesn't do anything really}
+(23. Rc1 {or c5 gave white a stable advantage}) 23... b6 24. Rc1 h6 $2 {
+(another passive move becomes fatal for black)} (24... Ne5 {though it's a bit
+dangerous, black must play it. You need to play actively in unbalanced
+positions.}) 25. c5 bxc5 26. Rxc5 Qd6 27. Qxd3 {(now white is winning without
+any problems)} Rc8 28. Qc2 Qb8 29. h3 Ne5 30. Rexe5 Bxe5 31. Nc6 Rxc6 32. Bxc6
+Bxb2 33. Qxb2 Bxh3 34. Bxa4 Qd6 35. Bc6 Qd1+ 36. Kh2 Be6 37. Qc1 Qg4 38. Bg2 f5
+39. Qf4 Qh5+ 40. Qh4 Qe2 41. Qd4 Kh7 42. Re5 Qh5+ 43. Kg1 Bc8 44. b5 Rf7 45.
+Qc3 Qd1+ 46. Re1 Qd8 47. a4 Rd7 48. Rc1 Rd1+ 49. Bf1 Rxf1+ 50. Rxf1 Bb7 51. Re1
+Qg5 52. Qc7 Bd5 53. Qe5 Ba8 54. Qe8 Bd5 55. Qe5 Ba8 56. Qe8 Bd5 57. Qd7 Bf3 58.
+Re3 Ba8 59. b6 {White wins} 1-0
+

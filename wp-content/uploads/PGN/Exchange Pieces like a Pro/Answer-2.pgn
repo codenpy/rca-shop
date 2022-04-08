@@ -1,0 +1,202 @@
+[Event "Kallithea"]
+[Site "Kallithea"]
+[Date "2002.09.23"]
+[Round "2.1"]
+[White "Aleksandrov, Aleksej"]
+[Black "Hickl, Joerg"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2654"]
+[BlackElo "2602"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "57"]
+[EventDate "2002.09.22"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[WhiteTeam "MKD"]
+[BlackTeam "Austria"]
+[BlackTeamCountry "AUT"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e5 4. Nc3 d6 5. e4 Be7 6. Nge2 a6 7. Ng3 g6 8. Bd3 h5
+9. a3 Nh7 $5 {Black has a space disadvantage due to White's pawn on d5, so he
+tries to exchange the dark-squared bishops.} (9... h4 10. Nf1 Nh5 11. Ne3 $13 {
+is an alternative}) 10. Nf1 Bg5 {Diagram #} 11. Ne3 $5 {This move is not at
+all forced and White has many alternatives, but with this move he plays
+against Black's plan. He has a space advantage, so it makes sense to keep
+pieces on the board.} (11. Nd2 $5) (11. h3) 11... Nd7 12. Bd2 O-O 13. Qe2 Rb8
+14. g3 Ndf6 15. h4 Bh6 16. f3 Kh8 17. O-O-O {
+White castles on opposite sides to go for a double-edged game.} (17. O-O $14 {
+was possible}) 17... Bd7 18. a4 {Preventing ...b5 by Black} Ng8 19. Rdf1 Qe8
+20. b3 f5 21. f4 exf4 $6 {Black prematurely opens the position.} (21... Nhf6
+$13 {was better, keeping the tension.}) 22. gxf4 $36 fxe4 $2 {
+Again, Black's opens the position and improves White's position.} (22... Bg7
+23. Rhg1 $16) 23. Nxe4 $16 Qe7 (23... Bxf4 $2 24. Bc3+ Be5 25. Nxd6 $18) (23...
+Rxf4 24. Rxf4 Bxf4 25. Bc3+ Ngf6 26. Rf1 Be5 27. Rxf6 (27. Nxd6 $16 {
+is also possible}) 27... Nxf6 28. Nxf6 $18) 24. Rhg1 Be8 (24... Rxf4 25. Rxg6
+Rxf1+ 26. Nxf1 Bg4 27. Qh2 $18) 25. f5 $1 Ngf6 (25... Bxe3 26. Qxe3 gxf5 27.
+Bc3+ Ngf6 28. Rxf5 $18) 26. Ng5 gxf5 27. Ne6 $18 Rg8 28. Nxf5 Bxd2+ 29. Qxd2 {
+White just dominates the board. A sample line could be.} (29. Qxd2 Qd7 30.
+Rxg8+ Kxg8 31. Rg1+ Kh8 32. Rg7 $18) 1-0
+
+[Event "FRA-ch"]
+[Site "Nice"]
+[Date "1938.09.12"]
+[Round "11"]
+[White "Gotti, Massimiliano"]
+[Black "Raizman, Maurice"]
+[Result "0-1"]
+[ECO "A56"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "72"]
+[EventDate "1938.09.02"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+
+1. d4 c5 2. d5 e5 3. c4 d6 4. e4 Nf6 5. Nc3 Be7 6. Bd3 O-O 7. Nge2 Ne8 8. O-O {
+Diagram #} Nd7 {Not a bad move, but Black had a more principled alternative.} (
+8... Bg5 $5 9. Ng3 g6 {and Black will change a pair of pieces, making it
+easier for his other pieces to develop} 10. f4 $6 exf4 11. Bxf4 Nd7 $11) 9. Ng3
+g6 10. Bh6 Ng7 11. Qd2 Bh4 12. Nce2 f6 13. f4 $6 {This is an active move but
+it gives Black the e5 square, which is a great square for his knights.} exf4 $1
+14. Bxf4 (14. Nxf4 Ne5 $11) 14... Ne5 15. Nh1 Bd7 16. b3 Qe7 17. Nf2 Bg5 $1 {
+Finally, Black decides to exchange bishops. It this case, it also makes a lot
+of sense since the Black squares will become weakened on White's camp.} (17...
+Nh5 $5) 18. Ng3 (18. Bxg5 fxg5 $15) 18... h5 $5 $36 {
+Starting an attack on the kingside.} 19. Kh1 Rae8 $15 (19... h4 $15) 20. Bc2 h4
+$1 21. Ne2 Nh5 $1 {Black's attack flows naturally.} 22. Be3 Kg7 23. Nf4 Bxf4
+24. Bxf4 Rh8 25. Kg1 (25. Be3 $2 Ng3+ 26. hxg3 hxg3+ 27. Nh3 Bxh3 28. gxh3
+Rxh3+ 29. Kg1 Reh8 $19 {with a crushing attack}) 25... h3 $1 26. Nxh3 Bxh3 27.
+gxh3 Nxf4 28. Qxf4 Rxh3 $17 {Black's knight is just much better than White's
+bishop. Additionally, he has the initiative.} 29. Rf2 Reh8 30. Raf1 R8h4 $1 31.
+Qxf6+ Qxf6 32. Rxf6 Rxh2 33. R1f2 $4 (33. Bd1 Rh1+ 34. Kg2 R4h2+ 35. Kg3 Rxf1
+36. Rxf1 Rxa2 $17) 33... Rh1+ 34. Kg2 Ng4 35. Rf7+ Kh6 36. e5 R4h2+ {
+A nice game by a former French champion.} 0-1
+
+[Event "Capablanca - Marshall"]
+[Site "New York, NY USA"]
+[Date "1909.04.27"]
+[Round "5"]
+[White "Frank James Marshall"]
+[Black "Jose Raul Capablanca"]
+[Result "0-1"]
+[ECO "D55"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "104"]
+[EventDate "1909.04.19"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 {Diagram #} Ne4 {This is the
+Lasker variation. The idea is to exchange a few pieces in order for Black to
+develop the remaining pieces more easily. It is also an interesting line to
+play against attacking players.} (5... h6 6. Bh4 O-O 7. Nf3 Ne4 {
+is nowadays a more popular way of reaching the Lasker variation}) (5... O-O {
+is the most popular continuation in the position.}) (5... Nbd7 {
+is also possible}) 6. Bxe7 Qxe7 7. Bd3 Nxc3 8. bxc3 Nd7 9. Nf3 O-O {
+The position is roughly equal.} 10. Qc2 h6 11. O-O c5 12. Rfe1 dxc4 13. Bxc4 b6
+14. Qe4 Rb8 15. Bd3 Nf6 16. Qf4 Bb7 17. e4 Rfd8 18. Rad1 Rbc8 19. Re3 {
+True to his style, Marshall tries to go for an attack. The rook plans to go to
+g3, targeting g7. But this plan looks a bit too ambitious.} cxd4 20. cxd4 Rc3
+$1 21. Bb1 $6 (21. d5 $15) 21... g5 $1 (21... e5 $1 22. Nxe5 Rxd4 $17 {
+was also strong, since} 23. Rxd4 $4 Rc1+ {leads to mate.}) 22. Nxg5 (22. Qg3
+Rxe3 23. fxe3 Nxe4 $17) 22... Rxe3 23. Qxe3 (23. fxe3 Nh5 $17) 23... Ng4 $1 (
+23... hxg5 24. Qxg5+ Kf8 {is much less clear}) 24. Qg3 Qxg5 25. h4 Qg7 $1 26.
+Qc7 Rxd4 (26... Qf6 $1 {is even stronger since} 27. Qxb7 Qxf2+ 28. Kh1 Qxh4+
+29. Kg1 Qf2+ 30. Kh1 Rxd4 {leads to mate}) 27. Qb8+ Kh7 28. e5+ Be4 29. Rxd4
+Bxb1 30. Qxa7 Nxe5 $19 {
+Black has a decisive advantage. The 2 minor pieces are stronger than the rook.}
+31. Rf4 Be4 $1 32. g3 (32. Rxe4 Nf3+ 33. Kf1 (33. Kh1 Qa1+ 34. Re1 Qxe1#) 33...
+Nd2+ 34. Kg1 Nxe4 $19) 32... Nf3+ 33. Kg2 f5 34. Qxb6 Nxh4+ 35. Kh2 Nf3+ 36.
+Rxf3 Bxf3 37. Qxe6 Be4 38. f3 Bd3 39. Qd5 Qb2+ 40. Kg1 Bb1 41. a4 Qa1 42. Qb7+
+Kg6 43. Qb6+ Kh5 44. Kh2 Ba2 45. Qb5 Kg6 46. a5 Qd4 47. Qc6+ Qf6 48. Qe8+ Qf7
+49. Qa4 Qe6 50. a6 Qe2+ 51. Kh3 Bd5 52. a7 Bxf3 0-1
+
+[Event "9th DSB Kongress, Leipzig"]
+[Site "Leipzig GER"]
+[Date "1894.09.03"]
+[Round "1"]
+[White "Siegbert Tarrasch"]
+[Black "Carl Schlechter"]
+[Result "1-0"]
+[ECO "C66"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "79"]
+[EventDate "1894.09.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nf6 6. O-O Be7 7. Re1 Nxd4 8.
+Nxd4 exd4 9. Bxd7+ Qxd7 10. Qxd4 O-O 11. b3 Rfe8 12. Bb2 Bf8 13. Rad1 Qc6 14.
+Rd3 Re6 15. Rde3 Rae8 16. h3 Qb6 {Diagram #} 17. Qd3 $5 {White has a small
+space advantage thanks to his pawn on e4, so it makes sense to keep queens.} (
+17. Qxb6 {was still possible but probably less ambitious.} axb6 18. Nb5 Rc8)
+17... c6 18. Na4 Qc7 19. c4 $1 {Preventing ...d5} Nd7 20. Kh1 f6 21. Qc2 Ne5
+22. Nc3 Nf7 $6 23. g4 $5 {White starts expanding on the kingside} Qa5 24. Rd1
+Qb6 25. h4 Ne5 26. Rg3 Nf7 27. f3 Nh8 $6 {Black does not seem to have a plan} (
+27... g6 $5 $14 {and Bh6}) 28. Ne2 Qc7 29. Rdg1 Qf7 30. Nd4 $16 R6e7 31. Nf5
+Re6 32. Nd4 R6e7 33. Nf5 Re6 34. Nd4 R6e7 35. g5 $1 fxg5 36. Rxg5 g6 37. Nf5
+Re5 38. f4 Rxf5 (38... Rxe4 39. Qc3 $18) 39. exf5 Bg7 40. fxg6 1-0
+
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.15"]
+[Round "2"]
+[White "Geza Maroczy"]
+[Black "Hugo Suechting"]
+[Result "1-0"]
+[ECO "D61"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "95"]
+[EventDate "1905.08.14"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Qc2 c6 8. a3
+Nh5 {Diagram # Black intends to ease his position by exchanging bishops.
+However, this idea is more natural in the exchange variation (cxd5) where
+Black cannot play the knight on d5.} 9. h4 $5 {
+An aggressive idea to keep the tension.} (9. Bxe7 Qxe7 10. g4 $5 (10. Bd3 Nhf6
+11. O-O dxc4 12. Bxc4 e5 {is one of Black's ideas, in order to free his bishop}
+) 10... Nhf6 11. g5 Nh5 $13 {might also be an aggressive way to play.}) 9... f5
+{Now the e5 square becomes weakened.} (9... Bxg5 $6 10. hxg5 g6 11. g4 Ng7 12.
+O-O-O $16 {and White is ready to attack with the rook on h1.}) (9... Nhf6 $5 {
+It was probably OK to admit that â RNh5 was not so good and go back.}) (9... f6
+10. Bd3 $3 h6 (10... fxg5 11. Bxh7+ Kh8 12. hxg5 $18) 11. Bxh6 $3 gxh6 12. Bh7+
+Kh8 13. Qg6 $18 {Illustrates the potential of Whiteâ []s attack.}) 10. Be2 Ndf6
+11. Ne5 $1 Bd7 12. Qd1 Be8 13. c5 Qc7 14. b4 a5 15. g3 axb4 16. axb4 Rxa1 17.
+Qxa1 Ne4 18. g4 {Undermining the support of the e4 knight.} Nxc3 19. Qxc3 Nf6
+20. Bf4 Qc8 21. g5 Nd7 22. Nd3 $1 {
+White has a space advantage so he avoids exchanging pieces.} Bf7 23. Kd2 (23.
+O-O $16 {was also fine}) 23... Bd8 24. Ra1 Bc7 25. Ra7 Re8 26. Bxc7 Qxc7 27. f4
+Rb8 28. b5 $1 Qc8 (28... cxb5 29. Nb4 {and Bxb5}) 29. b6 (29. bxc6 bxc6 30. Nb4
+$16 {was also possible. Probably Maroczy did not want to allow Black to
+activate his rook.}) 29... Be8 30. Nc1 $1 {Heading to a5} Nf8 31. Nb3 e5 {
+Desperation} 32. dxe5 Ne6 33. Bd3 g6 34. h5 Bf7 35. Na5 Nd8 36. e6 $1 Qxe6 37.
+h6 d4 38. Qxd4 Qa2+ 39. Ke1 Ne6 40. Qe5 Re8 41. Nxb7 Qb3 42. Be2 Qb1+ 43. Kf2
+Qh1 44. Nd6 Qh4+ 45. Kg2 Nxf4+ 46. Qxf4 Bd5+ 47. Bf3 Bxf3+ 48. Kxf3 {
+A very instructive game by the Hungarian legend.} 1-0
+
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.24"]
+[Round "10"]
+[White "David Janowski"]
+[Black "Semion Alapin"]
+[Result "1-0"]
+[ECO "D53"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "93"]
+[EventDate "1905.08.14"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 dxc4 7. e3 a6 8. Bxc4
+b5 9. Bb3 Nbd7 10. Qe2 c6 $6 {A strange move} (10... c5) (10... Bb7) (10... O-O
+) 11. O-O O-O 12. Rac1 Bb7 13. Rfd1 Rc8 14. Ne5 Nxe5 15. dxe5 Nd5 16. Bxe7 $1 {
+White will now exploit the weakness of the dark squares.} Nxc3 (16... Qxe7 17.
+Ne4 $16 {And the knight can jump to d6}) 17. Rxc3 (17. Bxd8 $4 Nxe2+ 18. Kf1
+Nxc1 $1 $19) 17... Qxe7 18. Rcd3 Rfd8 {Diagram #} 19. Rd6 $1 {
+White controls the open file so he exploits this advantage.} (19. Rxd8+ Rxd8 {
+is just equal}) 19... Rxd6 (19... c5 20. Qd2 Rxd6 21. exd6 Qg5 {
+Was a better chance, according to the engine, in order to get counter play.})
+20. exd6 $14 {Now this strong passed pawn will become decisive.} Qd7 21. e4 c5
+(21... e5 22. Qd2 Rd8 (22... c5 23. Bd5 $16) 23. Qc3 $16) 22. e5 c4 23. Bc2 Qc6
+24. f3 Qc5+ 25. Kh1 Rd8 26. Qe1 Rd7 27. h3 Bc6 28. f4 {Black's pieces are busy
+controlling the passed pawn, so Janowski starts an attack.} Ra7 29. f5 $1 Bd7
+30. f6 $1 g6 31. Qg3 Kh7 32. h4 $1 {Let's push another pawn to attack!} Qc8 33.
+h5 Qg8 34. Rd4 Be8 35. Rh4 Qf8 36. Rg4 Qg8 37. Qe3 Rd7 38. Rh4 Qf8 39. g4 Kh8
+40. hxg6 fxg6 41. Rxh6+ Rh7 42. Rxh7+ Kxh7 43. Qg5 Qf7 44. Qh5+ Kg8 45. Bxg6 $1
+{The final blow} Qxg6 46. Qxg6+ Bxg6 47. d7 1-0
+

@@ -1,0 +1,153 @@
+[Event "?"]
+[Site "?"]
+[Date "2018.01.19"]
+[Round "?"]
+[White "Position 1"]
+[Black "?"]
+[Result "*"]
+[Annotator "Kesaris,E."]
+[SetUp "1"]
+[FEN "rn2k2r/pb3ppp/8/1p1nN3/2p5/6P1/1P1PPPBP/R1B1K2R b KQkq - 0 0"]
+[PlyCount "2"]
+
+1... f6 2. e4 (2. Nf3) (2. d3 fxe5 3. dxc4 bxc4 4. Ra5) (2. Nxc4 bxc4 3. Ra5) (
+2. Ra5 fxe5 3. Rxb5 Bc6 4. Bxd5 Bxb5 5. Bxa8) *
+
+[Event "Warsaw Najdorf Memorial op-A 13th"]
+[Site "Warsaw"]
+[Date "2015.07.14"]
+[Round "6"]
+[White "Bilguun, Sumiya"]
+[Black "Kveinys, Aloyzas"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2361"]
+[BlackElo "2497"]
+[PlyCount "95"]
+[EventDate "2015.07.10"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "2015.09.14"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O d6 8. f4
+Nbd7 9. Kh1 b5 10. Qe2 Bb7 11. Bd2 Be7 12. Rae1 O-O 13. e5 dxe5 14. fxe5 Nd5
+15. Qh5 g6 {Diagram #} 16. Nxe6 $1 Qc6 (16... gxh5 17. Nxd5 Qd8 18. Nxe7+ Kh8
+19. Nxf8 Qxf8 20. e6 Qxe7 21. Rxf7) 17. Qg4 fxe6 18. Bxg6 Rxf1+ 19. Rxf1 Nxe5
+20. Nxd5 Qxd5 21. Bf7+ Kh8 22. Bc3 b4 23. Bd4 Bc5 24. Qf3 h6 25. Qxd5 Bxd5 26.
+Bxe5+ Kh7 27. Bh5 Rf8 28. Rxf8 Bxf8 29. Be2 Kg6 30. Bxa6 Kf5 31. Bd4 e5 32. Bb6
+Bxa2 33. Kg1 e4 34. Bd4 Bb1 35. c3 bxc3 36. bxc3 Bd6 37. g3 h5 38. Kf2 h4 39.
+c4 hxg3+ 40. hxg3 Ke6 41. Bc8+ Ke7 42. c5 Kd8 43. Bb7 Be7 44. Bd5 Bd3 45. Be3
+Kd7 46. g4 Bf6 47. Kg3 Be5+ 48. Bf4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.01.19"]
+[Round "?"]
+[White "POsition 3"]
+[Black "?"]
+[Result "*"]
+[Annotator "Kesaris,E."]
+[SetUp "1"]
+[FEN "1r1qkb1r/pppn1p1p/2n1p1p1/1BPp1b2/Q2P4/4PN2/PP3PPP/RNB1K2R b KQk - 0 0"]
+[PlyCount "5"]
+
+1... Bg7 2. Bxc6 bxc6 3. Qxc6 (3. Qxa7 Qc8 4. Qa3 Ra8 5. Qb3 Qa6) 3... Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.01.19"]
+[Round "?"]
+[White "Position 4"]
+[Black "?"]
+[Result "*"]
+[Annotator "Kesaris,E."]
+[SetUp "1"]
+[FEN "5rk1/1bqnbpp1/p2p1n1p/4pP2/1r2P3/1NNBR2Q/1PPB2PP/1K1R4 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "2018.??.??"]
+
+1... Rc8 2. Rg3 h5 3. Qh4 (3. Bh6 Bf8) 3... a5 (3... -- 4. Rxg7+ (4. Qg5 Bf8) (
+4. Bh6 Bf8 5. Qg5 Ne8) 4... Kxg7 5. Qg5+ Kf8 6. Qh6+ Ke8 7. Qh8+ Bf8) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.01.19"]
+[Round "?"]
+[White "Position 5"]
+[Black "?"]
+[Result "*"]
+[Annotator "Kesaris,E."]
+[SetUp "1"]
+[FEN "r4rk1/pp3pp1/2p1bb1p/q3p3/4P3/2NR1NQ1/PPP2PPP/1K1R4 b - - 0 0"]
+[PlyCount "8"]
+
+1... b5 2. Nxe5 (2. b3) (2. a3) (2. Rd6 b4 3. Nd5 cxd5 4. exd5) 2... b4 3. Nxc6
+Qb6 4. Nd5 Qxc6 (4... Bxd5 5. exd5) 5. Nxf6+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.01.19"]
+[Round "?"]
+[White "Position 6"]
+[Black "?"]
+[Result "*"]
+[Annotator "Kesaris,E."]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n5/1B2P3/3p2Q1/8/PPPP1PPP/RNB2RK1 b kq - 0 0"]
+[PlyCount "4"]
+
+1... Nb4 2. a3 (2. d3 Nxc2 3. Bg5 Be7 4. Bxe7 Qxe7 5. Qxg7 Qf8 6. Qf6 Nxa1 7.
+Na3) (2. e6 fxe6 3. Qh5+ g6 4. Qe5 Rg8 5. Qxe6+ Qe7 6. Qxg8) (2. Na3) 2... Nxc2
+3. Ra2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.01.19"]
+[Round "?"]
+[White "Position 7"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p4b1/p2p1ppn/2pP1b2/2P1NB1Q/2N5/PP4PP/R4RK1 b - - 0 1"]
+[PlyCount "7"]
+
+1... g5 2. Nxg5 fxg5 3. Bxg5 Bf6 4. Qxh6 Bxg5 *
+
+[Event "YUG-ch 24th"]
+[Site "Novi Travnik"]
+[Date "1969.??.??"]
+[Round "6"]
+[White "Ivanovic, Bozidar"]
+[Black "Nikolic, Predrag"]
+[Result "1-0"]
+[ECO "B48"]
+[Annotator "Kesaris,E."]
+[PlyCount "55"]
+[EventDate "1969.??.??"]
+[EventType "tourn"]
+[EventRounds "20"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nge7 {
+Diagram #} 8. Ndb5 axb5 9. Nxb5 Qb8 10. Bb6 Nd5 11. exd5 Qe5+ 12. Kf1 Ra5 13.
+Bc7 Qxb2 14. Rb1 Qf6 15. dxc6 Rxa2 16. cxd7+ Bxd7 17. Bb6 Be7 18. Bc4 Bxb5 19.
+Bxb5+ Kf8 20. h4 h5 21. Rh3 g6 22. Bd4 e5 23. Bc3 Qf5 24. Bc4 Rxc2 25. Rf3 Rxc3
+26. Rxf5 gxf5 27. Qd5 Rh7 28. Rxb7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.01.19"]
+[Round "?"]
+[White "Position 9"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/5p2/3p3p/1ppPbP2/r3P1p1/5PN1/PP1R4/1K5R w - - 0 0"]
+[PlyCount "5"]
+
+1. f6 Bxg3 2. Rxh6 Kg8 3. Rg2 *
+

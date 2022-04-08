@@ -1,0 +1,79 @@
+[Event "World Championship (game 16), Moscow"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Bronstein, D."]
+[Black "Botvinnik, M."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "1b2q1r1/1p3b1k/2p1p2p/2Pp1p2/1P1PnN2/3QPBP1/7P/4BR1K b - - 0 1"]
+[PlyCount "21"]
+[EventDate "1951.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1... Bxf4 $1 {Eliminating the strong knight on f4 and preparing 2...Bh5, to
+simplify into an ending with a good knight vs. a bad bishop.} 2. exf4 Bh5 $1 3.
+Qa3 ({If} 3. Bg2 {, declining the bishop exchange, then} Qa8 {
+, preparing ...Qa2 and ...Ra8-a3 with strong pressure.}) ({Also after} 3. Bxe4
+dxe4 {
+, followed by ...Bf3+ and ...Qh5-h3, Black obtains a strong attack - Botvinnik.
+}) 3... Bxf3+ 4. Rxf3 Rg7 {
+Mission accomplished; the knight clearly outshines the bishop.} 5. Kg2 Qd8 6.
+Kf1 Qf6 7. Rd3 h5 $1 {By the threat ...h5-h4, Black provokes a new weakness.}
+8. h4 Rg8 9. Rd1 Qg7 10. Qf3 Kh6 11. Kg2 Ra8 $1 {. With 12...Ra2+ coming up,
+Black is clearly better.  .  (press F10 for the next exercise)} *
+
+[Event "Sverdlovsk"]
+[Site "?"]
+[Date "1943.??.??"]
+[Round "?"]
+[White "Makogonov, V."]
+[Black "Botvinnik, M."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3ppp/2p5/2npP3/1b3P2/2N1P1Pq/PPB2K1P/R1BQ3R b k - 0 1"]
+[PlyCount "18"]
+[EventDate "1943.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1... Bxc3 $1 {
+Initiating favourable exchanges in order to install an eternal knight on e4.}
+2. bxc3 Bf5 $1 3. Bxf5 Qxf5 4. g4 Qe6 {Simplest.} ({The tempting} 4... Qe4 {
+allows} 5. Ba3 $1 Nd3+ 6. Kg3 Qxe3+ 7. Qf3 {with complications.}) 5. Ba3 Ne4+
+6. Kf3 h5 ({After} 6... Nxc3 $6 7. Qb3 Nb5 8. Bb2 {O-O-O} f5 {
+White gets some initiative - Botvinnik.}) 7. h3 f6 $1 {
+With focus on the enemy monarch.} 8. c4 hxg4+ 9. hxg4 Rxh1 10. Qxh1 {O-O-O  . T
+hanks to his safer king and superior minor piece, Black has a clear advantage.
+. (press F10 for the next exercise)} *
+
+[Event "Bosnian Team Championship"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Berkes, F."]
+[Black "Ducic, R."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "r3br1k/1p1n2pp/2pqp3/p2pNp2/2PPnP2/PP1NP1P1/2Q3BP/R4RK1 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2002.??.??"]
+[Source "Everyman Chess"]
+[SourceDate "2011.06.01"]
+
+1. Nxd7 $1 {
+Initiating favourable exchanges in order to install an eternal knight on e5.}
+Qxd7 $6 ({Preferable was} 1... Bxd7 2. Ne5 Nf6 $1 {
+, followed by ...Be8 and ...Nd7 to challenge the white knight, although} 3. Qc3
+{preparing b3-b4 keeps some advantage.}) 2. Ne5 Qe7 3. Bxe4 $1 {
+Swapping the last piece capable of challenging White's knight.} fxe4 4. c5 {
+From now on White is better on the whole board, thanks to his powerful knight.}
+Bh5 $6 5. g4 Be8 6. Kg2 Kg8 7. Rab1 Qc7 8. Qd2 Bd7 9. Rfc1 Ra6 10. Rc3 Rfa8 11.
+h4 $1 {After luring the black pieces to the queenside, White takes action on
+the opposite flank.} Rb8 12. h5 b5 13. cxb6 Raxb6 14. Qf2 Be8 15. h6 $1 g6 16.
+f5 $1 {. With a strong attack. . (press F10 for the next exercise)} *
+

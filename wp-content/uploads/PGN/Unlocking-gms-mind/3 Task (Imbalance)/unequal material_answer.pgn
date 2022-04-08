@@ -1,0 +1,359 @@
+[Event "Linares 11th"]
+[Site "Linares"]
+[Date "1993.??.??"]
+[Round "10"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[WhiteElo "2725"]
+[BlackElo "2805"]
+[SetUp "1"]
+[FEN "r1bq1rk1/5pbp/2pQ1np1/1p2n3/4P3/1PN1BP2/P3N1PP/3RKB1R b K - 0 13"]
+[PlyCount "29"]
+[EventDate "1993.02.??"]
+[Source "ChessBase"]
+[SourceDate "1993.06.01"]
+
+13... Nfd7 {Like in the 16th game of their match in 1985 and like in many
+other of his games Kasparov sacrificed the pawn for the initiative. The lines
+are very complicated sometimes and often Black has to invest more material in
+order to keep his initiative} 14. f4 b4 $1 15. Nb1 {Haven`t we seen the pawn
+on b4 and the knight on b1 in the 16th game of the match Karpov-Kasparov in
+1985?} (15. Na4 Rxa4 $1 16. bxa4 Nc4 17. Qd3 Nb2 $17) (15. Qxb4 c5 $1 16. Bxc5
+Nxc5 $1 17. Rxd8 (17. Qxc5 Nd3+ 18. Rxd3 Qxd3 $19) 17... Ned3+ 18. Kd2 Nxb4 $19
+) 15... Ng4 16. Bd4 (16. Bg1 Rxa2 17. h3 Qh4+ 18. g3 Rxe2+ 19. Kxe2 Qxg3 20.
+hxg4 Nf6 $40) 16... Bxd4 17. Qxd4 Rxa2 {Black has regained the pawn} 18. h3 c5
+19. Qg1 Ngf6 20. e5 Ne4 21. h4 c4 22. Nc1 (22. Qe3 c3 23. Qxe4 c2 24. Rd2
+cxb1=Q+ 25. Qxb1 Rxd2 26. Kxd2 Nxe5+ $19) 22... c3 (22... Rb2 $5 23. Qd4 c3 24.
+Qxe4 c2 $19) 23. Nxa2 c2 24. Qd4 cxd1=Q+ 25. Kxd1 Ndc5 $1 26. Qxd8 Rxd8+ 27.
+Kc2 Nf2 0-1
+
+[Event "World Championship 32th-KK2"]
+[Site "Moscow"]
+[Date "1985.10.15"]
+[Round "16"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2700"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p3ppp/p4n2/2bP4/1n6/N1N2B2/PP3PPP/R1BQ1RK1 b - - 0 13"]
+[PlyCount "55"]
+[EventDate "1985.09.03"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{Early in the game Kasparov sacrificed a pawn. What for? Just to restrict
+white pieces} 13... Bf5 14. Bg5 Re8 15. Qd2 b5 16. Rad1 Nd3 {White is going to
+have big difficulties getting rid of this knight. Further on Kasparov kept
+developing his initiative and won in brilliant style} 17. Nab1 h6 18. Bh4 b4
+19. Na4 Bd6 20. Bg3 Rc8 21. b3 g5 $3 {played with the idea to prevent White
+exchanging the knight on d3} 22. Bxd6 (22. Nb2 Nxb2 23. Qxb2 g4 24. Be2 Rc2 $19
+) 22... Qxd6 23. g3 Nd7 24. Bg2 Qf6 25. a3 a5 26. axb4 axb4 27. Qa2 Bg6 28. d6
+g4 29. Qd2 Kg7 30. f3 Qxd6 31. fxg4 Qd4+ 32. Kh1 Nf6 33. Rf4 Ne4 34. Qxd3 Nf2+
+35. Rxf2 Bxd3 36. Rfd2 Qe3 37. Rxd3 Rc1 38. Nb2 Qf2 39. Nd2 Rxd1+ 40. Nxd1 Re1+
+0-1
+
+[Event "WchT 2nd"]
+[Site "Luzern"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "De Firmian, Nick E"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2660"]
+[SetUp "1"]
+[FEN "2r2rk1/1q2bpp1/p2pbn1p/1p2p3/1P2P3/P1N3QP/1P1B1PPN/3RR1K1 b - - 0 22"]
+[PlyCount "25"]
+[EventDate "1989.10.??"]
+[Source "ChessBase"]
+[SourceDate "1990.06.01"]
+
+22... Rxc3 $1 {By giving up an exchange and capturing the e4-pawn Black gets a
+clear advantage} 23. Bxc3 Nxe4 24. Qd3 f5 $17 25. Nf1 Bh4 26. Rxe4 Bxf2+ 27.
+Kh2 fxe4 28. Qxd6 Bb3 29. Rc1 e3 30. Qxe5 Qf7 31. Ng3 Re8 32. Qd6 Bc4 33. Be1
+Re6 34. Qd8+ Kh7 0-1
+
+[Event "WchT 4th"]
+[Site "Luzern"]
+[Date "1997.10.27"]
+[Round "3"]
+[White "Arencibia Rodriguez, Walter"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2725"]
+[SetUp "1"]
+[FEN "2rqk2r/1b1nbppp/p2ppn2/1p4B1/3NPP2/P1NB3Q/1PP3PP/2KR3R b k - 0 12"]
+[PlyCount "19"]
+[EventDate "1997.10.??"]
+[Source "ChessBase"]
+[SourceDate "1998.01.31"]
+
+12... Rxc3 {Black gets decisive attack} 13. bxc3 Nc5 {the e4-pawn here is not
+that important, Black is bringing his pieces closer to the white king} 14. Bxf6
+Bxf6 15. Rhe1 Qa5 16. e5 dxe5 17. fxe5 Bg5+ 18. Kb1 Bd5 {Black doesn`t seem to
+be in a hurry, White can`t protect his king anyway} 19. Nb3 Qxa3 20. Bxb5+ axb5
+21. Rxd5 Na4 0-1
+
+[Event "Detroit"]
+[Site "Detroit"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Fine, Reuben"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r1r2k1/p4pp1/2bp2p1/2p1pPq1/2PnP3/2NQ2P1/PP1R2BP/5RK1 w - - 0 22"]
+[PlyCount "25"]
+[EventDate "1933.09.??"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+
+{It seems that Black has an acceptable position. The bishop is controlling the
+d5 square and the knight on d4 is well placed} 22. f6 $1 {gaining space on the
+kingside} Rb7 23. Rdf2 gxf6 24. b3 f5 (24... Kg7 25. h4) 25. exf5 {now the
+bishops are going to be exchanged and white knight is getting an access to the
+d5-square} Bxg2 26. Kxg2 gxf5 27. Rxf5 $1 {an obvious and very strong
+sacrifice. The knight d4 is going to disappear, in return the knight on d5 is
+going to play an importantrole} Nxf5 28. Rxf5 Qh6 29. Qe4 {White is not in a
+hurry to play Nd5 but he appearance of this knight on e4 or on d5 is going to
+be very unpleasant for Black} Re7 30. Qg4+ Kf8 31. Rh5 Qg7 (31... Qd2+ 32. Kh3
+Re6 33. Qh4 Rde8 34. Ne4) 32. Qh4 Ke8 33. Nd5 {appearance of the knight on d5
+ends the game} f5 34. Nxe7 1-0
+
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1907.09.12"]
+[Round "17"]
+[White "Maroczy, Geza"]
+[Black "Rubinstein, Akiba"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2rr1bk1/ppq2pp1/2b1p2p/8/2P2PQ1/2BB4/PP4PP/3R1RK1 b - - 0 21"]
+[PlyCount "40"]
+[EventDate "1907.08.20"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{white bishop can become very dangerous e.g. after f4-f5 and Black decides to
+give up an exchange and capture the pawn on c4} 21... Rxd3 $5 22. Rxd3 Be4 23.
+Rd2 Qxc4 24. Rfd1 Bd5 25. h3 f5 26. Qg6 Qxf4 27. Rxd5 {White is giving up an
+exchange as the bishop on d5 is not worse than white rook anyway} Qe3+ 28. Kh1
+exd5 29. Qxf5 Rd8 $11 30. Rxd5 Qc1+ 31. Kh2 Bd6+ 32. Be5 Bc7 33. Rxd8+ Bxd8 34.
+Qd7 Qg5 35. Bg3 Qe7 36. Qxe7 Bxe7 37. Be5 Kf7 38. Kg3 g6 39. Kf4 Ke6 40. Ke4 h5
+41. b3 1/2-1/2
+
+[Event "WchT 6th"]
+[Site "Beersheba"]
+[Date "2005.11.08"]
+[Round "7"]
+[White "Bruzon Batista, Lazaro"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteElo "2226"]
+[BlackElo "2748"]
+[SetUp "1"]
+[FEN "2rqk2r/1p2bpp1/p2p1n1p/n2Pp3/6P1/4BB2/PPPN1P1P/R2QK1R1 b Qk - 0 14"]
+[PlyCount "126"]
+[EventDate "2005.11.01"]
+[Source "ChessBase"]
+[SourceDate "2006.01.31"]
+
+14... Nc4 15. Nxc4 Rxc4 16. Be2 Re4 $1 {Bishop on e3 is a very important part
+of white strategy and Vassily Ivanchuk shows that he is not afried to give up
+his rook for this bishop} 17. Qd2 Nd7 18. Bd3 Rxe3+ 19. fxe3 Bh4+ 20. Ke2 e4 $1
+{another important move. The knight is getting access to the e5-square} 21.
+Bxe4 O-O 22. Raf1 Re8 23. Bf5 Ne5 $44 {White is up an exchange and the pawn
+but due to the dark squares and weak position of the white king it`s only
+Black who can be better} 24. Qb4 b5 {and Black won though not without some
+help from his opponent} 25. Bd3 Bg5 26. Rg3 Qb6 27. Qe4 g6 28. Kd1 b4 29. Kc1
+a5 30. Kb1 a4 31. Qd4 Qa5 32. e4 b3 33. Be2 bxa2+ 34. Kxa2 Rb8 35. Ra3 Rb4 36.
+Qc3 Qb6 37. Bd3 Be3 38. Rb1 Bc5 39. b3 axb3+ 40. Rbxb3 Kg7 41. Rxb4 Bxb4 42.
+Qb2 Qc5 43. Ra4 Be1 44. h3 Bf2 45. Ra8 Kf6 46. Qa3 Qc7 47. Qb4 Bb6 48. Kb3 Kg5
+49. Qd2+ Kh4 50. Ka2 Bc5 51. Qa5 Qxa5+ 52. Rxa5 Kxh3 53. Be2 Kg3 54. Ra8 Kf4
+55. Rh8 Kxe4 56. Rxh6 Kxd5 57. Kb3 Ke4 58. Rh7 Kf4 59. Kc3 d5 60. Rh8 Ke3 61.
+Re8 Bd4+ 62. Kb4 Kxe2 63. c3 Kd3 64. cxd4 Kxd4 65. g5 Nf3 66. Re7 Nxg5 67. Kb5
+Ne4 68. Kc6 f5 69. Rd7 Nf6 70. Rg7 Ng4 71. Kd6 Ne5 72. Ke6 f4 73. Rg8 Ke4 74.
+Rd8 f3 75. Rxd5 f2 76. Rd1 g5 77. Rf1 0-1
+
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Ivkov, Borislav"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/1pq1ppbp/2rp2p1/pQ6/P1P1P2P/1P2BP2/6P1/2KR3R b - - 0 20"]
+[PlyCount "35"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+20... Rc5 {By giving up the exchange Larsen is opening up the way for his
+queen. Besides, dark squares in white camp are becoming weak} 21. Bxc5 dxc5 22.
+Rd5 e6 $6 {this is perhaps an inaccuracy} (22... Qg3 23. e5 (23. Qxc5 Qxg2 24.
+Re1 Bc3 25. Rg1 Qb2+ 26. Kd1 e5 $17) 23... Qxg2 24. Rhd1 Qxf3 25. R1d3 Qf1+ 26.
+Kc2 Bh6 27. Rd1 Qe2+ 28. Kb1 Qe4+ 29. R1d3 e6 30. Rd7 Qe1+ 31. Rd1 Qxe5 $17)
+23. Qxc5 (23. Rxc5 Qf4+) 23... Qg3 24. Rg5 (24. Rd2 Bh6 25. Qxa5 Qxg2 {with
+the initiative}) 24... Qf4+ 25. Kc2 f5 26. exf5 exf5 27. Rd1 (27. Qxa5 $142)
+27... b6 28. Qe7 Qxh4 29. Rd7 $2 (29. Qe6+ Kh8 30. Qe3 Bf6 31. f4 $14) 29...
+Bf6 30. Qe6+ Kh8 31. Qd6 Qf2+ 32. Kd1 Qf1+ 33. Kc2 Qe2+ 34. Kc1 Qb2+ 35. Kd1
+Qb1+ 36. Ke2 Re8+ 37. Kf2 Qe1# 0-1
+
+[Event "Moscow"]
+[Site "Moscow RUS"]
+[Date "2001.11.28"]
+[Round "1.2"]
+[White "Yermolinsky, A."]
+[Black "Milov, V."]
+[Result "0-1"]
+[WhiteElo "2577"]
+[BlackElo "2602"]
+[SetUp "1"]
+[FEN "r1b1qrk1/ppp2pbp/n4np1/4p3/2P1P3/1PN2N2/P3BPPP/R1BQR1K1 b - - 0 10"]
+[PlyCount "129"]
+[EventDate "2001.11.28"]
+
+{Bc1-a3 is White`s idea and in this theoretical position I offered an exchange
+sacrifice} 10... Nc5 $1 11. Ba3 $6 ({perhaps better was} 11. Nd2 Qd8 12. Ba3
+Nfd7 13. Qc2 Re8 14. Bg4 Bf8 $11) 11... Nfxe4 12. Nxe4 Nxe4 13. Bxf8 Qxf8 {now
+Black has a very promising position} 14. Qc2 (14. Bd3 Nc5 15. Nxe5 $2 Qd6)
+14... Nc5 $15 15. Rad1 a5 16. h3 $6 (16. Qc1 Bf5 $15) 16... Bf5 17. Qc1 Re8 (
+17... Be4 $5 18. Ng5 {(V)} Bc6 $36 (18... Bh6 19. f4 exf4 20. Nxe4 Nxe4 21. Bf3
+Nc5) 19. Bf3 Bxf3) 18. Bf1 e4 $2 (18... Be4 19. Nd2 (19. Qc3 b6) 19... Bc6 $17
+{[+]}) 19. Nd4 Bc8 20. Qe3 $1 $13 h5 $5 21. Nb5 Qe7 22. f3 b6 23. fxe4 Be5 {
+Activating both the bishops.} 24. Nd4 Bb7 25. Bd3 h4 {[%csl Gg3]} 26. Nf3 Bg3
+27. Re2 Ne6 28. Bc2 Bd6 $5 29. Kh1 Bf4 $1 30. Qf2 Bg3 $1 31. Qe3 c5 $1 {><Kh1}
+32. e5 $2 Bxf3 33. Qxf3 Nd4 34. Rxd4 cxd4 $17 35. e6 $8 f5 $2 36. Qd3 $2 Qd6
+37. e7 Be5 38. Qf3 Kg7 39. Qd5 Qxe7 40. Re1 Qf6 $2 41. Bd1 Kh6 42. a3 Re7 43.
+b4 Bd6 $5 44. Rxe7 Bxe7 45. bxa5 bxa5 46. Qxa5 $2 Qd6 {><Kh1,o^ d} 47. Qd2+ Bg5
+48. Qd3 Be3 49. Be2 Qg3 {Idea 50...Qe1 51.Bf1 Qf2} 50. Qd1 Bf4 51. Kg1 Qh2+ 52.
+Kf1 Qh1+ 53. Kf2 Be3+ 54. Kf3 Qh2 55. Bf1 Qf4+ 56. Ke2 Qf2+ 57. Kd3 Qb2 $17 58.
+Qc2 Qxa3+ 59. Ke2 Qc5 60. Kd1 Kg5 $1 61. Bd3 Kf4 62. Ke2 Kg3 63. Kf1 Qe5 64.
+Be2 $6 Qe4 65. Bd3 $8 Qf4+ 66. Ke1 Bf2+ 67. Kf1 Be3+ $19 68. Ke1 Kh2 69. c5 Kg1
+70. c6 Qg3+ 71. Kd1 Bf4 72. Qc4 Qe3 73. Qc2 Qf2 74. Be2 Bc7 (74... Kxg2 75. c7
+Bxc7 (75... Qg1+ $4 76. Bf1+ $18) 76. Qxc7 Kxh3 $19) (74... Bc7 75. Bf3 Qf1+
+76. Kd2 Bf4#) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Toran"]
+[Black "Tal, M."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rqk1/ppp3bp/2np2p1/5bN1/2PP4/4B1P1/PP1Q2BP/R5K1 b - - 0 1"]
+[PlyCount "19"]
+[EventDate "1961.??.??"]
+
+1... Rxe3 $1 {Now thee are different lines where White gets either a queen for
+2 pieces or an exchange but everywhere Black gets sufficient compensation} 2.
+Bd5+ (2. Bxc6 Rd3 3. Bd5+ Kh8 4. Qxd3 Bxd3 5. Nf7+ Qxf7 6. Bxf7 Bxd4+ 7. Kg2
+Bxb2 8. Re1 Be5 $15) 2... Kh8 3. Nf7+ Qxf7 4. Bxf7 Rd3 5. Qe2 Bxd4+ 6. Kg2 Ne5
+7. Rd1 (7. Bd5 c6) 7... Re3 8. Qf1 $2 {loses immediately} (8. Qd2 Be4+ 9. Kh3
+Nf3 10. Qf2 Rd3 11. Qe2 Rxd1 12. Qxd1 Ng5+ 13. Kh4 (13. Kg4 Be3 14. Bd5 Bf5+
+15. Kh4 h6) 13... Bf6) 8... Be4+ 9. Kh3 Rf3 10. Qe2 Bf5+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Robatsch, K."]
+[Black "Tal, M."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5r1k/1b1q2pp/pB1p1n2/1p6/2r1PP2/PPN4R/2P1Q1PP/R6K b - - 0 8"]
+[PlyCount "53"]
+[EventDate "1960.??.??"]
+
+8... Qxh3 $1 9. gxh3 Rxc3 {Black is going to get enough counterplay as the
+rook c3 bishop and the knight are working very well together} 10. Kg1 Bxe4 11.
+Rc1 Rxh3 12. Bf2 d5 13. Bg3 Nh5 14. Qe3 g5 $6 {in such positions a great
+precision is required from both sides and here we see that even Mikhail Tal is
+making a mistake} ({after} 14... Nxg3 $1 15. hxg3 h5 {Black is winning by force
+} (15... Rh1+ $5 16. Kf2 d4 $17) 16. Kf2 h4 17. Rg1 Rh2+ 18. Kf1 h3 19. g4 Kg8
+20. Rg3 Rxc2 21. Rxh3 Rfc8 $19) 15. Qd4+ Kg8 16. Re1 $1 Nxg3 17. Rxe4 {now
+White is destroying the powerful combination (pawn d5+bishop e4) and opening
+up the position around black king. Perpetual check becomes inevitable} dxe4 18.
+Qd5+ Rf7 19. Qd8+ Kg7 20. Qxg5+ Kh8 21. Qd8+ Kg7 22. Kg2 Rh6 23. hxg3 Re6 24.
+Qg5+ Kf8 25. f5 Re8 26. f6 e3 27. Qc5+ Kg8 28. Qc6 Ref8 29. Qe6 Kh8 30. Qxe3
+Rxf6 31. Qd4 h6 32. a4 bxa4 33. Qxa4 Rg6 34. Qd4+ Rgf6 $11 1/2-1/2
+
+[Event "URS-ch18"]
+[Site "Moscow"]
+[Date "1950.11.20"]
+[Round "6"]
+[White "Alatortsev, Vladimir"]
+[Black "Boleslavsky, Isaak"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rrk1/ppp4p/3p2p1/6q1/2P2P2/1P4Pb/PQ2B2P/R4RK1 b - - 0 20"]
+[PlyCount "15"]
+[EventDate "1950.??.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+20... Bxf1 $1 {It appears it`s not necessary to move the queen away} 21. fxg5
+Rxe2 22. Qc3 (22. Qd4 Bh3 23. Qh4 Rg2+ 24. Kh1 Rxa2 25. Re1 Re2 26. Ra1 Bg2+
+27. Kg1 Bc6 28. Qh3 a5 $19) 22... Bg2 23. Qd3 Bf3 24. Rf1 (24. Kf1 Rxh2 25. Qd4
+c5 26. Qc3 Be2+ 27. Kg1 Rff2 $19) 24... Rg2+ 25. Kh1 Bc6 $1 26. Rxf8+ Kxf8 27.
+Qf1+ Rf2+ 0-1
+
+[Event "URS-ch31"]
+[Site "Leningrad"]
+[Date "1963.11.??"]
+[Round "11"]
+[White "Stein, Leonid"]
+[Black "Klovans, Janis"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r5k1/pp1bb1pp/1q2p3/3r4/3pRB2/PQ4P1/1PP2P1P/4RNK1 w - - 0 23"]
+[PlyCount "27"]
+[EventDate "1963.11.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+23. Qxd5 $1 {Giving up the queen for the rook and the bishop White is bringing
+his rook on the 7th rank and besides Black won`t be able to cover his g7-pawn}
+exd5 24. Rxe7 Bf5 25. Be5 Rc8 26. c3 dxc3 27. bxc3 Rc4 28. Rxg7+ $6 (28. Bd4 {
+White has a strong attack} Qd6 29. Rxg7+ Kf8 30. Ne3) 28... Kf8 29. Nd2 Rg4 30.
+Rc7 (30. Re7) 30... Be4 (30... Rg6 $142 {and Black is not worse}) 31. c4 Rg5
+32. c5 Qa5 33. Bd6+ Ke8 34. Re2 Qc3 35. Nxe4 dxe4 36. Rxe4+ (36. Rxe4+ Kd8 37.
+Rf4 Rg8 38. h4 $18) 1-0
+
+[Event "World Championship 35th-KK5"]
+[Site "Lyon/New York"]
+[Date "1990.10.15"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2800"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppp1qpbp/5np1/3Np3/2P1P3/4BN2/PP2BPPP/R2QK2R b KQ - 0 9"]
+[PlyCount "88"]
+[EventDate "1990.10.08"]
+[Source "ChessBase"]
+[SourceDate "1991.04.01"]
+
+{In the early part of the game Kasparov is giving up material, first an
+exchange and then the queen for 2 minor pieces} 9... Qd8 10. Bc5 Nxe4 11. Be7
+Qd7 12. Bxf8 Kxf8 13. Qc2 Nc5 14. Rd1 Nc6 15. O-O Ne6 $1 16. Nb6 axb6 17. Rxd7
+Bxd7 $13 18. Qd2 (18. a3 Ncd4 19. Nxd4 Nxd4 20. Qd2 $13) 18... Be8 19. b3 e4 {
+Blacl is controlling the board and it doesn`t feel like White has an extra
+material} 20. Ne1 $6 (20. Ng5 Nxg5 21. Qxg5 Rxa2 22. Bg4 f5 23. Qf4 Be5 24.
+Qh6+ Bg7 $11) 20... f5 $1 21. Bd1 Ne5 22. Nc2 Rxa2 $15 23. Qd5 Ke7 24. Nb4 c6
+25. Qxe6+ Kxe6 26. Nxa2 Nf7 $6 (26... c5 $142 27. Nc3 Nxc4 28. Nxe4 fxe4 29.
+bxc4 b5 30. Bb3 b4 $17 {/\Bd4, Ke5, Bf7}) 27. Be2 Nd6 28. Nb4 Bc3 29. Nc2 f4
+30. Rd1 h5 (30... c5 $5) 31. f3 e3 32. g3 g5 33. Bd3 h4 34. Kf1 c5 35. Ke2 b5
+36. cxb5 Nxb5 37. Bc4+ Ke7 38. Rd5 Bf6 39. Rxc5 Nc3+ 40. Kf1 Bg6 41. Ne1 Kd6
+42. Ra5 fxg3 43. hxg3 hxg3 44. Ng2 b5 45. Ra6+ Ke7 46. Ra7+ Ke8 47. Ra8+ Bd8
+48. Nxe3 bxc4 49. Nxc4 g4 50. Kg2 Ne2 51. Ne5 gxf3+ 52. Kxf3 g2 53. Rxd8+
+1/2-1/2
+

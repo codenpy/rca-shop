@@ -1,0 +1,198 @@
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.25"]
+[Round "3.2"]
+[White "Ding, Liren"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2781"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "65"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O Nbd7 8.
+Qb3 Nb6 9. c5 Nc4 10. Qc2 b6 11. c6 a5 12. Bf4 Ba6 13. Rd1 h6 14. Ne5 Qe8 15.
+a4 Nxe5 16. dxe5 {Diagram #} Ng4 {This knight is trapped here and, after
+White's last move, Black should sacrifice it. However, his pieces are not
+ready to support the attack.} (16... Nh5 $1 {It was much better to attack the
+f4-bishop, and then, to break the center with the f6 move.} 17. Be3 f6 $1 18.
+g4 fxe5 19. gxh5 d4 20. Bc1 Qxh5 $44) 17. h3 Nxf2 18. Kxf2 Bc5+ {Black gives a
+check and he would like to open the f-line in order to activate his f8-rook.
+However, Black's pieces cannot enter the attack in time and, for that reason,
+White has a big advantage thanks to his material superiority.} 19. Be3 Bxe3+
+20. Kxe3 f6 21. exf6 $1 {He can open some lines temporarily because he can
+block the f-line with the Bf3 move. Similarly, Black doesn't have direct
+threats.} Rxf6 22. Bf3 Qe7 23. Kd2 {White has the advantage because he stopped
+Black's attack, and he managed to win the game afterwards.} (23. Kf2 $5) 23...
+Qd6 24. Kc1 Qxg3 25. Ra3 Raf8 26. Nc3 Kh8 27. Nb5 Bxb5 28. axb5 Qh4 29. Kb1 Rf4
+30. Re3 R8f6 31. Bg4 Rc4 32. Qd3 Rb4 33. Bxe6 1-0
+
+[Event "Tatry op"]
+[Site "Tatranske Zruby"]
+[Date "2018.10.07"]
+[Round "9"]
+[White "Zylka, Stanislaw"]
+[Black "Demeter, Peter"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2327"]
+[BlackElo "2156"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "45"]
+[EventDate "2018.09.30"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Togo"]
+[BlackTeam "Swaziland"]
+[WhiteTeamCountry "TOG"]
+[BlackTeamCountry "SWA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 O-O 6. O-O-O c5 $6 {
+Black should prepare this move with Nbd7; it's dangerous to do it immediately.}
+(6... c6) (6... Nc6) (6... Nbd7) 7. dxc5 Qa5 {Diagram #} 8. cxd6 $1 {Black 
+started a very fast attack, and White should be careful because he didn't fully
+develop his army yet. In reality, White can stop Black's threats because Black
+hasn't developed all of his pieces.} (8. Bxf6 $5 {This move is interesting
+because you are eliminating a developed piece and continue capturing material.}
+Bxf6 9. cxd6 exd6 10. Nd5 $1 Qxd2+ 11. Rxd2 $16) 8... exd6 9. Bh6 $2 {
+In the opening, it's very important to develop all of your pieces and not move
+the same piece twice. After the Bc4 move, he will have a fantastic central
+control and a good development. Black's attack was premature and White's
+player managed to stop it; so, he won the game afterwards.} (9. Bc4 $1 $16)
+9... Nxe4 10. Nxe4 Qxa2 11. Qe3 Qxb2+ 12. Kd2 Bxh6 13. Qxh6 Qb4+ (13... d5 14.
+Ng5 Qb4+ 15. Kc1 Qa3+ 16. Kd2 (16. Kb1 Qb4+ 17. Kc1 $11) 16... Qb4+ 17. c3 Qb2+
+18. Kd3 Bf5+ 19. Ke3 Qxc3+ 20. Bd3 Re8+ 21. Kf3 Be4+ 22. Kg3 $16 {
+And White's king is safe, but we cannot say the same for Black's.}) 14. Nc3 Bf5
+15. Rb1 Qd4+ 16. Bd3 Bxd3 17. cxd3 b6 18. Nge2 Qc5 19. Rb5 Qc7 20. Nd5 Qd8 21.
+h4 f6 22. h5 g5 23. Nd4 1-0
+
+[Event "Youth District Germany"]
+[Site "Wuerzburg"]
+[Date "2018.10.07"]
+[Round "7.8"]
+[White "Werner, Rosalie"]
+[Black "Schulz, Hannah"]
+[Result "1-0"]
+[ECO "B16"]
+[WhiteElo "1566"]
+[BlackElo "1527"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "91"]
+[EventDate "2018.10.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Hessen U20"]
+[BlackTeam "Baden U20"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 e6 8.
+g3 Nd7 9. Bg2 Qc7 10. O-O O-O-O 11. Qe2 h5 {Diagram #} 12. b4 $5 {Black didn't
+finalize her development and she started an attack in the kingside. Even if
+she manages to open the h-line, a thing that is difficult, she doesn't have
+enough pieces to create real threats. On the other hand, White's attack is
+more realistic because her pieces are better developed.} (12. Nh4 $1 {
+This was a very interesting move in order to stop the premature attack and
+activate the g2-bishop.}) (12. Bf4 $5) (12. a4 $5) 12... Bh6 {
+Another pointless move which helps only White.} (12... Bg4 $5) 13. c4 {
+White continues with the attack. Black's pieces aren't good organized and
+White is trying to open lines against the enemy king. The idea is to play c5
+in order to fix the enemy pawn structure and, then, to break throught with b5.}
+Kb8 14. c5 Nf8 15. b5 $1 {It's very important to open lines by exchanging your
+pawns, in order to fully activate your pieces and create threats.} cxb5 16.
+Qxb5 Be4 17. Bxh6 Rxh6 18. a4 Bc6 19. Qb4 Ng6 20. h4 Bxf3 21. Bxf3 {Diagram #}
+Nxh4 $2 {Black's position is worse and, for that reason, she should prepare
+her attack, by Rg8, or try to limit White's pieces activity.} (21... Ne7) 22.
+gxh4 Rg8+ 23. Kh1 $18 {White needs some accurate moves, then she will refute
+Black's premature attack. White has a winning advantage, and she manages to
+convert it afterwards.} Rg4 24. Bxg4 hxg4 25. Rg1 Rxh4+ 26. Kg2 Qc6+ 27. Kf1
+Rh1 28. Qb5 Qe4 29. Rb1 Rh2 30. Qe8+ Kc7 31. Qxf7+ Kc8 32. Qf8+ Kc7 33. Qd6+
+Kc8 34. Qxh2 Qxb1+ 35. Kg2 Qe4+ 36. Kg3 Qd3+ 37. Kxg4 Qxd4+ 38. Qf4 f5+ 39. Kf3
+Qd3+ 40. Qe3 Qd5+ 41. Kg3 f4+ 42. Qxf4 Qd3+ 43. Qe3 Qg6+ 44. Kh2 Qh5+ 45. Qh3
+Qxc5 46. Qxe6+ 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.03.17"]
+[Round "7.2"]
+[White "Schulze Ameling, Hendrik"]
+[Black "Hofene, Dieter"]
+[Result "0-1"]
+[ECO "C13"]
+[WhiteElo "2001"]
+[BlackElo "1970"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "80"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Ahaus Wessum"]
+[BlackTeam "Beelen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 a6 8.
+Qd2 Nd7 9. O-O-O c6 10. Qh6 Bf8 11. Qf4 Qe7 12. Kb1 h5 13. c4 Bh6 14. Qc7 Qd8
+15. Nd6+ Ke7 {Diagram #} 16. Nf5+ $5 {This is an interesting attempt, but
+White is bringing all of the bridges. After this sacrifice, there is no
+turning back, and White's attack should succeed or fail; so, White will lose
+thanks to his material disadvantage.} (16. Nxc8+ Rxc8 (16... Qxc8 17. Qa5 $36)
+17. Qxb7 $14 {White has the advantage because Black's king is in the center of
+the board and he cannot create any real threats against the Kb1. Similarly,
+White's queen is very active on the queenside.}) 16... Ke8 {Diagram #} 17. Qd6
+$2 {White is playing hoping chess. He is hoping that Black captures on f5 in
+order to give a check on e1. However, with his last move, White doesn't create
+any threats and his attack is over.} (17. Nd6+ $8 Ke7 18. Nf5+ Ke8 (18... exf5
+19. Re1+ Kf8 20. Qxd8+ $18) 19. Qxd8+ Kxd8 20. Nxh6 Rxh6 $14 {
+And White has a small advantage.}) 17... Bf8 $17 {Black stopped White's attack,
+and now he has a big advantage. He manages to win the game afterwards.} 18. Qg3
+exf5 19. Bd3 Nb6 20. Rhe1+ Be7 21. Qg7 Rf8 22. Qxf6 Be6 23. Qh6 Qd6 24. Qxh5
+Nxc4 25. d5 Nxb2 26. Rxe6 Qb4 27. a3 Qxa3 28. Rxe7+ Kxe7 29. Re1+ Kd8 30. Bxf5
+Na4 31. Qh4+ f6 32. Qd4 Nc3+ 33. Kc2 Nxd5 34. Rd1 Kc7 35. Ra1 Qd6 36. Qh4 Qc5+
+37. Kb1 Qb5+ 38. Kc1 Qc5+ 39. Kb1 Rad8 40. Qg3+ Kb6 0-1
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.04.21"]
+[Round "8.6"]
+[White "Schemmann, Bernhard"]
+[Black "Averkamp Peters, Jens"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1846"]
+[BlackElo "1908"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "42"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Beelen"]
+[BlackTeam "Rheine Klein Berlin"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ c6 4. dxc6 Nxc6 5. Nf3 Bg4 6. h3 Bh5 7. d4 e6 {
+Diagram #} 8. g4 $6 {The move isn't bad in itself, but it is very risky for
+sure! White is attacking the bishop, but it's not clear where White will
+castle.} (8. c3 $5) (8. Nbd2 $5) (8. O-O $5) 8... Bg6 9. Nc3 {The knight isn't
+good developed here because Black can pin it and destroy White's pawn
+structure.} (9. O-O) 9... Bb4 10. a3 $2 {This is another premature attack. It
+was much better to continue developing his pieces by castling short.} (10. O-O
+$5) 10... Bxc3+ 11. bxc3 Qa5 $36 {By starting the attack on White's weaknesses,
+Black takes the initiative and, after a long fight, he manages to win the game.
+} 12. Bd3 Nxd4 13. Nxd4 Qxc3+ 14. Qd2 Qxa1 15. Bb5+ Kf8 16. O-O Kg8 17. Rd1 Ne4
+18. Qb4 Qc3 19. Qe7 Qxh3 20. Be2 h5 21. gxh5 Nc3 0-1
+

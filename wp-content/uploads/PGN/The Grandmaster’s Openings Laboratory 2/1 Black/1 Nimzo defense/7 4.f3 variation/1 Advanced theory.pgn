@@ -1,0 +1,70 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.05.18"]
+[Round "?"]
+[White "4.f3 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "E25"]
+[Annotator "RCA"]
+[PlyCount "34"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 {The move f3 denotes the Saemisch
+Variation. As in the King's Indian Defence, White moves his pawn to f3 in the
+hope of building a strong centre. But against the Nimzo Indian, it isn't
+possible because Black plays right in the centre and prevents White from
+building a huge pawn phalanx. The game will be complex and interesting, but
+will be in no way worse for Black.} d5 $1 {Not a typical Nimzo move, because
+most of the time we avoid moving this move and rather choose the 'c' pawn. But
+here it makes total sense, as White has played his pawn to f3; this means that
+his knight can no longer develop on f3 and he falls back in development -
+hence the break in the centre makes full sense.} 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5
+Nxd5 {I recommend this move order for a safe game. It's very solid and Black
+gets a very good position after it. His winning chances, according to me, are
+not many - but his losing chances are even less. I recommend the more
+combative ed5 if you are in a must-win situation.} (7... exd5 $5 8. e3 {Since
+the game Botvinnik-Capablanca AVRO 1938, this structure has been long
+considered to be bad for Black. White has a simple plan: he puts his bishop on
+d3, then the knight goes from e2-g3, 0-0 and then White executes e3-e4, by
+which stage he has the two bishops and mobile pawn centre. However, we stop
+that plan right in its tracks with the very interesting move...} (8. Bg5 O-O 9.
+e3 Re8) 8... c4 $1 {We shall analyse this position in our illustrative game
+Kasparov-Polgar.}) 8. dxc5 {This is the only way for White to play in the f3
+Saemisch. He gives up all the positional considerations on the queen side, so
+that he can build up a strong centre and use his two bishops. Black, on the
+other hand, will have a compact structure and will not face too many
+difficulties in neutralising White's initiative.} (8. e4 Nxc3 9. Qd3 cxd4 $19)
+8... Qa5 {Putting pressure on the c3 and c5 pawns.} 9. e4 $1 {This very strong
+move shows White's intent - that he is ready to sacrifice a pawn if that means
+making his dark-squared bishop even more active.} Nf6 {I recommend this simple
+knight retreat. The knight can later come to d7 and the other knight could go
+to c6 or a6. As White has pawn deficiencies and weakish squares on the queen
+side, these two knights will play an important role in trying to exploit these
+weaknesses.} (9... Ne7) (9... Nc7) (9... Qxc3+ $2 10. Bd2 $19) (9... Nxc3 10.
+Qd2 Nc6 11. Bb2 Na4 12. Qxa5 Nxa5 13. Bxg7 {White has a better position.}) 10.
+Be3 O-O (10... Qxc3+ 11. Kf2 {Is definitely what white wants. Black has
+established material equality but the pawn on c3 was just a thorn in White's
+side. After it's gone, he can use his rook and bishops to greater advantage.})
+11. Qb3 (11. Kf2 {Followed by Rb1 or the other way around is a sideline, but
+the ideas are pretty similar. We shall examine the game Volkov-Bruzon Batista
+and analyse it in depth to understand what's going on here.} Nfd7 12. Rb1)
+11... Nfd7 12. a4 $5 (12. Qb4 Qc7) 12... Qc7 {Now Black threatens to take on
+c5.} (12... Nxc5 $2 {Is a mistake, as it allows White to straighten his pawn
+structure after...} 13. Qb4 $1 $16) 13. Qa3 (13. Qb4 Nc6 14. Qa3 b6 $5 15. cxb6
+axb6 16. Bb5 Ba6 {Black has an excellent position.}) 13... b6 $1 {This is a
+typical pawn sacrifice for this variation. Accepting the pawn sacrifice is not
+so good, as it opens up two files - the 'a' and the 'c' file - for Black, on
+which he can attack the weak White pawns.} 14. a5 $5 {This move is the most
+challenging for Black to meet.} (14. cxb6 axb6 {How Black equalises with ease
+in this position is seen in the game Ipatov-Fedorchuk.}) 14... bxc5 (14... Bb7
+{Was tried by Kramnik, but I see nothing wrong with taking the pawn back.}) 15.
+a6 {This is the latest try by White to secure an advantage in this position.
+Ling Diren was able to beat the super solid Leko in this line with White. So
+we must be careful. But I think inherently there is nothing wrong with Black's
+position.} (15. Nh3 {After this move Black uses the a6 square and obtains an
+excellent game - as shown in Cebalo-Zelcic.} Ba6 16. Bxa6 Nxa6 17. Qa4 c4)
+15... c4 16. Qa5 Nb6 17. Nh3 e5 {Black has an equal game, as shown in our
+illustrative game Berry-Maki Uuro.} *
+

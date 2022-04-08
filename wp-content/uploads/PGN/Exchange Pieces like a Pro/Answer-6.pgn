@@ -1,0 +1,166 @@
+[Event "Kladovo"]
+[Site "Kladovo"]
+[Date "1990.??.??"]
+[Round "4"]
+[White "Mirkovic, Slobodan"]
+[Black "Stefanovski, Dusko"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2400"]
+[BlackElo "2315"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "51"]
+[EventDate "1990.??.??"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. g3 Nc6 5. Bg2 d5 6. cxd5 exd5 7. d4 cxd4 8.
+Nxd4 Be7 9. O-O O-O 10. Nxc6 bxc6 11. Be3 Bg4 12. Rc1 Re8 13. Re1 Qa5 14. a3
+Qa6 15. Bd4 Bd8 $6 {Breaking a basic principle, to keep the rooks connected.} (
+15... Rab8 $14) 16. Qd2 Bf5 17. Qf4 Bg6 {Diagram #} 18. e4 {This break creates
+a series of exchanges that will leave Black's king with few defenders. It is
+also important to note the fact that Black's queen on a6 will remain out of
+action.} dxe4 (18... Bb6 19. exd5 {wins a pawn}) 19. Nxe4 Nxe4 (19... Nd5 20.
+Nc5 $1 $18) 20. Bxe4 Bb6 (20... Bxe4 21. Rxe4 Rxe4 $16 (21... Bb6 22. Rxc6 $16)
+22. Qxe4 {and c6 will fall}) 21. Bxc6 $1 $18 Rxe1+ 22. Rxe1 Rd8 (22... Bxd4 23.
+Bxa8 $18) 23. Qe5 $1 {White finishes the game in style.} f6 24. Bd5+ Kh8 25.
+Qxf6 $3 Rg8 (25... gxf6 26. Bxf6#) 26. Re7 $1 1-0
+
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1940.??.??"]
+[Round "7"]
+[White "Rellstab, Ludwig Sr"]
+[Black "Nowarra, Heinz"]
+[Result "1-0"]
+[ECO "E14"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "47"]
+[EventDate "1940.??.??"]
+[EventRounds "9"]
+[EventCountry "GER"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. e3 Be7 6. b3 O-O 7. Bd3 c5 8. O-O
+b6 9. Qe2 cxd4 10. exd4 Bb7 11. Bb2 Bd6 12. Ne5 Rc8 13. f4 dxc4 14. bxc4 Bb8
+15. Rad1 Re8 16. Qf2 Nf8 17. f5 $5 a6 18. Ne2 Qc7 19. Qh4 (19. fxe6 $5 fxe6 (
+19... Nxe6 20. Qh4 $16) 20. Nf4 $16) 19... Rcd8 (19... exf5 $5 20. Bxf5 Ng6 $11
+21. Nxg6 $4 Rxe2 $17) 20. Ng3 Qe7 21. fxe6 fxe6 {Diagram #} 22. d5 $5 {
+A nice attacking move. The main idea is to exchange the e6 pawn, which
+controls the f5 square. Additionally it opens the a1-h8 diagonal for thebishop.
+} (22. Ng4 $5 {Was another good alternative, eliminating the f6 knight, which
+is a good defender.} Nxg4 23. Qxg4 $16 {
+White has a better pawn structure and an attack.}) 22... Nxd5 {
+White finds a beautiful refutation.} (22... exd5 23. Nf5 $1 {the main point}
+Qc7 24. Qg5 $18 {other moves are possible but this one is simple and good.} Ng6
+25. Nxg6 Qxh2+ 26. Kf2 $18 {
+And Black runs out of checks while White keeps on attacking.}) (22... Bxe5 {
+was the best defense} 23. Bxe5 Nxd5 24. Qxe7 Nxe7 25. Bc7 Rd7 26. Bxb6 $16) 23.
+Rxf8+ $1 Kxf8 (23... Qxf8 24. Qxh7#) 24. Ng6+ {
+If 24â Rhxg6 25.Qh8+ and 26.Qxg7#} 1-0
+
+[Event "Moscow-Prague"]
+[Site "Moscow"]
+[Date "1946.??.??"]
+[Round "6"]
+[White "Bronstein, David I"]
+[Black "Zita, Frantisek"]
+[Result "1-0"]
+[ECO "C10"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "81"]
+[EventDate "1946.??.??"]
+[EventRounds "14"]
+[EventCountry "URS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7
+8. Qe2 O-O 9. Bg5 c5 10. dxc5 Qa5+ 11. c3 Qxc5 12. O-O Rd8 13. Rad1 Bd7 14. Ne5
+Be8 15. Rfe1 Nd5 16. Bc1 Bf8 17. a3 b5 18. Qe4 g6 19. Qh4 Qe7 20. Qg3 Rac8 21.
+h4 $5 Bg7 22. h5 $1 Qf8 23. hxg6 hxg6 24. Ng4 Ne7 $6 {Black plays with no plan}
+(24... a5 $14) 25. Qh4 $1 $16 Nd5 26. Be4 f6 27. Rd3 Qf7 28. Rh3 f5 29. Bxd5 (
+29. Qh7+ Kf8 30. Nh6 $1 {would have won on the spot} Bxh6 (30... Qf6 31. Qg8+
+Ke7 32. Bg5 Qxg5 33. Bxd5 Rxd5 34. Qxe6+ Kd8 35. Qxd5+) 31. Bxh6+ Ke7 32. Bg5+
+Kd6 33. Bxd5 $18) 29... Rxd5 30. Nh6+ Bxh6 31. Bxh6 Rc4 32. f4 Rd7 33. Bg5 Qh7
+34. Qg3 Qg7 (34... Qf7 35. Rh6 $18) 35. Rxe6 Re4 36. Re5 (36. Bf6 Rxe6 37. Bxg7
+Rxg7 $18) 36... a6 37. Rh6 Rd1+ 38. Kh2 Qa7 $2 {Diagram #} (38... Rxe5 39. fxe5
+Rd5 $14) 39. Rxe8+ $1 {Eliminating the bishop that defends the g6 pawn.} Rxe8
+40. Rxg6+ Kf7 (40... Kh7 41. Rh6+ Kg7 42. Be7+ $1 Kf7 (42... Kxh6 43. Qh4+ Kg7
+44. Qf6+ Kg8 45. Qg6+ Kh8 46. Bf6+ Qg7 47. Qxg7#) 43. Qg6+ Kxe7 44. Rh7+ {
+wins the queen}) 41. Rf6+ {41â RKg8 42.Bh4+ Qg7 43.Rg6 wins} 1-0
+
+[Event "DSB-15.Kongress"]
+[Site "Nuremberg"]
+[Date "1906.??.??"]
+[Round "8"]
+[White "Schlechter, Carl"]
+[Black "Przepiorka, Dawid"]
+[Result "1-0"]
+[ECO "D53"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "33"]
+[EventDate "1906.??.??"]
+[EventRounds "16"]
+[EventCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 b6 7. cxd5 Nxd5 8.
+Nxd5 exd5 9. Bf4 O-O 10. Bd3 c5 11. O-O Bb7 12. Rc1 Re8 13. Ne5 Nxe5 14. Bxe5
+cxd4 $2 {Allows White to get too active.} (14... c4 15. Be2 Bd6 $11) 15. Rc7 $1
+Bc8 (15... Bf6 16. Bxh7+ $1 Kxh7 (16... Kf8 17. Qh5 $1 Bxe5 18. Qxf7#) 17. Qh5+
+Kg8 18. Qxf7+ Kh8 19. exd4 $1 $16 {and Black is tied up.}) (15... Rb8 16. Qh5
+g6 17. Bxg6 $1 {is similar to the game}) 16. Qh5 $1 g6 {
+Diagram # This runs into a brilliant combination} (16... h6 17. exd4 $16) 17.
+Bxg6 $3 {White exchanges a bishop for a pawn but this leads to a forcing win.}
+(17. Qh6 f6 $1) (17. Bxg6 hxg6 (17... fxg6 18. Qh6 $1 {
+the point is that the f6 pawn is not there anymore.} Bf8 19. Qxh7#) 18. Qh8#)
+1-0
+
+[Event "GMA Baleares op"]
+[Site "Palma de Mallorca"]
+[Date "1989.??.??"]
+[Round "3"]
+[White "Todorcevic, Miodrag"]
+[Black "Averbakh, Yuri L"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2530"]
+[BlackElo "2470"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "81"]
+[EventDate "1989.12.??"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d5 6. c4 c6 7. Nbd2 a5 8. b3
+Ne4 9. Bb2 Bf5 10. Rc1 a4 11. b4 Na6 12. a3 Nc7 13. cxd5 cxd5 14. Ne5 Nf6 15.
+Re1 Nce8 16. f3 Bh6 17. e3 Nd6 18. g4 Be6 19. h3 Nd7 20. f4 Nb6 21. Qe2 f6 22.
+Nd3 f5 23. Nc5 Bd7 24. g5 Bg7 25. h4 e6 26. h5 $5 Re8 27. Bf3 Re7 28. Kg2 Bb5
+29. Qf2 Nbc4 30. Nxc4 Bxc4 31. Rh1 b6 32. hxg6 $5 hxg6 (32... bxc5 33. gxh7+
+Kh8 34. dxc5 Ne4 35. Bxe4 fxe4 36. Rh3 $14 {
+and White has compensation for the piece}) 33. Rh3 bxc5 (33... Nf7 34. Rch1 $13
+) 34. dxc5 Ne8 35. Rch1 e5 36. Qh4 Kf7 37. Qh7 e4 $4 {Diagram # Black blunders}
+(37... Ra6 $15 {And it is up to White to prove compensation for the piece.})
+38. Qxg6+ $3 {Removing the pawn and opening the h5-e8 diagonal for the bishop.
+Black resigned in view of} Kxg6 (38... Kf8 39. Rh8+ Bxh8 40. Rxh8#) 39. Bh5+ $1
+Kh7 40. Bf7+ Bh6 41. Rxh6# 1-0
+
+[Event "YUG-ch"]
+[Site "Zagreb"]
+[Date "1946.??.??"]
+[Round "18"]
+[White "Subaric, Mladen"]
+[Black "Trifunovic, Petar"]
+[Result "0-1"]
+[ECO "D39"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "44"]
+[EventDate "1946.??.??"]
+[EventRounds "19"]
+[EventCountry "YUG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bxf6 Qxc3+ 11. Kf1 Qxc4+ 12. Kg1 Nd7 13. Bxg7 Rg8
+14. Bh6 Ne5 15. Be3 Ng4 16. Bc1 (16. Qd2 $5 $13) 16... Bd7 17. h3 Ne5 (17...
+Ba4 18. Nb3 Ne5 $17) 18. Be3 Ba4 19. Qc1 $4 {
+Diagram # White misses Black's main idea in a sharp position.} (19. Qh5 $14 {
+The f3 square had to be covered.}) 19... Qxd4 $3 {White resigned in view of}
+20. Bxd4 Nf3+ 21. Kf1 Bb5+ 22. Qc4 Bxc4# {What a beautiful mate!} 0-1
+

@@ -1,0 +1,107 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.08.16"]
+[Round "?"]
+[White "Anti-Nimzo"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "A17"]
+[Annotator "RCA"]
+[PlyCount "24"]
+[EventDate "2013.07.26"]
+[SourceDate "2013.08.16"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 (3. d4 Bb4 {We transpose into Nimzo Indian
+territory.}) (3. e4 d5 {We transpose into the Mikenas variation that has been
+analysed.}) 3... Bb4 {Black places his bishop on b4, as we do in both the Bogo
+Indian and Nimzo Indian Defences. The only difference here is that the White
+pawn is still on d2. This leads to a game of quite different character, as
+here White's c4 pawn, which is usually weak in the Nimzo Indian, is not so
+weak. But White's influence in the centre is also less. This line can be
+called the "Anti Nimzo Indian".} 4. Qc2 {Out of the many fourth move options,
+this one is the most popular at White's disposal. White plays this like the
+Qc2 Nimzo Indian. He doesn't want to spoil his pawn structure when Black takes
+on c3. He will recapture with the queen. However, this gives Black a chance to
+grab space in the centre with...} (4. g3 Bxc3 $5 {Quite a committed decision,
+but it gives the game its unique character. And we are not tricked into
+studying some main theoretical position.} 5. bxc3 b6 6. Bg2 Bb7 7. O-O O-O 8.
+d3 d5 $1 {We prefer this direct central move and will analyse two games based
+on it. One game is played by two famous players, Illescas-Polugaevsky, in
+which cd5 is played; and the other is between Silva-Giaccio, where Ne5 is
+played.} (8... d6 {Is the main line here. It is the choice of many good
+players, but after...} 9. e4 Nbd7 {I find the position to be easier for White
+to play, as he has more space and two bishops. Black has a solid position but
+somehow, in order to counteract White's initiative, he has to play very
+carefully - something that is not very easy. However, you can have a look at
+this line if you feel like it.}) 9. cxd5 (9. Ne5) 9... exd5) (4. Qb3 {This
+move hardly holds any independent value from 4.Qc2, as after...} c5 5. a3 Ba5
+6. g3 Nc6 7. Bg2 O-O 8. O-O d6 9. d3 h6 {Later we might take on c3 when it
+doesn't matter whether the queen does so from c2 or b3. Overall the nature of
+the position remains pretty similar to 4.Qc2.}) (4. g4 $5 {This is a hyper
+aggressive approach by White. This move has no real basis as such, because
+Black has played all good developing moves, so White cannot be making this
+move merely to punish Black. The main reason why this move became popular is
+because it leads to interesting positions, which might attract players who
+wish to complicate matters.} O-O $1 {We are not afraid of such rash moves and
+move our king out of the centre so that we can break through there later. As a
+rule, we must always remember: a flank attack must be met with an attack in
+the centre.} 5. g5 {If you have said 'a', you must say 'b'.} Ne8 {White has
+many ways to play now. But overall the pattern of the game will be similar.
+White will try to attack on the Black king side and Black will play in the
+centre. Hence it makes more sense to look at illustrative games and remember
+how to play this position, rather than to memorise theory or specific move
+orders.} 6. Qc2 (6. Rg1 b6 {Will be seen in the top-level battle between
+Agrest and Ivanchuk.}) 6... b6 {Will be seen in the game Sales-Akobian.}) (4.
+a3 $6 {This move doesn't make any sense. In fact, it just loses a tempo
+because Black has already placed his bishop on b4 to take the knight on c3 at
+some stage.} Bxc3 5. bxc3 b6 {[%cal Gd7d6,Ge6e5,Gc8b7,Gb8d7,Ge8g8] And we can
+continue normal development with Bb7, 0-0 and then c5 Nc6 followed by d5.})
+4... c5 $1 5. a3 {It makes sense for White to question the intentions of the
+bishop right now. If he doesn't do so, it gives Black additional options.} (5.
+g3 {If White delays the move a3, then Black continues with...} Nc6 6. a3 Bxc3
+$5 (6... Ba5 {We could very well continue this way, which will transpose into
+the main line; but we have an opportunity to exchange on c3 followed by Qa5,
+an idea we can keep in mind.}) 7. Qxc3 Qa5 8. Qc2 (8. Qxa5 Nxa5 {Looks at the
+weakened b3 square and attacks c4.}) 8... b5 $1 {This energetic move gives
+Black a very pleasant position, as he is exchanging the c4 pawn for his b5
+pawn.} 9. cxb5 Qxb5 10. Bg2 O-O $11 {As was seen in Grigorian-Romanishin, 1976.
+}) 5... Ba5 {White now has two main ways to play: the fianchetto setup with g3
+and the more central approach with e3.} 6. g3 (6. e3 {This is another way for
+White to play. It is a more central approach but not so frightening for Black.}
+O-O {In this variation, Black must 0-0 before playing Nc6, because he would
+like to play d5 as soon as possible - even before Nc6 is played.} 7. Be2 (7. d4
+b6 (7... cxd4 8. exd4 {[%cal Gc1g5] No point in opening the c1 bishop when our
+bishop is out on a5!}) 8. Be2 Bb7 9. O-O Qe7 $1 10. Rd1 d5 $1 {And Black has
+good play in the centre. Next he can develop Nc6 and put his rooks on the
+central 'd' and 'c' files.}) 7... d5 $1 {It is important to play this move
+before Nc6.} (7... Nc6 8. O-O d5 $2 {Now d5 is not possible, as the knight on
+c6 will become weak after...} 9. Na4 $1 b6 10. cxd5 exd5 11. b4 $16 {Wins a
+piece! Hence we must play d5 before developing Nc6.}) 8. Na4 (8. O-O dxc4 (8...
+Nc6 {As we know, is a mistake due to...} 9. Na4 $1) 9. Bxc4 Nc6 10. Be2 Bb6 {
+To defend the c5 pawn against Na4 and, more importantly, to stop White from
+making the freeing move d4.} 11. Na4 Qd6 12. d4 $1 {Playing d4 before Black
+can play e5.} cxd4 13. Nxb6 axb6 14. exd4 Bd7 {Is a safer alternative.} (14...
+Nxd4 15. Nxd4 Qxd4 16. Rd1 Qe5 17. Be3 Nd5 18. Bd4 Qd6 19. Qe4 $36 {For a pawn,
+White has the initiative.}) 15. Be3 Ne7 $11 {Though White has the bishop pair,
+Black has good control of the d5 square and, overall, quite a solid position.})
+(8. cxd5 exd5 9. O-O (9. Na4 c4) 9... Nc6 10. Na4 c4 $11 {Black is ok.}) 8...
+b6 {Is seen in the illustrative game Spielmann-Maghami.}) 6... Nc6 7. Bg2 O-O
+8. O-O {What do we have here? We have a normal looking symmetrical English but
+the bishop is quite oddly placed on a5. True, it is looking odd but maybe
+isn't so bad. Because of the bishop being outside the pawn chain, Black will
+now fix his pawns on dark squares, i.e. on d6 and e5, and thus make his
+light-squared bishop into a good piece. In addition, this will increase his
+control in the centre.} d6 9. d3 h6 {Preventing Bg5, so that later we don't
+have to worry about the Bg5 pin when we go e6-e5.} (9... e5 {Positionally,
+would not be the best decision, as then White would be able to exchange one of
+Black's key defenders of the d5 square, i.e. the f6 knight, for the c1 bishop,
+a piece which will have no influence over the d5 square.} 10. Bg5 $1 {[%csl
+Rd5]}) 10. e3 e5 11. Nd2 (11. Nd5 Nxd5 $1 12. cxd5 Ne7 13. Nd2 b5 14. a4 Bb7
+$11) 11... Bxc3 $1 {When we develop the bishop on e6 and White plays Nd5, we
+will not be able to exchange the d5 knight with our f6 knight. So rather than
+let the White knight sit on d5, we exchange it right away.} 12. Qxc3 a5 {
+Stopping White's queen side expansion with b4. We analyse this position in
+more detail in the game Chuchelov-Balogh. CONCLUSION: the Anti Nimzo Indian
+line is an extremely solid weapon for Black, just like Nimzo Indian and Bogo
+Indian. And White has a hard time trying to find a way to get an advantage.} *
+

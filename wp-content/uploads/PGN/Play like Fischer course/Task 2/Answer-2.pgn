@@ -1,0 +1,642 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.04.05"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Olafsson, Fridrik"]
+[Result "1-0"]
+[ECO "B52"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "83"]
+[EventDate "1960.03.29"]
+[EventRounds "15"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. Qe2 g6 7. c3 Bg7 8.
+Rd1 e5 9. Na3 Nge7 10. d4 cxd4 11. cxd4 exd4 12. Nb5 O-O 13. Nfxd4 d5 14. Nb3
+a6 15. Nc3 d4 16. Na4 {The knight is aiming at Black's weak squares, c5 and b6.
+} Rae8 17. Bf4 Nd5 18. Bg3 Qe7 19. Nac5 Kh8 20. Re1 {
+forcing Black's knight to go away from the center.} Nb6 21. Rac1 f5 22. Qd2 Qf7
+23. exf5 gxf5 24. Nd3 {blockading the knight} Nd5 25. Bd6 Rg8 26. Na5 {
+White is trading off his passive knight. At the same time, White is exchanging
+the defenders of Black's weak pawns.} Nxa5 27. Rxe8 Rxe8 28. Qxa5 h6 29. g3 Kh7
+30. Nf4 Nxf4 31. Bxf4 Qe6 32. Bd2 Rc8 33. Re1 Qf7 34. Re7 Qg6 35. Rxb7 f4 36.
+Qd5 Re8 37. Bxf4 Re1+ 38. Kg2 Qd3 39. Kh3 Qg6 40. Rd7 h5 41. Kg2 h4 42. Rd6 1-0
+
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1960.12.19"]
+[Round "2"]
+[White "Lombardy, William James"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B55"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "1960.12.18"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. c4 e6 7. Nc3 Be7 8. Be3
+O-O 9. Nc2 d5 10. cxd5 exd5 11. Nxd5 Nxd5 12. Qxd5 Qc7 13. Qb5 Bd7 14. Rc1 Nb4
+15. Nxb4 Qxc1+ 16. Bxc1 Bxb5 17. Nd5 Bh4+ 18. g3 Bxf1 19. Rxf1 Bd8 20. Bd2 Rc8
+21. Bc3 {Black has the material advantage, but White's position is pretty
+solid. How can Black crack it?} f5 $1 {Never tolerate a good piece for your
+opponent. Black wants to undermine and push away White's centralized knight.}
+22. e5 Rc5 {Now the knight has to go away from the center.} 23. Nb4 (23. Nf4
+Ba5) (23. Ne3 Ba5) 23... Ba5 {Black continues chasing the knight.} 24. a3 Bxb4
+25. axb4 Rd5 {
+After the strong knight is exchanged, White is left with passive pieces only.}
+26. Ke2 Kf7 {In an endgame, you should centralize your king. Here it also
+helps Black to blockade the e5-passed pawn.} 27. h4 Ke6 28. Ke3 Rc8 29. Rg1 Rc4
+30. Re1 $2 Rxc3+ $1 $19 31. bxc3 Rxe5+ 32. Kd2 Rxe1 33. Kxe1 Kd5 34. Kd2 Kc4
+35. h5 b6 36. Kc2 g5 37. h6 f4 38. g4 a5 39. bxa5 bxa5 40. Kb2 a4 41. Ka3 Kxc3
+42. Kxa4 Kd4 43. Kb4 Ke3 0-1
+
+[Event "Stockholm Interzonal"]
+[Site "Stockholm"]
+[Date "1962.02.14"]
+[Round "12"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B92"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "224"]
+[EventDate "1962.01.27"]
+[EventRounds "23"]
+[EventCountry "SWE"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Qc7 10. a4 Be6 11. f4 exf4 12. Rxf4 Nbd7 13. Nd5 Bxd5 14. exd5 Ne5 {
+It's important to put your knights on strong squares. By strong square I mean
+a square from which your opponent cannot kick the knight with his pawns. The
+e5 is this square. Similarly, White is protecting this square with the d6-pawn.
+So the rule is "the knight on a strongsquare"!} 15. a5 Rfe8 16. Bb6 Qc8 17. Bd3
+Bd8 {Black is trading off the bishop, which can attack the knight and also
+defend the weak squares.} 18. Bxd8 Qxd8 19. c4 b6 {
+He fights for controlling over Black's squares.} 20. Bf1 Rb8 21. Qd4 Ng6 22.
+Rf2 Ne4 {The transfer of the knight to the strong c5-square.} 23. Re2 Nc5 24.
+Rxe8+ Qxe8 25. Ra3 {White doesn't want to let Black keep perfect positions for
+his knights, but this costs a pawn.} (25. Nxc5 bxc5 26. Qc3 Qe5 27. Qxe5 Nxe5)
+25... Nxb3 26. Rxb3 bxa5 27. Ra3 Qd8 28. c5 Rb4 29. Qc3 dxc5 30. Qxc5 Rxb2 31.
+d6 Nf8 32. Qc7 Qxc7 33. dxc7 Rc2 34. Rxa5 Rxc7 35. Rxa6 g6 36. Be2 Kg7 37. Bf3
+Nd7 38. Kf2 Ne5 39. Ra3 Rc2+ 40. Kg3 Kf6 41. Be4 Rc4 42. Bf3 Kg5 43. Re3 f6 44.
+Re4 Rc3 45. Rf4 f5 46. h4+ Kf6 47. Ra4 Nd3 48. Rd4 Nc5 49. Rd6+ Ke5 50. Rd5+
+Ke6 51. Rd4 h6 52. Kf2 Nd3+ 53. Ke2 Nc5 54. Kf2 g5 55. hxg5 hxg5 56. Ke2 Nb3
+57. Rd8 Rc2+ 58. Kd1 Rc1+ 59. Ke2 Ke5 60. Re8+ Kf6 61. Rf8+ Kg6 62. Rg8+ Kh6
+63. Bd5 Rc2+ 64. Ke3 Rc3+ 65. Kf2 Nc5 66. Bf3 Nd7 67. Rd8 Nf6 68. Rd6 Kg7 69.
+Ke2 g4 70. Bb7 Nh5 71. Ke1 Re3+ 72. Kf2 Rc3 73. Ke1 Re3+ 74. Kf2 Rb3 75. Ba8
+Ng3 76. Ke1 Re3+ 77. Kd1 Ra3 78. Bb7 Ra2 79. Rd4 Nh1 80. Ke1 Ra1+ 81. Ke2 Rg1
+82. Rd6 Rb1 83. Ba8 Rb3 84. Rd3 Rb2+ 85. Ke1 Rb8 86. Bc6 Rb6 87. Ba8 f4 88. Rd4
+Rf6 89. Bb7 Kg6 90. Rd8 Re6+ 91. Kd2 Nf2 92. Rd4 Kg5 93. Ba8 Rf6 94. Ke1 Nh1
+95. Rd8 Rb6 96. Rd4 Ng3 97. Kd2 Nf1+ 98. Ke2 Ne3 99. Rd2 Kh4 100. Kf2 Rb3 101.
+Be4 Ra3 102. Bc6 Nf5 103. Rb2 Ra1 104. Rb4 Ra2+ 105. Ke1 Kg3 106. Rb3+ Ne3 107.
+Be4 Kh2 108. Rb4 Nxg2+ 109. Bxg2 Kxg2 110. Rxf4 g3 111. Rg4 Kf3 112. Rg8 Ra1+
+0-1
+
+[Event "Candidates Tournament"]
+[Site "Curacao"]
+[Date "1962.05.19"]
+[Round "11"]
+[White "Fischer, Robert James"]
+[Black "Tal, Mihail"]
+[Result "1-0"]
+[ECO "B32"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "125"]
+[EventDate "1962.05.02"]
+[EventRounds "28"]
+[EventCountry "AHO"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd1 Qg6 9. Nc3 Nge7 10. h4 h5 11. Bg5 d5 12. Bxe7 d4 13. Bg5 dxc3 14. bxc3
+Qxe4+ 15. Be2 f6 16. Be3 Bg4 17. Qd3 Qxd3 18. cxd3 Bxe2 19. Kxe2 O-O-O 20. Rad1
+Ne7 21. d4 Nd5 22. Rc1 Rhe8 23. Rhd1 f5 24. Bg5 Rd7 25. dxe5 Rxe5+ 26. Kf3 Re4
+27. Rd3 Rc4 28. Rcd1 Rxc3 29. Rxc3+ Nxc3 30. Rc1 Rc7 31. Bf4 Rc6 32. Be5 Nd5
+33. Rd1 {White is a pawn down and, for that reason, he should complicate the
+game. His first task is to push the knight away from the center.} Nf6 34. Kf4
+g6 35. f3 {A limitation of the knight.} Nd7 36. Bd6 Rc2 37. g3 Re2 38. Kg5 Re6
+39. Bf4 Nf8 {Finally, the knight was forced to stand on such a passive
+position, so now it is a good time to exchange rooks.} 40. Rd6 a5 41. Kh6 Re2
+42. Rd2 Re7 43. Bd6 Rh7+ 44. Kg5 Rf7 45. Rb2 f4 46. Bxf4 Rf5+ 47. Kh6 b5 48.
+Bd6 b4 49. g4 Rxf3 50. g5 Ne6 51. Kxg6 Rd3 52. Be5 Re3 53. Kf5 Nf8 54. Rg2 Rf3+
+55. Bf4 Kd7 56. g6 Ne6 57. g7 Rxf4+ 58. Ke5 Rf8 59. gxf8=Q Nxf8 60. Kd5 a4 61.
+Rg7+ Ke8 62. Kd6 b3 63. a3 1-0
+
+[Event "Varna ol (Men) qual-B"]
+[Site "Varna"]
+[Date "1962.??.??"]
+[Round "5"]
+[White "Fischer, Robert James"]
+[Black "Aloni, Izak"]
+[Result "1-0"]
+[ECO "C10"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "77"]
+[EventDate "1962.09.16"]
+[EventRounds "7"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "US of America"]
+[BlackTeam "Israel"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 Be7
+8. Bd3 h6 9. Bh4 O-O 10. Qe2 Nd5 11. Bg3 Bb4+ 12. Nd2 f5 13. Be5 Bd6 14. c3
+Bxe5 15. Qxe5 Qf6 16. Nf3 {
+I hope you already know the rule "the knight on a strong square".} (16. Qxf6 $2
+gxf6 {It would allow Black to cover his hole on e5}) 16... Bd7 17. Bc4 {
+pushing away the opponent's knight from the center. Also, the bishop is taking
+aim at Black's weak e6-pawn.} Nb6 18. Bb3 Rac8 19. O-O Qxe5 20. Nxe5 Rfe8 21.
+Rfe1 Ba4 22. Nd3 {The final strong maneuver: transferring to another strong
+square, c5. White would like to attack the weak e6-pawn with all of his forces.
+} Bxb3 23. axb3 a6 24. Nc5 Rb8 25. Nxe6 Re7 26. Nc5 Rf7 27. Re5 c6 28. Rae1 Kf8
+29. c4 Na8 30. d5 cxd5 31. Rxd5 Re8 32. Rxe8+ Kxe8 33. Kf1 Nb6 34. Re5+ Kd8 35.
+Re6 Nc8 36. Rg6 Ke8 37. Ne6 Re7 38. Nf4 Kf7 39. Rg3 1-0
+
+[Event "Poughskeepie"]
+[Site "Poughskeepie"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Fischer, Robert James"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "1-0"]
+[ECO "C59"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "1963.??.??"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nh3 Bc5 10. O-O O-O 11. d3 Bxh3 12. gxh3 Qd7 13. Bf3 Qxh3 14. Nd2
+Rad8 15. Bg2 Qf5 16. Qe1 Rfe8 17. Ne4 Bb6 18. Nxf6+ Qxf6 19. Kh1 c5 {Black hopes to fix his knight on d4, but it won't work, because White could kick it away
+by playing c3.} ({Fischer suggested the move} 19... g5 {which would ensure
+Black's control over the f4- and h4-squares. Then, Black can transfer his
+knight to one of these squares.}) 20. Qc3 Nc6 21. f4 Nd4 22. Qc4 Qg6 23. c3 Nf5
+24. fxe5 Rxe5 25. Bf4 Re2 26. Be4 Rxb2 27. Be5 Re8 28. Rxf5 Rxe5 29. Rxe5 1-0
+
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1965.??.??"]
+[Round "2"]
+[White "Fischer, Robert James"]
+[Black "Smyslov, Vassily"]
+[Result "1-0"]
+[ECO "C77"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "86"]
+[EventDate "1965.??.??"]
+[EventRounds "21"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. Nbd2 O-O 8. Nf1
+b5 9. Bb3 d5 10. Qe2 dxe4 11. dxe4 Be6 12. Bxe6 fxe6 13. Ng3 Qd7 14. O-O Rad8
+15. a4 Qd3 16. Qxd3 Rxd3 17. axb5 axb5 18. Ra6 Rd6 19. Kh1 Nd7 20. Be3 Rd8 21.
+h3 $5 {Flight square. This is important in order to free and secure the King.}
+h6 22. Rfa1 Ndb8 23. Ra8 Rd1+ 24. Kh2 Rxa1 25. Rxa1 Nd7 26. b4 $1 {
+preventing Black's knight from going to the c5 central square.} Kf7 27. Nf1 {
+The knight on g3 has too little prospects, and White transfers it to a better
+square.} Bd6 28. g3 Nf6 29. N1d2 Ke7 30. Ra6 Nb8 31. Ra5 c6 32. Kg2 Nbd7 33.
+Kf1 Rc8 34. Ne1 Ne8 35. Nd3 Nc7 36. c4 bxc4 37. Nxc4 Nb5 38. Ra6 Kf6 39. Bc1
+Bb8 40. Bb2 c5 41. Nb6 Nxb6 42. Rxb6 c4 43. Nc5 c3 1-0
+
+[Event "Capablanca Memorial"]
+[Site "Havana"]
+[Date "1965.??.??"]
+[Round "21"]
+[White "Pietzsch, Wolfgang"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E67"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "48"]
+[EventDate "1965.??.??"]
+[EventRounds "21"]
+[EventCountry "CUB"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. dxe5
+dxe5 9. Qc2 c6 10. Rd1 Qe7 11. Ng5 Ne8 12. e4 Nc7 {Fischer plans to transfer
+this knight to e6, from where it could occupy the d4 weak square.} 13. Be3 h6
+14. Nf3 Ne6 15. Rab1 f5 16. Nh4 Qf7 17. exf5 gxf5 18. Bh3 f4 19. Qg6 Ng5 {
+This is a strong counterblow. We always should have in mind such kind of
+counterblows because they can change completely the evaluation of the position.
+Black won the game afterwards.} 20. Bxd7 Bxd7 21. Qxf7+ Rxf7 22. gxf4 exf4 23.
+Bd4 Bg4 24. Rd2 Rd7 0-1
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.07.26"]
+[Round "6"]
+[White "Fischer, Robert James"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "1-0"]
+[ECO "C98"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "1970.07.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxc5 dxc5 14. Nf1 Be6 15.
+Ne3 $1 {It's important to transfer your knight to the opponent's weak squares,
+such as d5 and f5.} Rad8 16. Qe2 c4 17. Nf5 Rfe8 18. Bg5 Nd7 19. Bxe7 Nxe7 20.
+Ng5 h6 21. Nxe6 fxe6 22. Ne3 Ng6 23. g3 {This is another strong move. It is
+not only important to transfer our knight to strong squares, but it is also
+important to limit our opponent's knights.} Nf6 24. Red1 Rxd1+ 25. Rxd1 Rd8 26.
+Rxd8+ Qxd8 27. b3 $1 {Activation of White's bishop and queen.} cxb3 28. Bxb3
+Nf8 29. c4 Qd7 30. Qc2 Qb7 31. cxb5 axb5 32. Ng4 N6d7 33. Qd3 Qc6 34. Qe3 Kf7
+35. Nxe5+ Nxe5 36. Qf4+ 1-0
+
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.04.04"]
+[Round "6"]
+[White "Foguelman, Alberto"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B55"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "142"]
+[EventDate "1960.03.29"]
+[EventRounds "15"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. c4 e6 7. Nc3 Be7 8. Nc2
+O-O 9. Ne3 d5 10. cxd5 exd5 11. exd5 Ne5 12. Qb3 Bc5 13. Bd2 Re8 14. Be2 Ng6
+15. Nc2 Nh4 16. O-O-O Nxg2 17. Ne4 Nxe4 18. fxe4 Nh4 19. Qc4 Bb6 20. Bc3 Ng6
+21. Bf3 Bh3 22. Rhe1 Rc8 23. Qe2 Ba5 {
+exchanging White's bishop, which is the main defender of the weak dark squares.
+} 24. Bxa5 Qxa5 25. Kb1 Ne5 {
+Black ensured a perfect blockading position for his knight.} 26. Rc1 Rxc2 {
+Thanks to the powerful knight on e5, Black can execute a nice tactical shot.}
+27. Qxc2 (27. Rxc2 Nxf3) 27... Nxf3 28. Re3 Bg4 29. h3 Bh5 30. Qc7 Nd2+ 31. Ka1
+Qxc7 32. Rxc7 f6 33. d6 Rd8 34. e5 fxe5 35. Rxe5 Bg6 36. d7 Kf7 37. Rxb7 Nc4
+38. Rc5 Nb6 39. Rxa7 Nxd7 40. b4 Ke6 41. Ra6+ Ke7 42. Rd5 Rf8 43. Rd1 Rf4 44.
+a3 Bf5 45. Ra7 Bxh3 46. b5 Bg4 47. Rd2 Rf1+ 48. Kb2 Bf5 49. a4 h5 50. Ka3 h4
+51. Rb2 h3 52. b6 Ra1+ 53. Kb4 Rb1 54. Rxb1 Bxb1 55. b7 Kd6 56. Ra8 Kc7 57. Rh8
+Bf5 58. Kc3 g5 59. Kd4 g4 60. Ke3 g3 61. Kf3 g2 62. Kf2 Kxb7 63. Rh5 Bg4 64.
+Rg5 Nf6 65. Kg1 Bc8 66. Rg7+ Kb8 67. a5 Nh5 68. Rg8 Kc7 69. Kh2 Nf4 70. a6 Bxa6
+71. Rg7+ Kb6 0-1
+
+[Event "Sousse Interzonal+"]
+[Site "Sousse"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Fischer, Robert James"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "C95"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "47"]
+[EventDate "1967.10.??"]
+[EventRounds "10"]
+[EventCountry "TUN"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nh4 exd4 12. cxd4 Nb6 13. Nf3 d5 14. e5 Ne4 15.
+Nbd2 {
+Always striving for the elimination of the opponent's knight from the center.}
+Nxd2 16. Bxd2 Bf5 17. Bc2 {White keeps exchanging Black's most active pieces.}
+Bxc2 18. Qxc2 Rc8 19. b3 {Now White limits Black's b6-knight. After White
+neutralized all Black's active pieces, Black is left with a totally passive
+army.} Nd7 20. e6 {
+While Black is totally passive, it's time for White to launch his attack.} fxe6
+21. Rxe6 c5 22. Ba5 Qxa5 23. Rxe7 Qd8 24. Ng5 1-0
+
+[Event "Manhattan blitz"]
+[Site "New York"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kevitz, Alexander"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "D93"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "rn1q1rk1/3nppbp/2p3p1/pp6/3PNBb1/Q3PN2/PP2BPPP/2R1K2R b K - 0 13"]
+[PlyCount "29"]
+[EventDate "1971.??.??"]
+[EventType "swiss (blitz)"]
+[EventRounds "14"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+{Diagram #} 13... Bxf3 $1 {Fischer needs to activate his knights and, for that
+reason, he fights for the central squares e5 and c5. First, he eliminates the
+f3-knight, which controlled the e5-square and then strikes with e5.} 14. gxf3
+e5 15. dxe5 Nxe5 16. O-O Nbd7 {Black's position is good now. He has managed to
+develop his minor pieces and to coordinate the heavy pieces. White's kingside
+is weak and, for that reason, Black can create problems there by attacking the
+f3-pawn.} 17. Rfd1 Qh4 18. Bg3 Qh5 19. Kg2 Nb6 $1 {A very clever move! Black
+will control the c4-square. The c4 is a powerful square for the knight. From
+there, the knight can block the c-line and put pressure on the b2-square.} 20.
+Rc2 Nec4 21. Qc5 Qxc5 22. Nxc5 Nxb2 23. Rd6 Rac8 24. Bxb5 cxb5 25. Rxb6 Nc4 26.
+Rxb5 Na3 27. Rxa5 Nxc2 0-1
+
+[Event "Palma de Mallorca Interzonal"]
+[Site "Palma de Mallorca"]
+[Date "1970.12.10"]
+[Round "22"]
+[White "Gligoric, Svetozar"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A77"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1b1r1k1/1p3pb1/p2p1n1p/2pP2p1/P2qP3/2N2P2/1PQBB1PP/4RR1K b - - 0 19"]
+[PlyCount "33"]
+[EventDate "1970.11.09"]
+[EventType "tourn"]
+[EventRounds "23"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+19... Nh5 $1 {Black has plenty of good moves, however, Fischer manages to find
+the best one! It's important to activate the knight on the juicy f4-square.} (
+19... Bd7 $5) (19... Nh7 $5) 20. Nb5 $5 axb5 21. Bxb5 Qe5 $1 {White played
+actively, trying to complicate the position. It was important for Black to
+retreat his queen because White was threatening to capture it. Black's knight
+will go to f4 in any case, and this was the decisive factor during the game.
+Black won the game afterwards.} (21... Rd8 22. Bc3 $18) 22. Bc3 Qe7 23. Bxe8
+Qxe8 24. Bxg7 Kxg7 25. b4 cxb4 26. Qb2+ Qe5 27. Qxb4 Nf4 28. Rd1 b6 29. Rf2 Nd3
+30. Qxb6 Nxf2+ 31. Qxf2 Rxa4 32. Kg1 Ra1 33. Qe1 Ra2 34. Qg3 Qb2 35. h4 Ra1 0-1
+
+[Event "Palma de Mallorca Interzonal"]
+[Site "Palma de Mallorca"]
+[Date "1970.11.14"]
+[Round "5"]
+[White "Hort, Vlastimil"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B50"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r4rk1/1pq2pbp/p1npp1p1/P1p5/3nP3/3P2PP/1PPB1PB1/RQ1N1RK1 b - - 0 16"]
+[PlyCount "115"]
+[EventDate "1970.11.09"]
+[EventType "tourn"]
+[EventRounds "23"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+16... c4 $1 {One knight has a fantastic square on d4, but the other knight is
+doing nothing! For that reason, Fischer finds a new square for it through a
+sacrificed pawn.} (16... f5 $5) (16... b6 $5) (16... Rfb8 $5) 17. dxc4 Ne5 18.
+Be3 Nxc4 {Now both knights are perfectly placed in the center. Black can
+easily bring the rooks to the c- and d-lines. All of the black pieces are
+standing in good positions, and he manages to win the game afterwards.} 19. Ra4
+Rac8 20. Bxd4 Bxd4 21. Qa2 Bf6 22. c3 Bd8 23. b4 Bf6 24. Re1 Rfd8 25. Qe2 Kg7
+26. Ra2 h5 27. h4 Qd7 28. Kh2 Ne5 29. Rc2 Ng4+ 30. Kh1 Rc7 31. Bh3 Ne5 32. Ne3
+Qa4 33. Rb1 Nc4 34. Ra2 Qc6 35. Nxc4 Qxc4 36. Qxc4 Rxc4 37. b5 Bxc3 38. bxa6
+bxa6 39. Rb6 Rxe4 40. Rxa6 Re1+ 41. Kh2 d5 42. Rc6 Ra1 43. Rxa1 Bxa1 44. a6 Bd4
+45. Rc2 Kf6 46. f4 Rb8 47. Ra2 Ba7 48. Bf1 Ke7 49. Kg2 Kd6 50. Bd3 Rb3 51. Be2
+f6 52. Rd2 Ra3 53. Bd3 Be3 54. Rd1 Ra2+ 55. Kf3 Bd4 56. g4 Ra3 57. Kg2 Be3 58.
+Kf3 Bc5 59. Kg3 e5 60. fxe5+ fxe5 61. Kg2 hxg4 62. Bxg6 Rxa6 63. Kg3 Ke6 64. h5
+Be3 65. Kxg4 Ra4+ 66. Kf3 Bh6 67. Rb1 e4+ 68. Kg3 Ra3+ 69. Kg4 Ke5 70. Rb8 Ra1
+71. Re8+ Kd4 72. Kf5 Rf1+ 73. Ke6 e3 0-1
+
+[Event "Siegen ol (Men) fin-A"]
+[Site "Siegen"]
+[Date "1970.09.16"]
+[Round "3"]
+[White "Fischer, Robert James"]
+[Black "Najdorf, Miguel"]
+[Result "1-0"]
+[ECO "B42"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "1qr1brk1/4bppp/3ppn2/p7/1nP1PP2/2N1BN1P/P4QP1/2RR1BK1 w - - 0 24"]
+[PlyCount "50"]
+[EventDate "1970.09.05"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "US of America"]
+[BlackTeam "Argentina"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ARG"]
+
+24. Nd4 $5 {The best plan here was to kick the black knight out with a3 and
+then e5. If you find it, then please, accept my congratulations! Fischer found
+another plan which is also strong: to transfer his knight to c6.} (24. a3 $1
+Na6 25. Rb1 Qa8 26. e5 $16) 24... Qa8 25. Qf3 Na6 26. Ndb5 Nc5 27. e5 $1 {
+A brilliant move! White would like to control the d6-square. The knight on d6
+will not be a knight, but " an octopus" as Kasparov used to say.} dxe5 28. Qxa8
+Rxa8 29. fxe5 Nfe4 30. Nd6 Bc6 31. Ncxe4 Nxe4 32. c5 $16 {White secures the
+position of the d6-knight and, at the same time, he pushes the passed pawn. He
+can unblock easily the c-pawn with the move, bishop-b5. He won the game
+afterwards.} Ng3 33. Bc4 h5 34. Bf2 h4 35. Bxg3 hxg3 36. Bb5 Bxb5 37. Nxb5 f6
+38. Rd7 Bd8 39. Rc3 fxe5 40. Rxg3 Rf7 41. Rxf7 Kxf7 42. c6 Bb6+ 43. Kf1 Kf8 44.
+c7 Rc8 45. a4 e4 46. Ke2 e5 47. Rg6 Bd4 48. h4 Bb2 1-0
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.08.13"]
+[Round "16"]
+[White "Fischer, Robert James"]
+[Black "Garcia, Raimundo"]
+[Result "1-0"]
+[ECO "B23"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "3q1rk1/1b3ppn/p1np4/4pP1p/NP2PbP1/3P2NP/6BK/1R1Q1R2 w - - 0 27"]
+[PlyCount "19"]
+[EventDate "1970.07.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ARG"]
+
+27. Rxf4 $1 {A really cool and strong Exchange sacrifice! White is eliminating
+the strong dark-square bishop on f4 and will capture the h4-pawn in the next
+move.} exf4 28. Nxh5 Qg5 29. Qf3 Ne5 30. Qxf4 $18 {White's pieces are really
+well coordinated. He has two pawns for the Exchange, so the material is equal.
+He manages to win the game without big difficulties.} Nxd3 31. Qxd6 Nf2 32. Nc5
+g6 33. Qf4 gxh5 34. Qxf2 Bc6 35. h4 Qxg4 36. Bh3 1-0
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.08.01"]
+[Round "9"]
+[White "Agdamus, Jose Luis"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A50"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2kr4/p1p3bp/1pnrp1p1/5p2/3PP3/PP2BP2/3RNKPP/3R4 b - - 0 24"]
+[PlyCount "23"]
+[EventDate "1970.07.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ARG"]
+
+24... Na5 $5 {Black has two interesting options: He can capture on e4 or
+activate the knight from a5. It is always better to play with the pieces first.
+So, if you like to play like Fischer, then you need to put your pieces in the
+most active positions.} (24... fxe4 $5) 25. e5 R6d7 26. Nc1 Bf8 $1 {This is ano
+ther very strong move. Fischer wasn't interested in fireworks, he preferred to
+do the job. This creative plan seeks to activate the knight. He can do that by
+creating weaknesses on White's camp.} 27. b4 Nc4 28. Ra2 Nxe5 $19 {
+The final blow: Black wins a pawn and the game after some moves.} 29. Rc2 b5
+30. Ne2 Nc4 31. Rc3 e5 32. f4 exd4 33. Rxd4 Nxe3 34. Kxe3 Rxd4 35. Nxd4 Rxd4
+0-1
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.07.30"]
+[Round "8"]
+[White "Fischer, Robert James"]
+[Black "Panno, Oscar"]
+[Result "1-0"]
+[ECO "A04"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2rq1rk1/p3npbp/2n1p1p1/1b1pP3/1p1P1B2/1P3NP1/P2QNPBP/2R1R1K1 w - - 0 18"]
+[PlyCount "37"]
+[EventDate "1970.07.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ARG"]
+
+18. g4 $5 {The center is closed and White cannot attack on the queenside
+because he doesn't have enough pieces there. Thus, he needs to attack in the
+kingside. The idea behind the g4 move is to create a square for the knight on
+g3.} (18. Bh3 $5) (18. Rc2 $5) 18... a5 19. Ng3 Qb6 20. h4 Nb8 21. Bh6 {
+The g7-bishop is a bad piece, but it's a key defender at the same time. For
+that reason, Fischer is trying to exchange it.} Nd7 22. Qg5 Rxc1 23. Rxc1 Bxh6
+24. Qxh6 Rc8 25. Rxc8+ Nxc8 26. h5 Qd8 27. Ng5 $1 $18 {Everything is over for
+Black. White has a winning position and Fischer manages to deliver the final
+blow with a brilliant attack!} Nf8 28. Be4 Qe7 29. Nxh7 Nxh7 30. hxg6 fxg6 31.
+Bxg6 Ng5 32. Nh5 Nf3+ 33. Kg2 Nh4+ 34. Kg3 Nxg6 35. Nf6+ Kf7 36. Qh7+ 1-0
+
+[Event "Rovinj/Zagreb"]
+[Site "Zagreb"]
+[Date "1970.04.23"]
+[Round "10"]
+[White "Fischer, Robert James"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[ECO "C93"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r2qrbk1/1bp2pp1/p2p1n1p/1p2p3/2nPP3/2P2NNP/PPB2PP1/R1BQR1K1 w - - 0 15"]
+[PlyCount "41"]
+[EventDate "1970.04.12"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ARG"]
+
+15. b3 $1 {Black's knight is very active in our camp and, for that reason, it
+is important to kick it back. In the Spanish system, it is very difficult for
+Black to activate the queenside knight.} Nb6 16. a4 {The center is unstable
+and it makes the game very difficult. Fischer's idea is to kick the black
+knight out, and then, start the attack in the kingside.} c5 17. d5 c4 18. b4 {
+The center and the queenside are almost blocked. Black does not dare to
+capture on a4 because a6 is weak. By closing the position completely, Black
+killed his own counterplay...} Bc8 19. Be3 Bd7 20. a5 Nc8 21. Qd2 Nh7 22. Kh2
+Be7 23. Nf5 $5 {Perhaps White could have prepared this move better, but in any
+case, this is for sure the most thematic move that White should play. The
+knight is the key attacking base for White.} Bg5 24. Nxg5 hxg5 25. g4 $16 {
+White is totally dominating the position. His plan is to open the h-line for
+the rooks. Fischer won the game afterwards.} g6 26. Ng3 f6 27. Rh1 Rf8 28. Kg2
+Rf7 29. f3 Nf8 30. h4 gxh4 31. Rxh4 Rh7 32. Rah1 Rxh4 33. Rxh4 g5 34. Rh6 Kg7
+35. Rxf6 1-0
+
+[Event "URS-World"]
+[Site "Belgrade"]
+[Date "1970.03.29"]
+[Round "1.2"]
+[White "Fischer, Robert James"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[ECO "B13"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r2k1r/pp1b1pp1/1qnbpn1p/3pN3/P2P4/2PBB2P/1P1N1PP1/RQ3RK1 w - - 0 18"]
+[PlyCount "43"]
+[EventDate "1970.03.29"]
+[EventRounds "4"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ARG"]
+
+18. f4 $1 {White is over-protecting his knight on e5 and, at the same time, he
+is seeking to open the f-line. Black cannot win a pawn due to the following
+forcing line, where, at the end of it, White can play a5 to deflect the black
+queen.} Be8 (18... Nxe5 19. fxe5 Bxe5 20. a5 $18) 19. Bf2 Qc7 (19... g6 20. f5
+gxf5 21. Bxf5 exf5 22. Qxf5 Qd8 23. Bh4 $18) 20. Bh4 Ng8 21. f5 {
+The strong knight on e5 helps White to control the center and start an attack.}
+Nxe5 22. dxe5 Bxe5 23. fxe6 Bf6 24. exf7 Bxf7 25. Nf3 $1 {Finally, the other
+knight is coming into the attack via the dark squares. White will exchange the
+dark-squared bishops, and he manages to win the game afterwards.} Bxh4 (25...
+g5 26. Bf2 Kg7 27. Bd4) 26. Nxh4 Nf6 27. Ng6+ Bxg6 28. Bxg6 Ke7 29. Qf5 Kd8 30.
+Rae1 Qc5+ 31. Kh1 Rf8 32. Qe5 Rc7 33. b4 Qc6 34. c4 dxc4 35. Bf5 Rff7 36. Rd1+
+Rfd7 37. Bxd7 Rxd7 38. Qb8+ Ke7 39. Rde1+ (39. Rde1+ Kf7 40. Qe8#) 1-0
+

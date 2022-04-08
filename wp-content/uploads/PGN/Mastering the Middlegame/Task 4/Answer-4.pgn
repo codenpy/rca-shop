@@ -1,0 +1,378 @@
+[Event "Astana"]
+[Site "Astana"]
+[Date "2001.06.01"]
+[Round "10"]
+[White "Kasparov, Garry"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2827"]
+[BlackElo "2797"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "2001.05.20"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "KAZ"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Bd7 11. b3 Ke8 12. Bb2 Rd8 13. Rad1 Ne7 14. Rfe1
+Ng6 15. Ne4 Nf4 {Diagram #} 16. e6 $3 {Kasparov himself doesn't give this move
+even a single ! so I have to give it two to compensate. It's a beautiful move
+refuting Black's setup. White's play is also a nice model for treating the
+type of slow build-up practiced by Kramnik here.} Nxe6 17. Nd4 $16 {Black has a
+slight material plus, but White has all the activity and the king on e8 is
+trapped in the middle of it. Clearly, Black is in big trouble here.} (17. Be5
+Rc8 18. Nh4 {followed by f4-f5 was even stronger according to Kasparov.}) 17...
+c5 $6 {This move cost Kramnik one hour on the clock, leaving only 18 minutes
+for the rest of the game. A sign of the problems Black is facing here.} ({
+The best chance was} 17... Rh7 18. f4 c5 19. Nf3 (19. Nxe6 $5 Bxe6 20. Bf6 Rxd1
+21. Rxd1 Bd6 22. Bh4 $14) 19... Bc6 20. Rb1 {
+The key move according to Kasparov, but it looks a bit passive.} Bxe4 21. Rxe4
+g6 22. g4 Rd5 (22... Be7 23. f5 $18) (22... Bg7 23. f5 $18) 23. c4 (23. Kg2 Kd8
+$13) 23... Rd3 24. Ne1 Rd2 $5 {Black sacrifices a piece and goes for activity.}
+(24... Rxh3 25. f5 $16 {Kasparov}) 25. f5 gxf5 26. gxf5 Bg7 27. Bc1 (27. Bxg7
+Rxg7+ 28. Kh1 (28. Kf1 Rd4 $17) 28... Rf2 $11) 27... Bd4+ 28. Kh1 Rd1 29. fxe6
+f5 (29... Rg7 30. exf7+ Kxf7 $11) 30. Re2 Rg7 31. Kh2 Bg1+ 32. Kh1 Bd4 $11) 18.
+Nf5 Rh7 19. Bf6 Rc8 20. Bxg7 $5 (20. f4 $1 {
+keeping the pressure was better, according to Kasparov.} Bc6 21. Nfg3 $40 (21.
+Bh4 c4 $1 22. bxc4 Bxe4 23. Rxe4 Bc5+ $13)) 20... Bxg7 21. Nxg7+ Rxg7 22. Nf6+
+Ke7 23. Nxd7 Rd8 24. Ne5 Rxd1 25. Rxd1 Nf4 26. Kh1 $1 Rg5 (26... Nxg2 $4 27.
+Rg1 $18) (26... Rxg2 $4 27. Nd3 $18) 27. Ng4 Rd5 28. Re1+ Kf8 29. Nxh6 Rd2 30.
+Re5 Rxf2 31. Rf5 Kg7 32. Ng4 Rxg2 33. Rxf4 Rxc2 34. Rf2 Rc3 35. Kg2 b5 36. h4
+c4 37. h5 cxb3 38. axb3 Rc5 39. h6+ Kf8 40. Nf6 Rg5+ 41. Kh1 1-0
+
+[Event "Linares 19th"]
+[Site "Linares"]
+[Date "2002.03.09"]
+[Round "13"]
+[White "Kasparov, Garry"]
+[Black "Ponomariov, Ruslan"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2838"]
+[BlackElo "2727"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "2002.02.22"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8.
+Ne5 Nd7 9. Bb5 Bd6 10. Qg4 Kf8 {Diagram #} 11. O-O $5 {
+Kasparov sacrifices a pawn in order to get the maximum activity for his pieces.
+} (11. Qh5 $5 {This is another interesting option.} Nxe5 12. dxe5 Be7 13. O-O
+$36) (11. Bf4 $5 {This is an interesting continuation.}) (11. Bxd7 $5 Bxd7 12.
+Bf4) 11... Nxe5 12. dxe5 Bxe5 13. Bg5 {Black has an extra pawn, but White is
+developing his pieces at a quick pace, winning tempi by attacking the enemy
+pieces. Black's king is in the center of the board and, for that reason, Black
+cannot connect the rooks. A rapid development with a combination of threats
+gives White enough compensation for the pawn. The material is not always
+important but the initiative is; and White definitely has a strong initiative.}
+Bf6 {Usually, the exchanges can help the defense, but the bishop on e5 is an
+important piece, the only truly developed piece which controls squares on the
+d-file and in the center. Black's alternative, Qc7, was also an interesting
+option.} (13... Qc7 $5) 14. Rad1 Qc7 15. Qh4 {Garry is fighting for the
+d8-square. He also would like to force Black to move the pawns in front of his
+king.} Bxg5 {Now the h8-rook remains passive, but after} 16. Qxg5 f6 17. Qh5 {
+White would like to checkmate on e8, so he forced Black to move another pawn.}
+g6 18. Qh6+ Kf7 19. Rd3 {This is called "Kasparov's rook". This is the usual
+way for Garry to bring the rook into the attack. By the rook lift in front of
+his own pawns, the rook will be very powerful on the 3rd rank. Similarly,
+White would like to double the rooks on the d-line. That being said, White's
+last move has two scopes, two roles to serve.} a6 20. Rh3 Qe7 21. Bd3 {
+With the threat to capture on g6.} f5 22. g4 $1 {
+White tries to open lines because Black's king is not in a secure position.}
+Qf6 23. Rd1 b5 24. Be2 {Usually, we don't like to go back with our pieces;
+however, sometimes, it's important to regroup our pieces in order to get the
+maximum activity. We can regroup the pieces when the pawn structure changes or
+after some exchange of pieces.} e5 25. Rhd3 Ra7 26. Rd6 Qg7 {
+This move misplaces the queen, but hardly better was} 27. Qe3 {It's important
+to keep the queens on the board when the opponent's king is not secure. This
+is a very basic attacking principle which we should follow.} Rc7 28. a4 $1 {
+Strong chess players are "looking" for oportunities all over the board. Weak
+players are focusing only on one part of the board. White's idea is to free
+the c4-square for his bishop. From this square, the light-squared bishop will
+be a powerfull attacking piece.} e4 29. axb5 axb5 30. Bxb5 Qe5 31. Qg5 Qe7 32.
+Qh6 Be6 33. Qf4 Bc8 34. Qh6 Be6 35. gxf5 gxf5 36. Be2 $1 {With the deadly
+threat of Bh5. White has a winning position and Garry didn't miss the full
+point.} Qf6 37. Bh5+ Ke7 38. Rxe6+ (38. Rxe6+ Kxe6 39. Rd6+ $18) 1-0
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2000.01.30"]
+[Round "13"]
+[White "Kasparov, Garry"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2851"]
+[BlackElo "2658"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "87"]
+[EventDate "2000.01.15"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. h3 Nf6 11. Bc4 Qb6 {Diagram #} 12. O-O {This is a very brave
+decision. By sacrificing a pawn, White would like to win time in order to
+start an attack against Black's king.} (12. Nb3 {
+doesn't go well together with 11.Bc4. After} Nc6 $11 {
+the position is almost equal.}) 12... O-O (12... Nxe4 $2 13. Nxe4 Qxd4 14.
+Nxd6+ $3 exd6 15. Qe2+ Kd8 16. Rad1 $40 {White has a winning attack.}) (12...
+Qxb2 13. Qd3 {
+White has compensation for the pawn, as you can see in the actual game.}) 13.
+Nde2 {Kasparov isn't interested in protecting his material and especially the
+pawns. According to him, the initiative and active pieces are more important
+factors to continue the game and fight for the win.} Qxb2 14. Bb3 Qa3 15. f4 {
+Garry brings all the pieces into play. There is no turning back after this
+move. White tries to weaken Black's kingside in order to attack there.} Nc6 16.
+Kh1 Be6 17. Qd3 Rac8 18. fxg5 hxg5 19. Nd5 Rfe8 20. Rad1 {
+Every single piece joins the party.} Nb4 21. Qf3 Nbxd5 22. exd5 Bd7 23. c3 $1 {
+Kasparov intends to attack on the b1-h7 diagonal with the bishop and the queen.
+} a5 24. Qd3 a4 25. Bc2 Qc5 (25... Kf8 $1 {
+This was an interesting defensive alternative.}) 26. Rxf6 $1 exf6 (26... Bxf6
+27. Qh7+ Kf8 28. Nf4 gxf4 29. Bxf4 e5 30. Bg6 Ke7 31. Qxf7+ Kd8 32. Qxf6+ Kc7
+33. Bxe8 Rxe8 34. Bg5 $14 {
+White has a better king and is a pawn up; thus White has the winning chances.})
+27. Qh7+ Kf8 28. Nd4 Re5 29. Bxe5 fxe5 30. Ne6+ $1 {
+A very powerful tactical blow which opens Black's king position by force.} Bxe6
+(30... fxe6 $2 31. Rf1+ Ke7 32. Qxg7+ Kd8 33. Rf7 $18) 31. dxe6 $40 {White's at
+tack is very strong and Garry manages to get the full point at the end.} Rc7
+32. Bxa4 d5 33. Qf5 Qc4 34. Bd7 Qf4 35. Qb1 fxe6 36. Bxe6 Ke7 37. Bxd5 Rd7 38.
+c4 Qe3 39. Qh7 Kd8 40. Rb1 Qf4 41. Be6 Re7 42. Bg4 Rf7 43. Qd3+ Qd4 44. Qg6 1-0
+
+[Event "Yerevan ol (Men)"]
+[Site "Yerevan"]
+[Date "1996.09.26"]
+[Round "10.1"]
+[White "Kasparov, Garry"]
+[Black "Sokolov, Ivan"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2785"]
+[BlackElo "2670"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "71"]
+[EventDate "1996.09.15"]
+[EventType "swiss"]
+[EventRounds "14"]
+[EventCountry "ARM"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+[WhiteTeam "Russia"]
+[BlackTeam "Bosnia&Herzegovina"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "BIH"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. g3 g6 10. b3 Bg7 11. Bb2 O-O 12. Bg2 Rfe8 13. O-O Nb6 14. Re1 d5 15.
+Qc2 Qc5 16. Nd2 Rad8 17. Rac1 d4 18. Nf3 d3 19. Qd2 Bc8 20. h3 $1 h5 21. Rcd1
+Bf5 {Diagram #} 22. e6 $3 {Here is the critical moment for White. He has a lot
+of options, but Garry chooses the most forcing way, by sacrificing a central
+pawn.} (22. Nh4 $5) (22. Bc3 $5) 22... Rxe6 (22... fxe6 23. Bxg7 Kxg7 24. Qc3+
+Kg8 25. Ne5 $16) (22... Bxb2 23. exf7+ Kxf7 24. Qxb2 $16) 23. Rxe6 Bxe6 (23...
+fxe6 24. Bxg7 Kxg7 25. Qg5 {
+White is threatening the rook and to play g4 because the bishop is pinned.} (
+25. Qc3+ Kg8 26. Ne5 $16) 25... Qf8 26. g4 Be4 27. Qe5+ Qf6 28. Qxe4 {
+White is winning a piece and the game soon.}) 24. Bxg7 Kxg7 25. Qc3+ Kg8 26.
+Rxd3 {White exchanges the central pawns in order to get a solid pawn structure
+on the queenside. The powerful c4-pawn is dominating against the b6-knight and
+the e6-bishop. White has a stable advantage and he manages to win the game at
+the end.} Rxd3 27. Qxd3 Nd7 28. Qc3 Bf5 29. Nd4 Qe5 30. Qd2 c5 31. Nxf5 Qxf5
+32. Qa5 Ne5 33. Qxa7 h4 34. Qa8+ Kg7 35. Qe4 Qf6 36. Qxh4 1-0
+
+[Event "Linares 19th"]
+[Site "Linares"]
+[Date "2002.03.10"]
+[Round "14"]
+[White "Shirov, Alexei"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2715"]
+[BlackElo "2838"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "56"]
+[EventDate "2002.02.22"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "BIH"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra4 13. b4 Qh4 14. O-O
+Rg8 15. f4 Kd8 16. c3 Ra6 17. a4 fxe4 18. f5 Bb7 19. Ra2 {Diagram #} e3 $1 {
+The c8-h3 diagonal was closed by 18.f5, so the bishop finds a better one,
+a8-h1. However, it's important to open the diagonal and, for that reason,
+Garry sacrifices a pawn in order to activate the rest of his army. Please,
+remember that it's important for the bishop to have an open diagonal free from
+enemy or friendly pawns. :-)} (19... Nd4 $5 20. cxd4 Bxd5 {This is also an
+interesting continuation for Black, but sooner of later, he should push the
+e-pawn forward. : -)}) 20. Nxe3 Qe4 21. Re1 Nxb4 $1 {This is the decisive blow
+because Black opens his pieces and there is no salvation for White's king.} 22.
+cxb4 Bh6 {Black removes the last defender in order to attack the g2-pawn.
+Black won the game afterwards.} 23. Kh1 Bxe3 24. Qe2 Rc6 25. a5 Qxb4 26. Nxd6
+Rxd6 27. Qxe3 Qd4 28. Qc1 Qd5 0-1
+
+[Event "Sofia m 25'"]
+[Site "Sofia"]
+[Date "1998.05.02"]
+[Round "1"]
+[White "Topalov, Veselin"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "D58"]
+[WhiteElo "2740"]
+[BlackElo "2825"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "64"]
+[EventDate "1998.05.02"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "BUL"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "BIH"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Nbd7 $5 9. cxd5 exd5 10. O-O Bb7 11. Rc1 c5 12. Qa4 a6 13. dxc5 bxc5 14. Rfd1
+Qb6 15. Qb3 Qa7 16. Bg3 Rad8 17. Rd2 Rfe8 18. Qd1 Bf8 19. Bh4 Qa8 20. Ne1 Be7
+21. Bg3 Nf8 22. Nf3 Ne6 23. Bh4 {Diagram #} d4 $1 (23... g5 $5 24. Bg3 {
+Black should play d4 now. ;-)}) 24. exd4 cxd4 25. Na4 (25. Nxd4 Nxd4 26. Rxd4
+Bxg2 $17 {Black's standard is better because White's king is very vulnerable
+and Black is controlling the long diagonal.}) 25... Nf4 {Black is moving his
+forces close to White's king. The d4-pawn is not important for the moment
+because Black has very active pieces and he only wants to open the central
+lines.} 26. Nc5 Bxc5 27. Bxf6 (27. Rxc5 {
+This is not working due to Black's direct threats.} Ne4 28. Rf5 (28. Bxd8 Nxd2
+$1 {Black is threatening to capture on e2 with check and then the bishop on d8.
+} 29. Ne5 {The only try for complicating the issue, but White is dead lost...}
+Qxd8 30. Qxd2 Qg5 $19 {Black is threatening mate on g2 and the discovered
+attack with Nh3. Black is winning.}) 28... Nxd2 29. Rxf4 Nxf3+ 30. Bxf3 Bxf3
+$19 {Black has winning material advantage.}) 27... d3 $6 {This is another
+interesting and very active decision from Garry, who would like to open lines
+at any cost. However, it's wiser to play Bb4.} (27... Bb4 $1 {Black is threaten
+ing the rook on d2 and also trying to destroy White's king cover.} 28. Bf1 (28.
+Bxd8 Bxd2 29. Bf1 {In order to save the bishop from e2 -Black was threatening
+to capture it with check.} Bxc1 30. Qxc1 Bxf3 31. gxf3 Qxf3 32. Bh4 Ne2+ 33.
+Bxe2 Rxe2 $19 {Black has an escape window for his king, a wise decision which
+Garry took some moves before. The back rank mate is a very popular way to end
+up a beginner's game, but the high level strong grandmasters always care for
+their king safety. Black has winning material advantage here and the d-pawn is
+a powerful weapon as well. White will lose the game soon.}) 28... Nh3+ 29. gxh3
+Bxf3 $19 {Black will win a lot of material or he will win the game. Black's
+position is winning by any means.}) 28. Bxd3 Bxf3 $5 {Black has other forcing
+ways to continue the attack, as you can see in the sub-variations. Garry's
+move was good, but perhaps, not the most accurate.} (28... Rxd3 $5) (28... Nh3+
+$5) 29. gxf3 Rd5 30. Bh4 (30. Bf1 $1 {It's hard to suggest a forcing win after
+this good defensive move, but still Black keeps the initiative and the attack.
+In any case, it's easy to find strong defensive moves when you are sitting on
+your comfortable chair with the computer on. However, it's extremely difficult
+to find these strong moves over the board when the clock is ticking. I'm
+trying to say that this was a beautiful and very fighting game and both
+players deserve the congratulations.}) 30... Bb4 31. Rc3 Bxc3 32. bxc3 Red8 0-1
+
+[Event "Riga Tal Memorial"]
+[Site "Riga"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Kasparov, Garry"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "2805"]
+[BlackElo "2715"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "49"]
+[EventDate "1995.04.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "LAT"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "BIH"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Be2 exd4 8.
+Qxd4 Nf6 9. e5 Nc6 10. Qh4 Nd5 11. Qg3 g6 12. O-O Nb6 13. c4 d6 14. Rd1 Nd7 {
+Diagram #} 15. Bh6 $1 {Kasparov is happy to sacrifice a pawn in order to keep
+Black's king in the center of the board. If the king is in the center, then
+Black cannot connect the rook and this is on White's advantage.} (15. Bf4 $5 {
+This is an interesting alternative, but it cannot promise the advantage to
+White.}) (15. exd6 $2 Bxd6 {
+Black has a good development and is a pawn up, so Black has the advantage.})
+15... Ncxe5 16. Nxe5 Nxe5 17. Nc3 {Black is two pawns up, but his army is
+fully undeveloped. Black has extra material, but the active pieces are far
+more important for now. Black cannot use his undeveloped rooks, so it's a
+matter of time until White grows up his positional domination.} (17. Bg7 $5 {
+This is a very interesting alternative.}) 17... f6 18. c5 Nf7 19. cxd6 $1 {
+White has mobilized his forces and the next step is to open lines against the
+enemy king.} cxd6 (19... Nxh6 $2 20. dxc7 $18) 20. Qe3 Nxh6 21. Qxh6 Bf8 22.
+Qe3+ {This is a nice picture: White's pieces are developed, while, by contrast,
+Black has all of his pieces on the 8th rank. Black tried to run with his king,
+but usually, it's extremely hard to escape from this kind of situations.} Kf7 (
+22... Qe7 23. Ne4 {White can continue with the attack.}) (22... Be7 23. Bc4 {
+Black's king will stay in the center and the attack will continue.}) 23. Nd5
+Be6 24. Nf4 Qe7 25. Re1 $1 {
+Black's king is unprotected and White can generate deadly threats.} (25. Re1 {
+For example:} Qd7 26. Bb5 Qc8 27. Rac1 {
+Black cannot protect the queen and the e6-bishop at the same time.}) 1-0
+
+[Event "Amsterdam Euwe Memorial"]
+[Site "Amsterdam"]
+[Date "1994.05.13"]
+[Round "2"]
+[White "Kasparov, Garry"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2805"]
+[BlackElo "2655"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "63"]
+[EventDate "1994.05.12"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "NED"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "2001.09.13"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "BIH"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. O-O-O a6 11. h4 Nxd4 12. Bxd4 b5 13. Rh3 b4 14. Na4 Bxd4 15.
+Qxd4 f6 $146 16. Qxb4 fxe5 17. Qd6 Qf6 {Diagram #} 18. f5 $3 {Black's army is
+not fully developed and Garry found this unique opportunity to sacrifice a
+pawn in order to activate all of his pieces.} Qh6+ (18... Qxf5 19. Rf3 Qg4 20.
+Rxf8+ Nxf8 21. Nb6 $18 {Black cannot protect both the rook and the bishop.})
+19. Kb1 Rxf5 (19... Nf6 20. Nb6 {
+Black's pieces are disorganized, so the tactics are working in White's favor.}
+Ra7 21. Nxc8 Rxc8 22. Qxe6+ $18) 20. Rf3 $1 {
+White exchanges Black's active pieces in order to attack in the center.} Rxf3 (
+20... Qf6 21. Rxf5 $1 Qxf5 22. Be2 Qf7 23. Bg4 Nf6 24. Nb6 Nxg4 25. Nxa8 $16)
+21. gxf3 Qf6 22. Bh3 $16 {
+White has a big advantage and he manages to win the game afterwards.} Kf7 23.
+c4 dxc4 24. Nc3 Qe7 25. Qc6 Rb8 26. Ne4 Nb6 27. Ng5+ Kg8 28. Qe4 g6 29. Qxe5
+Rb7 30. Rd6 c3 31. Bxe6+ Bxe6 32. Rxe6 (32. Rxe6 Nc4 33. Qxc3 Na3+ 34. Kc1 Qf8
+35. Qxa3 $18) 1-0
+

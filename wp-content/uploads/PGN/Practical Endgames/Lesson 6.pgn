@@ -1,0 +1,74 @@
+[Event "israel cup(rapid)"]
+[Site "netanya(israel)"]
+[Date "2013.06.21"]
+[Round "?"]
+[White "geser, bella"]
+[Black "Givon Asaf (ISR)"]
+[Result "0-1"]
+[ECO "D87"]
+[WhiteElo "2230"]
+[BlackElo "2450"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r2rk1/pp1bppbp/6p1/8/1nBPP3/4BP2/P3N1PP/2R2RK1 w - - 0 17"]
+[PlyCount "22"]
+[EventDate "2013.??.??"]
+
+17. d5 (17. a3 Nc6 18. Bd3 a6 (18... e6 19. Rb1 b6 20. Rfc1) 19. d5 (19. Rb1 b5
+20. Rfc1 Na5) 19... Ne5) 17... b5 18. Bb3 a5 19. a3 (19. Bg5 a4 20. Bxe7 (20.
+Bd1 Nxa2) 20... Nd3 21. Rxc8 Rxc8 22. Bd1 b4) 19... Nd3 (19... a4 20. axb4 axb3
+21. Bc5) 20. Rxc8 (20. Rcd1 Nc5 21. Ba2 b4 $17) 20... Rxc8 21. Rd1 Nc5 (21...
+Nb2 22. Rc1) 22. Bxc5 (22. Ba2 Bb2) 22... Rxc5 23. d6 e6 (23... exd6 24. Rxd6
+Rc7 $17) 24. Rd2 a4 25. Ba2 g5 26. g3 Bc3 27. Rc2 (27. Rd3 b4 28. axb4 Bxb4)
+27... Bb4 0-1
+
+[Event "isreal under 20 championship 2012"]
+[Site "tel aviv"]
+[Date "2012.03.21"]
+[Round "2"]
+[White "Mindlin Alon (ISR)"]
+[Black "Givon Asaf (ISR)"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[WhiteElo "2116"]
+[BlackElo "1895"]
+[Annotator "https://chess-teacher.com"]
+[SetUp "1"]
+[FEN "6k1/p3p2p/1p3pp1/3P4/2q1PB2/2b2P2/P5PP/1Q5K b - - 0 30"]
+[PlyCount "67"]
+[EventDate "2012.??.??"]
+
+30... b5 31. h3 a5 32. Qd1 Bd4 33. d6 exd6 34. Bxd6 Kf7 35. Kh2 Qc3 36. Bf4 a4
+37. Bc1 Be5+ 38. f4 Bd4 39. Qf1 Qc4 40. Qd1 Qc3 41. Qf1 Qc4 42. Qd1 b4 43. Qxa4
+Bg1+ 44. Kxg1 Qxc1+ 45. Kh2 Qxf4+ 46. Kh1 Qc1+ 47. Kh2 Qf4+ 48. Kh1 Qxe4 49. a3
+Qe1+ 50. Kh2 Qe5+ 51. Kh1 Qa1+ 52. Kh2 bxa3 53. Qd7+ Kg8 54. Qe8+ Kg7 55. Qe7+
+Kh6 56. Qf8+ Kg5 57. h4+ Kxh4 58. Qh6+ Kg4 59. Qh3+ Kg5 60. Qe3+ Kf5 61. g4+
+Kxg4 62. Qh3+ Kf4 63. Qf1+ Qxf1 1/2-1/2
+
+[Event "https://lichess.org/TX72sD1y"]
+[Site "https://lichess.org/TX72sD1y"]
+[Date "2017.05.16"]
+[Round "?"]
+[White "typical pawn endgame"]
+[Black "?"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2322"]
+[BlackElo "2206"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "89"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 e6 10. Bd2 Ngf6 11. O-O-O Bd6 12. Ne4 Nxe4 13. Qxe4 Nf6 14. Qe2
+Qc7 15. g3 O-O-O 16. c4 c5 17. Bc3 cxd4 18. Bxd4 Bc5 19. Bxc5 Qxc5 20. Ne5 Qc7
+21. b3 Rxd1+ 22. Rxd1 Rd8 23. Rxd8+ Kxd8 24. Kb2 Ke7 25. Qe3 b6 26. Qd4 Nd7 27.
+Nxd7 Qxd7 28. Kc3 Qxd4+ 29. Kxd4 Kd6 30. h5 (30. b4 h5 31. c5+ bxc5+ 32. bxc5+
+Kc6 33. Kc4 e5) 30... a5 (30... g6 31. hxg6 fxg6 32. f4) 31. a3 f6 (31... Kc6
+$1 32. b4 (32. g4 Kd6 33. b4 (33. f3 Kc6 34. Ke5 Kd7) 33... axb4 34. axb4 Kc6
+35. Ke5 Kd7 36. c5 f6+ 37. Kd4 b5) 32... axb4 33. axb4 Kc7 34. c5 b5 35. f3 f6
+36. Ke4 Kc6 37. g4 Kc7 38. f4 Kc6 39. Kd3 Kc7 40. Ke3 Kd7 41. Kf3 Ke7) (31...
+e5+ 32. Ke4 g6 33. hxg6 fxg6 34. b4 axb4 35. axb4 Ke6 36. c5) 32. b4 axb4 33.
+axb4 Kc6 34. g4 Kd6 35. c5+ bxc5+ 36. bxc5+ Kd7 37. Kc4 Kc6 38. Kb4 f5 39. gxf5
+exf5 40. Kc4 f4 41. f3 Kc7 42. Kd5 Kd7 43. c6+ Ke7 44. Ke5 g5 45. hxg6 1-0
+

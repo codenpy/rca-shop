@@ -1,0 +1,88 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Icelandic Gambit"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "RCA"]
+[PlyCount "38"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 {(Black wants to play the popular Icelandic
+Gambit.....Intention of Black's early pawn sacrifice is clear! Quick
+development, long control on d4 & tactics along 'e' & 'd' files in middlegame.)
+} 4. dxe6 (4. d4 {(White can refuse to enter into the Icelandic Gambit here...
+but he has to pay for it... you will understand why later!)} exd5 5. Nf3 Bb4+
+6. Nc3 O-O $1 {(Here is the point - Black now gets a better version of the
+French Defence here...considered to be an inaccurate French Exchange variation
+from White's perspective.)}) (4. Qa4+ {(Another try fails due to...} Bd7 5. Qb3
+Na6 $1 6. d4 (6. Qxb7 $4 Nc5 {Queen is trapped...}) 6... exd5 7. Nf3 Bb4+ {
+With a good game for Black...)}) 4... Bxe6 {(Here the Icelandic begins...
+Black has a two minor piece lead in development...)} 5. d4 {(Main Line)} (5.
+Nf3 {(The main alternative, perhaps the critical test of the Icelandic
+variation!!)} Qe7 $1 6. Qe2 {White's best reply} (6. Nc3 $6 Bxc4+ {(Black
+immediately gets back the pawn with good play... )}) (6. Be2 Bxc4 7. Qa4+ b5 8.
+Qd1 Bd3 {Black has a better pawn structure...}) 6... Nc6 7. d4 (7. a3 $6 Na5 8.
+d3 Nb3 {Black has a better game...}) 7... Bg4 $5 {(Logical choice... Black is
+not fearing a Queen exchange here, due to the following factors: i) Black has
+a solid endgame position; ii) Black has very active pieces; iii) Black has
+good positional compensation for the sacrificed pawn...You will understand it
+better at the end of each variation.)} (7... O-O-O {(Very popular response at
+club level... Black offers a thematic piece sacrifice!! But the bad thing
+about this line is that if White plays accurately, he is not worse off... so
+we recommend 7....Bg4 here)}) 8. Be3 (8. Qxe7+ $5 Bxe7 9. Be3 (9. d5 $6 Bxf3
+10. gxf3 Nd4 $36) 9... O-O-O 10. d5 (10. Nbd2 $5 Nb4 11. Kd1 Bf5 $1 {
+(Necessary move... as White is aiming for a3 followed by Kc2.)} 12. a3 (12. Rc1
+$5 Nxa2 13. Ra1 Nb4 14. Rxa7 Ng4 15. h3 (15. Ra8+ $6 Kd7 16. Rxd8+ Rxd8 {And
+black has good compensation here... for example...} 17. c5 (17. h3 $2 {This
+normal-looking move is just a blunder...} Bc2+ 18. Ke1 Ra8 19. hxg4 Ra1+ 20.
+Nb1 (20. Ke2 $4 Bd3# {Now you can imagine, how dangerous this endgame in the
+Icelandic is...}) 20... Rxb1+ 21. Kd2 Rxb2 $17 {Black is far better...}) 17...
+Nd5 18. Ke2 Ra8 $36) 15... Nxe3+ 16. fxe3 c5 $132) 12... Nc2 13. Rc1 Nxe3+ 14.
+fxe3 Ng4 15. Ke2 Rhe8 $44 {(Black has good compensation for the sacrificed
+pawn ... White is under pressure here!!)}) 10... Nb4 11. Na3 (11. Nd4 $2 c5 $1
+12. dxc6 Rxd4 13. Bxd4 Nc2+ $19) 11... c6 12. Be2 cxd5 13. O-O $1 Bxf3 14. Bxf3
+d4 {Is good for black...}) 8... O-O-O 9. d5 Ne5 10. Nc3 Nfd7 $1 {(Preparing ...
+Qf6)} 11. h3 (11. O-O-O $5 Qf6 12. Ne4 Qa6 13. Kb1 Re8 14. h3 Bh5 15. Ng3 Bg6+
+16. Ka1 Nxf3 17. Qxf3 Bc2 $44 {(Preparing Bb3/Ne5/Bb4, with a strong attack!)})
+11... Nxf3+ 12. gxf3 Bh5 13. O-O-O Qf6 $1 {(Better than...} (13... Ne5 $6 14.
+Bg2 Qb4 15. Bxa7 Re8 $14) 14. Bg2 Re8 $44 {(Black gets a very good positional
+compensation for his sacrificed pawn in the form of active pieces and a better
+pawn structure.)}) 5... Bb4+ {(Important move, bringing out the bishop so that
+after Black's Qe7 move, no piece would be blocked along the a3-f8 diagonal.)}
+6. Bd2 {White's best response...} (6. Nc3 $6 Ne4 7. Qd3 (7. a3 $6 Nxc3 8. Qd3
+Qe7 $15) (7. Qc2 Nxc3 8. bxc3 Qxd4 9. Ne2 Qf6 $15) 7... Bf5 $40 {Black is
+attacking now...}) 6... Qe7 $1 {(Developing the queen, preparing 0-0-0 along
+with tactics for the 'e' file)} 7. Bxb4 Qxb4+ 8. Qd2 (8. Nd2 $6 Nc6 9. Ngf3 (9.
+d5 $5 O-O-O 10. dxc6 (10. dxe6 Ne4 11. Ngf3 Nxd2 12. Nxd2 Rhe8 $19 {With a
+huge attack...}) 10... Rhe8 11. Be2 Ne4 12. Ngf3 Nxd2 13. Nxd2 Bxc4 {Black is
+winning...}) 9... O-O-O 10. d5 (10. Qb3 Qe7 $1 $15) 10... Nxd5 $3 11. cxd5 Bxd5
+$17 {With a strong attack...}) 8... Qe7 {(Returning to the same tactics)} (8...
+Nc6 $5 {Also playable for Black...} 9. Qxb4 (9. d5 $6 O-O-O $1 10. Nc3 Bg4 11.
+f3 Rhe8+ 12. Be2 Bf5 13. O-O-O Na5 14. g4 Bg6 15. Nh3 Nd7 $40 {(Preparing Nc5
+& Nb3... Black has a good plan)}) 9... Nxb4 10. Na3 O-O-O 11. d5 Bf5 12. f3
+Rhe8+ 13. Kf2 c6 $15 {Black achieves a very nice active position with his
+harmonious pieces...}) 9. Qe3 (9. Qe2 $2 Nc6 10. Nf3 O-O-O 11. d5 Rhe8 $1 12.
+Nc3 (12. dxc6 $4 Bxc4 13. Qxe7 Rxe7+ 14. Be2 Rxe2+ {Mate follows...}) (12. dxe6
+$4 Qb4+ $19) 12... Qc5 $17 {Black gets everything...}) (9. Be2 $6 Bxc4 $15 {
+(Black gets back his gambit pawn with a better game...)}) 9... Nc6 $1 {(Black
+must always be ready for this thematic piece sacrifice... we recommend this 9..
+. Nc6 line, perhaps Black's best choice.)} (9... Ng4 $5 {(Considerable
+alternatives...)} 10. Qa3 Qh4 11. g3 $5 (11. Qg3 $5 Qxg3 12. hxg3 Nc6 13. d5
+Nb4 14. Na3 (14. dxe6 $6 Nc2+ 15. Kd2 Nxa1 16. Nh3 O-O-O+ 17. Kc1 Rhe8 $132)
+14... Bd7 $13) 11... Qf6 12. Nf3 Nc6 13. d5 Nd4 14. Nxd4 Qxf2+ 15. Kd1 Ne3+ 16.
+Kc1 Qe1#) 10. Nf3 (10. d5 $6 {Greedy...} Nb4 $1 11. Na3 Ng4 12. Qe2 Qc5 13. Nh3
+(13. dxe6 $2 Nd3+ $1 14. Qxd3 Qxf2+ 15. Kd1 Ne3+ 16. Kc1 Qe1+ 17. Qd1 Qxd1#)
+13... O-O-O 14. Qf3 (14. dxe6 $4 Qa5 $3 $19) 14... Ne5 15. Qe3 Qa5 16. Qc3 Bg4
+17. f3 Rhe8 $1 18. Be2 (18. fxg4 $4 Nxc4+ 19. Kf2 Qb6+ 20. Kg3 Re3+ $19) 18...
+Nxf3+ 19. gxf3 Bxh3 $17 {Black easily gets a winning position...}) 10... Ng4
+11. Qe2 (11. Qe4 $6 O-O-O 12. Nc3 Qb4 $17 {Attacking b2 & c4, decides the
+issue...}) 11... O-O-O 12. h3 (12. d5 {Also fails to} Qc5 13. Nc3 Bxd5 $1 {
+Again, thematic piece sacrifice...} 14. cxd5 Rhe8 $19) 12... Rhe8 $1 {(Sweet
+and simple; patience is the key)} 13. hxg4 Qb4+ 14. Qd2 Bxg4+ $3 15. Be2 (15.
+Kd1 Rxd4 $19) 15... Rxe2+ 16. Kxe2 Nxd4+ $19 17. Kf1 Qxc4+ 18. Kg1 Nxf3+ 19.
+gxf3 Bxf3 $19 {Black is already winning. This happens when your opponent
+chooses to play the Icelandic Gambit against your tricky modern Scandinavian...
+. All the best!!} *
+

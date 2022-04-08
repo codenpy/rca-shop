@@ -1,0 +1,284 @@
+[Event "Asian Zone 3.3"]
+[Site "Tagaytay City PHI"]
+[Date "2013.01.22"]
+[Round "?"]
+[White "Farid, F."]
+[Black "Dao Thien Hai"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2338"]
+[BlackElo "2531"]
+[Annotator "RCA"]
+[PlyCount "74"]
+[EventDate "2013.01.22"]
+[EventRounds "9"]
+[EventCountry "PHI"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.28"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Bf3
+{This is one of the most played moves in this position.} Nc6 $1 9. g3 (9. Nxc6
+{Is the best move, but after...} dxc6 $1 {Later followed by e5 gives Black a
+good position.} 10. Qe2 Bd6 11. g3 Nf6 12. Bg2 O-O 13. f4 e5 $15) 9... Ne5 (
+9... Nf6 {Is also a logical move.} 10. Nxc6 dxc6 $11) 10. Bg2 Bc5 11. Nf3 (11.
+Nb3 Ba7 {And the bishop occupies a nice diagonal.}) 11... d6 (11... Nxf3+ 12.
+Bxf3 Ne7 $11) 12. Qe2 (12. Nxe5 dxe5 13. Qg4 Bf8 {Followed by Nf6 and Be7
+leads to a fine position for Black.}) 12... Nf6 13. a3 O-O 14. Kh1 Nxf3 15.
+Bxf3 Bd4 16. Nd1 d5 $1 {A strong break in the centre that leads to a clear
+advantage for Black.} 17. exd5 Nxd5 18. c3 Ba7 19. Ne3 Rad8 20. Nxd5 Bxd5 21.
+Bf4 Qc6 (21... Qc4 22. Kg1 e5 23. Be3 (23. Bxe5 Qxe2 24. Bxe2 Rfe8 $19) 23...
+Bxe3 24. Qxe3 Bxf3 25. Qxf3 e4 $15) 22. Bxd5 Rxd5 23. Qf3 Rfd8 24. Rae1 f6 25.
+Kg2 Qd7 26. Qe4 e5 27. Bc1 f5 28. Qc2 h6 29. Re2 Kh8 30. Rfe1 Bb8 31. f3 a5 32.
+Be3 Bc7 33. c4 bxc4 34. Qxc4 a4 35. Rc1 Ba5 36. Qc6 Bd2 37. Qxd7 R8xd7 1/2-1/2
+
+[Event "CZE-chT rap"]
+[Site "Pardubice"]
+[Date "2012.07.15"]
+[Round "?"]
+[White "Vaculik, Martin"]
+[Black "Simantsev, Mikhail"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2270"]
+[BlackElo "2531"]
+[Annotator "RCA"]
+[PlyCount "74"]
+[EventDate "2012.07.12"]
+[EventRounds "7"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 (5... Qc7 6. Be2 b5 7. O-O
+Bb7 8. Re1 {Is the Paulsen move order to reach this game.}) 6. Be2 Bb7 7. O-O
+Qc7 8. Re1 Nc6 9. Kh1 $6 {This move lacks logic and allows Black to equalise.
+I think White's main idea was that he wanted to play f4, but of course this
+wastes time and gives Black an easy game.} (9. Nxc6 dxc6 10. e5 {Is the main
+way to play this position.}) 9... Nf6 10. f4 Nxd4 11. Qxd4 Bc5 (11... b4 {
+Could have been an interesting choice.} 12. e5 bxc3 13. exf6 gxf6 14. bxc3 Rg8
+$17 {Is a clear advantage for Black.}) 12. Qd3 d6 13. Bf3 O-O 14. e5 $6 (14. a3
+{White should have continued circumspectly. Of course, Black has no problems.
+He will simply continue with Rac8 and gain a nice position.}) 14... dxe5 15.
+fxe5 Rfd8 16. Qe2 Nd5 (16... Bxf3 17. Qxf3 Nd7 {Will give Black a clear
+advantage.}) 17. Ne4 $6 (17. Nxd5 Bxd5 18. Bg5 Rd7 19. Rad1 Bxf3 20. Qxf3 Rc8
+21. Rxd7 Qxd7 22. Rd1 Qc7 $15 {Gives Black a fine position, but White is
+closer to achieving an equal game.}) 17... Be7 18. Nf2 Rac8 {Each of Black's
+pieces is excellently placed. The opening has been a complete success for
+Black.} 19. Be4 Nb4 20. c3 Bxe4 21. Qxe4 Nd5 22. a3 Nb6 23. Qg4 Nc4 24. Qg3 Rd5
+25. Bf4 Qd8 26. Bh6 Bf8 27. Bg5 Qc7 28. Ne4 Kh8 29. Nf6 Rxe5 30. Red1 Rxg5 31.
+Qxg5 Be7 32. Rf1 gxf6 33. Qh5 Ne5 34. Rae1 f5 35. a4 bxa4 36. Re3 Qc4 37. Rfe1
+Qg4 0-1
+
+[Event "Istanbul ol (Men) 40th"]
+[Site "Istanbul"]
+[Date "2012.09.09"]
+[Round "?"]
+[White "Martinez Reyes, Pedro Ramon"]
+[Black "Delchev, Aleksander"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2198"]
+[BlackElo "2596"]
+[Annotator "RCA"]
+[PlyCount "152"]
+[EventDate "2012.08.28"]
+[EventRounds "11"]
+[EventCountry "TUN"]
+[Source "ChessBase"]
+[SourceDate "2012.11.13"]
+[WhiteTeam "Venezuela"]
+[BlackTeam "Bulgaria"]
+[WhiteTeamCountry "VEN"]
+[BlackTeamCountry "BUL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Bf3
+Nc6 9. Nxc6 dxc6 $1 {This is a strong recapture, for the following reasons: 1.
+Black will play e5 and will focus on dark squares in this position; 2. the
+rook can quickly come to d8 and capture the 'd' file; 3. Black can continue
+his natural development with Nf6 and Be7.} 10. Qe2 {Threatening to play e5.} e5
+$1 11. a4 {white is trying to secure the d5 square for his knight in this
+position.} Nf6 12. Rd1 Be7 13. Be3 O-O 14. g3 {Black has completed the
+development and now takes control of the only open file on the board. At the
+same time, what White is really doing is pretty unclear.} Rad8 15. Bg2 Nd7 16.
+f3 Bc5 17. Bh3 b4 18. Nb1 Qb6 19. Bf2 Bxf2+ 20. Qxf2 Qxf2+ 21. Kxf2 {This
+endgame is not so difficult for Black to play. He will just concentrate on the
+dark squares.} Nc5 22. Nd2 Rd4 23. b3 {Intending to play Nc4.} Rfd8 24. Ke1 f6
+25. Nc4 Kf7 {Now Black can play Ne6. But the main thing here is that White has
+a small advantage, so it is even more interesting to see how Black was able to
+win.} 26. a5 (26. Rxd4 Rxd4 27. Rd1 $14 {Would give White absolutely no chance
+of losing.}) 26... Ne6 27. Bxe6+ Kxe6 $11 {White must have assessed the
+resulting position to be better for himself, because of the better minor piece;
+but he must not underestimate the power of the b7 bishop when it is activated.}
+28. Nb2 c5 29. Na4 (29. Rxd4 Rxd4 30. Na4 Kd6 $15) 29... Kd6 {(Black's rook on
+d4 is very strong)} 30. Nb2 f5 31. Rxd4+ exd4 32. Nc4+ Kc7 33. exf5 Bxf3 34.
+Kd2 Be4 35. Re1 Re8 36. Rf1 Bd5 37. f6 Rf8 38. Rf5 Kc6 39. Ne5+ Kd6 40. Nd7 Rf7
+41. Nb6 Be6 42. Rh5 g6 43. Rh4 Rxf6 44. Rxh7 Rf2+ 45. Kc1 Bf5 46. Nc4+ Kd5 47.
+Nd2 d3 48. cxd3 Kd4 49. g4 Bxd3 50. Rc7 g5 51. h3 Rf8 52. Kb2 Bb5 53. Kc2 Rf2
+54. Kc1 c4 55. Nxc4 Rf3 56. Nd6 Bd3 57. Nf5+ Bxf5 58. Rc4+ Kd5 59. gxf5 Rxb3
+60. Rg4 Rxh3 61. Rxb4 Rf3 62. Rb6 Rxf5 63. Rxa6 Ke4 64. Kd2 Kf3 65. Ra8 g4 66.
+a6 g3 67. a7 Rf7 68. Ke1 g2 69. Rg8 Re7+ 70. Kd2 Rxa7 71. Rf8+ Kg3 72. Rg8+ Kf2
+73. Rf8+ Kg1 74. Ke2 Re7+ 75. Kf3 Rh7 76. Rg8 Kf1 0-1
+
+[Event "14th ch-EUR Ind w"]
+[Site "Belgrade SRB"]
+[Date "2013.07.27"]
+[Round "?"]
+[White "Balaian, Ali"]
+[Black "Muzychuk, M."]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2237"]
+[BlackElo "2484"]
+[Annotator "RCA"]
+[PlyCount "73"]
+[EventDate "2013.07.23"]
+[EventRounds "11"]
+[Source "Mark Crowther"]
+[SourceDate "2013.08.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Re1
+Nc6 9. Nxc6 dxc6 10. e5 $1 {If White hadn't made this move, then Black would
+have done so himself and claimed an equal position.} Rd8 {The most natural
+move, gaining a tempo on the queen and capturing the open 'd' file.} (10...
+Qxe5 {Is, of course, a bad move because of...} 11. Bxb5 $14) (10... Bb4 {Is
+the other main option for Black in this position.}) 11. Bd3 c5 {Threatens to
+win a piece with c4.} 12. Qe2 Ne7 (12... c4 $1 {Would have been more forcing
+and a better move.} 13. Be4 Bxe4 14. Qxe4 (14. Nxe4 Qxe5 $15) 14... Ne7 {Black
+is going to play b4, Nd5, Be7 with a very fine position.}) 13. Bg5 (13. a4 c4
+14. Be4 Bxe4 15. Nxe4 (15. Qxe4 b4 16. Ne2 Nd5 {And Black is more than fine.})
+15... Qxe5 16. axb5 axb5 17. Bg5 $1 {Gives White almost a winning advantage,
+as all his pieces are wonderfully placed. Black must be careful not to allow
+such a situation to arise.}) 13... h6 14. Bh4 Rd4 (14... g5 15. Bg3 Bg7 $11 {
+Was another way to play.}) 15. Bg3 Nc6 16. Bxb5 {This is a bad sacrifice: it
+merely gives Black a clear advantage. Such an idea of giving up two pieces for
+a rook and two pawns exists in another line where the position arising is
+better for white. But here it's just bad for White, since Black is well
+developed.} axb5 17. Nxb5 Qb6 18. Nxd4 Nxd4 $17 19. Qd1 Be7 20. c3 Nf5 21. Qc2
+O-O 22. Rad1 Ra8 23. b3 h5 24. f3 h4 25. Bf2 h3 26. Re4 Bxe4 27. fxe4 Nh4 28.
+Rd7 Ng6 29. gxh3 Qc6 30. Rd3 Nxe5 31. Rg3 Bh4 32. Rg2 Nf3+ 33. Kf1 Qa6+ 34. c4
+Qxa2 35. Bxh4 Qa1+ 36. Kf2 Nxh4 37. Rg1 0-1
+
+[Event "Indonesia Open 2013"]
+[Site "Jakarta INA"]
+[Date "2013.10.14"]
+[Round "?"]
+[White "Nolte, R."]
+[Black "Ghaem Maghami, E."]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2447"]
+[BlackElo "2556"]
+[Annotator "RCA"]
+[PlyCount "154"]
+[EventDate "2013.10.10"]
+[EventRounds "9"]
+[EventCountry "INA"]
+[Source "Mark Crowther"]
+[SourceDate "2013.10.14"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 b5 7. O-O Bb7 8. Re1
+Nc6 9. Nxc6 dxc6 10. e5 Rd8 11. Bd3 c5 12. Bg5 Be7 $1 {Black plays this
+natural move to complete his development.} 13. Bxe7 (13. Qc1 {Was a better
+move...} c4 14. Be4 b4 15. Bxb7 bxc3 16. Bxe7 Nxe7 17. Be4 (17. Bxa6 Qb6 $19)
+17... cxb2 18. Qxb2 O-O $11) 13... Nxe7 {Black has no problems and should look
+forward with great confidence to the middlegame. In fact, this idea of Bg5 -
+allowing Black to exchange his bishop in order to speed up his development -
+doesn't seem right.} 14. Qh5 c4 15. Be4 b4 (15... Bxe4 16. Nxe4 O-O 17. Nd6 Nc8
+$15) 16. Nd1 (16. Bxb7 bxc3 $19) 16... Rd4 17. Bxb7 Qxb7 18. Ne3 O-O 19. c3
+bxc3 20. bxc3 Rd3 (20... Re4 21. Qf3 Rb8 $15) 21. Nxc4 Rxc3 22. Nd6 Qc6 $11 23.
+Rad1 Ng6 24. Qg4 Rc5 25. Qd4 Rd5 26. Qe4 Rxd1 27. Rxd1 Qxe4 28. Nxe4 Nxe5 29.
+Nc5 a5 30. Nb7 h6 31. Nxa5 Ra8 32. Nb3 Rxa2 33. h3 g5 34. Nc5 Kg7 35. Ne4 Ra8
+36. Kh2 Kg6 37. Rd2 Rc8 38. Re2 Nc6 39. Rc2 Ne7 40. Rxc8 Nxc8 41. g3 Kf5 42.
+Nc5 h5 43. Kg2 Nd6 44. Kf3 Kf6 45. Nd7+ Ke7 46. Ne5 f6 47. Nd3 Nf7 48. Kg2 e5
+49. Nc5 Nd6 50. Nd3 Nc4 51. Nc5 Nd2 52. Nd3 e4 53. Nb4 Kd6 54. g4 h4 55. Nc2
+Ke5 56. Ne3 Kd6 57. Nf5+ Ke6 58. Ne3 Ke5 59. Kh1 Nf3 60. Kg2 Nd4 61. Nc4+ Kd5
+62. Ne3+ Kc5 63. Kh2 Ne6 64. Nf5 Nf4 65. Ng7 Kd4 66. Nh5 Nd5 67. Kg2 Kd3 68.
+Kf1 Kd2 69. Ng7 Kc3 70. Nh5 Kd4 71. Kg2 Kc4 72. Kf1 Kd3 73. Ng7 Kd4 74. Nh5 Ke5
+75. Kg2 Nf4+ 76. Kh2 Nxh5 77. gxh5 f5 {This was one of the latest games played
+in Paulsen. However, White's handling of the position was extremely naive.
+With the move Bg5, he allowed Black to finish his development and thus Black
+experienced no problems in the opening.} 0-1
+
+[Event "Latschach op 28th"]
+[Site "Latschach"]
+[Date "2012.08.15"]
+[Round "6"]
+[White "Narayanan, Srinath"]
+[Black "Rotstein, Arkadij"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2399"]
+[BlackElo "2510"]
+[Annotator "RCA"]
+[PlyCount "70"]
+[EventDate "2012.08.11"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2012.08.24"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Re1
+Nc6 9. Nxc6 dxc6 10. e5 Rd8 11. Bd3 c5 12. Qh5 g6 $1 (12... Ne7 $6 13. a4 c4
+14. Be4 b4 15. Bxb7 Qxb7 16. Ne4 Nf5 17. Bg5 $1 (17. g4 Nd4 $19) 17... Be7 18.
+Bxe7 Qxe7 19. g4 Nd4 20. Nd6+ Rxd6 21. exd6 Qxd6 22. Rad1 $16 {Gives White a
+strong position.}) 13. Qe2 (13. Qh3 {Is the main move in this position.} Bg7
+14. Bf4 $1 (14. Bg5 Ne7 15. Be4 Rd4 {A very common rook lift in this opening.}
+16. Bxb7 Qxb7 17. f3 h6 18. Be3 Rc4 19. Ne4 Bxe5 $15) 14... Ne7 15. a4 $1 bxa4
+$1 {Sometimes you have to make this antipositional move in order to stabilise
+the position.} (15... c4 16. Bf1 b4 17. Ne4 $16) 16. Rxa4 Rd4 $11 17. Bxa6 Rxa4
+18. Bb5+ Bc6 19. Bxa4 Bxa4 20. Nxa4 O-O {Though Black is a pawn down, he has
+good compensation, as the White pieces are quite passive and scattered. Thus
+he can hope to equalise the position with Ra8 later on and by attacking the
+queen side.}) 13... Bg7 14. Bf4 Ne7 15. Be4 Nd5 16. Nxd5 (16. Bxd5 exd5 17. Bg5
+Rc8 18. e6 O-O $15) 16... exd5 17. Bf3 O-O $11 {Black is totally fine.} 18. e6
+$2 {Played with too much optimism!} Qe7 $1 $15 {White loses a pawn and is
+clearly worse.} 19. Bg5 Qxg5 20. e7 Bxb2 21. Rab1 Bc3 22. exd8=Q Qxd8 23. Red1
+Re8 24. Qf1 Qa8 25. Rd3 d4 26. Bxb7 Qxb7 27. a4 c4 28. Rh3 Qd5 29. axb5 axb5
+30. g4 b4 31. Rg3 Re4 32. Qh3 Re2 33. Qh6 d3 34. cxd3 cxd3 35. Re3 d2 0-1
+
+[Event "9th Vasylyshyn Mem GM"]
+[Site "Lviv UKR"]
+[Date "2012.11.24"]
+[Round "5"]
+[White "Polivanov, A."]
+[Black "Zakhartsov, Vi"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2413"]
+[BlackElo "2531"]
+[Annotator "RCA"]
+[PlyCount "104"]
+[EventDate "2012.11.20"]
+[EventRounds "9"]
+[EventCountry "UKR"]
+[EventCategory "8"]
+[Source "Mark Crowther"]
+[SourceDate "2012.11.27"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Re1
+Nc6 9. Nxc6 dxc6 10. e5 Rd8 11. Bd3 c5 12. Qg4 {This is the moat critical move
+in this position. White creates pressure on g7, thereby hindering natural
+development. However, Black's plan is simple: he would like to play Ne7-g6.}
+Ne7 13. Bg5 {This is played without fail.} Rd4 $1 {As is usual in this line,
+the rook lift is seen once again.} 14. Qg3 Ng6 15. Rad1 Be7 16. Bxb5+ $5 {A
+very interesting sacrifice, which leads to quite an unbalanced position.
+However, here Black can maintain the balance by playing accurate moves.} (16.
+Bxe7 Nxe7 17. Ne2 Rd8 $11) 16... axb5 17. Nxb5 Qa5 $6 {Now White takes the
+initiative.} (17... Qb6 $1 {Is the right move to keep the balance.} 18. Nxd4
+cxd4 19. Bxe7 Nxe7 20. Qb3 $1 {Exchange of queens is in White's favour, as it
+will give him two passed pawns to deal with without any chance of an attack.}
+Qc6 $1 (20... Qxb3 21. axb3 Nf5 22. c3 $14) 21. f3 Nf5 22. c3 dxc3 23. Qxc3
+Qxc3 24. bxc3 Ke7 $1 25. Rb1 Bc6 26. Rb4 Ra8 $14 {White retains an edge, but
+with accurate play Black should be able to equalise the game. This is
+currently the most critical line for Black according to me.}) 18. Nxd4 cxd4 19.
+Bxe7 Nxe7 20. Qb3 $1 Qa7 21. Qb4 $1 Nc6 22. Qd6 $1 $16 {White makes precise
+moves and has a clear advantage in this position. Black is unable to 0-0 and
+has his position totally tied up.} Ba8 23. b4 $1 Qb7 24. f3 Qxb4 25. Qxb4 Nxb4
+26. Rxd4 {White has a clear edge. And it is very surprising that he went on to
+lose this position. Still, as we saw, with correct play - i.e. 17...Qb6 -
+Black can maintain the balance.} Nc6 27. Rd6 Ke7 28. f4 Rc8 29. Re3 Nb8 30. Ra3
+Be4 31. Ra7+ Ke8 32. Rb6 Nd7 33. Rd6 Nf8 34. Rb6 Ng6 35. Rb4 Bd5 36. c4 Bc6 37.
+g3 Ne7 38. a4 h6 39. c5 Bd5 40. Rb5 g5 41. fxg5 hxg5 42. h4 Kf8 43. hxg5 Nc6
+44. Rab7 Kg7 45. a5 Bc4 46. a6 Bxb5 47. Rxb5 Nxe5 48. a7 Nc6 49. Rb7 Ra8 50.
+Rb6 Na5 51. Ra6 Nb7 52. c6 Nd6 0-1
+

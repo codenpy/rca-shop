@@ -1,0 +1,521 @@
+[Event "Karlsbad Czech Coal"]
+[Site "Karlovy Vary"]
+[Date "2007.09.15"]
+[Round "7"]
+[White "Laznicka, Viktor"]
+[Black "Ponomariov, Ruslan"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2594"]
+[BlackElo "2706"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "56"]
+[EventDate "2007.09.08"]
+[EventRounds "7"]
+[EventCountry "CZE"]
+[EventCategory "17"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O f5 $5 {As we have learned in the theoretical lesson, this is the
+best practical move.} 10. h4 fxe4 $1 {White would like to start a brutal
+attack on the kingside. However the center isn't stable, so Black should be
+counter-attacking there.} 11. h5 gxh5 12. Rxh5 (12. Bh6 Qxd4 $17 {White's
+attack failed.}) (12. d5 Ne5 13. Bh6 Nec4 {White is attacking only with some
+pieces, so his attack cannot be successful. However we should be carefully
+defending from every attack, especially against our King.} 14. Qg5 Rf7 15. Bxc4
+Nxc4 16. Bxg7 Rxg7 17. Qxh5 exf3 18. gxf3 Qf8 $11 {The Rook and the Queen have
+joined the defense. The rest of White's pieces are undeveloped. Black gave a
+pawn up and the Bishop against the Knight. White's Bishop could have been
+located on the diagonal b1-h7 and it might create some problems to White's
+King.The position is dynamically equal, however this is not what White should
+get out of the opening.}) 12... Bf5 13. Rg5 (13. d5 $5 {This is a very
+interesting try, however after a long and forcing line Black can equalize.} Bg6
+14. Bh6 Bxh5 15. Bxg7 Kxg7 16. Qg5+ Bg6 17. dxc6 Qc8 18. Qxe7+ Rf7 19. Qe5+ Kg8
+20. Nxe4 Bxe4 $1 {Black exchanges all the active places, so White don't have
+enough resources to checkmate Black.} 21. Qxe4 bxc6 22. Qxc6 Qf5 $11) (13. Bh6
+Qxd4 $1 {Center counter-attack is the best reaction in the side attack.} 14.
+Qxd4 Bxd4 15. Bxf8 Rxf8 $17 {Black has two pawns for the exchange, and very
+active pieces. Black is better here.}) 13... Bg6 14. Be2 (14. fxe4 Nxd4 15.
+Bxd4 Bxd4 16. Qxd4 Qxd4 17. Rxd4 Rxf1+ $17) 14... e5 15. d5 Nd4 {In the
+Grunfeld defense we should fight for the center. This is exactly what Black
+had done in this game.} 16. fxe4 c6 $1 {Black is undermining White's center
+once again.} 17. dxc6 (17. Nf3 Bf6 18. Rg3 Nxe2+ 19. Qxe2 cxd5 20. exd5 Rc8 {
+Black's position is preferable because he has the Bishop pair, the Knight c3
+is pinned and White's attack has failed.}) 17... Nxc6 18. Qe1 Qf6 19. Qg3 Nd4 {
+The Knight on d4 is a key piece. It is dominating the center and paralyzes
+White's troops. Black's King is very safe because a lot of pieces are
+protecting him.} 20. Bh5 Bxh5 (20... Ne6 $5 {This is a very interesting
+alternative.} 21. Bxg6 Nxg5 22. Bf5 Nf7 23. Nf3 Nh6 {Black manages to push
+back White's piece, so he doesn't have any real problems.} 24. Bh3) 21. Rxh5
+Rac8 22. Kb1 $2 (22. Bh6 {White can do that, however Black manages to exchange
+the Queens and some attacking pieces.} Qg6 23. Qxg6 hxg6 24. Bxg7 gxh5 25. Bxf8
+Rxf8 {Black's pieces are more active, so he has a slightly better position.})
+22... Rxc3 $1 {This is a fantastic exchange sacrifice! Black destroys the
+cover of White's King. The rest of Black's pieces can create a lot of very
+dangerous threats.} 23. bxc3 Na4 24. Bxd4 (24. cxd4 Qb6+ 25. Kc2 (25. Ka1 Qb2#)
+25... Qb2+ 26. Kd3 Rc8 $1 $19 {White is losing here.}) 24... exd4 25. Kc2 (25.
+cxd4 Qb6+ 26. Qb3+ Qxb3+ 27. axb3 Nc3+ 28. Kc2 Nxd1 29. Kxd1 Rf1+ {White is
+losing here as well because he will lose the Knight.}) 25... Qf7 (25... Qb6 $1
+{This was the best way to continue the attack because the Queen joined the
+attack with the deadly threats. However, Ruslan founds another cool way to
+finish off the day.} 26. Rb1 Rf2+ 27. Qxf2 d3+ 28. Kxd3 Qxf2 $19) 26. Rxd4
+Qxa2+ 27. Kd3 Qb1+ 28. Kd2 Qb2+ (28... Qb2+ 29. Ke1 Nxc3 30. Rf5 Re8 31. Qg4
+Nxe4 32. Rxe4 Qb1+ 33. Kf2 Rxe4 $19) 0-1
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2007.01.21"]
+[Round "8"]
+[White "Motylev, Alexander"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2647"]
+[BlackElo "2728"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "56"]
+[EventDate "2007.01.13"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O f5 10. e5 {White decides to take the space in the center, however
+the squares e6 and d5 are weak.} Nb4 11. Nh3 Be6 12. Kb1 Qd7 (12... Nc4 $5 13.
+Qc1 (13. Bxc4 Bxc4 {Black has the Bishop pair and control over the d5 square.})
+13... Nxe3 14. Qxe3 {Black gains the Bishop pair again.} Nd5 15. Nxd5 Bxd5 16.
+Qc3 e6 {Black's position is very good and he can prepare the c5 advancement in
+the future in order to open more lines for his Bishops.}) 13. Nf4 Bf7 14. a3 a5
+$5 {This is a very interesting and aggressive move. White cannot capture the
+Knight on b4 because Black will have very strong attack.} 15. d5 (15. axb4 axb4
+16. Nce2 Ba2+ 17. Kc1 Bb3 $3 {This is a fantastic move. As we have learned in
+the chess course "Crushing the King" we need to create the mating net. Right
+now Black threatens the Rook on d1 and checkmate on a1. White is defenseless.}
+18. Qxb4 Ra1+ 19. Kd2 Rxd1+ 20. Kc3 {Black is winning.}) 15... Bxe5 16. axb4
+axb4 17. Nb5 Ra5 $5 {Black didn't manage to find the most accurate move here.
+The best move was Rook to a4, because he protects the pawn and prepares the
+doubling of the Rooks on the "a" line.} (17... Ra4 $1) 18. Bxb6 (18. Qxb4 Rfa8
+19. Na3 Bd6 $36 {The position remains complicated, however Black has the upper
+hand and the attack. White's kingside pieces are undeveloped and they cannot
+help right now.}) 18... cxb6 19. Qxb4 Rfa8 {White exchanges his Bishop with a
+potential attacker, the Knight on b6, but this cannot stop Black's attack.
+White's knights are not standing very well. The dark-squared Bishop, on e5,
+stands very actively so White gives up the exchange in order to slow down
+Black's attack.} 20. Rd4 Bxd4 21. Qxd4 Ra1+ 22. Kc2 Rxf1 $1 23. Rxf1 Qxb5 {
+Black gives back the exchange, but he is a pawn up. The Bishop is stronger
+than the Knight and he can still create threats against the White's monarch
+and d5 pawn.} 24. Rc1 Rd8 25. Qe5 Bxd5 26. Nxd5 (26. Qxe7 $2 Qa4+ 27. Kb1 Ba2+
+28. Ka1 Bf7+ 29. Qa3 Qxf4 $19) 26... Rxd5 27. Qe6+ (27. Qxe7 Qd3#) 27... Kf8
+28. Qc8+ Kf7 {Black has technically winning position.} 0-1
+
+[Event "London Classic 4th"]
+[Site "London"]
+[Date "2012.12.06"]
+[Round "5"]
+[White "Jones, Gawain C"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2644"]
+[BlackElo "2775"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "58"]
+[EventDate "2012.12.01"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+e5 (8... Nc6 9. O-O-O f5 {The most practical move is to undermine White's
+center with f5. However Black can try to make the other moves, like e5.}) 9. d5
+c6 {This is another logical way to fight for the center.} 10. h4 $6 {This
+attack is premature. It is not good to start the attack before completing the
+development of your pieces.} cxd5 11. exd5 N8d7 $1 {This attack is premature.
+It is not good to start the attack before complete the development of your
+pieces.} 12. h5 Nf6 13. hxg6 fxg6 $1 {This is the best reaction. When White
+pushes the "h" pawn and captures on g6, then Black should recapture with the
+"f" pawn in order to free the f7 square for the Rook.} 14. Nh3 e4 $5 {This is
+a resting move. Black's idea is to free the e5 square for the Knight. However,
+Black could capture on d5 and he should not be afraid of the pin on the "d"
+line.} (14... Nfxd5 $1 15. O-O-O Bxh3 16. Rxh3 Rc8 {Black is better.}) 15. fxe4
+Ng4 16. Bf4 Ne5 {Black is threatening Queen h4 check. Thus, White decides to
+cover the h4 square with the Bishop, but he has moved this piece twice already
+at cost of the delay in the development of the other pieces.} 17. Bg5 (17.
+O-O-O Bg4 {Black pieces are very active.}) 17... Qd6 18. Nb5 Qc5 {White is a
+pawn up, however Black pieces are very active, so he has full compensation for
+the sacrificed pawn. White's King stacks in the center, so the Rooks cannot
+join the game.} 19. Na3 Bxh3 20. Be3 {White makes this counter-blow because he
+can't recapture the Bishop on h3 immediately, as you can see in the
+sub-variations:} (20. gxh3 Nf3+) (20. Rxh3 Nbc4 21. Nxc4 (21. Qc2 Rxf1+ $1 22.
+Kxf1 Rf8+ {Black has a winning attack.}) 21... Nxc4 22. Bxc4 Qg1+ 23. Ke2 Rf2+
+$18 {Black is winning.}) 20... Qc8 21. Rc1 Qg4 $1 {After this long maneuver
+the Queen is threatening e4 pawn. The problem for White is that the his King
+is not yet castled.} 22. Rxh3 Qxh3 $3 {This is a fantastic combination which
+destroys White's position. At the end of the forcing line Black will win the
+exchange or the Knight on a3.} 23. gxh3 Nf3+ 24. Ke2 Nxd2 25. Bxd2 Bxb2 26. Nb5
+{White keeps the Knight but his position is lost obsessively.} Bxc1 27. Bxc1
+Nxd5 $1 {This is the final killing blow. Black's idea is to distract White's
+King from the Bishop's protection.} 28. exd5 Rae8+ 29. Be3 Rxf1 (29... Rxf1 30.
+Kxf1 Rxe3) 0-1
+
+[Event "Asia Chess Cup"]
+[Site "Zaozhuang"]
+[Date "2012.05.17"]
+[Round "1.1"]
+[White "Al Hadarani, Hatim"]
+[Black "Sasikiran, Krishnan"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2278"]
+[BlackElo "2720"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "63"]
+[EventDate "2012.05.17"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[WhiteTeam "Yemen"]
+[BlackTeam "India"]
+[WhiteTeamCountry "YEM"]
+[BlackTeamCountry "IND"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Be3 Bg7 7. Nc3 O-O 8. h4
+$6 Nc6 $1 {This is a very optimistic move. White didn't complete the
+development and he started the attack. This is not logical because White
+pieces are not active. Thus, the attack should not be successful. Black
+immediately counter-attacks in the center and this is the correct reaction.} 9.
+d5 Ne5 10. Qb3 c6 $1 {By attacking White's center he managed to distract White
+from his starting plan. From now on both players will focus on the center of
+the board.} 11. Rd1 cxd5 12. h5 e6 13. hxg6 hxg6 {White has successfully
+opened the "h" line, however he cannot attack there because the Bishop on g7
+is a very strong defender. White doesn't have the Queen in the attack, so the
+attack is not powerful.} 14. Bxb6 axb6 15. exd5 exd5 16. Nxd5 Be6 $17 {White
+manages to get back the pawn, however the center is totally opened and Black
+pieces are fully mobilized. Black's position is clearly better.} 17. f4 Ra5 {
+Counter-attack it's always a good way to proceed the game. This is not the
+best move in the position, however Black has the upper hand. The idea is to
+eliminate the strongest White piece, Knight on d5.} (17... Nc6 $1 {This is a
+very calm and strong move. The Knight is dreaming to go on d4. White doesn't
+have a good discover attack with the Knight.}) 18. fxe5 Rxd5 19. Rxd5 Bxd5 $19
+{Black's position is totally winning, because his army is fully developed and
+can generate threats again and un-castled King in the center.} 20. Bc4 Bxc4 21.
+Qxc4 Qg5 {Double attack is the strongest tactic in order to win material.} 22.
+Nf3 Qxg2 23. Rf1 Bxe5 $5 {The simplest move is to capture on b2. However
+Black's position is so advantageous, so he has a lot of tactical blows. He won
+the game afterwards.} (23... Qxb2 $1) 24. Nxe5 Qg3+ 25. Kd1 Qxe5 26. Rf3 Qxb2
+27. Qd5 Kg7 28. Rf4 b5 29. Rf3 Qb1+ 30. Kd2 Qb4+ 31. Kd1 Qc4 32. Qxb7 (32. Qxb7
+Rd8+ 33. Ke1 Qc1+ 34. Kf2 Rd2+ 35. Kg3 Qe1+ 36. Kh3 Qh1+ 37. Kg4 Qh5+ 38. Kg3
+Qh2+ 39. Kg4 Rg2+ 40. Rg3 Qxg3#) 0-1
+
+[Event "CHN-RUS Summit Men 7th Rapid"]
+[Site "Ningbo"]
+[Date "2010.08.14"]
+[Round "18"]
+[White "Vitiugov, Nikita"]
+[Black "Wang, Yue"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2722"]
+[BlackElo "2716"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "134"]
+[EventDate "2010.08.11"]
+[EventType "rapid"]
+[EventRounds "20"]
+[EventCountry "CHN"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O f5 $1 10. e5 Nb4 11. Nh3 Be6 $5 {In the theoretical part you have
+learned that the move a5 is a very good waiting move. In any case the move
+Bishop e6 is not a bad move, because it is attacking the "a" pawn.} (11... a5
+$5) 12. a3 Na2+ 13. Nxa2 Bxa2 14. Bh6 Qd7 15. Bxg7 Kxg7 $15 {White manages to
+eliminate the key defender, Bishop g7, however he cannot create any real
+attack against of the Black's monarch because he cannot open the "h" line. On
+the other hand we can see the Black pieces are ready to create problems for
+White's King. Similarly they are controlling successfully the squares c4, d5
+and e6.} 16. Qc2 Bg8 17. Nf4 Nd5 18. Nxd5 Qxd5 19. Qc5 (19. Qxc7 Rac8) 19...
+Qxc5+ 20. dxc5 Rfd8 {The pawn structure is symmetrical and the position is
+about equal.} 21. Bb5 $6 (21. Be2 Bb3 22. Rd2 {Black has slightly more active
+pieces, however it's hard to imagine that White can lose the game.}) 21... Bb3
+22. Rd2 c6 23. Be2 Rac8 $1 {Comparing this line with a previous one we can see
+that Black won some tempi. Now he can double the Rooks in the strong square d5.
+He cannot execute his strategical plan immediately, because White is just in
+time to consolidate his position. For that reason he plays first the Rook to
+c8, against the weak pawn c5 and only after that he will double on "d" line.
+Unfortunately, Black cannot do anything to avoid this plan.} (23... Rd5 $2 24.
+Rxd5 cxd5 25. Kd2) 24. f4 Rd5 25. Rxd5 cxd5 26. Kd2 Rxc5 {Black transposes his
+positional advantage into material advantage. Later on he managed to win the
+game.} 27. Bd3 d4 28. Rg1 Kf7 29. h4 Be6 30. g3 a5 31. Rb1 b6 32. Rg1 Rc7 33.
+Bb5 Rc5 34. Bd3 Kg7 35. Re1 Bd5 36. h5 e6 37. hxg6 hxg6 38. Re2 b5 39. Rh2 b4
+40. axb4 axb4 41. Re2 Rc8 42. Rh2 Ra8 43. Bb5 Ra1 44. Kd3 Rd1+ 45. Rd2 Rg1 46.
+Kxd4 Rxg3 47. Kc5 b3 48. Kd6 Re3 49. Bd7 Kf7 50. Rh2 Rd3 51. Rh7+ Kg8 52. Rh2
+Kf8 53. Rh8+ Kg7 54. Rh2 Rd4 55. Bxe6 Bxe6+ 56. Kxe6 Rxf4 57. Rd2 Re4 58. Rd7+
+Kh6 59. Kf6 f4 60. Rg7 f3 61. Rxg6+ Kh5 62. Rg5+ Kh4 63. Rf5 Kg3 64. e6 f2 65.
+e7 Kg2 66. Rg5+ Kf3 67. Rf5+ Ke2 0-1
+
+[Event "Carlos Torre Wimbledon 17th"]
+[Site "Yucatan"]
+[Date "2004.12.20"]
+[Round "4.2"]
+[White "Graf, Alexander"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2646"]
+[BlackElo "2705"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "2004.12.13"]
+[EventRounds "4"]
+[EventCountry "MEX"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. f4
+Nc6 $1 {White's center is impressive, however Black can attack it actively
+with the pieces.} 9. Nf3 Bg4 10. e5 $6 (10. d5 Na5 11. Be2 Nac4 12. Bc1 c6 {
+This is the usual way for Black to fight for the center. Black has a very good
+position here.}) 10... Bxf3 11. Qxf3 (11. gxf3 e6 12. Rg1 Qh4+ {Black can win
+material in this variation and he has a very good position.}) 11... Nxd4 {
+White cracked under the pressure. He tried to close the dark-squared Bishop,
+however he has a big weakness on d5 square and the d4 pawn is hanging after
+the forcing continuation:} 12. Qe4 (12. Bxd4 Qxd4 13. Rd1 Qb4 $17 {White's
+position is destroyed and Black close to winning. The Queen is threatening the
+pawn on b2. Black can develop the rest of his pieces very comfortably.}) (12.
+Qf2 c5 13. Rd1 f6 {The position is complicated, however Black is controlling
+the center with the Knight and he undermines it with the move f6. White's
+monarch is feeling uncomfortable on e1.}) 12... c5 13. Rd1 Qc7 14. g3 (14. Bxd4
+cxd4 15. Nb5 Qc5 16. Nxd4 Qb4+ 17. Rd2 Rfc8 $36 {White regains the pawn back,
+however Black's pieces are extremely active and they can generate rater strong
+threats. White should defend from Black's threats and completes the
+development at the same time. In the light of all above, Black is better here.}
+) (14. Nb5 Nxb5 15. Bxb5 Rad8 $11 {The position is about equal. Black is a
+pawn up but White has the Bishop pair. The better player will win, but Black
+is facing no problems.}) 14... f5 15. Qg2 (15. exf6 exf6 $17 {The opening of
+"e" line is out of the doubts. The White's Queen, the King and the Bishop on
+e3 will be under attack. The strategic rule says: "Do not open the center if
+you are behind the development".}) 15... Rfd8 16. Qf2 e6 $17 {Black has a
+dreaming position. He is a pawn up. The Knight on d4 is powerful. he can
+double the Rooks on the "d" line or bring the other Rook to c8. Black has
+pawn's majority in the Queenside, so he can prepares the advancement of these
+pawns step by step. White is behind in development and the center is closed,
+so he cannot do anything with the Bishop pair.} 17. Bg2 Nc4 $1 {White's move
+was logical, but Black prepared a really strong move, Knight c4. White can
+capture the pawn back, but Black's pieces will be extremely active at the end
+of the forcing line.} 18. Bc1 (18. Bxd4 $6 cxd4 19. Rxd4 Rxd4 20. Qxd4 Rd8 21.
+Qf2 Bf8 $19 {White cannot do 0-0 because of Bc5. Black is threatening Rook d2
+or Bishop b4. Black is winning.}) 18... Rd7 19. O-O Rad8 20. b3 Qa5 (20... Na5
+$5 21. Be3 Nac6 {This is a very interesting maneuver. Black is
+super-protecting the Knight on d4 and after that he can start moving the
+queenside pawns.}) 21. Na4 (21. Ne2 Nxe2+ 22. Qxe2 Nd2 23. Bxd2 Rxd2 $17 {With
+a clear advantage for Black, because Black is totally dominating on the "d"
+line.}) 21... Bf8 22. Kh1 b5 23. bxc4 Qxa4 24. cxb5 c4 25. Be3 c3 26. Rd3 Qc4
+27. Rxd4 Rxd4 28. Bxd4 Rxd4 29. Rc1 (29. Qg1 c2 30. Rc1 Bc5 31. Qe1 Ba3) 29...
+Ba3 30. Bf1 Qd5+ 31. Bg2 Rd1+ 0-1
+
+[Event "Zuerich Chess Challenge"]
+[Site "Zuerich"]
+[Date "2013.02.24"]
+[Round "2"]
+[White "Gelfand, Boris"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2740"]
+[BlackElo "2757"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "80"]
+[EventDate "2013.02.23"]
+[EventRounds "6"]
+[EventCountry "SUI"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Qd6 {This is another interesting variation for Black. The idea is
+to double on the "d" line in order to organize the pressure on the d4 pawn.}
+10. Nb5 Qd7 {White win a tempo, however Black can win the tempo back because
+he can kick the Knight from b5.} 11. Kb1 Rd8 12. d5 a6 $1 {This is a very
+strong counterblow. Black is using the bad position of the Knight on b5. White
+can temporarily win a pawn, however Black's pieces are developed and very
+active, so after a long and forcing continuation he can recapture the pawn
+with good position.} 13. Nc3 Qe8 {Black have a lot of interesting options here
+and all of the are almost equally valuable. With his last move he is
+protecting the c6 Knight because the d5 pawn is pinned. Black's plan is to
+maneuver the Knight b5 via a7.} (13... Ne5 $5) (13... Na5 $5) 14. Qe1 Na7 15.
+h4 Nb5 16. Nge2 Nc4 {Black's Knights are very active around the White's
+monarch. White's attack is not dangerous because the Queen cannot participate
+in it.} 17. Bd4 Nxd4 18. Nxd4 Nb6 {It was forced to go back with the Knight,
+however, Black gets the Bishop pair. White's attack in the King side is not
+dangerous because the Bishop g7 is a key defender and White cannot exchange it.
+Black's reaction should be the counter-attack in the center. This is always
+the correct way to meet a flank attack.} 19. h5 e6 $1 20. hxg6 hxg6 21. f4 (21.
+Qh4 exd5 22. exd5 Nxd5 23. Re1 Qd7 24. Bc4 Nf6 $11 {Black is a pawn up and his
+position is totally safe. There is no way for White to continue his attack. In
+the light of that, only Black can improve his position.}) 21... Qe7 $5 (21...
+exd5 $5 22. e5 c5 23. Nf3 Qe7 $15 {Here we can see another very promising
+position for Black. Black's center is impressive, the pieces behind it are
+active and there is no obvious way to push the Kingside pawns g2, f4 and e5
+immediately. Thus, Black is slightly better here.}) 22. Nf3 exd5 23. e5 d4 {
+This is an interesting move, however, you should do the forcing moves first.
+Forcing moves, Bf5+, winning a tempo in the development, so we should prefer
+them.} (23... Bf5+ $1 24. Bd3 d4) 24. Nxd4 c5 $11 {Black gives back the pawn
+in order to activate all of his forces. At this point the position is equal,
+so Black faces no real problem in the opening. After some fight the players
+agreed for the draw.} 25. Nf3 Bf5+ 26. Ka1 Rxd1+ 27. Qxd1 Rd8 28. Qe1 Qd7 29.
+Be2 Nd5 30. Nxd5 Qxd5 31. Qc1 Be6 32. b3 Qc6 33. Rd1 Rxd1 34. Qxd1 Qe4 35. g3
+Bf5 36. Bc4 Bh6 37. Bd5 Qe3 38. Qd2 Qxd2 39. Nxd2 g5 40. Bxb7 gxf4 (40... gxf4
+41. gxf4 Bxf4 42. Nc4) 1/2-1/2
+
+[Event "World Championship"]
+[Site "Moscow"]
+[Date "2012.05.14"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2791"]
+[BlackElo "2727"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "74"]
+[EventDate "2012.05.11"]
+[EventRounds "12"]
+[EventCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+e5 9. d5 c6 10. h4 cxd5 11. exd5 N8d7 (11... h5 $1 {Black can stop the
+premature attacking possibilities with this typical and instructive move. Now
+White cannot advance the Kingside pawns and Black can focus on the center.}) (
+11... f5 $6 {It is a very optimistic move and Black should have chosen that.
+White's attack is dangerous because he has active pieces and he can exchange
+the dark-squared Bishops. Perhaps White's attack is not leading to the
+checkmate, however after the forcing continuation, White can get a better
+endgame.} 12. h5 Na6 13. Bh6 f4 14. hxg6 hxg6 15. g4 Bxh6 16. Rxh6 Kg7 17. Qh2
+Rh8 18. Rxh8 Qxh8 19. Qxh8+ Kxh8 20. O-O-O $14) 12. h5 Nf6 13. hxg6 fxg6 $1 {
+This is the best way to recapture the pawn. Now the Rook can join the defense
+from f7. As we can see in the other forcing line, hxg6, White can create the
+attack which is very dangerous.} (13... hxg6 $6 14. Bh6 Nfxd5 15. Bxg7 Kxg7 16.
+Rd1 Be6 17. Qh6+ Kf6 18. Ne4+ Ke7 19. Qg5+ f6 20. Rh7+ Rf7 21. Nxf6 Rxh7 22.
+Nxh7+ Kf7 23. Qh6 Qh8 24. Bd3 Nf4 25. Ne2 Nbd5 26. Nxf4 Nxf4 27. Kf2 $36) 14.
+O-O-O (14. d6 $5 {This is an interesting move and Black should react
+dynamically. White's idea is to combine the advanced pawn with the attack in
+the Kingside. In similar situations, if Black is not careful, White will force
+Black's pieces to move in order to blockade/eliminate the advanced d6 pawn and
+White can deliver the check-mate to the defenseless King.} e4 15. O-O-O (15.
+fxe4 Re8 $44) 15... Be6 16. Kb1 Rc8 $44 17. fxe4 $6 Rxc3 18. Qxc3 Nxe4 $40 {
+Black has a clear compensation for the pawn. White's attack stopped in the
+Kingside and the Black pieces are extremely active. White is in the real
+danger.}) 14... Bd7 15. Kb1 Rc8 16. Ka1 e4 $1 17. Bd4 (17. fxe4 Rxc3 $1 18.
+Qxc3 Nxe4 $40) (17. Nxe4 $2 Nxe4 18. fxe4 Rxf1 19. Rxf1 Nc4 $19) (17. d6 $5 Na4
+) 17... Na4 18. Nge2 Qa5 (18... exf3 $5 19. gxf3 Qa5 20. Nxa4 Qxa4 (20... Qxd2
+21. Rxd2 Bxa4 22. Bh3) 21. Nc3 Qa5 22. Qh2) 19. Nxe4 Qxd2 20. Nxf6+ Rxf6 21.
+Rxd2 Rf5 {Rook is not a good blocker, so Black decides to attack the d5 pawn
+directly.} 22. Bxg7 Kxg7 23. d6 Rfc5 24. Rd1 a5 25. Rh4 Rc2 $1 {The best
+location for the Rooks is on the second rank. If Black can place the Rooks
+there then he can secure the draw.} 26. b3 Nb2 27. Rb1 Nd3 {The active Knight
+on d3 is creating a lot of problems. Now he would like to jump on b4,
+threatening mate on a2. White should exchange Black's very active pieces as
+soon as possible.} 28. Nd4 Rd2 29. Bxd3 Rxd3 30. Re1 Rd2 $1 {Again we can see
+the best location for the Rook. Black cannot bring the second Rook in the
+second rank right now, however the Rook on d2 is extremely active and g2 pawn
+is under attack.} 31. Kb1 Bf5+ 32. Nxf5+ gxf5 33. Re7+ Kg6 34. Rc7 Re8 35. Rh1
+Ree2 36. d7 Rb2+ {This game is a draw. White cannot escape from checks and
+Black cannot fight against the powerful d7 pawn.} 37. Kc1 Rxa2 (37... Rxa2 38.
+Kd1 Rad2+ 39. Kc1 Ra2) 1/2-1/2
+
+[Event "WCC cand"]
+[Site "Cazorla"]
+[Date "1998.06.04"]
+[Round "9"]
+[White "Kramnik, Vladimir"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2790"]
+[BlackElo "2710"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "95"]
+[EventDate "1998.05.24"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+e5 $5 {This is an interesting move, however the main move is Nc6.} 9. d5 c6 10.
+h4 (10. d6 $6 Be6 11. b3 N8d7 {The d6 looks interesting and aggressive, but
+Black can block it very well and he can prove that this advanced pawn is a
+weakness.}) (10. O-O-O cxd5 11. exd5 f5 $5 {Black's center is impressive. He
+can develop his pieces easily. He can play f4, Bishop f5, Knight d7 and Rook
+c8.}) 10... h5 $1 {Black respects White's attacking possibilities, so he stops
+his attack with the typical h5 move. As you can see in the game, White has
+never managed to create threats to the Black's monarch.} (10... cxd5 11. exd5
+f5 $5 {This is an alternative, but the h5 is a much stronger move.}) 11. Be2
+cxd5 12. exd5 N8d7 $1 {The d5 pawn is a weakness because no other pawn can
+protect it. In the light of that, Black would like to attack this pawn by
+transferring the Knight to f6. Similarly, Black is transferring his Knight to
+the Kingside in order to kill any White's attacking chance. Please notice that
+Black should not place the Bishop on f5, because White has a very tempting
+move g4.} 13. d6 (13. g4 $2 hxg4 14. fxg4 Nf6 $17) 13... Nf6 14. Bg5 Re8 $6 {
+This is a logical move, but it will give White tactical chances connected with
+a later d7 advance with tempo.} (14... Be6 15. g4 Rc8 $15) 15. Rd1 (15. g4 $6
+e4 $1 {When someone attacks you in the side, then you should counter-attack in
+the center.}) 15... Be6 16. Nh3 Nc4 17. Bxc4 Bxc4 18. b3 Ba6 $6 {Now there is
+no turning back.} (18... Be6 19. Nf2 Qd7 $14 {White's pawn is very dangerous
+and for that reason Black should block it and try to eliminate it. In the
+light of that the Bishop was better placed on e6.}) 19. Nd5 $2 {This is a
+serious tactical mistake, after which the sharp complications turn in the
+Black's favour.} (19. d7 $1) 19... e4 $1 20. Nxf6+ Bxf6 21. d7 Qb6 $3 {Wow!
+This is an amazing move and the fireworks have begun. The tactics works in the
+Black's favor because White's King is in the center. White Should accept the
+sacrifice, there is no alternative solution.} 22. dxe8=Q+ (22. Bxf6 exf3+ 23.
+dxe8=Q+ Rxe8+ 24. Be5 Rxe5+ 25. Qe2 Rxe2+ 26. Kf1 fxg2#) 22... Rxe8 23. Qe3 $8
+{This is the only move, but after the the forcing moves:} (23. f4 e3 $19 {This
+forces White's Queen to move away from the a5-e1 diagonal. After that Black
+will make a deadly check with the Queen from a5 or b4.}) (23. Be3 Bxh4+ $1 24.
+Nf2 exf3 $19 {With a crushing attack!}) (23. Qd7 Bc3+ 24. Rd2 Bb5 $19 {Black
+has a fantastic piece play. Every single piece corporates perfectly with the
+other. In the next move Black will open the 'e" line with the deadly effect
+against the White's King.}) 23... Bxg5 24. Qxb6 Bxh4+ 25. Kd2 axb6 26. fxe4
+Rxe4 $17 {White manages to save himself from the checkmate, but the endgame
+Black has the Bishop pair and two extra pawns. After some fight Black managed
+to win the game.} 27. Kc2 Rg4 28. Rd2 Be7 29. Rg1 Kg7 30. Nf2 Rf4 31. Nd3 Re4
+32. Rgd1 Bb5 33. a4 Bc6 34. Re1 Rxe1 35. Nxe1 Bb4 36. Re2 Bxe1 37. Rxe1 Bxg2
+38. Kd2 h4 39. Ke3 Bd5 40. b4 h3 41. Re2 f5 42. Rd2 Be4 43. Kf4 Bg2 44. Rd7+
+Kf6 45. Rh7 g5+ 46. Kg3 f4+ 47. Kg4 Ke5 48. b5 0-1
+
+[Event "Moscow Open A 2016"]
+[Site "Moscow RUS"]
+[Date "2016.02.01"]
+[Round "3.9"]
+[White "Martinez Ramirez, L."]
+[Black "Timofeev, Arty"]
+[Result "0-1"]
+[ECO "D70"]
+[WhiteElo "2410"]
+[BlackElo "2570"]
+[Annotator "http://chess-teacher.com"]
+[PlyCount "48"]
+[EventDate "2016.01.30"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Qd6 {Everything is very typical up to this moment. White chooses
+the profibrotic move King b1, however, this is not the best approach in the
+position. Grunfeld is a very dynamic opening, so White must do something about
+Black's pieces activity. In the light of that, h4 or the Knight to b5 are
+better moves which can create more problems for Black.} 10. Kb1 Rd8 (10... a6
+$5 {Black has the option to prevent the Knight jump to b5.}) 11. Nb5 Qd7 12. d5
+a6 $1 {This is the best and very typical counter-attacking idea. From now on
+the forcing play starts.} 13. dxc6 (13. Nc3 Ne5 {Black is facing no problems
+here. His center is stable. He can jump to c4 square with one Knight. And
+finally, he can undermine the center with c6. Above all, White's pieces are
+undeveloped. See the game Gelfand - Caruana.}) 13... Qxd2 14. Rxd2 Rxd2 15.
+Bxd2 axb5 16. Bxb5 (16. cxb7 Bxb7 17. Bxb5 Rd8 18. Bc1 $5 (18. Be3 $5 Rd1+ 19.
+Kc2 Ra1 20. a3 c6 21. Be2 Na4 22. Bc1 Nxb2 $1 23. Bxb2 $2 Ra2 $19) 18... Rd4
+19. Nh3 (19. Be2 Na4 {Black has a counterplay (pressure on the b2 pawn).})
+19... Rb4 20. Bd3 Bxb2 21. Bxb2 Na4 $11 {
+Black will gain the pawn back with a good position.}) 16... bxc6 17. Bxc6 Rb8 {
+In both cases White can win a pawn, however, Black has a very goodcompensation
+for it. It was better to capture immediately on b7 because now Black will win
+back the b2 pawn with a deadly effect on the game.} 18. Bb5 Nd7 $1 19. Bc4
+Rxb2+ 20. Kc1 Nb6 {Black pieces are extremely active and they generate threats.
+The Rook and the Knight, from h1 and g1, cannot help the situation...} 21. Bb3
+Ba6 22. Ne2 (22. Nh3 Bd3 {White is losing material.}) 22... Bxe2 23. e5 Bxe5
+24. Re1 Bd3 {White can get back the piece on e5, however, he cannot stop the
+checkmate on b1. White has no defense, so Black wins.} 0-1
+

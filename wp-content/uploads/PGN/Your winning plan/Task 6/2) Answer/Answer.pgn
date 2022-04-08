@@ -1,0 +1,260 @@
+[Event "8th ch-Euro"]
+[Site "?"]
+[Date "2007.04.12"]
+[Round "9"]
+[White "Khismatullin D"]
+[Black "Zaragatski I"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2464"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2kr1b1r/ppp1nppp/2nq4/1B1p4/3P2b1/2N1PN2/PP1B1PPP/R2QK2R w KQ - 0 9"]
+
+{In positions with a static center it is necessary: 1) to get control over the
+central lines (here white has the "c" file) 2) to put your pieces on the
+central squares, which are protected by your pawn (here they are c5 and e5} 9.Rc1
+Kb8 10.Na4 Rc8 11.h3 Bxf3 12.Qxf3 Nd8 13.Nc5 c6 14.Bd3 Ka8 15.b4
+{ (when you have a strong center, you may start the attack on a flank. The
+attack of a pawn minority is a standard plan for such positions.)}
+g6 16.a4 f5 17.b5 {(pay attention to the white's STYLE - he is realizing the plan by his every move without any deflections.)}
+Ne6 18.O-O Nxc5 19.Bb4 Bh6 20.Bxc5 Qe6 21.Rc2 Rhe8 22.Rfc1 Ng8
+23.bxc6 bxc6 24.Ba6 Rb8 25.Qe2 ( 25.Bxa7 {!} Kxa7 26.Rxc6 Qd7
+27.Rc7+ $18 ) Rb3 26.Rb2 Rxb2 27.Qxb2 Rb8 28.Qc2 Nf6 29.Rb1 Nd7
+30.Rxb8+ Nxb8 31.Be2 Nd7 32.Bb4 Bf8 33.Bxf8 Nxf8 34.Ba6 Qd7 35.Qc5
+Ne6 36.Qb4 Qc7 37.a5 Qd7 38.g3 Qc7 39.h4 Qd7 40.Bd3 Qc7 41.h5
+Qd7 42.a6 Qc7 43.h6 Qd7 44.g4 fxg4 45.Bxg6 Nd8 46.Qf8 Kb8 47.Bf5
+Qc7 48.Kg2 1-0
+
+[Event "37th Olympiad"]
+[Site "?"]
+[Date "2006.05.23"]
+[Round "3"]
+[White "Adly A"]
+[Black "Kurajica B"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2548"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qr1k1/pp3pbp/1nn1b1p1/3p4/3P4/2NB1P2/PP1BNQPP/2RR2K1 w - - 0 17"]
+
+{The main plan thing that you should do in positions with a static center is to
+struggle for the control over the squares around the central pawns. It is interesting to see how both players tried to do it.} 17.b3
+Qf6 ( 17...Rc8 ) 18.Nb5 Qe7 19.Bf4 Bf5 20.Bd6 Qe3 21.Bf4 Qxf2+
+22.Kxf2 Bxd3 23.Rxd3 Re7 24.Bd6 Rd7 25.Bc5 Nc8 26.Re3 {(White got more centralized position and it became more difficult for black to find right moves.)}
+Rd8 {?} 27.Nc7 Rb8 28.Nxd5 Nd6 ( 28...Rxd5 29.Re8+ $18 ) 29.Ne7+
+Nxe7 30.Bxd6 Rxd6 31.Rxe7 Bf6 32.Re4 Rbd8 33.Rc7 Ra6 34.a4 Rb6
+35.Re3 Rb4 36.Rd3 a6 37.Ke3 Re8+ 38.Kd2 Bd8 39.Rc4 Rb6 40.d5
+Bg5+ 41.Kd1 Rd8 42.f4 Be7 43.g4 Bd6 44.Ng3 Bb8 45.Ke2 Kf8 46.Kf3 1-0
+
+[Event "inAUTOmarket Open"]
+[Site "?"]
+[Date "2005.07.16"]
+[Round "7"]
+[White "Aleksandrov A"]
+[Black "Shaposhnikov E"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2533"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bppp/2n1bn2/3p2B1/3P4/1QNB1P2/PP2N1PP/R4RK1 w - - 0 13"]
+
+{The most standard plan is to play Rac1, Rfe1 and then to occupy the central
+squares c5 and e5. In this game white has chosen another plan - to strengthen
+the center first and to transfer the attack on the side then} 13.Rad1
+( 13.Qxb7 {?!} Na5 14.Qa6 Bc8 15.Qb5 Bd7 16.Qa6 Bc8 {=} ) Rb8
+14.Bb1 Na5 15.Qc2 g6 16.Nf4 Bf5 17.Qf2 Bxb1 18.Rxb1 Qd6 19.Rfe1
+Nc6 20.Nb5 Qd7 21.Qh4 a6 22.Na7 Bd8 23.Bxf6 Nxa7 24.Re5 {(after all white has occupied the central squares and got a winning position)}
+Qd6 25.Nxd5 Nc6 26.Rh5 1-0
+
+[Event "Cup European Club (final)"]
+[Site "Saint Vincent (Italy)"]
+[Date "2005.09.21"]
+[Round "4"]
+[White "Aleksandrov Aleksej (BLR)"]
+[Black "Giorgadze Giorgi (GEO)"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2601"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/p1n2ppp/3q1n2/1p1pN3/P2P4/1P6/5PPP/R1BQ1RK1 w - - 0 17"]
+
+17.Nd3 {(white is going to play Bf4 to increase the tension on the central squares)}
+Rfc8 18.Bf4 Qd8 19.Be5 {(white occupies the central sqaures under the protection of his pawn)}
+a5 20.Nf4 b4 21.Qd3 Nce8 22.Rac1 Ne4 23.f3 Rc3 24.Rxc3 Nxc3 25.Re1
+{(white centralized all his pieces)} Qd7 26.Nh5 {(after the full centralization white is transferring the attack on a side)}
+Qc6 27.g4 g6 28.Ng3 Ng7 29.g5 Qa6 30.Qxa6 Rxa6 31.Bf6 Ne6 32.Kf2
+h5 33.Ke3 Kf8 34.Kd2 Ke8 35.Nh1 Kd7 36.Nf2 Kd6 37.Nd3 Ra7 38.h4
+Rb7 39.Rf1 Ra7 40.Ke3 Nf8 41.Be5+ Ke6 42.Nc5+ Ke7 43.Bf6+ Kd6
+44.f4 Nd7 45.f5 Nxc5 46.dxc5+ Kc6 47.fxg6 fxg6 48.Kd4 Rf7 49.Ke5
+Kxc5 50.Ke6 Rb7 51.Rf2 Kc6 52.Bd4 Rd7 53.Rf6 Ne2 54.Ke5+ Kc7
+55.Bb6+ Kb7 56.Bxa5 d4 57.Bxb4 d3 58.Bd2 Nd4 59.Rf4 Nf5 60.Rxf5
+gxf5 61.g6 Re7+ 62.Kf6 Re4 63.g7 Rg4 64.Bg5 Rxg5 65.hxg5 d2 66.g8Q
+d1Q 67.Qf7+ Kb6 68.g6 Qd4+ 69.Kxf5 Qg4+ 70.Kf6 h4 71.g7 Qd4+
+72.Kg6 Qe4+ 73.Kh6 h3 74.g8Q 1-0
+
+[Event "Simul"]
+[Site "?"]
+[Date "2007.01.20"]
+[Round "1"]
+[White "Karpov Ana"]
+[Black "Seitz M"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2258"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rrn3k1/1q1b1pp1/4pb1p/1p1p4/1P1P4/1QNBPN1P/5PP1/R1R3K1 w - - 0 20"]
+
+{Though it is a static center, it is not totally static. So here white simply
+follow the rule "if you can play in a center - do it."} 20.e4
+dxe4 21.Rxa8 Qxa8 22.Nxe4 Be7 23.Ne5 Be8 24.Nc5 {(White centralized his pieces and won the game soon. You can see that this scenario happens very often.)}
+Qd5 25.Qxd5 exd5 26.Na6 Ra8 27.Nc7 1-0
+
+[Event "IV Open"]
+[Site "?"]
+[Date "2007.06.21"]
+[Round "6"]
+[White "Graf A"]
+[Black "Ramesh R"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2453"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rn1q1rk1/1b3ppp/pp1b1n2/2ppN3/3P1P2/2N1P3/PP1BB1PP/R2Q1RK1 w - - 0 12"]
+
+{After the eventual exchange cd and ed we will have a static center. In that
+position both players will try to struggle for the control over the central
+squares. White has the knight on e5 already and black will try to put the knight on e4. Can white prevent it?} 12.Be1
+{(preparing Bh4)} cxd4 13.exd4 Nc6 14.Kh1 b5 15.Bh4 {(white solved the problem of his bad bishop and prevented the move Ne4)}
+Be7 16.Bf3 Na5 17.Qd3 Nc4 18.Rae1 {(White has already occupied the e5 square, so now he only needs to take the open file "e" to get the full domination.)}
+Re8 19.Re2 Ne4 20.Bxe7 Rxe7 21.Nxe4 dxe4 22.Bxe4 Bxe4 23.Rxe4
+Qd5 24.Re2 Rae8 25.Rfe1 Nxe5 26.fxe5 Qxa2 27.b3 Qa3 28.h3 Rd7
+29.d5 Qc5 30.d6 g6 31.Qd2 Rc8 32.Qh6 Rf8 33.Re4 Qd5 34.Rh4 f6
+35.e6 Re8 36.e7 Qf7 37.Rd4 Qxb3 38.Qf4 Qf7 39.Qc1 Qa2 40.Qc6
+Qf2 41.Ree4 Qf5 42.Kh2 Kf7 43.Re1 a5 44.Rd5 Qf4+ 45.Kh1 Qf2 46.Rdd1
+Qf5 47.Kg1 a4 48.Rd5 1-0
+
+[Event "Bundesliga 2006-7"]
+[Site "?"]
+[Date "2007.03.17"]
+[Round "12"]
+[White "Rustemov A"]
+[Black "Luther T"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2580"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bqk2r/pp2bppp/2n2n2/3p4/3P4/5N2/PP2BPPP/RNBQ1RK1 w kq - 0 9"]
+
+9.Ne5 { (White starts realizing his plan immediately. Of course it is not the onle
+possible move - it is just important to understand the right PLAN.)}
+O-O 10.Nc3 Bf5 11.Bf4 Rc8 12.Rc1 a6 13.Na4 {
+ (white is realizing the standard plan: to put the rooks on the central open
+files and to bring the pieces on the central squares under the protection of  your pawn.)}
+Nb4 {(black breaks the white's idea)} 14.Rxc8 Qxc8 15.Nc3 Nc6
+16.Bf3 Rd8 17.Nxc6 Qxc6 18.Qb3 Be4 {(black also realizes the right plan)}
+19.Be2 b5 20.Rc1 Qe6 21.Nxe4 Nxe4 22.Qc2 Bf6 23.Qc7 Re8 24.Rc6
+Qf5 25.g4 Qg6 26.Qd7 Rf8 27.Qxd5 h6 28.Kg2 Ng5 29.Qf5 Ne6 30.Be3
+Qxf5 31.gxf5 Nxd4 32.Rxf6 Nxe2 33.Rxa6 Rd8 34.Rb6 Rd5 35.Kf3
+Ng1+ 36.Ke4 Rd7 37.Rxb5 f6 38.a4 Re7+ 39.Kf4 Ne2+ 40.Kf3 1-0
+
+[Event "22nd Voivoda Cup"]
+[Site "?"]
+[Date "2006.12.11"]
+[Round "5"]
+[White "Savchenko S"]
+[Black "Zeberski J"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2420"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1rnk1/pp2qppp/2p2n2/3p4/3P4/2NBPN1P/PPQ2PP1/R4RK1 w - - 0 14"]
+
+14.Rab1 { (Here white is realizing the standard plan: an attack of the pawn minority. It
+is possible to move the pawns on a side in such positions, when you have an ENOUGH control over the central squares.)}
+Ne4 15.b4 a6 16.a4 Bf5 {
+ (you can see that white certainly doesn't have an advantage in the center,
+however he controls it good enough to prevent the black's attack there.)}
+17.b5 axb5 18.axb5 Ra3 19.Rb3 Rxb3 20.Qxb3 Ng6 21.bxc6 bxc6 22.Ne2
+Qf6 23.Bxe4 dxe4 24.Nd2 Qg5 25.Ng3 Nh4 26.Rc1 h5 27.Rc5 Qg6 28.Qd1
+Qf6 29.Qxh5 g6 30.Qh6 Ra8 31.Ndxe4 Bxe4 32.Nxe4 Nf3+ 33.gxf3
+Qxf3 34.Qh7+ 1-0
+
+[Event "XXI Festival Open A"]
+[Site "?"]
+[Date "2009.08.25"]
+[Round "5"]
+[White "Baklan V"]
+[Black "Naumkin I"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2481"]
+[Annotator ""]
+[Source "The Week in Ches"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r5k1/2pq2pp/p1n2rb1/1p1p2N1/3P2P1/1BP4P/P4P2/R2QR1K1 w - - 0 20"]
+
+20.Re5 { (White is occupying the central square under the control of his pawn)}
+Rd6 ( 20...Nxe5 21.dxe5 Rff8 22.Bxd5+ Kh8 23.Bxa8 $18 ) 21.f4
+h6 22.Nf3 Kh8 23.f5 Bh7 24.Re3 Rf8 25.Qe2 {(and also white is using the central open file)}
+g6 26.Ne5 {(the outpost piece on the e5 and the control over the "e" file gives white a winning position.)}
+Qd8 27.Nf7+ Rxf7 28.Re8+ Kg7 29.Rxd8 Rxd8 30.Rf1 gxf5 31.gxf5
+Bxf5 32.Bxd5 1-0
+
+[Event "ch-RUS HL"]
+[Site "?"]
+[Date "2009.09.02"]
+[Round "1"]
+[White "Motylev A"]
+[Black "Burmakin V"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2599"]
+[Annotator ""]
+[Source "The Week in Ches"]
+[Remark ""]
+[SetUp "1"]
+[FEN "3rrnk1/pp4pp/3qpb2/3p3P/3P4/1PNQ1NP1/P3RP2/4R1K1 w - - 0 22"]
+
+{Almost all the white's pieces are realizing his plan - to put pressure on the
+central line "e" and to occupy the e5 square. Now white only needs to bring his knight c3 to the attack} 22.Nd1
+Qc7 23.Ne3 Qf7 24.h6 gxh6 25.Ng4 {(Now white really got an ideal positions for his pieces)}
+Qg7 26.Nxf6+ Qxf6 27.Re3 Re7 28.Qe2 Rg7 29.Ne5 Rc8 30.Rf3 Qg5
+31.Nd3 Rc3 32.Qb2 Rgc7 33.Qa3 Qg7 34.Qxa7 Rf7 35.Rxf7 Qxf7 36.Nf4
+Rc6 37.Qb8 Qc7 38.Qxf8+ {??} {(this sudden blunder brings white a loss)}
+Kxf8 39.Nxe6+ Rxe6 0-1
+

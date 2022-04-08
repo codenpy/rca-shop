@@ -1,0 +1,350 @@
+[Event "USSR"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Petrosian"]
+[Black "Bannik"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r3r/ppk1b2p/1np2p2/4p1pP/2P1N3/1P2B1P1/P3PP2/2KR3R w - - 0 18"]
+[PlyCount "87"]
+[EventDate "1958.??.??"]
+
+18. Bc5 $1 {Black has a bad bishop and white`s decision looks very illogical
+but Petrosian realised that without the e7-Bishop it will be difficult for
+Black to defend his kingside pawns} Rxd1+ 19. Rxd1 Bxc5 20. Nxc5 Re8 21. Ne4
+Re6 (21... Rf8 22. g4 Nc8 (22... Rf7 23. Rd6) 23. Nc5 Rf7 24. Ne6+) 22. g4 a5
+23. Rd3 Nd7 24. Kc2 b6 25. Rf3 Kd8 26. a3 c5 27. Kc3 Ke7 28. Rd3 Rc6 29. Rd5
+Nf8 30. Ng3 Ne6 31. Nf5+ Ke8 32. e3 Nc7 33. Rd1 Ne6 34. Kd3 Rc7 35. Ke4 Rc6 36.
+Nd6+ Ke7 37. Nf5+ Ke8 38. Nd6+ Ke7 39. Nf5+ Ke8 40. a4 Nd8 41. Nh6 Ne6 (41...
+Re6 42. Kf5 Rc6 43. Ng8) (41... Ke7 42. Ng8+ Ke8 43. Kf5) (41... Nb7 42. Ng8
+Kf8 43. Rd7) 42. Ng8 Nf8 (42... Kf7 43. Rd7+ $1 Kxg8 44. Kd5 $18) 43. Rd2 (43.
+Kf5 $2 Kf7 44. Nh6+ Kg7 45. Rd8 Ne6 46. Re8 Nc7 $19) 43... Kf7 (43... Nd7 44.
+Kf5 Kd8 45. e4 Ke8 46. f3 Kd8 47. Rxd7+ $1 Kxd7 48. Nxf6+ $18) 44. Nh6+ Ke8 45.
+Nf5 Ne6 (45... Nd7 46. Kd5 Nb8 47. Nh6 Kf8 (47... Ke7 48. Ng8+ Kf7 49. Ke4 $1)
+48. Ke4 $1 Ke8 49. Kf5 Nd7 50. Ng8 $18) 46. Rd6 Rxd6 47. Nxd6+ Kd7 48. Nb5 Ng7
+49. h6 Ne8 50. Kd5 f5 51. Kxe5 fxg4 52. Nc3 Ke7 53. Ne4 Kf7 54. Kf5 g3 55. fxg3
+g4 56. Ng5+ Kg8 57. Ke6 Nc7+ 58. Kd7 Na6 59. e4 Nb4 60. e5 Nd3 61. e6 1-0
+
+[Event "World Championship 32th-KK2"]
+[Site "Moscow"]
+[Date "1985.11.05"]
+[Round "22"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2700"]
+[SetUp "1"]
+[FEN "5r1k/pp2r1pp/2p5/1n1p1PP1/3Pn2P/1P1R2N1/P4RBK/8 w - - 0 32"]
+[PlyCount "21"]
+[EventDate "1985.09.03"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{What piece has to take on e4? White gives his bishop as the knight is going
+to be very useful together with white kingside pawns} 32. Bxe4 $1 dxe4 33. Re3
+Nxd4 34. Kh3 $1 Re5 35. Kg4 $16 h5+ 36. Kxh5 Nxf5 37. Rxf5 Rfxf5 38. Nxf5 Rxf5
+39. Rxe4 Kh7 40. Re7 b5 41. Rxa7 b4 42. Kg4 1-0
+
+[Event "URS-ch53"]
+[Site "Kiev"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gavrikov, Viktor"]
+[Black "Yakovich, Yuri"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2480"]
+[Annotator "SMK"]
+[SetUp "1"]
+[FEN "5r1k/6pp/1p6/p7/P7/2P3P1/7P/1R4K1 b - - 0 54"]
+[PlyCount "12"]
+[EventDate "1986.04.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+54... Rf6 $4 {This obvious move turns out to be a losing one} ({necessary was} 
+54... Rc8 55. Rxb6 h6 {and in this endgame with one pawn down Black should
+have no problems making a draw}) 55. Rf1 $1 {suddenly white is transferring
+the game into a winning pawn endgame} Kg8 56. Rxf6 gxf6 57. Kf2 Kf7 58. Ke3 Ke6
+59. Kd4 Kf5 60. Kd5 1-0
+
+[Event "URS-ch39"]
+[Site "Leningrad"]
+[Date "1971.10.10"]
+[Round "17"]
+[White "Shamkovich, Leonid"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2520"]
+[BlackElo "2540"]
+[SetUp "1"]
+[FEN "1r3rk1/1b3pbp/pp4p1/1qn5/3BPQ2/1B3N2/P4PPP/2R2RK1 b - - 0 24"]
+[PlyCount "53"]
+[EventDate "1971.09.15"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{some exchanges are inevitable, both sides have to decide what pieces they`d
+like to be exchanged} 24... Bxd4 $1 (24... Nxb3 25. axb3 Qxb3 26. Bxg7 Kxg7 27.
+Rc7 {White has a compensation for the pawn}) 25. Nxd4 Qe8 {
+pawn e4 is attacked, Nc5-d3 is threatening...} 26. Bd5 Nd3 27. Qf6 Qd8 (27...
+Nxc1 $2 28. Nf5 gxf5 29. Qg5+ $11) 28. Qxd8 Rfxd8 29. Rcd1 (29. Bxb7 Nxc1 30.
+Nc6 Rxb7 31. Nxd8 Rc7 $17) 29... Nf4 30. Nc6 Bxc6 31. Bxc6 Ne2+ 32. Kh1 Nc3 33.
+Rxd8+ Rxd8 {in this endgame Black has an advantage} 34. Bd5 Kf8 35. g3 Nxd5 36.
+Rd1 Ke7 37. exd5 Rc8 38. Rd2 Kd6 39. a4 Rc5 40. Rb2 b5 41. axb5 axb5 42. Kg2
+Kxd5 43. Rb4 Kc6 44. Kf3 Rc4 45. Rb1 b4 46. Ke3 Kb5 47. f4 f5 48. Kd2 Rc6 49.
+Kd3 Ka4 50. Ra1+ Kb3 0-1
+
+[Event "Semmering/Baden"]
+[Site "Semmering"]
+[Date "1937.??.??"]
+[Round "6"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2r5/p6p/3nkpp1/Pp2p3/1P1nP3/3K2P1/3NNP1P/2R5 b - - 0 37"]
+[PlyCount "41"]
+[EventDate "1937.09.08"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+37... Nc6 $1 {Black should not exchange the rooks. Instead, he can tight up
+white rook to the defence of the b4-pawn.} 38. Rb1 Rd8 39. Kc3 f5 40. exf5+
+gxf5 41. f3 Rc8 $17 42. Kd3 Ne8 43. Nc3 Nf6 44. Rb2 a6 45. g4 e4+ 46. fxe4 Ne5+
+47. Kc2 fxg4 48. Kb3 Nc4 49. Nxc4 Rxc4 50. Re2 Ke5 51. Re1 h5 52. Rd1 h4 53.
+Rd8 g3 54. hxg3 hxg3 55. Rd3 g2 56. Ne2 Rxe4 57. Ng1 Re1 0-1
+
+[Event "URS-ch19"]
+[Site "Moscow"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/p5pk/1pp2pbp/8/2PB1Q2/1P3BPP/P1n2P1K/4q3 b - - 0 33"]
+[PlyCount "39"]
+[EventDate "1951.??.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{Black has some attacking prospects but it`s easier to tranfer the game into
+an easily winning bishop endgame} 33... c5 34. Be3 Nxe3 35. Qxe3 Qxe3 36. fxe3
+Bb1 37. a3 a5 38. Bd1 Kg6 39. Kg2 Kf5 40. Kf3 Ke5 41. a4 g5 42. Ke2 Bf5 43. g4
+Bb1 44. Kf3 f5 45. gxf5 Kxf5 46. Kf2 Be4 47. Kg3 Kg6 48. Kf2 h5 49. Kg3 h4+ 50.
+Kf2 Bf5 51. Kg2 Kf6 52. Kh2 Ke6 0-1
+
+[Event "Candidates qf3"]
+[Site "Vancouver"]
+[Date "1971.05.25"]
+[Round "4"]
+[White "Fischer, Robert James"]
+[Black "Taimanov, Mark E"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2620"]
+[SetUp "1"]
+[FEN "3k4/8/1pnr2p1/pBp2p1p/P4P1P/2P1R1P1/1P2K3/8 w - - 0 43"]
+[PlyCount "57"]
+[EventDate "1971.05.16"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+43. Rd3 {Otherwise it`s difficult to make a progress} Kc7 44. Rxd6 Kxd6 45. Kd3
+Ne7 46. Be8 Kd5 47. Bf7+ Kd6 48. Kc4 {and now we have this famous endgame} Kc6
+49. Be8+ Kb7 50. Kb5 Nc8 51. Bc6+ Kc7 52. Bd5 Ne7 53. Bf7 Kb7 54. Bb3 Ka7 55.
+Bd1 Kb7 56. Bf3+ Kc7 57. Ka6 Nc8 58. Bd5 Ne7 59. Bc4 Nc6 60. Bf7 Ne7 61. Be8
+Kd8 62. Bxg6 Nxg6 63. Kxb6 Kd7 64. Kxc5 Ne7 65. b4 axb4 66. cxb4 Nc8 67. a5 Nd6
+68. b5 Ne4+ 69. Kb6 Kc8 70. Kc6 Kb8 71. b6 1-0
+
+[Event "HUN-RSFSR"]
+[Site "Budapest"]
+[Date "1963.04.24"]
+[Round "3.1"]
+[White "Portisch, Lajos"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqr1k1/1p3ppp/1bp2n2/2N5/1Pn1PP2/pNB3P1/P1Q3BP/4RRK1 b - - 0 21"]
+[PlyCount "65"]
+[EventDate "1963.??.??"]
+[Source "ChessBase"]
+[SourceDate "2002.11.25"]
+
+21... Nb2 $1 {white bishop on c3 is important here and Black wouldn`t mind to
+exchange it even with the loss of a pawn. In return Black would get 2 bishops
+and the open "a" file} 22. Kh1 (22. Bxb2 axb2 23. Qxb2 Be6 $44) 22... Bxc5 23.
+bxc5 Qd3 24. Rf2 (24. Qxd3 Nxd3 25. Re3 Nb2 {/\Nd5 and Black has counterplay})
+24... Ng4 25. Rd2 Qxc2 26. Rxc2 Nd3 27. Ree2 Be6 $36 28. Na5 Nxc5 29. h3 Nf6
+30. Bxf6 Rxa5 31. Bd4 Na6 32. f5 Ra4 33. fxe6 Rxd4 34. exf7+ Kxf7 35. Rc3 Red8
+36. Rxa3 Rd3 37. Rxd3 Rxd3 38. Kh2 Ke6 39. e5 Ra3 40. Be4 g6 41. Bc2 Nc5 42.
+Kg2 Ke7 43. Bd1 Nd3 44. Bb3 Nc1 45. Re3 h6 46. h4 Nxb3 47. axb3 Ke6 48. Kf3 Ra5
+49. Kf4 Rb5 50. Re4 c5 51. Re3 Rb4+ 52. Kf3 Rd4 53. g4 g5 0-1
+
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1979.04.13"]
+[Round "3"]
+[White "Portisch, Lajos"]
+[Black "Huebner, Robert"]
+[Result "1-0"]
+[WhiteElo "2640"]
+[BlackElo "2595"]
+[SetUp "1"]
+[FEN "2r1kb1r/1p4pp/p1q2p2/4p3/3QP3/4BP2/PP3P1P/3R1RK1 w k e6 0 16"]
+[PlyCount "47"]
+[EventDate "1979.04.??"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+16. Qa7 $3 {white is trying to keep the initiative and with his next move he
+is intending to exchange one of black active pieces - the rook on c8.} Be7 17.
+Rc1 Qd7 18. Rxc8+ Qxc8 19. Rc1 Qd7 20. Qa8+ Bd8 21. Rc8 Kf7 (21... O-O 22. Bc5
+Re8 23. Bb6 $18) 22. Bb6 Bxb6 23. Rxh8 Kg6 (23... Bxf2+ 24. Kg2) 24. Qe8+ $18
+Qxe8 25. Rxe8 Bd4 26. b4 Bc3 27. a3 Bb2 28. a4 Ba3 29. Rb8 Bxb4 30. Rxb7 Bc3
+31. Kf1 h5 32. Ke2 a5 33. f4 exf4 34. Kf3 f5 35. Rb6+ Kg5 36. Rb5 g6 37. e5 Bd2
+38. h4+ Kh6 39. Rb7 1-0
+
+[Event "Candidates final"]
+[Site "Buenos Aires"]
+[Date "1971.10.19"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2640"]
+[SetUp "1"]
+[FEN "r4k2/r2b1ppp/p4n2/2NpR3/1P6/3B1P2/P5PP/R5K1 w - - 0 22"]
+[PlyCount "25"]
+[EventDate "1971.09.30"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+22. Nxd7+ $1 {White is better and this exchange here is certainly not the only
+move but it`s very impressive to see Fischer exchanging his beautiful knight
+for the seemingly useless bishop on d7. The reason can be is that after 22.a4
+Bc6 Black can play Nd7 next} Rxd7 23. Rc1 {
+whie gets an open file and Black has to remain passiv} Rd6 24. Rc7 $16 Nd7 25.
+Re2 g6 26. Kf2 h5 27. f4 h4 28. Kf3 f5 29. Ke3 d4+ 30. Kd2 Nb6 31. Ree7 Nd5 32.
+Rf7+ Ke8 33. Rb7 Nxf4 34. Bc4 1-0
+
+[Event "Leipzig ol (Men) fin-A"]
+[Site "Leipzig"]
+[Date "1960.11.03"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5b1r/p2rk1pp/4pp2/1R6/8/2P1BP2/P3KP1P/7R w - - 0 19"]
+[PlyCount "35"]
+[EventDate "1960.10.28"]
+[Source "ChessBase"]
+[SourceDate "1998.11.10"]
+
+{Black wasn`t able to finish his development and White exchanges his Black`s
+only active piece} 19. Rd1 $1 Rxd1 20. Kxd1 Kd7 21. Rb8 Kc6 22. Bxa7 g5 23. a4
+Bg7 24. Rb6+ Kd5 25. Rb7 Bf8 26. Rb8 Bg7 27. Rb5+ Kc6 28. Rb6+ Kd5 29. a5 f5
+30. Bb8 Rc8 31. a6 Rxc3 32. Rb5+ Kc4 33. Rb7 Bd4 34. Rc7+ Kd3 35. Rxc3+ Kxc3
+36. Be5 1-0
+
+[Event "World Championship 32th-KK2"]
+[Site "Moscow"]
+[Date "1985.09.03"]
+[Round "1"]
+[White "Kasparov, Garry"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2720"]
+[SetUp "1"]
+[FEN "1rbrn3/p2pkppp/1p1Np3/2P5/1RPP4/6P1/P3KPBP/7R w - - 0 20"]
+[PlyCount "45"]
+[EventDate "1985.09.03"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+{white has to decide what to do with his knight} 20. Nxe8 $6 ({better was} 20.
+Nxc8+ Rbxc8 21. cxb6 axb6 22. Kd3 Nd6 23. Rc1 Rb8 24. a4 $16) 20... Kxe8 $6 (
+20... Rxe8 21. Rhb1 Bb7 22. d5 exd5 23. cxd5 Kf8+ 24. Kd2 Ra8 $1 {
+with good drawing chances}) 21. Rhb1 Ba6 22. Ke3 d5 23. cxd6 Rbc8 24. Kd3 (24.
+Ra4 $1 Bxc4 25. Bb7 b5 26. d7+ $3 $18) 24... Rxd6 25. Ra4 b5 26. cxb5 Rb8 27.
+Rab4 Bb7 28. Bxb7 Rxb7 29. a4 Ke7 30. h4 h6 31. f3 Rd5 32. Rc1 Rbd7 33. a5 g5
+34. hxg5 Rxg5 35. g4 h5 36. b6 axb6 37. axb6 Rb7 38. Rc5 f5 39. gxh5 Rxh5 40.
+Kc4 Rh8 41. Kb5 Ra8 42. Rbc4 1-0
+
+[Event "New York National"]
+[Site "New York"]
+[Date "1913.??.??"]
+[Round "7"]
+[White "Kline, Harry P"]
+[Black "Capablanca, Jose Raul"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3p2/2p2qn1/4p1p1/4PnPp/2PBNP2/PPQ2R1P/R3N2K b - - 0 23"]
+[PlyCount "57"]
+[EventDate "1913.01.19"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+23... Nxd3 $1 {A very original move. Capablanca is giving up his wonderful
+knight for the bad bishop, for the reason that if the white bishop stays alive
+then from f1 it will be controlling the f4-knight. Besides, Black wants to
+create an active play on the queenside where he is hoping that his bishop is
+going to be more useful than white knight} 24. Nxd3 Be6 25. Rd1 Red8 26. b3 Nf4
+27. Ng2 Nxd3 28. Rxd3 Rxd3 29. Qxd3 Rd8 30. Qe2 h3 31. Ne3 a5 32. Rf1 a4 33. c4
+Rd4 $17 34. Nc2 Rd7 35. Ne3 Qd8 36. Rd1 Rxd1+ 37. Nxd1 Qd4 38. Nf2 b5 {
+now it`s obvious that black bishop is much stronger than the white knight} 39.
+cxb5 axb3 40. axb3 Bxb3 41. Nxh3 Bd1 42. Qf1 cxb5 43. Kg2 b4 44. Qb5 b3 45.
+Qe8+ Kg7 46. Qe7 b2 47. Nxg5 Bb3 48. Nxf7 Bxf7 49. Qg5+ Kf8 50. Qh6+ Ke7 51.
+Qg5+ Ke8 0-1
+
+[Event "Puerto Madryn"]
+[Site "Puerto Madryn"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Miles, Anthony J"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1-0"]
+[WhiteElo "2220"]
+[BlackElo "2590"]
+[SetUp "1"]
+[FEN "r2r2k1/p1R3pp/p1n1pp2/3B4/8/6P1/1P2PP1P/2R3K1 b - - 0 23"]
+[PlyCount "64"]
+[EventDate "1980.??.??"]
+[Source "ChessBase"]
+[SourceDate "2009.11.30"]
+
+23... Nd4 $2 ({it was important to get rid of white bishop} 23... exd5 24.
+R1xc6 Rf8 (24... a5 25. Ra6 Rdb8 26. Rxa5 Rxb2 27. Rxd5 $16) 25. Rxa6 Rf7 {
+and Black should be able to make a draw}) 24. Bc4 $1 Rd6 25. Kg2 Kf8 26. Rd1
+Rb8 27. b3 {White is going to win the pawn back and keep the initiative.
+Bishop is clearly better than the knight here} Rbd8 28. Rxa7 Nb5 29. Rxd6 Rxd6
+30. Rb7 $16 Nc3 31. Kf3 h6 32. g4 Nd5 33. h4 Nc3 34. h5 Nd5 35. Bd3 Ne7 36. Kg3
+Nd5 37. f3 a5 38. Bg6 Rb6 39. Rf7+ Kg8 40. Ra7 Kf8 41. e4 Nb4 42. e5 Nd5 43.
+Ra8+ Ke7 44. Rg8 fxe5 45. g5 hxg5 46. Rxg7+ Kf8 47. h6 Ne7 48. Rf7+ Ke8 49. Bh5
+Kd7 50. h7 Rb8 51. Kg4 Kd6 52. Kxg5 Nf5 53. Bg6 Nd4 54. Be4 Nxb3 55. Rb7 1-0
+
+[Event "Hastings 3637"]
+[Site "Hastings"]
+[Date "1936.??.??"]
+[Round "4"]
+[White "Fine, Reuben"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1rb2rk1/ppq2ppp/4pn2/2p5/2PP4/5N2/PPBRQPPP/3R2K1 w - - 0 17"]
+[PlyCount "33"]
+[EventDate "1936.12.??"]
+
+17. Qe5 $1 {Forcing the queen exchange White achieves several goals: opens the
+d-file, removes the defender of the d6 and d8-squares (black queen) and
+secures d6 and f6 squares for the white knight} Qxe5 18. dxe5 Ne8 19. Ng5 $18
+g6 20. Rd8 b5 21. cxb5 Nc7 22. Ne4 Nd5 23. Nf6+ Kg7 24. Rxf8 Kxf8 25. Nxd5 exd5
+26. Rxd5 Be6 27. Rxc5 Bxa2 28. b3 Ke8 29. Kf1 Kd7 30. Ke1 Rb6 31. Kd2 a6 32.
+bxa6 Rxa6 33. Kc3 1-0
+

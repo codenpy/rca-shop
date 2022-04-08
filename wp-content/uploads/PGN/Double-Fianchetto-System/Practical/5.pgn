@@ -1,0 +1,14 @@
+﻿[Event "Jornal do Solucionismo"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "STOJNIC Dragan"]
+[Black "#2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/n2Rbb2/2Q3p1/1NP1pP1B/K1kN4/pRp3p1/1qP1PB2/6n1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2000.??.??"]
+
+1. Qe4 Nh3 2. Ne6# 1-0
+

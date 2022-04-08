@@ -1,0 +1,14 @@
+﻿[Event "The Problemist"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "STOJNIC Dragan"]
+[Black "#2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "RR6/1B2p3/4p3/1NP1P3/8/1k1N4/1B2p3/3bK3 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2001.??.??"]
+
+1. Be4 Bc2 2. Nd6# 1-0
+

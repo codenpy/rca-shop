@@ -1,0 +1,265 @@
+[Event "1st SCS GM Open"]
+[Site "Bhubaneswar IND"]
+[Date "2009.06.14"]
+[Round "10"]
+[White "Tiviakov, S."]
+[Black "Mohammed, Ab"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2697"]
+[BlackElo "1591"]
+[Annotator "RCA"]
+[PlyCount "53"]
+[EventDate "2009.06.07"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bh4 g5 7. Bg3 Nh5 8. O-O-O
+Nd7 9. e5 Nxg3 10. hxg3 dxe5 11. dxe5 Bxe5 12. f4 gxf4 13. gxf4 Bg7 14. Rh3 c6
+15. Rg3 Bf6 (15... Rg8 16. Nf3 Qc7 17. Ne4 Nb6 18. Ne5 Nd5 19. c4 $36) 16. Ne4
+Qb6 17. Rb3 Qc7 18. Nh3 Bg7 19. Rg3 Kf8 20. Nc5 Qd6 21. Qb4 Nxc5 22. Rxd6 exd6
+23. Nf2 Rg8 24. Re3 a5 25. Qb6 Bd4 26. Qd8+ Kg7 27. Rg3+ 1-0
+
+[Event "Frankfurt-West Masters"]
+[Site "Frankfurt GER"]
+[Date "1999.06.30"]
+[Round "7"]
+[White "Leko, P."]
+[Black "Topalov, V."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2694"]
+[BlackElo "2700"]
+[Annotator "RCA"]
+[PlyCount "79"]
+[EventDate "1999.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bh4 g5 7. Bg3 Nh5 8. O-O-O
+Nc6 9. Qe3 Bd7 10. Nge2 e6 11. h4 Qe7 12. Bh2 gxh4 13. Bg1 O-O-O 14. g4 Nf6 15.
+f3 Nh7 16. Bf2 e5 17. d5 (17. Bxh4 Ng5 18. d5 Nb8 (18... Nd4 $6 19. Nxd4 exd4
+20. Rxd4 Bxd4 21. Qxd4 b6 22. f4 $16) 19. Ng3 $40) 17... Nd4 18. Nxd4 exd4 19.
+Rxd4 Bxd4 20. Qxd4 b6 21. Nb5 (21. Bxh4 $1 f6 22. Bf2 Ng5 23. f4 Nf7 24. Bh4
+$40) 21... Kb7 22. Qc3 Rc8 23. Nd4 Qf6 24. Qd3 Ka8 25. Bxh4 Qf4+ 26. Kb1 Nf8
+27. Qc3 Ng6 28. Ba6 Nxh4 29. Bxc8 Rxc8 30. Rxh4 Kb7 31. a3 Rg8 32. Ne2 Qg5 33.
+Rh5 Qe7 34. Rxh6 f5 35. gxf5 Bxf5 36. Nd4 Bd7 37. Ne6 Bc8 38. f4 Rg4 39. Qc6+
+Kb8 40. Rh8 1-0
+
+[Event "Olympiad"]
+[Site "Bled SLO"]
+[Date "2002.10.26"]
+[Round "1"]
+[White "Smirin, I."]
+[Black "Georgiev, Ves"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2683"]
+[BlackElo "2310"]
+[Annotator "RCA"]
+[PlyCount "75"]
+[EventDate "2002.10.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 c6 6. f4 h6 7. Bh4 Nh5 8. O-O-O
+Nxf4 9. Qxf4 g5 10. Qg3 Bf6 11. Bxg5 hxg5 (11... Bxg5+ 12. Kb1 b5 (12... Qc7
+13. e5 dxe5 14. dxe5 $18) 13. h4 Bf6 14. e5 $16) 12. e5 (12. Nf3 $5 g4 13. e5
+Bg7 14. Kb1 b5 15. Ng5 $16) 12... Bg7 13. Bc4 (13. Nf3 $5) 13... d5 14. Bd3 Qb6
+15. Nge2 Na6 16. Kb1 Nb4 17. Qxg5 Bh6 18. Qg3 (18. Qh5 $1 Nxd3 19. Rxd3 Bg7 20.
+Qf3 $16) 18... Nxd3 19. Rxd3 Bf5 20. Rf3 e6 21. Qf2 Bg6 22. Nf4 Bxf4 23. Rxf4
+O-O-O 24. h4 Kb8 25. g4 c5 26. dxc5 Qc7 27. Re1 d4 28. Rxd4 Rxd4 29. Qxd4 Rxh4
+30. Nb5 Qe7 31. Rd1 Rh8 32. b4 a6 33. Nd6 Qc7 34. Nc4 Rh2 35. Rd2 Rh1+ 36. Kb2
+Re1 37. Nb6 Ka7 38. Qd6 1-0
+
+[Event "Ordix Open"]
+[Site "Frankfurt GER"]
+[Date "2000.06.18"]
+[Round "10"]
+[White "Dreev, A."]
+[Black "Beim, V."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2680"]
+[BlackElo "2563"]
+[Annotator "RCA"]
+[PlyCount "47"]
+[EventDate "2000.06.16"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 h6 6. Bh4 Nbd7 7. Qd2 $6 (7. e5
+$1 Nh7 (7... dxe5 8. dxe5 Nh5 9. Qf3 Nxf4 10. Qxf4 g5 11. Qe4 gxh4 12. O-O-O
+$36) 8. Bf2 O-O 9. Qd2 c5 10. exd6 cxd4 11. Bxd4 $14) 7... c5 8. d5 a6 9. Nf3
+b5 10. e5 b4 11. Na4 dxe5 12. fxe5 Ng4 13. e6 fxe6 14. dxe6 Nde5 15. Qxd8+ Kxd8
+16. O-O-O+ Kc7 17. Nxc5 g5 18. Bg3 Kc6 19. Nb3 Nxf3 20. gxf3 Ne3 21. Na5+ Kb6
+22. Nc4+ Nxc4 23. Bxc4 Kc5 24. Bd5 1-0
+
+[Event "1st European Rapid Ch"]
+[Site "Neum BIH"]
+[Date "2000.10.02"]
+[Round "3"]
+[White "Dreev, A."]
+[Black "Gofshtein, L."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2676"]
+[BlackElo "2561"]
+[Annotator "RCA"]
+[PlyCount "71"]
+[EventDate "2000.10.02"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Bg5 Nbd7 5. f4 h6 6. Bh4 c5 $6 7. dxc5 (7. e5
+$1 Nh5 8. exd6 Nxf4 9. dxc5 $16) 7... Nxc5 8. e5 (8. Bxf6 $5 exf6 9. Qd4 $14)
+8... Ng4 $4 9. Bb5+ Bd7 10. Qxg4 $18 Bxb5 11. Nxb5 Qb6 12. Qe2 a6 13. Nd4 Qxb2
+14. Rd1 g5 15. Bf2 O-O-O 16. exd6 Rxd6 17. Qc4 b6 18. Nge2 e6 19. O-O Kb7 20.
+fxg5 hxg5 21. Nb3 Nxb3 22. Qe4+ Ka7 23. axb3 f5 24. Qe3 f4 25. Qc3 Qxc3 26.
+Nxc3 Kb7 27. Ne4 Rxd1 28. Rxd1 Kc6 29. Nxg5 e5 30. Nf7 Rh5 31. Nd8+ Kb5 32. Ne6
+Be7 33. Rd7 Ba3 34. Rb7 Rh6 35. Rxb6+ Ka5 36. c3 1-0
+
+[Event "Dutch Open"]
+[Site "Dieren NED"]
+[Date "2006.07.28"]
+[Round "4"]
+[White "Tiviakov, S."]
+[Black "Hendriks, W."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2668"]
+[BlackElo "2426"]
+[Annotator "RCA"]
+[PlyCount "47"]
+[EventDate "2006.07.25"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bh4 g5 7. Bg3 Nh5 8. Bc4 (
+8. Be2 $5 Nxg3 9. hxg3 c6 10. O-O-O b5 11. f4 $36) 8... Nc6 9. Nge2 e6 10.
+O-O-O Bd7 11. a3 a6 12. Ba2 Qe7 13. Qe3 Na7 14. e5 Nxg3 15. Nxg3 d5 16. Nh5 (
+16. Bxd5 $1 exd5 17. Nxd5 Qd8 18. Nh5 Kf8 19. Ndf6 Bxf6 20. Nxf6 Nc8 21. h4 g4
+22. d5 $18) 16... Qf8 17. f4 O-O-O 18. f5 exf5 19. Nxd5 Nc6 20. Ndf6 Bxf6 21.
+Nxf6 Qe7 22. Rhe1 f4 23. Qc3 Bf5 24. d5 1-0
+
+[Event "34th Olympiad"]
+[Site "Istanbul TUR"]
+[Date "2000.10.28"]
+[Round "1"]
+[White "Almasi, Z."]
+[Black "Moussa, O."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2668"]
+[Annotator "RCA"]
+[PlyCount "66"]
+[EventDate "2000.10.28"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 b5 6. Bd3 Nbd7 7. f4 Bg7 8. Nf3
+b4 9. Nd1 Qb6 10. Nf2 O-O 11. O-O e5 12. c3 Re8 13. Kh1 bxc3 14. bxc3 Qa5 15.
+fxe5 dxe5 16. Bxf6 Bxf6 17. Ng4 exd4 18. Qf4 Bg7 19. cxd4 Ba6 20. Bxa6 Qxa6 21.
+e5 f5 22. exf6 Rf8 23. Qd6 Nxf6 24. Qe6+ Kh8 25. Nge5 Nd5 26. Nf7+ Rxf7 27.
+Qxf7 Rf8 28. Qd7 Ne3 29. Rf2 Qd3 30. Ne5 Qc3 31. Rxf8+ Bxf8 32. Rg1 Nf5 33. Qf7
+Ne7 1-0
+
+[Event "Aiacciu Masters"]
+[Site "Ajaccio FRA"]
+[Date "2004.10.25"]
+[Round "?"]
+[White "Motylev, A."]
+[Black "Klimova, M."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2651"]
+[BlackElo "1927"]
+[Annotator "RCA"]
+[PlyCount "63"]
+[EventDate "2004.10.25"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 c6 6. O-O-O O-O 7. f3 b5 8. Kb1
+b4 9. Nce2 a5 10. h4 h5 11. Bh6 (11. Nf4 $5 Nh7 12. Bc4 Nxg5 13. hxg5 e6 14. g4
+$36) 11... Nbd7 (11... Bxh6 $5 12. Qxh6 a4 13. Nh3 b3 14. cxb3 axb3 15. a3 $13)
+12. g4 e5 (12... hxg4 13. h5 gxf3 14. Nxf3 Nxe4 15. Qe3 Ndf6 16. hxg6 fxg6 17.
+Bxg7 Kxg7 18. Qh6+ Kf7 19. Nf4 Bf5 20. Bc4+ $16) 13. Ng3 exd4 14. Bxg7 Kxg7 15.
+Qxd4 hxg4 16. Qxd6 Qb6 17. h5 Qc5 18. hxg6 fxg6 19. Qf4 Nh5 20. Qxg4 Nxg3 21.
+Qxg3 Nf6 22. Ne2 Nh5 23. Qg2 Be6 24. Nd4 Rae8 25. Nf5+ Bxf5 26. Rxh5 Rh8 27.
+Rxh8 Qd5 28. exd5 Be6 29. Rf8 Bg8 30. a3 bxa3 31. dxc6 axb2 32. c7 1-0
+
+[Event "IV Open"]
+[Site "Sanxenxo ESP"]
+[Date "2007.06.16"]
+[Round "1"]
+[White "Gashimov, V."]
+[Black "Moran Llera, J."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2644"]
+[BlackElo "1976"]
+[Annotator "RCA"]
+[PlyCount "71"]
+[EventDate "2007.06.16"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 dxe5 6. dxe5 Nfd7 7. Nd5 Nc6 8.
+Bb5 f6 9. exf6 exf6 10. Bf4 Nce5 11. Bxe5 fxe5 12. Ne3 O-O 13. Ne2 c6 14. Bc4+
+Kh8 15. O-O Qb6 16. Bb3 Nf6 17. Nc4 Qc7 18. Qd6 Qxd6 19. Nxd6 h6 20. Nc3 b5 21.
+Nf7+ Kh7 22. Nxe5 b4 23. Na4 Ne4 24. Nxc6 Nd2 25. Rfe1 Nxb3 26. axb3 a5 27. Nc5
+Bxb2 28. Rxa5 Rxa5 29. Nxa5 Bd4 30. Nd3 Ba6 31. Nc6 Bb6 32. Ncxb4 Bxd3 33. Nxd3
+h5 34. g3 g5 35. Re7+ Kg8 36. Re5 1-0
+
+[Event "ch-GBR"]
+[Site "Millfield ENG"]
+[Date "2000.08.03"]
+[Round "4"]
+[White "Hodgson, Ju"]
+[Black "Lilley, G."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2640"]
+[BlackElo "2224"]
+[Annotator "RCA"]
+[PlyCount "65"]
+[EventDate "2000.07.03"]
+
+1. d4 g6 2. e4 d6 3. Nc3 Nf6 4. Bg5 Bg7 5. f4 h6 6. Bh4 c5 7. e5 Nh5 8. dxc5
+dxe5 9. Qxd8+ Kxd8 10. O-O-O+ Bd7 11. fxe5 Bxe5 12. Nd5 g5 13. Be1 Nc6 14. Nf3
+Bg7 15. Bb5 e6 16. Bxc6 bxc6 17. Ba5+ Ke8 18. Nc7+ Ke7 19. Nxa8 Rxa8 20. Bc7
+Nf4 21. Bd6+ Ke8 22. h4 f6 23. hxg5 fxg5 24. Be5 Bf8 25. Bxf4 gxf4 26. Ne5 Bc8
+27. Rd6 Rb8 28. Rxc6 Bd7 29. Rc7 Bb5 30. c4 Kd8 31. Rf7 Bxc5 32. cxb5 Rxb5 33.
+Rxh6 1-0
+
+[Event "5th Open"]
+[Site "Dubai UAE"]
+[Date "2003.04.26"]
+[Round "7"]
+[White "Motylev, A."]
+[Black "Sturua, Z."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2634"]
+[BlackElo "2545"]
+[Annotator "RCA"]
+[PlyCount "121"]
+[EventDate "2003.04.20"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 O-O 6. O-O-O c6 7. Kb1 (7. e5 $5
+) 7... b5 8. f3 Nbd7 9. e5 Ne8 10. h4 f6 11. exf6 exf6 12. Be3 d5 13. h5 Rf7
+14. hxg6 hxg6 15. g4 Nf8 16. Nh3 Re7 17. Nf4 Nc7 18. Bd3 Qe8 19. Rde1 a5 20.
+Bxb5 cxb5 21. Nfxd5 Nxd5 22. Nxd5 Rb7 23. Bh6 Qd8 24. Bxg7 Rxg7 25. Re8 Qxd5
+26. Rh8+ Kxh8 27. Rxf8+ Qg8 28. Qh6+ Rh7 29. Rxg8+ Kxg8 30. Qxg6+ Kh8 31. Qxf6+
+Rg7 32. Qf8+ Kh7 33. a3 Bb7 34. Qf5+ Kg8 35. f4 Rd8 36. Qe6+ Kh7 37. Qe5 Rd5
+38. Qe4+ Kg8 39. f5 Rf7 40. Qe6 Rxd4 41. Qe8+ Rf8 42. Qe6+ Rf7 43. Qe8+ Rf8 44.
+Qg6+ Kh8 45. Qh5+ Kg8 46. Qg5+ Kh8 47. Qe7 Rd1+ 48. Ka2 Rf7 49. Qe8+ Kg7 50.
+Qe5+ Kg8 51. Qxb5 Bd5+ 52. c4 Bf3 53. Qe8+ Rf8 54. Qg6+ Kh8 55. Qh5+ Kg8 56.
+Qg5+ Kh8 57. Qe3 Bh1 58. Qh6+ Kg8 59. Qg6+ Kh8 60. f6 Rd7 61. Qh6+ 1-0
+
+[Event "Commonwealth-ch"]
+[Site "Mumbai"]
+[Date "2004.01.14"]
+[Round "5"]
+[White "Sharma, Dinesh Kumar"]
+[Black "Yogesh, Gore"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2373"]
+[BlackElo "2268"]
+[Annotator "RCA"]
+[PlyCount "47"]
+[EventDate "2004.01.10"]
+[EventRounds "9"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2005.11.24"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Nbd7 5. f4 h6 6. Bh4 c5 7. e5 Nh5 8. exd6
+Ndf6 9. dxc5 exd6 10. Bb5+ Bd7 11. Qe2+ Qe7 12. Bxd7+ Kxd7 13. O-O-O Qxe2 14.
+Ngxe2 Rc8 15. cxd6 Rc6 16. Nd4 Ra6 17. Ndb5 Ne8 18. Rhe1 Nhg7 19. Ne4 b6 20.
+Nf6+ Nxf6 21. Bxf6 Rg8 22. Re7+ Bxe7 23. dxe7+ Ke6 24. Rd6+ 1-0
+

@@ -1,0 +1,122 @@
+[Event "?"]
+[Site "?"]
+[Date "2012.09.21"]
+[Round "?"]
+[White "Winawer variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "C19"]
+[Annotator "RCA"]
+[PlyCount "25"]
+[EventDate "2012.??.??"]
+[SourceDate "2012.09.21"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 {This is probably the main line in the French
+Defence. The idea of Black's last move is to attack indirectly the e4 pawn,
+forcing White to make a decision.} 4. e5 {Seizing space} c5 {This is the
+typical rupture of the French Defence, attacking the d4 pawn which is the
+defender of the e5 pawn.} (4... b6 {With the idea of exchanging the bad bishop.
+This move is very interesting.} 5. Qg4 {A natural and typical move here. When
+the bishop comes out first before the knight, this move is typical in many
+openings. Attacking g7, White forces Black to take an important decision.} Bf8
+{For me, this is the best for Black. 5... g6 weakens the dark squares very
+much. And 5... Kf8 interrupts the coordination of the pieces and also loses
+the possibility of castling.} 6. Bg5 {Attacking move! Also following the
+principle of maximum activity.} Qd7 (6... Ne7 {Isn't very good due to...} 7.
+Bxe7 {And Black has no good answer...} Kxe7 (7... Qxe7 8. Nxd5) 8. Nf3) 7.
+O-O-O h6 8. Be3 Ne7 9. Kb1 {It's definitely more accurate than Bd3, because
+White can win a tempo exchanging directly on a6.} Ba6 10. Bxa6 Nxa6 11. Qe2 {
+The queen is doing nothing on g4 and White's plan is to push the king side
+pawns.} Nb8 12. g4 $5 {Seizing space on the king side and preparing f4-f5
+looks promising for White.}) (4... Ne7 5. a3 Bxc3+ 6. bxc3 b6 {With the idea
+of exchanging the light-squared bishops.} (6... c5 {Transpose to the main line.
+}) 7. Qg4 Ng6 8. h4 h5 9. Qd1 {The idea of Qd1 is to keep an eye on the h5
+pawn.} Ba6 10. Bxa6 Nxa6 11. Bg5 {Maximum activity and attack...} Qd7 12. Ne2 {
+Threatening Ng3.} Qc6 13. O-O Ne7 14. a4 {This position is favourable to White.
+Black's position is planless and with the king in the centre things shouldn't
+be comfortable for him.}) 5. a3 {Attacking the bishop, forcing Black into a
+decision.} Bxc3+ (5... Ba5 {It's a complicated and not very popular variation,
+but I think it's very important to study it.} 6. b4 $1 {This move has the idea
+of unpinning the knight and playing Nb5.} cxd4 7. Nb5 {Threatening Nd6+.} Bc7
+8. f4 {Defending e5...} Ne7 (8... Bd7 9. Nxc7+ Qxc7 10. Nf3 Ba4 11. Bd3 {It's
+very similar to the main line.}) (8... Nc6 {This move has the problem that
+sometimes Black wants to make the manoeuvre Bd7-a4 and this move interrupts
+the e8-a4 diagonal.} 9. Nf3 Bb8 $5 {The main idea of Nc6.} 10. Bb2 Nge7 11.
+Nbxd4 {And White has a solid advantage.}) 9. Nf3 {Following the principle of
+least active piece and maximum activity.} Bd7 10. Nxc7+ $1 {This bishop is a
+very important piece for Black, so it's a good idea exchange it.} Qxc7 11. Bd3
+{With an excellent position for White. The d4 pawn is almost lost and White
+has a bishop pair, a solid position and possibilities on the dark squares.}) (
+5... cxd4 6. axb4 dxc3 7. Nf3 {Developing the least active piece.} Qc7 8. bxc3
+Qxc3+ 9. Bd2 Qc7 10. Bd3 $14 {White has a bishop pair and development for just
+one pawn.}) 6. bxc3 Ne7 (6... Qa5 {The idea of this move is to win a tempo 
+(attacking c3) to put the queen on a4, creating a blockade and attacking the
+c2 pawn.} 7. Bd2 Qa4 8. Qg4 {The typical move of the variation. Now Black is
+forced to make a decision.} g6 {The problem with this move in the Winawer
+French is that it weakens the dark squares very much and the bishop for those
+squares is missing.} (8... Kf8 9. Nf3 {White doesn't need to defend the c2
+pawn.} Nc6 10. Be2 {White simply develops his pieces.} Qxc2 11. O-O cxd4 12.
+cxd4 Qe4 13. Qxe4 dxe4 14. Ng5 $44 {Now in this position White has a lot of
+compensation for the pawn: his king is safer and the bishop pair is very
+strong, as the following variations can show.} Nxd4 (14... f5 15. exf6 Nxf6 16.
+Bc4 h6 17. Nxe6+ Bxe6 18. Bxe6 Nxd4 19. Bc4 {The bishop pair is very strong!
+Also Black's knights don't have good squares and the e4 pawn is weak.}) 15. Bc4
+Ne7 16. Rad1 Ndc6 17. Nxe4 {The bishop pair, the d6 square and the position of
+Blacks pieces determines White's compensation.}) 9. Nf3 Nc6 (9... Qxc2 10. Rc1
+Qa4 (10... Qe4+ {Doesn't work very nicely for Black.} 11. Qxe4 dxe4 12. Ng5 f5
+13. exf6 Nxf6 14. Bc4 {This endgame is advantageous for White.}) 11. c4 {Time
+to open up the position with a better development, the bishop pair and great
+possibilities on the dark squares.}) 10. Be2 Bd7 11. O-O c4 12. Ra2 {It's time
+to defend the pawn, with great possibilities on the dark squares.}) (6... Qc7 {
+It's very similar to 6...Ne7, just the fact that 6...Ne7 is more flexible
+because the queen can go to a5 or c7.} 7. Nf3 Ne7 8. a4 {It's very similar to
+the main line. 6...Ne7. The move Qc7 doesn't have any special idea.}) 7. Nf3 {
+This move isn't the main one. But in my opinion it's a great alternative to
+the main 7. Qg4 and avoids the complications. From here the position is going
+to be decided by understanding and not by memorising variations. In this
+position, Black has four main alternatives} Nbc6 {Simply developing a knight -
+this move is also very flexible.} (7... b6 {With the idea of exchanging the
+bad bishop.} 8. Bb5+ Bd7 (8... Kf8 9. dxc5 bxc5 10. O-O Bd7 (10... c4 11. Bxc4)
+11. Be2 Ba4 12. c4 d4 13. Qd3 {Followed by c3 with excellent play.}) 9. a4 $1 {
+With the idea of forcing the exchange in a favourable way.} Bxb5 10. axb5 {Now
+the "a" file is opened and the a7 pawn is weak. Black has three main choices...
+} a5 (10... Qd7 {Winning the b5 pawn but White obtains excellent compensation.}
+11. Qe2 c4 12. Ba3 Qxb5 13. Ng5 Qd7 14. Qh5 $44 Ng6 (14... g6 15. Qf3 Ng8 16.
+O-O $44) 15. O-O {And White has a lot of compensation, based on activity.}) 11.
+dxc5 bxc5 12. O-O O-O 13. c4 {And the c5 pawn is clearly weak, as is the a5
+one. The bishop on c1 is clearly the superior minor piece. White has the
+advantage.}) (7... Bd7 {The idea is to put this bishop on a4, so White's move
+is very easy to understand.} 8. a4 {Preventing Ba4.} Qa5 9. Bd2 Nbc6 10. Be2 {
+Transposing to a variation that we are going to see later.}) (7... Qa5 8. Bd2
+c4 (8... Qa4 {It's a bit more accurate for Black.} 9. Bd3 c4 10. Be2 Nbc6 11.
+O-O Bd7 12. Nh4 {With the plan of f4-f5. This kind of position used to be a
+slight advantage for White, because it's easier to play with the White pieces
+here.}) 9. Be2 $1 Bd7 (9... Qa4 10. O-O Nbc6 11. Nh4 Bd7 12. Bh5 O-O 13. Ra2)
+10. a4 $1 {It's important to prevent Ba4 with the pawn on a3.} Bxa4 (10... Nbc6
+11. O-O f6) 11. O-O b5 12. Ng5 Nbc6 13. Bh5 (13. f4 h6) 13... g6 14. Bg4 {Now
+White has a lot of compensation for the pawn. The bishop on a4 has no movement
+and the dark squares are weak.}) 8. a4 {This move is typical to prevent Black
+from using the a4 square. Also the a3 square can be useful for White in some
+variations.} Qa5 9. Bd2 c4 {Blocking the position and preventing c4 in some
+variations.} (9... Bd7 10. Be2 f6 (10... O-O 11. O-O c4 12. Nh4 {Looking for
+f4-g4 and then f5.}) (10... O-O-O 11. O-O c4 12. Bc1 $5 {An interesting
+concept.} (12. Qc1 {Is safer and also good - the idea is to put the queen on
+a3.}) 12... Qxc3 13. Ra2 Qa5 14. Ba3 $44) (10... c4 11. O-O f6 12. exf6 gxf6
+13. Bf4 $1 {Not a move that is used much, but very strong; the bishop is going
+to d6.} Ng6 14. Bd6 Qxc3 15. a5 $1 {Trapping the queen!} Nxa5 (15... Kf7 16.
+Ra3 Qb2 17. Qd2 {With big compensation for the pawn.}) 16. Qb1 $1 Nc6 17. Rd1 {
+Followed by Ra3.}) 11. c4 Qc7 $13 {The opening up of the position should
+favour White because of his bishop pair.} 12. exf6 gxf6 13. dxc5 $14) 10. g3
+Bd7 11. Bh3 {Here the bishop is better than on g2, because it controls
+important squares like f5 and e6 can become important later.} O-O-O 12. O-O Kb8
+13. Qe2 {And White has a slight advantage, with possibilities of attack on
+both flanks - on the king side using a pawn storm f4-f5 well prepared, and on
+the queen side using the "b" file and the a3-f8 diagonal. Now this is a big
+file with a lot of variations. But it's more important to remember the typical
+ideas than the variations. So I have decided to put a review here: 1. Play on
+the dark squares, using the diagonal a3-f8 and attacking squares like g7.2.
+Play c4, opening up the position for the bishop pair. 3. Attack on the king
+side with f4-f5 and create some weaknesses first with moves like Ng5, Qh5, etc.
+This is the basic theme of this variation. Also if you have noticed any other
+important idea, write it down!} *
+

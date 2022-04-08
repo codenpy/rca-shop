@@ -1,0 +1,16 @@
+﻿[Event "Buetzow"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Breustedt"]
+[Black "Brameyer"]
+[Result "1-0"]
+[Annotator "T1H"]
+[SetUp "1"]
+[FEN "2q5/pR6/1p3pnk/1P4pp/8/5QPP/P2r2BK/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1969.??.??"]
+[EventType "game"]
+
+1. Qxh5+ Kxh5 2. Rh7# 1-0
+

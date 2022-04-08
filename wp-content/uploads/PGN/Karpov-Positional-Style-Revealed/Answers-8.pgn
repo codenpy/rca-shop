@@ -1,0 +1,103 @@
+[Event "Dortmund SuperGM 25th"]
+[Site "Dortmund"]
+[Date "1997.07.05"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[ECO "D56"]
+[WhiteElo "2745"]
+[BlackElo "2640"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "125"]
+[EventDate "1997.07.04"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "1997.09.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Rc1 c6 10. Bd3 Nxc3 11. Rxc3 dxc4 12. Bxc4 Nd7 13. O-O b6 14. Bd3 c5
+15. Be4 Rb8 16. Qa4 Bb7 17. Bxb7 Rxb7 18. Qc2 a5 19. a3 Re8 20. Rd1 Rbb8 21. h3
+Rbd8 22. Rcd3 Rc8 {Diagram #} 23. d5 $1 {When all of your pieces are ready and
+active, then you should try to open the position; this is what White did here.
+Similarly, Karpov composes a plan that can cramp Black's position. The idea is
+to exchange a pair of heavy pieces and then block the queenside pawns.} (23.
+Rc1 $5) (23. dxc5 $5) (23. Qa4 $5) (23. Qe2 $5) 23... exd5 (23... e5 24. e4 $16
+{White has a connected passed pawn and a serious advantage.}) 24. Rxd5 Nf6 25.
+Re5 $1 {A very nice and strong move that Karpov had calculated before playing
+d5. He'd like to drive the game into the endgame because he can stabilize
+Black's queenside pawns, create a fantastic outpost for his knight on c4 and
+pressure against the b6-pawn. The position is aproximately equal, but White
+has a very small but stable initiative.} (25. R5d3 b5 $11 {Black has here
+equal chances because his queenside pawns are active and can create
+counterplay.}) 25... Qc7 26. Rxe8+ Rxe8 27. a4 $1 $16 {This was the main idea
+that cramps Black. Please notice that White stopped the queenside pawns, and
+he has his own pawn majority on the kingside.} Rd8 28. Rxd8+ {Black's last
+move looked illogical, but there weren't any other good ways to stop Nd4.} Qxd8
+29. Ne5 Qd5 30. Nc4 $14 {White achieved his plan. You can see that he has a
+small, but stable advantage. Karpov manages to win a brilliant game.} Nd7 31.
+b3 f5 32. Kf1 Kf7 33. f3 Ke7 34. Ke2 Qe6 35. Qc3 Nf6 36. Kf2 Kd7 37. g4 Kc6 38.
+Qe5 Qxe5 39. Nxe5+ Kd5 40. Nc4 fxg4 41. Nxb6+ Kc6 42. Nc4 gxf3 43. Kxf3 Kd5 44.
+Nxa5 g5 45. Nc4 h5 46. Nd2 Ke5 47. e4 Ne8 48. Ke3 Nc7 49. Nc4+ Kf6 50. Kf2 Na6
+51. Kg3 Nb4 52. h4 Nc6 53. a5 Nb4 54. Nd2 Nc6 55. a6 gxh4+ 56. Kxh4 Ke6 57.
+Kxh5 Kd7 58. Kg6 Kc7 59. Nc4 Kb8 60. Kf6 Ka7 61. e5 Kxa6 62. e6 Kb5 63. e7 1-0
+
+[Event "Corsica Masters rap 07th"]
+[Site "Bastia"]
+[Date "2003.11.02"]
+[Round "2.2"]
+[White "Karpov, Anatoly"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2693"]
+[BlackElo "2737"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "117"]
+[EventDate "2003.11.01"]
+[EventType "k.o. (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2004.02.03"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bb3 Nc6 7. Ne2 Bf5 8.
+Nbc3 e6 9. O-O Be7 10. Be3 Qd7 11. a3 O-O-O 12. Qc1 f6 13. exf6 Bxf6 14. Rd1
+Ne7 15. Ng3 Nbd5 16. Nce4 b6 17. Qc4 Kb8 18. Rac1 Bxe4 19. Nxe4 Nf5 {Diagram #}
+20. Ba4 $5 {A very good option that transfers the game into the endgame by
+force. It's easy to find what the critical variation is because you're leaving
+"unprotected" the e3 by playing a counterattacking move, Ba4.} (20. Rd3 $5 Nd6
+21. Nxd6 Qxd6 $14 {White has a small edge here because he's pressing over the
+c-line and the c7-pawn. White has active pieces and e6 is a weakness.}) 20...
+Nfxe3 21. fxe3 Nxe3 22. Qb3 Qd5 23. Qxe3 Bxd4 24. Rxd4 Qxd4 25. Qxd4 Rxd4 26.
+Bc6 $14 {I hope that you had calculated this variation before deciding to play
+Ba4... :-) I'm not claiming that this is easy, but definitely, it's forcing.
+It's easier to calculate very forcing variations. White has the advantage here
+because Black has weaknesses on the light squares around his king and White
+has a light-squared bishop. The e6-pawn is a weakness and this is in White's
+favor. White has an active play to transfer his knight to e5, via f3. The
+material imbalance favors White because he can find strong squares for his
+knight, but Black doesn't have good files for his rooks.} Rhd8 27. Kf2 {
+The computer assess this position as approximately equal, but I hope you can
+understand and feel that White has the initiative here. The point is that
+White can continue improving his position, as you can see with the king. The
+e4-knight is doing a fantastic job by protecting the d2-square, a potential
+entry point for Black's rooks. Black's main problem is that his rooks cannot
+find an object for the attack.} a6 28. Ke2 Ka7 29. Rc2 {Karpov felt that his
+position is very good and he is not in a hurry. He overprotects his position
+and frees his knight. Now he can continue improving his knight.} h6 30. Nd2 $1
+$14 {Another amazing plan. Even the computer starts to realize that Black
+cannot improve his position and cannot wait! White's plan is to place the
+knight on e5, the bishop on f3 and create problems against Black's king; as
+you can see in the sub variation. White has a clear advantage and he manages
+to win the game afterwards.} e5 (30... Kb8 31. Nf3 R4d6 32. Ne5 Rd4 33. Bf3 $16
+) 31. Nf3 R4d6 32. Ke3 (32. Nxe5 $2 Re6 33. Kf3 Rxe5 $19) 32... b5 33. Be4 Kb6
+34. b4 Re6 35. h4 Rd1 36. h5 Ra1 37. Rc3 a5 38. bxa5+ Kxa5 39. Rxc7 Rxa3+ 40.
+Kf2 Ra4 41. Ke3 Ra3+ 42. Ke2 Ra4 43. Bf5 Rd6 44. Ke3 Kb6 45. Rxg7 b4 46. Rg6
+Kc5 47. Nxe5 b3 48. Nd3+ Kd5 49. Nf4+ Ke5 50. Nd3+ Kd5 51. g4 Ra3 52. Rg8 Rb6
+53. Be4+ Kc4 54. Rc8+ Kb5 55. Kd4 Ra4+ 56. Ke5 Ra2 57. Bd5 Re2+ 58. Kd4 b2 59.
+Bc4+ 1-0
+

@@ -1,0 +1,233 @@
+[Event "Lindores Abbey Chess Stars"]
+[Site "Lindores Abbey"]
+[Date "2019.05.26"]
+[Round "5.2"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2861"]
+[BlackElo "2752"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "97"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c3 Nbd7 7. Bf4 c5 8. Ne5
+Qb6 9. Qb3 cxd4 10. Qxb6 Nxb6 11. cxd4 Ne4 12. Rc1 Nd6 13. Nc3 Be6 14. a4 a5
+15. h4 Rfc8 16. b3 Rc7 {Diagram #} 17. Nb5 $1 {The battle takes place on the
+queenside and, more specifically, both sides would like to double the rooks on
+the c-line. White has good control over the center and he would like to expand
+his domination to the queenside. Yes, doubled pawns could be a potential
+weakness, but White "sacrificed" his healthy pawn structure in order to
+activate his rooks.} (17. Na2 $5) (17. Bd2 $5) (17. Kf1 $5) (17. Be3 $5) 17...
+Rxc1+ 18. Rxc1 Nxb5 19. axb5 Rc8 20. Rc5 $1 {After the forcing exchanges,
+White is placing his rook on the strong outpost, helped by a pawn, in order to
+dominate over the c-line.} Kf8 21. e4 $5 {This is an extremely interesting
+idea in order to fully activate all of his pieces!} (21. Kf1 $5 {
+Another idea was to activate the king towards the center.}) 21... a4 {
+Black tries to exchange pawns, but another very interesting option was to
+capture on e4 and play Rd8 to find counterplay in White's weak pawns.} (21...
+dxe4 22. Bxe4 Bxb3 $4 (22... Rd8 $8 23. Rc7 $5 (23. Bxb7 Rxd4 $132) 23... Rxd4
+24. Bg2 {The position is unclear, but White has extremely active pieces.}) 23.
+Nd7+ $1 Nxd7 24. Rxc8#) 22. exd5 Rxc5 23. dxc5 a3 24. dxe6 a2 25. Nd7+ Ke8 26.
+Nxb6 a1=Q+ 27. Kh2 $44 {The position is complicated, but it's clear that White
+is fighting for the win here. If he manages to coordinate his pieces and push
+his queenside pawn majority, then Black will face huge troubles.} Be5 28. Be3 {
+Of course, White would like to keep his pieces on the board in order to
+support his queenside pawns.White's position is very solid; but Black, even if
+he has an extra queen, cannot find targets for attack.} fxe6 29. Bxb7 {
+Black should play a precise defense in order not to lose the game...} Bd4 $8 (
+29... Qa5 $2 30. Bc6+ Kd8 31. Nd7 Bc3 32. b6 $18 {
+This is just an ilustrative variation.}) 30. Nc4 $2 {This wasn't the best move
+because White's plan to advance the queenside pawns will be delayed. After a
+long finght, the game ended in a draw.} (30. c6 $1 Bxe3 31. c7 $3 Bxf2 32.
+c8=Q+ Kf7 33. Qc7 Qg1+ 34. Kh3 Bxb6 35. Qf4+ {The position is almost equal,
+but White's queenside pawns are still dangerous...}) 30... Bxe3 31. Nxe3 Qb2
+32. Kg2 Qxb3 33. b6 Qb5 34. Bf3 Kd8 35. b7 Kc7 36. c6 Qb4 37. g4 Qd4 38. Nf1 h5
+39. gxh5 gxh5 40. Ng3 e5 41. Ne4 Qc4 42. Ng5 Kb8 43. Be4 Qe2 44. Bf5 e4 45.
+Nxe4 Qc4 46. Ng3 Qxc6+ 47. Be4 Qf6 48. Nxh5 Qxh4 49. Ng3 1/2-1/2
+
+[Event "Sinquefield Cup 6th"]
+[Site "Saint Louis"]
+[Date "2018.08.18"]
+[Round "1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2801"]
+[BlackElo "2780"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "101"]
+[EventDate "2018.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+[Source "ChessBase"]
+[SourceDate "2018.09.14"]
+[WhiteTeam "Espana"]
+[BlackTeam "Espana"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 O-O 6. Qc2 h6 7. Bxf6 Bxf6 8. h4
+g6 9. Nc3 c5 10. dxc5 dxc4 11. h5 g5 12. Bxc4 Qa5 13. Rc1 Nd7 14. O-O Bxc3 15.
+Qxc3 Qxc3 16. Rxc3 Nxc5 {Diagram #} 17. Ne5 $5 {This is a very interesting
+position. We have a strategical endgame, nor a middlegame. The queens are
+missing, but still we have plenty of pieces on the board. White understands
+that he has space advantage in the kingside and Black has some weaknesses
+there. For that reason, he activates his knight and he would like to open
+lines; not necessarily to attack the enemy king but weak squares around him.} (
+17. Rcc1 $5) (17. Bb5 $5) (17. Be2 $5) (17. Rd1 $5) 17... b6 18. f4 {Now we can
+see White's idea, to open lines for his pieces in order to activate them.} Ne4
+19. Rd3 Ng3 20. Rf3 Ne4 21. Rd4 Bb7 22. f5 $1 {After some repetition of the
+moves, White improves his pieces, and now, he continues with his plan. It's
+very important to have a plan and try to follow it.} Nf6 23. Rf1 Rae8 24. fxe6
+fxe6 25. Ng6 $5 (25. Rxf6 $5 {Here Shakhriyar missed an opportunity to
+activate all of his pieces into the maximum activity. Indeed, Black has two
+rooks, but they are not coordinated; so, he is facing problems.} Rxf6 26. Rd7
+Be4 27. Ng4 $40) 25... Rf7 26. Ne5 Rff8 27. Rd6 Bd5 28. Rxf6 $1 {This is a
+fantastic move! It doesn't matter what pieces are removed from the board, but it's
+important to evaluate the pieces that stay on it.} Rxf6 29. Bxd5 exd5 30. Rxf6
+Rxe5 31. Rxh6 Rxe3 32. Rg6+ Kh7 33. Rxg5 $16 {After these series of forcing
+moves, you can see that White is a pawn up and he has really winning chances.
+After a long fight, White manages to win the game.} Re2 34. Rxd5 Rxb2 35. Kh2
+Rxa2 36. Kh3 a5 37. g4 a4 38. g5 a3 39. Rd7+ Kg8 40. Rd8+ Kh7 41. Rd7+ Kg8 42.
+Rd8+ Kh7 43. g6+ Kh6 44. Rh8+ Kg7 45. Rh7+ Kg8 46. Ra7 Ra1 47. Kg2 Rc1 48. h6
+Rc8 49. Rxa3 b5 50. Ra7 Rb8 51. Kg3 1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.2"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2875"]
+[BlackElo "2754"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "85"]
+[EventDate "2019.06.26"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Re8 10. Bg5 Be7 11. Rd1 Qa5 12. Bd3 dxc4 13. Bxc4 h6 14. Bf4 Bd7 15.
+O-O Rac8 16. e4 e5 17. Be3 Nd4 18. Bxd4 Rxc4 19. Bxe5 Ba4 20. b3 Nxe4 21. Rd3
+Rec8 22. Qb2 Nc5 23. Re3 Bxb3 {Diagram #} 24. Bxg7 $1 {The battle is in the
+hottest point! We can see here that the center of the board is open and, due
+to this fact, both players can use their active pieces in order to create
+threats. Black cannot accept the sacrificed piece on g7 because he will face
+an extremely strong attack, as you can see in the sub-variations.} (24. Nd5 $5)
+(24. Nd2 $5) (24. h3 $5) 24... Rg4 (24... Kxg7 $2 25. Nd5+ Kh7 (25... Kg8 26.
+Nxe7+ Kh7 27. Qf6 $18) (25... Rc3 26. Rxc3 Na4 27. Qxb3 Rxc3 28. Qd1 Rxa3 29.
+Qd4+ Kh7 30. Qe4+ Kh8 31. Ne5 $18) 26. Rxe7 Kg8 27. Qf6 $18) (24... Ne6 25. Be5
+Ba4 26. Qxb7 $40) 25. Bxh6 $5 {
+It's always useful to capture a pawn. Another interesting idea is to play Bd4.}
+(25. Bd4 $18 {
+White is threatening to remove the defender, to capture on c5 and then on b3.})
+25... Bf6 26. Ne5 {White immediately breaks the pin and, at the same time, he
+is attacking the g4-rook. Black's problem is that his pieces are not
+coordinated.} Bxe5 27. Rxe5 {White isn't threatening to capture on c5 and then
+on b3, but he wants to increase the pressure with Ne4.} Qb6 (27... -- 28. Ne4 {
+Increasing the pressure with the pin on c5.}) 28. Qd2 {White protects the Bh6,
+a piece that was under attack by the queen, and leaves the dangerous b-file in
+order to avoid any threats like Bc4, attacking the b2-queen and f1-rook.} Rg6
+29. Be3 {Again, Carlsen creates a pin in order to immobilize the enemy pieces.
+A pin is a stronger than a sword!} Qc6 30. Nd5 $1 {The g3 move was another
+interesting option in order to protect himself against the checkmate on g2.
+However, Magnus preferred not to create weaknesses on the light quares and,
+similarly, he creates the Ne7 threat. White has a clear advantage, and he
+manages to win the game afterwards.} (30. g3 $5) 30... Bxd5 31. Qxd5 b6 32. g3
+Nd7 33. Qxc6 Rgxc6 34. Rd5 Nf8 35. Rfd1 Ne6 36. a4 Rc4 37. a5 Rb4 38. Rd7 bxa5
+39. Rxa7 a4 40. Rdd7 Nd8 41. Rd5 Ne6 42. Rda5 Rcc4 43. Kg2 1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2779"]
+[BlackElo "2819"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "74"]
+[EventDate "2019.06.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bb3 d6 8. a4
+Bb7 9. d3 h6 10. axb5 axb5 11. Rxa8 Qxa8 12. Nh4 Bc8 13. Na3 Bg4 14. Qc2 Qb8
+15. Kh1 g5 16. Nf5 Bxf5 17. exf5 O-O 18. Qd1 Na5 19. Bxf7+ {Diagram #} (19. Bc2
+$5) 19... Rxf7 $1 {It was better for White to keep the bishop on c2. He will
+take back the pieces, but he gave up the bishop pair and decreased some
+potentials from his pawn structure.} (19... Kxf7 $5 {
+This is also an interesting choice, but there is no need to expose your king.})
+20. b4 Bxb4 21. cxb4 Nc6 {Black brings his knight into the game, attacking the
+b4-pawn. After the changes, you should evaluate what pieces stay in the board;
+and the c1-bishop isn't a great piece.} 22. Nc2 Qc8 {Strong players always do
+such moves. He is provoking the g4 move and, after that, the Nf6 found a
+target on the g4-pawn. Similarly, it tights down the d1-queen in defense.} 23.
+g4 Qa8 {Heavy pieces belong to the open lines. The a-line is a good
+opportunity for Black's queen in order to penetrate into White's camp.} 24. f3
+Qa2 {Black's pieces are already extremely active and, if White doesn't do
+anything, then he will prepare d5 and e4.} 25. d4 Re7 26. dxe5 dxe5 27. Qd3 e4
+$1 $17 {Black manages to activate all of his pieces. White's dark-squared
+bishop is closed; so, Black has a clear advantage here, and he manages to win
+the game afterwards.} 28. Qc3 Ne5 29. f4 Nd5 30. Qh3 Nf3 31. Ne1 Nxe1 32. Rxe1
+e3 33. fxg5 hxg5 34. Qg2 Qc4 35. Qf3 Re4 36. h3 Rf4 37. Qg3 Rf1+ 0-1
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.03"]
+[Round "7.1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2775"]
+[BlackElo "2875"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "2019.06.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 g6 5. d3 h6 6. h4 d6 7. h5 {Diagram #} g5
+{As I mentioned in a previous task, Black has 3 options on how to stop the
+h4-h5 advancement. Black is dominating on f4 and d4, two dark squares, and he
+would like to place his knights there.} 8. Nh2 Bg7 9. Ng4 Nge7 {Black is kipping
+the knights on the board because the position is closed and he has good
+prospects, good squares on d4 and f4 for them. Of course, White also has good
+squares for his own knights, on d5 and f5. In general, the knights are the
+salt and pepper of the game... :-)} 10. Ne3 O-O 11. Bd2 Kh8 12. g4 Rb8 $1 {
+The position is totally blocked, and White has more space thanks to his
+h5-pawn. Black played a very good move, Rb8, with the idea of playing b4, the
+breakthrough. Black cannot attack in the center nor on the kingside, it's
+White who theoreticaly attacks; so, Black should attack on the queenside.} 13.
+a4 Nd4 14. Ncd5 Nxd5 15. Nxd5 Ne6 {The computer assesses the position as a
+little better for White thanks to his space advantage mainly, but White has no
+good breakthrough. Right now, White manages to prevent the b5 advancement, but
+Black can prepare it in the future with the a6 and b5 moves. For the above
+mentioned reason, Black has better prospects in the future.} 16. f3 Nf4 {
+In reality, White cannot capture this knight because, after exf4, the g7-bishop 
+will come into life!} 17. Qb1 Be6 18. Qa2 Qd7 {Black finalized his development
+and, by his last move, he might like to sacrifice a light piece on g4. This
+could be a very unpleasant situation for White. Black will not win by force
+after this sacrifice, but he can get two pawns in return and a lot of
+attacking possibilities. Please notice that almost all of White's pieces are
+placed on the queenside. This is the reason why White played Rg1 in the next
+move; to preven this sacrificial idea.} 19. Rg1 b6 {This is a very important
+preperational move. If Black plays immediately a6 in order to play b5 in the
+next move, White can stop this idea by playing a5 himself!} (19... a6 20. a5 $1
+) 20. Bc3 Bxd5 {Black used this tactical idea, to exchange the powerful
+d5-knight for the bishop in order to promote his main idea, b5. After Bxd5 and
+Bxd5, White no longer controls a6; so, Black has time to play a6 and b5.} 21.
+Bxd5 a6 22. Bd2 Qe7 {Sooner or later, White has to capture the knight on f4
+and, for that reason, Magnus is preparing to activate his queen via the dark
+squares.} 23. Rf1 b5 {Finally, Black manages to perform his breakthrough.} 24.
+axb5 axb5 25. Kf2 c4 {Black has activated his pieces, and now he starts
+pressing White's position with his powerful knight on f4. So, White should
+exchange it.} 26. Bxf4 exf4 27. Rad1 f5 $1 {When all of your pieces are active,
+then you should look for tactics and breakthroughs. White's king isn't safe
+and, for that reason, Black is trying to open the lines there and attack him.
+Black uses his active pieces, and he manages to win the game atferwards.} 28.
+gxf5 g4 29. d4 Qh4+ 30. Ke2 Qh2+ 31. Rf2 gxf3+ 0-1
+

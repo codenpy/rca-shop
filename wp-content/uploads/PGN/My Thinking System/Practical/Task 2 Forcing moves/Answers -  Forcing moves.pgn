@@ -1,0 +1,278 @@
+[Event "4th Sinquefield Cup 2016"]
+[Site "Saint Louis"]
+[Date "2016.08.06"]
+[Round "2"]
+[White "Caruana, Fabiano"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "2761"]
+[ECO "C84"]
+[EventDate "2016.??.??"]
+[FEN "r5k1/1q2bpp1/3p1n1p/1p2p3/1NpPP1bB/1nP2N2/BP3PPP/3QR1K1 b - - 0 21"]
+[SetUp "1"]
+[WhiteElo "2807"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+
+21...Nxe4 $1 {Black to play. By going back and forward with his
+pieces, White hasn't played good moves in the middlegame. Now
+Black has the opportunity, with some forcing moves, to destroy
+his position. This move looks like a mistake because Black's
+queen cannot defend the bishop on e7 and the knight on e4. Black
+has a specific tactical idea in mind.} 22.Bxe7 Ned2 $1 {This is
+a very strong counter-blow and forcing move. Black would like
+to destroy the cover for White's king.} 23.Bxb3 (23.Bxd6 {White
+cannot keep the material because he will lose, as we can see
+in the following variation.} Bxf3 24.gxf3 Nxf3+ 25.Kf1 Nbd2+ 26.Ke2 Qe4#)
+23...Nxf3+ $1 {Black is playing very accurately and in a forcing
+manner. Check is the most forcing move. It is more important
+to destroy White's pawn structure on the kingside than to recapture
+the bishop on b3.} 24.gxf3 Bxf3 25.Bxd6 (25.Qd2 {White cannot
+try to save his queen because Black can deliver checkmate, as
+we can see in the following variation:} Qd7 $1 26.Bh4 Qh3 27.Bg3 Qg2# {The
+light squares around the White king are very week.}) 25...Bxd1 26.Bxd1
+exd4 27.cxd4 Qd7 {White gives up his queen and Black now has
+close to a winning position. Black continues to play forcing
+chess.} 28.Bg3 Qxd4 $6 {Here, Black loses control of the game.
+Now White manages to coordinate his pieces and, consequently,
+gets some counter-play.} (28...Re8 $1 {This is the best move because
+the queen can win White's three minor pieces which are not well
+coordinated.} 29.Rxe8+ Qxe8) 29.Bf3 Qd2 30.Rd1 Qxd1+ 31.Bxd1 Ra1 32.Kg2
+Rxd1 33.Be5 {Black has the advantage but it is much more difficult
+to win now.} f6 34.Bc3 Kf7 35.Nc2 g5 36.h3 Kg6 37.Na3 Rd5 38.Kf3 f5 39.Kg3
+f4+ 40.Kg2 Kf5 41.f3 h5   1/2-1/2
+
+[Event "Saint Louis"]
+[Site "Saint Louis"]
+[Date "2016.08.06"]
+[Round "-"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "2770"]
+[ECO "B11"]
+[EventDate "2016.??.??"]
+[FEN "1k1r4/pp1bq2p/3bpr2/P2n1p2/1PBNpP1Q/2P5/5BPP/3R1RK1 w - - 0 30"]
+[SetUp "1"]
+[WhiteElo "2819"]
+
+30.Nxe6 $2 {White to play. He tries to play forcing chess and complicate
+the position. White's position is worse, so he cannot play tactical
+moves and change the situation. As Fischer used to say, tactics
+flow from a superior position. The best move for White is to
+capture the strong knight on d5 and then try to equalize the
+game.} (30.Bxd5 $5 exd5 $15) 30...Bxe6 31.Bxd5 e3 $3 {This is a very
+strong and forcing reply White has missed. Do you remember Fischer's
+quote: 'It is very natural to see a good tactical blow from Black
+because they have a better position"? By the way, this is the
+only strong move that gives Black a better position. If a player
+misses such moves, his advantage will slip away. Ex-World Champion
+Anand is a very strong player and rarely misses such opportunities.} 32.Bxe3
+(32.Be1 e2) 32...Bxd5 33.Bxa7+ $6 (33.Qf2 Be4 $17) 33...Kxa7 34.Qf2+ Bc5 $1 {This
+is an awesome forcing move! Black transfers the game to the endgame
+with forcing moves. White doesn't have a chance to complicate
+the position with the queens. Black wins the game afterwards.} 35.Qxc5+
+Qxc5+ 36.bxc5 Rd7 37.Rfe1 h6 38.Kf2 Kb8 39.c4 Bc6 40.Rxd7 Bxd7 41.Rb1 Ra6
+42.Rb6 Rxa5 43.Rxh6 Rxc5 44.h4 Rxc4 45.g3 Kc7 46.h5 b5   0-1
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.01.31"]
+[Round "-"]
+[White "Ruhe, Johannes"]
+[Black "Kuhlenbaeumer, Alfred"]
+[Result "0-1"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1821"]
+[ECO "C42"]
+[EventDate "2014.09.6"]
+[FEN "3q1rk1/r1p2ppp/1p3bn1/p2pB3/P2P2Q1/2PB3P/2P2PP1/1R2R1K1 b - - 0 22"]
+[SetUp "1"]
+[WhiteElo "1975"]
+[BlackTeam "Telgte"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Beelen"]
+[WhiteTeamCountry "GER"]
+
+22...Ra8 $2 {Black to play.} (22...Nxe5 $5 {White has the better position
+and Black must make some good defensive moves. He should play
+forcing chess by exchanging White's dangerous attacking pieces.} 23.dxe5
+Be7) (22...Bxe5 $5 23.dxe5 c6 24.e6 Qf6 $14) 23.f4 Re8 24.Bb5 Rf8 (24...Re6
+25.f5 Nxe5 $1 {This is a forcing move. Black has problems. The
+best move is rook to e6. This is a very difficult defensive move
+because f5 looks very strong. Actually, after that, Black can
+play the forcing move knight takes on e5 and will be a little
+better.}) 25.f5 $1 {Again, White is forcing the issue. He wins
+tempi in his attack and expels his opponent's pieces.} Bxe5 26.dxe5 Ne7
+27.f6 {Again, a forcing move. White is threatening the knight
+and checkmate on g7. This is the correct way to handle the attack.} Ng6
+28.Bc6 Rb8 29.h4 {White is threatening h5, with the idea of kicking
+the defensive knight away from g6 and then delivering checkmate
+on g7.} gxf6 30.h5 Qe7 31.hxg6 (31.Rb5 $1 {First, we should ask
+ourselves: "What are the opponent's threats?" The knight on g6
+cannot run away because it is pinned. Hence, White should protect
+his bishop on c6 and can then capture the knight.}) 31...Qc5+ 32.Kh1 Qxc6
+33.gxh7+ (33.gxf7+ $1 {White plays a forcing move but not the best
+one. After g takes on f7, White is winning by force, as we can
+see in the variation. In the actual game, White manages to win
+in the end, after mistakes by both sides.} Kh8 (33...Kxf7 34.exf6 $18) 34.e6 $18)
+33...Kh8 34.Re3 f5 35.Qxf5 Rbe8 36.Rf1 Re6 37.Rh3 Rg6 38.Rff3 Qe8 39.Rfg3
+Qe6 40.Qxe6 Rxe6 41.Rh5 c6 42.Kg1 Rg6 43.Kf2 Kg7 44.Rf3 Rh8 45.Rhf5 Rxh7
+46.Rxf7+ Kh8 47.Rf8+ Rg8 48.e6 Re7 49.Rh3+ Kg7 50.Rf4 Rxe6 51.Rhf3 Rge8
+52.Rf7+ Kg6 53.Rc7 Re2+ 54.Kg3 R8e6 55.Rf2 Rxf2 56.Kxf2 Kf5 57.Kf3 Ke5
+58.g4 Kd6 59.Rf7 Re4 60.g5 Re7 61.Rf4 b5 62.Kg4 Re4   0-1
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.01.31"]
+[Round "?"]
+[White "Dieckmann, Werner"]
+[Black "Waeltermann, Thomas"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1748"]
+[BlackElo "1775"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppqn1pbp/2pp1np1/4p1B1/3P4/2PBPN1P/PP1N1PP1/R2QR1K1 b - - 0 10"]
+[PlyCount "89"]
+[EventDate "2014.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Telgte"]
+[BlackTeam "Beelen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+10... h6 $1 {Black starts playing forcing chess. First of all, he would like
+to repulse the dark-squared bishop on g5.} 11. dxe5 Nxe5 12. Nxe5 hxg5 {
+This is an important decision because Black captures the strong bishop on g5.
+The knight on e5 is attacked and has no good squares for the retreat. After
+some forcing moves, the h-file will be open and it will be easier for Black to
+use it to attack.} 13. Ng4 Nxg4 14. hxg4 Be6 {After the forcing moves, Black
+has the bishop pair. The g4-pawn is weak and Black is attacking it with the
+bishop. Black cannot capture it right now but his bishop is forcing the White
+queen on to the defensive.} 15. Ne4 Qe7 16. Qf3 Be5 $1 {Black is preparing the
+attack on the kingside. His plan is very simple - to play king g7, rook h4 and
+a-rook to h8. White has no forcing moves or any real counter-play.} 17. Nd2 b5
+$2 (17... d5 $1 {If Black wants to control the c4 square, he should play d5.
+Black doesn't use the anti-blunder technique, therefore he drops the c6-pawn.
+White should capture on c6 and complicate the game but doesn't do so.}) 18. a3
+(18. Qxc6 b4) 18... Rac8 19. Bc2 c5 $1 {
+There is no way for White to exchange bishops.} 20. Bb3 (20. Be4 d5 21. Bxd5
+Bxd5 22. Qxd5 Rfd8 {Black is using the skewer attack.}) 20... c4 21. Bc2 Kg7
+22. Nf1 Rh8 23. Ng3 Rh4 24. Bf5 {Black is using tactics, but these usually
+don't work well in a bad position. White sacrifices a piece with the hope of
+stopping the Black attack. The only thing that he achieves, however, is to
+postpone the inevitable ... Black wins the game afterwards.} gxf5 25. gxf5 Bd7
+26. Nh5+ Kh6 27. g4 f6 28. Kg2 Rh2+ 29. Kg1 Bc6 30. e4 Be8 31. Ng3 Rh4 32. Kg2
+Kg7 33. Rh1 Rxh1 34. Rxh1 Bf7 35. Nh5+ Bxh5 36. Rxh5 Rh8 37. Qh3 Qf8 38. Qe3
+Rxh5 39. gxh5 Qf7 40. Qe2 Kh6 41. Qe3 Qxh5 42. Qxa7 Qh2+ 43. Kf1 Qh1+ 44. Ke2
+Qxe4+ 45. Kf1 Qxf5 46. Qb8 Bg3 47. Qh8+ Kg6 48. Qe8+ Kg7 49. Qe7+ Kh6 50. Qf8+
+Kh5 51. Qe8+ Kg4 52. Qe2+ Qf3 53. Qe6+ f5 54. Qe1 Qxf2+ 0-1
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.01.31"]
+[Round "-"]
+[White "Ebert, Bernd"]
+[Black "Hanewinkel, Christian"]
+[Result "1-0"]
+[Annotator "http://chess-teacher.com/"]
+[BlackElo "1686"]
+[ECO "A46"]
+[EventDate "2014.09.6"]
+[FEN "2kr2r1/pp1npp1p/2pp1bpq/8/3P4/1P1QPNP1/P1PB1PP1/1RR3K1 w - - 0 17"]
+[SetUp "1"]
+[WhiteElo "1683"]
+[BlackTeam "Beelen"]
+[BlackTeamCountry "GER"]
+[EventCountry "GER"]
+[EventRounds "9"]
+[EventType "tourn"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Telgte"]
+[WhiteTeamCountry "GER"]
+
+17.d5 $5 {This is a very interesting attacking move. The idea behind
+it is to use brute force to destroy the Black king's pawn cover.
+Objectively, this is not the best move but White has a clear
+plan, to attack on the kingside, plus he is playing forcing moves.
+This strategy combination proves deadly in this game.} (17.g4 $5 {This
+is an interesting idea. White's plan is to play e4 and g5.}) 17...Nc5 18.Qe2
+Kb8 19.dxc6 bxc6 20.b4 {White is forced to retreat his queen
+but all other moves are forced and attacking moves. This is a
+successful attacking strategy.} Nb7 21.Qa6 Kc7 22.b5 {This is
+another forcing move. White opens the position and none of Black's
+heavy pieces can help. It is well known among chess players that
+when one queen is on one side of the board, the other queen triumphs
+on the other side! :-)} cxb5 23.Rxb5 Nc5 24.Ba5+ {The queen was
+threatened but White uses a forcing move - the check.} Kd7 25.Qxa7+ Ke6
+26.Bxd8 {Everything is over for Black. White wins the game after
+some more moves.} Rxd8 27.Qb6 Rc8 28.Rbb1 Bc3 29.Qb5 Ne4 30.Qb7 Rc4 31.Nd4+
+Rxd4 32.exd4 Nxg3 33.Re1+ Bxe1 34.Rxe1+ Kf5 35.Qf3+ Kg5 36.Qxg3+   1-0
+
+[Event "Muensterland Verbandsliga 1415"]
+[Site "Germany"]
+[Date "2015.04.18"]
+[Round "?"]
+[White "Sokolowski, Cyril"]
+[Black "Bohn, Andreas"]
+[Result "0-1"]
+[ECO "B84"]
+[WhiteElo "1687"]
+[BlackElo "1842"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "3r2k1/1bqr1pbp/pn1pp1p1/1pn5/3NPP1Q/PPN2B1P/1BPR2P1/4R2K w - - 0 26"]
+[PlyCount "44"]
+[EventDate "2014.09.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2015.10.08"]
+[WhiteTeam "Muenster V"]
+[BlackTeam "Heiden"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+26. Qg3 $2 {First things first, we should not go backwards with our pieces.
+Second. we should play with a plan. Playing with a plan means that we should
+create active pieces and then strike. The move queen to g3 doesn't help White
+to create active pieces. Here, White should play the forcing move f5, which
+could keep him out of trouble. Last, but not least, White should ask: "What is
+the threat from Black?" If we take a close look at Black's pieces, then we can
+understand that they are active and ready to strike in the center. Black would
+first like to play e5 and then d5. White has a tactical problem. This
+particular problem has a name - bishop b2 - as it is unprotected. Of course,
+it is very difficult to spot the bishop on b2 but it is easy to play forcing
+moves like f5. The conclusion is this: always try to play attacking and
+forcing moves.} (26. f5 $5 {Playing forcefully...}) (26. Ba1 $5 {Profilaxis})
+26... e5 $1 27. Nde2 d5 $1 {Black executes his plan correctly and now obtains
+a better position in a forcing manner.} 28. exd5 e4 29. Bxe4 Nxe4 30. Nxe4 Bxb2
+31. c3 Kg7 $2 (31... Bxa3 {
+Black should continue playing forcing moves and capture everything.} 32. Nf6+
+Kg7 33. Nxd7 Rxd7 $17 {White has a rook but Black has two very strong bishops.
+Black's position is close to winning because all of his pieces are extremely
+active. Black will win more material soon.}) 32. Rxb2 Rxd5 $6 (32... Bxd5 $1
+33. Nf2 Re8 {Black captures correctly on d5 but with the wrong piece. He
+should have captured with the bishop in order to try to pin the knight on e2.
+The position is complicated because White has an extra pawn but Black has
+active pieces.}) 33. Nd4 Rh5 34. Nf3 $2 {White doesn't use the anti-blunder
+technique and, for that reason, drops a pawn on c3. Black wins the game
+afterwards.} Bxe4 35. Rxe4 Qxc3 36. Ree2 Nd5 37. Kh2 Qf6 38. Red2 Ne3 39. Kg1
+Rxd2 40. Rxd2 Rc5 41. Ne1 Nf5 42. Qd3 Rc3 43. Qd5 Qb6+ 44. Kh2 Qe3 45. Nf3
+Qxf4+ 46. Kg1 Qg3 47. a4 Rxf3 0-1
+

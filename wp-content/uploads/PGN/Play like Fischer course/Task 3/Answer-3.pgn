@@ -1,0 +1,492 @@
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.08.24"]
+[Round "18"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[ECO "B69"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r3k2r/3bbp1p/2nppp2/2q2P2/pp2PN2/3B1N2/PPPQ2PP/1K1R3R w k - 0 17"]
+[PlyCount "62"]
+[EventDate "1972.07.11"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+17. Rc1 {White is planning to open a line for his rook by playing c3.} Rb8 18.
+c3 b3 {Black doesn't want to open the c-line for White's rook. However, at the
+same time, Black is forced to close the lines on the queenside, making it
+impossible for him to attack White's king.} 19. a3 Ne5 20. Rhf1 Nc4 21. Bxc4
+Qxc4 22. Rce1 Kd8 23. Ka1 Rb5 24. Nd4 Ra5 25. Nd3 Kc7 26. Nb4 h5 27. g3 Re5 28.
+Nd3 Rb8 29. Qe2 Ra5 30. fxe6 fxe6 31. Rf2 e5 32. Nf5 Bxf5 33. Rxf5 d5 34. exd5
+Qxd5 35. Nb4 Qd7 36. Rxh5 Bxb4 37. cxb4 Rd5 38. Rc1+ Kb7 39. Qe4 Rc8 40. Rb1
+Kb6 41. Rh7 Rd4 42. Qg6 Qc6 43. Rf7 Rd6 44. Qh6 Qf3 45. Qh7 Qc6 46. Qh6 Qf3 47.
+Qh7 Qc6 1/2-1/2
+
+[Event "Balcarce sim"]
+[Site "Balcarce"]
+[Date "1971.12.01"]
+[Round "?"]
+[White "Fischer, Robert James"]
+[Black "Bustos, Carlos Albertos"]
+[Result "1-0"]
+[ECO "B07"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1b1q1k1/1pp2rbp/p2p1n2/3PpnBP/8/2NB1P2/PPPQN3/2KR3R w - - 0 17"]
+[PlyCount "49"]
+[EventDate "1971.12.01"]
+[EventType "simul"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+17. Rdg1 $1 {It's always important to place our rooks on open lines. Black's
+king is on the open line. Tg1 is a very strong move which seek to start an
+attack on the black king, which is standing on the open line.} (17. h6 $5)
+17... Kh8 18. h6 {White is opening the g-line by force.} Bf8 19. Rg2 $1 {
+We already know that it is important to double the rooks in an open file.
+Doubled rooks have more power.} Bd7 20. Rhg1 Be7 21. Ng3 $5 (21. f4 $5) 21...
+Nxg3 22. Rxg3 Nh5 23. R3g2 Bf5 24. Bxf5 Rxf5 25. Ne4 Qf7 26. Bxe7 Qxe7 27. Ng5
+Nf4 28. Rg4 Rg8 29. Nf7+ $1 $18 {This is the killing blow. White is winning.}
+Qxf7 30. Rxg8+ Qxg8 31. Rxg8+ Kxg8 32. Qb4 b6 33. Qa4 Ng6 34. Qxa6 Nf8 35. Qc8
+Rf7 36. a4 Re7 37. b4 Kf7 38. a5 bxa5 39. bxa5 Rd7 40. a6 Ke7 41. a7 1-0
+
+[Event "Candidates final"]
+[Site "Buenos Aires"]
+[Date "1971.10.23"]
+[Round "8"]
+[White "Petrosian, Tigran V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "D40"]
+[WhiteElo "2640"]
+[BlackElo "2760"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r2q1rk1/pb2bpp1/1p2p2p/2p5/2BPP3/P1P5/1B2QPPP/R4RK1 b - - 0 16"]
+[PlyCount "49"]
+[EventDate "1971.09.30"]
+[EventType "match"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+16... Rc8 $1 {This is a very typical move in the Nimzo Indian Defense. The
+c-line is not opened yet, but it will be opened soon.} (16... a6 $5) (16... Qc7
+$5) 17. Bb3 b5 18. f4 Qb6 $15 {All Black's pieces are active and he has a lot
+of good options. He can open the c-line, he can play c4 in order to advance
+his queenside pawns, or he can play b4 to totally blow up the position in the
+queenside.} 19. Kh1 cxd4 20. cxd4 b4 {
+Black is playing in the queenside, so it is normal to open lines there.} 21.
+axb4 Bxb4 22. d5 Bc3 23. Bxc3 Rxc3 $15 {
+Black activates their pieces to the maximum and, finally, wins the game.} 24.
+Bc2 exd5 25. e5 Re3 26. Qd2 d4 27. Rab1 Qa6 28. Rf2 Rd8 29. Kg1 Be4 30. Bxe4
+Rxe4 31. h3 d3 32. Rb3 Qc4 33. Rb2 Rdd4 34. g3 Rd5 35. Kh2 Rb5 36. Ra2 Rb1 37.
+g4 Re2 38. Rxe2 dxe2 39. Qxe2 Qxf4+ 40. Kg2 Rb3 0-1
+
+[Event "Candidates final"]
+[Site "Buenos Aires"]
+[Date "1971.10.19"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2760"]
+[BlackElo "2640"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r4k2/r2b1ppp/p4n2/2NpR3/1P6/3B1P2/P5PP/R5K1 w - - 0 22"]
+[PlyCount "25"]
+[EventDate "1971.09.30"]
+[EventType "match"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+22. Nxd7+ $1 {This is a very famous, classical and instructive position.
+Fischer gives up his strong knight because he wants to activate his rooks on
+the 7th rank. That is a very strong long-term plan.} Rxd7 23. Rc1 {
+This was the point behind the previous move. Now both white rooks are active.}
+Rd6 24. Rc7 Nd7 25. Re2 g6 26. Kf2 $16 {All of White's pieces are active. Now
+it is time to push his pawns. Fischer will try to open more lines in the
+kingside. Finally, he managed to activate his rooks on the 7th rank and he won
+the game.} h5 27. f4 h4 28. Kf3 f5 29. Ke3 d4+ 30. Kd2 Nb6 31. Ree7 Nd5 32.
+Rf7+ Ke8 33. Rb7 Nxf4 34. Bc4 1-0
+
+[Event "Candidates sf1"]
+[Site "Denver"]
+[Date "1971.07.13"]
+[Round "4"]
+[White "Larsen, Bent"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2660"]
+[BlackElo "2760"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r5k1/2qbn2p/p2p1r2/P1pPpp2/2P5/Q1N5/2B2PPP/1RR3K1 b - - 0 22"]
+[PlyCount "23"]
+[EventDate "1971.07.06"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+22... Raf8 $5 {Here Black has some interesting options. In the King's Indian
+Defense, it is important to attack on the kingside. For that reason, Fischer
+is not caring about the open b-line. He tries to open lines on the kingside.
+He should push the pawns in order to do that.} (22... Ng6 $5) 23. Rb6 Bc8 {
+Another very nice move! Black controls the b7-square, making it imposible for
+White to enter Black's position.} 24. Ne2 f4 25. Be4 Nf5 26. Rc6 Qg7 {
+Everything is prepared step by step. The queen moves like the rook, so it is
+also important to place her in the open lines. To place the queen opposite to
+the king is another tip.} 27. Rb1 Nh4 $1 {White's position is extremely
+critical now. The only move which could keep White in the game is g3. Black
+has a lot of ideas: He can play f3, or he can sacrifice on g2, and then play
+f3. You may wonder why this happened. This happened because White didn't
+create any problems to Black in the previous moves and he didn't manage to
+find an active plan.} 28. Qd3 Bf5 29. Kh1 (29. Bxf5 $4 Qxg2#) 29... f3 $1 $19 {
+Black has a winning position now. You may like to see the rest of this
+beautiful game.} 30. Ng3 fxg2+ 31. Kg1 Bxe4 32. Qxe4 Nf3+ 33. Kxg2 Nd2 0-1
+
+[Event "Candidates qf3"]
+[Site "Vancouver"]
+[Date "1971.05.25"]
+[Round "4"]
+[White "Fischer, Robert James"]
+[Black "Taimanov, Mark E"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2740"]
+[BlackElo "2620"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r3k2r/1pq2pp1/p2p1n1p/2b1p3/4P1b1/2N1B1P1/PPPQ1PBP/3R1RK1 w k - 0 14"]
+[PlyCount "115"]
+[EventDate "1971.05.16"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+14. Bxc5 $1 {This is an interesting move. White has the heavy pieces on the
+semi-open d-line, so he opened it completely. White's pieces are dominating
+there now.} dxc5 (14... Qxc5 15. Qxd6 $1 Qxd6 16. Rxd6 $16) 15. f3 Be6 16. f4
+$5 {Actually, White didn't lose a tempo with f3, but he has won! He managed to
+push back the active bishop from g4. Black's king is in the center, so it is
+important to open the lines in order to attack him.} Rd8 (16... O-O $1 17. Nd5
+Bxd5 18. exd5 exf4 $13) 17. Nd5 $16 {It was very important for Black to castle
+in order to move the king to safety, as we learn in the video lesson. Black
+didn't do that and he had to face a very strong attack. White won the game
+afterwards.} Bxd5 18. exd5 e4 19. Rfe1 Rxd5 20. Rxe4+ Kd8 21. Qe2 Rxd1+ 22.
+Qxd1+ Qd7 23. Qxd7+ Kxd7 24. Re5 b6 25. Bf1 a5 26. Bc4 Rf8 27. Kg2 Kd6 28. Kf3
+Nd7 29. Re3 Nb8 30. Rd3+ Kc7 31. c3 Nc6 32. Re3 Kd6 33. a4 Ne7 34. h3 Nc6 35.
+h4 h5 36. Rd3+ Kc7 37. Rd5 f5 38. Rd2 Rf6 39. Re2 Kd7 40. Re3 g6 41. Bb5 Rd6
+42. Ke2 Kd8 43. Rd3 Kc7 44. Rxd6 Kxd6 45. Kd3 Ne7 46. Be8 Kd5 47. Bf7+ Kd6 48.
+Kc4 Kc6 49. Be8+ Kb7 50. Kb5 Nc8 51. Bc6+ Kc7 52. Bd5 Ne7 53. Bf7 Kb7 54. Bb3
+Ka7 55. Bd1 Kb7 56. Bf3+ Kc7 57. Ka6 Nc8 58. Bd5 Ne7 59. Bc4 Nc6 60. Bf7 Ne7
+61. Be8 Kd8 62. Bxg6 Nxg6 63. Kxb6 Kd7 64. Kxc5 Ne7 65. b4 axb4 66. cxb4 Nc8
+67. a5 Nd6 68. b5 Ne4+ 69. Kb6 Kc8 70. Kc6 Kb8 71. b6 1-0
+
+[Event "Candidates qf3"]
+[Site "Vancouver"]
+[Date "1971.05.16"]
+[Round "1"]
+[White "Taimanov, Mark E"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2620"]
+[BlackElo "2740"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1q1nrk1/pp2n1b1/2ppP2p/4pp1B/2P5/1QN5/PP1B1PPP/2R2RK1 b - - 0 16"]
+[PlyCount "49"]
+[EventDate "1971.05.16"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+16... Qxe6 $1 {Black eliminates the dangerous pawn on e6. He offers the
+b7-pawn in order to open a line and activate his rooks.} 17. Qxb7 Nf6 18. Be2
+Rfb8 $1 {This was the point behind Black's move 16...Qxe6.} 19. Qa6 Rxb2 {
+Black's rook is very active now, and he manages to win the game aftewards.} 20.
+Rfd1 e4 21. Qa3 Rb7 22. Bf4 d5 23. cxd5 cxd5 24. Nb5 Ng6 25. Nd4 Qd7 26. Qe3
+Kh7 27. h3 Rf8 28. Ba6 Rb6 29. Rc7 Qa4 30. Rxg7+ Kxg7 31. Bxh6+ Kf7 32. Be2
+Rfb8 33. Nxf5 Rb1 34. Rxb1 Rxb1+ 35. Kh2 Qd7 36. Nd4 Qd6+ 37. g3 Qb4 38. Nc6
+Qb6 39. Nxa7 Qxe3 40. Bxe3 Re1 0-1
+
+[Event "Manhattan blitz"]
+[Site "New York"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer, Robert James"]
+[Black "Shipman, Walter"]
+[Result "1-0"]
+[ECO "C60"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "1r5r/p1pkb1pp/Q1p1q1b1/N4p2/2PPp3/4B3/PP3PPP/R2R2K1 w - - 0 18"]
+[PlyCount "13"]
+[EventDate "1971.??.??"]
+[EventType "swiss (blitz)"]
+[EventRounds "14"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+18. d5 $1 {
+It is important to open lines in order to attack and Fischer knows it by heart.
+} cxd5 19. Rxd5+ Bd6 20. Rad1 {
+White protects the d5-rook, and now, he is threatening to play c5.} Ke7 21.
+Nc6+ Kf7 22. Nxb8 Rxb8 23. Rxd6 $1 {
+The nice final little combination which helps White to win a piece.} cxd6 24.
+Qxa7+ 1-0
+
+[Event "Manhattan blitz"]
+[Site "New York"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer, Robert James"]
+[Black "Gore, James"]
+[Result "1-0"]
+[ECO "C98"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1bn1rk1/2q1bppp/p2p1n2/1ppPp3/4P3/2P2N1P/PPBN1PP1/R1BQR1K1 w - - 0 14"]
+[PlyCount "68"]
+[EventDate "1971.??.??"]
+[EventType "swiss (blitz)"]
+[EventRounds "14"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+14. a4 $1 {The center is closed, and for that reason, White tries to open
+lines on the queenside.} Rb8 15. b4 Ne8 (15... cxb4 16. cxb4 {It is only White
+who can bring his rooks fast to the c-line, so Black attempts to keep it
+closed.}) 16. Nf1 g6 17. bxc5 dxc5 18. Bh6 Ng7 19. Ne3 Bd6 20. Qd2 f6 21. Ng4
+Bxg4 22. hxg4 Nf7 23. axb5 axb5 24. Ra6 {After some logical and forcing moves,
+Fischer found the opportunity to double his rooks on the a-line. His pieces
+are more active and he finally wins the game.} Ra8 25. Rea1 Qb7 26. Rxa8 Rxa8
+27. Rxa8+ Qxa8 28. Be3 Qc8 29. g5 f5 30. Qe2 f4 31. Bc1 c4 32. Bd1 Qa6 33. Qb2
+Ne8 34. g3 fxg3 35. fxg3 Nc7 36. Kg2 Kg7 37. Ne1 Qa5 38. Be2 Na6 39. Be3 Nc5
+40. Bxc5 Bxc5 41. Nf3 Ba7 42. Bf1 Qb6 43. Kh3 Qc5 44. Qa2 Qc8+ 45. Kg2 Qc5 46.
+Qe2 Qc8 47. Qd2 Qc5 1-0
+
+[Event "Manhattan blitz"]
+[Site "New York"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Fischer, Robert James"]
+[Black "Byrne, Robert Eugene"]
+[Result "1-0"]
+[ECO "B57"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1b1kb1r/p4ppp/1qpppn2/8/2B1P3/2N5/PPP2PPP/R1BQ1RK1 w k - 0 9"]
+[PlyCount "35"]
+[EventDate "1971.??.??"]
+[EventType "swiss (blitz)"]
+[EventRounds "14"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+9. Bf4 $1 {In the opening, it is necessary to develop our pieces, and this is
+exactly what Fischer does. Similarly, he is threatening the d6-pawn. Yes,
+Black can capture the pawn on b2, but White's original idea was to open the
+b-line for his rook. The conclusion is that Black can capture the pawn, but it
+is a dangerous decision to make. Please, notice that Black won't be losing by
+force, but, in practice, it will be very difficult for Black to play after
+that.} Qxb2 10. Qd3 Qb4 11. Rab1 Qc5 12. Rfd1 {Black has one pawn and White
+has very active pieces. The position is extremely critical for Black. Any
+minor mistake could prove to be a fatal error which would cost the game.} e5
+13. Bg5 Be7 14. Bxf6 gxf6 15. Ne2 Be6 16. Bxe6 fxe6 17. Rb7 $16 {Now White has
+a strong compensation for the pawn. His rook on b7 is extremely active. He won
+the game after some moves.} Kf7 18. Rdb1 d5 19. Ng3 h5 20. h4 a5 21. Qf3 Kg6
+22. R1b3 a4 23. Rc3 Qd6 24. Nxh5 f5 25. exf5+ exf5 26. Rxe7 1-0
+
+[Event "Manhattan blitz"]
+[Site "New York"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Byrne, Robert Eugene"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B90"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "1n1q1rk1/2r3pp/pB1p1b2/Np1Pp3/5nBP/5P2/PPPQ4/2KR3R b - - 0 20"]
+[PlyCount "65"]
+[EventDate "1971.??.??"]
+[EventType "swiss (blitz)"]
+[EventRounds "14"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+20... Rxc2+ $1 {This was a nice tactical blow and perhaps the only one. The
+idea is to blow open the c-line in order to bring the f8-rook there, via f7
+and c7.} 21. Qxc2 Qxb6 22. Nc6 Rf7 23. Nxb8 Qxb8 24. Kb1 Rc7 $16 {Objectively,
+White is better here, but Fischer has very active pieces. White's rooks don't
+have an open line to play on and Black is controlling the only one, the c-line.
+For those reasons, we can come to the conclusion that Black has counterplay
+for the Exchange sacrifice.} 25. Qb3 Ne2 26. Qe3 Nf4 27. Rc1 h5 28. Be6+ Kh7
+29. Qe4+ g6 30. Rhg1 Kh6 {After some moves, it is totally clear for everyone
+that Black continues having awesome and active pieces; especially, Black's
+knight on f4 is a monster. If Fischer claims that his f4-knight is better and
+stronger than any of White's rooks, then I agree with him. :-) The position is
+much more complicated due to the presence of opposite-color bishops. The side
+which has the attack will be better, it is like to play with a piece up. In
+this particular position, it's only Black who can create attacking threats.
+Black won the game afterwards.} 31. Rc6 Rxc6 32. dxc6 Qb6 33. Rc1 Nxe6 34. Qd5
+Nc7 35. Qxd6 Bg7 36. Qe7 Kh7 37. a3 a5 38. Rd1 Qxc6 39. Rd7 Ne6 40. Rd6 Qxf3
+41. Qxe6 Qf5+ 42. Ka2 e4 43. Qe7 Kh6 44. Rd7 Qf6 45. Qxf6 Bxf6 46. Rd5 e3 47.
+Rd3 e2 48. Re3 Bxh4 49. Rxe2 Bg3 50. Kb3 h4 51. a4 bxa4+ 52. Kxa4 h3 0-1
+
+[Event "Siegen ol (Men) qual-C"]
+[Site "Siegen"]
+[Date "1970.09.08"]
+[Round "4"]
+[White "Acevedo, Armando"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "A49"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2r2rk1/1bq3bp/1p1n1pp1/2pp4/3PpP2/2P1P1P1/1P3N1P/R1BQRBK1 b - - 0 22"]
+[PlyCount "53"]
+[EventDate "1970.09.05"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Mexico"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "MEX"]
+[BlackTeamCountry "USA"]
+
+22... Ra8 $1 {It's always wise to control the open file or to fight for the
+control of it. :-)} 23. Bd2 Rxa1 24. Qxa1 Ra8 {
+By using this tempo, Black is just in time to control the a-line.} 25. Qb1 Qc6
+26. b3 Ba6 27. Qb2 Bxf1 28. Rxf1 c4 29. b4 Qa4 $17 {Black has a total
+domination over the a-line and, later, he manages to win the game.} 30. Rb1 Bf8
+31. Kf1 Nb5 32. Ke2 f5 33. Nd1 Kf7 34. Nf2 Qa2 35. Nd1 Ke6 36. Qxa2 Rxa2 37.
+Rb2 Ra1 38. Be1 Kd7 39. Bd2 Kc6 40. Be1 Na3 41. Kd2 Kb5 42. Bf2 Ka4 43. Be1 Be7
+44. Bf2 Nb5 45. Kc2 Ka3 46. Rb1 Ra2+ 47. Rb2 Nxc3 48. Kxc3 Ra1 0-1
+
+[Event "Siegen ol (Men) qual-C"]
+[Site "Siegen"]
+[Date "1970.09.07"]
+[Round "3"]
+[White "Fischer, Robert James"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[ECO "B75"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "2q1k2r/pp1bppbp/5np1/4B3/2r4P/1NN2P2/PPP1Q1P1/2KR3R w k - 0 19"]
+[PlyCount "11"]
+[EventDate "1970.09.05"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "US of America"]
+[BlackTeam "Brazil"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "BRA"]
+
+19. Rxd7 $1 {Another sophisticated Exchange sacrifice!} Kxd7 (19... Nxd7 $4 20.
+Bxg7) 20. Nb5 Qc6 21. Rd1+ {This was White's idea: He activated all of his
+pieces with tempo. He wins by a crushing attack!} Ke8 22. Nc7+ Qxc7 23. Bxc7
+Rxc7 24. Qb5+ 1-0
+
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1970.08.03"]
+[Round "10"]
+[White "Fischer, Robert James"]
+[Black "Rossetto, Hector"]
+[Result "1-0"]
+[ECO "C99"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r1r3k1/1bq1bppp/p2p1n2/1p1Pp3/2n1P3/3B1N1P/PP1N1PP1/R1BQR1K1 w - - 0 16"]
+[PlyCount "69"]
+[EventDate "1970.07.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "BRA"]
+
+16. Bxc4 $5 {It is always important to eliminate your opponent's active pieces.
+Please, notice that White captured the knight with the bad d3-bishop. Black is
+forced to create a weakness for himself, by capturing with the pawn. In the
+next step, White will transfer his rook to c3, via the e3-square.} bxc4 17. Re3
+a5 18. Rc3 Qd7 19. Qc2 Ba6 20. Nxc4 $16 {
+White has a big advanatge now, an extra pawn. Later on, he wins the game.} Rxc4
+21. Rxc4 Bxc4 22. Qxc4 Rc8 23. Qd3 Qa4 24. Bg5 h6 25. b3 Qa3 26. Bxf6 Bxf6 27.
+Qd2 Bd8 28. Rb1 Bb6 29. Rb2 Qc5 30. Ne1 Qc1 31. Qxc1 Rxc1 32. Kf1 f5 33. exf5
+Rd1 34. Ke2 Rxd5 35. Nc2 Kf7 36. Ne3 Rb5 37. a4 Rc5 38. b4 axb4 39. Rxb4 Bc7
+40. Rc4 Rxc4 41. Nxc4 Ke7 42. Ne3 Kd7 43. Nd5 Ba5 44. Kd3 Kc6 45. Kc4 Be1 46.
+f3 Bd2 47. g3 Be1 48. g4 Ba5 49. Ne7+ Kd7 50. Kb5 1-0
+
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1968.??.??"]
+[Round "9"]
+[White "Nikolic, Emil"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E61"]
+[Annotator "http://chess-teacher.com"]
+[SetUp "1"]
+[FEN "r3r1k1/pp1q1p2/2p2npb/PPPp1bnp/3PpN2/2N1P1PP/1R1B1PBK/3Q1R2 b - - 0 19"]
+[PlyCount "25"]
+[EventDate "1968.09.??"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "BRA"]
+
+19... Bg4 $5 {Wow, what a blow! Such tactical sacrifices are very unpleasant
+surprises for all levels of players. Fischer's idea was to open the h-line in
+order to continue his attack. This is not the best move objectively, but it's
+extremely difficult for White to find the best defensive moves. The position
+is wild and complicated.} (19... Rab8 $5 {
+This is interesting in order to stop White's a6-threat.}) (19... Nf3+ $1 20.
+Bxf3 Bxf4 21. Bg2 $1 Bc7 $40) 20. hxg4 hxg4 21. Rh1 $2 (21. a6 $1 {It was totally necessary for White to fight back and he should have done it immediately.
+Black has a very brutal and clear plan: to check mate White's king by using
+the h-line. The only thing that White can do is try to distract Black from his
+original plan.} Nf3+ 22. Bxf3 gxf3 23. axb7 Qxb7 24. Ng2 $5 {This is an
+computer move which seeks to shut down the h-line. Of course, the game was
+played before the computer era and it was very difficult to have foreseen this
+in the game.} Kg7 25. Nh4) 21... Nf3+ 22. Bxf3 gxf3 23. Kg1 Bxf4 24. exf4 Kg7
+25. f5 Rh8 {
+Black's attack was crushing... You may like to enjoy the rest of the game.} 26.
+Bh6+ Rxh6 27. Rxh6 Kxh6 28. Qd2+ g5 29. bxc6 Qxf5 30. Nd1 Qh3 31. Ne3 Kg6 0-1
+

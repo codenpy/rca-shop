@@ -1,0 +1,276 @@
+[Event "Ruhrgebiet VK1 0910"]
+[Site "SVR"]
+[Date "2010.02.21"]
+[Round "7.5"]
+[White "Greger, Helmut"]
+[Black "Hombrecher, Kai"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "1986"]
+[BlackElo "1933"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "85"]
+[EventDate "2009.09.06"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Rochade Steele/Kray"]
+[BlackTeam "Oberhausen III"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 c5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nc3 e5 6. O-O Nge7 7. Ne1 O-O 8. Nc2
+a6 9. Ne3 Rb8 10. a4 d6 11. d3 f5 12. Ned5 Nxd5 13. Nxd5 Be6 14. Bd2 h6 15. Rb1
+b5 16. axb5 axb5 17. b3 b4 {Diagram #} 18. Nf4 $1 {The position is
+approximately equal, but Black has the initiative on the kingside because he
+is threatening to push his pawns there. White played an interesting move in
+order to exchange the knights and reduce White's initiative.} (18. Ra1 e4 19.
+Ra6) 18... exf4 19. Bxc6 fxg3 20. hxg3 {White improved his position even if
+the computer doesn't agree 100%. It's not difficult for Black to create a
+kingside attack, White can play Kg2, Rh1 and he can press h6 pawn. Please,
+also notice that the c6-bishop controls the important a8-square; so White can
+fight for the a-file control.} f4 $6 (20... Qf6 $5) 21. Bxf4 {Black starts
+over pushing! This is not a good and very characteristic strategy of amateur
+players. You should not start attacking if you cannot create a stronger army
+against the enemy kingside. In any case, White should be very careful here.}
+Rxf4 22. gxf4 Qh4 23. e3 $1 {The best one. Now we can see that White controls
+the dark squares with the pawns and he is ready to jump with the queen on f3.
+Black cannot create real threats, and White manages to win the game afterwards.
+} Bg4 24. Bf3 h5 25. Qe2 g5 26. Bxg4 hxg4 27. f3 g3 28. fxg5 Kf7 29. f4 Re8 30.
+Qg2 Rxe3 31. Rf3 Rxf3 32. Qxf3 Bd4+ 33. Kf1 Qh3+ 34. Qg2 Qg4 35. Qb7+ Kf8 36.
+Qb8+ Kg7 37. Qc7+ Kg8 38. Qd8+ Kg7 39. Qe7+ Kg8 40. Kg2 Qxf4 41. Rf1 Qd2+ 42.
+Kh3 Qh2+ 43. Kg4 1-0
+
+[Event "Porto-ch U16"]
+[Site "Porto"]
+[Date "2002.01.20"]
+[Round "5.1"]
+[White "Pereira, Carlos Miguel Silva"]
+[Black "Machado, Luis"]
+[Result "0-1"]
+[ECO "B78"]
+[WhiteElo "1404"]
+[BlackElo "1493"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "58"]
+[EventDate "2002.02.??"]
+[EventRounds "7"]
+[EventCountry "POR"]
+[Source "ChessBase"]
+[SourceDate "2002.11.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. h4 h5 11. O-O-O Rc8 12. Bb3 Ne5 13. Bh6 Qa5 14. Kb1 a6 15.
+Nd5 Qd8 16. Nf5 {Diagram #} gxf5 $2 {Black is under pressure because the
+center is stable. Black cannot do anything there, and White's pieces have
+aggressive positions close to the enemy king. I'll mentioned it once again, in
+opposite castles you need to create some counterplay on the other side of the
+board. This is not possible right now, so Black's priority is to exchange some
+pieces. You should trade your pieces with your opponent, but accepting the
+sacrifices is extremely dangerous...} (16... Bxf5 $1 17. Nxf6+ Bxf6 18. exf5
+gxf5 {White can win the exchange, but then the f6-bishop will provide good
+support to the king; White's attack will be over. White is still better, but
+Black might try to create counterplay later during the game.}) 17. Qg5 {
+Black's position is terrible now. He has extra material, but he cannot defend
+against all the threats successfully. The most obvious is the checkmate on g7;
+the e5-knight cannot go to g6, and there is pressure on the e7-pawn. The Ng6
+move is out of the list because the b3-bishop pins the f7-pawn.} Ng6 18. Bxg7 {
+Low rated and amateur (lower to 2000) players always give some chances as
+here! The Nxf6 move was winning, as you can see in the sub-variations.} (18.
+Nxf6+ $1 {Revealing the power of the b3-bishop!} Bxf6 (18... exf6 19. Qxg6 fxe4
+20. Qxg7#) 19. Qxg6+ $18) 18... Kxg7 19. exf5 Bxf5 $6 (19... Nh7 $5 20. Qxh5 e6
+$132) (19... Nxd5 $5 {Unclear.}) 20. Nxf6 Bxc2+ 21. Bxc2 exf6 22. Qxh5 Rh8 23.
+Qg4 Rc5 24. f4 Kh6 25. Bxg6 fxg6 26. h5 Rxh5 27. f5 Qe8 28. fxg6 Rxh1 29. Rxh1+
+Kg7 0-1
+
+[Event "Muensterland Verbandsklasse-A 0910"]
+[Site "Germany"]
+[Date "2010.03.20"]
+[Round "8.8"]
+[White "Loedding, Detlef"]
+[Black "Raschke, Wolf Dieter"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "1904"]
+[BlackElo "1623"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "60"]
+[EventDate "2009.09.19"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Duelmen"]
+[BlackTeam "Muenster SK IV"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Bd6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+f6 9. exd5 exd5 10. d4 Bg4 11. dxc5 Bxc5 12. Nb3 Bb6 13. h3 Bh5 14. g4 Bf7 15.
+Nbd4 a6 16. Be3 Bc7 17. Nxc6 bxc6 18. Bc5 Re8 19. Nd4 {Diagram #} Bd6 $6 {
+Here is the critical position for Black because he has a lot of options. In
+such a position, you should spend time in order to understand what your
+opponent wants to do and how to play against him. Black is in a little
+pressure, but the position is playable for both sides. The last move, bd6, is
+a tactical error; but it was very difficult to spot it during the game.} (19...
+Qd7 $5) (19... Ng6 $5) (19... Be5 $5) (19... Rc8 $5) 20. Rxe7 $6 (20. Nxc6 $1
+Nxc6 21. Rxe8+ Qxe8 (21... Bxe8 22. Qxd5+ Kh8 23. Qxd6 $18) 22. Bxd6 $16) 20...
+Qxe7 21. Nf5 $2 Bh2+ $1 {
+This is the best move that White missed, and Black is winning material.} 22.
+Kxh2 Qxc5 {
+Black has a clearly better position, and he manages to win the game afterwards.
+} 23. Qd2 Re5 24. Re1 Rae8 25. Rxe5 Rxe5 26. c3 Bg6 27. Nd4 Be4 28. f3 Bg6 29.
+Nxc6 Qxc6 30. f4 Re4 0-1
+
+[Event "Muensterland Verbandsklasse-A 0910"]
+[Site "Germany"]
+[Date "2010.04.24"]
+[Round "9.3"]
+[White "Welp, Michael"]
+[Black "Schroer, Klaus"]
+[Result "1-0"]
+[ECO "C22"]
+[WhiteElo "1944"]
+[BlackElo "1862"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "39"]
+[EventDate "2009.09.19"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[WhiteTeam "Ibbenbueren"]
+[BlackTeam "Borken"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 d6 5. Nc3 Nf6 6. Bd2 Be7 7. Bd3 Ng4 8.
+Qe2 O-O 9. f4 Nd4 10. Qf1 f5 {Diagram #} 11. Nf3 $5 {White has some good
+options, and this means that his position is good. The development is always a
+reliable way to continue the game. White tries to exchange some attacking
+pieces to reduce the pressure.} (11. O-O-O $5) (11. Nge2 $5) (11. exf5 $5)
+11... fxe4 12. Bc4+ {A typical tactical trick to avoid the double threat and
+limit Black's options. The name of the tactic is intermediate check.} Kh8 13.
+Nxd4 e3 14. Bc1 Bh4+ 15. g3 $16 {Black's attack is out of "fuel". The
+remaining pieces cannot help. Stopping all the threats means that White will
+drive back the black pieces and he will end up with a better position. Please,
+also note that the e3-pawn is far advanced without good support from its
+friendly pieces. White manages to win the game afterwards.} Nxh2 16. Qg2 Rxf4
+17. Bxe3 Qe8 18. Kd2 Rxd4+ 19. Bxd4 Bg5+ 20. Kd1 1-0
+
+[Event "44th Ikaros Open A"]
+[Site "?"]
+[Date "2021.07.11"]
+[Round "2.8"]
+[White "Tsikerdanos, Konstantinos"]
+[Black "Krallis, Christos"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "1853"]
+[BlackElo "2442"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "76"]
+[EventDate "2021.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Bb4 6. e3 h6 7. Bxf6 Qxf6 8.
+Qb3 Bxc3+ 9. bxc3 c6 10. Bd3 Nd7 11. Ne2 O-O 12. O-O h5 13. Rae1 Re8 14. Nf4 h4
+15. Bb1 Nf8 16. Qc2 g6 17. f3 Nh7 18. Nd3 Ng5 19. Ne5 h3 20. f4 Ne4 21. g4 Qh4
+22. f5 {Diagram #} Rxe5 $5 {The most practical decision! He gave up the
+Exchange, but he's going to take two important pawns in front of the
+opponent's king. White's attack is over, and he has weaknesses all over around
+his king.} (22... f6 $5 {This is the computer first choice but, for a human in
+a practical game, it's extremely difficult to calculate and play it.} 23. Nxg6
+Qxg4+ 24. Kh1 Bxf5 25. Rg1 Qf3+ $19) 23. dxe5 Qxg4+ 24. Kh1 Bxf5 {
+This came with a threat, Ng3, to win the queen.} 25. Rf4 Qh5 26. Qb2 b5 {
+Black's position is very stable. White doesn't have any open file for the
+rooks, so Black is clearly better; and he manages to win the game afterwards.}
+27. c4 bxc4 28. e6 fxe6 29. Qb7 Rf8 30. Qxc6 g5 31. Rxf5 Rxf5 32. Qxe6+ Qf7 33.
+Qxf7+ Kxf7 34. Bxe4 dxe4 35. Rc1 Ke6 36. Kg1 Kd5 37. Rc3 Kc5 38. a3 Rf3 0-1
+
+[Event "44th Ikaros International Chess"]
+[Site "?"]
+[Date "2021.07.14"]
+[Round "6"]
+[White "DELIGIANNIS, CHRISTOS NIKOLAOS."]
+[Black "KALOMIRIS, ATHANASIOS."]
+[Result "1-0"]
+[ECO "E67"]
+[WhiteElo "1684"]
+[BlackElo "1867"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "65"]
+[EventDate "2021.06.02"]
+[SourceDate "2021.07.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. Bf4 c6 8. O-O
+Qc7 9. c5 Nh5 10. cxd6 exd6 11. e4 Nxf4 12. gxf4 Nf6 13. Rc1 Nh5 14. f5 gxf5
+15. e5 Qd8 16. Kh1 Nf4 17. Rg1 Kh8 18. Ne2 dxe5 19. Nxf4 exf4 20. Bh3 Be6 21.
+Qd3 {Diagram #} Qd7 $6 {Black's position is clearly better, but now he has to
+play very accurately in order to stop White's initiative. The best way to do
+that is play Qd5, with the idea of Qe4. Black continues to play carelessly...}
+(21... Qd5 $1 22. Rc5 Qe4) (21... Qf6 $5 22. Rc5 Bd5 23. Bxf5 Qxd4 $19) 22. Rc5
+b6 (22... Bd5) 23. Rxf5 Bxf5 $6 (23... h6 $1 {The position was extremely
+critical! The calm prophylactic move can stop White's attack because the
+h3-bishop is pinned and he cannot threaten checkmate to h7. However, finding
+such moves is terribly difficult.}) 24. Bxf5 Qd5 25. Bxh7 Rad8 $6 {Before start
+ing the attack, Black should shut down White's initiative. f5 is a very strong
+move, with the idea to isolate the queen and bishop, create an escape route
+for the king, and attack the h7-bishop.} (25... f5 $1) 26. Rg5 Qd6 27. Rh5 {
+White has a huge initiative here thanks to his kingside piece superiority.
+White has a huge threat now, which Black missed... The threat is clearance of
+the square with Bg8.} Bxd4 $2 (27... Rfe8 28. Ng5 $40) (27... Bh6 28. Nh4 f3
+29. Be4 Qf4 30. Qe3 $36) 28. Bg8+ $1 {White's position is completely winning.}
+Kg7 (28... Kxg8 29. Qh7#) 29. Qh7+ Kf6 30. Rf5+ (30. Rh6+ Ke7 31. Qe4+ Kd7 32.
+Rxd6+ $18) 30... Ke7 31. Rxf7+ Ke8 32. Qh5 Qd7 33. Rg7+ 1-0
+
+[Event "44th Ikaros International Chess"]
+[Site "?"]
+[Date "2021.07.17"]
+[Round "9"]
+[White "FM Gazis, Efstathios"]
+[Black "Kesaris, Evangelos"]
+[Result "1-0"]
+[WhiteElo "2164"]
+[BlackElo "1898"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "89"]
+[EventDate "2021.07.17"]
+[SourceDate "2021.07.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+f5 9. exf5 Bxf5 10. Nc2 Nf6 11. Ne3 Be6 12. g3 O-O (12... Nd4 {Check theory})
+13. Bg2 Qd7 14. Ned5 Bd8 15. O-O Nd4 (15... Rc8 $1 16. Na4 Bxd5 17. cxd5 (17.
+Bxd5+ Nxd5 18. Qxd5+ Qf7 19. Qxd6 Nd4 20. Be3 Ne2+ 21. Kh1 (21. Kg2 Qf3+ 22.
+Kh3 Nf4+ 23. Bxf4 Rxf4 24. Qd5+ Qxd5 25. cxd5 Rxa4 $19) 21... Qf3#) 17... Nd4
+$15) 16. Be3 Bg4 17. f3 Nxd5 18. Nxd5 Be6 19. Bxd4 $6 (19. f4 Nf5) 19... Bxd5
+20. cxd5 exd4 21. Qxd4 Qb5 22. Qd2 Ba5 23. Qd1 {Diagram #} Qxb2 $5 {Here we hav
+e the first critical position. Black has a very active queen and bishop, but
+the rooks are inactive. Black should activate the rooks as soon as possible.
+It was the last round, I was disappointed from his previous day result, and I
+offered a draw a little later. This was a completely wrong approach that you
+should not follow! You should have the champion psychology and try for the
+best possible result: the win.} (23... Rae8 $1 24. Bh3 (24. a4 Qxb2 25. Rb1 Qa2
+26. Rxb7 Re2 $36 {With a huge initiative.}) 24... Re2 25. Rb1 (25. Qb3 Qxb3 26.
+axb3 Bb6+ 27. Kh1 Rxb2 $15) 25... Rd2 26. Qc1 Qe2 $19) 24. Bh3 $1 b5 25. Be6+
+Kh8 26. f4 $5 Bb6+ 27. Kh1 Qd4 {(=) This was the position in which I offered
+the draw. The game is much more sharp that it looks because White will start
+pushing his kingside pawns. Black should push his queenside pawns for
+counterplay. The main point again is to activate the rooks!! Ra7 never crossed
+to my mind because I had a wrong mindset and I started to play back and forth.}
+(27... Ra7 $1 28. a4 b4 29. Rb1 Qc3 30. Rb3 Qc5 {Unclear.}) 28. Qf3 g6 (28...
+Bc5 29. Rae1 a5 30. Re4 Qf6 31. h4 b4 $132) (28... g5 29. f5 Qf6 30. Rac1 Bc5
+31. Rc2 Kg7 32. Qh5 Ra7 33. Re1 Re7 $14 {
+White is better, but it's not obvious how he's going to open lines.}) 29. Rae1
+Qg7 $2 {A move without a plan.} (29... h5 $2 30. f5) (29... Kg7 30. Re4 Qf6 31.
+g4 $36) (29... Ra7 $1) 30. h4 Bc5 (30... Ra7) 31. Re2 Rf6 $2 (31... a5 32. Kg2
+b4 33. h5 g5 34. f5 Qf6 $132) 32. g4 Raf8 $2 (32... b4) 33. Qg3 (33. g5 Rxf4
+34. Qxf4 Rxf4 35. Rxf4 Qa1+ 36. Kh2 Bg1+ $4 (36... Qg1+ 37. Kh3 h5 $1 $11) 37.
+Kg2 $18) 33... Rb8 $5 (33... Qb7 34. Kh2 $16) 34. g5 Rff8 35. h5 gxh5 36. Rh2
+$16 {White's position is clearly better, and he manages to finish me off with
+a nice combination.} Bd4 (36... Qd4 37. Rxh5 Rb7 38. f5 $16) 37. Rxh5 Qg6 38.
+Rh4 Qe4+ 39. Qg2 (39. Rf3 $2 Qb1+ 40. Kh2 Qxa2+ 41. Kh3 Rb7 $132) 39... Qxg2+
+40. Kxg2 Kg7 (40... Rb7 41. g6 Rg7 42. f5 Bf6 43. Rh3 Rb8 44. Rfh1 Rbb7 45. Rc1
+Rbc7 46. Rc6 $18) 41. f5 Be3 42. f6+ Kg6 {Diagram #} 43. Bf5+ Kxg5 44. Rg4+
+Kxf6 45. Bc8+ 1-0
+

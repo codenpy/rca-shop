@@ -1,0 +1,81 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.01.21"]
+[Round "?"]
+[White "5...g6 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B14"]
+[Annotator "RCA"]
+[PlyCount "33"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.01.21"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 {The idea of this move is
+to reach an isolated "d" pawn position with the dark-squared bishop well
+placed on g7, creating pressure on d4. The problem with this move is that
+White has a way to prevent this situation developing an advantage.} 6. Qb3 $1 {
+The principle of keeping the tension. Creating more pressure on d5, White
+temporarily wins a pawn, because Black has no good way of defending d5.} Bg7 (
+6... e6 {Of course, this moves does not makes sense because: 1. Black's
+weakening all the dark squares on the king side. 2. Black's using two
+different plans - the one with e6 and the one with g6. So Black's position
+isn't good. White can simply develop his pieces following the main opening
+tasks, and White is better.}) (6... dxc4 7. Bxc4 {Gives White a lot of
+development and a great attacking position.} e6 8. d5 $1 {Opening up the
+position directly.} exd5 9. Nxd5 Nxd5 10. Bxd5 {With a clearly better position
+for White because of his direct threats and his more active position.}) 7. cxd5
+$1 {Taking a central pawn. Now the plans are well defined for the both sides.
+For Black: win the d5 pawn, getting the dream isolated "d" pawn position. For
+White: sacrifice the "d" pawn on the d6 square, preventing Black from
+recapturing with a piece! This way White will get a symmetrical pawn structure
+with a better piece placement.} O-O 8. Be2 {The idea of this move is to play
+Bf3, defending the d5 pawn momentarily and, at some point after the d6
+sacrifice, White's f3 bishop is going to attack b7.} Nbd7 {Black's trying to
+realise his plan of attacking d5. The idea of this move is to go with the
+knight to b6.} (8... Na6 {The idea is to attack the d5 pawn with Nc7. But this
+is a secondary move and is very easy for White to gain advantage.} 9. Bf3 {
+Completely natural move, defending the pawn and preparing to develop with Nge2}
+Qb6 (9... Nc7 10. Nge2 Rb8 11. Bf4 a6 12. Qb6 $16) 10. Nge2 Qxb3 11. axb3 Nb4
+12. O-O Rd8 13. Ra5 $1 {And White has a slight advantage and his plan is to
+return the material to get a positional advantage.}) (8... b6 9. Bf3 Bb7 10.
+Nge2 Qd7 11. O-O Rd8 12. Nf4 Na6 13. Re1 $14) 9. Bf3 Nb6 (9... Qb6 10. Nge2
+Qxb3 11. axb3 Nb6 12. Bf4 $16 {With a very comfortable endgame for White.}) 10.
+Nge2 Bg4 (10... Bf5 $5 {Its another option, with the idea of putting the
+bishop on d3 and then on c4, recapturing the "d" pawn.} 11. O-O Bd3 12. d6 $1 {
+Winning a pawn; of course, Black gets some compensation, but not enough.} exd6
+(12... Qxd6 13. Bxb7 Bc4 14. Qc2 Rad8 15. b3 Bxe2 16. Nxe2 Nbd5 17. Bd2) 13.
+Bxb7 Rb8 14. Bf3 Nbd5 (14... Re8 15. Re1 Nbd5 16. Qd1 Bc4 {Transpose}) 15. Qd1
+Bc4 16. Re1 Re8 17. b3 Bxe2 18. Nxe2 Ne4 19. Bb2 $14 {Black has some
+compensation, but White retains a slight advantage. White should try to
+activate his pieces.}) 11. Bxg4 Nxg4 12. a4 $1 {Provoking Black into weakening
+his position. This move threatens a5, saving the d5 pawn. That's why if Black
+wants to recover the material, he is forced to play a5 at some stage. The
+inclusion of moves (a4,a5) clearly favours White, because they can take
+advantage of Black's new weaknesses (the b5 square and the b7 pawn), while
+Black has no way to take advantage of White's weaknesses. Also the b6 knight
+becomes a tactical liability.} Nf6 $1 {The best move - the other alternatives
+give White an easy advantage.} (12... a5 13. Bf4 $1 Nf6 14. d6 $1 {The typical
+move!} exd6 $14 {Now White's position is slightly better, for two reasons: 1.
+More active piece placement. 2. Slightly better pawn structure (his weaknesses
+are more difficult to attack than Black's).}) (12... Qd7 13. a5 {Of course} Nc8
+14. O-O Rd8 15. Re1 {And Black has a big challenge to recover the pawn. White
+has the advantage.}) 13. Nf4 a5 {This move is the best chance.} (13... Qd7 14.
+a5 Nc8 15. O-O {And again, is very difficult for Black to recover the pawn.})
+14. O-O Qd6 {The only move to keep on protecting the b6 knight and prepare an
+attack on the d5 pawn. White can use the typical idea of this variation to
+gain an advantage.} (14... g5 {Recovers the pawn but weakens the king side
+position a lot; this determines White's advantage.} 15. Nd3 h6 16. Bd2 {Simply
+finishing the main opening tasks. White has an advantage because Black's
+position is very weak.} Nfxd5 17. Nb5 $14 {Using this important square. Now
+White's plan is to provoke Black to weaken his position even more with an
+eventual f4! or h4!, well prepared of course.}) 15. Nb5 $1 Qd7 16. d6 $1 exd6
+17. Be3 $14 {Simply finishing the opening tasks. Now White's plan is to attack
+the weak "d" pawn and use his more actives pieces to cramp Black's position.
+White should place his rooks on the open files and play calmly, putting
+pressure on Black's position. White stands better. So you should remember that
+White has two normal ways of getting advantage in this variation: 1. Return
+the pawn at the right moment, playing d6 and getting a positional advantage. 2.
+Keep the material and get a superior endgame with a pawn up, always keeping in
+mind the first way of getting an advantage.} *
+

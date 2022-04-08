@@ -1,0 +1,433 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Wolff, Patrick G"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2430"]
+[BlackElo "2540"]
+[Annotator "RCA"]
+[PlyCount "88"]
+[EventDate "1987.??.??"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "1988.02.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. c4 {This
+move is not so strong, as Black can play Nc6 directly.} Nc6 8. Nxc6 (8. Be3 Ne5
+{The threat now is Neg4.} 9. h3 b6 $5 {The idea is now to play Bb7 followed by
+d6 and Be7. Whenever White plays f4, we will take the bishop on d3. Later we
+can put our f6 knight on d7 and transfer the e7 bishop to f6.} 10. f4 Nxd3 (
+10... Nxc4 $2 11. Qc1 {with an idea b3}) 11. Qxd3 Bb7 12. Nd2 (12. Nc3 $6 {
+This allows us the very interesting and active move...} Bb4 $1 13. e5 Bxc3 14.
+Qxc3 Ne4 {The knight is very strong on e4.} 15. Qa3 {Stopping 0-0.} f6 $1 {An
+important break in the centre.} 16. exf6 gxf6 $11 {With the rook coming to g8,
+there will be pressure down the 'g' file. and the Black king is pretty safe in
+the centre.}) 12... d6 13. Rae1 Be7 {And Black will 0-0 soon and follow the
+plan that we previously mentioned - of Nd7 and Bf6.}) 8... dxc6 $1 {A very
+important move: bc6 will be preferred when we actually can play d5 in the
+centre. Here it will not be possible to play d5, so it makes more sense to
+take with the 'd' pawn. This helps us to speed up our development with e5, and
+our c8 bishop develops easily.} 9. f4 {Looks logical in order to play e5.} e5
+$1 {An extremely strong move, nipping White's idea in the bud with e5. And, at
+the same time, we keep the option of developing the bishop on c5.} 10. f5 (10.
+fxe5 Ng4 11. Qe2 Bc5+ 12. Kh1 Qxe5 $17) 10... Bc5+ 11. Kh1 h5 $1 {The knight
+is coming to g4, irrespective of whether or not White plays h3.} 12. Qe2 Ng4 {
+This is an extremely unpleasant guest in White's position. The bishop on c5
+and the knight on g4 cover a lot of dark squares in White territory.} 13. Nd2 (
+13. Bg5 {With the idea of Bh4 would have been a better option for White.})
+13... Qb6 (13... Qd8 {Is a typical idea to attack the d3 bishop and also
+threaten Qh4; but it makes more sense when White has his knight on c3.} 14. Nf3
+Nf2+ 15. Rxf2 Bxf2 16. Nxe5 $44) 14. g3 Nf2+ 15. Kg2 Nxd3 16. Qxd3 Bd4 17. Rb1
+c5 $1 {The bishop on d4 is a powerhouse in this position and the other bishop
+will be well placed on c6, attacking e4, while it's very difficult for the
+knight to come to the d5 square. Black won a very nice game.} 18. a3 Bd7 19. b4
+Ba4 20. Nf3 O-O-O 21. Be3 Bxe3 22. Qxe3 f6 23. bxc5 Qa5 24. Rb6 Rd7 25. Rd6 Rc7
+26. Rd5 Bc6 27. Rd6 Ba4 28. Rd5 Bc6 29. Rc1 Kb8 30. Nd2 Rhc8 31. Nb3 Qxa3 32.
+Rd3 Qb4 33. Rdc3 Ba4 34. Rb1 Ka8 35. Qf3 Rd7 36. Kh3 Bxb3 37. Rcxb3 Qxc5 38.
+Rc1 Qd4 39. Qe2 Rc5 40. Qxh5 Ka7 41. Qe2 Qd2 42. Qf1 Qh6+ 43. Kg4 Qg5+ 44. Kf3
+Qh5+ {Conclusion: it is important to understand that 7.c4 is weaker than 7.Qe2
+and that Black can equalise effectively with Nc6! followed by taking with dc6
+and e5.} 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.05"]
+[Round "?"]
+[White "Grischuk, A."]
+[Black "Ivanchuk, V."]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2780"]
+[BlackElo "2733"]
+[Annotator "RCA"]
+[PlyCount "79"]
+[EventDate "2013.07.04"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2013.07.09"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 {We reach the main position of our system. In this game, White
+goes for the Nf3 and Bf4 plan.} 10. Nf3 {Why does White retreat his knight
+back to f3? Well, the main reason is that he would like to play something like
+Bf4 followed by e5. Black, on the other hand, will not let White do that.} O-O
+11. Bf4 Nh5 $1 {With this move, Black prevents White from playing e5.} 12. Be3
+{This looks like the most natural move, but the problem is that Black can now
+sacrifice his bishop on g7 for the knight on c3. I call it a sacrifice because
+it is such an important bishop that we are giving up. But then why are we
+giving it up? It's for the sole reason that we can have clarity of play
+afterwards. We can put our pawns on dark square and play against White's weak
+pawns.} (12. Bd2 {Is much more conservative, as now we cannot ruin White's
+pawn structure. But we can now continue normally with...} Nd7 13. Rac1 b6 14.
+Rfd1 Bb7 15. Bg5 (15. Be3 Nhf6) 15... h6 16. Be3 Nhf6 17. h3 (17. Qd2 Ng4)
+17... Nc5 18. Bd2 Rac8 19. b3 Rfd8 {Black has a decent, playable position.})
+12... Bxc3 $1 13. bxc3 {So what do we have here? Black has given up his strong
+bishop for what? 1. The c pawns are very weak. 2.c5 is an excellent outpost
+for a Black knight. 3. Black has a ready-made idea of placing his pawns on
+dark squares like e5 and f6 and then attacking the c4 pawn. All in all, thanks
+to this Bc3 idea, the game takes on a very concrete character; and if you are
+well versed in the ideas, then you can surely play such positions better than
+your opponents - as Ivanchuk has shown on many occasions.} e5 14. Rfd1 Bg4 (
+14... Nd7 {With the idea of Nc5 followed by f6 and Be6 is also an interesting
+plan.}) 15. h3 Bxf3 16. Qxf3 Nd7 17. Bf1 Rad8 18. Bg5 f6 19. Bh6 Ng7 {Black
+has consolidated his position and the main problem for White is that he cannot
+really open up his position for the two bishops. Hence, in the long run, the
+two knights will outperform the White bishops.} 20. Rd2 Nc5 21. Rad1 Qc6 22.
+Rd5 Rf7 {Black plays carefully: removes his g7 knight from the pin, so that
+next move he can go to e6.} 23. Qe3 Nge6 24. g3 Rfd7 25. Bg2 {Defending e4 but
+forgetting about control of the c4 square.} (25. h4 {The idea of Bh3 is met
+with...} Nc7 $1 $15) 25... Na4 $1 26. Qf3 Kf7 (26... Rf7 {Would have been more
+accurate when the advantage is with Black.}) 27. h4 Ke7 28. c5 (28. h5 Qxc4 $15
+) 28... Naxc5 (28... dxc5 $15) 29. h5 Qa4 30. Be3 b6 31. Qg4 Rg8 32. hxg6 hxg6
+33. Bf3 Rdd8 34. Kg2 Rh8 35. Qxg6 Rdg8 36. Qf5 Ng7 37. Qg6 Ne8 38. Qf5 Ng7 39.
+Qg6 Ne8 40. Qf5 1/2-1/2
+
+[Event "Mukachevo m g/10'+10''"]
+[Site "Mukachevo"]
+[Date "2007.10.26"]
+[Round "1"]
+[White "Leko, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2755"]
+[BlackElo "2787"]
+[Annotator "RCA"]
+[PlyCount "167"]
+[EventDate "2007.10.26"]
+[EventType "rapid"]
+[EventRounds "12"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2007.11.14"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 10. Rd1 {This time instead of Nf3, Leko goes for Rd1 - but it
+doesn't change much.} O-O 11. Nf3 {And now not following the normal
+development of knight to d7, but the more active development with Nc6.} Nc6 12.
+h3 (12. Bf4 {Will be seen in the game Svidler-Ivanchuk.}) 12... Nd7 {The f6
+knight makes way for the bishop to sacrifice itself on c3.} 13. Be3 {When a
+player like Leko plays White, it is clear that it wasn't the case that he
+didn't consider the Bc3 move - it's just that he feels the position will be
+complex enough to give him chances. Hence he doesn't deem it necessary to make
+an uncomfortable move like Bd2.} Bxc3 $1 {As always, Ivanchuk stays true to
+this idea in the Paulsen.} 14. bxc3 {What now follows is what we must learn
+from Ivanchuk: how to play after the bishop is given up. The ideal setup as we
+know is e5-f6-Be6-Nc5-Qf7 - maybe followed by Na5 with excellent pressure on
+the c4 pawn. Ivanchuk first starts with f6, but he could have just as well
+started with e5.} f6 (14... e5 $6 {When White sees the weakness of the d5
+square and plays...} 15. Ne1 Nc5 $6 16. Bxc5 dxc5 17. Nc2 {And the White
+knight enters d5 via e3, when White has an edge.}) 15. Qd2 Rd8 {First
+defending the d6 pawn.} 16. Bc2 Nc5 {White's main problem is his light-squared
+bishop. What exactly should he do about it?} 17. Nd4 Na5 $1 {Ivanchuk goes
+after the c4 pawn. Black is already in the driving seat. With moves like e5
+Be6 and Qf7 coming up, the c4 pawn is a goner!} 18. Qe2 e5 19. Nf3 Be6 $17 20.
+Nd2 Qf7 21. f4 {Leko knows that he has lost the opening battle, so he tries to
+muddy the waters.} Rac8 (21... Nxc4 22. f5 gxf5 23. exf5 Bd5 24. Nxc4 Bxc4 25.
+Qf2 Rac8 26. Bxc5 dxc5 27. Rxd8+ Rxd8 28. Qxc5 Rd2 {Gives Black an excellent
+position. Just shows that in these rapid time controls, sometimes it's not
+possible to take the game to its logical conclusion.}) 22. Rab1 Nxc4 (22...
+exf4 23. Bxf4 Nxc4 24. Nxc4 Bxc4 {Would have given Black a clear advantage, as
+the a2 pawn hangs, too.}) 23. f5 gxf5 24. exf5 Bd5 25. Nxc4 Bxc4 26. Qg4+ Kh8
+27. Rb6 {White has some compensation now.} Bd5 (27... d5 {Was also possible.})
+28. Qh4 Bc6 29. Rb4 Rg8 30. Rg4 Qe7 31. Qh6 d5 32. Kh2 Nd7 33. Bb3 Qf7 34. Bf2
+Rxg4 35. hxg4 Rg8 36. Kh3 Rg7 37. Bh4 Kg8 38. Rd3 Kf8 39. Rg3 Ke8 40. g5 Nc5
+41. Bd1 Bd7 42. Bh5 Bxf5+ 43. Kh2 Rg6 44. Bxg6 Qxg6 45. Qxg6+ hxg6 46. gxf6 Kf7
+47. Re3 Ne4 48. Kg1 b5 49. Kf1 g5 50. Rxe4 Bxe4 51. Bxg5 Bg6 52. Ke2 Ke6 53.
+Ke3 Kf5 54. Bh4 Kg4 55. Bf2 Kg5 56. Kd2 Kxf6 57. Bc5 Bb1 58. a3 Kf5 59. Ke3 Be4
+60. g3 Bg2 61. Bb4 Bh3 62. Bc5 Bg4 63. Bb4 Ke6 64. Kd2 Kd7 65. Ba5 Kc6 66. Bb4
+d4 67. cxd4 exd4 68. Ba5 Kc5 69. Kc2 Kc4 70. Kb2 Kd3 71. Bb4 Ke2 72. Kc1 d3 73.
+Bc3 Be6 74. Bb4 Kf3 75. Kd2 Bf5 76. Ba5 Kxg3 77. Bb4 Kf3 78. Ba5 Ke4 79. Kc1
+Ke3 80. Bd2+ Kd4 81. Kb2 Kc5 82. Ba5 Kc4 83. Bd2 Bg6 84. Ba5 {A highly
+interesting struggle. But one thing that was clear right from the time Black
+initiated the Bc3 idea was that he understood the position better than White,
+as a result of which he got an advantage even against such an excellent
+theoretician like Leko. Just makes the perfect case for the Bc3 idea!} 1/2-1/2
+
+[Event "ESP-chT final"]
+[Site "Motril"]
+[Date "2008.11.02"]
+[Round "?"]
+[White "Shirov, Alexei"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2726"]
+[BlackElo "2786"]
+[Annotator "RCA"]
+[PlyCount "98"]
+[EventDate "2008.11.02"]
+[EventRounds "3"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.13"]
+[WhiteTeam "Linex Magic"]
+[BlackTeam "Cajacanarias"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "ESP"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 10. Nf3 O-O 11. Bf4 Nh5 12. Bg5 {We have already seen Be3 being
+played by Grischuk. Here White wants Black to play f6 - when his bishop will
+be bad on g7, or h6 - when, after Be3, taking on c3 won't be so good because
+the h6 pawn will be weak. Ivanchuk is having none of it. As if there is
+absolutely nothing more that he cares about in this position than the
+positional idea, he gives up his prized possession.} Bxc3 $1 {Against a maniac
+like Shirov, who can set the board alight at any time, this is a dangerous
+move. But Ivanchuk knows that he has studied this position better than many
+other players and is not afraid to try it.} 13. bxc3 e5 14. Nh4 Nc6 (14... Be6
+{Was also possible.} 15. Nf5 f6 16. Bh6 Nf4 $132) 15. g3 Bh3 (15... Be6 16. Nf5
+$1 Na5 (16... f6 17. Bh6 Rf7 18. Bd2 Rd7 19. Ne3 {And that knight gets to d5
+all the same.}) 17. Ne7+ Kg7 (17... Kh8 18. Qxh5 $1) 18. Nd5 Bxd5 19. cxd5 {
+Gives White a clear advantage. This Nf5-e7-d5 idea must be prevented at all
+costs.}) 16. Rfd1 Ng7 17. f4 {Shirov goes ahead at full steam. He doesn't
+really worry about being subtle. But I think in this position, White's king is
+in more danger than Black's king, which is well defended by three pawns in
+front of him and a fianchettoed knight.} Bd7 (17... exf4 $1 18. gxf4 Rfe8 {Was
+more to the point. White's central pawns are weak and so is his king - Black
+should be better.} 19. Qf3 Be6 20. Ng2 (20. f5 Ne5) 20... Na5 $15 {The c4 pawn
+is falling.}) 18. f5 f6 19. Bh6 Ne7 (19... g5 20. Ng2 $14) 20. g4 {White is
+now slightly better, but Ivanchuk defended tenaciously and earned a draw.} Kh8
+21. Ng2 Rf7 22. Ne3 Qc5 23. Qf2 Ng8 24. Bxg7+ Rxg7 25. Be2 Rd8 26. a4 Bc6 27.
+Nd5 a5 28. Qxc5 dxc5 29. Kf2 Rd6 30. Ke3 Rgd7 31. Nb6 Rxd1 32. Bxd1 Rd6 33. Nd5
+Nh6 34. h4 Nf7 35. Rb1 g5 36. hxg5 Nxg5 37. Bc2 Nf7 38. Ne7 Nd8 39. Nxc6 Rxc6
+40. Rd1 Nf7 41. Rd7 Nd6 42. Kd3 h6 43. Bd1 Kg8 44. g5 hxg5 45. Bh5 Kf8 46. Rh7
+Rb6 47. Rc7 Rc6 48. Rh7 Rb6 49. Rc7 Rc6 1/2-1/2
+
+[Event "Amber-blindfold 17th"]
+[Site "Nice"]
+[Date "2008.03.18"]
+[Round "4"]
+[White "Karjakin, Sergey"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2732"]
+[BlackElo "2751"]
+[Annotator "RCA"]
+[PlyCount "82"]
+[EventDate "2008.03.15"]
+[EventType "rapid"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2008.05.06"]
+[WhiteTeam "Spain"]
+[BlackTeam "Spain"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "ESP"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 10. Rd1 O-O 11. Nf3 Nc6 12. h3 Nd7 {Ivanchuk sticks to the same
+plan that he adopted against Leko. Knowing that Krajakin is young and
+ambitious 18-year-old with a rating of 2732, it could be wise to presume that
+he had come well prepared. So this game was very important because it meant
+that the risky idea of Bc3 was going to be tried against someone who was ready
+for it and that it would not be a surprise weapon. Then again, Ivanchuk's
+opponents don't really know what he would play, as he plays almost all the
+openings in the world with equal proficiency.} 13. Bf4 (13. Be3 {Was played by
+Leko, which wasn't too successful.}) 13... Bxc3 $1 14. bxc3 e5 {One more
+advantage we must not miss is that when we play e5, the d5 square is weakened.
+But the knight on c3 was in the best position to exploit that weakness. Now
+that it is gone, the d5 square won't be as weak as it would have been before.}
+15. Bh6 Rd8 {Covering the d6 pawn just in case.} 16. Qe3 Nc5 (16... f6 {Also
+made sense, because once we move the knight from d7, then to Bg5, we wouldn't
+be able to play f6. So maybe this was the more accurate way to play.}) 17. Bc2
+(17. Bg5 Re8 {Is also fine; but as I said, I prefer our plans of putting the
+pawn on f6 and Be6 and Qf7 with pressure on c4.}) 17... Qe7 {Given the closed
+nature of the position, wasting moves is not such a big crime.} (17... f6 {Was
+normal and good: the idea is to attack the c4 pawn with Be6 and Qf7.}) 18. Nd2
+Ne6 $6 {Now this is a move I really cannot understand. That e6 square is meant
+for the bishop on c8 to come to. Why would Ivanchuk change the plan?} (18...
+Be6 $1 {Is the natural square for the bishop.} 19. Rab1 f6 $15 20. Nb3 $2 Bxc4
+21. Nxc5 dxc5 $17) 19. a4 Rb8 20. Rab1 Bd7 21. Qg3 Kh8 22. Nf1 Na5 23. Ne3 Bc6
+24. Rd2 f6 25. Rbd1 Rd7 26. h4 Rg8 27. Qf3 f5 28. Qh3 f4 29. Nd5 Bxd5 30. Rxd5
+Nxc4 31. a5 Rc8 32. Bb3 Rcc7 33. h5 gxh5 34. Qxh5 b5 35. axb6 Nxb6 36. Rxe5 Nc4
+37. Red5 Rd8 38. Bxc4 Rxc4 39. Rxd6 Rxe4 40. Rxd8+ Nxd8 41. Kh2 Nf7 1/2-1/2
+
+[Event "Amber-rapid 14th"]
+[Site "Monte Carlo"]
+[Date "2005.03.27"]
+[Round "8"]
+[White "Svidler, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2735"]
+[BlackElo "2711"]
+[Annotator "RCA"]
+[PlyCount "74"]
+[EventDate "2005.03.19"]
+[EventType "rapid"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "2005.05.01"]
+[WhiteTeam "Spain"]
+[BlackTeam "Spain"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "ESP"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 10. Rd1 O-O 11. Nf3 Nc6 12. Bf4 {This is the first time we are
+seeing this move. The moves Nf3, Rd1 and Bf4 can become quite confusing. But
+in the game with Leko and also against Karjakin, we saw White play h3 here. So
+Ivanchuk tries to take advantage of the fact that h3 wasn't played, in order
+to pin the knight on f3 with Bg4.} e5 $1 {Though this is an antipositional
+move, it has a concrete idea. The point is to make use of the d4 square for
+the c6 knight and, at the same time, the bishop can be developed to g4 -
+removing the f3 knight which is the main defender of the d4 square.} 13. Be3 {
+In order to reinforce the d4 square.} (13. Bg5 {Might seem more logical
+because White attacks the knight on f6, which is the defender of the d5 square.
+} Bg4 $1 {It turns out that that d4 is weaker than the d5 square.} 14. Bxf6 (
+14. Nd5 $2 Nxd5 15. cxd5 Nd4 16. Qe3 Bxf3 17. gxf3 Qd7 $17 {Is a clear
+advantage for Black.}) 14... Bxf6 $1 (14... Nd4 $2 15. Nxd4 $1 Bxe2 16. Nd5 $1
+$16) 15. Nd5 Qd8 $1 16. Qe3 Nd4 $15 {Black has an advantage due to the pin
+towards the d1 rook.}) 13... Bg4 14. h3 Nd4 $1 {Ivanchuk is extremely accurate.
+} (14... Bxf3 15. Qxf3 {Gives White a pleasant position, as after...} Nd4 {He
+is not forced to take on d4.} 16. Qg3 $14) 15. Bxd4 Bxf3 $1 16. Qxf3 exd4 17.
+Nd5 (17. Ne2 Rfe8 {Gives Black decent counterplay. His idea is later to play
+Nd7 with the knight coming either to e5 or c5.}) 17... Nxd5 18. cxd5 {After
+precise moves by Black, we reach a position which is equal - excellent play by
+Vassily Ivanchuk! In fact, you must look at how the game ended. With the help
+of some pretty tactics, he was able to beat Peter Svidler.} Qb6 19. Rab1 Rfe8
+20. Qg3 Rac8 21. h4 Rc5 22. h5 Bf6 23. f4 Rc2 $1 24. Kh2 Rxb2 25. Rxb2 Qxb2 26.
+Rb1 Qd2 27. Rxb7 Re5 $3 28. f5 Bg5 29. Kh3 Bf4 30. Qf3 gxf5 31. g3 Be3 32. exf5
+Qxd3 33. f6 Kf8 34. Rb3 Qc4 35. Qf5 Re8 36. Rb7 Qc1 37. g4 Bf4 {So the
+conclusion is that if your opponent plays Bf4 prior to h3, then your solution
+is to play e5 followed by Bg4 and plonk a knight into d4.} 0-1
+
+[Event "Huila Centenary op"]
+[Site "Neiva"]
+[Date "2005.05.11"]
+[Round "2"]
+[White "Uribe, Mauricio"]
+[Black "Zapata, Alonso"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2359"]
+[BlackElo "2520"]
+[Annotator "RCA"]
+[PlyCount "56"]
+[EventDate "2005.05.10"]
+[EventRounds "9"]
+[EventCountry "COL"]
+[Source "ChessBase"]
+[SourceDate "2005.07.01"]
+
+{After analysing five games by Vasily Ivanchuk, we have good ideas up our
+sleeve as to what to do when our opponent plays Nf3 followed by h3 and Bf4 or
+Rd1 followed by Nf3 and Bf4 and similar ideas. But what we don't know is what
+to do if White plays naturally. i.e. if White is not interested in subtleties
+and just plays Be3 Rac1 Rfd1 and goes into normal hedgehog play. Here we will
+try to delve into such set-ups which have chances of occurring more often if
+your opponent doesn't know much theory.} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4
+a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4 g6 9. Nc3 Bg7 10. Be3 {The normal,
+natural developing move.} O-O (10... Nbd7 $5 {I recommend this mode of
+development ahead of the normal 0-0. The point is that with the bishop on d3,
+it makes sense to play Ne5 as quickly as possible. So we make that move even
+before 0-0.} 11. Rac1 (11. f4 $5 {This move stops Ne5 but weakens the e4 pawn;
+and later we can make the very thematic e5 move, securing that square for our
+pieces.} O-O 12. Rac1 e5 $1 13. Nf3 exf4 14. Bxf4 Nc5 {After this, Black will
+place his bishop on e6 - the other knight will go d7-e5.} (14... Qb6+ 15. Kh1
+Nc5 16. Bb1 Be6 17. b3 Rad8 18. Rfd1 Rfe8 {Black has a nice tenable position:
+White's e4 pawn is weak.})) 11... Ne5 {The main point of this move is that
+it's not easy for White to follow the standard plan of f3, Rfd1,Qf2 ,b4,Nb3 -
+as happened in the main game. The knight on e5 keeps putting unpleasant
+pressure on White's position.} 12. f3 {This looks like the most natural move,
+stopping Ng4.} (12. b3 Nfg4 $1 13. Bf4 Nxd3 14. Qxd3 e5 15. Nd5 Qb8 $15 {White
+will have some compensation - but a piece is a piece!}) 12... O-O $1 13. Rfd1
+b6 14. b4 {This should definitely be one of the key moves here. But it's not
+so good now, as the c4 pawn becomes weak.} (14. b3 {Is not really scary.} Bb7
+15. Bb1 Rfe8 16. Qf2 Rad8 (16... Rac8 $6 {Is met with the typical shot...} 17.
+Ndb5 axb5 18. Nxb5 Qb8 19. Nxd6 $14) 17. h3 Bf8 {Gearing up for the d5 break
+later.} 18. f4 Ned7 {And Black has a decent position.}) 14... Bb7 15. Nb3 Nfd7
+{And Black has excellent coordination. One sample line could go like this...}
+16. f4 Nxd3 17. Qxd3 Rfd8 18. Qxd6 Qxd6 19. Rxd6 Bf8 {Black will regain the
+pawn or White will have sacrificed the exchange.}) 11. Rac1 {'The white rooks
+go to their natural squares - c1 and d1. White will then play f3, Qf2 and Bf1,
+and then try to expand on the queen side. What is Black to do at that time?
+Black also has a set way of developing: Nbd7, b6, Bb7, Rac8, Rfe8, Qb8 and
+then respond to what White does. Usually the middlegames in the Hedgehog are
+dictated by lots of slow manoeuvring and moving from here to there. But if
+Black gets the break of d5 or b5 in time, then the position becomes very
+interesting and the need for accurate calculation is very high on the agenda.
+Hence you need to have a unique blend of patience and accurate timing in order
+to play the Hedgehog well.} (11. f4 $5 {Once I faced this aggressive move when
+playing on the internet. White's idea is maybe at some point to play f5 and
+blow away Black's position.} Nbd7 $1 {Is the accurate way to continue. Now f5
+is no longer possible, as the knight on e5 will sit strong.} (11... b6 $6 {Is
+the wrong way to start, as then White can continue his push forward with...}
+12. f5 $1 Nc6 13. Nxc6 Qxc6 14. fxg6 hxg6 15. e5 $18) 12. f5 (12. Rad1 e5 $1
+13. Nf3 exf4 14. Bxf4 Ne5 {Followed by Be6 - Black has a nice position.}) 12...
+Ne5 $1 {With an advantage to Black.}) 11... b6 12. Rfd1 Bb7 13. f3 Nbd7 {
+'Black develops as prescribed by the doctor!} 14. Qf2 {The queen and bishop
+battery eye the b6 pawn. Black must be careful about it.} Rac8 {This a8 rook
+is more often than not best placed on this half-open file.} 15. Bf1 Qb8 {A
+small subtlety. If Black plays Re8 directly, then he would have to calculate
+accurately the consequences of a knight fork on d6.} (15... Rfe8 16. Ndb5 $5
+axb5 17. Nxb5 Qb8 18. Nxd6 {Black is far from lost, but White has the
+initiative and it makes sense to avoid such lines if we can. All we have to do
+is to play Qb8 before Rfe8.}) 16. b4 $1 {Snatching space on the queen side.
+Sooner or later, White will have to do this.} (16. b3 {The more restrained
+approach doesn't make much sense, as later White will have to play b4 anyway,
+when he will have lost a tempo. Black can continue as in the game with Rfe8.})
+16... Rfe8 $1 {'Sometimes such moves confuse us. But they often show us that
+chess is deep. This is some kind of a mysterious rook move, as Nimzowitsch
+liked to call it. But the idea is very clear. Black would like to prepare the
+d5 breakthrough. When White takes, Black will take back and the rook on e8
+will come to life, aiming at the bishop on e3 with lot of potential exchange
+sacrifices in the offing. Hence this is the best place for the rook in
+Hedgehog structures.} 17. Nb3 {Attacks the b6 pawn and prepares a4-a5. But
+Black has set his eyes upon the d5 plan and now sees that this is the most
+opportune moment to play it.} d5 {The spiny creature fights back! All the
+pent-up energy in Black's position is released and White has to be really
+careful, as one mistake and he can land himself in an inferior position.} (
+17... Bf8 $6 {Was tried in the game Geller-Eingorn, which worked wonderfully
+as Geller played a3. However, if he had taken on b6, then I doubt Black's
+compensation.} 18. Bxb6 $1 (18. a3 $6 d5 $1 {Gives Black good play.}) 18...
+Nxb6 19. Qxb6 Nd7 20. Qf2 $16) 18. exd5 (18. Bxb6 $2 dxe4 {Is already clearly
+better for Black. White cannot play fe4, as then Black could play Ng4, winning
+the b6 bishop.} 19. fxe4 Ng4 $17) (18. cxd5 exd5 19. exd5 {Also leads to the
+same position but with the difference that White doesn't have the additional
+option of playing c5, as happened in the game.}) 18... exd5 {White has two
+moves now. Both of them are extremely critical. One is cd5 and the other is c5.
+Let's analyse them.} 19. c5 $1 (19. cxd5 Bf8 $5 {Black has the idea of
+transferring his bishop to d6 and, at the same time, attacking the b4 pawn.}
+20. a3 Bd6 {Black starts to generate dangerous counterplay.} 21. g3 a5 $132)
+19... Ne5 $6 (19... bxc5 {This should be preferred, However, White does
+maintain an edge after this.} 20. Nxc5 (20. bxc5) 20... Nxc5 21. bxc5 (21. Bxc5
+Bh6 $17) 21... Bf8 22. Bd4 Nd7 23. Na4 Qc7 24. Qd2 (24. Nb6 Nxb6 25. cxb6 Qxc1
+$19) (24. c6 Bxc6 25. Bxa6 Rb8 $15) 24... Ne5 25. Nb6 Rcd8 26. Re1 (26. f4 Nc4
+$15) 26... Re6 27. Kh1) 20. Bd4 b5 21. Qh4 (21. Na5 $16 {And White has a
+clear-cut advantage, as he has the passed 'c' pawn and his pieces are
+excellently positioned.}) 21... Nh5 22. a4 bxa4 23. Nxa4 Bf6 24. Qf2 Bg5 25.
+Na5 Nc4 26. Nxc4 dxc4 27. Nb6 Rcd8 28. Nxc4 Bc8 0-1
+

@@ -1,0 +1,75 @@
+[Event "Ilichevsk Sunny Pawn-A"]
+[Site "Ilichevsk"]
+[Date "2006.07.21"]
+[Round "2"]
+[White "Savchenko, Stanislav"]
+[Black "Zavgorodniy, Sergiy"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2508"]
+[BlackElo "2430"]
+[PlyCount "39"]
+[EventDate "2006.07.20"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UKR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "2006.09.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Nf3 Bb7 8.
+e3 c5 9. b4 d5 10. dxc5 Ne4 11. Qc2 bxc5 12. Be2 dxc4 13. Bxc4 Ng5 {Diagram #}
+14. Bb2 Nxf3+ 15. gxf3 cxb4 16. Rg1 f6 17. Bxe6+ Kh8 18. Rg3 Qe7 19. Qg6 Bc8
+20. Rh3 1-0
+
+[Event "EU-ch Blitz"]
+[Site "Ajaccio"]
+[Date "2007.10.25"]
+[Round "10"]
+[White "Fridman, Daniel"]
+[Black "Cabanes, Kim"]
+[Result "1-0"]
+[ECO "D23"]
+[WhiteElo "2621"]
+[BlackElo "1908"]
+[PlyCount "45"]
+[EventDate "2007.10.25"]
+[EventType "swiss (blitz)"]
+[EventRounds "32"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2007.11.01"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 dxc4 5. Qxc4 Bf5 6. g3 e6 7. Bg2 Bd6 8. O-O
+O-O 9. Nbd2 Nbd7 10. Qb3 Qb6 {Diagram #} 11. Nc4 Qxb3 12. axb3 Bc7 13. Nfe5
+Nxe5 14. dxe5 Nd7 15. e4 Bg6 16. f4 f6 17. exf6 gxf6 18. Be3 e5 19. Rfd1 Rad8
+20. Rxa7 exf4 21. gxf4 Bb8 22. Rxb7 Rf7 23. Ra1 1-0
+
+[Event "Helsinki ol (Men) prel-C"]
+[Site "Helsinki"]
+[Date "1952.??.??"]
+[Round "3"]
+[White "Keres, Paul"]
+[Black "Tarnowski, Alfred"]
+[Result "1-0"]
+[ECO "C86"]
+[PlyCount "79"]
+[EventDate "1952.08.21"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "FIN"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Poland"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. a4 b4 11. d3 Nc6 12. Nbd2 O-O 13. Rd1 h6 14. Nc4 Qc7 15. Ne3
+Re8 16. Nh4 Bf8 17. Qf3 Ne7 18. Nhf5 Nxf5 19. Nxf5 Nh7 20. Bb3 Be6 {Diagram #}
+21. Bc4 bxc3 22. bxc3 Bxc4 23. dxc4 Re6 24. h4 Rb8 25. g4 Rb3 26. Bd2 Qb7 27.
+Qd3 Rg6 28. f3 h5 29. g5 f6 30. Kf1 fxg5 31. hxg5 Re6 32. Rdb1 Rxb1+ 33. Rxb1
+Qf7 34. Qd5 g6 35. Rb7 Qe8 36. Ne7+ Kf7 37. Nc6+ Kg8 38. Nd8 Qxd8 39. Qxe6+ Kh8
+40. Qf7 1-0
+

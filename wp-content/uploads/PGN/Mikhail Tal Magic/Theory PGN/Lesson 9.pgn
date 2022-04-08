@@ -1,0 +1,59 @@
+[Event "URS-chT U20 sf Gr2"]
+[Site "Kharkov "]
+[Date "1953.??.??"]
+[Round "1"]
+[White "Tal, Mihail"]
+[Black "Valiev, Neron"]
+[Result "1-0"]
+[ECO "D45"]
+[PlyCount "61"]
+[EventDate "1953.??.??"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Latvia"]
+[BlackTeam "TMK"]
+[WhiteTeamCountry "LAT"]
+[BlackTeamCountry "TKM"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. e3 Bd6 6. Qc2 Nbd7 7. Bd2 Qe7 8.
+O-O-O $1 O-O 9. Kb1 (9. e4 dxe4 10. Nxe4 Nxe4 11. Qxe4 e5 $132) 9... dxc4 (9...
+a6 $142 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 e5) 10. Bxc4 b5 11. Bd3 Bb7 12. e4
+e5 13. dxe5 Nxe5 (13... Bxe5 14. Nxe5 Nxe5 15. f4 Nxd3 $11) 14. Nxe5 Bxe5 15.
+f4 Bd4 (15... Bxc3 16. Bxc3 Rfd8 17. e5) 16. e5 Ng4 {Diagram #} 17. Bxh7+ Kh8
+18. Bf5 $40 Nf2 19. Be1 Nxh1 20. Rxd4 Rad8 21. Rd3 Rxd3 22. Qxd3 g6 23. Qh3+
+Kg8 24. Bh4 f6 25. Be6+ Kg7 26. Ne4 Nf2 27. Bxf2 fxe5 28. Bc5 Qd8 29. Bxf8+
+Qxf8 30. f5 gxf5 31. Qg3+ 1-0
+
+[Event "URS-chT U20 final Gr2"]
+[Site "Kharkov "]
+[Date "1953.??.??"]
+[Round "4"]
+[White "Tal, Mihail"]
+[Black "Maslov, Leonid P"]
+[Result "1-0"]
+[ECO "D55"]
+[PlyCount "91"]
+[EventDate "1953.??.??"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2008.11.26"]
+[WhiteTeam "Latvia"]
+[BlackTeam "UZB"]
+[WhiteTeamCountry "LAT"]
+[BlackTeamCountry "UZB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 b6 7. cxd5 exd5 8. Bd3
+Be6 9. Qc2 Nbd7 10. O-O c5 11. Rad1 c4 12. Bf5 a6 13. Ne5 g6 {Diagram #} 14.
+Bxe6 fxe6 15. Bh6 Nxe5 16. dxe5 Ng4 17. Bxf8 Bxf8 18. Ne2 Nxe5 19. e4 Nd3 20.
+exd5 exd5 21. Nc1 Nxc1 22. Qxc1 Bg7 (22... b5 23. Rfe1 d4 24. a4 d3 $132) 23.
+Rfe1 $32 b5 24. Re6 d4 25. Rde1 d3 26. Qe3 Bxb2 27. Re7 d2 $6 (27... Kh8 28.
+Qh6 Qg8 $132) 28. Rd1 Bc3 29. Qe6+ Kh8 30. Qf7 Qg8 31. Qf3 b4 32. Rxd2 Rf8 33.
+Qe4 b3 34. axb3 cxb3 35. Rdd7 Bf6 36. Rxh7+ Qxh7 37. Rxh7+ Kxh7 38. Qb7+ Bg7
+39. Qxb3 a5 40. g3 Rc8 41. h4 Rc1+ 42. Kh2 Ra1 43. Qc2 Kh6 44. g4 Be5+ 45. Kg2
+Bg7 46. h5 1-0
+

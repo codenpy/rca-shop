@@ -1,0 +1,200 @@
+[Event "NY State CA Winter-ch32"]
+[Site "New York"]
+[Date "1910.02.26"]
+[Round "4"]
+[White "Capablanca, Jose Raul"]
+[Black "Kreymborg, Alfred"]
+[Result "1-0"]
+[ECO "D02"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "97"]
+[EventDate "1910.02.22"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2002.11.25"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 c5 5. c3 Nc6 6. Bd3 Bd6 7. Bxd6 Qxd6 8.
+Nbd2 e5 9. dxe5 Nxe5 10. Nxe5 Qxe5 11. Bb5+ Bd7 12. Qa4 Qc7 13. O-O-O O-O 14.
+Bxd7 Nxd7 15. Nf3 Qc6 16. Qxc6 bxc6 17. Nd2 Ne5 18. Kc2 c4 19. Rhf1 f5 20. Nf3
+Nxf3 21. gxf3 Rae8 22. Rd4 Rf6 {Diagram #} 23. b3 $5 {The idea is to open the
+a-line and attack the a7 weakness. Please notice that if you cannot attack the
+a pawn then it's not a real weakness. For that reason, White doesn't mind if
+he undouble the c-pawns, but his main goal is to create an attack against the
+a7-pawn.} (23. Rfd1 $5) (23. h4 $5) 23... cxb3+ (23... f4 $5 {This is a very
+serious idea in order to create counterplay. Black would like to do the same,
+probably to undouble White's pawns, but to fully activate his rooks and
+continue pressing the e3 and f3-pawns.} 24. e4 Rfe6 25. exd5 Re2+ 26. Kb1 cxd5
+27. Rxd5 cxb3 28. axb3 R8e6 29. Ra5 $14 {White is a pawn up, but Black has
+extremely active rooks and good chances to hold the balance here.}) 24. axb3
+Kf7 25. Kd3 {White had a clear plan and we can see it in action right now. The
+a7-pawn is weak and White can transfer the rooks to the a-line. The king is
+very helpful in the center because it is stopping Black's counterplay. In the
+light of that, White has a small, but stable advantage.} Re7 26. Ra1 Ke6 (26...
+Rh6 27. h4 $16) 27. Ra6 {White manages to create weaknesses on a7 and c6; more
+importantly, he opened lines and his rooks are extremely active now, creating
+huge problems for Black.} Rc7 28. Rda4 g5 29. h4 $5 {White didn't give in the
+temptation to capture the a7-pawn immediately but, firstly, he would like to
+stop Black's counterplay on the kingside.} (29. Rxa7 $2 Rxa7 30. Rxa7 Rh6 $132)
+29... g4 30. Ke2 gxf3+ 31. Kxf3 {White has a clear advantage and he manages to
+win the game afterwards.} Rff7 32. Ke2 Kd6 33. b4 Rb7 34. h5 $2 (34. f4 $142 $1
+Rg7 35. Kd3 h5 36. R4a5 Rg1 (36... Rg4 37. Kd4 Rxh4 38. Rxd5+ $18) 37. b5 $16)
+34... h6 (34... f4 $142 $1 35. exf4 Rbe7+ 36. Kd1 Rxf4 37. Rxa7 Ref7 $132) 35.
+f4 Rg7 36. Kd3 Rge7 37. Ra1 $5 (37. R4a5 $142 $1 Rbc7 38. b5 Re4 39. bxc6 Rce7
+40. c7+ Kxc7 41. Rxa7+ $18) 37... Rg7 38. Kd4 Rg2 39. R6a2 Rbg7 40. Kd3 Rxa2
+41. Rxa2 Re7 42. Rg2 Re6 43. Rg7 Re7 44. Rg8 c5 45. Rg6+ Re6 46. bxc5+ Kd7 47.
+Rg7+ Kc6 48. Rxa7 Kxc5 49. Rf7 1-0
+
+[Event "St Petersburg International Preliminary"]
+[Site "St Petersburg"]
+[Date "1914.04.26"]
+[Round "4"]
+[White "Lasker, Emanuel"]
+[Black "Rubinstein, Akiba"]
+[Result "1-0"]
+[ECO "C82"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "131"]
+[EventDate "1914.04.21"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2002.01.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxd2 12. Qxd2 f6 13. exf6 Rxf6 14. Nd4 Nxd4
+15. cxd4 Bb6 16. a4 Rb8 17. axb5 axb5 18. Qc3 Qd6 19. Be3 Bf5 20. Rfc1 Bxc2 21.
+Rxc2 Re8 22. Rac1 Rfe6 23. h3 Re4 24. Qd2 R8e6 25. Rc6 Qd7 26. Rxe6 Qxe6 27.
+Qd3 Qe8 28. Qc3 Kf7 29. Qd3 Kg8 30. Qc3 Qe6 31. Ra1 Qe8 32. Kf1 h6 33. Qd3 Kf7
+34. Rc1 Kg8 35. Qb3 Qf7 36. Rd1 c6 37. f3 Qf6 38. Qd3 Re7 39. Bf2 Qd6 40. Qc2
+Kf7 41. Rc1 Re6 42. Qf5+ Rf6 43. Qe5 Re6 44. Qxd6 Rxd6 45. Ke2 Ke7 46. Kd3 Rg6
+47. g3 Rf6 48. f4 Kd7 49. Re1 Rf8 50. Ra1 h5 51. Be3 g6 52. Rf1 Kd6 53. g4 hxg4
+54. hxg4 {Diagram #} c5 $2 {Black has plenty of good moves here. In general,
+the most important thing is to activate and organize your pieces. Yes, the
+c6-pawn is backward; however, White cannot attack it. Black was in a hurry to
+exchange some pawns and the bishops; but this only helped White.} (54... Rh8
+$142 $5 $36) (54... Ke6 $5 55. Rc1 Kd7 56. Rh1 Bc7 57. Rh7+ Kc8 58. Rg7 Bxf4
+59. Bxf4 Rxf4 60. Rxg6 Kd7 $11) (54... Ra8 $5) 55. dxc5+ Bxc5 56. Bxc5+ Kxc5
+57. f5 $16 {White has very good freedom now, more space and the passed pawn.}
+gxf5 58. gxf5 Rf6 59. Rf4 b4 (59... d4 60. Ke4 Rd6 61. Rf3 $1 {White's rook is
+extremely active and he has a winning position here.} (61. f6 d3 62. f7 d2 63.
+Rf1 Rd8 64. Ke3 Kc4 65. Ke2 Kb3 $1 66. Kd1 Rf8 $11) 61... Rf6 62. Ke5 Rf8 63.
+f6 $18) 60. b3 Rf7 61. f6 $18 {White has a winning position and he manages to
+convert his advantage afterwards.} Kd6 62. Kd4 Ke6 63. Rf2 Kd6 64. Ra2 $1 Rc7
+65. Ra6+ Kd7 66. Rb6 1-0
+
+[Event "SVK-chT 0708"]
+[Site "Slovakia"]
+[Date "2008.02.16"]
+[Round "8"]
+[White "Petrik, Tomas"]
+[Black "Horvath, Mario"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "2489"]
+[BlackElo "2283"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "107"]
+[EventDate "2007.10.20"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Modra "]
+[BlackTeam "Nove Zamky SK Basta"]
+[WhiteTeamCountry "SVK"]
+[BlackTeamCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 Qc7 12. g4 Rfc8 13. h4 Qa5 14. a3 Rab8
+15. Ne2 Qxd2 16. Rxd2 a6 17. Nf4 Nd7 18. Bxg7 Kxg7 19. g5 Rc5 20. Nd3 Ra5 21.
+Bh3 Bxh3 22. Rxh3 Nb6 23. f4 h6 24. Rf3 Rh8 25. Rdf2 d5 26. e5 e6 27. h5 Nd7
+28. Rg3 Nc5 29. b4 Nxd3 30. Rxd3 Rb5 {Diagram #} 31. hxg6 $1 {White here has a
+lot of interesting moves to calculate. In the actual game, he chose the best
+one; I hope you have done the same.} (31. gxh6+ $6 Rxh6 32. hxg6 Rxg6 33. f5
+Rg5 $132) (31. Rg2 $5) (31. c4 $5 dxc4 32. Rd7 {However, this line isn't a
+promising advantage to White.}) 31... Kxg6 32. gxh6 Rxh6 33. f5+ $1 $16 {This
+exercise was difficult because White created the weakness three moves before
+the diagram position.} Kh7 (33... exf5 34. Rg3+ Kh7 35. Rxf5 $18) 34. Kb2 $5
+$16 {He didn't choose the most accurate move; however, this move is also very
+good. White has a clear advantage thanks to the space control and his active
+rooks. After a fighting game, he managed to win it.} (34. Rg3 $1) 34... Rh5 35.
+f6 d4 36. Rg3 Rbxe5 37. Rg7+ Kh6 38. Rxf7 Ref5 39. Rxf5 Rxf5 40. Rxb7 e5 41.
+Re7 Kg6 42. f7 Kg7 43. a4 Kf8 44. Rd7 Rf6 45. a5 Rc6 46. Kc1 Rc8 47. b5 axb5
+48. a6 d3 49. a7 Rxc2+ 50. Kd1 Ra2 51. Rd8+ Kxf7 52. a8=Q Rxa8 53. Rxa8 Ke6 54.
+Rb8 1-0
+
+[Event "Zaragoza Casablanca op 5th"]
+[Site "Zaragoza"]
+[Date "2011.12.31"]
+[Round "9"]
+[White "Mirzoev, Azer"]
+[Black "Georgiev, Kiril"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2510"]
+[BlackElo "2666"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "124"]
+[EventDate "2011.12.23"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2012.02.29"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 c5 5. Nc3 cxd4 6. Nxd4 Bb7 7. f3 Nc6 8. Ndb5
+Qb8 9. Be3 a6 10. Nd4 Ne5 11. b3 Bc5 12. Bf2 O-O 13. e3 d5 14. cxd5 Nxd5 15.
+Nxd5 Bxd5 16. b4 Bd6 17. Be2 Rd8 18. Qb1 b5 19. h3 Nc4 20. e4 Bb7 21. Bxc4 bxc4
+22. Qc2 Be5 23. Rd1 Rd7 24. O-O Qc7 25. Ne2 Rad8 26. Bc5 Rd3 27. Nc1 Rc3 28.
+Qa4 h6 29. Ne2 Rcd3 30. Nc1 Rd2 31. Rxd2 Rxd2 32. Kh1 Bf4 33. Re1 Qd8 34. Ne2
+Bb8 35. Be3 Qc7 36. Bg1 Kh7 37. b5 axb5 38. Qxb5 c3 39. Nxc3 Qxc3 40. Qxb7 Bg3
+41. Rb1 Qc2 42. Qb3 Rxg2 43. Qxc2 Rxc2 44. Rb3 g5 45. a4 Ra2 46. a5 Kg6 47. a6
+Rxa6 48. Rb2 Kh5 49. Kg2 Kh4 50. Bc5 Ra4 51. Rc2 h5 52. Be7 Be5 53. Bc5 Bd4 54.
+Bxd4 Rxd4 55. Rf2 {Diagram #} Rd3 $5 {Black here has the advantage but, in
+order to win, he should create more weaknesses. The computer suggests to push
+immediately the pawns to f4 or f5 but, in the endgames, you should not be in a
+hurry. White cannot stop the advancement of the f-pawn; so, firstly, he
+improves the position of his rook.} (55... f5 $5) (55... f6 $5) 56. Kh2 Re3 57.
+Kg2 f6 $22 {Black wins time in order to push the white king into a bad
+position.} 58. Kh2 (58. Rf1 Re2+ $1 59. Rf2 Rxf2+ 60. Kxf2 Kxh3 $19) 58... g4
+$1 {Now it's time to advance the pawn and make the breakthrough in order to
+open lines and create weaknesses.} 59. hxg4 hxg4 60. fxg4 Kg5 $1 {A key move.
+It's important not to exchange the pawns, but to protect them in order to
+collect White's weaknesses later. White won easily by creating weaknesses in
+this game.} 61. Rc2 Rxe4 62. Kh3 Re3+ 0-1
+
+[Event "DSB Kongress-17 Meisterturnier-16"]
+[Site "Hamburg"]
+[Date "1910.07.20"]
+[Round "3"]
+[White "Speijer, Abraham"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "C01"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "96"]
+[EventDate "1910.07.18"]
+[EventRounds "17"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Ne7 5. exd5 exd5 6. Qf3 Nbc6 7. Bb5 O-O 8.
+Nge2 Bf5 9. O-O-O a6 10. Bd3 Bxd3 11. Qxd3 Na5 12. a3 Bxc3 13. Bxc3 Nc4 14.
+Rde1 Nc6 15. Nf4 Qd6 16. Qf3 Rad8 17. Nd3 a5 18. Qf4 Qxf4+ 19. Nxf4 b5 20. Nd3
+Rb8 21. Ne5 N6xe5 22. dxe5 c5 23. b3 {Diagram #} d4 $5 {Black exchanges his
+knight for the bishop in order to destroy White's kingside pawns and attack
+them later.} (23... Nxa3 $5 24. Bxa5 Ra8 25. Bd2 d4 $17 {This is also a strong
+and possible continuation.}) (23... b4 $2 24. bxc4 bxc3 25. cxd5 $14 {White
+has a powerful center now.}) 24. bxc4 dxc3 25. Re3 b4 26. a4 (26. axb4 cxb4 $17
+{Black has a huge advantage here because the c4 and e5-pawns are weak and easy
+to fall into the attack by Black's rooks. Please also notice that Black has a
+fantastic queenside majority that can advance in the appropriate moment.})
+26... Rbd8 $19 {The result of this variation is that White has destroyed the
+queenside pawns and Black's rooks are active. Thanks to the weaknesses,
+Black's rook manages to enter White's position and collect some pawns. Black
+won the game after some moves.} 27. Rhe1 Rd4 28. Re4 Rxe4 29. Rxe4 Rd8 30. e6
+fxe6 31. Rxe6 Rd2 32. Re5 Rxf2 33. Kb1 Rf1+ 34. Ka2 Rc1 35. Rxc5 Rxc2+ 36. Kb1
+Rb2+ 37. Kc1 Rxg2 38. Rb5 Kf7 39. c5 Ke6 40. c6 Kd6 41. c7 Kxc7 42. Rxa5 Rxh2
+43. Rb5 Rb2 44. a5 Kc6 45. Rb8 Kc5 46. a6 Ra2 47. Rc8+ Kb5 48. Rb8+ Kc4 0-1
+

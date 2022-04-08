@@ -1,0 +1,159 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg"]
+[Date "2018.12.26"]
+[Round "4.42"]
+[White "Reshetnikov, Alexey"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2537"]
+[BlackElo "2810"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "63"]
+[EventDate "2018.??.??"]
+[WhiteTeam "Russia"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 f5 6. e3 Nf6 7. Nge2 O-O 8. O-O
+d6 9. b3 g5 10. f4 h6 11. Bb2 Bd7 12. Qd2 Qe7 13. Rae1 Rae8 14. Nd5 Nxd5 15.
+cxd5 Nb8 16. fxe5 Bxe5 17. Nd4 Qg7 18. Qb4 $6 {
+The following sequence by White is dubious} (18. b4 $5 $14 {
+Was interesting, trying to restrict Black's knight}) 18... Na6 19. Qc4 b5 $5
+20. Qc2 f4 {Diagram #} 21. Ne6 $1 {
+This forces the exchange of Black's strongest piece, which is his e5 bishop.} (
+21. gxf4 gxf4 22. Qd2 $6 Bh3 $5 $17 {and Black is attacking}) (21. Qd2 fxe3 $5
+(21... fxg3 22. hxg3 Bxg3 23. Ne6 $13 Qe7 24. Nxf8 Bxe1 25. Qxe1 Rxf8 26. Rxf8+
+Qxf8 27. b4 $5 $44) 22. Qxe3 Rxf1+ 23. Rxf1 Bf4 24. Qf3 Be3+ 25. Kh1 g4 26. Qf6
+Qxf6 27. Rxf6 Bg5 28. Rf1 Nc5 $17) 21... Bxe6 22. Bxe5 Qxe5 23. gxf4 $1 {
+A good intermediate move, before capturing on e6.} gxf4 24. dxe6 fxe3 (24...
+Rxe6 25. Qf2 Qg5 26. exf4 Rxe1 27. Qxe1 Rxf4 28. Rxf4 Qxf4 29. Qe8+ Kg7 30.
+Qd7+ Kf6 31. Qd8+ {Will most likely lead to a perpetual}) 25. Qc6 $6 (25. Rxf8+
+Rxf8 26. d4 Qxe6 27. Bd5 Qxd5 28. Qg6+ Kh8 29. Qxh6+ Kg8 30. Qg6+ $11) 25...
+Nc5 $4 {A losing move} (25... Nb4 $1 26. Rxf8+ Rxf8 $17) 26. d4 $3 Qxd4 (26...
+Rxf1+ 27. Rxf1 {and the rook on e8 is also hanging}) 27. Rxf8+ Kxf8 (27... Rxf8
+28. e7 $18) 28. Rf1+ Kg7 29. Rf7+ Kg6 30. Qxe8 e2+ 31. Kh1 Kg5 32. Qg8+ 1-0
+
+[Event "FIDE World Rapid Championship"]
+[Site "St. Petersburg"]
+[Date "2018.12.26"]
+[Round "5.24"]
+[White "Amin, Bassem"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2630"]
+[BlackElo "2802"]
+[PlyCount "72"]
+[EventDate "2018.??.??"]
+[WhiteTeam "Egypt"]
+[BlackTeam "Armenia"]
+[WhiteTeamCountry "EGY"]
+[BlackTeamCountry "ARM"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 a5 7. e4 a4 8. a3 c5
+9. Re1 Nc6 10. e5 Nd7 11. Nf1 {Diagram #} f6 $1 {White's pawn on e5 is
+restricting Black's knights and also preventing a possible e5 to free his
+bishop on c8. Additionally, the e5 pawn can take part in an attack, supporting
+the f6 square. Therefore, it makes sense to try to exchange it.} (11... b5 {
+Is another typical alternative, trying to gain space on the queenside}) 12.
+exf6 Nxf6 13. Bf4 Bd6 $5 {Black tries to exchange another active piece.} 14.
+Ne5 $6 {The knight won't be able to stay here.} (14. Bxd6 $11) 14... Qc7 15.
+Qe2 $6 (15. Nxc6 Bxf4 16. gxf4 $15) 15... Nd4 16. Qd2 Nd7 17. Nxd7 Bxf4 18.
+gxf4 Bxd7 19. Re5 Nc6 (19... Rxf4 $17 {was also strong} 20. Qxf4 Ne2+ 21. Rxe2
+Qxf4 $17) 20. Rae1 (20. Rg5 Rxf4 $17) 20... Nxe5 21. fxe5 Rf7 22. Ng3 Raf8 23.
+Re2 Qd8 24. Qe3 b6 25. c4 Bc6 26. Bh3 Rf3 27. Bxe6+ Kh8 28. Qd2 dxc4 29. Bxc4
+b5 30. e6 bxc4 31. e7 Qd5 32. exf8=Q+ Rxf8 33. Ne4 cxd3 34. Re3 h6 35. Qc3 c4
+36. Rg3 Qf7 0-1
+
+[Event "Ch URS (1/2 final)"]
+[Site "Tbilisi (Georgia)"]
+[Date "1956.??.??"]
+[Round "16"]
+[White "Yuri Nikolaevich Sakharov"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "0-1"]
+[ECO "C16"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "83"]
+[EventDate "1956.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Nge2 b6 6. a3 Bxc3+ 7. Nxc3 Ne7 8. b4
+O-O 9. Bd3 c5 10. O-O Nbc6 11. dxc5 bxc5 12. bxc5 Nxe5 13. Bxh7+ Kxh7 14. Qh5+
+Kg8 15. Qxe5 {
+The position is roughly equal. White is a pawn up, but his pawns are weaker.}
+f6 16. Qe2 Rb8 17. a4 Rb4 18. Rd1 Qc6 19. Nb5 Ba6 (19... Qxc5 $2 20. Ba3 $18)
+20. Qe1 Re4 21. Qa5 Rb8 22. Rb1 (22. Nxa7 Qb7 23. Nb5 Bxb5 24. axb5 Qxb5 $11)
+22... Ra8 23. c3 Qc8 24. c4 Nc6 (24... Bxb5 25. axb5 $14) 25. Qd2 Rxc4 $5 {
+An interesting and practical exchange sacrifice. Black gives the rook for
+Whiteâ []s pawn and strong knight.} (25... Bxb5 26. cxb5 Ne5 27. c6 $16) 26.
+Nd6 Qd7 27. Nxc4 Bxc4 {Although Black is down material, his pieces are more
+active and his central pawns might advance in the future. Additionally, White
+does not have many open files for his rooks and the c5 pawn might become weak.}
+28. Qf4 (28. Qc3 $5 $14) 28... d4 (28... e5 $4 29. Qxc4 $18) 29. Qd6 Rd8 30.
+Qxd7 Rxd7 31. f3 e5 $1 32. g4 $2 (32. Kf2 $13) 32... Be2 33. Re1 Bxf3 34. h3
+Kf7 35. Kf2 Bd5 36. Bd2 g5 37. a5 e4 $1 $17 38. a6 Ne5 39. Kg3 Nd3 40. Red1
+Nxc5 41. Bb4 Ne6 42. Rbc1 {
+White resigned. The central pawns will cost him more material.} 0-1
+
+[Event "Havana ol (Men) fin-A"]
+[Site "Havana CUB"]
+[Date "1966.11.??"]
+[Round "4"]
+[White "Bent Larsen"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "0-1"]
+[ECO "C01"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "96"]
+[EventDate "1966.??.??"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. exd5 exd5 5. d4 c6 6. Bd3 Bd6 7. O-O O-O 8.
+Ne2 Re8 9. Ng3 Nbd7 10. Nf5 Nf8 11. Nxd6 Qxd6 12. Ne5 N6d7 13. Bd2 f6 14. Qh5 {
+Diagram #} Rxe5 $5 {Another interesting exchange sacrifice by the great
+Petrosian. Black exchanges his rook for a strong knight and also gets strong
+central pawns that will restrict White's pieces.} (14... fxe5 $6 15. Qxe8 $17)
+(14... Re7 15. Nf3 $14 {And White pieces are active.}) 15. dxe5 fxe5 16. Rfe1 (
+16. f3 $5 $14) 16... e4 $1 17. Bf1 Nf6 18. Qh4 Bf5 $44 {
+Black now manages to develop all of his pieces.} 19. Qg3 Qe7 20. c3 Ne6 21. Be3
+Ng4 22. h3 Nxe3 23. Rxe3 Rf8 24. Qe5 Bg6 25. Rd1 Qf7 26. Rd2 Nf4 27. b4 h6 28.
+a4 Bh7 29. Qd4 b6 30. Re1 Qc7 31. Qe3 c5 32. bxc5 bxc5 33. g3 (33. Rb1 $13)
+33... Nd3 34. Bxd3 exd3 35. Qe6+ (35. Rxd3 $5 Bxd3 36. Qxd3 $11) 35... Qf7 36.
+Qxf7+ Kxf7 {Now Black's position is at least easier to play.} 37. Rb2 c4 $1 38.
+f3 $2 (38. Rb4 Kf6 $15) (38. Rb7+ Kf6 39. Rc7 Be4 40. Rxa7 Bf3 41. Ra6+ Kf7 $17
+{and the d pawn is too strong.}) 38... d4 $1 $17 39. Rc1 (39. cxd4 c3 $17 {
+and the pawns are unstoppable}) 39... Ke6 $1 40. Kf2 Be4 41. f4 Re8 42. g4 Bc6
+43. Re1+ Kd5 44. Rxe8 Bxe8 45. cxd4 c3 46. Rb8 d2 47. Rd8+ Kc4 48. Rc8+ Kd3 0-1
+
+[Event "USSR Championship"]
+[Site "Riga URS"]
+[Date "1958.02.??"]
+[Round "15"]
+[White "Nikolai Krogius"]
+[Black "Viktor Korchnoi"]
+[Result "0-1"]
+[ECO "B43"]
+[Annotator "Remote Chess Academy"]
+[PlyCount "82"]
+[EventDate "1958.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qc7 7. O-O Bb7 8. Qe2
+Nc6 9. Nxc6 dxc6 10. a4 b4 11. Nd1 c5 12. Ne3 Ne7 13. b3 Nc6 14. Bb2 Bd6 15. h3
+{Diagram #} Be5 $5 {Black exchanges one of White's best pieces, the bishop on
+b2. This move also has a solid positional basis; after the exchange Black will
+gain full control of the d4 square, which can be used for the knight.} (15...
+O-O {was also possible}) (15... Nd4 16. Bxd4 cxd4 17. Nc4 $11) 16. Bxe5 Nxe5
+17. f4 Nc6 18. e5 Nd4 $1 19. Qh5 O-O-O $5 {
+Korchnoi decides to play aggressively} (19... Rd8 $13) 20. Nc4 $6 (20. Rad1 $13
+) 20... Nxb3 $5 21. Nd6+ (21. cxb3 Rxd3 $15) 21... Rxd6 22. exd6 Qc6 $1 $15 23.
+d7+ Kc7 $1 (23... Kb8 24. Qg5 $1 Qxd7 25. cxb3 Qxd3 26. Qxc5 $14) 24. Qe5+ (24.
+Qg5 Nxa1 $17) 24... Kxd7 25. Qxg7 Nxa1 26. f5 $2 (26. Rxa1 Rd8 $15 {
+Black pieces have better coordination.}) 26... Qxg2+ $1 27. Qxg2 Bxg2 $19 28.
+fxe6+ fxe6 29. Kxg2 c4 $1 30. Be4 (30. Bxc4 Nxc2 $19) 30... Nxc2 $3 {
+Black finishes the game in style. The passed pawns are too strong.} 31. Bxc2 b3
+32. Be4 Kd6 33. Rc1 Kc5 $6 (33... Rc8 $19) 34. Kf3 $6 (34. Bd3 $1 Rg8+ 35. Kf2
+Kd4 36. Bxc4 b2 37. Rb1 Rf8+ 38. Ke2 Kxc4 39. Rxb2 {offered more resistance})
+34... Kb4 $1 35. Ke3 c3 36. Rb1 Ka3 37. Ra1+ Kb2 38. Rb1+ Ka2 39. Rg1 c2 40.
+Kd2 Rd8+ 41. Kc1 Rc8 0-1
+

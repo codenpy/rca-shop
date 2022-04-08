@@ -1,0 +1,205 @@
+[Event "Ch World FIDE"]
+[Site "Groningen (Netherlands)"]
+[Date "1997.??.??"]
+[Round "4"]
+[White "Dreev Alexey (RUS)"]
+[Black "Zvjaginsev Vadim (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E33"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d5 6.Bg5 h6 7.Bxf6
+Qxf6 8.e3 O-O 9.a3 Bxc3+ 10.Qxc3 Re8 11.Rc1 Bd7 12.cxd5 exd5
+13.Be2 Nd8 14.Ne5 Bf5 15.g4 Be4 16.f3 Bh7 17.Qxc7 Nc6 18.Nxc6
+bxc6 19.Rc3 Re7 20.Qxc6 Qxc6 21.Rxc6 Rxe3 22.Kf2 Rb3 23.Rhc1
+g5 24.Rc8+ Rxc8 25.Rxc8+ Kg7 26.Rc5 Rxb2 27.Ke1 Rb1+ 28.Kd2 Rb2+
+29.Kd1 Rb1+ 30.Kd2 Rb2+ 31.Ke1 Rb1+ 32.Kf2 Rb2 1/2-1/2
+
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Rudakovsky Iosif (RUS)"]
+[Black "Botvinnik Mikhail (RUS)"]
+[Result "0-1"]
+[ECO "E36"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "14 Ch"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 Nc6 7.Nf3
+Ne4 8.Qb3 Na5 9.Qa4+ c6 10.cxd5 exd5 11.e3 Bf5 12.Bd3 Qb6 13.Qc2
+Nb3 14.Rb1 c5 15.Nh4 Be6 16.O-O ( 16.Bxe4 dxe4 17.Qxe4 Qa5+ 18.Ke2
+cxd4 19.exd4 O-O $41 ) Rc8 17.Bxe4 ( 17.dxc5 Rxc5 18.Qe2 O-O
+19.f3 Nd6 {-1.22} ) cxd4 18.Qd3 dxe4 19.Qxe4 O-O 20.exd4 Rfe8
+21.d5 ( 21.Be3 Bc4 22.Qg4 Bxf1 23.Rxf1 Red8 {-1.22} ) Bd7 22.Qd3
+( 22.Qf4 Bb5 23.Be3 Qd8 24.Rfe1 Bd3 25.Rbd1 Bc2 {-1.22} ) Qb5
+( 22...Nxc1 23.Rfxc1 Rxc1+ 24.Rxc1 Qh6 {!} 25.Qc4 Bb5 {!} 26.Qc5
+b6 {-1.22} ) 23.Qd1 ( 23.Qg3 Qxf1+ 24.Kxf1 Bb5+ 25.Kg1 Re1# )
+Qc4 ( 23...Rc4 24.g3 Rd4 25.Qf3 Bg4 26.Qg2 Be2 27.Re1 Bd3 {-1.22} )
+24.Be3 Re5 25.g3 Bg4 26.f3 Bh3 27.Re1 g5 28.f4 Rxd5 29.Qf3 gxh4
+30.g4 Nd2 31.Bxd2 Rxd2 32.Qxh3 Qxf4 33.Qxh4 Rcc2 34.Qg3 Qd4+ 0-1
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1939.??.??"]
+[Round "15"]
+[White "Makogonov Vladimir (AZE)"]
+[Black "Botvinnik Mikhail (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E37"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "11 Ch"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d5 6.a3 Bxc3+ 7.Qxc3
+Ne4 8.Qc2 e5 9.e3 Bf5 10.Bd3 exd4 11.exd4 O-O 12.O-O Re8 13.Be3
+dxc4 14.Qxc4 Nd6 15.Qc2 Ne7 16.Bxf5 Ndxf5 17.Rfe1 c6 18.Rad1
+Qd5 19.Qc5 f6 20.Bd2 a6 21.Ba5 Qd7 22.Kf1 Nd5 23.Bb4 h5 24.Bd2
+Rxe1+ 25.Rxe1 Re8 26.Rxe8+ Qxe8 27.Qc2 Qe6 28.Qd3 Kf7 29.h3 g6
+30.a4 Nd6 31.b3 Qe4 32.Qxe4 Nxe4 33.Ke2 g5 34.Be3 Ke6 35.Kd3
+Nd6 36.Bd2 Nf5 37.Ne1 Nde7 38.g4 hxg4 39.hxg4 Nh6 40.f3 Nd5 1/2-1/2
+
+[Event "Olympiad"]
+[Site "Moscow (Russia)"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Lautier Joel (FRA)"]
+[Black "Timman Jan H (NED)"]
+[Result "0-1"]
+[ECO "E37"]
+[Annotator "Smirnov"]
+[PlyCount "108"]
+[EventDate "1994.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6 8.
+e3 e5 9. Nf3 Bf5 10. Bd3 exd4 11. O-O Bg6 12. exd4 O-O 13. b4 Re8 {!} (13...
+Bh5 14. Bxe4 dxe4 15. Qxe4 Re8 16. Qf4 Bxf3 17. Qxf3 Nxd4 {=}) 14. c5 a6 (14...
+Bh5 15. b5 $16 {!}) 15. Bb2 Ng5 16. Ne5 Bxd3 17. Qxd3 Qf6 18. Rae1 Rad8 19. Qd1
+{?!} (19. Nxc6 Qxc6 20. f3 {=}) 19... Nxe5 20. dxe5 Qf5 21. f4 Ne4 22. Bd4 Re6
+23. Re3 Rg6 24. Qe1 Rc8 25. Qe2 h5 26. Kh1 Ra8 27. Rd3 b6 28. Be3 b5 29. a4
+bxa4 30. Ra1 Rb8 31. Rxa4 d4 32. Bxd4 Qxf4 33. Rf3 Qg4 34. Re3 Qd7 35. Ra2 Rxb4
+36. Rxe4 Rxd4 37. Rxd4 Qxd4 38. Rd2 Qg4 39. Qxg4 Rxg4 40. Rd8+ Kh7 41. Rd7 Rc4
+42. Kg1 Rxc5 43. Rxf7 Kg6 44. e6 a5 45. Rf8 Re5 46. Ra8 Kf6 47. Ra6 g5 48. Kf2
+c5 49. Kf3 c4 50. Rc6 a4 51. Ra6 a3 52. g3 a2 53. h4 g4+ 54. Kf4 Re2 0-1
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1939.??.??"]
+[Round "17"]
+[White "Kotov Alexander (RUS)"]
+[Black "Botvinnik Mikhail (RUS)"]
+[Result "0-1"]
+[ECO "E33"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "11 Ch"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d5 6.e3 O-O 7.a3 Bxc3+
+8.Qxc3 Bd7 9.b3 a5 10.Bd3 a4 11.Nd2 Re8 12.O-O e5 13.dxe5 Nxe5
+14.Bb2 axb3 15.Nxb3 Ne4 16.Qc2 Nxc4 17.Bxc4 dxc4 18.Qxc4 Qg5
+19.f4 Qg6 20.Rfd1 Nd6 21.Qd3 Bf5 22.Qc3 Be4 23.Rd2 Bc6 24.Qd3
+Nf5 25.Be5 f6 26.Bxc7 Rxe3 27.Qc4+ Kh8 28.Bb6 Ree8 29.Qf1 h5
+30.Nd4 Nxd4 31.Bxd4 Re4 32.Re1 Rxe1 33.Qxe1 Rxa3 34.Kh1 Ra8 35.Re2
+Kh7 36.h3 Re8 37.Qf2 Qxg2+ 38.Qxg2 Rxe2 0-1
+
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1940.??.??"]
+[Round "7"]
+[White "Keres Paul (EST)"]
+[Black "Kotov Alexander (RUS)"]
+[Result "1-0"]
+[ECO "E33"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "12 Ch"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.e3 d5 6.Nf3 O-O 7.a3 Bxc3+
+8.Qxc3 Bd7 9.Bd3 a5 10.O-O a4 11.Bd2 Na5 12.Ne5 dxc4 13.Nxc4
+Nb3 14.Rad1 c5 15.dxc5 Rc8 16.Nb6 Rxc5 17.Qb4 Nd5 18.Nxd5 Rxd5
+19.Bc3 Bc6 20.Bc2 Nc5 21.Rxd5 Qxd5 22.Qg4 g6 23.Rd1 Qh5 24.Qxh5
+gxh5 25.Rd4 Rc8 26.g4 e5 27.Rc4 Bd5 28.Rb4 f6 29.gxh5 Bf3 30.Rc4
+Kh8 31.Kf1 b5 32.Bf5 Rc6 33.Rb4 Rb6 34.Bg4 Bd5 35.Be2 Bc6 36.f3
+Kg7 37.Rg4+ Kh6 38.Bb4 Ne6 39.Kf2 Kxh5 40.Be7 f5 41.Rg8 f4 42.e4
+Bd7 43.Bf6 b4 44.axb4 h6 45.Bxe5 Rxb4 46.Bc3 Rb6 47.Ra8 Ng5 48.Ra6
+Rb8 49.Bc4 Rc8 50.Bd5 Be8 51.h4 Kxh4 52.Rxh6+ Bh5 53.Kg2 Nxf3
+54.Bf7 Ng5 55.Be1+ 1-0
+
+[Event "Match \"]
+[Site "Moscow (Russia)"]
+[Date "1946.??.??"]
+[Round "3"]
+[White "Pachman Ludek (GER)"]
+[Black "Lilienthal Andor (HUN)"]
+[Result "1/2-1/2"]
+[ECO "E33"]
+[PlyCount "83"]
+[EventDate "1946.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d5 6. e3 O-O 7. Bd2 dxc4 8.
+Bxc4 Bd6 9. Bb5 e5 10. Bxc6 exd4 11. Nxd4 bxc6 12. Na4 c5 13. Nxc5 Bxc5 14.
+Qxc5 Re8 15. Ba5 Ba6 16. O-O-O Ne4 17. Qc2 Qg5 18. Bc3 c5 19. Nb3 Rab8 20. h4
+Qe7 21. f3 Nxc3 22. Qxc3 Rb4 23. Kb1 Reb8 24. Qxc5 Qxc5 25. Nxc5 Rxb2+ 26. Ka1
+Bc4 27. Rd8+ Rxd8 28. Kxb2 Rd5 29. Nb3 Bxb3 30. axb3 Rd2+ 31. Kc3 Rxg2 32. Ra1
+h6 33. Rxa7 Rg3 34. b4 Rxf3 35. b5 Rxe3+ 36. Kd4 Rb3 37. Kc5 g5 38. Ra4 Kf8 39.
+hxg5 hxg5 40. Re4 f5 41. Re5 Kf7 42. Rxf5+ 1/2-1/2
+
+[Event "It"]
+[Site "Schiavno Zdroj (Poland)"]
+[Date "1950.??.??"]
+[Round "8"]
+[White "Shapil (POL)"]
+[Black "Keres Paul (EST)"]
+[Result "0-1"]
+[ECO "E33"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Nc6 4.Nc3 Bb4 5.Qc2 d5 6.e3 O-O 7.a3 Be7
+8.b4 b6 9.Be2 Bb7 10.O-O a5 11.b5 Nb8 12.Bb2 Nbd7 13.Nd2 c5 14.bxc6
+Bxc6 15.e4 dxe4 16.Ncxe4 Rc8 17.Rac1 Qc7 18.Qd3 Rfd8 19.Qe3 Qb7
+20.Bf3 b5 21.cxb5 Qxb5 22.Nxf6+ Nxf6 23.Bxc6 Rxc6 24.Rxc6 Qxc6
+25.Rc1 Qb5 26.Rc2 h6 27.h3 Rb8 28.Qc3 Qf5 29.Nf3 Nd5 30.Qc4 Bd6
+31.Ne5 Qe4 32.Qe2 Qf5 33.Qd2 a4 34.Qd3 Qxd3 35.Nxd3 Bxa3 36.Bxa3
+Rb3 37.Rc8+ Kh7 38.Ne5 Rxa3 39.Nxf7 Ra1+ 40.Kh2 a3 41.Rh8+ Kg6
+42.Ne5+ Kf5 43.f3 Kf4 44.Ra8 Ke3 45.Rxa3+ Rxa3 46.Nc4+ Kf2 47.Nxa3
+Ne3 48.f4 Nxg2 49.f5 exf5 50.d5 Nf4 51.d6 g5 52.Nc2 g4 53.hxg4
+fxg4 54.Ne1 g3+ 0-1
+
+[Event "Ch World (juniors) (under 20)"]
+[Site "Matinhos (Brazil)"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Pedersen Svend (DEN)"]
+[Black "Miladinovic Igor (GRE)"]
+[Result "1-0"]
+[ECO "E33"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 e6 4.Nf3 Bb4 5.e3 Nf6 6.Qc2 O-O 7.Bd3
+dxc4 8.Bxc4 Qe7 9.a3 Bd6 10.e4 e5 11.d5 Nd4 12.Qd3 Bg4 13.Nxd4
+exd4 14.Qxd4 Be5 15.Qe3 Bxc3+ 16.bxc3 Qxe4 17.Qxe4 Nxe4 18.f3
+Nd6 19.Be2 Bf5 20.c4 Rfe8 21.Kf2 b6 22.Bf4 Re7 23.Rhe1 Rae8 24.Bf1
+Kf8 25.Rxe7 Kxe7 26.c5 bxc5 27.Be3 Rb8 28.Bxc5 Rb2+ 29.Ke1 a5
+30.Bd4 Rb3 31.Bxg7 Bd3 32.Be2 Nf5 33.Be5 Bxe2 34.g4 Bc4 1-0
+

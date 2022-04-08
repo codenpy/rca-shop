@@ -1,0 +1,251 @@
+[Event "27Ô ƒ…≈»Õ≈” ‘œ’—Õœ’¡ Õ… ¡…¡”"]
+[Site "?"]
+[Date "2019.08.26"]
+[Round "8"]
+[White "Grioriadis, Mixail"]
+[Black "Fountas, Petros"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2191"]
+[BlackElo "1832"]
+[PlyCount "99"]
+[EventDate "2019.09.05"]
+[SourceDate "2019.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nc3 O-O 5. e4 d6 6. Qd2 Nbd7 7. O-O-O c6 8.
+e5 Ne8 9. Ne4 Qc7 10. exd6 exd6 {Diagram #} 11. Nxd6 $1 {
+White is punishing Black for slow development.} Nxd6 12. Qb4 c5 13. dxc5 a5 14.
+Qa3 Nc4 15. Bxc7 Nxa3 16. Bd6 Bh6+ 17. Nd2 Rd8 {Diagram #} 18. f4 $2 {
+White is playing optimisticly. It was much better to capture the Knight now
+because this Knight is controling squares around the White's King. White
+thoght that dominate in the position, however he didn't calculate correctly
+all of Black's tactical posibilities.} Nxc2 19. Kxc2 Nxc5 20. Bxc5 Bf5+ 21. Ne4
+Bxe4+ 22. Bd3 {Diagram #} Bxd3+ $2 (22... Rxd3 $1) 23. Rxd3 Rxd3 24. Kxd3 Bxf4
+25. Bd4 b5 26. Bf6 Ra6 27. Bc3 f5 28. a3 a4 29. Kd4 Rc6 30. Kd5 Rc4 31. h4 Bg3
+32. h5 Kf7 33. Rh3 f4 34. hxg6+ Kxg6 35. Rh1 h5 36. Rd1 Kf5 37. Rd4 Rxd4+ 38.
+Bxd4 Bh4 39. Kc6 Bf6 40. Bf2 Bxb2 41. Kxb5 Bxa3 42. Kxa4 {Diagram #} Bc1 {
+It was important to push the pawn to the 4th rank and then to activate theking.
+} (42... Be7) 43. Kb3 Be3 44. Be1 Ke4 45. Kc2 Kd4 46. Bc3+ Kc4 47. Bf6 Bf2 48.
+Kd2 Bd4 49. Bd8 Kd5 50. Kd3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.05"]
+[Round "?"]
+[White "Poupalos"]
+[Black "Kalomoiris"]
+[Result "1-0"]
+[ECO "B90"]
+[PlyCount "57"]
+[EventDate "2019.09.05"]
+[SourceDate "2019.09.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f4
+Ng4 9. Bd2 Qb6 10. Qe2 exf4 11. Bxf4 Nd7 12. h3 Nge5 13. O-O-O Be7 14. g4 O-O
+15. Kb1 Rac8 16. Nd5 Bxd5 17. exd5 (17. Rxd5 $5) 17... Rfe8 18. Qg2 {Diagram #}
+Nc4 19. Bxc4 Rxc4 20. Bc1 Rec8 21. Rd2 {Diagram #} a5 (21... Bg5 22. Re2 Bxc1
+23. Rxc1 Ne5 $36) 22. Qg1 Qc7 (22... Bd8 $5 {Black can continue the attack
+even without Queens. We should not follow blindly the chess rules... It wasn't
+nesesary here to keep the Queens on the board.} 23. Qxb6 Bxb6 $15) 23. Nd4 Rc5
+(23... Bf6 {Remove the defender of the c2 pawn.} 24. Nf5 Rxc2) 24. Qg2 {
+Diagram #} g6 $6 (24... Nb6 $17) 25. g5 a4 26. h4 Qa5 27. h5 Rxd5 28. hxg6 fxg6
+29. Qh3 {And Black realize that the Nd7 is pinned.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.05"]
+[Round "?"]
+[White "Kalomoiris"]
+[Black "?"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "39"]
+[EventDate "2019.09.05"]
+[SourceDate "2019.09.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. f4 Nb6 10. b3 d5 11. Nd2 {Diagram #} Qb4 $6 12. Qf3 Bc5 13. a3 Qa5
+14. Bb2 Be7 15. Be2 O-O 16. b4 Bxb4 17. axb4 Qxb4 18. Bc3 Qc5 19. Rxa6 d4 20.
+Ne4 *
+
+[Event "SUMMER OPEN By A.s.o.p DIAS - A¥GROUP"]
+[Site "?"]
+[Date "2019.07.21"]
+[Round "5"]
+[White "Kesaris, Evangelos"]
+[Black "Pavlis, Antonios"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "1879"]
+[BlackElo "1672"]
+[Annotator "Kesaris,E."]
+[PlyCount "124"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.07.21"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Qc2 bxc4 5. e4 d6 6. Bxc4 g6 7. Nf3 Bg7 8. O-O
+O-O 9. Re1 Nbd7 10. h3 Rb8 11. Nc3 Nb6 12. Bf1 Bb7 13. Bg5 h6 14. Bh4 Nh5 15.
+g4 Nf6 16. Rad1 Qc8 17. Bg3 h5 18. g5 Nfd7 19. e5 dxe5 20. Nxe5 Nxe5 21. Bxe5
+Bxe5 22. Rxe5 Ba6 23. Bxa6 Qxa6 24. Rxe7 Nc4 25. b3 Nd6 26. Ne4 Nxe4 27. Rxe4
+Rb6 28. Qe2 Qc8 29. d6 Qf5 30. Qe3 Kh7 31. Re5 Qc2 32. Qd2 Qxd2 33. Rxd2 Rd8
+34. d7 Rb7 35. Red5 Rc7 36. Kg2 c4 37. bxc4 Rxc4 38. Kf3 Kg7 39. R5d4 Rc5 40.
+Ke4 Kf8 41. Rd5 Rc4+ 42. R5d4 Rc5 43. f4 Rc3 44. Ke5 Rc6 45. Rd6 Rc5+ 46. R6d5
+Rc6 47. f5 gxf5 48. Kxf5 Kg7 49. a4 Rc3 50. h4 Rc4 51. R2d4 Rc6 52. Rd6 Rc5+
+53. Ke4 Rc7 54. a5 Rc5 55. a6 Rc7 56. Kf4 Kh7 {Diagram #} 57. g6+ (57. Ke5 Kg7)
+57... fxg6 {Diagram #} 58. Kg5 (58. Ke5 $18 Rc5+ (58... Kg7 59. Ke6 Kf8 60.
+Rf4+ Kg7 61. Ke7 $18) 59. Ke6 Kg7 60. Ke7) 58... Rf8 $1 59. R6d5 (59. R4d5 Rc4
+60. Rxg6 (60. Rf6)) (59. Rf6 Rc5+ 60. Kf4 Rxf6+) 59... Rc3 (59... Rxd7 60.
+Rxd7+) 60. Rg4 Rcf3 (60... hxg4 61. d8=Q Rxd8 62. Rxd8) 61. d8=Q R3f5+ 62. Rxf5
+Rxf5# 0-1
+
+[Event "SUMMER OPEN By A.s.o.p DIAS - A¥GROUP"]
+[Site "?"]
+[Date "2019.07.26"]
+[Round "6"]
+[White "Kosmadakis, Panagiotis"]
+[Black "Kesaris, Evangelos"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1661"]
+[BlackElo "1879"]
+[Annotator "Kesaris,E."]
+[PlyCount "40"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.07.26"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 Nc6 5. Nd2 cxd4 6. exd4 g6 7. Be2 Bg7 8.
+Ngf3 O-O {Diagram #} 9. h4 $6 h5 (9... Bg4 10. Ne5 Bxe2 11. Qxe2 Nh5 12. Bg5
+Nxe5 13. dxe5 $36) 10. Ne5 Nxe5 11. Bxe5 {1:34} Qb6 {1:14} 12. Nb3 {1:15} (12.
+Qb3) 12... Ne4 {1:12} 13. Bxg7 Kxg7 14. g4 $2 Qf6 15. f3 Ng3 16. Rh3 Qf4 (16...
+hxg4 $2 17. Rxg3 Qxh4 18. Kf2 Qh2+ 19. Rg2 g3+ 20. Kf1 Bh3 $19) 17. Nc5 Nxe2
+18. Qxe2 hxg4 19. Nd3 gxf3 20. Qf2 (20. Nxf4 fxe2 21. Rh2 Bg4 $17) 20... Qe4+
+0-1
+
+[Event "27Ô ƒ…≈»Õ≈” ‘œ’—Õœ’¡ Õ… ¡…¡” "]
+[Site "?"]
+[Date "2019.08.30"]
+[Round "4"]
+[White "Kesaris, Evangelos"]
+[Black "Penesis, Dimitrios"]
+[Result "*"]
+[ECO "A41"]
+[WhiteElo "1883"]
+[BlackElo "1567"]
+[Annotator "Kesaris,E."]
+[PlyCount "65"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.08.30"]
+
+1. d4 d6 2. g3 Nd7 3. Bg2 e5 4. Nf3 Be7 5. O-O e4 6. Nfd2 f5 7. c4 Ngf6 8. Nc3
+{Diagram #} O-O (8... c6 9. f3 d5) 9. f3 e3 $6 10. Nb3 f4 11. gxf4 Nb6 12. Na5
+Nh5 13. Bxe3 Nxf4 14. Bxf4 Rxf4 15. e3 Rf5 16. b4 d5 (16... c5 17. dxc5 dxc5
+18. Qxd8+ Bxd8 19. Rad1 $16) 17. c5 Rg5 18. f4 Rg6 19. Kh1 (19. Qb3 Bh3 (19...
+Nc4 20. Nxc4 dxc4 21. Qxc4+ Be6 22. d5) (19... Nd7) 20. Rf2 Bh4 21. Re2 Bg4 (
+21... Qd7 22. Rf1 Qg4 23. Qc2) 22. Rd2 Qe7 23. Nxd5) (19. f5) 19... c6 20. a3
+Nd7 21. Nb3 (21. e4 $1 dxe4 22. Nxe4 Nf6 23. Qb3+ Kh8 24. Ng5 $18) 21... Nf6
+22. Bf3 Bf5 23. Rg1 Qd7 24. Ra2 Qe6 25. Rxg6 hxg6 (25... Bxg6) 26. Qg1 Kf7 27.
+Nd2 Rh8 28. Nf1 Ne4 29. Ne2 Bh4 30. Neg3 Nxg3+ 31. Nxg3 Bxg3 32. Qxg3 Qxe3 (
+32... Rh3 $1) 33. Bxd5+ *
+
+[Event "27Ô ƒ…≈»Õ≈” ‘œ’—Õœ’¡ Õ… ¡…¡” "]
+[Site "?"]
+[Date "2019.09.02"]
+[Round "7"]
+[White "IM Kofidis, Andreas"]
+[Black "Kesaris, Evangelos"]
+[Result "0-1"]
+[ECO "B94"]
+[WhiteElo "2268"]
+[BlackElo "1883"]
+[PlyCount "116"]
+[EventDate "2019.??.??"]
+[Source "Analyze This"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qd2 Qc7 8.
+Be2 h6 9. Bxf6 Nxf6 10. Nd5 Nxd5 11. exd5 h5 (11... Bd7) 12. O-O Bd7 13. Rfe1
+g6 14. Bf3 Bg7 15. c3 Bf6 16. Rad1 Kf8 17. h3 Rc8 18. Be4 Qc4 19. Nb3 Ba4 20.
+Bc2 Qc7 21. Re3 Bxb3 22. axb3 a5 23. Re4 b5 24. Bd3 Qb7 25. Be2 Kg7 26. Bf3 Ra8
+27. g3 a4 28. Rb4 a3 29. bxa3 Rxa3 30. Kg2 Qc7 31. Rc1 Rb8 32. Rc2 Raa8 33. Qd3
+Qc5 34. Be2 Ra5 35. h4 Rc8 36. Re4 Ra3 37. b4 Qc7 38. Qxb5 Rxc3 39. Rxc3 Qxc3
+40. Qd3 Qb2 41. b5 Rc3 42. Qd1 Rc1 43. Qa4 Qd2 (43... Qb1 44. Kf3 (44. Qb4 Rg1+
+45. Kf3 Qc2 (45... Qa1 46. b6 Rb1 47. Qa4 Qc3+)) 44... Rc3+ 45. Kg2 Rc1 46. Kf3
+Rh1 47. Rb4 Qe1 48. Rc4 Rh2) 44. Qb4 Bc3 45. Qc4 Be5 (45... Rb1 46. Qd3 Qc1 47.
+Bf1) (45... e5 46. dxe6 (46. Qd3 Qb2 $17) 46... d5 47. e7 dxc4 48. e8=Q Qe1 49.
+Kf3 Bd2 $3 (49... Qh1+ 50. Ke3 Bf6 51. Rxc4 Rxc4 52. Bxc4 Qc1+ 53. Kd3 Qc3+ $19
+) 50. Re3 Bxe3 51. Kxe3 Rc3+ 52. Kd4 Rd3+ 53. Kc5 Qxf2+ 54. Kc6 Re3 $19) 46.
+Qb4 (46. Qd3 Qe1 (46... Qb2) 47. Bf1 Qa5) 46... Qxd5 (46... Bc3 47. Qc4 e5 (
+47... Be5 48. Qb4 Qxd5 49. b6 f5 50. b7 fxe4 51. b8=Q e3+ 52. f3 Rc2 53. Q8b5
+Qd1 54. Q4c4 d5 55. Qd3 Qe1)) 47. b6 Qb7 (47... Rc3 $5 48. b7 (48. Bf3 Rxf3 49.
+Kxf3 f5) 48... Rb3 49. b8=Q) (47... Bc3 $5 48. Qc4 (48. Qb5 Qxe4+) 48... Qb7
+49. Bf3 d5 50. Rf4 e6 $14) (47... f5 $5 48. b7 fxe4 49. b8=Q e3+ 50. Bf3 $4 (
+50. f3 $1 Rc2 $11 51. Q8b5 Qd1 $1 52. Qxe5+ dxe5 53. Qxe7+ Kh8 54. Qxe5+ Kh7
+55. Qe7+ Kg8 56. Qe8+ Kg7 57. Qe7+ $11) 50... exf2 (50... Qa2) 51. Kxf2 Bd4+
+52. Kg2 Rc2+ 53. Kf1 Qxf3+ 54. Ke1 Qe2#) 48. Bf3 Qa6 49. Be2 (49. Re2 Qa1 50.
+Rxe5 (50. b7 Rh1 51. Bd5 Qf1+ 52. Kf3 Bxg3 53. Kxg3 Rh3+ 54. Kf4 Qxe2 55. Qb2+
+e5+ 56. Qxe5+ Qxe5#) 50... dxe5 51. b7 Rh1 52. Bc6 Qf1+ 53. Kf3 Rg1 54. b8=Q {
+Diagram #} Qd3#) 49... Qa1 (49... Qb7 50. Bf3 Qa6 51. Re2 Qa1 52. b7 Rh1 $1 (
+52... Rg1+ $4 53. Kh2) 53. Bd5 Qf1+ 54. Kf3 Bxg3 $1 $11 (54... Rg1 55. Ke3 Qc1+
+56. Kd3 Rd1+ 57. Rd2 Rxd2+ 58. Qxd2 Qb1+ 59. Qc2 Qb5+ 60. Qc4 Qb1+ $11)) 50. b7
+Rg1+ 51. Kf3 Rb1 (51... Rxg3+ 52. fxg3 Qg1) 52. b8=Q Rxb4 53. Rxb4 (53. Qxb4
+Bc3 54. Qb5 Qh1+ 55. Ke3 Qc1+ 56. Kd3 Qd2+ 57. Kc4 d5+ 58. Qxd5 Qa2+ 59. Kc5
+Qa7+ 60. Kb5 Qa5+) 53... Qh1+ 54. Ke3 Qc1+ 55. Kd3 Qc3+ 56. Ke4 d5+ 57. Kxd5
+e6+ 58. Ke4 f5# 0-1
+
+[Event "27Ô ƒ…≈»Õ≈” ‘œ’—Õœ’¡ Õ… ¡…¡” "]
+[Site "?"]
+[Date "2019.08.28"]
+[Round "2"]
+[White "Kesaris, Evangelos"]
+[Black "Papadopoulos, Petros"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "1883"]
+[BlackElo "2195"]
+[Annotator "Kesaris,E."]
+[PlyCount "97"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.08.28"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. Qc2 c6 8. O-O
+Nbd7 9. b3 b6 10. Bf4 Ba6 11. a4 c5 12. Nbd2 Rc8 13. dxc5 Bxc5 14. e4 dxc4 15.
+Nxc4 Qe7 16. Rfd1 Ng4 17. Rf1 e5 18. Bg5 Ngf6 19. Nh4 h6 20. Nf5 Qe6 21. Be3
+Bxc4 22. bxc4 Bxe3 23. Nxe3 Nb8 24. a5 b5 25. Rac1 Rc5 26. Qe2 Rfc8 {Diagram #}
+27. Rfd1 $1 {I'll lose the pawn but I'm hoping for activity.} bxc4 28. Nf5 Ne8
+29. Bh3 Kh7 30. Kg2 Qf6 31. Ne3 R8c6 {Diagram #} 32. Nd5 (32. Qb2 $1 Na6 33.
+Bf5+ g6 34. Bd7) 32... Qg5 33. Bf5+ g6 34. h4 Qxc1 (34... Qd8 35. Bg4 (35. Nb4
+Qxa5 36. Nxc6 Rxc6 (36... Nxc6 37. Rd7 gxf5 38. Qh5)) 35... Qxa5 36. Qf3 Kg7
+37. Ra1 Qd8 38. Rxa7 $40) 35. Rxc1 gxf5 36. Qh5 Nd6 37. Ne7 Rc7 38. Nxf5 Nxf5
+39. Qxf5+ Kg7 40. Rd1 $1 R7c6 41. h5 c3 42. Qg4+ Kf6 43. Qg8 (43. Rd8 c2 44.
+Rf8 Ke7 45. Qg8 $18) 43... c2 (43... Rc8 44. Rd8 (44. Qh7 c2 45. Qxh6+ Ke7 46.
+Qg5+ Ke8 47. Qg8+ Ke7 48. Qg5+ Ke8 49. Rc1 Rd8 50. h6 $18) 44... Rxd8 45. Qxd8+
+Kg7 46. g4 c2 47. g5 c1=Q 48. Qf6+ Kf8 49. Qd8+ Kg7 50. Qf6+ $11) 44. Rd3 $1
+Rc3 45. Qh8+ Ke6 46. Rd5 Nd7 47. Qe8+ Kf6 48. Rxd7 c1=Q 49. Qe7+ (49. Qxf7+ Kg5
+50. Qf5#) (49. Qe7+ Kg7 50. Qxf7+ Kh8 51. Qh7#) 1-0
+
+[Event "Mermaid Beach Club"]
+[Site "Bermuda"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Vescovi, Giovanni P"]
+[Black "Bezold, Michael"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2490"]
+[BlackElo "2500"]
+[PlyCount "68"]
+[EventDate "1997.01.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "BER"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "1997.06.01"]
+
+1. d4 d5 2. Nf3 e6 3. g3 f5 4. Bg2 Nf6 5. b3 c6 6. O-O b6 7. c4 Bb7 8. Qc2 Na6
+9. Ba3 Bxa3 10. Nxa3 Qe7 11. Qb2 O-O 12. Rac1 Rac8 13. Nb1 Rfd8 14. Nbd2 c5 15.
+Rfd1 Rc7 16. cxd5 exd5 17. Ne5 Ne4 18. Nd3 Rdc8 19. Nf4 g5 20. Nxe4 fxe4 21.
+Nh5 c4 {Diagram #} 22. bxc4 Rxc4 23. Rxc4 Rxc4 {Diagram #} 24. Bxe4 {
+White sacrifice the Bishop in order to activate the paws and pieces.} dxe4 25.
+d5 Rc8 26. d6 Qf7 27. d7 Rd8 28. Nf6+ Kf8 29. Nxh7+ Kg8 30. Nf6+ Kf8 31. Qe5
+Nc5 32. Nh7+ Kg8 33. Qxg5+ Kxh7 34. Qxd8 Nd3 1-0
+

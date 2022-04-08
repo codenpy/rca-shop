@@ -1,0 +1,240 @@
+[Event "Bundesliga 9697"]
+[Site "Germany"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Borik, Otto"]
+[Black "Kachiani Gersinska, Ketino"]
+[Result "0-1"]
+[ECO "E99"]
+[WhiteElo "2410"]
+[BlackElo "2415"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "72"]
+[EventDate "1996.10.12"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Delmenhorst"]
+[BlackTeam "St Ingbert"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. a4 Ng6 14. a5 Kh8 15. Nd3
+Nf6 16. c5 Rg8 17. a6 Bf8 18. Kh1 h5 19. axb7 Bxb7 20. cxd6 Bxd6 21. Nb5 {
+Diagram #} Bc8 $5 {Usually, in the King Indian Defense, White creates a strong
+attack on the queenside, but Black has the oportunity to attack on the
+kingside. Black gives a pawn in order to win time for the attack. Black would
+like to play g4 as quickly as possible.} (21... a6) 22. Nxd6 cxd6 23. Bxa7 Bd7
+24. Bf2 Rxa1 25. Qxa1 {Diagram #} g4 {Here Black performed his idea. The game
+is strategically winning on the queenside and, if White has time, then he can
+advance his passed pawn. However, right now, he is in great danger, and he
+should defend on the kingside against Black's strong initiative.} 26. Qe1 Kg7
+27. Qb4 g3 {This wasn't the best move according to the computer, but it does
+one thing, wins time fo Black's attack. You can win time by attacking the
+enemy pieces.} 28. hxg3 fxg3 29. Bxg3 h4 {
+This is another attacking move, forcing the dark-squared bishop to go back.}
+30. Bh2 Nh5 {White is two pawns up and the computer gives him a big plus.
+However, things are not so simple in chess because all of Black's pieces are
+concentrating on the kingside and they are ready to occupy the f4 and
+g3-squares. Black can play the breaktrhough h3 move and the queen can come to
+g5, supporting the attack. Another plan is to activate the rook from the
+a-line and protect the d6-pawn with the queen. In similar situations, your
+opponent can make a mistake, even if he is a very strong player...} 31. Kg1 Ng3
+32. Rf2 Qe7 33. Bf1 Ra8 $5 {Black has here full compensation for the
+sacrificed pawns. The threat is Ra8 in order to create a pin on the f1-bishop.
+White manages to win the game after some moves thanks to his very active and
+aggressive pieces.} 34. Qc3 Bb5 35. Nxe5 dxe5 36. Bxb5 Ra1+ 0-1
+
+[Event "RUS-ch"]
+[Site "Elista"]
+[Date "1996.??.??"]
+[Round "10"]
+[White "Rustemov, Alexander"]
+[Black "Shabanov, Yuri"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2535"]
+[BlackElo "2405"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "82"]
+[EventDate "1996.10.15"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1997.02.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 b6 7. b3 Bb7 8. Bb2
+Be7 9. Bd3 O-O 10. O-O h6 11. Rad1 Qc7 12. h3 Bd6 13. e4 dxe4 14. Nxe4 Nxe4 15.
+Bxe4 Rfe8 16. c5 Bf8 17. Rfe1 a5 18. Bc1 bxc5 19. dxc5 f5 20. Bd3 Nxc5 21. Bc4
+Ba6 22. Nd4 Bxc4 23. Qxc4 Qf7 24. Ba3 Nd7 25. Bxf8 Nxf8 26. Nxc6 Qc7 27. Qb5
+Kh7 28. Rc1 Ng6 29. Rc4 e5 30. h4 Qd7 31. g3 {Diagram #} f4 $1 {This is the
+best move because it creates attacking chances against White's King. The
+a5-pawn is under attack, but Black doesn't lose time in order to protect it.
+Similarly, White is threatening to play h5 in order to capture the e5-pawn;
+but Black ignores these threats. On the contrary, Black starts the attack on
+the other side of the board.} (31... Rac8 $5) (31... Qd2 $5 32. Rcc1 (32. Rec1
+f4) 32... f4) (31... e4 $5) 32. h5 Ne7 33. Rxe5 fxg3 $1 {
+This was an idea that Black had foreseen...} 34. Nxe7 Qh3 {This was the hidden
+point on Black's plan. He sacrificed his central pawn and the knight in order
+to win time for his attack. He is threatening right now Qh2 and Qf2.} 35. fxg3
+Qxg3+ 36. Kf1 Rxe7 {White is a rook up, but his pieces are unorganized and
+Black can deliver checkmate here. For that reason, he sacrificed his rook on
+e7 in order to bring the other one to f8 and continue the attack. Only with
+the queen, you cannot perform checkmate, but with the queen and the rook, you
+can!} 37. Rxe7 Rf8+ 38. Ke2 Rf2+ 39. Kd1 Qd3+ 40. Kc1 Qd2+ 41. Kb1 Qb2# 0-1
+
+[Event "Cacak"]
+[Site "Cacak"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Georgiev, Kiril"]
+[Black "Hodgson, Julian M"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2620"]
+[BlackElo "2550"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "55"]
+[EventDate "1996.11.??"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "1997.04.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. b4 Ba7 10. Bb2 dxc4 11. Bxc4 O-O 12. Rd1 Qe7 13. Ne4 Nxe4 14. Qxe4 f6
+15. h4 Qf7 16. g4 Bb8 17. Bd3 f5 18. gxf5 exf5 19. Qc4 b5 {Diagram #} 20. Qxc6
+$1 {White calculated that Black can play Bb7 and get the piece back, but he
+had another idea in mind. His idea was to win time in order to build a strong
+pressure against the g7-pawn and press it from the a1-h8 diagonal and the
+g-file.} (20. Qc5 $5) (20. Qc2 $5) (20. Qc1 $5) (20. Qxf7+ $5) (20. Qc3 $5)
+20... Bb7 21. Qc3 Bxf3 22. Rg1 {White's pieces are extremely active and they
+are threatening to capture on g7. Please notice that Black cannot play g6
+because it is checkmate on h8.} Ra7 (22... g6 23. Qh8#) (22... Bg4 23. Bxf5 $1
+{A similar tactic. Black cannot capture either with the queen or the bishop.}
+Bxf5 (23... Qxf5 24. Qxg7#) 24. Rxg7+ Qxg7 25. Qxg7#) 23. Bxf5 {The final killi
+ng blow! White calculated correctly that he can create a powerful pin over the
+a1-h8 diagonal.} Rc7 24. Rxg7+ {This was White's idea.} Qxg7 25. Be6+ Kh8 26.
+Qxg7+ Rxg7 27. Rd7 {And Black is helpless.} Bh2 28. Bxg7# 1-0
+
+[Event "RUS-Cup3"]
+[Site "Omsk"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Tikzhanov, Erlam"]
+[Black "Khachiyan, Melikset"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2265"]
+[BlackElo "2480"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "76"]
+[EventDate "1996.12.13"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1997.04.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 O-O 7. b4 Bb6 8. O-O
+Kh8 9. a4 a5 10. b5 Ne7 11. Qb3 Qe8 12. d4 Ng6 13. dxe5 Nxe5 14. Nxe5 {
+Diagram #} Qxe5 $1 {Black sacrifices the pawn on f7, but he is pressing the
+e4-pawn and is ready to transfer the queen quickly to the kingside.} (14...
+dxe5 $2 {This move looks better because Black is protecting the f7-pawn;
+however, after the Ba3, the rook has to move away and White will grab the pawn
+in any case.}) 15. Nf3 Qxe4 16. Ng5 Qh4 {White will capture the f7-pawn for
+sure because he attacks it many times; however, Black transferred a lot of
+pieces against White's kingside. Black can create a real and more dangerous
+threat compared with White's threat to capture the f7-pawn.} 17. g3 (17. h3 {
+This is a better and more stubborn move, but Black has a strong attack in any
+case.} Qg3 18. Kh1 Qh4 19. Kg1 h6 20. Nxf7+ Rxf7 21. Bxf7 Bxh3 22. c4 (22. gxh3
+Qg3+ 23. Kh1 Qxh3+ 24. Kg1 Qg3+ $1 {stopping Bf4 and, then, he will play Ng4.}
+25. Kh1 Qf3+ 26. Kg1 Ng4 $19) 22... Bd7) 17... Qg4 {
+All of White's squares are weak right now.} 18. Nxf7+ Rxf7 19. Bxf7 Qh3 {
+threatening the simple Ng4 move.} 20. Re1 Bxf2+ $5 {White here is attacking
+with a lof of different moves. In any case, his attack is very strong, and he
+manages to win the game afterwards.} (20... Bg4 $5) (20... Bf5 $5) 21. Kxf2
+Qxh2+ 22. Ke3 Qxg3+ 23. Kd2 Qf2+ 24. Re2 Ne4+ 25. Kd3 Nc5+ 26. Kd2 Nxb3+ 27.
+Bxb3 Qf4+ 28. Kc2 Bf5+ 29. Kb2 Qf3 30. Re7 c5 31. bxc6 bxc6 32. Ka3 Rb8 33. Bb2
+d5 34. Rae1 Be4 35. Rg1 Bg6 36. Rge1 Qf2 37. R1e3 Be4 38. Bc1 Qf8 0-1
+
+[Event "ENG-CHN"]
+[Site "London"]
+[Date "1997.??.??"]
+[Round "5"]
+[White "Peng, Xiaomin"]
+[Black "Arkell, Keith C"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2500"]
+[BlackElo "2545"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "79"]
+[EventDate "1997.04.??"]
+[EventRounds "3"]
+[EventCountry "ENG"]
+[Source "ChessBase"]
+[SourceDate "1997.08.01"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Bb5 e6 6. Be3 Nge7 7. c3 Bd7 8. Bxc6
+Nxc6 9. f4 g5 10. Nf3 gxf4 11. Bd4 Nxd4 12. cxd4 b6 13. cxb6 Qxb6 14. Nbd2 Qxb2
+15. O-O Be7 16. Rf2 Qa3 17. Nf1 Bb5 18. Qd2 Bxf1 19. Raxf1 Qe3 {Diagram #} 20.
+Qd1 $1 {White, correctly, keeps the game in the middlegame and he doesn't want
+to exchange queens. He doesn't like to recapture the sacrificed pawn
+immediately, but to continue with the attack. Black's queen is a tactical
+target, and White will use it in order to activate his rooks.} (20. Qc2 $5) (
+20. Qxe3 $6 fxe3 21. Re2 Rc8 $15 {Black will take back the sacrificed pawn,
+but he has very active pieces and a better bishop compared to White's knight.})
+20... O-O 21. Kh1 Rac8 22. Ng1 {Both sides complete the development, and now
+White will start attacking the queen and bringing the rooks to the kingside,
+to the g and h-lines.} f5 23. Rf3 Qe4 24. Rxf4 {
+White manages to take two tempi by attacking the queen.} Qc2 25. Qh5 $1 {
+White is sacrificing another pawn on a2 in order to bring the queen into the
+attack. The position is very critical for Black because Black's king could
+feel lonely without friendly pieces around him. The position is dynamically
+equal here because Black can grab material, but White has very active pieces.
+After a long fight, the white player manages to win the game.} Kh8 26. R4f2 Qe4
+27. Qh6 Rc6 28. Rf4 Qc2 29. Rh4 Rf7 30. Qg6 Rg7 31. Rxh7+ Rxh7 32. Qe8+ Kg7 33.
+Qxe7+ Kg8 34. Qe8+ Kg7 35. Rf3 Rc3 36. Qe7+ Kg8 37. Qxe6+ Rf7 38. Qe8+ Kg7 39.
+e6 Rf6 40. Qd7+ 1-0
+
+[Event "Copenhagen Aruna"]
+[Site "Copenhagen"]
+[Date "1997.05.06"]
+[Round "5"]
+[White "Hjartarson, Johann"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "B26"]
+[WhiteElo "2585"]
+[BlackElo "2450"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "87"]
+[EventDate "1997.04.02"]
+[EventRounds "9"]
+[EventCountry "DEN"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "1997.08.01"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nge7 8. Nge2
+Nd4 9. O-O O-O 10. f4 Nxe2+ 11. Qxe2 exf4 12. Bxf4 Nc6 13. Kh1 h6 14. Qd2 Kh7
+15. Be3 Be6 16. Rf4 g5 17. Rff1 Ne5 18. Rae1 Kh8 19. Bg1 Qd7 20. b3 b5 21. d4
+cxd4 22. Bxd4 Rac8 23. Nd1 Ng4 {Diagram #} 24. c3 $1 {White has a lot of
+interesting ideas here, but the best plan is to control the center and then
+win some time in order to kick away the g4-knight.} (24. Ne3 $5) (24. Re2 $5) (
+24. Bxg7+ $5) 24... a6 (24... Bxd4 25. cxd4 $16) 25. h3 {This is an important
+step to the plan because White would like to win some time by kicking away the
+g4 intruder. After its retreat the e3-square will be a safe path for the
+d1-knight. This knight will be lonely placed on d5...} Ne5 26. Kh2 f5 27. exf5
+Bxf5 28. Ne3 {White achieved his goal. The knight is aiming to the d5-square.}
+Be6 29. Nd5 {Black can capture on d5, but then White will have a strong center
+and the bishop pair in the semi-open position.} Rce8 30. Qd1 g4 31. Nf4 $16 {
+White has a powerful knight on f4, his position is solid and the d6-pawn is
+weak. White has a small but stable advantage here. He use it in order to win
+the game afterwards.} Bf5 32. Bxe5 Bxe5 33. hxg4 Bh7 34. Rxe5 Rxe5 35. Ng6+
+Bxg6 36. Rxf8+ Kg7 37. Rb8 Be4 38. Bxe4 Rxe4 39. Qd5 Qe6 40. Qb7+ Qe7 41. Kh3
+Kf6 42. Qc8 Kg6 43. Qh8 Rxg4 44. Qg8+ 1-0
+

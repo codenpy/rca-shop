@@ -1,0 +1,229 @@
+[Event "Tournament"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "Etruk, Rein T"]
+[Result "1-0"]
+[ECO "E20"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "79"]
+[EventDate "1954.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Nxc3 10. Qd2 Nc6 11. Bb2 Na4 12. Qxa5 Nxa5 13. Bxg7 Rg8 14. Be5
+Nxc5 15. Rd1 Bd7 16. Nh3 b6 17. Nf4 Ba4 18. Rd4 Nc6 {Diagram #} 19. Rxa4 $1 {
+This is a small and nice tactical blow in order to attack both knights
+afterwards. White's driving by force the knight to an unfavorable position.}
+Nxe5 (19... Nxa4 20. Bb5 Rc8 21. Bxa4 $18) 20. Rd4 {Black has a pawn majority
+on the queenside and White on the kingside. Usually, in the endgames, bishops
+are stronger than knights. However, in this position, Black's knights are very
+strongly placed in the center, and his rook is very active on g8; so, he has a
+small advantage. After a long fight, Tal manages to win the game.} Ke7 21. Be2
+Rad8 22. Rd2 Nc6 23. Rb2 Rd4 24. Kf2 f5 25. Bb5 Ne5 26. Ke3 Rgd8 27. Nd5+ R4xd5
+28. exd5 f4+ 29. Ke2 exd5 30. Kd1 Nc4 31. Bxc4 dxc4+ 32. Rd2 Nd3 33. Kc2 b5 34.
+Rb1 Rb8 35. Kc3 Kd6 36. Rxb5 Rxb5 37. Kxc4 Kc6 38. Kxd3 Rb3+ 39. Ke4 Rxa3 40.
+Kxf4 1-0
+
+[Event "Riga-ch Juniors sf"]
+[Site "Riga"]
+[Date "1949.03.27"]
+[Round "?"]
+[White "Butvit"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "C01"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "74"]
+[EventDate "1949.03.??"]
+[EventRounds "1"]
+[EventCountry "URS"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bg4 5. Bd3 Nf6 6. O-O Be7 7. Bg5 Nbd7 8.
+Nbd2 h6 9. Bh4 O-O 10. c3 Re8 11. h3 Bh5 12. Qc2 Ne4 13. Bxe4 Bxh4 14. Bxd5 c6
+15. Be4 Nf6 16. Bd3 Nd5 17. Ne5 Nf4 18. Bh7+ Kh8 19. Qf5 Qd5 20. Qxf4 Bg5 21.
+Qf5 Bxd2 22. Qxh5 Kxh7 23. Qxf7 {Diagram #} Rxe5 $1 {This is a typical tactic
+in order to remove the defender! Now the f7-queen is unprotected, White is
+losing material and the game afterwards. Usually, the pieces are stronger than
+the pawns. The pawns are powerful only if they are advanced or have the
+ability to be advanced. And this is not happening in this particular case.} 24.
+Qxb7 (24. Qxd5 Rxd5) 24... Ree8 25. Rfd1 Bf4 26. Re1 Reb8 27. Qa6 Rxb2 28. Qd3+
+Kh8 29. c4 Qg5 30. g3 Rf8 31. Qa3 Rfb8 32. Qf3 Bc7 33. Re2 Rxe2 34. Qxe2 Rf8
+35. Kg2 Bb6 36. Qe4 Qd2 37. Rf1 Bxd4 0-1
+
+[Event "URS-ch24"]
+[Site "Moscow"]
+[Date "1957.??.??"]
+[Round "2"]
+[White "Taimanov, Mark E"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[ECO "E56"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "1957.01.24"]
+[EventRounds "21"]
+[EventCountry "URS"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+cxd4 9. axb4 dxc3 10. bxc3 Qc7 11. Qe2 Bd7 12. e4 dxe4 13. Bxe4 Nxe4 14. Qxe4
+f6 15. Rd1 Rfd8 16. Be3 e5 17. Qd5+ Kh8 18. Qd6 {Diagram #} Qc8 $5 {This is a v
+ery tricky move to meet in the real game. Tal keeps the queens on the board in
+order to attack the enemy king; he would like to do that by creating a
+discovered attack on the d6-queen. Of course, there is a refutation, Ng5;
+however it was hard even for Taimanov, one of the best players, to find it
+over the board.} (18... Qxd6 $5 19. Rxd6 Be8 $11) 19. b5 (19. Ng5 $1 fxg5 20.
+Bxg5 $16 {
+The d7-bishop is not protected very well, and White will win material here.})
+19... Bh3 20. Qa3 (20. Qxd8+ Nxd8) 20... Rxd1+ 21. Rxd1 Qg4 $19 {Black is threa
+tening to checkmate on g2, and the f3-knight is pinned because the d1-rook is
+unprotected.} 22. Ne1 (22. g3 Qxf3) 22... Qxd1 23. gxh3 Qxe1+ 24. Kg2 Nd4 25.
+cxd4 exd4 26. Bf4 Qe4+ 27. Kg3 h5 28. Qd6 Kh7 29. Qd7 Re8 30. h4 Qg6+ 31. Kf3
+Re1 0-1
+
+[Event "WchT U26 04th"]
+[Site "Reykjavik"]
+[Date "1957.??.??"]
+[Round "7.1"]
+[White "Tal, Mikhail"]
+[Black "Larsen, Bent"]
+[Result "1-0"]
+[ECO "B96"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "49"]
+[EventDate "1957.07.11"]
+[EventRounds "13"]
+[EventCountry "ISL"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Denmark"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Qf3
+Nc6 9. O-O-O Nxd4 10. Rxd4 Bc6 11. Be2 Be7 12. Rhd1 Qa5 13. Qe3 h6 14. Bh4 e5
+15. fxe5 dxe5 16. R4d3 O-O 17. Kb1 Rfd8 18. Bxf6 Bxf6 19. Nd5 Bg5 20. Qf3 Rac8
+$2 {Diagram #} (20... b5) 21. b4 $1 {
+Black's queen is trapped and Tal didn't miss the opportunity.} Qa4 22. Ra3 Rxd5
+{Black was forced to sacrifice material.} 23. exd5 e4 24. Qc3 {Not only the
+queen is under attack, but also the c6-bishop; so, White will win more
+material and, of course, the game.} Bf6 25. Rxa4 1-0
+
+[Event "Munich ol (Men) fin-A"]
+[Site "Munich"]
+[Date "1958.??.??"]
+[Round "3"]
+[White "Tal, Mikhail"]
+[Black "Tringov, Georgi P"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2625"]
+[BlackElo "2460"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "39"]
+[EventDate "1958.09.30"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Bulgaria"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "BUL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. Nb3 Qe3+ 10. Be2 Qxf4 11. Bg3 Qe3 12. Bxd6 Nc6 13. Rf1 Nxe4 14. Nxe4
+Qxe4 15. Bxf8 Rxf8 16. Kf2 Bd7 {Diagram #} 17. Qxd7+ $1 {When you are thinking
+about your next move, you should always calculate checks. The check is the
+most forcing move, and your opponent is obliged to reply. By this nice blow,
+Tal manages to win a piece and forces his opponent to resign.} Kxd7 18. Nc5+
+Ke7 19. Nxe4 f5 20. Nc5 1-0
+
+[Event "Stuttgart sim"]
+[Site "Stuttgart"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Tal, Mikhail"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B75"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "35"]
+[EventDate "1958.10.25"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Bulgaria"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "BUL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. O-O-O Qa5 10. Kb1 Rc8 11. g4 h6 12. h4 a6 13. Be2 Ne5 14. g5 hxg5 15.
+hxg5 Rxh1 {Diagram #} 16. gxf6 $3 {Again, we can see a very typical messy
+situation. Of course, White can capture the h1-rook, but he finds a more
+brilliant way to continue the game. His idea was to capture two minor pieces
+and promote his g-pawn to a new queen.} Rxd1+ 17. Nxd1 Qxd2 18. fxg7 {
+White is not only threatening to create a new queen but to checkmate Black's
+king. Black cannot save his queen and prevent the checkmate on g8; so, he
+resigns.} 1-0
+
+[Event "URS-ch32"]
+[Site "Kiev"]
+[Date "1964.??.??"]
+[Round "5"]
+[White "Lutikov, Anatoly S"]
+[Black "Tal, Mikhail"]
+[Result "1-0"]
+[ECO "B48"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "67"]
+[EventDate "1964.12.26"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Bulgaria"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "BUL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 8.
+O-O b5 9. Nxc6 Qxc6 10. a3 Bb7 11. Qe2 Qc7 12. f4 d6 13. Bd4 Be7 14. e5 dxe5
+15. fxe5 Bc5 16. Bxc5 Qxc5+ 17. Rf2 Nd7 18. Be4 Qc7 19. Qh5 g6 20. Qh4 Qc4 21.
+Rd1 f5 22. exf6 O-O-O 23. f7 Rhf8 {Diagram #} 24. Bxb7+ $3 {By a series of
+forcing moves, White uses his powerful f7-pawn. Black cannot do much about
+White's threats because all of them end with a check. The only thing which you
+need to do in such cases is calculate the continuation accurately, use your
+imagination and your strong point, such as the f7-pawn.} Kxb7 25. Qxd8 Rxd8 26.
+Rxd7+ $1 {This is a key move on White's combination in order to deflect the
+d8-rook from the defense of the f8-square.} Rxd7 27. f8=Q $18 {
+White has material advantage and he manages to convert it into a full point.}
+Qd4 28. Qf3+ Ka7 29. Qe4 Qb6 30. Kf1 Qd6 31. g3 g5 32. Qe3+ Ka8 33. Ne4 Qd1+
+34. Kg2 1-0
+
+[Event "Amsterdam Interzonal"]
+[Site "Amsterdam"]
+[Date "1964.05.28"]
+[Round "7"]
+[White "Tal, Mikhail"]
+[Black "Foguelman, Alberto"]
+[Result "1-0"]
+[ECO "B18"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "99"]
+[EventDate "1964.05.20"]
+[EventRounds "23"]
+[EventCountry "NED"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Bulgaria"]
+[WhiteTeamCountry "URS"]
+[BlackTeamCountry "BUL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. N1e2 Nf6 7. h4 h6 8.
+Nf4 Bh7 9. Bc4 e5 10. Qe2 Nbd7 11. O-O Qe7 12. dxe5 Nxe5 13. Rd1 Nfd7 14. Bd2
+O-O-O 15. Bc3 Re8 16. Re1 g5 17. hxg5 hxg5 {Diagram #} 18. Ne6 $1 {White shut
+wn the e-line by force, and now he's threatening the unprotected e5-knight.} (
+18. Nd3 $5) 18... f6 (18... fxe6 19. Bxe5 $16) 19. Rad1 (19. Bb3 $5 {It was bet
+ter to protect his important light-squared bishop. In any case, after some
+fight, Tal used his active pieces to win the game.}) 19... Bg6 20. f4 gxf4 21.
+Nxf4 Qh7 22. Be6 Bc5+ 23. Bd4 Qh2+ 24. Kf2 Qh4 25. Bxd7+ Nxd7 26. Qd2 Bd6 27.
+Rxe8+ Bxe8 28. Rh1 Bxf4 29. Rxh4 Rxh4 30. Be3 Bxe3+ 31. Qxe3 Bg6 32. c3 a6 33.
+Kg1 Rg4 34. Qf3 Rh4 35. Ne2 Be4 36. Qg3 Rh5 37. Qg8+ Kc7 38. Nf4 Re5 39. c4 c5
+40. Ne6+ Kd6 41. Nd8 Ke7 42. Nf7 Re6 43. Qg7 Ke8 44. g4 Bd3 45. b3 b5 46. g5
+fxg5 47. Qg8+ Nf8 48. Nxg5 Rf6 49. Qd5 bxc4 50. Qe5+ 1-0
+

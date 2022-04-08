@@ -1,0 +1,122 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.08.22"]
+[Round "?"]
+[White "Catalan 3...a6"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "A13"]
+[Annotator "RCA"]
+[PlyCount "18"]
+[EventDate "2013.08.21"]
+[SourceDate "2013.08.30"]
+
+1. Nf3 (1. c4 Nf6 2. Nf3 (2. g3 {Is a tricky move order where our a6 idea will
+not work.} e6 3. Bg2 d5 {Will lead to the main lines of Catalan opening}) 2...
+e6 3. g3 a6 $5 {Will also lead to the same position.}) 1... Nf6 2. c4 e6 3. g3
+(3. Nc3 Bb4 {Leads to the Anti Nimzo-Indian variations that we have covered.})
+(3. d4 Bb4+ {Leads to the Bogo-Indian, which we have also covered.}) 3... a6 $5
+{What is this move? Are we only playing one that is suitable for blitz games?
+Well, it is odd because we normally don't make pawn moves on the side of the
+board in the opening. But this idea of Oleg Romanishin must not be taken
+lightly. It has a very sound positional basis, i.e. to exchange the central
+'c' pawn for the flank 'b' pawn, which would give Black more central control.
+And if this explanation is not sufficient for you to believe in the merits of
+this move, then here are some statistics. There are 1131 games in my database
+currently for this line and the likes of Karpov, Ivanchuk, Mamedyarov, Kamsky,
+Svidler, etc., have played it. What more proof does one want, that this is a
+good move?!! As this was first played by Romanishin, we can label it as the
+Romanishin line.} 4. Bg2 (4. Nc3 {This move tries to stop our natural idea
+connected with b5. But one thing must be noted: the moves g3 and Nc3 don't
+usually go well together and hence here Black must strike in the centre with...
+} d5 5. cxd5 exd5 6. d4 Be7 7. Bg2 O-O 8. O-O c6 $11 {And Black has a nice
+version of QGD Exchange Variation, because White's light-squared bishop here
+belongs to d3 and not on g2 where it is attacking the solid black pawns on
+b7-c6-d5.}) 4... b5 $1 {We play with total disregard for the power of the g2
+bishop. White doesn't really have any good discovered attack for the bishop on
+g2. And Black has achieved his goal of striking White's centre with the flank
+'b' pawn.} 5. b3 {This is by far the main move, with 80% of games reaching
+this position continued with the move b3. White says to Black that I respect
+your strategy and see no way to take direct advantage of it. But I will
+strengthen my 'c' pawn and will not let you exchange your flank pawn for my
+central one. Thus b3 is a safe and solid move, but nothing that should worry
+Black.} (5. Nd4 $5 {This is the most direct move and also a very dangerous one.
+White threatens to win a pawn. Anyone who faces this variation for the first
+time as White should logically go for this move because it is the most direct.
+But not everyone has the courage to do so, because the resulting positions are
+very complicated; and if Black has initiated this line, then White figures out
+he must be better prepared.} c6 (5... d5 {This was the move that was made by
+the founder of this system, Oleg Romanishin, when he faced this move Nd4.} 6.
+cxb5 axb5 7. Nxb5 c6 8. N5c3 {And though Black has decent compensation, White
+keeps a small edge. You can try this line if you find the 5..c6 line to be too
+sharp for your liking.}) 6. cxb5 axb5 7. Nxb5 $1 {Of course, this must be
+played. Otherwise Black would just play d5 and gain a wonderful position.} cxb5
+$1 {Black rises to the challenge. First, he sacrifices a pawn and now an
+exchange. But the bishop that will take on a8 sees the door slam shut right in
+its face with...} 8. Bxa8 d5 $1 {The bishop on a8 has no way out. Now the
+threat is Qa5, winning the a8 bishop. Once Black does that, he will go from
+being materially behind to being materially ahead, with two pieces for a rook.}
+9. Qc2 {This is by far the most logical move in this position: the Black queen
+is not able to move freely as c8 bishop will be hanging and, at the same time,
+Bc6+ is threatened. Hence Black's reply is forced - Bd7.} (9. b4 {This is
+quite a critical move, as it stops Qa5 and also prepares quick development
+with Bb2 when Ra1 will be defended and a4 becomes possible. So in response,
+Black needs a decisive response, as the normal moves lead to an edge for White.
+} Bxb4 $1 (9... Qc7 {Normal play like this guarantees White an edge after...}
+10. Bb2 Qa7 (10... Be7 11. a4 $18 {As now the Ra1 is defended and there will
+be no pins down the 'a' file.}) 11. Qc2 Bd7 12. Bxf6 gxf6 13. Bxd5 exd5 14. Nc3
+$14 {And White is better.}) 10. Qb3 Qa5 11. a4 Bd7 {Now White has to find the
+only move that gives him a decent position and that is...} 12. Ba3 $1 Bxa3 13.
+axb5 $1 (13. Rxa3 b4 $17) (13. Nxa3 b4 $17) (13. Qxa3 b4 $19) 13... Qxa8 14.
+Qxa3 Qxa3 15. Nxa3 {And this is the position. Though Black has a good material
+situation, yet the 'b' pawn is strong - hence this position is equal. Play can
+continue with...} Ke7 16. d3 Kd6 17. Kd2 Kc7 18. Rhc1+ Kb6 $11 {And with the
+pawn firmly blockaded, Black can think about winning it with Ne8-d6 - Black is
+fine.}) (9. Qb3 Bd7 10. O-O Na6 $15 {Next Black will pick up the a8 bishop, as
+Bb7 is met with Nc5.}) (9. a4 Qa5 10. Nc3 (10. Qc2 Bd7 {Transposes to the main
+line with 9.Qc2 and 10.a4.}) 10... Be7 $1 {Quickly finishing off the
+development.} 11. Nxb5 O-O {The a8 bishop is lost now.} 12. Bxd5 exd5 $44 {
+Though White has three pawns and a rook for two pieces, I think Black is
+slightly better as the White pawns are threatening yet Black is ahead in
+development.. At the same time, where to place the White king is quite a big
+question, because if it castles, then the light-square weaknesses will start
+to tell.}) 9... Bd7 {After this move I request you to go carefully through the
+analysis of each of White's attempts to free his bishop, because it will not
+only help you to get new ideas in this position but will also teach you the
+art of analysis.} 10. Bb7 (10. a4 Qa5 {The only move - pinning the 'a' pawn
+and attacking the bishop.} 11. Bb7 Bb4 $1 $146 {This new move is the best in
+the position.} (11... b4 {Previously, only this had been played - which is
+also not a bad move.}) 12. Nc3 (12. Bc8 Bc6 13. axb5 Qxb5 (13... Qxa1 14. bxc6
+$18) 14. Nc3 Qb6 15. Na4 Qa5 16. O-O d4 17. d3 O-O 18. Bxe6 fxe6 $15 {Black
+has excellent minor pieces, though the position is still quite complicated.})
+12... O-O 13. O-O bxa4 14. Nxa4 Qa7 15. Qc7 Bc6 16. d3 Qxb7 17. Qxb7 Bxb7 $15)
+(10. b4 {This is an interesting move. Not only does it stop Qa5 but also
+intends to develop quickly with Bb2} Qb6 11. Bb2 Na6 $1 (11... Be7 $6 12. a4 $1
+bxa4 13. Nc3 Qa7 14. Rxa4 Bxa4 15. Qxa4+ Qxa4 16. Nxa4 Bxb4 17. e3 $14 {With
+material equal but a small edge to White.}) 12. Bxf6 gxf6 13. Nc3 Be7 14. Qb2 (
+14. Bxd5 Nxb4 $17) (14. Nxd5 exd5 15. Bxd5 Nxb4 $19) 14... Nc7 15. Bxd5 exd5
+16. O-O O-O $15 {Even though Black still has a bad pawn structure, he holds
+the edge here due to his better minor pieces.}) (10. e4 Na6 $1 {The a8 bishop
+is now hanging.} (10... Nxe4 {Was also possible.} 11. O-O Qa5 12. d3 Nd6 13.
+Bxd5 exd5 $15 {When Black should be better, too.}) 11. Bc6 {White must do
+something about his a8 bishop, so he saves it.} (11. exd5 Qxa8 $19) 11... Nb4
+$1 12. Bxd7+ Nxd7 {And the weakness of the c3 and d4 squares gives White the
+advantage.} 13. Qc3 (13. Qb3 Nc5 $19) 13... d4 $1 14. Qb3 Nc5 15. Qd1 Nbd3+ 16.
+Kf1 Nxe4 $17 {White is totally busted: look at the Black knights.}) (10. b3 {
+This move is not very challenging, as it allows Black to attack the bishop
+with comfort.} Qa5 11. Bb7 Be7 12. Bb2 Qb6 13. Bc8 Bc6 {As usual, Bc8 is met
+with Bc6 and the c8 bishop will be picked up after 0-0.}) 10... Qb6 11. Bc8 Bc6
+12. a4 bxa4 13. Nc3 d4 14. Nxa4 Qd8 $15 {When Black will simply recover his
+piece and will have the advantage.}) (5. d3 Bb7 {Followed by c5 Be7 0-0 - and
+should give Black a good position.}) (5. O-O bxc4 6. Qa4 Bb7 7. Qxc4 d5 8. Qa4+
+Nbd7 9. d4 Bd6 10. Ne5 O-O 11. Nc6 Qe8 $11 {Merely serves to give Black a fine
+position.}) (5. Ne5 c6 (5... d5 6. cxd5 exd5 7. d4 {Leads to a position which
+is better for White, as the c5 square is a weak one on the open file.}) 6. b3
+d5 $11 {Is some kind of Chebanenko Slav-like play from Black, but as you can
+see Black is solid.}) (5. cxb5 axb5 6. Nd4 Ra5 $1 {Quite an original way to
+save the pawn!} 7. O-O c5 8. Nb3 Ra7 9. Nc3 Qb6 $11 {Gives Black an equal
+position.}) 5... Bb7 6. O-O c5 7. Bb2 Be7 8. d3 O-O 9. Nbd2 d6 {And overall I
+have a feeling that Black has an excellent position with queen side space and
+totally fine development. He can now develop his knight to c6. Black has
+equalised effortlessly out of the opening.} *
+

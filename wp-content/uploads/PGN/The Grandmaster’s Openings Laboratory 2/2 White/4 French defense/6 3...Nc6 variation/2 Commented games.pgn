@@ -1,0 +1,95 @@
+[Event "EU-ch 8th"]
+[Site "Dresden"]
+[Date "2007.04.05"]
+[Round "3"]
+[White "David, Alberto"]
+[Black "Meinhardt, Maximilian"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2525"]
+[BlackElo "2376"]
+[Annotator "RCA"]
+[PlyCount "65"]
+[EventDate "2007.04.03"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2007.05.31"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. e5 Ne4 6. Bd3 Bb4 7. O-O $5 {
+Sacrificing a pawn for the initiative.} (7. Bd2 {It's a solid alternative.})
+7... Nxc3 8. bxc3 Bxc3 9. Rb1 h6 (9... O-O 10. Bxh7+ $1 {Winning for White.})
+10. Be3 a6 11. Rb3 $1 {The rook can be useful in the third rank.} Ba5 12. Ne1
+$1 {Preparing for the queen to go to the king side and also preparing f4-f5.}
+Ne7 13. Qg4 $1 g6 14. Nf3 Nf5 15. h4 Bb6 16. a4 {This move can be useful in a
+lot of positions, especially for the a5 ideas.} Bd7 17. Ra1 a5 18. Bd2 Qb8 19.
+c3 {In this position, White's compensation is huge. Black's king can't find a
+safe place and White has easy play options, while for Black it's difficult to
+suggest a move. Black decided to castle king side. But White takes the
+initiative all over the board.} Qa7 20. Qf4 O-O-O 21. g4 $1 Nxh4 22. Nxh4 g5
+23. Qxf7 gxh4 24. Bb5 {Not a very good move.} (24. Qh5 $1 $14) 24... c6 25. Be2
+Rhf8 (25... Rdf8 $1 {Was the right move for a draw for Black.} 26. Qg7 Rfg8 27.
+Qf7 Rf8) 26. Qe7 Bxd4 {Desperation...} 27. cxd4 Qxd4 28. Rf1 Qxd2 29. Ba6 $3 {
+And it's all over...} Qd4 30. Bxb7+ Kb8 31. Qd6+ Ka7 32. Qc7 Qxg4+ 33. Kh1 1-0
+
+[Event "RUS-chT"]
+[Site "Dagomys"]
+[Date "2008.04.07"]
+[Round "6"]
+[White "Svidler, Peter"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2746"]
+[BlackElo "2719"]
+[Annotator "RCA"]
+[PlyCount "40"]
+[EventDate "2008.04.02"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2008.05.28"]
+[WhiteTeam "St Petersburg Finek"]
+[BlackTeam "Moscow Spasio"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. Bd3 Bb4 6. e5 Ne4 7. O-O Nxc3 8.
+bxc3 Bxc3 9. Rb1 h6 10. Be3 Ne7 11. Rb3 Ba5 12. Bc1 $5 {An interesting and
+typical idea. The bishop on a3 is going to be very annoying.} (12. Nh4 {Is
+another alternative with different ideas.}) 12... Bd7 13. Ba3 Ba4 14. Rb2 Bb6
+15. Qd2 a6 16. Bc5 $1 {A concept you should understand in this variation. The
+exchange of these bishops in the French usually favours White; also White is
+obtaining the excellent d4 square for his knight.} Bb5 $1 {Exchanging a lot of
+pieces at the end of the variation; it's an equal position so the players
+agreed a draw here in view of...} 17. Bxb5+ axb5 18. Bxb6 cxb6 19. Rfb1 O-O 20.
+Rxb5 Ra6 $1 $11 1/2-1/2
+
+[Event "Collado Villalba op-A 25th"]
+[Site "Collado Villalba"]
+[Date "2008.08.22"]
+[Round "1"]
+[White "Ortiz Suarez, Isam Reynaldo"]
+[Black "Collado Barbas, Laura"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2392"]
+[BlackElo "1983"]
+[Annotator "RCA"]
+[PlyCount "37"]
+[EventDate "2008.08.22"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2008.11.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. e5 Ne4 6. Bd3 Bb4 7. O-O Nxc3 8.
+bxc3 Bxc3 9. Rb1 Bb4 {The idea of this move is to cover the a3-f8 diagonal.}
+10. Ng5 $1 {Starting a direct attack using all the pieces.} Be7 11. Qh5 $1 Bxg5
+$6 {Black can't lose this bishop in the French. After this exchange, White is
+winning completely.} (11... g6 $1 12. Qg4 Nb4 13. Qf4 (13. Ba3 Nxd3 14. Bxe7
+Nxe5 $1 15. dxe5 Qxe7) 13... Bxg5 14. Qxg5 Qxg5 15. Bxg5 Nxd3 16. cxd3 $13) 12.
+Bxg5 Qd7 13. c3 Ne7 14. f4 $1 b6 15. f5 $1 {White's plan is unstoppable.} a6 (
+15... exf5 16. e6 $1 $18) (15... Nxf5 16. g4 g6 17. Qh3 $18) 16. f6 $1 g6 17.
+Qh6 {And Black resigned in view of...} Nf5 18. Bxf5 gxf5 19. Qg7 1-0
+

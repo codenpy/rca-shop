@@ -1,0 +1,78 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.05.15"]
+[Round "?"]
+[White "4.a3 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "E29"]
+[Annotator "RCA"]
+[PlyCount "36"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 {This is the most direct move in the Nimzo
+Indian. It directly questions the basis of the Nimzo Indian Defence. White
+asks the bishop on b4 what exactly it is doing there? Is it worth it to give
+up the bishop pair just for the sake of doubling White's pawns? The answer to
+this question, if you are a Nimzo Indian player, is a resounding YES!} Bxc3+ 5.
+bxc3 c5 $1 {This move is usually the start of Black's source of counterplay in
+this position. How should one start to attack a weakness? According to
+Nimzowitsch, one must first fix a weakness and then start to attack it.
+Following this logic, the move c5 fixes the c4 weakness - which will now be
+attacked.} 6. e3 (6. f3 {Intending e4, must be met with...} d5 $1 {And we have
+a transposition to the 4.f3 Saemisch Variation.}) (6. Bg5 {Trying to remove
+the bishop outside the pawn chain of e3 might be logical, but it fails here
+due to...} Qa5 $1 {And I think the best that White can do now is to retreat
+his bishop to d2, which would mean a serious loss of time.}) 6... Nc6 {The
+knight is developed to this square so that it can go to a5 and attack the pawn.
+} 7. Bd3 O-O {Black gets 0-0 over and done with. The next phase of his plan is
+to play b6-Ba6-Na5, with high pressure on the c4 pawn.} 8. Ne2 (8. e4 $5 {
+Might seem that it simply loses a pawn, but it's a very tricky move.} cxd4 (
+8... Ne8 9. Be3 {Gives White some additional options.}) 9. cxd4 d5 $1 {This
+central break is, in fact, the right way to gain an advantage for Black. The
+complications of this move are analysed in the annotated games section between
+Irina Krush-Bryan Smith. It must be noted, though, that taking the pawn is not
+such a great idea.} (9... Nxd4 $6 {White now has...} 10. e5 $1 {And it might
+seem that Qa5 will win the pawn on e5, but after...} Qa5+ {Picking up the e5
+pawn...} 11. Kf1 Qxe5 $2 12. Bb2 {Black is badly pinned and there is no
+defence against Bd4 followed by Bh7+.})) (8. Nf3 {Some of you might be asking,
+why not this natural move? The answer to that is: Black has a clear-cut plan
+ready to attack the c4 pawn with Na5-Ba6. In retaliation, White must start
+with an attack on the king side by launching his 'f' pawn forward. But now the
+knight on f3 just comes in the way. White's play on the king side is slowed
+down terribly because of the blocking of the 'f' pawn.} d6 $1 {So as to meet
+the move e4 with e5.} (8... b6 9. O-O Ba6 10. e4 Ne8 11. e5 f5 12. d5 Na5 13.
+d6 $16 {Leads to not a very pleasant position for Black, as his knight on e8
+is almost trapped.}) 9. e4 e5 $1 10. d5 (10. Bg5 {We must always check if this
+pin is possible or not.} cxd4 11. cxd4 exd4 12. O-O h6 13. Bh4 Re8 $15 {Black
+doesn't have many problems. If need arises, we can break the pin with g5 and
+later blockade on dark squares like e5 and c5 in the centre.}) 10... Ne7 {This
+position represents the Huebner wall, which we will cover in the 4.e3 section.
+Just note that Black is a tempo up here and he is totally fine.}) 8... b6 {
+Following the plan of attacking c4 with Ba6.} 9. e4 Ne8 $1 {This idea is so
+famous now. But it was first introduced by the great Capablanca in his game
+against Johner Paul at Karlsbad in 1929. The following are the advantages of
+this move: 1. Bg5 would be a highly irritating pin for Black, as he lacks a
+dark-squared bishop - this move prevents it; 2. White's plan is later to
+launch an attack with f4-f5 and maybe even f6 - hence Black is now ready to
+meet f4 with f5; 3. lastly, the knight can, at some stage, come out on d6 to
+enhance the pressure on the c4 pawn.} 10. O-O Ba6 11. f4 {This is a logical
+way for White to continue his attack.} f5 $1 {This is a key move in Black's
+play. The f4 pawn is stopped right in its tracks, so the bishop on c1 becomes
+a little passive.} 12. Ng3 (12. d5 exd5 13. cxd5 (13. exd5 Na5) 13... Bxd3 14.
+Qxd3 fxe4 15. Qxe4 Nd6 16. Qd3 Na5 $15 {In the game Radjabov-Leko in the
+annotated games section, the Black player shows that this line is just plain
+bad for White.}) (12. e5 d6 13. d5 exd5 14. cxd5 Bxd3 15. Qxd3 dxe5 $17 {Check
+the game Carlsen-Aronian in the annotated games section.}) (12. exf5 exf5 13.
+dxc5 (13. Ng3 g6) 13... bxc5 14. Be3 d6 15. Ng3 g6 16. Bxf5 gxf5 17. Qd5+ Rf7
+18. Qxc6 Bb7 (18... Bxc4 19. Rfe1) 19. Qa4 h5 {This interesting position is
+further checked in the game Pedersen-Schandorff in the annotated games section.
+}) 12... g6 13. Be3 (13. exf5 {Has no independent value and just transposes to
+12.ef5.} exf5 14. dxc5 bxc5 15. Be3 {Is a transposition.}) 13... cxd4 $1 (13...
+Nd6 {Karpov had previously beaten Jussupow with this move, which also is very
+good; but somehow I like the move cd4, as it's much clearer.}) 14. cxd4 d5 15.
+cxd5 Bxd3 16. Qxd3 fxe4 17. Qxe4 Qxd5 18. Qxd5 exd5 $15 {Check the game
+Jussupow-Karpov to see how Karpov used his legendary technique to beat
+Jussupow.} *
+

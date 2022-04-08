@@ -1,0 +1,381 @@
+[Event "29th Mem Nezhmetdinov"]
+[Site "?"]
+[Date "2007.06.01"]
+[Round "1"]
+[White "Khismatullin D"]
+[Black "Fedorov E"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2225"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rn3rk1/pp2qpp1/2p2n2/3p1b1p/1b1P4/2N1PPP1/PP2N1BP/R1BQ1RK1 w - - 0 11"]
+
+{If you can play in a center - do it. Also black has a weaknesses on the
+king-side, because of the pawn h5. The best way to use the opponent's weaknesses is to open the position.} 11.e4
+dxe4 12.fxe4 Bxe4 13.Nxe4 ( 13.Bg5 {was also very good} ) Nxe4
+14.Nf4 Nf6 15.Nxh5 Nxh5 16.Qxh5 Nd7 17.a3 Bd6 18.Bg5 f6 19.Rae1
+Qf7 20.Qh3 Rfe8 21.Re4 ( 21.Be4 {!} {
+ You can see how it is simple to use the opponent's weaknesses in positions
+with an open center. You just need to centralize your pieces and attack the opponent's weak pawns and squares.}
+) Rxe4 22.Bxe4 Nf8 23.Qg4 Re8 24.Bf5 Qe7 25.Bc2 Qe6 26.Qf3 Qe2
+27.Qb3+ Kh8 28.Bc1 Ne6 29.Be3 Re7 30.Rf2 Qb5 31.Qxb5 cxb5 32.Rf5
+a6 33.Kg2 Kg8 34.Bb3 Kh7 35.h4 Kg6 36.g4 Kf7 37.g5 Rc7 38.h5
+Ke7 39.h6 gxh6 40.gxh6 Rc8 41.h7 Rh8 42.Rh5 Ng7 43.Rh3 Ne6 44.Rh4
+f5 45.Rh6 Nd8 46.Bg5+ 1-0
+
+[Event "4th Open A"]
+[Site "?"]
+[Date "2008.02.03"]
+[Round "2"]
+[White "Khismatullin D"]
+[Black "Shvedchikov A"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2423"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2br4/4r1kp/2pNppp1/ppPq4/3P1Q2/1P5P/P4PP1/3RR1K1 w - - 0 29"]
+
+{White has a domination in the center, but it is hard to continue the attack
+here. It means that white should transfer the attack on a side.} 29.Rd3
+Rf8 30.Rf3 {(White is threatening Nc8 or Re5. Due to the white's domination is the center his flank attack is easily successful.)}
+Rff7 31.Nxf7 Rxf7 32.h4 h6 33.Re5 Qd7 34.Ree3 1-0
+
+[Event "TCh-FRA Top 16 Gp A"]
+[Site "?"]
+[Date "2006.02.03"]
+[Round "1"]
+[White "Adams Mi"]
+[Black "Hamdouchi H"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2575"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k2r/pp2bppp/2qppn2/2p5/4PB2/2NP1N2/PPP2PPP/R2Q1RK1 w kq - 0 9"]
+
+{White has developed all the pieces and it is time to start realizing an
+attacking plan. First of all we should play in the center. That's why the next move is very logical.} 9.e5
+Nd7 10.d4 dxe5 11.Nxe5 Nxe5 12.dxe5 b6 13.Qh5 O-O 14.f3 f5 15.Bg5
+Bxg5 16.Qxg5 Qc7 17.Qf4 Ba6 18.Rfd1 Rad8 19.Rd6 {(White got a domination in the center and his position is strategically winning.)}
+Rxd6 20.exd6 Qf7 21.Rd1 Bc8 22.Nb1 Bd7 23.Nd2 Bb5 24.b4 cxb4
+25.Qxb4 Qd7 26.f4 Rc8 27.Nf3 a5 28.Qb3 Bc4 29.Qxb6 Qd8 30.Qxd8+
+Rxd8 31.Ne5 Bxa2 32.d7 1-0
+
+[Event "World Blitz"]
+[Site "?"]
+[Date "2007.11.22"]
+[Round "28"]
+[White "Adams Mi"]
+[Black "Kasimdzhanov R"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/2p2pp1/pbnpbn1p/1p2p3/4P2B/1BPP1N1P/PP1NQPP1/R3K2R w KQ - 0 13"]
+
+13.g4 { (This is an example of the situation, when you have ENOUGH control in the
+center to start an attack on a side. It is very difficult for black to open the
+center somehow, that's why the white's flank attack is possible.)}
+Bxb3 14.axb3 Ne7 15.Bxf6 gxf6 16.Nh4 Ng6 17.Nf5 Kh7 18.Qf3 Nf4
+19.Nf1 d5 20.exd5 Qxd5 21.Qxd5 Nxd5 22.N1g3 Nf4 23.O-O-O Rad8
+24.Kc2 Bxf2 25.Ne4 Bb6 26.Nxf6+ Kg6 27.Ne4 f6 28.Rhf1 h5 29.d4
+hxg4 30.hxg4 Rh8 31.Rd2 Rh3 32.Ne7+ Kg7 33.g5 fxg5 34.Nxg5 Rh5
+35.Ne4 Rdh8 36.dxe5 Be3 37.Rd7 Kh6 38.Ng3 Rh2+ 39.Kb1 Kg5 40.Ne4+
+Kg4 41.Nf6+ Kg3 42.Nf5+ 1-0
+
+[Event "11th HIT Open A"]
+[Site "?"]
+[Date "2006.01.27"]
+[Round "2"]
+[White "Miletic De"]
+[Black "Azmaiparashvili Z"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2658"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/1b2ppbp/p2p1np1/1pn5/4PP2/P1NB1N1P/1PPBQ1P1/4RRK1 b - - 0 14"]
+
+{It is the end of an opening, so it is necessary to compose a plan here. Since
+black can attack in the center - he should do it.} 14...e5 15.Qf2
+exf4 16.Bxf4 Re8 17.Nd2 Re6 18.Bg5 h6 19.Bh4 Qc7 20.Qf3 Rae8
+21.Re2 Nh7 22.Rfe1 f5 23.Nd5 Bxd5 24.exd5 Rxe2 25.Rxe2 Rxe2 26.Qxe2
+Bxb2 27.Qe8+ Kg7 28.Qc6 Qa7 29.Bf2 Qe7 30.Bxc5 dxc5 31.Nf3 Ng5
+32.Nxg5 hxg5 33.Kf1 Bc3 34.Be2 Qe3 35.Qe6 Qc1+ 36.Kf2 Bd4+ 0-1
+
+[Event "Polyarniy Krug"]
+[Site "?"]
+[Date "2006.11.30"]
+[Round "2"]
+[White "Bocharov D"]
+[Black "Okara A"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2314"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "1r1q1rk1/1pn3bp/p2ppnp1/P1p5/4P3/2N2N1P/1PP2PP1/R1BQR1K1 w - - 0 14"]
+
+{As usual white should attack in the center. It is possible to do it with the
+moves Be5 or e5. You can see that there is a correct plan and there are a few good moves to realize it.} 14.Bf4
+( 14.e5 {!?} ) Nfe8 15.Bg3 Qd7 16.Qd3 Qc6 17.Rad1 c4 18.Qe3 Rd8
+19.Re2 Nb5 20.Red2 Nec7 21.Ne2 Bf6 22.e5 dxe5 23.Nxe5 Rxd2 24.Rxd2
+Bxe5 25.Bxe5 Nd5 26.Qh6 Rf7 27.c3 Nd6 28.Nd4 Qd7 29.Re2 Nf5 30.Nxf5
+Rxf5 31.Bd4 Rf7 32.Re4 Ne7 33.Rg4 {(white starts attacking on a side only when he got an advantage in the center.)}
+Qd5 34.Rg5 Qe4 35.Re5 Qb1+ 36.Kh2 Nf5 37.Qf4 Ng7 38.Qd2 Qd3 39.Qg5
+Nf5 40.Bc5 Qd7 41.Qf4 Qc7 42.Bb6 Qd6 43.Re4 Qd5 44.Re5 Qd6 45.Qe4
+Nh4 46.Kg1 Qd1+ 47.Qe1 Qxe1+ 48.Rxe1 Rd7 49.Rxe6 Nf5 1-0
+
+[Event "It"]
+[Site "Vancouver (Canada)"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Browne Walter S (USA)"]
+[Black "Keres Paul (EST)"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2565"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qr1k1/ppp2pp1/3p1n1p/4p3/4P3/2PP1N1R/PP3PPP/R2Q2K1 b - - 0 21"]
+
+{The opening is finished and black needs to compose an attacking plan. Of
+course black should attack in the center as usual. White is trying to create an
+attack on the king-side - this gives black one more argument for his attack in
+a center. "If your opponent attacks on a side - you should counterblow in a center."} 21...d5
+22.Qe2 Qd7 23.Nh4 dxe4 24.dxe4 Rad8 25.Nf5 Qd2 26.Qf3 Re6 27.Rg3
+g6 28.Rf1 Qf4 {(the white's flank attack failed because of the black's strong central position.)}
+29.Rd1 Ree8 30.Ne7+ Kg7 31.Nd5 Qxf3 32.Rxf3 c6 33.Ne3 Rxd1+ 34.Nxd1
+Rd8 35.Ne3 Nxe4 36.h3 Ng5 37.Rg3 f5 38.Nxf5+ gxf5 39.h4 f4 40.Rg4
+Kg6 41.hxg5 hxg5 42.g3 Kf5 43.f3 Rd1+ 44.Kg2 0-1
+
+[Event "37th Olympiad"]
+[Site "?"]
+[Date "2006.06.02"]
+[Round "11"]
+[White "Korchnoi V"]
+[Black "Berg E"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2539"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2b1r1k1/2q1r2p/2p1ppp1/1pP5/pP1PR3/P3Q1PB/5P1P/4R1K1 w - - 0 35"]
+
+{White got an advantage in the center, however he can't resume an attack there. So white should transfer his attack on a side.} 35.g4
+Kg7 36.g5 f5 37.Re5 Rh8 {
+ (It is hard for black to protect his king-side and his central position at the
+same time. However, Rh8 is moving the rook away from the center and is certainly a mistake.)}
+38.d5 cxd5 39.Rxd5 Rhe8 40.Re5 Bb7 41.Bg2 Bxg2 42.Kxg2 Kf7 43.Qc3
+Qd8 44.Qh3 Kg8 45.Qe3 Qd7 46.h4 Kf7 47.Qc3 Qc6+ 48.Kg1 Kg8 49.R5e3
+Rd7 50.Qf6 Rf7 51.Qc3 Rd7 52.Rd3 e5 53.Rxd7 Qxd7 54.Rxe5 Qd1+
+55.Kh2 Rxe5 56.Qxe5 Qg4 57.Qg3 Qe4 58.Kg1 Kf7 59.Kf1 f4 60.Qh3
+Ke7 61.Kg1 Kd8 62.Qg4 Kc7 63.Kh2 Qe5 64.Kg2 Qe4+ 65.Qf3 Qf5 66.Qe2
+Kc6 67.Kh2 Kc7 68.Qe7+ Kc8 69.c6 1-0
+
+[Event "2nd Lluis Muratet Rapid"]
+[Site "?"]
+[Date "2006.08.16"]
+[Round "4"]
+[White "Korchnoi V"]
+[Black "Fluvia J"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2482"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2q1rk1/1pp1nppp/2n5/p3Pb2/2Pb4/P1N2N2/1P2BPPP/R1BQ1RK1 w - - 0 11"]
+
+{In positions with an open center we should occupy the central squares with the
+pieces. Of course we should neutralize the opponent's centralized pieces as well.} 11.Be3
+Bxe5 12.Nxe5 Nxe5 13.Qb3 Qc8 14.Rad1 Re8 15.Rfe1 Ra6 16.Nd5 {(white plays solely in the center, which is a correct strategy)}
+Nxd5 17.cxd5 Rg6 {(Black is hoping for a side attack, which  can't be good. It was better to concentrate the pieces in the center.)}
+18.Bf4 Nd7 19.Bh5 Rxe1+ 20.Rxe1 Rf6 21.Qe3 h6 22.Qe8+ Qxe8 23.Rxe8+
+Kh7 24.Bxc7 a4 25.Bd8 g6 26.Bxf6 Nxf6 27.Re7 gxh5 28.Rxf7+ Kg6
+29.Rxb7 Nxd5 30.Rb5 Nf4 31.Rb6+ Kg7 32.Rb4 Nd3 33.Rxa4 Nxb2 34.Ra7+
+Kf6 35.a4 Bd3 36.a5 Na4 37.Rd7 Be4 38.Rd6+ Kg5 39.a6 Nc3 40.f3
+Ba8 41.Rd8 Bc6 42.a7 1-0
+
+[Event "9th Open"]
+[Site "?"]
+[Date "2006.08.23"]
+[Round "8"]
+[White "Korchnoi V"]
+[Black "Tiviakov S"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2668"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "rn1qk2r/1b1nbppp/pp2p3/3p4/Q2P1B2/2N2NP1/PP2PPBP/R4RK1 w kq - 0 11"]
+
+{We have a static center and it is difficult to do something there. Thus white
+should attack on a side. White has more pieces looking at the queen-side, and he should play there.} 11.Rfc1
+{(that's why white is concentrating the pieces on the queen-side.)}
+O-O 12.Qd1 b5 13.a4 b4 14.Nb1 Nc6 15.Nbd2 Qb6 16.a5 Qa7 17.Nb3
+Rac8 18.Rc2 Ncb8 19.Rac1 Rxc2 20.Rxc2 Bc6 21.Bxb8 Nxb8 22.Qc1
+Bb7 23.Ne5 Bd6 24.Bh3 Ba8 25.e3 Qe7 26.Nd3 Qe8 27.Ndc5 Bxc5 28.Nxc5
+e5 29.dxe5 Qxe5 30.Bg2 Qf5 31.Nb3 Qd7 32.Nd4 Qd6 33.Bh3 Nd7 34.Rc8
+Bb7 35.Rc7 1-0
+
+[Event "10th TCh-Euro sen"]
+[Site "?"]
+[Date "2008.02.16"]
+[Round "6"]
+[White "Ulrichsen J"]
+[Black "Korchnoi V"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2605"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r4rk1/pbqnppbp/1p1p1np1/2p5/2PP4/1P2PN2/PBQNBPPP/R4RK1 b - - 0 11"]
+
+{An opening stage is finished. Now black should compose a middlegame plan. If you can play in a center - do it.} 11...e5
+12.d5 Rae8 13.Rab1 Qd8 14.Ne4 Nxe4 15.Qxe4 f5 16.Qc2 e4 17.Nd2
+Bxb2 18.Rxb2 Qc7 19.Re1 Ne5 20.Nf1 Bc8 21.f4 exf3 22.Bxf3 f4
+23.e4 Qe7 24.Qe2 Qh4 {(Black got a domination in a center and he may transfer an attack on a side.)}
+25.Rd2 g5 26.Qf2 Qxf2+ 27.Kxf2 g4 28.Bd1 Rf6 29.Kg1 h5 30.g3
+h4 31.gxf4 Rxf4 32.Ne3 Rxe4 33.Ng2 Nf3+ 34.Bxf3 gxf3 35.Rf1 fxg2
+36.Rxg2+ Kh8 0-1
+
+[Event "XIX Carlos Torre Mem"]
+[Site "?"]
+[Date "2006.12.16"]
+[Round "4"]
+[White "Perez Rod"]
+[Black "Milov V"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2657"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "2r1r1k1/1b2qppp/p2pp3/1pn5/3NP1PP/3B1P2/PPP2Q2/1K1RR3 b - - 0 20"]
+
+{The best defense against an opponent's flank attack is a counterblow in a center.} 20...g6
+{(black is preparing the move e5 to push away the white's centralized knight and
+to eventually continue the attack in a center by playing d5 in the future.)}
+21.Bf1 e5 22.Nb3 Ne6 23.Rd2 Red8 24.Red1 Nf4 25.Na5 Ba8 26.Qb6
+d5 27.Qxa6 Qxh4 28.Nb3 Qg3 29.Bxb5 Qxf3 30.exd5 Nxd5 31.a4 Rf8
+32.Bd7 Rxc2 33.Bc6 Rxc6 0-1
+
+[Event "VIII Dos Hermanas Internet"]
+[Site "?"]
+[Date "2007.03.23"]
+[Round "1.1"]
+[White "Abbasov F"]
+[Black "Azmaiparashvili Z"]
+[Result "0-1"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2632"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p1nppbp/p2p1np1/8/3NPP2/2NBB3/PPP3PP/R2Q1R1K b - - 0 10"]
+
+{The correct plan is an attack in the center. To realize this plan black needs
+to play e5, put the bishop on b7  (after b5), play Re8 and Nc5. That is what
+black should do next. Everything is very simple when you have a "planning thinking."} 10...e5
+11.Nde2 b5 12.Qd2 Bb7 13.a3 Re8 14.f5 d5 15.Nxd5 Bxd5 16.exd5
+e4 17.Bxb5 axb5 18.Bh6 e3 19.Bxe3 Qe7 20.Rf3 Ne5 21.d6 Nxf3 0-1
+
+[Event "11th HIT Open A"]
+[Site "?"]
+[Date "2006.01.28"]
+[Round "3"]
+[White "Azmaiparashvili Z"]
+[Black "Drazic S"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2488"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r1b1k2r/pp1nqppp/2p5/3p3n/3P4/2NBP3/PP2NPPP/R2QK2R w KQkq - 0 10"]
+
+{We always should try to find the attacking moves. Here such an attacking move
+is g4. Is it good? We need to look at the central position to answer this
+question. We have a static center and white controls the cetral situation
+pretty good. That's why the flank attack is possible.} 10.g4
+Nhf6 11.Ng3 g6 12.g5 Ng8 13.h4 h6 14.h5 Qxg5 15.Qb3 Ne7 16.O-O-O
+Qf6 17.Kb1 Nb6 18.a4 Bg4 19.Rd2 Bf3 20.Re1 Rb8 21.hxg6 fxg6 22.a5
+Nd7 23.e4 O-O 24.exd5 Nxd5 25.Bc4 Qf7 26.Nge4 N7f6 27.Nxf6+ Qxf6
+28.Nxd5 cxd5 29.Bxd5+ Bxd5 30.Qxd5+ Qf7 31.Re6 Kh7 32.Qe4 Rbe8
+33.Re5 Kg7 34.Rc2 h5 35.f4 Kh6 36.d5 Rxe5 37.fxe5 Qf1+ 38.Rc1
+Qf5 39.Qxf5 Rxf5 40.Re1 Kg7 41.d6 Kf8 42.Rc1 Rxe5 43.Rc8+ Kg7
+44.d7 Rd5 45.d8Q Rxd8 46.Rxd8 Kf6 47.Kc2 Kf5 48.Kd3 Kg4 49.Ke4
+g5 1-0
+
+[Event "World Blitz"]
+[Site "?"]
+[Date "2007.11.22"]
+[Round "34"]
+[White "Adams Mi"]
+[Black "Kramnik V"]
+[Result "1-0"]
+[ECO "?"]
+[WhiteElo "0"]
+[BlackElo "2785"]
+[Annotator ""]
+[Source "The Week in Che"]
+[Remark ""]
+[SetUp "1"]
+[FEN "r2qrbk1/ppp2pp1/2n2n1p/3pp2b/B3P2B/2PP1N1P/PP1NQPP1/R3K2R w KQ - 0 12"]
+
+12.g4 {(It is another example of the correct flank attack with an enough control over
+the central squares. By the way, white certainly may simply make castling instead and then play in a center.)}
+Bg6 13.Bxf6 Qxf6 {(black doesn't want to break his pawn structure, but it requires a very huge material sacrifice.)}
+14.exd5 Ne7 15.Bxe8 Nxd5 16.Bb5 Qb6 17.Bc4 Nf4 18.Qxe5 Bd6 19.Qb5
+Qxb5 20.Bxb5 a6 21.Ne4 Bxe4 22.dxe4 axb5 23.O-O-O Rxa2 24.Kb1
+Ra8 25.e5 Bc5 26.Rd7 Bb6 27.Nd4 b4 28.cxb4 Ra4 29.Nc2 Ne6 30.f3
+Kf8 31.Rd3 Ra8 32.Rhd1 Ke8 33.h4 c6 34.h5 Bc7 35.Re1 Nf4 36.Rd2
+Bb6 37.Re4 Nd5 38.f4 Rd8 39.Kc1 Ra8 40.f5 Bd8 41.Kb1 Bg5 42.Rd3
+b5 43.Nd4 Nxb4 44.Rb3 c5 45.Nxb5 Ke7 46.Re1 Rd8 47.Nd6 f6 48.Ne4
+Bh4 49.Rh1 Rd4 50.Nxc5 Bf2 51.exf6+ Kxf6 52.Rf1 Bh4 53.Nd7+ Kg5
+54.Ne5 Kf6 55.Nf3 Rxg4 56.Nxh4 Rxh4 57.Re3 Rxh5 58.Re6+ Kf7 59.Rb6
+Nd5 60.Rb5 Nf6 61.Rb7+ Kf8 62.Rc1 Rxf5 63.Rc8+ Ne8 64.Rbb8 Re5
+65.b4 h5 66.b5 h4 67.b6 h3 68.Rxe8+ Rxe8 69.Rxe8+ 1-0
+

@@ -1,0 +1,160 @@
+[Event "Odessa blindfold"]
+[Site "Odessa"]
+[Date "1918.12.??"]
+[Round "?"]
+[White "Gonsiorovsky, V."]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "C24"]
+[PlyCount "52"]
+[EventDate "1918.12.??"]
+[EventType "simul"]
+[EventCountry "UKR"]
+[Source "ChessBase"]
+[SourceDate "2015.10.10"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Qe2 Be7 5. f4 {Diagram #} d5 {
+Sacrifice a pawn in order to win time for development.} 6. exd5 exf4 7. Bxf4
+O-O 8. Nd2 {Diagram #} cxd5 9. Bb3 {Diagram #} a5 10. c3 a4 11. Bc2 {Diagram #}
+a3 {White time and weaknening White's queenside position.} 12. b3 Re8 13. O-O-O
+Bb4 14. Qf2 Bxc3 15. Bg5 Nc6 16. Ngf3 d4 17. Rhe1 Bb2+ 18. Kb1 Nd5 19. Rxe8+
+Qxe8 20. Ne4 Qxe4 21. Bd2 Qe3 22. Re1 Bf5 23. Rxe3 dxe3 24. Qf1 exd2 25. Bd1
+Ncb4 26. Qe2 Nc3# 0-1
+
+[Event "Bundesliga 9697"]
+[Site "Germany"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Borik, Otto"]
+[Black "Kachiani Gersinska, Ketino"]
+[Result "0-1"]
+[ECO "E99"]
+[WhiteElo "2410"]
+[BlackElo "2415"]
+[PlyCount "72"]
+[EventDate "1996.10.12"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Delmenhorst"]
+[BlackTeam "St Ingbert"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. a4 Ng6 14. a5 Kh8 15. Nd3
+Nf6 16. c5 Rg8 17. a6 Bf8 18. Kh1 h5 19. axb7 Bxb7 20. cxd6 Bxd6 21. Nb5 {
+Diagram #} Bc8 {Black give a pawn in order to win time for the attack.} 22.
+Nxd6 cxd6 23. Bxa7 Bd7 24. Bf2 Rxa1 25. Qxa1 {Diagram #} g4 26. Qe1 Kg7 27. Qb4
+{Diagram #} g3 28. hxg3 fxg3 29. Bxg3 h4 30. Bh2 Nh5 31. Kg1 Ng3 32. Rf2 Qe7
+33. Bf1 Ra8 34. Qc3 Bb5 35. Nxe5 dxe5 36. Bxb5 Ra1+ 0-1
+
+[Event "Bundesliga 9697"]
+[Site "Germany"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Conquest, Stuart"]
+[Black "Hracek, Zbynek"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2585"]
+[BlackElo "2625"]
+[PlyCount "61"]
+[EventDate "1996.10.12"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Wuppertal"]
+[BlackTeam "Werder Bremen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 Nc6 5. O-O d5 6. b3 Bd6 7. Bb2 Qe7 8. c4
+O-O 9. Nc3 cxd4 10. exd4 dxc4 11. bxc4 Ba3 12. Rb1 Bxb2 13. Rxb2 Rd8 14. Re1 b6
+{Diagram #} 15. d5 Na5 16. Qb1 Qd6 {Diagram #} 17. Ng5 g6 {Diagram #} 18. dxe6
+Qxd3 19. e7 Rd7 20. Nd5 Rxd5 21. e8=Q+ Nxe8 22. Rxe8+ Kg7 23. cxd5 Qxd5 24. Rb5
+Qd6 {Diagram #} 25. Qa1+ {White is attacking with all of his pieces aainst the
+enemy King, but black didn't developed the Ra8 and Bc8...} f6 26. Ne4 Qc6 27.
+Nxf6 Kf7 28. Rg5 h6 29. Rh8 hxg5 30. Rh7+ Ke6 31. Qe1+ 1-0
+
+[Event "RUS-ch"]
+[Site "Elista"]
+[Date "1996.??.??"]
+[Round "10"]
+[White "Rustemov, Alexander"]
+[Black "Shabanov, Yuri"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "2535"]
+[BlackElo "2405"]
+[PlyCount "82"]
+[EventDate "1996.10.15"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1997.02.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 b6 7. b3 Bb7 8. Bb2
+Be7 9. Bd3 O-O 10. O-O h6 11. Rad1 Qc7 12. h3 Bd6 13. e4 dxe4 14. Nxe4 Nxe4 15.
+Bxe4 Rfe8 16. c5 Bf8 17. Rfe1 a5 18. Bc1 bxc5 19. dxc5 f5 20. Bd3 Nxc5 21. Bc4
+Ba6 22. Nd4 Bxc4 23. Qxc4 Qf7 24. Ba3 Nd7 25. Bxf8 Nxf8 26. Nxc6 Qc7 27. Qb5
+Kh7 28. Rc1 Ng6 29. Rc4 e5 30. h4 Qd7 31. g3 {Diagram #} f4 32. h5 Ne7 33. Rxe5
+fxg3 34. Nxe7 {Diagram #} Qh3 35. fxg3 Qxg3+ 36. Kf1 Rxe7 37. Rxe7 Rf8+ 38. Ke2
+Rf2+ 39. Kd1 Qd3+ 40. Kc1 Qd2+ 41. Kb1 Qb2# 0-1
+
+[Event "Cacak"]
+[Site "Cacak"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Georgiev, Kiril"]
+[Black "Hodgson, Julian M"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2620"]
+[BlackElo "2550"]
+[PlyCount "55"]
+[EventDate "1996.11.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "1997.04.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. b4 Ba7 10. Bb2 dxc4 11. Bxc4 O-O 12. Rd1 Qe7 {Diagram #} 13. Ne4 Nxe4
+14. Qxe4 f6 15. h4 Qf7 16. g4 Bb8 17. Bd3 f5 18. gxf5 exf5 19. Qc4 b5 {
+Diagram #} 20. Qxc6 Bb7 21. Qc3 Bxf3 {Diagram #} 22. Rg1 Ra7 23. Bxf5 Rc7 {
+Diagram #} 24. Rxg7+ Qxg7 25. Be6+ Kh8 26. Qxg7+ Rxg7 27. Rd7 Bh2 28. Bxg7# 1-0
+
+[Event "RUS-Cup3"]
+[Site "Omsk"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Tikzhanov, Erlam"]
+[Black "Khachiyan, Melikset"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2265"]
+[BlackElo "2480"]
+[PlyCount "76"]
+[EventDate "1996.12.13"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1997.04.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 O-O 7. b4 Bb6 8. O-O
+Kh8 9. a4 a5 10. b5 Ne7 11. Qb3 Qe8 12. d4 Ng6 13. dxe5 Nxe5 14. Nxe5 {
+Diagram #} Qxe5 15. Nf3 Qxe4 16. Ng5 Qh4 17. g3 Qg4 18. Nxf7+ Rxf7 19. Bxf7 {
+Diagram #} Qh3 20. Re1 {Diagram #} Bxf2+ 21. Kxf2 Qxh2+ 22. Ke3 Qxg3+ 23. Kd2
+Qf2+ 24. Re2 Ne4+ 25. Kd3 Nc5+ 26. Kd2 Nxb3+ 27. Bxb3 Qf4+ 28. Kc2 Bf5+ 29. Kb2
+Qf3 30. Re7 c5 31. bxc6 bxc6 32. Ka3 Rb8 33. Bb2 d5 34. Rae1 Be4 35. Rg1 Bg6
+36. Rge1 Qf2 37. R1e3 Be4 38. Bc1 Qf8 0-1
+

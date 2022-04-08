@@ -1,0 +1,16 @@
+﻿[Event "Argentinien"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Pagilla"]
+[Black "Carbone"]
+[Result "1-0"]
+[Annotator "T3A"]
+[SetUp "1"]
+[FEN "3r3k/p1p1qp2/1pQ1pPpp/8/8/8/PPP2PPP/3R2K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1985.??.??"]
+[EventType "game"]
+
+1. Qa8 Rxa8 2. fxe7 1-0
+

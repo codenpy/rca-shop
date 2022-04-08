@@ -1,0 +1,72 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.04.26"]
+[Round "?"]
+[White "MacCutcheon variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "C12"]
+[Annotator "RCA"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+[SourceDate "2013.04.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 {This is the starting point of the
+Maccutcheon Variation, one of the most complex of all in the French Defence.}
+5. e5 {A very natural move, seizing space and attacking the pinned knight.
+Black has just one reply.} h6 6. Bd2 {The most popular option...} (6. Be3 {Is
+another option, more complicated and difficult to understand, and not
+necessarily better.}) 6... Bxc3 7. bxc3 Ne4 8. Qg4 {As you already know, this
+move is very typical and useful in the French Defence. By attacking g7, White
+forces Black into an important decision.} g6 {Weakening the dark squares.} (
+8... Kf8 {Losing the possibility of castling is the other option.} 9. Bd3 Nxd2
+10. Kxd2 c5 {The typical rupture in the French...} (10... Qg5+ {Is a very
+solid option. In this position, obtaining the initiative is complicated.} 11.
+Qxg5 hxg5 12. h4 $5 {The idea is to open the position on the king side, where
+White has more possibilities of obtaining an advantage.} c5 (12... gxh4 13. Nf3
+h3 14. Rh2 $1 {A really difficult move to find but with a clear idea - double
+the rooks and then just recover the pawn.} Ke7 15. Rah1 $5 {Sacrificing a pawn
+for the initiative; 15.g3 is a more solid option.} hxg2 16. Rxh8 gxh1=Q 17.
+Rxh1 {Here White has enough compensation for the pawn, even a slight advantage.
+I don't think it's enough for a win, but at least your opponent should have to
+play very accurately.} Bd7 18. Rh7 Nc6 19. Rxg7 Rh8 20. Ng5 Be8 21. Nh7 $1 {
+And White has the advantage in this endgame, due to his more active pieces.})
+13. Nf3 g4 14. Nh2 Nc6 (14... Rxh4 15. g3 Rh3 16. Nxg4 Rxh1 17. Rxh1) 15. Ke3
+c4 16. Be2 {And the advantage is on White's side.} Rxh4 17. Nxg4) 11. h4 {
+Preparing to develop the rook using the third rank - like amateurs used to do :
+)} Nc6 (11... c4 12. Be2 Nc6 13. Rh3 b5 14. Rg3 Rg8 15. Qf4 Bd7 16. Bh5 Be8 17.
+Nh3 {It's the same as 11... Nc6.}) 12. Rh3 c4 13. Be2 b5 14. Rg3 {Attacking g7.
+} Rg8 15. Qf4 {Now it's time to put pressure on the f7 square.} Bd7 16. Bh5 Be8
+17. Nh3 {White has a good attacking position. His plan is to manoeuvre the
+pieces on the king side, trying to create an attack. Also White should be
+careful about Black's counterplay on the other side.}) 9. Bd3 {Attacking
+Black's well-placed knight.} Nxd2 10. Kxd2 c5 11. Nf3 {Developing a piece and
+following the principle of maximum activity.} (11. h4 {Is another valid option.
+}) 11... Nc6 {Black doesn't define his position. And developing a piece keeps
+the pressure on...} (11... Bd7 {This move has the idea of placing the pieces
+in a different way (Bc6 and Nd7). In this way, the f6 square is going to be
+better protected.} 12. h4 Qe7 13. Qf4 Bc6 14. Nh2 {Manoeuvring to reach the f6
+square.} Nd7 15. Ng4 O-O-O 16. Nxh6 {Grabbing a pawn - but Black can recover
+it.} f5 17. g4 {This move is made to help the h6 knight.} cxd4 18. cxd4 fxg4
+19. Nxg4 Rxh4 20. Rxh4 g5 (20... Qxh4 21. Rg1 Rf8 22. Qh6 $1 Rxf2+ 23. Ke3 $1
+Rh2 24. Qxh4 Rxh4 25. Nf2 Nf8 26. Bxg6 {With a better endgame for White.}) 21.
+Qe3 gxh4 22. Rh1 {And I prefer White's position a little, due to the
+apparently good but actually weak h4 pawn and the better minor pieces.}) (11...
+c4 12. Be2 Bd7 13. h4 Bc6 14. Qf4 Nd7 15. Nh2 Qe7 16. Ng4 O-O-O 17. Nxh6 {This
+is very similar to the previous variation - just the fact that the position is
+closed on the queen side; it favours White a little.}) 12. Qf4 {The queen is
+very well placed here, attacking the f6 square, which is very important in
+this position.} Qa5 (12... cxd4 13. cxd4 Qa5+ 14. c3 b6 15. Qf6 {The reason
+for the move Qf4!} Rg8 16. a4 $1 {Preparing the next clever idea...} Ba6 17.
+Bb5 $1 {A very creative move - temporarily sacrificing a pawn to obtain open
+files on the queen side...} Bxb5 18. axb5 Qxb5 19. Rhb1 Qc4 20. Rxb6 {With a
+clear advantage for White due to the activity of his heavy pieces.}) 13. Rhb1
+cxd4 (13... c4 14. Be2 Qa3 15. h4 {And White should be better here, because he
+is threatening Qf6, so Black should probably return his queen to e7; and then
+the manoeuvre Nh2-g4 looks good.}) 14. Nxd4 Nxd4 15. Qxd4 {And here White's
+bishop is better than Black's bishop. The White queen is very good -
+centralised. White has more development and good attacking chances. This is
+compensation for the fact that white has a bad pawn structure. His plan is to
+attack Black on the dark squares and play depending on what Black does with
+his king.} *
+

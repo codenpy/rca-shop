@@ -1,0 +1,17 @@
+﻿[Event "Sousse"]
+[Site "Sousse"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Cuellar"]
+[Black "Reschewski"]
+[Result "1-0"]
+[Annotator "T2R"]
+[SetUp "1"]
+[FEN "4r1k1/1pq2p2/p2p1P2/2pP1Bp1/2P2R1p/P6P/1P1Qr1PK/2R5 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1967.??.??"]
+[EventType "team"]
+[EventCountry "TUN"]
+
+1. Re4 Rxd2 2. Rxe8# 1-0
+

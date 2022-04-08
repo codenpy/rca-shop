@@ -1,0 +1,362 @@
+[Event "WCC"]
+[Site "?"]
+[Date "2005.12.03"]
+[Round "3.1"]
+[White "Sokolov Iv"]
+[Black "Malakhov V"]
+[Result "0-1"]
+[WhiteElo "2696"]
+[BlackElo "2670"]
+[Annotator "Smirnov"]
+[PlyCount "75"]
+[EventDate "2005.??.??"]
+[Source "The Week in Ches"]
+[SetUp "1"]
+[FEN "r2q1rk1/3nbppp/b3p3/pp6/3PPB2/3Q4/1P1NNPPP/2R2RK1 b - - 0 20"]
+
+20...e5 21.dxe5 Nxe5 22.Qxd8 Rfxd8 23.Bxe5 Rxd2 24.Nf4 b4 25.Rfd1
+Rxd1+ 26.Rxd1 Bf8 27.Nd5 Re8 28.f4 Bb7 29.Kf2 f6 30.Bc7 Rxe4
+31.Bxa5 Rc4 32.Ne3 Rxf4+ 33.Kg3 Re4 34.Bb6 Re6 35.Bd4 Rd6 36.Kf2
+Kf7 37.g4 g6 38.h3 Rd7 39.Ke2 Ke6 40.Kd3 Bh6 41.Re1 Kf7 42.Ra1
+f5 43.Kc4 f4 44.Nc2 Bd5+ 45.Kd3 Bf8 46.Ra7 Rxa7 47.Bxa7 Be7 48.Bf2
+g5 49.Ne1 Kg6 50.Bd4 h5 51.Ke2 hxg4 52.hxg4 Bf6 53.Bxf6 Kxf6
+54.Nc2 b3 55.Nb4 Ke5 56.Nd3+ Kd4 57.Nf2 f3+ 0-1
+
+[Event "Ch Russia (club)"]
+[Site "Sochi (Russia)"]
+[Date "2004.04.22"]
+[Round "3"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Filippov Valerij (RUS)"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2639"]
+[Annotator "Smirnov"]
+[PlyCount "65"]
+[EventDate "2004.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "r1br2k1/p1q3pp/5p2/nBBp2Q1/P2Pp3/2P5/5PPP/R4RK1 w - - 0 20"]
+
+20.Qg3 Qxg3 21.hxg3 Bf5 22.Rab1 Kf7 23.Rb4 h5 24.Be2 Kg6 25.Rb5
+Nc4 26.Bxc4 dxc4 27.a5 a6 28.Rb7 Rh8 29.Re1 Rab8 30.Rb6 Ra8 31.d5
+h4 32.g4 Bxg4 33.Rxe4 Bf5 34.Re3 Rh5 35.d6 Rg5 36.Bb4 Rh8 37.Kh2
+Bd3 38.d7 Rd8 39.Rd6 Rb5 40.Re8 Rbb8 41.Rxa6 Rxe8 42.dxe8Q+ Rxe8
+43.Rd6 Re2 44.Bc5 Re5 45.Bb6 Rg5 46.a6 h3 47.g4 Be4 48.a7 Bg2
+49.Kg3 Be4 50.Kxh3 Rb5 51.Kg3 Rb3 52.Bd4 1-0
+
+[Event "Ch Russia (team)"]
+[Site "Toljatti (Russia)"]
+[Date "2003.??.??"]
+[Round "10"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Filippov Valerij (RUS)"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2609"]
+[Annotator "Smirnov"]
+[PlyCount "63"]
+[EventDate "2003.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/4bn2/8/8/2P2N2/P3PPPP/R3KB1R w KQ - 0 14"]
+
+14.Nd4 Rac8 15.Nxe6 fxe6 16.g3 Rxc3 17.Bh3 Kf7 18.O-O Ne4 19.Rfb1
+Nc5 20.Rb2 Ke7 21.a4 Kd6 22.f4 Kc7 23.Bg4 a5 24.Rab1 Rb8 25.Rb6
+e5 26.fxe5 Rc4 27.Bf5 Nxa4 28.Re6 Nc3 29.Ra1 Nxe2+ 30.Kg2 Nd4
+31.Re7+ Kb6 32.Bxh7 g5 33.e6 Rh8 34.Rb1+ Rb4 35.Rxb4+ axb4 36.Be4
+Nc6 37.Rg7 Re8 38.Bd5 Kc5 39.Rxg5 Kd6 40.Bb3 Ne5 41.h4 Rc8 42.h5
+Rc3 43.Rxe5 Kxe5 44.e7 Rc8 45.Bf7 1-0
+
+[Event "Ch Russia (club)"]
+[Site "Tomsk (Russia)"]
+[Date "2001.??.??"]
+[Round "6"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Shaposhnikov Evgeny (RUS)"]
+[Result "1-0"]
+[WhiteElo "2637"]
+[BlackElo "2542"]
+[Annotator "Smirnov"]
+[PlyCount "71"]
+[EventDate "2001.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "4r1k1/1b1nqppp/p4n2/4p3/Np2P3/PP1Q2P1/1B1R1PBP/6K1 w - - 0 29"]
+
+29.Qd6 Bxe4 30.axb4 Bxg2 31.Kxg2 Qe6 32.Qxe6 Rxe6 33.Nc5 Nxc5
+34.bxc5 Kf8 35.Rc2 Ke8 36.c6 Kd8 37.Rc5 e4 38.Be5 Kc8 39.h3 e3
+40.f3 e2 41.Kf2 Nh5 42.Bc3 g6 43.Be1 f5 44.h4 Nf6 45.Ba5 Ng8
+46.Rd5 e1B+ 47.Bxe1 Ne7 48.Rd7 Nxc6 49.Rxh7 Nd4 50.Bc3 Nxb3 51.h5
+gxh5 52.Rxh5 f4 53.gxf4 Rc6 54.Be5 Nc5 55.Ke3 Kd7 56.f5 a5 57.Kd4
+Nb3+ 58.Ke4 Rc4+ 59.Kd3 Rc8 60.Rh7+ Kc6 61.Re7 Kd5 62.f6 Nc5+
+63.Ke3 Nd7 64.f4 1-0
+
+[Event "Ch URS"]
+[Site "Yerevan (Armenia)"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Zaitsev Igor A (RUS)"]
+[Black "Taimanov Mark E (RUS)"]
+[Result "0-1"]
+[WhiteElo "2423"]
+[BlackElo "2402"]
+[Annotator "Smirnov"]
+[PlyCount "51"]
+[EventDate "1962.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "2r1kb1r/1b1p1ppp/p1q1pn2/1p6/3QP3/P1N1B3/1PPRBPPP/2K4R b k - 0 12"]
+
+12...Bc5 13.Qxc5 Qxc5 14.Bxc5 Rxc5 15.Bf3 g5 16.Rhd1 h5 17.Rd6
+Bc6 18.h4 gxh4 19.Rh1 a5 20.Rd4 e5 21.Rd2 b4 22.axb4 axb4 23.Nd5
+Bxd5 24.exd5 Rc4 25.d6 O-O 26.Rh3 Rf4 27.Kb1 Rb8 28.Ka2 Rb6 29.Kb3
+Kg7 30.Rh1 Kg6 31.Ra1 h3 32.Rg1 Kh6 33.Ba8 hxg2 34.Rxg2 Ne8 35.Rd3
+Rxd6 36.Re3 Nc7 37.Bf3 Ne6 0-1
+
+[Event "Championship UKR of men 2006"]
+[Site "Poltava"]
+[Date "2006.11.25"]
+[Round "1.2"]
+[White "Drozdovskij, Yuri"]
+[Black "Lahno, Kateryna"]
+[Result "1-0"]
+[WhiteElo "2561"]
+[BlackElo "2459"]
+[Annotator "Smirnov"]
+[PlyCount "107"]
+[EventDate "2006.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2ppp/2q2n2/4n3/4P3/P4P2/1PQ3PP/R1B1KBNR w KQkq - 0 13"]
+
+13.Qxc6+ Nxc6 14.Bf4 Nd4 15.O-O-O Ne6 16.Be3 Bd7 17.Bc4 a6 18.Ne2
+O-O-O 19.Nc3 Bc6 20.Kc2 Rxd1 21.Rxd1 Rd8 22.Nd5 Bxd5 23.exd5
+Nf8 24.d6 Rxd6 25.Rxd6 cxd6 26.Bxf7 Kd7 27.Ba2 Ne6 28.g4 h6 29.h4
+Ke7 30.b4 Kd7 31.g5 hxg5 32.hxg5 Ne8 33.f4 Ke7 34.f5 Nd8 35.Kd3
+Nc6 36.Ke4 Nc7 37.Bc1 Kf8 38.Bb2 a5 39.bxa5 Nxa5 40.Bd5 Nc6 41.a4
+Na6 42.Ba3 Ke7 43.Bc4 Nc7 44.Kf4 Na5 45.Bd3 Nc6 46.Bc4 Na5 47.Be2
+Nc6 48.Ke4 Nb8 49.Bb2 Kf8 50.Bb5 Nc6 51.Bc3 Kf7 52.Bc4+ Kf8 53.f6
+g6 54.Bd5 Na6 55.Bd4 Nc7 56.Bb2 Nd8 57.Bc1 Nce6 58.Bxe6 Nxe6
+59.Kd5 Nc5 60.a5 Nb3 61.Ba3 Kf7 62.Bb4 Nc1 63.Kxd6 Nd3 64.Bd2
+Nf2 65.Kc7 Ne4 66.Be3 1-0
+
+[Event "Tal Mem"]
+[Site "?"]
+[Date "2007.11.12"]
+[Round "3"]
+[White "Kramnik V"]
+[Black "Leko P"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2755"]
+[Annotator "Smirnov"]
+[PlyCount "65"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+[SetUp "1"]
+[FEN "5bk1/r4ppp/p2np3/3n4/8/1P1N1NP1/P4P1P/2R1B1K1 w - - 0 30"]
+
+30.Rc6 Nf5 31.Ba5 Ra8 32.Nfe5 Nfe7 33.Rd6 Nf6 34.b4 Ned5 35.Rc6
+Be7 36.a4 g6 37.Nc4 Kf8 38.Nc5 Bxc5 39.bxc5 Ke8 40.f3 Ng8 41.Nb6
+Nge7 42.Rd6 Rb8 43.Nxd5 Nxd5 44.Rxa6 Rc8 45.Bb6 Nb4 46.Ra7 Nc6
+47.Rb7 Ra8 48.Rc7 Nd4 49.a5 Nxf3+ 50.Kf2 Nxh2 51.c6 Ng4+ 52.Kf3
+Nf6 53.Rb7 Nd5 54.Ke4 Nb4 55.c7 Rc8 56.Kd4 Kd7 57.Kc5 Nc6 58.a6
+h5 59.a7 f5 60.a8Q Rxa8 61.c8Q+ Kxc8 62.Kxc6 1-0
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Janowski Dawid M (FRA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[PlyCount "73"]
+[EventDate "1916.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "r3kb1r/1p2pppp/1pn5/3p1b2/3P4/4PN2/PP1B1PPP/R3KB1R b KQkq - 0 10"]
+
+10...Bd7 11.Be2 e6 12.O-O Bd6 13.Rfc1 Ke7 14.Bc3 Rhc8 15.a3 Na5
+16.Nd2 f5 17.g3 b5 18.f3 Nc4 19.Bxc4 bxc4 20.e4 Kf7 21.e5 Be7
+22.f4 b5 23.Kf2 Ra4 24.Ke3 Rca8 25.Rab1 h6 26.Nf3 g5 27.Ne1 Rg8
+28.Kf3 gxf4 29.gxf4 Raa8 30.Ng2 Rg4 31.Rg1 Rag8 32.Be1 b4 33.axb4
+Ba4 34.Ra1 Bc2 35.Bg3 Be4+ 36.Kf2 h5 37.Ra7 Bxg2 38.Rxg2 h4 39.Bxh4
+Rxg2+ 40.Kf3 Rxh2 41.Bxe7 Rh3+ 42.Kf2 Rb3 43.Bg5+ Kg6 44.Re7
+Rxb2+ 45.Kf3 Ra8 46.Rxe6+ Kh7 0-1
+
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Chajes Oscar (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2450"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[PlyCount "121"]
+[EventDate "1918.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "r5k1/pp3ppp/2p2b2/3r4/2nN4/2P1B2P/PP3PP1/1R3RK1 b - - 0 21"]
+
+21...Bxd4 22.cxd4 Re8 23.Rfe1 f6 24.b3 Na3 25.Rbc1 Kf7 26.Red1
+Red8 27.Rd2 Nb5 28.Rc4 Ke6 29.g4 f5 30.f3 Rf8 31.Kg2 f4 32.Bf2
+Rfd8 33.a4 Nc7 34.b4 a6 35.Re2+ Kd7 36.Re4 g5 37.h4 h6 38.hxg5
+hxg5 39.Rc1 a5 40.Rb1 axb4 41.Rxb4 Kc8 42.Re2 R8d7 43.Rc4 R7d6
+44.Rb4 Ne6 45.Re4 Kb8 46.Re1 Nd8 47.Re2 Rd7 48.Re1 Ka7 49.Re2
+Ka6 50.Re8 R7d6 51.Re7 b5 52.Re2 Ne6 53.axb5+ cxb5 54.Ra2+ Kb6
+55.Rc2 Rd7 56.Rc1 Nd8 57.Rb2 Nc6 58.Rcb1 Ra7 59.Re1 Ra4 60.Re6
+Rc4 61.Rf6 b4 62.Rf5 Ne7 63.Rf7 Nc8 64.Rf8 Kb5 65.Rf6 Rc1 66.Rf5
+Nb6 67.Rf7 Nd7 68.Rf5 Rxf5 69.gxf5 Nf6 70.Re2 b3 71.Re7 Rc2 72.Rb7+
+Kc4 73.Rc7+ Kd3 74.Rb7 b2 75.Rb4 Nd5 76.f6 Ne3+ 77.Kh3 Rxf2 78.f7
+Rxf3+ 79.Kh2 Rf2+ 80.Kg1 Rf1+ 81.Kh2 g4 0-1
+
+[Event "Match"]
+[Site "Habana (Cuba)"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Kostic Boris (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[PlyCount "87"]
+[EventDate "1919.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "r3k2r/pp1b1pp1/1qnbpn1p/3p4/3P3B/1QP2N2/PP1NBPPP/R4RK1 b kq - 0 11"]
+
+11...Nh5 12.Qxb6 axb6 13.Rfe1 g5 14.Bg3 Nxg3 15.hxg3 f6 16.g4
+Kf7 17.Nh2 Na5 18.Nhf1 b5 19.a3 Nc4 20.Nxc4 bxc4 21.Ne3 Ra6 22.g3
+Rb6 23.Ra2 Ra8 24.Bf3 Ra5 25.Kg2 Rab5 26.Re2 Be8 27.Rd2 Kg7 28.Bd1
+Bg6 29.Ba4 Ra5 30.Bc2 Bxc2 31.Rxc2 Kg6 32.Re2 Rab5 33.Nd1 Bf8
+34.Ra1 h5 35.f3 hxg4 36.fxg4 f5 37.gxf5+ exf5 38.Rc1 Rf6 39.Rcc2
+Bd6 40.Re8 Kf7 41.Re1 f4 42.g4 f3+ 43.Kf2 Rh6 44.Kxf3 Rh3+ 45.Ke2
+Rh2+ 46.Nf2 Bg3 47.Rf1 Rb6 48.Kf3 Bh4 49.Re2 Rf6+ 50.Ke3 b5 51.Rd2
+Ke7 52.b4 cxb3 53.Nd3 Rxd2 54.Kxd2 Rxf1 0-1
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1924.??.??"]
+[Round "7"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Yates Frederick"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "0"]
+[Annotator "Smirnov"]
+[PlyCount "117"]
+[EventDate "1924.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "r1b2rk1/1p4np/pq2p1p1/5p2/2p4P/1NN1P3/PPPQ1PP1/R3K2R w KQ - 0 19"]
+
+19.Qd4 Qc7 20.Qc5 Qxc5 21.Nxc5 b6 22.N5a4 Rb8 23.O-O-O b5 24.Nc5
+Rb6 25.a4 Nh5 26.b3 cxb3 27.cxb3 bxa4 28.N3xa4 Rc6 29.Kb2 Nf6
+30.Rd2 a5 31.Rhd1 Nd5 32.g3 Rf7 33.Nd3 Rb7 34.Ne5 Rcc7 35.Rd4
+Kg7 36.e4 fxe4 37.Rxe4 Rb5 38.Rc4 Rxc4 39.Nxc4 Bd7 40.Nc3 Rc5
+41.Ne4 Rb5 42.Ned6 Rc5 43.Nb7 Rc7 44.Nbxa5 Bb5 45.Nd6 Bd7 46.Nac4
+Ra7 47.Ne4 h6 48.f4 Be8 49.Ne5 Ra8 50.Rc1 Bf7 51.Rc6 Bg8 52.Nc5
+Re8 53.Ra6 Re7 54.Ka3 Bf7 55.b4 Nc7 56.Rc6 Nb5+ 57.Kb2 Nd4 58.Ra6
+Be8 59.g4 Kf6 60.Ne4+ Kg7 61.Nd6 Bb5 62.Ra5 Bf1 63.Ra8 g5 64.fxg5
+hxg5 65.hxg5 Bg2 66.Re8 Rc7 67.Rd8 Nc6 68.Ne8+ Kf8 69.Nxc7+ Nxd8
+70.Kc3 Bb7 71.Kd4 Bc8 72.g6 Nb7 73.Ne8 Nd8 74.b5 Kg8 75.g5 Kf8
+76.g7+ Kg8 77.g6 1-0
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1924.??.??"]
+[Round "18"]
+[White "Lasker Edward (USA)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "0"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[PlyCount "77"]
+[EventDate "1924.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "2r1r1k1/1p4bp/p3b1p1/3pPp1n/1B1P4/1P3N1P/1P2NPP1/R3R1K1 b - - 0 22"]
+
+22...Rc2 23.Bc3 Bh6 24.g3 Bd7 25.Rad1 Bb5 26.Nc1 Ng7 27.Nh2 Ne6
+28.Nd3 Bxd3 29.Rxd3 Bc1 30.Nf1 Ng5 31.Kg2 Ne4 32.Rf3 Kf7 33.g4
+Ke6 34.Ne3 Bxe3 35.Rexe3 Rc8 36.Kf1 b5 37.gxf5+ gxf5 38.Rf4 h5
+39.Re2 Rc1+ 40.Re1 Rxe1+ 41.Bxe1 Rc1 42.Rh4 Rb1 43.Rxh5 f4 44.Ke2
+f3+ 45.Kxf3 Rxe1 46.Rh6+ Kf5 47.Rxa6 Ng5+ 48.Kg2 Ne6 49.h4 Re4
+50.Rb6 Rg4+ 51.Kf1 Nxd4 52.e6 Re4 53.h5 Rxe6 54.Rb8 Rh6 55.Ke1
+Rxh5 56.Kd2 Rh3 57.Rf8+ Ke5 58.b4 Rb3 59.Re8+ Ne6 60.f4+ Kf5 0-1
+
+[Event "It"]
+[Site "Lake-Hopatcong (USA)"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Maroczy Geza (HUN)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[PlyCount "27"]
+[EventDate "1926.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "8/1p3p2/p3pq1k/5p1p/2rP1P1P/6Q1/PP1R3K/8 b - - 0 36"]
+
+36...Qg6 37.Qg5+ Qxg5 38.hxg5+ Kg6 39.Kg3 Rc6 40.Kf3 Rd6 41.Kg3
+f6 42.gxf6 Kxf6 43.Kf3 h4 44.Rh2 Rxd4 45.Rxh4 b5 46.Rh6+ Ke7
+47.Rh7+ Kd6 48.Ra7 Ra4 49.a3 Kd5 0-1
+
+[Event "It"]
+[Site "Leningrad (Russia)"]
+[Date "1939.??.??"]
+[Round "13"]
+[White "Flohr Salomon M (CZE)"]
+[Black "Bondarevsky Igor Z (RUS)"]
+[Result "1-0"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Smirnov"]
+[PlyCount "107"]
+[EventDate "1939.??.??"]
+[Source ""]
+[SetUp "1"]
+[FEN "3rbrk1/pp4pp/2p5/3pN3/3P1P1q/P1R1Q3/1P2PP1P/5RK1 w - - 0 24"]
+
+24.Qg3 Qxf4 25.Qxf4 Rxf4 26.e3 Rf6 27.Rb3 Rb8 28.f3 Kf8 29.Kf2
+Rh6 30.Kg3 Ke7 31.Rc3 Rd8 32.h4 Bd7 33.Rc2 g5 34.hxg5 Rh3+ 35.Kg2
+Rh5 36.Rh1 Rxg5+ 37.Kf1 Bf5 38.Rg2 Rdg8 39.Rxg5 Rxg5 40.Kf2 Kf6
+41.Rh4 Rg7 42.b4 Kg5 43.Rh1 Kf6 44.Rh2 Rg5 45.a4 Rg7 46.a5 Rc7
+47.Rh6+ Bg6 48.Rh1 Bf5 49.Rc1 a6 50.Rh1 Rg7 51.Rh2 Rc7 52.Rh6+
+Bg6 53.Rh4 Bf5 54.e4 dxe4 55.fxe4 Bg6 56.Rf4+ Ke6 57.Ke3 Rg7
+58.Nd3 Kd6 59.Nc5 Re7 60.Rf8 Kc7 61.e5 Re8 62.Rxe8 Bxe8 63.Kf4
+b6 64.Na4 bxa5 65.bxa5 Bf7 66.Nc5 Bc4 67.Kg5 Be2 68.Kh6 Kd8 69.Kxh7
+Ke7 70.Kg6 Bf1 71.Kf5 Bh3+ 72.Ke4 Bg2+ 73.Ke3 Bf1 74.Kd2 Kf7
+75.Kc3 Kg6 76.Kb4 Kf5 77.Nb7 1-0
+
+[Event "Moscow"]
+[Site "Ìîñêâà"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kotov"]
+[Black "Katetov"]
+[Result "1-0"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator "Smirnov"]
+[PlyCount "47"]
+[EventDate ""]
+[Source ""]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3ppp/2p2n2/3p2n1/3P4/2PBP2P/P2N1PPB/1K1R3R w - - 0 1"]
+
+1.Kc2 Nge4 2.Nxe4 Nxe4 3.Rhf1 Bd7 4.Rb1 b6 5.f3 Ng5 6.Kd2 f5
+7.a4 Nf7 8.a5 b5 9.Rf2 h5 10.h4 Re7 11.Bf4 g6 12.g4 Kh7 13.gxh5
+gxh5 14.Rg2 Rg8 15.Rxg8 Kxg8 16.Kc2 Kh7 17.Rg1 Re8 18.Kb3 Rc8
+19.Kb4 c5+ 20.dxc5 a6 21.e4 dxe4 22.fxe4 Rc6 23.exf5 Rf6 24.Rg6 1-0

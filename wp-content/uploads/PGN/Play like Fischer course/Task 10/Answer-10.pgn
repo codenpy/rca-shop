@@ -1,0 +1,248 @@
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2785"]
+[BlackElo "2560"]
+[Annotator "https://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b1n1pbn/p2p2p1/1p1Pp2p/PPp1P3/2P1BNNP/2BQ1PP1/R3R1K1 w - - 0 22"]
+[PlyCount "57"]
+[EventDate "1992.09.??"]
+[EventType "match"]
+[EventRounds "30"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+22. Ra3 {Fischer prepares the doubling of the rooks on the a-line. For that
+reason, he makes room for the other rook on a1.} Ndf6 23. Rea1 Qd7 24. R1a2 {
+This is Alekhine's gun, i.e. two rooks and the queen on the same file. In that
+setup, the most common place for the queen is behind the rooks because it is
+the most vulnerable piece.} Rfc8 25. Qc1 Bf8 26. Qa1 {
+White has the advantage on the a-line because he can open it whenever he wants.
+} Qe8 27. Nf1 $1 {A very strong idea: White would like to transfer this knight
+to b1, then open the a-line and be on time to play Na3 to attack the b5-pawn.
+You can see this idea clearly in the sub-variation.} Be7 28. N1d2 Kg7 29. Nb1
+Nxe4 (29... Nd7 30. axb5 axb5 31. Rxa8 Rxa8 32. Rxa8 Qxa8 33. Qxa8 Bxa8 34. Na3
+$18) 30. Bxe4 f5 31. Bc2 Bxd5 32. axb5 axb5 33. Ra7 $1 {
+White has a clear advantage and he manages to win the game afterwards.} Kf6 34.
+Nbd2 Rxa7 35. Rxa7 Ra8 36. g4 hxg4 37. hxg4 Rxa7 38. Qxa7 f4 39. Bxf4 exf4 40.
+Nh4 Bf7 41. Qd4+ Ke6 42. Nf5 Bf8 43. Qxf4 Kd7 44. Nd4 Qe1+ 45. Kg2 Bd5+ 46. Be4
+Bxe4+ 47. Nxe4 Be7 48. Nxb5 Nf8 49. Nbxd6 Ne6 50. Qe5 1-0
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "8"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E84"]
+[WhiteElo "2560"]
+[BlackElo "2785"]
+[Annotator "https://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "1r5r/q4pk1/p2p1np1/1p1Pp2p/3nP2P/3BNP2/PP1Q2P1/1KR4R b - - 0 24"]
+[PlyCount "33"]
+[EventDate "1992.09.??"]
+[EventType "match"]
+[EventRounds "30"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+24... Rbc8 {It is always a good idea to place the rooks on the open lines.
+White didn't manage to create any attacking threat on the kingside, and now
+Black is playing positionaly in order to activate all of his forces.} (24...
+Rhc8 $5) (24... Nd7 $5) 25. Rcf1 Qe7 {White is still dreaming to attack, so
+Black reinforces his defenses. The best defensive piece is the queen, so it
+can offer great help here.} 26. g4 Nd7 27. g5 (27. gxh5 Rxh5 {
+White cannot open the lines and the h4-pawn is weak.}) 27... Kf8 $6 (27... Rc7
+{This was a more logical move.}) 28. Rf2 $1 Ke8 29. Bf1 Nc5 30. Bh3 Rc7 31. Rc1
+Ncb3 $1 {A stunning blow which helps Black obtain an almost winning position.}
+32. axb3 Nxb3 33. Rc6 $2 (33. Qc2 $5) (33. Qc3 $1 Rxc3 34. Rxc3 Nc5 35. b4 {
+And Black has to give up his knight because White can create strong threats on
+the c-line.} Qa7 $11 (35... Nb7 36. Rfc2)) (33. Rxc7 $2 Nxd2+ 34. Rxd2 Qxc7 $19
+) 33... Nxd2+ 34. Rxd2 Kf8 {
+Black has a clear advantage and he manages to win the game afterwards.} 35.
+Rxa6 Ra7 36. Rc6 Kg7 37. Bf1 Ra1+ 38. Kxa1 Qa7+ 39. Kb1 Qxe3 40. Kc2 b4 0-1
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "9"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[ECO "C69"]
+[WhiteElo "2785"]
+[BlackElo "2560"]
+[Annotator "https://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "3r2nr/1kp3pp/pp1bbp2/P1p5/4P3/1NN1BP2/1PP3PP/R2R2K1 w - - 0 15"]
+[PlyCount "13"]
+[EventDate "1992.09.??"]
+[EventType "match"]
+[EventRounds "30"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+15. e5 {A very strong idea. White wants to destroy Black's pawn structure with
+tactics. Likewise, he releases the e4-square for his knight.} (15. Bf4 $5) (15.
+axb6 $5) (15. Na4 $5) 15... Be7 (15... fxe5 $2 16. axb6 cxb6 17. Ne4 Be7 18.
+Rxd8 Bxd8 19. Nbxc5+ $18) (15... Bxb3 $2 16. exd6 Bxc2 17. Rdc1 Bg6 18. dxc7
+$18) 16. Rxd8 Bxd8 17. Ne4 $146 {Now Black's pawns are under heavy pressure.}
+Kc6 $2 (17... Bd5 $5 18. Rd1 Ne7 19. exf6 gxf6 20. Kf2 $14) 18. axb6 cxb6 19.
+Nbxc5 $1 $18 {A stunning move! The bishop on e6 is unprotected and Fischer
+exploited it in a very nice way! White is winning.} Bc8 20. Nxa6 fxe5 21. Nb4+
+(21. Nb4+ Kb5 22. Nd6+ Kxb4 23. Ra3 Nf6 24. c3#) 1-0
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "11"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2785"]
+[BlackElo "2560"]
+[Annotator "https://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1bqk1nr/p4pbp/3p2p1/8/1p1pP3/5N2/1BP2PPP/RN1QR1K1 w k - 0 12"]
+[PlyCount "59"]
+[EventDate "1992.09.??"]
+[EventType "match"]
+[EventRounds "30"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+12. Nxd4 $1 {White is keeping the pieces on the board in order to create some
+threats. Right now, he is threatening Nc6. Black has a lot of weaknesses,
+that's why White is keeping the pieces on the board to attack Black's king.} (
+12. Bxd4 Nf6 {The position is about equal.}) 12... Qd7 (12... -- 13. Nc6 Qc7
+14. Bxg7 Qxc6 15. Bxh8) 13. Nd2 Bb7 14. Nc4 Nh6 15. Nf5 $1 {Fantastic blow!
+Black was ready to castle kingside, but in this precise moment, Fischer
+creates threats that blows up the position.} Bxb2 (15... Nxf5 16. exf5+ Kf8 17.
+f6 Bh6 18. Nxd6 $1 $18) 16. Ncxd6+ {White has a clear advantage.} (16. Nfxd6+
+$5 Ke7 17. Ra5 $36) 16... Kf8 17. Nxh6 f6 (17... Bxa1 18. Qxa1 {
+Black faces very serious threats.}) 18. Ndf7 Qxd1 19. Raxd1 $16 {
+White has a clear advantage and he manages to win the game afterwards.} Ke7 20.
+Nxh8 Rxh8 21. Nf5+ $1 gxf5 22. exf5+ Be5 23. f4 Rc8 24. fxe5 Rxc2 25. e6 Bc6
+26. Rc1 Rxc1 27. Rxc1 Kd6 28. Rd1+ Ke5 29. e7 a5 30. Rc1 $1 (30. e8=Q+ $2 Bxe8
+31. Re1+ Kd4 32. Rxe8 b3 33. Rb8 Kc3 $11) 30... Bd7 31. Rc5+ Kd4 32. Rxa5 b3
+33. Ra7 Be8 34. Rb7 Kc3 35. Kf2 b2 36. Ke3 Bf7 37. g4 $1 {Zugzwang} Kc2 38. Kd4
+b1=Q 39. Rxb1 Kxb1 40. Kc5 Kc2 41. Kd6 (41. Kd6 Kd3 42. Kd7 Ke4 43. e8=Q+ Bxe8+
+44. Kxe8 Kf4 45. Kf7 Kg5 46. h3 $18) 1-0
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "16"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E70"]
+[WhiteElo "2560"]
+[BlackElo "2785"]
+[Annotator "https://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "rnb1k2r/pp2ppb1/3p1n1p/q1pP2p1/2P1P3/2NB2B1/PP3PPP/R2QK1NR b KQkq - 0 9"]
+[PlyCount "51"]
+[EventDate "1992.09.??"]
+[EventType "match"]
+[EventRounds "30"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+9... Nxe4 $1 {Black exploited the pin over the c3-knight very well.} 10. Bxe4
+Bxc3+ (10... f5 $5 11. Qh5+ Kd8 12. Nge2 fxe4 $13 {The position is complicated.
+}) 11. bxc3 Qxc3+ 12. Kf1 f5 {Before sacrificing the knight on e4, Fischer had
+calculated this move, which finally traps the bishop on g3.}
+13. Rc1 (13. Ne2 $2 Qf6 14. Bd3 f4) 13... Qf6 14. h4 (14. Qh5+ Kd8 15. h4 g4 $1
+) 14... g4 $1 15. Bd3 f4 $15 {Black has the advantage and he manages to win the game afterwards.} 16. Ne2
+fxg3 17. Nxg3 Rf8 18. Rc2 Nd7 19. Qxg4 Ne5 20. Qe4 Bd7 21. Kg1 O-O-O 22. Bf1
+Rg8 23. f4 Nxc4 24. Nh5 Qf7 25. Qxc4 Qxh5 26. Rb2 Rg3 27. Be2 Qf7 28. Bf3 Rdg8
+29. Qb3 b6 30. Qe3 Qf6 31. Re2 Bb5 32. Rd2 e5 33. dxe6 Bc6 34. Kf1 Bxf3 (34...
+Bxf3 35. gxf3 Qa1+ 36. Ke2 Qxh1 $19) 0-1
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "25"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2785"]
+[BlackElo "2560"]
+[Annotator "https://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b1nbppp/p2pp3/6P1/Np1BP2P/5P2/PPPQ4/2KR1B1R w - - 0 15"]
+[PlyCount "41"]
+[EventDate "1992.09.??"]
+[EventType "match"]
+[EventRounds "30"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+15. Nb6 $1 {He had only one bad piece, the a4-knight, and with the help of
+tactics, he manages to get rid of it. After that, he can continue with his
+attack on the kingside. Spassky cannot do anything special in the center or on
+the queenside.} (15. Qxb4 $6 Bc6 $17) 15... Rb8 (15... Nxb6 16. Qxb4 d5 (16...
+Bxe4 $2 17. Bxb6 $18) 17. Qxb6 Qxb6 18. Bxb6 dxe4 $2 19. Rd7) 16. Nxd7 (16.
+Qxb4 $2 Bc6 $1 $19) 16... Qxd7 17. Kb1 Qc7 18. Bd3 Bc8 $6 {Spassky is having
+some difficulties in the center, so he has to regroup his pieces.} (18... e5
+19. Be3 Rfd8 (19... d5 20. exd5 Bxd5 21. Bxh7+ Kxh7 22. Qxd5 $16) 20. Ba7 $1
+Ra8 21. Qf2 {Threatening Bb6. White has the upper hand.}) 19. h5 e5 20. Be3 Be6
+21. Rdg1 {Fischer continues building up his position. His idea is to push the
+kingside pawns to open lines there.} a5 (21... d5 $2 22. exd5 Bxd5 23. Bxh7+
+Kxh7 24. Qxd5 $18) 22. g6 $1 Bf6 (22... fxg6 23. hxg6 hxg6 (23... h6 24. Bxh6
+gxh6 25. Qxh6 $18) 24. Rxg6 $40) 23. gxh7+ Kh8 (23... Kxh7 24. Bg5 (24. f4 $5)
+24... Qe7 25. f4 $1) 24. Bg5 $1 {He eliminates Black's key defensive piece,
+the f6-bishop, and after that, he expects to attack on g7. He won the game
+afterwards.} Qe7 25. Rg3 Bxg5 26. Rxg5 Qf6 27. Rhg1 Qxf3 28. Rxg7 Qf6 29. h6 a4
+30. b3 axb3 31. axb3 Rfd8 32. Qg2 Rf8 33. Rg8+ $1 Kxh7 34. Rg7+ Kh8 35. h7 (35.
+h7 $1 Rfd8 36. Rg8+ Kxh7 37. Rh1+ Bh3 38. Rxh3+ Qh6 39. Qg7#) 1-0
+
+[Event "St Stefan/Belgrade m"]
+[Site "Belgrade"]
+[Date "1992.??.??"]
+[Round "30"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E83"]
+[WhiteElo "2560"]
+[BlackElo "2785"]
+[Annotator "https://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r1bq1rk1/4ppb1/1p1p2p1/p1nN3P/PnPNP1P1/4B3/1P2B3/R2QK2R b KQ - 0 17"]
+[PlyCount "21"]
+[EventDate "1992.09.??"]
+[EventType "match"]
+[EventRounds "30"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "1992.12.01"]
+
+17... Bb7 $1 {Black mobilizes all of his pieces and puts pressure on the
+d5-knight and the e4-pawn.} (17... Nxd5 $6 18. exd5 $16) (17... Nxe4 $6 18. Bf3
+) 18. Nf5 $6 (18. Bg5 $2 Bxd5 19. exd5 Bxd4 20. Qxd4 Nc2+ 21. Kd2 Nxd4 $19) (
+18. hxg6 fxg6 19. Nf4 Bxe4 $19) 18... gxf5 {White is dreaming to attack on
+Black's kingside, but he cannot do anything because his pieces are not well
+placed for an attack.} 19. gxf5 Bxd5 20. exd5 Bxb2 {Black is capturing
+material because White didn't manage to create any threats so far.} 21. Kf1 (
+21. Rb1 Be5 $19) 21... Qd7 22. Qb1 Bxa1 23. Rg1+ Kh8 24. Qxa1+ f6 {
+Black has a winning position and he manages to win the game afterwards.} 25.
+Qb1 Rg8 26. Rg6 Rxg6 27. hxg6 Kg7 0-1
+

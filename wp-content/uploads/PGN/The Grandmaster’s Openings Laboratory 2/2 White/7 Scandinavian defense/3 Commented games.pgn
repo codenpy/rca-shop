@@ -1,0 +1,195 @@
+[Event "Capablanca Memorial Mixto 34th"]
+[Site "Havana"]
+[Date "1999.05.14"]
+[Round "7"]
+[White "Fandino Reyes, Roquelina"]
+[Black "Sosa, Luis"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2187"]
+[BlackElo "2254"]
+[Annotator "RCA"]
+[PlyCount "87"]
+[EventDate "1999.05.??"]
+[EventRounds "13"]
+[EventCountry "CUB"]
+[EventCategory "1"]
+[Source "ChessBase"]
+[SourceDate "1999.07.10"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 $5 {A sacrifice for development; this is an
+Icelandic gambit. You can find the correct lines for Black in the opening
+repertoire for Black.} 4. dxe6 Bxe6 5. Nf3 {Developing the knight to its best
+position.} Nc6 6. Be2 {Developing the bishop and preparing 0-0.} Bc5 7. O-O Qd7
+{Here White has a few interesting possibilities.} 8. Nc3 {Developing the
+knight to its best position.} (8. d3 {following with Nbd2 and Nb3 is an
+interesting option. White wants to push back Black's c5-bishop and get control
+over the d4-square.}) (8. b4 $1 {A bold decision. White gives back his extra
+pawn in order to fight for the initiative. This deflects one of Black's pieces
+from the d4-square, allowing White to expand in the center.} Bxb4 9. d4 {
+Threatening d5, and all Black's pieces became vulnerable suddenly.}) 8... O-O-O
+9. a3 {Preparing b4, which is the main plan here due to the opposite wing
+castling.} Nd4 10. Nxd4 Bxd4 11. Nb5 $1 {Threatening Nxd4 - winning the bishop
+pair.} a6 12. Nxd4 Qxd4 13. d3 Bf5 14. Qb3 {Preventing Bxd3 due to Rd1 - and,
+at the same time, threatening Be3!} Rhe8 15. Bf3 {Threatening on b7 and
+removing the threat on e2.} (15. Be3 {Isn't very good after...} Rxe3 16. fxe3
+Qxe3+ 17. Kh1 (17. Rf2 Ne4 $1 {And the 'd' pawn is pinned.}) 17... Qxe2 18.
+Rxf5 Ng4 19. d4 Ne3 20. Rg5 g6 $44) 15... c6 16. Be3 $1 {Now Black gets his
+pawn back. But White has the bishop pair and Black's castled position is in
+danger.} Qxd3 17. Qb6 $1 {Taking advantage of this weak square.} Qd6 18. Rad1
+Qc7 19. Rxd8+ Rxd8 20. Qb4 $14 {White earns a slight positional advantage and,
+most importantly, a very easy to play position. Black has nothing he can do.
+The rest of the game is instructive but does not concern our main subject.} Re8
+21. Bb6 Qf4 22. g3 Qe5 23. Be3 Nd7 24. Bg2 Be4 25. f3 Bf5 26. Re1 c5 27. Qd2
+Re6 28. Bf2 Qd6 29. Qc1 Rxe1+ 30. Qxe1 Qe6 31. Qc1 Bd3 32. b3 Qe2 33. h4 Bc2
+34. Qg5 Qe5 35. Qd2 Bf5 36. g4 Be6 37. Bf1 f5 38. f4 Qc7 39. Qe3 Bf7 40. gxf5
+Nf6 41. Qe5 Ng4 42. Qxc7+ Kxc7 43. Bxc5 Nh6 44. Bd3 1-0
+
+[Event "Vidmar Memorial 15th"]
+[Site "Terme Zrece"]
+[Date "2003.08.24"]
+[Round "7"]
+[White "Sutovsky, Emil"]
+[Black "Sermek, Drazen"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2639"]
+[BlackElo "2577"]
+[Annotator "RCA"]
+[PlyCount "87"]
+[EventDate "2003.08.17"]
+[EventRounds "9"]
+[EventCountry "SLO"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2003.11.11"]
+
+1. e4 d5 2. exd5 Qxd5 {The problem with this move is that White can now
+develop a piece and, at the same time, win a tempo.} 3. Nc3 Qd6 {Tiviakov's
+speciality.} 4. d4 {Winning the centre.} Nf6 5. Nf3 {Developing with maximum
+activity.} a6 6. g3 $1 {This move is very useful in this position for two main
+reasons: 1. helps White to fight for the h1-a8 diagonal;. 2. prepares Bf4 at
+the right time.} b5 7. Bg2 Bb7 8. O-O e6 9. Bf4 $1 {Now it's time to use the
+g3 pawn.} Qb6 10. a4 $1 {This move is very strong because it threatens a5 and
+also wants to open the position to take advantage of Black's lack of
+development.} Bd6 11. Be3 $1 {Excellent move! White doesn't want to exchange
+pieces and, moreover, the bishop is creating an 'x-ray attack', preparing d5
+at the right time.} b4 12. a5 $1 Qa7 13. d5 $1 {Now it's time!} Bc5 14. dxe6 $1
+{Sacrificing a piece for the initiative.} Bxe3 15. exf7+ Kxf7 16. Ne5+ $1 Ke7
+17. Bxb7 Qxb7 18. Qd3 $1 {It's amazing how Sutovsky understands this position.
+He wants to take on e3 with the queen, creating a lot of threats.} bxc3 (18...
+Ba7 19. Rfe1 $1) 19. Qxe3 {Now it's all over for Black! The king has no escape.
+This game clearly shows the right spirit for attacking the Scandinavian.} Nbd7
+20. Nxd7+ Kxd7 21. Rfd1+ Kc8 22. Qe6+ Kb8 23. Ra3 Re8 24. Qf5 cxb2 25. Rb3 Ra7
+26. Qd3 Ka8 27. Rxb7 Rxb7 28. Rb1 Rb5 29. Qc3 Reb8 30. Qxc7 R8b7 31. Qd6 Ka7
+32. c4 Rb4 33. Qd4+ Ka8 34. Kg2 h5 35. h3 Rb8 36. Qd6 Ka7 37. Qc5+ Ka8 38. Qd6
+Ka7 39. Qe7+ R8b7 40. Qe3+ Ka8 41. c5 Rc4 42. Qe6 Rc1 43. c6 Rb4 44. Qc8+ 1-0
+
+[Event "Fernando Marcote Memorial op"]
+[Site "Ourense"]
+[Date "2009.09.26"]
+[Round "5"]
+[White "Gashimov, Vugar"]
+[Black "Epishin, Vladimir"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2740"]
+[BlackElo "2590"]
+[Annotator "RCA"]
+[PlyCount "85"]
+[EventDate "2009.09.25"]
+[EventType "rapid"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2009.11.30"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 {A favourite of Tiviakov.}
+6. Ne5 {Preparing Bf4.} Nbd7 7. Nc4 {Avoiding exchanges and, at the same time,
+attacking the queen. This move is very typical in the Scandinavian.} Qc7 8. Qf3
+{Preparing Bf4.} Nb6 9. Bf4 Qd8 10. Be5 $1 {The bishop is very well placed
+here - defending and attacking. 0-0-0 was impossible due to Bg4.} Nbd5 11. Nxd5
+Qxd5 12. Qe2 $1 {Avoiding the exchange.} Be6 13. c3 Qe4 14. Qxe4 Nxe4 15. Bd3 {
+This endgame is slightly favourable for White due to the more active pieces
+and his space advantage.} O-O-O 16. Ne3 {This move is to avoid exchanges.} (16.
+Bxe4 Bxc4 {And Black's position can be held.}) 16... Nc5 17. Bc2 Nd7 18. Bg3 g6
+19. Bb3 $1 {After this move, Black is simply inferior - because there is no
+good way of solving the tension in the a2-g8 diagonal.} Bh6 (19... Bxb3 20.
+axb3 a6 21. Nc4 Bg7 22. O-O {And White will create huge pressure using the 'e'
+file.}) 20. Bxe6 fxe6 21. Nc4 Rhf8 22. O-O {White has a clear advantage due to
+the pawn structure.} Bf4 23. Rfe1 Bxg3 24. hxg3 Rf6 25. b4 g5 26. a4 h5 27. a5
+Rh8 28. Re4 h4 29. Rae1 hxg3 30. fxg3 Nf8 31. Ne5 Kc7 32. Nf3 Rg8 33. g4 Kd7
+34. Ne5+ Kc7 35. Nd3 Rgg6 36. Nc5 b6 37. axb6+ axb6 38. Nd3 Nd7 39. R4e2 Rh6
+40. Ra1 Rf8 41. Ra7+ Kd6 42. c4 Nf6 43. Re5 1-0
+
+[Event "Bundesliga 9596"]
+[Site "Germany"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Mainka, Romuald"]
+[Black "Mathonia, Claude"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2530"]
+[BlackElo "2210"]
+[Annotator "RCA"]
+[PlyCount "83"]
+[EventDate "1995.10.14"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[WhiteTeam "Porz"]
+[BlackTeam "Zaehringen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 {The main line.} 4. d4 {Simply getting some
+space in the centre.} Nf6 5. Nf3 {Developing with maximum activity.} c6 6. Ne5
+{The knight is very strong here and the bishops are very flexible in this
+position.} Be6 7. Nc4 Bxc4 8. Bxc4 {Now White has the bishop pair and a little
+bit of space advantage.} e6 9. Qe2 {Leaving the bishop on c1 for a while; Bd2
+is also possible but allows Qb6.} Nbd7 10. Bd2 Bb4 11. O-O {There is no need
+in this position to take the risk of queen side castling - White has a solid
+positional advantage.} O-O 12. a3 $1 Bxc3 13. Bxc3 {Two bishops are, in most
+situations, superior to two knights.} Qc7 14. g3 {This move is always useful,
+controlling f4 and giving the king some air.} b5 15. Bd3 Nb6 16. b3 a5 17. Qe5
+$1 {Obviously! Without queens, the strength of the bishops increases.} Nbd5 18.
+Bd2 Qxe5 19. dxe5 Nd7 20. Rfe1 Nc5 21. Bf1 $1 {Of course!} a4 22. b4 Na6 23.
+Rec1 $1 {And after c4, the endgame is positionally a winning one for White -
+because the two bishops and a better pawn structure are more than enough to
+win.} Nac7 24. c4 bxc4 25. Rxc4 Nb5 26. Bc1 Rfd8 27. Ra2 Ndc3 28. Ra1 Rac8 29.
+Bg5 Rd4 30. Rc1 Rxc4 31. Bxc4 Ne4 32. Bxb5 Nxg5 33. Kg2 Ne4 34. Rxc6 Rxc6 35.
+Bxc6 Nd2 36. Bxa4 Nc4 37. Bb5 Nxe5 38. a4 Ng6 39. a5 Ne7 40. a6 Nc8 41. Bd7 Nb6
+42. a7 1-0
+
+[Event "Gurgon op 1st"]
+[Site "Gurgon"]
+[Date "2009.01.22"]
+[Round "2"]
+[White "Iuldachev, Saidali"]
+[Black "Singh, Pritam"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2520"]
+[BlackElo "2224"]
+[Annotator "RCA"]
+[PlyCount "45"]
+[EventDate "2009.01.21"]
+[EventRounds "10"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2009.03.05"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Qxd5 4. Nc3 Qa5 5. Nf3 Bg4 {A good alternative to 5.
+..c6.} 6. h3 {Attacking the most active piece of my opponent.} Bh5 7. g4 $1 {
+White is not going to perform king side castling. That's why this move is not
+merely possible but also very strong.} Bg6 8. Ne5 e6 (8... c6 {Is another
+possibility that we examine in the theory section.}) 9. Bg2 c6 10. h4 Be4 11.
+Bxe4 $1 Nxe4 12. Qf3 {A double attack!} Nd6 13. Bd2 Qc7 14. O-O-O {White has
+all his pieces out and in very active positions. In my opinion, Black's
+position is hopeless. And in the game my opinion was confirmed, of course, by
+a blunder. But anyway, Black's position is really uncomfortable.} Na6 15. Bf4
+Qa5 $2 16. Nxc6 $1 {It's all over.} Qb6 17. Ne5 f6 18. Nd3 Nc4 19. Rhe1 O-O-O
+20. Qe4 Rxd4 21. Qxe6+ Qxe6 22. Rxe6 Nc5 23. Re8+ 1-0
+

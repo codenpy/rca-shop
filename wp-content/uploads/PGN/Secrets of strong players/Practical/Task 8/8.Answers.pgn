@@ -1,0 +1,404 @@
+[Event "Oberliga Wuerttemberg 1718"]
+[Site "Wuerttemberg"]
+[Date "2018.01.21"]
+[Round "6"]
+[White "Wunder, Niklas"]
+[Black "Krockenberger, Martin"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2100"]
+[BlackElo "2220"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "102"]
+[EventDate "2017.09.17"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Weiler im Allgaeu"]
+[BlackTeam "Schmiden Cannstatt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 10. a4 f5 11. Ng5 Nf6 12. f3 c6 13. Qb3 Kh8 14. Rd1 cxd5 15. cxd5
+fxe4 16. fxe4 Qb6+ 17. Kh1 Ng4 18. Bxg4 Bxg4 19. Re1 Ng8 20. Be3 Qd8 21. h3 {
+Diagram #} Bh6 $1 (21... Bc8 $5) (21... Bd7 $5) (21... h6 $5) 22. Ne6 Bxe6 23.
+dxe6 Qe7 24. Rad1 a6 $2 {This wasn't the best move because it gives the
+opportunity to White to capture the bishop and win a tempo by attacking the
+h6-piece.} (24... Bxe3 $1 25. Nd5 Qxe6 26. Qxe3 Qf7 $132 {White has nice and
+centralized pieces, but Black has a good counterplay and an extra pawn. After
+a long fight, Black manages to win the game.}) 25. Bxh6 Nxh6 26. Re2 (26. Nd5
+$1 Qxe6 27. Qe3 $16) 26... Rfe8 27. Nd5 Qg7 28. Red2 Rad8 29. Nb6 Qe7 30. Nd5
+Qh4 31. e7 Rb8 32. Rf1 Ng8 33. Rdf2 Nxe7 34. Rf7 Ng8 35. Qf3 Rec8 36. Rd7 Qh6
+37. Qg4 Rf8 38. Rxf8 Rxf8 39. Rxb7 Rf1+ 40. Kh2 Qc1 41. Qe2 Re1 42. Qf2 Rh1+
+43. Kg3 Qg5+ 44. Kf3 Rd1 45. Ne3 Qf4+ 46. Ke2 Rd2+ 47. Kxd2 Qxf2+ 48. Kd3 Nf6
+49. b5 axb5 50. axb5 Qb2 51. b6 Qb5+ 0-1
+
+[Event "Oberliga Wuerttemberg 1718"]
+[Site "Wuerttemberg"]
+[Date "2018.03.18"]
+[Round "8"]
+[White "Zuferi, Enis"]
+[Black "Kabisch, Thilo"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2342"]
+[BlackElo "2315"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "123"]
+[EventDate "2017.09.17"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Heilbronn"]
+[BlackTeam "Schmiden Cannstatt"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Na6 8. Nd2
+Bd7 9. a3 c5 10. Nf1 Ne8 11. h4 f5 12. h5 Nf6 13. hxg6 hxg6 14. Bg5 Qe8 15. Rb1
+Nh7 16. Bd2 Qe7 17. g4 f4 18. f3 {Diagram #} Bf6 {Black needs to activate his
+bishop and prepare himself in order to organize an attack via the h-line. The
+king can to to g7, and then, he can continue activating his pieces from the
+g5- and h4-squares.} (18... Nc7 $5) (18... Ng5 $5) (18... Rab8 $5) 19. Kf2 Kg7
+20. Kg2 Bh4 $5 {Black manages to activate his worst piece, the dark-squared
+bishop, and the position is about equal. Probably, it was better to activate
+first the rook on h8 or bring the a6 piece back to the game. After a long
+fight, Black loses the game; but we should remeber the g7-bishop maneuver; it
+was characteristic in order to exchange the bad bishop that is hidden behind
+his own pawns.} (20... Rh8 $5) 21. Be1 Bxe1 22. Qxe1 g5 $2 {Probably, this is
+a losing mistake because it closes the g5-square and frees White's hand. After
+that, it's difficult to find a good counterplay for Black and, step by step,
+to win the game.} (22... Nf6 $5) (22... Qf6 $1) 23. Nd2 Rf7 24. Rh5 Nf8 25. Qh1
+Ng6 26. Rh7+ Kg8 27. Rxf7 Qxf7 28. Qh6 Nh4+ 29. Kf2 Qe7 30. b4 b6 31. Nb5 Bxb5
+32. cxb5 Nc7 33. bxc5 bxc5 34. Nc4 Ne8 35. b6 axb6 36. Rxb6 Qg7 37. Qxg7+ Kxg7
+38. Bd1 Kf8 39. a4 Ra7 40. a5 Ke7 41. a6 Nc7 42. Rxd6 Nxa6 43. Re6+ Kf8 44.
+Nxe5 Nb4 45. d6 Ra2+ 46. Be2 Rd2 47. d7 Kg7 48. Re8 Kf6 49. d8=Q+ Rxd8 50. Rxd8
+Kxe5 51. Rg8 Kd4 52. Rxg5 c4 53. Rb5 Nd3+ 54. Bxd3 Kxd3 55. Rd5+ Kc2 56. e5 c3
+57. e6 Ng6 58. Rd7 Nf8 59. e7 Nxd7 60. e8=Q Nb6 61. Qe2+ Kc1 62. Qb5 1-0
+
+[Event "BEL-chT 1718"]
+[Site "Belgium"]
+[Date "2018.04.29"]
+[Round "11.7"]
+[White "Hammes, Michael"]
+[Black "Decoster, Frederic"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2340"]
+[BlackElo "2255"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "145"]
+[EventDate "2017.09.24"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "BEL"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Eynatten"]
+[BlackTeam "KBSK"]
+[WhiteTeamCountry "BEL"]
+[BlackTeamCountry "BEL"]
+
+1. d4 d6 2. c4 Nf6 3. Nc3 g6 4. e4 Bg7 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. Rb1 Nd7 11. a3 f5 12. b4 Kh8 13. Qc2 Ng8 14. f3 {Diagram #}
+Bh6 $6 {Black tried to activate his passive bishop from g7, but it wasn't the
+proper moment. Yes, it's a typical idea to activate this bishop, but Black has
+other good things to do; for example, to trade the pawns on b4 in order to
+activate his a8-rook.} (14... Nh6 $6) (14... b6 $5) (14... Qg5 $4 15. Nb3 $36)
+(14... axb4 $5) 15. c5 axb4 16. axb4 Ndf6 17. Nc4 Bxc1 18. Rbxc1 $16 {
+Black manages to exchange his bad g7-bishop, but his counterplay on the
+kingside is delayed and, for that reason, White has a clear advantage. He
+performs the typical c5 break, and his pieces are perfectly coordinated. In
+the light of that, White wins the game afterwards.} Nh6 19. Qd2 Nf7 20. b5 dxc5
+21. b6 cxb6 22. Rb1 Ra6 23. f4 exf4 24. e5 g5 25. exf6 Qxf6 26. Rfd1 Rd8 27. d6
+Be6 28. Nd5 Bxd5 29. Qxd5 g4 30. d7 f3 31. gxf3 gxf3 32. Bxf3 Ra2 33. Rd2 Rxd2
+34. Qxd2 Ng5 35. Bg2 Qg7 36. Qe3 Ne4 37. Kh1 Qxd7 38. Bxe4 fxe4 39. Qxe4 Re8
+40. Qf3 b5 41. Ne5 Qd4 42. Nf7+ Kg7 43. Rg1+ Qxg1+ 44. Kxg1 Rf8 45. Qxb7 Rxf7
+46. Qxb5 Rf5 47. Qc6 Kf7 48. Qh6 Kg8 49. Qe6+ Rf7 50. Kg2 c4 51. Qxc4 Kg7 52.
+Kg3 Rf6 53. Qd4 Kf7 54. Kg4 Kg7 55. h4 h6 56. Qc3 Kg6 57. Qd3+ Kg7 58. Kh5 Kf7
+59. Qd7+ Kf8 60. Qh7 Ke8 61. Qg7 Re6 62. Kg4 Rd6 63. Kf5 Kd8 64. Qf7 Kc8 65. h5
+Kd8 66. Ke5 Rc6 67. Qb7 Rc1 68. Qb8+ Ke7 69. Qd6+ Kf7 70. Qg6+ Ke7 71. Qe6+ Kd8
+72. Qxh6 Re1+ 73. Kf6 1-0
+
+[Event "SVK-chT 1718"]
+[Site "Slovakia"]
+[Date "2018.01.06"]
+[Round "7.1"]
+[White "Martinovic, Sasa"]
+[Black "Michalicka, Milan"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2565"]
+[BlackElo "2158"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "89"]
+[EventDate "2017.09.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Modra"]
+[BlackTeam "Banska Bystrica Junior"]
+[WhiteTeamCountry "SVK"]
+[BlackTeamCountry "SVK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 Nbd7 7. Bg5 e5 8. d5 h6
+9. Be3 a5 10. g4 Nc5 11. Nd2 c6 12. Be2 cxd5 13. cxd5 Bd7 14. h4 Ne8 {Diagram #
+} 15. h5 $1 {This is a very strong move. The idea behind it is to limit the
+activity of the g7-bishop. Of course, White has other interesting options.
+More or less Black is forced to play g5 in order to stop White's kingside
+attack. After g5, the g7-bishop will be buried behind his own pawns, and it is
+impossible for Black to perform his usual f5 liberating idea.} (15. a4 $5) (15.
+f3 $5) (15. a3 $5) 15... g5 16. a4 Bf6 17. Nc4 b6 18. Rb1 Rb8 19. f3 {
+Step by step, White has stabilized his position before he performs his main
+breakthrough idea, b4.} Be7 20. O-O Nc7 21. b4 $16 {White has a big advantage
+thanks to his space advantage, central domination and better piece
+coordination. He wins the game afterwards.} axb4 22. Rxb4 Nxa4 23. Nxa4 Bxa4
+24. Qxa4 b5 25. Qa7 bxc4 26. Bb6 Qc8 27. Rxc4 Qa6 28. Rxc7 Qxe2 29. Rxe7 Ra8
+30. Qd7 Ra2 31. Bf2 Qxf3 32. Qf5 Qe2 33. Rc1 Qb2 34. Rc8 Qxf2+ 35. Qxf2 Rxf2
+36. Ree8 Rf4 37. Rxf8+ Kg7 38. Rfd8 Rxe4 39. Rxd6 Rxg4+ 40. Kf2 Rh4 41. Rc7
+Rxh5 42. Rdd7 Rh2+ 43. Ke3 Kg6 44. Rxf7 g4 45. d6 1-0
+
+[Event "Styer Landesliga 1718"]
+[Site "Austria"]
+[Date "2018.02.03"]
+[Round "8.4"]
+[White "Wilfling, Hermann"]
+[Black "Guede, Werner"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2145"]
+[BlackElo "2015"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "77"]
+[EventDate "2017.09.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Feldbach Kirchberg"]
+[BlackTeam "Graz Schachgesellschaft"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. O-O
+h6 9. Nd2 Ne8 10. b4 a5 11. bxa5 Rxa5 12. Nb3 Ra8 {Diagram #} 13. Be3 f5 14. f3
+f4 15. Bf2 g5 16. a4 Ndf6 17. c5 Rf7 18. a5 Bf8 19. cxd6 Nxd6 20. Nc5 Qe7 21.
+Qb3 Rg7 22. Rfc1 g4 23. Ne6 g3 24. hxg3 fxg3 25. Be3 Rg6 26. Nb5 Nfe8 27. Nbxc7
+Nxc7 28. Rxc7 Qh4 {Diagram #} 29. Kf1 $1 {This is a fantastic and very typical
+defensive idea. From the first moment, Black's attack looks extremely
+dangerous but, thanks to White's dark-squared bishop, everything is under
+control.} (29. Nxf8 $2 Qh2+ 30. Kf1 Qh1+ (30... Bh3 $5 31. Nxg6 Qh1+ 32. Bg1
+Qxg2+ 33. Ke1 Qxg1+ 34. Kd2 Qxa1 35. Ne7+ Kf7 36. Nf5+ Kg8 37. Ne7+ $11) 31.
+Bg1 $18) 29... Qh1+ 30. Bg1 h5 {Diagram #} 31. Nxf8 {White eliminates the
+dark-squared bishop in order to weaken Black's king position and deliver the
+final attack.} (31. Rac1 $5) 31... Kxf8 32. Qc3 $40 {White has a total
+domination and extremely active pieces. He manages to win the game afterwards.}
+Rg5 33. Qc5 Rg6 34. Rc1 h4 35. Qc3 h3 36. Qxe5 Qxg2+ 37. Ke1 Qxg1+ 38. Kd2
+Qxc1+ 39. Kxc1 1-0
+
+[Event "Styer Landesliga 1718"]
+[Site "Austria"]
+[Date "2018.03.10"]
+[Round "9.8"]
+[White "Kristoferitsch, Daniel"]
+[Black "Schneidhofer, Dominik"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "1763"]
+[BlackElo "1516"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "75"]
+[EventDate "2017.09.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Graz Schachfreunde"]
+[BlackTeam "Ratten Krieglach"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. h3
+Ne8 9. d5 f5 10. b4 Ndf6 11. Nd2 f4 12. c5 a6 13. a4 Bh8 {Diagram #} 14. Ba3 {
+There is no posible way to exchange dark-squared bishops here, but definitely,
+we can compare the activity of them. White's bishop is more active because it
+can control more squares, it potentialy can attack d6 and it has more prospects 
+than the h8-bishop.} (14. Bb2 $5) 14... Ng7 15. b5 axb5 16. Nxb5 {White is
+increasing his strategic initiative. He is pressing the d6-square, and now it's
+even clearer that Ba3 is a useful attacking piece.} Nfe8 17. Nc4 {This is the
+typical set up on how to place your pieces in order to attack Black's pawn
+structure.} dxc5 18. Bxc5 {Finally, White's dark-squared bishop is fully
+activated, and now White has a winning position. He manages to collect the
+full point after the game; probably thanks to his very active dark-squared
+bishop. :-)} Rf7 19. Nxe5 Rf6 20. Nf3 Nd6 21. e5 Nxb5 22. exf6 Nc3 23. Qc2
+Nxe2+ 24. Qxe2 Qxf6 25. Bd4 Qd8 26. Qc4 b6 27. Rfe1 Kf8 28. Bc3 Ba6 29. Qxf4+
+Kg8 30. Qe5 Bb7 31. Red1 Qd7 32. Qd4 Rd8 33. Ne5 Qxd5 34. Qxd5+ Rxd5 35. Rxd5
+Bxd5 36. Rd1 Bf7 37. Nxf7 Kxf7 38. Rd8 1-0
+
+[Event "BL 1718 (Women)"]
+[Site "Germany"]
+[Date "2018.01.28"]
+[Round "7.2"]
+[White "Kachiani Gersinska, Ketino"]
+[Black "Mueller Ludwig, Kristin"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2338"]
+[BlackElo "2069"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "29"]
+[EventDate "2017.10.01"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Baden-Baden (W)"]
+[BlackTeam "Erfurt Medizin (W)"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 e5 7. d5 a5 8. Be2
+Na6 9. h4 h5 10. Bg5 Qe8 11. Qd2 Ng4 {Diagram #} 12. Bxg4 $1 {White performs
+one of the most amazing and typical sacrifices against the King's Indian
+Defense. Usually, Black is attacking on the kingside, but there are some
+systems in which White can perform really succesful kingside attacks. White
+exchanges the g4-knight in order to have access to the h6-square. Then, he
+would like to exchange the dark-squared bishops because he can create a direct
+kingside attack. Black can defend himself, but he should understand the
+attacking posibilities and threats early.} (12. f3 $5) (12. O-O $6) (12. O-O-O
+$2 Nxf2) 12... Bxg4 13. Bh6 {White is threatening f3, and then to sacrifice
+the knight on h5. This is something extremely dangerous and, if Black doesn't
+understand the threat, then he can lose the game.} Nc5 (13... Qe7 $1 14. f3 Bd7
+15. Nxh5 $4 (15. O-O-O {
+The game will continue, but White cannot win here with a direct attack.})) 14.
+f3 Bd7 15. Nxh5 $1 {This is an amazing sacrifice, now Black is losing by force.
+} (15. Nxh5 gxh5 16. Qg5 $18) 1-0
+
+[Event "BL 1718 (Women)"]
+[Site "Germany"]
+[Date "2018.03.25"]
+[Round "11.5"]
+[White "Hielscher, Ursula"]
+[Black "Schoene, Maria"]
+[Result "0-1"]
+[ECO "E81"]
+[WhiteElo "1845"]
+[BlackElo "2260"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "80"]
+[EventDate "2017.10.01"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Kiel Doppelbauer (W)"]
+[BlackTeam "Bad Koenigshofen (W)"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Qd2 Nbd7 {
+Diagram #} 8. Bh6 $6 {You should exchange this bishop only if you have some
+concrete ideas and threats. In the opening, you should develop your pieces
+because, if you haven't developed your pieces, then you cannot perform a
+successful attack. This game is very caracteristic; White was in a hurry to
+exchange the dark-squared bishops, but without developement, there is no
+attack. Black manages to perform her counter-attack faster and, for that
+reason, she took the initiative.} (8. Bd3) (8. Nge2) 8... c5 $1 {When your
+opponent is attacking on the flank, you should counter-attack in the center.} 9.
+Bxg7 Kxg7 10. Nge2 e6 11. O-O-O Qa5 $1 {White has a good position and lead in
+development, but Black faces no more opening problems, and is ready to
+continue with her own plans.} 12. Kb1 b5 $1 $36 {Black started her attack
+earlier and, after a long fight, she manages to win the game.} 13. Nc1 bxc4 14.
+Bxc4 Bb7 15. Nb3 Qb4 16. Be2 Rab8 17. dxc5 dxc5 18. Qe3 Rfc8 19. Rd2 c4 20. Nc1
+Nc5 21. a3 Qa5 22. Ka2 Na4 23. Nxa4 Qxa4 24. Bd1 Qa5 25. Rc2 Bc6 26. Qc3 Qc7
+27. Rd2 e5 28. Re1 Kg8 29. Bc2 Qe7 30. Ka1 Bb5 31. Red1 Nd7 32. a4 Bc6 33. Rd6
+Nc5 34. Qxc4 Bxa4 35. Bxa4 Nxa4 36. Qd5 Nxb2 37. Re1 Nc4 38. Rxa6 Qb4 39. Nd3
+Qc3+ 40. Ka2 Rb2+ 0-1
+
+[Event "SVK-chT4 A21 1718"]
+[Site "Slovakia"]
+[Date "2018.01.14"]
+[Round "7.1"]
+[White "Moravec, Milan"]
+[Black "Miciak, Emanuel"]
+[Result "0-1"]
+[ECO "E87"]
+[WhiteElo "1644"]
+[BlackElo "1909"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "78"]
+[EventDate "2017.10.01"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "SVK"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Kopcany"]
+[BlackTeam "Vrbove II"]
+[WhiteTeamCountry "SVK"]
+[BlackTeamCountry "SVK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2 f5
+9. exf5 gxf5 10. O-O-O Na6 11. Bd3 Nc5 {Diagram #} 12. Bxc5 $1 {White correctly
+captures this powerful knight in order to create imbalance in the game and
+promote his central strategy.} (12. Bh6 $4 Nxd3+ $1 {
+Black is deflecting the queen and wins a piece.}) (12. Bc2 $5 {White can try
+to exchange the dark-squared bishop in any case, but he cannot perform an
+attack against the enemy king.} Bd7 13. Bh6 Qh4 14. Bxg7 Kxg7 15. Nge2 h6 $132)
+12... dxc5 13. Nge2 $14 {White's position is preferable now because he has
+completed his development, the h5-knight is out of the game, he has the
+posibility to create a breakthrought with the d6 move and, despite the fact
+that Black has the bishop pair, he cannot use it because the position is
+closed.} Rf6 14. Kb1 $5 (14. g4 $5 fxg4 15. fxg4 Bxg4 16. Rhg1 $44 Bh6 $1 17.
+Rxg4+ Ng7 18. Rg5 {With a complicated position.}) (14. Qg5 $5 Bd7 $1 15. Qxh5
+Rh6 $1 $19) 14... Bh6 15. Qc2 $16 {White has a clear advantage and preferable
+position but, after some mistakes, he loses the game.} Rf7 16. h3 Nf4 17. Nxf4
+Bxf4 18. g4 Qf6 19. gxf5 Bxf5 20. Bxf5 Qxf5 21. Qxf5 Rxf5 22. Rdg1+ Kh8 23. Nb5
+Rf7 24. d6 cxd6 25. Nxd6 Rd7 26. Rd1 Be3 27. Ne4 Rxd1+ 28. Rxd1 Bd4 29. Nd2 Rg8
+30. Nb3 Rg3 31. f4 exf4 32. Nxd4 cxd4 33. Rxd4 f3 34. Rd8+ Rg8 35. Rd1 f2 36.
+Kc2 Rg1 37. Rd8+ Kg7 38. Rd7+ Kf8 39. Rd8+ Ke7 0-1
+
+[Event "Oberliga Nord O 1718"]
+[Site "Germany"]
+[Date "2018.02.04"]
+[Round "6.6"]
+[White "Giese, Lothar"]
+[Black "Mohrmann, Ralf"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "1898"]
+[BlackElo "2074"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "36"]
+[EventDate "2017.10.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Stralsund"]
+[BlackTeam "Berlin Weisse Dame"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. h3 e5 7. d5 a5 8. Be3 Na6
+9. Nf3 Nc5 10. Bxc5 dxc5 11. Nh2 Ne8 12. Qd2 Nd6 13. O-O f5 14. f3 Bd7 15. b3 {
+Diagram #} Qh4 $1 {Black has a lot of good options available, but the best one
+is to activate his static dark-squared bishop from g7! This bishop can prove
+to be a powerful attacking piece if it manages to come in front of his own
+pawns.} (15... h5 $5) (15... b6 $5) (15... Bf6 $5) (15... a4 $5) (15... f4 $5)
+16. Bd3 Bh6 $40 {The queen helped to activate its own bishop, and now Black's
+coordination on the dark squares is vital! Black has a strong initiative, and
+he manages to win the game after some moves.} 17. Qe2 Bf4 18. Kh1 Qg3 0-1
+

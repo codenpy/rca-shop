@@ -1,0 +1,127 @@
+[Event "Wch U18"]
+[Site "Szeged"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Kacheishvili, Giorgi"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2420"]
+[BlackElo "2550"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "68"]
+[EventDate "1994.??.??"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "1994.10.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O 8.
+Be2 Nc6 9. d5 Ne5 10. Bd4 {Diagram #} c5 $1 {In the Grunfeld defense, Black
+should counter attack the enemy center. White usually stays with the king in
+the center, in order to occupy it with the pawns. This gives the opportunity
+to fight immediately in the center. If White manages to stabilize it and
+complete the development, then Black might have problems. For that reason,
+Black tries to take advantage of White's delay in development. Of course, the
+best way to create threats is by attacking moves!} (10... f5 $5) (10... c6 $5)
+(10... e6 $5) 11. Bxc5 (11. dxc6 Nxc6 12. Bxg7 Kxg7 13. -- e5 (13... Nd4))
+11... Nec4 12. Bxc4 Nxc4 13. Qb3 Nxb2 $1 {Svidler continues hamering in the
+weakest point, the a1-h8 diagonal and, more specifically, the c3-knight.
+Tactics are very useful in order to boost forward our strategical ideas. He
+sacrificed the knight in order to create a powerful pin against the queen and
+king; because the king is still in the center.} 14. Qxb2 Qc7 (14... Qa5 15. Bb4
+$1) 15. Bb4 (15. Be3 Bxc3+) 15... a5 {After this forcing continuation, Black
+will get back the piece because the bishop is trapped. White doesn't have
+other alternatives, as you can see in the sub-variations.} 16. Nge2 axb4 17.
+Qxb4 Bg4 {This is another threat; it's important to see and understand that
+Black develops his pieces with threats. Right now he's threatening to capture
+on e2 because the a1-rook is hanging.} 18. f3 Bd7 19. O-O b5 {Black has very
+active pieces and the bishop pair. The a2-pawn is a potential weakness and
+it's not obvious where White can create counterplay. After a long fight, Black
+manages to win the game.} 20. Kh1 Qd6 21. Qxd6 exd6 22. Rab1 Rfb8 23. Rb4 Ra3
+24. Rc1 Rc8 25. Rb3 Rxb3 26. axb3 Ra8 27. Rb1 Ra3 28. Nd1 Ra2 29. Nf4 b4 30.
+Nd3 Re2 31. g3 Bb5 32. Nxb4 Re1+ 33. Kg2 Bd4 34. Nc2 Re2+ 0-1
+
+[Event "Linares 16th"]
+[Site "Linares"]
+[Date "1999.02.22"]
+[Round "2"]
+[White "Ivanchuk, Vassily"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2714"]
+[BlackElo "2812"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "62"]
+[EventDate "1999.02.21"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "1999.06.08"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. Qd2 Nc6 11. Nb3 Nge5 12. f3 b5 13. Bf2 Rb8 14. Nd4 b4 15. Nd1
+Nxd4 16. Bxd4 {Diagram #} d5 $1 {Usually, in the Sicilian Defense, White has
+better development and manages to attack the enemy king in the center. However,
+in this particular game, White plays slowly and Kasparov grabs the opportunity
+to open the center for his benefit.} (16... O-O $5) (16... a5 $5) 17. exd5 Qxd5
+{Black has the advantage thanks to his very active pieces. Right now he's
+threatening to capture on d4 and, then, to give a check on f3, as you can see
+in the sub-variations.} 18. c3 (18. h3 Qxd4 19. Qxd4 Nxf3+ 20. gxf3 Bxd4 $17)
+18... O-O {Black manages to castle first and bring the rook to the game. White
+cannot castle at the moment, and Garry is continuing making troubles.} 19. Be2
+Rd8 20. Qe3 (20. Ne3 bxc3 21. bxc3 Qe6 $17 {Black has a big advantage because
+his pieces are extremely active and they create threats.}) (20. O-O bxc3 21.
+bxc3 Nc6 $19 {Thus, White cannot castle because he will lose material.}) 20...
+Bb7 21. Nf2 (21. O-O bxc3 22. Bxc3 Ng4 $36 {Again, by using tactics, Black can
+open lines and create problems to White.}) 21... bxc3 22. Bxc3 Qe6 23. Kf1 {
+Black has a strong initiative because White didn't manage to finalize his
+development and connect the rooks. Kasparov managed to win the game afterwards.
+} (23. O-O $2 Nxf3+ 24. gxf3 Qxe3 $19) 23... Bd5 24. b3 Rbc8 25. Rd1 Rxc3 26.
+Qxc3 Ng4 27. Qa5 Ne3+ 28. Kg1 Rc8 29. Qxa6 Nxd1 30. Qxe6 Bxe6 31. Bxd1 Rc1 0-1
+
+[Event "Candidates FIDE m1"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Gelfand, Boris"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2685"]
+[BlackElo "2660"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "103"]
+[EventDate "1994.01.??"]
+[EventRounds "8"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "1994.04.01"]
+
+1. d4 d6 2. e4 Nf6 3. f3 d5 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Nxd4 9. Bxd4 Nb8 10. Nc3 Nc6 11. Bb5 e6 12. a3 Bd7 13. Bxc6 Bxc6 14. O-O g6 15.
+Qd2 Qc7 16. Rf3 b6 17. Nd1 h5 18. a4 Bc5 19. Rc3 Be7 {Diagram #} 20. b4 $1 {
+This is a very strong move because it's grabing more space on the queenside
+and it's threatening b5. Unfortunately for Black, he cannot capture on b4
+because of the discover attack, Rxc6; and White will win material.} (20. Re3 $5
+) (20. Rb3 $5) (20. Rg3 $5) (20. b3 $5) 20... Qb7 21. Rb3 Bd7 22. Ne3 Rc8 23.
+a5 $6 {This move wasn't the best, but it's very logical. He had a tactical
+oportunity here because he didn't castle and his h8-rook was unprotected.} (23.
+f5 $5 gxf5 24. Nxf5 $1 exf5 25. e6 Rg8 26. exd7+ Qxd7 27. Rf1 $18) 23... Bb5 $5
+(23... b5 24. f5 $1 $16 {This is a strong blow because the h8-rook is
+unprotected.}) (23... bxa5 24. Rxa5 a6 25. Nxd5 $1 exd5 26. e6 O-O (26... Bxe6
+27. Bxh8 f6 28. b5 $36) 27. exd7 Qxd7 28. Rxa6 $16) (23... O-O $5) 24. axb6 a6
+$1 (24... axb6 25. Rba3 $18) 25. Rc3 $1 {Once again, we can see that he takes
+advantage of his castled king and, by tactical strikes, he promotes his
+statistical plan: to control the c-line.} Kd7 $6 (25... Rxc3 $5 26. Qxc3 O-O
+27. g4 $5 {White has good options and he can play for the attack positionally.}
+(27. Bc5 $5)) (25... O-O 26. Rc5 $16) (25... Bxb4 26. Rxc8+ Qxc8 27. Qxb4 $18)
+26. Rc5 $1 {White has a very active position and a good coordination. By
+continuing playing well, he manages to win the game afterwards.} Rxc5 27. bxc5
+Rc8 28. c4 dxc4 29. Rc1 Ke8 30. Nxc4 Qd5 31. Na5 Bc6 32. Be3 Qe4 33. Nxc6 Qxc6
+34. h3 Qb5 35. Qc2 Qc6 36. Kh2 a5 37. Ra1 Ra8 38. Ra4 h4 39. Qa2 Qb5 40. Qc4
+Qc6 41. Qa2 Qb5 42. c6 Qxc6 43. Rxa5 Rb8 44. Ra7 Qe4 45. Qb3 Kf8 46. Rd7 g5 47.
+Rd4 Qf5 48. Rc4 Rb7 49. Rc8+ Kg7 50. Rc7 gxf4 51. Bd4 Qe4 52. Qf3 1-0
+

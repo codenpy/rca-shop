@@ -1,0 +1,14 @@
+﻿[Event "Die Schwalbe"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "STOJNIC Dragan"]
+[Black "#2"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5p2/2pK1p2/6Np/2pk3r/8/1p1P1R1B/2rQNn2 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2000.??.??"]
+
+1. Qf3 b1=Q 2. Qxf6# 1-0
+

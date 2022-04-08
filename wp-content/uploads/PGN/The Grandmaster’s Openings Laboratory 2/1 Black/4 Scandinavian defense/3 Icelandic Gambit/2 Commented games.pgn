@@ -1,0 +1,166 @@
+[Event "Almada"]
+[Site "Almada"]
+[Date "1988.??.??"]
+[Round "2"]
+[White "Frois, Antonio"]
+[Black "Camejo Almeida, Rui"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2340"]
+[BlackElo "2320"]
+[Annotator "RCA"]
+[PlyCount "53"]
+[EventDate "1988.10.??"]
+[EventRounds "11"]
+[EventCountry "POR"]
+[EventCategory "7"]
+[Source "ChessBase"]
+[SourceDate "1996.11.15"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 {We reach the normal start-up
+position of the Icelandic Gambit.} 5. Nf3 $5 {This is the critical test of the
+Icelandic Gambit...white is delaying d4 to avoid Bb4 !! - a tricky choice.} Qe7
+$1 {Necessary move; you have to remember one important thing, that if White
+doesn't play d4, then the Bb4 idea is not working...again Black can't wait
+much as he has already sacrificed a pawn.} 6. Qe2 {(only good response. You
+can see White's other alternatives in the theory section.)} Nc6 {(Preparing
+0-0-0, The thematic piece position of Black: Nf6,Be6,Nc6,Qe7,Be7/Bb4,0-0-0! )}
+7. d4 Bg4 $5 {Improvement over 0-0-0?!} 8. Qxe7+ Bxe7 9. Be3 (9. d5 $5 Bxf3 10.
+gxf3 Nd4 11. Kd1 Nxf3 {Black has a better pawn structure and an easy game.})
+9... O-O-O 10. d5 Nb4 11. Na3 c6 12. Be2 (12. Bxa7 $5 cxd5 13. Ne5 Rhe8 14.
+Nxg4 Nxg4 15. Be2 Bf6 $36) 12... cxd5 13. O-O Kb8 $6 (13... Bxf3 $1 {Remember
+the important move!!} 14. Bxf3 d4 15. Bg5 Rhe8 {(And White's bishop pair can't
+dominate against Black's active co-ordinated pieces... Black has a strong
+passer along the d file... Black's plan is a6,h6,Ne4 & f5 with good endgame
+prospects.)}) 14. Nb5 $6 (14. Rad1 $5) 14... a6 15. Bf4+ Ka8 16. Nbd4 $6 (16.
+Nc7+ $5 Ka7 17. a3 $11) 16... dxc4 $6 (16... Bc5 $1 $15) 17. Bxc4 Nfd5 18. Be5
+f6 19. Bg3 Rc8 20. Rac1 Rhd8 21. h3 Nb6 22. Bb3 Bxf3 23. Nxf3 Nd3 24. Rc7 Rd7
+$4 {This is the blunder - why Black lost the game at once....} (24... Re8 $8
+25. Rxc8+ Rxc8 $13) 25. Rxc8+ Nxc8 26. Be6 Rd8 27. Rd1 $18 1-0
+
+[Event "Wch U20 41st"]
+[Site "Goa"]
+[Date "2002.12.09"]
+[Round "1"]
+[White "Kosmo, Santul"]
+[Black "Smerdon, David"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2145"]
+[BlackElo "2382"]
+[Annotator "RCA"]
+[PlyCount "46"]
+[EventDate "2002.12.09"]
+[EventRounds "13"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2003.01.09"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. Nf3 Qe7 6. Qe2 Nc6 7. d4 Bg4 8.
+Be3 $5 {Good alternative to 8.Qe7!} O-O-O {(Pressuring at d4)} 9. d5 Ne5 {
+(Typical knight manoeuvre at e5 in the Icelandic, especially when the
+light-squared bishop at g4 pins the knight at f3.)} 10. Nc3 Nfd7 {
+(Multi-purpose move; this knight prepares to go to e5 after NxNf3 at a
+favourable moment, also clearing the h4-d8 diagonal for his queen!)} 11. h3
+Nxf3+ 12. gxf3 Bh5 {Maintains the pressure at f3...} 13. O-O-O Ne5 (13... Qf6
+$5 14. Bg2 Re8 $36) 14. Bg2 Qb4 $6 (14... Qf6 $5 {Accurate...} 15. h4 Bxf3 16.
+Bxf3 Qxf3 17. Qxf3 Nxf3 18. Rh3 (18. Bxa7 $6 b6 $40) 18... Ne5 19. b3 Bb4 20.
+Kb2 Ng4 $11 {Level chances, for example...} 21. Bd4 c5 22. Bxg7 Rhg8 23. Rg3
+Rxg7 24. f3 f5 25. fxg4 Rxg4 26. Rxg4 Bxc3+ 27. Kxc3 fxg4 $11) 15. Rd4 $6 (15.
+c5 $5 Qc4 16. Qxc4 Nxc4 17. Bd4 $14) 15... Bc5 $1 16. Rh4 Bxe3+ 17. Qxe3 $2 (
+17. fxe3 $1 Bg6 18. Rd1 $14) 17... Rhe8 $1 18. Rxh5 Nxc4 19. Qd4 $2 (19. Qd3 $5
+Qxb2+ 20. Kd1 Qb4 $40) 19... c5 $6 20. Qg4+ Rd7 21. Nd1 $4 (21. Kd1 $8 Nxb2+
+22. Kc2 Nc4 $40) 21... Re2 $1 {Game is over...} 22. Qf4 Na3 23. Qf5 (23. Qxb4
+Rc2#) 23... Qd2# 0-1
+
+[Event "FRA-ch op-B"]
+[Site "Paris"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Marre, Erwan"]
+[Black "Carlier, Eric"]
+[Result "0-1"]
+[ECO "B01"]
+[BlackElo "2355"]
+[Annotator "RCA"]
+[PlyCount "50"]
+[EventDate "1994.??.??"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "1997.11.17"]
+
+{Of course, not an accurate game. But you can imagine how good Black is in the
+following variation, if he had played accurately!!} 1. e4 d5 2. exd5 Nf6 3. c4
+e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Qe7 8. Be2 $6 Bxc4 {(Now you
+can imagine how important the 8.Qe2 move is!! Black gets back his gambit pawn
+with a superior position...)} 9. Nc3 Nc6 10. O-O-O Bxe2 11. Ngxe2 O-O-O $6 {
+(This thematic move is a mistake only...)} (11... Rd8 $1 12. d5 O-O 13. Ng3 Qc5
+$15 {Black is clearly better...}) 12. Rhe1 Qd7 13. d5 Nb4 14. Qd4 a5 $2 (14...
+Nfxd5 $1 15. Qxa7 Qc6 16. Qa8+ Kd7 17. Qa5 Kc8 $11) 15. Qa7 $16 Qf5 16. Nd4
+Qxf2 17. Re7 Nd7 18. Qa8+ Nb8 19. Ncb5 Rd7 20. Na7+ Kd8 21. Qxb8+ $4 (21. Re4
+$1 $18) 21... Kxe7 $19 22. Qxh8 Rxd5 23. Qxg7 Qe3+ 24. Rd2 Qe1+ 25. Rd1 Rc5+
+0-1
+
+[Event "Buenos Aires zt 2.5"]
+[Site "Buenos Aires"]
+[Date "2000.??.??"]
+[Round "4"]
+[White "Zarnicki, Pablo"]
+[Black "Fiorito, Fabian"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2488"]
+[BlackElo "2418"]
+[Annotator "RCA"]
+[PlyCount "44"]
+[EventDate "2000.07.26"]
+[EventRounds "9"]
+[EventCountry "ARG"]
+[Source "ChessBase"]
+[SourceDate "2000.11.21"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 {Gambit pawn gives Black a two
+minor pieces lead in development.} 5. d4 Bb4+ {(Important move, bringing out
+the bishop so that after Black's Qe7 move, no piece would be blocked along the
+a3-f8 diagonal.)} 6. Bd2 Qe7 $1 {(Developing the queen , preparing 0-0-0 along
+with tactics for the 'e' file.)} 7. Bxb4 Qxb4+ 8. Qd2 Qe7 {(Returning to the
+same tactics.)} 9. Qe3 Nc6 {(Black must always be ready for this thematic
+piece sacrifice...we recommend this 9... Nc6 line, perhaps Black's best choice.
+)} 10. Nf3 Ng4 11. Qe2 O-O-O 12. h3 Rhe8 {(Ignoring idea....Black just
+concentrates on developing his least active piece.)} 13. hxg4 Qb4+ 14. Qd2
+Bxg4+ $3 15. Be2 Rxe2+ 16. Kxe2 Nxd4+ $19 17. Kf1 Qxc4+ 18. Kg1 Nxf3+ 19. gxf3
+Bxf3 {Black is already winning.} 20. Rh3 Qg4+ 21. Rg3 Qh5 22. Rxf3 Qxf3 0-1
+
+[Event "CZE-chT2 9697"]
+[Site "Czechia"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Rozkovec, Hynek"]
+[Black "Kulhanek, Tomas"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[Annotator "RCA"]
+[PlyCount "83"]
+[EventDate "1996.??.??"]
+[EventRounds "11"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "1997.11.17"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2 Qe7 7. Bxb4 Qxb4+
+8. Qd2 Qe7 {(When you play a gambit line, try to keep the pressure on as much
+as possible!)} 9. Qe3 Nc6 {Black has completed his thematic piece development!!
+} 10. d5 $6 {Pure greed!!} (10. Nf3 {White's best choice...} Ng4 11. Qe2 O-O-O
+$36) 10... Ng4 $1 11. Qe4 Qf6 {(Quite possible...but we recommend Qb4+ here.)}
+(11... Qb4+ $5 {Our recommendation} 12. Nd2 O-O-O 13. Be2 Rhe8 14. Ngf3 Bxd5
+15. Qxg4+ Kb8 16. O-O Rxe2 {Black has a more active position...}) 12. f3 {
+White's best reply} (12. Be2 $2 Qxf2+ $17) 12... Qxb2 $6 (12... O-O $1 $15) 13.
+fxg4 $1 O-O-O 14. dxc6 Rhe8 15. Ne2 Qxa1 16. Kf2 Bxc4 (16... Qxa2 $5 17. cxb7+
+Kb8 18. Nbc3 Qxc4 $15) 17. Qxc4 Qxb1 18. Qb3 Qxb3 19. axb3 Rd3 20. cxb7+ Kxb7 (
+20... Kb8 $5 $11) 21. Nc1 Rd2+ 22. Kf3 Kb6 23. Bc4 f6 24. Ne2 Re5 25. Rc1 c6
+26. Rc3 h5 27. gxh5 Rxh5 28. h3 Rf5+ 29. Kg3 Rf1 30. Rf3 Rxf3+ 31. Kxf3 Kc5 32.
+Ng3 Kb4 33. h4 a5 34. Ne4 Rb2 35. Bf7 Rxb3+ 36. Bxb3 Kxb3 37. Ke3 a4 38. Kd3 a3
+39. Nc3 (39. Nd2+ $5 Kb2 40. Nc4+ Kb3 41. Nxa3 Kxa3 42. Kc4 $11) 39... a2 40.
+Nxa2 Kxa2 41. Kc4 Kb2 42. Kc5 1/2-1/2
+

@@ -1,0 +1,333 @@
+[Event "WCC"]
+[Site "?"]
+[Date "2005.12.08"]
+[Round "4.3"]
+[White "Gurevich M"]
+[Black "Malakhov V"]
+[Result "1-0"]
+[WhiteElo "2652"]
+[BlackElo "2670"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1r2r1k1/bp3pp1/p1np3p/8/1P6/P3PqPP/1B1QNP2/2RR2K1 w - - 0 23"]
+[PlyCount "111"]
+[EventDate "2005.??.??"]
+[Source "The Week in Ches"]
+
+{Black has a weak pawn d6, which means that white has a stable positional
+advantage. In such situations white should exchange pieces.} 23. Bd4 $1 Bxd4
+24. Nxd4 Nxd4 25. Qxd4 Re6 26. Qd5 $1 {(white is trading the pieces again)}
+Qxd5 27. Rxd5 {(Now black has no counterplay at all, while for white it is
+even simpler to attack weaknesses (because black doen't have enough defenders).
+} Kf8 28. Kf1 Ke8 29. Rd3 Rd8 30. Ke2 Rd7 31. g4 Ke7 32. Rdc3 d5 33. Rc7 $1 Kd6
+34. Rxd7+ {(Every exchange trades an opponent's defender)} Kxd7 35. Rc5 Kd6 36.
+Rc8 {(White is threatening Rg8, Rb8, Rd8. Black doesn't have enough pieces to
+protect all his weaknesses.)} h5 37. gxh5 Rh6 38. Rg8 Rxh5 39. Rxg7 Ke6 40. Rg8
+Rxh3 41. Rb8 b5 42. Ra8 d4 43. Rxa6+ Kd5 44. Rf6 dxe3 45. fxe3 Rh2+ 46. Kd3 Ra2
+47. e4+ Ke5 48. Rf5+ Kd6 49. Rxb5 Rxa3+ 50. Kd4 Rb3 51. Rd5+ Kc6 52. Kc4 Re3
+53. b5+ Kb6 54. Rd6+ Kc7 55. Rc6+ Kb7 56. Kd5 Rb3 57. Rf6 Rxb5+ 58. Kd6 Kc8 59.
+Rxf7 Rb6+ 60. Ke7 Rb7+ 61. Ke8 Rb6 62. Ke7 Rb7+ 63. Kf8 Rb5 64. Rf5 Rb4 65. e5
+Kd7 66. Rf6 Re4 67. Rd6+ Kc7 68. Re6 Rh4 69. Rg6 Re4 70. e6 Rf4+ 71. Ke7 Rh4
+72. Rg1 Rh7+ 73. Kf6 Rh6+ 74. Kf7 Rh7+ 75. Rg7 Rh8 76. Rg1 Rh7+ 77. Kg6 Rh2 78.
+Rd1 1-0
+
+[Event "It (open)"]
+[Site "Metz (France)"]
+[Date "2005.04.23"]
+[Round "8"]
+[White "Gurevich Mikhail (BEL)"]
+[Black "Barsov Alexei (UZB)"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2517"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p3ppp/p2Rp3/q1n5/8/1QP1PN2/P3BPPP/5RK1 w - - 0 20"]
+[PlyCount "49"]
+[EventDate "2005.??.??"]
+
+20. Qb4 $1 {(Some players afraid to exchange queens - they think it will lead
+to a draw. Of course it is NOT right.   In the current position black has only
+2 active pieces and white is exchanging one of them. It will raise the white
+advantage in activity. Also it repairs the white's pawn structure.)} Qxb4 21.
+cxb4 Ne4 22. Rd4 Nc3 23. Bc4 b5 24. Rc1 Na4 25. Bb3 Bb7 26. Ne5 Rac8 27. Rxc8 {
+(Black has a lot of weaknesses and white is going to attack them. That's why
+white exchanges the pieces - every exchange trades an opponent's defender.)}
+Rxc8 28. f3 {(Now white is threatening Rd7 and black has no defense)} Bd5 29.
+Bxd5 exd5 30. Rxd5 f6 31. Nd3 Rc2 32. Rd8+ Kf7 33. Rd7+ Kf8 34. Nf4 Nc3 35.
+Ne6+ Ke8 36. Rc7 g5 37. a3 h5 38. h4 gxh4 39. Kh2 Rc1 40. Ng7+ Kd8 41. Ne6+ Ke8
+42. Nd4 h3 43. Nb3 Kd8 44. Rc5 1-0
+
+[Event "It"]
+[Site "New York (USA)"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Fox Albert"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2k1r3/2p2ppp/ppb1rn2/2p5/2P1P3/1N2BP2/P1PR1KPP/3R4 b - - 0 19"]
+[PlyCount "69"]
+[EventDate "1916.??.??"]
+
+{Black has a little combination which trades B+N on the opponent's R+3 pawns.
+It is good generally and in an endgame it is excellent!} 19... Bxe4 $1 20. fxe4
+Nxe4+ 21. Kf1 Nxd2+ 22. Bxd2 Re4 23. Re1 R8e6 24. Rxe4 Rxe4 25. c3 Kd7 26. Nc1
+Rxc4 {(Black has a winning position. He can realize both of the main endgame
+plans.)} 27. Ke2 h5 28. Kd3 Ra4 29. Kc2 f6 30. Kb3 Rg4 31. g3 h4 32. Ne2 g5 33.
+Kc2 Ra4 34. Nc1 Ke6 35. Kd3 Kf5 36. Ke3 hxg3 37. hxg3 Kg4 38. Kf2 Ra3 39. Be1
+f5 40. Kg2 c4 41. Kf2 Ra5 42. Ke3 Re5+ 43. Kf2 c5 44. Ne2 Rd5 45. Ke3 Rd3+ 46.
+Kf2 f4 47. gxf4 gxf4 48. a4 b5 49. axb5 axb5 50. Nc1 Rd1 51. Ne2 f3 52. Ng1
+Rxe1 53. Kxe1 Kg3 0-1
+
+[Event "Hastings (England)"]
+[Site "Hastings (England)"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Conde JM"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4q1k1/2p2ppn/3p3p/p1pN1P2/8/3Q3P/PPP2PP1/6K1 w - - 0 23"]
+[PlyCount "47"]
+[EventDate "1919.??.??"]
+
+{It looks natural to take the pawn now. However, it gives black a good
+counterplay.} 23. Qe3 $1 {(When your opponent has weaknesses, it is very
+useful to exchange the pieces. It prevents an opponent's counterplay, while
+you can attack his weaknesses in an endgame as well.)} (23. Nxc7 $2 Qe1+ 24.
+Kh2 (24. Qf1 Qd2 $132) 24... Qe5+ 25. Qg3 Qxb2 26. Qxd6 Nf6 {and the situation
+becomes unclear}) 23... Qd7 (23... Qxe3 24. fxe3 c6 25. Ne7+ Kf8 26. Nxc6 $18)
+24. Qe7 $1 {(White is using the same idea again! The black's queen protects
+his weak pawns. So white wants to exchange it!)} Qxe7 25. Nxe7+ Kf8 26. Nd5 {
+(Now white is attacking the weak pawns which have no defenders at all.)} Ke8 (
+26... c6 27. Nb6 Ke7 28. Nc4 a4 29. Nb6 {winning the "a" pawn}) 27. Nxc7+ Kd7
+28. Nd5 Kc6 29. c4 Nf6 30. Nxf6 gxf6 31. a4 d5 32. b3 d4 33. f4 Kd6 34. g4 Ke7
+35. Kf2 Kd6 36. Kf3 Ke7 37. Ke4 Kd6 38. h4 Kd7 39. b4 axb4 40. a5 Kc7 41. g5
+fxg5 42. fxg5 hxg5 43. hxg5 b3 44. Kd3 Kd7 45. g6 fxg6 46. fxg6 1-0
+
+[Event "Hastings (England)"]
+[Site "Hastings (England)"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Michell Reginald"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "0-1"]
+[BlackElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2qr4/1p2r1k1/p1p2pp1/7p/1PQ1PP1P/4RKP1/1P6/4R3 b - - 0 39"]
+[PlyCount "31"]
+[EventDate "1919.??.??"]
+
+{White has the weak pawns b4, e4 and b2. Therefore black should go into an
+endgame, where it will be simpler for him to attack these weaknesses.} 39...
+Qe6 $1 40. Qxe6 Rxe6 41. f5 Re5 42. fxg6 Kxg6 43. b3 Rd4 {(You can see how
+easily black got a winning position)} 44. Rc1 Rxb4 45. Rd1 Reb5 46. Rdd3 a5 47.
+Rc3 Re5 48. Rcd3 Reb5 49. Rc3 Kf7 50. Ke2 Ke6 51. Kd2 Ke5 52. Kc2 Rxe4 53.
+Rxe4+ Kxe4 54. Rc4+ Kf3 0-1
+
+[Event "Philadelphia (USA)"]
+[Site "Philadelphia (USA)"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Shipley Walter Penn"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2kr3r/pp1b1p1p/8/4p3/8/3B4/P1P1KPPP/RR6 w - - 0 18"]
+[PlyCount "33"]
+[EventDate "1924.??.??"]
+
+18. Be4 {(White is attacking the opponent's pawn, which is one of 2 main
+endgame plans.)} Bc6 19. Bxc6 bxc6 20. Rb3 Kc7 21. Rab1 Rb8 22. Rxb8 {(It is
+very interesting to observe how white is winning a game by trading the pieces!)
+} Rxb8 23. Rxb8 {(White has a stable positional advantage (the better pawn
+structure), and therefore he should exchange the pieces.)} Kxb8 24. Kd3 Kc7 25.
+Ke4 Kd6 26. g4 Ke6 27. h4 f6 28. f4 exf4 29. Kxf4 h6 30. c3 a6 31. a3 a5 32. a4
+Ke7 33. Kf5 c5 34. c4 1-0
+
+[Event "23rd ECC Men"]
+[Site "?"]
+[Date "2007.10.04"]
+[Round "2"]
+[White "Malakhov V"]
+[Black "Murtez H"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2316"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r2k1/p4p1p/2p1pp2/2Nb4/1r1P1P2/1P2K1P1/P2R3P/R7 b - - 0 26"]
+[PlyCount "60"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{White has a better pawn structure, which determines his advantage. Black has
+a solid position however, and he should keep a defense.  Instead of that black
+decided to create a counterplay.} 26... e5 $2 {(Black is sacrificing a pawn to
+get some activity. It is a common weapon in a middlegame, but in an endgame it
+is usually incorrect.)} 27. dxe5 fxe5 28. fxe5 {(White got a stable positional
+advantage - an extra pawn. The black's activity is a temporary factor, which
+will be neutralized soon.)} Re8 29. Nd3 Re4+ 30. Kf2 Rd4 31. Rad1 Be4 32. Ke3
+Rxd3+ 33. Kxe4 Rxd2 34. Rxd2 f6 35. Kf5 $1 fxe5 36. Ke4 {(This interesting
+maneuver keeps black totally passive)} a5 37. Rc2 a4 38. bxa4 Ra8 39. Kxe5 Rxa4
+40. Kd6 Ra6 41. Kc7 c5 42. Kb7 Ra3 43. Kb6 Ra8 44. Rf2 c4 45. Kb5 c3 46. Kb4
+Rb8+ 47. Kxc3 Ra8 48. Kb2 Kg7 49. a3 Kg6 50. Kb3 Rb8+ 51. Kc4 Ra8 52. Ra2 Kf5
+53. a4 Ke6 54. a5 Kd6 55. a6 Kc6 56. a7 1-0
+
+[Event "23rd ECC Men"]
+[Site "?"]
+[Date "2007.10.05"]
+[Round "3"]
+[White "Lutsko I"]
+[Black "Malakhov V"]
+[Result "0-1"]
+[WhiteElo "2428"]
+[BlackElo "2690"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2r1r3/1p1b2kn/p2P1qp1/5p2/P1BQ2p1/2N5/1P4PP/3R1RK1 b - - 0 26"]
+[PlyCount "43"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{Advanced pawns are good for an attack, but bad for a defense. That's why
+advanced pawns are often an advantage in a middlegame and a disadvantage 
+(weakness) in an endgame.} 26... Qxd4+ 27. Rxd4 {(The white's advanced pawns
+d6 and a4 create a lot of weaknesses, which will be an object of the black's
+attack.)} Nf6 28. Bd5 Nxd5 29. Rxd5 Rc4 30. a5 Bc6 31. Rd2 Rc5 32. Ra1 Kf7 33.
+Ne2 Rd8 34. Re1 Rxa5 35. Nf4 Rd7 36. b4 Rb5 37. Ne6 Rd5 38. Rxd5 Bxd5 39. Nc7
+Be4 40. Rd1 Kf6 41. Kf2 Ke5 42. Ne8 g5 43. Kg3 Rd8 44. d7 Ke6 45. Nc7+ Ke7 46.
+Nd5+ Bxd5 47. Rxd5 Ke6 0-1
+
+[Event "Cup Russia"]
+[Site "?"]
+[Date "2007.11.07"]
+[Round "2.1"]
+[White "Malakhov V"]
+[Black "Grachev B"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2602"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r1br2k1/bpq2ppp/p4n2/3p4/N7/BP1Q2P1/P1P2PBP/3R1RK1 w - - 0 16"]
+[PlyCount "111"]
+[EventDate "2007.??.??"]
+[Source "The Week in Ches"]
+
+{Black has an isolated (weak) pawn d5. In a middlegame black can compensate it
+by an active counterplay (Bg4, Ne4 etc). In an endgame black will have no
+compensation.} 16. Qc3 $1 Qxc3 17. Nxc3 Bg4 18. Rd2 d4 19. Na4 Rac8 (19... Rab8
+20. Nc5 {black can't keep his weak pawns in any case}) 20. Bxb7 Rc7 21. Bg2 {
+(White won a pawn and got a winning position)} Rdc8 22. Rc1 Bf5 23. c4 dxc3 24.
+Rxc3 h6 25. Rxc7 Rxc7 26. Kf1 Ng4 27. Rd5 Be6 28. Rd8+ Kh7 29. Be4+ f5 30. Bb1
+Nxf2 31. Rd6 Bc8 32. Nb6 Bxb6 33. Rxb6 Ne4 34. Ke1 Rc3 35. Ke2 Bd7 36. Bb2 Rc7
+37. Be5 Rc1 38. Bxe4 fxe4 39. Rb7 Rc5 40. Bd4 Bb5+ 41. Ke3 Rg5 42. Kf4 Rg6 43.
+a4 Be8 44. Ra7 Kg8 45. Kxe4 Re6+ 46. Kf4 Bf7 47. b4 Be8 48. Kf5 Rd6 49. Be5 Rb6
+50. b5 axb5 51. a5 Rg6 52. a6 Kh7 53. Re7 Bc6 54. a7 Bf3 55. Kf4 Bh1 56. g4 b4
+57. h4 h5 58. gxh5 Rg1 59. Bd4 Rd1 60. Bxg7 b3 61. h6 b2 62. Bxb2+ Kxh6 63. Re8
+Rf1+ 64. Kg3 Rb1 65. Be5 Rb3+ 66. Kh2 Bd5 67. a8=Q Bxa8 68. Rxa8 Kh5 69. Bg3
+Kg4 70. Ra4+ Kh5 71. Kh3 1-0
+
+[Event "CSVN ICT6"]
+[Site "?"]
+[Date "2006.05.07"]
+[Round "8"]
+[White "RYBKA"]
+[Black "THE BARON"]
+[Result "1-0"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1r5k/2N1q1pp/1P1p4/R3prb1/8/6P1/1P2QP2/R5K1 w - - 0 32"]
+[PlyCount "7"]
+[EventDate "2006.??.??"]
+[Source "The Week in Ches"]
+
+{White has a passed pawn, which is a stable positional adantage. So white
+should exchange the pieces.} 32. Ra8 $1 Rff8 33. Qf3 h5 34. Rxb8 Rxb8 35. Ra8 {
+(every exchange trades an opponent's defender)} 1-0
+
+[Event "Tournament"]
+[Site "Tbilisi (Georgia)"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Zaichik Gennadi (USA)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2678"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5b1k/R6p/1p2r1p1/8/1P3P1P/6P1/P4P2/6K1 w - - 0 28"]
+[PlyCount "18"]
+[EventDate "1979.??.??"]
+
+{Though white has 3 pawns against a bishop, these pawns are weak and can't
+give white a passed pawn.   Therefore white is a defesive side and should
+fight for a draw.  The main defensive plan in such a situation is to trade the
+pawns.} 28. a3 (28. b5 $2 {gives the c5 square to the black's bishop}) 28...
+Kg8 29. Kg2 Rc6 30. Kf3 Rc2 31. Rb7 Rc3+ 32. Kg4 Rxa3 33. Rxb6 Rb3 34. h5 gxh5+
+35. Kxh5 Rxb4 36. Rxb4 Bxb4 1/2-1/2
+
+[Event "Ch URS (1 liga)"]
+[Site "Lvov (Ukraine)"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Panchenko Alexander N (RUS)"]
+[Black "Gurevich Mikhail (BEL)"]
+[Result "1/2-1/2"]
+[WhiteElo "2475"]
+[BlackElo "2540"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r2k1/6pp/pp2R3/1b6/1B6/7P/PP3PP1/6K1 b - - 0 33"]
+[PlyCount "80"]
+[EventDate "1987.??.??"]
+
+33... Rb8 $1 {(In an endgame a material is highly valuable, so black should
+protect the pawn.)} 34. b3 Rb7 35. Bc3 Bd3 {(Black is going to attack the
+white's pawns on the queen-side)} 36. Bd4 Bb1 $1 {(The main defensive plan for
+black is to exchange the pawns.)} 37. a3 Ba2 38. Re3 a5 {(fixing the b3 pawn.
+Black is ready to exchange pawns if white plays b4.)} 39. Rc3 b5 40. b4 axb4
+41. axb4 Bc4 42. Ra3 Rd7 43. Be5 Re7 44. f4 Kf7 45. Kf2 Rd7 46. Ke3 Re7 47. g4
+g5 $1 48. Ke4 gxf4 49. Kxf4 Rd7 50. h4 Rd1 51. Ra7+ Ke6 52. Ra6+ Kf7 53. Rf6+
+Ke7 54. Rh6 Bd3 55. Rb6 Kf7 56. Ke3 Bc4 57. Rf6+ Ke7 58. Rh6 Re1+ 59. Kd4 Rd1+
+60. Kc3 Bd3 61. Bf4 Be4 62. Bd2 Rg1 63. g5 Bb1 64. Kd4 Rd1 65. Ke3 Rh1 66. h5
+Kd7 67. Kf4 Rh2 68. Bc3 Rf2+ 69. Ke3 Rg2 70. Kf4 Rf2+ 71. Kg3 Re2 72. Kf3 Re6
+73. Bf6 1/2-1/2
+
+[Event "It (open)"]
+[Site "Saint Vincent (Italy)"]
+[Date "2004.02.12"]
+[Round "6"]
+[White "Gurevich Mikhail (BEL)"]
+[Black "Zelcic Robert (CRO)"]
+[Result "1-0"]
+[WhiteElo "2656"]
+[BlackElo "2524"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r3r1k1/pb3pp1/7p/1p1n4/3n4/P4P1N/BP1B1KPP/2R4R w - - 0 23"]
+[PlyCount "63"]
+[EventDate "2004.??.??"]
+
+{This instrucive game shows how you can exchange pieces to win a game! For
+most players this idea is very sudden.} 23. Rhe1 Rxe1 24. Rxe1 Rc8 25. Rc1 {
+(The bishops' value go up when you trade the pieces, because the bishops have
+more free space then.)} Re8 26. Ng1 a6 27. Rd1 Nf6 28. Bc3 Ne6 29. Ne2 Re7 30.
+Ng3 Rd7 31. Rxd7 Nxd7 {(In an open position the bishops are dominating)} 32.
+Nf5 Ndc5 33. Ke3 Na4 34. Be5 Nb6 35. Kd3 Nd7 36. Bd6 h5 37. h4 g6 38. Ne7+ Kg7
+{(Black is totally passive, but white can't go forward. Therefore white should
+trade some black's defenders first.)} 39. Bd5 $1 Kf6 40. Bxb7 Nec5+ 41. Bxc5
+Nxc5+ 42. Kd4 Nxb7 43. Nd5+ Kf5 44. g3 {(White is threatening Nc7, while black
+has no defenders.)} Na5 45. Nc7 Nc4 46. Nxa6 Nxb2 47. Nc7 g5 48. hxg5 Kxg5 49.
+Nxb5 f5 50. Nc7 f4 51. Ne6+ Kf5 52. Nxf4 h4 53. gxh4 Kxf4 54. Kc3 1-0
+

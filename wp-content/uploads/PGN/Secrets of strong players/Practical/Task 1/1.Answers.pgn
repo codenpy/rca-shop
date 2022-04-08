@@ -1,0 +1,301 @@
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.01.03"]
+[Round "4.18"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2832"]
+[BlackElo "2786"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "59"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O 7. exd5 Nxd5 8. Re1
+Nc6 9. Nc3 Nde7 10. Rb1 a5 11. a3 Re8 12. b4 axb4 13. axb4 Nf5 14. Bg5 f6 15.
+Bd2 Be6 {Diagram #} 16. b5 $1 {This is a model game on how to attack the enemy
+pawns and squares. The idea behind that move is to kick away the c6-knight and
+open the long diagonal, h1-a8, in order to attack or capture the b7-pawn.} (16.
+Ne4 $5 {This is an interesting alternative.}) 16... Nce7 (16... Ncd4 17. Nxd4
+exd4 (17... Nxd4 18. Bxb7 $14) 18. Nd5 $1 {White has this very powerful
+tactical blow because White's pieces are much more active compared with
+Black's counterparts.} Bxd5 19. Rxe8+ Qxe8 20. Bxd5+ $18) (16... Na7 17. g4 {
+With the same idea, to attack the b7-pawn.}) 17. g4 {
+Yes, this move is weakening the kingside, but White is fighting for the center.
+} Nd4 (17... Nd6 18. g5 {White has disorganized Black's control in the center,
+and he would like to attack on e5.}) 18. Nxd4 Qxd4 (18... exd4 $2 19. Rxe6 dxc3
+20. Bxc3 $18) 19. Bxb7 $6 {Probably, it was better to stabilize his kingside
+position firstly, and only after that, to grab the b7-pawn.} (19. h3 $5 {
+In order to continue attacking the b7-pawn.}) (19. Ne4 $5 {
+In order to control and play in the center.} Bc8 20. Qf3 $14) 19... Bxg4 20.
+Bf3 Bxf3 $44 21. Qxf3 Ra3 $6 (21... Rad8 $5 $13) 22. b6 $1 {This is a fantastic
+counterblow and White continues his successful strategy, to attack the
+opponent squares. He is clearing the b5-square in order to place the knight
+there. White has a big advantage, and he manages to win the game afterwards.}
+c6 (22... cxb6 $2 23. Nb5 $18) (22... Rxc3 $5 23. Re4 $1 Qc5 24. Bxc3 Qxc3 25.
+Rc4 $16) 23. Ne4 Nf5 24. Bb4 Ra2 25. Bc5 Qd7 26. Ra1 Rxc2 27. Ra7 Qd5 28. Rb1
+Rxc5 29. b7 g5 30. b8=Q 1-0
+
+[Event "Muensterland Regionalliga 1718"]
+[Site "Germany"]
+[Date "2018.04.21"]
+[Round "8.2"]
+[White "Schulze Ameling, Hendrik"]
+[Black "Vos, Thomas"]
+[Result "1-0"]
+[ECO "D08"]
+[WhiteElo "2001"]
+[BlackElo "2159"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "65"]
+[EventDate "2017.09.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Ahaus Wessum"]
+[BlackTeam "Neuenkirchen"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Bf4 Be6 6. Nbd2 h6 7. a3 Nge7 8. Qa4
+Nf5 {Diagram #} 9. g4 $1 {This looks like a similar position, as the previous
+one; and again, White uses the same strategy: to disorganize the black pieces
+in order to attack in the center. Of course, White has other possible moves
+here, as to prepare the g4 or place the knight in the center.} (9. h4 $5) (9.
+h3 $5) (9. Ne4 $5) 9... Nfe7 10. h3 {White is playing very carefully, and he
+protects his pawns before taking any other actions. Usually, in the Albin
+Counter Gambit, White will attack the d4-pawn with Nb3, Rd1. Sometimes, he
+advances the b4 and b5 in order to kick away the knight from the c6-square.} a6
+11. Rd1 b5 12. cxb5 axb5 13. Qc2 {White continues pressing the center, and now,
+he would like to play Nb3 in order to attack the d4-pawn. Unfortunately for
+Black, this d4-pawn is blocked there and it cannot be supported by other pawns.
+} b4 14. Bg2 (14. Nb3 $1 {
+More accurate was to attack immediately, using the principle of attack.} bxa3
+15. Nfxd4 $5 {This is a better move because White is opening the h1-a8
+diagonal, and the b3-knight is controlling the a1-square.} (15. Nbxd4 a2 $1 16.
+Nxe6 fxe6 (16... a1=Q 17. Nxd8 $18) 17. Ra1 Nb4 18. Qc4 c5 19. Bg2 $14) 15...
+Nb4 16. Qc1 a2 17. Nxe6 $18) 14... bxa3 15. bxa3 Rxa3 16. O-O Rc3 17. Qb2 Bd5
+18. Ra1 (18. Be3 $5 {He removes the defender, the d4-pawn.}) (18. e3 $5) 18...
+Ng6 19. Bg3 h5 20. Ra4 $16 {White has a good advantage thanks to his active
+pieces and attack against the d4-pawn. He manages to win the game afterwards.}
+hxg4 21. hxg4 Bc5 22. e4 Be6 23. Qb7 Nge7 24. Ra8 Bc8 25. Qb5 Qd7 26. Nb1 Rc2
+27. Ne1 Rc1 28. Bf4 Rxb1 29. Qxb1 Qxg4 30. Bg3 d3 31. Nf3 Nb4 32. Rc1 Nc2 33.
+Qb5+ 1-0
+
+[Event "Sinquefield Cup 6th"]
+[Site "Saint Louis"]
+[Date "2018.08.27"]
+[Round "9"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2842"]
+[BlackElo "2777"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "193"]
+[EventDate "2018.08.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+[Source "ChessBase"]
+[SourceDate "2018.09.14"]
+[WhiteTeam "Espana"]
+[BlackTeam "Espana"]
+[WhiteTeamCountry "ESP"]
+[BlackTeamCountry "ESP"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 8. Bxc4
+Ba6 9. Qe2 Bxc4 10. Qxc4 c5 11. dxc5 bxc5 12. O-O Nc6 13. Rac1 Rc8 {Diagram #}
+14. Ne5 {White has a clear strategical plan, to attack the isolated c5-pawn.
+In such cases, you need to exchange some of the light pieces in order to
+reduce the opponent's counterplay. Then, you need to attack this pawn with
+your heavy pieces. Hence, White tries to exchange the knights, and then, to
+increase the pressure against the c5-pawn.} (14. Bg5 $5) (14. Rfd1 $5) 14...
+Qb6 15. Nxc6 Rxc6 16. b3 {Another very good and didactic move. White has other
+ways to protect the b2-pawn; for example, to play Rc2. However, he uses the
+economical defense (if you don't know what it is, you are welcome to study the
+RCA course "Defending Champion") and, similarly, he is blocking the c4-square.
+Moreover, he creates a solid outpost on a4 for the knight. From there, the
+knight can free the c-line and increase the pressure against the c5-square.} h6
+17. Rfd1 Qb7 (17... Qa6 $5 {It's not recommended to transpose the game into
+the endgame when you have a pawn weakness, but here Black can hope for an
+active counterplay with his pieces.} 18. Qxa6 Rxa6 19. Na4 Nd5 $132) 18. h3
+Rfc8 19. Na4 $14 {You can see clearly White's strategy in action. He blocked
+the c-pawn, his pieces are active and Black has the luck to counterplay. In
+order to have a successful strategy against the isolated pawn, you need to
+block or control the square, and then, to attack it with your pieces. Then you
+have two strategies: Firstly, you can regroup your pieces in order to continue
+pressing this pawn, by doubling the rooks on the c-line, and put the queen on
+c1 behind the rooks. This is the Alekhine gun. Secondly, you need to find a
+second weakness. You can continue activating your pieces; for example,
+doubling the rooks on the d-line, and then, creating a kingside superiority,
+by bringing there more pieces. In any case, Carlsen has a small but stable
+advantage here, and he manages to win the game afterwards.} Nd7 20. Rd2 Nb6 21.
+Nxb6 Rxb6 22. Rcd1 Bf6 23. Rd7 Qa6 24. Qe4 e5 25. Bxh6 $5 Re8 (25... gxh6 26.
+Qg4+ Bg7 27. Rxf7 $1 Kxf7 $4 (27... Rg6 $8 28. Rxa7 $1 {
+The game is complicated...}) 28. Rd7+ Kf6 29. Qxg7+ Kf5 30. e4+ Kxe4 31. Qg4#)
+26. Qg4 Qxa2 27. e4 Qxb3 28. Be3 Rb7 29. R7d6 Be7 30. R6d5 Bf8 31. Bxc5 Bxc5
+32. Rxc5 Qe6 33. Qe2 Rd7 34. Rxd7 Qxd7 35. Rd5 Qc7 36. Qd2 Ra8 37. Rd7 Qc4 38.
+f3 Qc5+ 39. Kh2 Qc6 40. Rd6 Qc5 41. Ra6 Qe7 42. Qe3 Kh7 43. Kg3 Qb7 44. Qa3 f6
+45. Kh2 Qc7 46. Qa1 Qb7 47. Qa5 Qd7 48. Qa2 Qe7 49. Qf2 Qb7 50. Qa2 Qe7 51. Qd5
+Rb8 52. Qa5 Rb7 53. Qe1 Qd7 54. Qh4+ Kg8 55. Qf2 Qf7 56. Qa2 Qxa2 57. Rxa2 Kh7
+58. Ra6 Kg6 59. h4 Kh5 60. Kh3 Rf7 61. g4+ Kh6 62. Kg3 g5 63. h5 Kg7 64. Kf2
+Rb7 65. Ra3 Kh6 66. Ke3 a5 67. Rxa5 Rb3+ 68. Kf2 Rb2+ 69. Kg3 Kg7 70. Ra7+ Kg8
+71. Ra1 Kg7 72. Rf1 Ra2 73. Rf2 Ra3 74. Rd2 Ra7 75. Kf2 Kf7 76. Ke2 Rb7 77. Rd3
+Ra7 78. Kd2 Ke6 79. Kc3 Ke7 80. Kc4 Rc7+ 81. Kb5 Rc1 82. Rb3 Kf7 83. Kb6 Rc2
+84. Kb7 Rc1 85. Kb8 Kg8 86. Rb6 Kg7 87. Rb7+ Kg8 88. Rc7 Rb1+ 89. Kc8 Rb3 90.
+Kd7 Rxf3 91. Ke6 Rf4 92. h6 Kh8 93. Rb7 Kg8 94. Rg7+ Kh8 95. Kf7 Rxe4 96. Kg6
+Ra4 97. Rh7+ 1-0
+
+[Event "Moscow Tal Memorial rapid 11th"]
+[Site "Moscow"]
+[Date "2018.03.02"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2776"]
+[BlackElo "2809"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "92"]
+[EventDate "2018.03.02"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+[Source "ChessBase"]
+[SourceDate "2018.03.14"]
+[WhiteTeam "England"]
+[BlackTeam "England"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4 Bd7
+9. Nxc7+ Qxc7 10. Nf3 Ba4 11. Ra2 Ne7 12. Nxd4 a6 13. Be3 Nbc6 14. Bd3 Nxd4 15.
+Bxd4 Bb5 16. O-O Nf5 17. Bf2 h5 18. a4 Bxd3 19. cxd3 Rc8 20. a5 {Diagram #} d4
+$1 {Black has a very active knight on f5 and he hasn't castle yet; thus, you
+may think that it's possible to start a kingside attack. However, Black's
+intention is to control the center, secure the knight outpost with h5 and play
+a position with a good knight against a bad bishop. Black plays the best move
+in the position, a5! He limits the mobility of the bishop, stops it from
+landing on b6 and secures his dominance on the c-line. Black's main goal is to
+fight for the initiative and activity of his pieces.} (20... h4 $5) (20... Qc6
+$5) (20... Qe7 $2 21. Bc5 $5 (21. Rc2 $5)) (20... Qd7 $6 21. Bc5) 21. Ra1 Qd7 {
+He is dominating on the light squares, overprotecting the important d4-pawn
+and preparing to 0-0 and double the rooks on the c-line.} 22. Qf3 Qd5 {
+It is totally ok for Black to exchange queens even if he doubles the central
+pawns. White cannot attack them because it cannot enter the files. After the
+queen's exchange, Black's king will be safe on d7, and Black's plan is to
+double on the c-line. The rooks belong to the open lines. Please also notice
+that the doubled pawns will help Black find a good outpost on the c-line in
+order to use it and double the rooks there.} 23. Qxd5 exd5 24. Rfc1 Kd7 25. Be1
+{This is another very cool move! White successfully cover the entry points on
+the c-file, and Black cannot make any progress there easily. For that reason,
+Black is trying to open more lines for the rooks. He is trying to open the g-
+and e-lines. Probably, he will not be able to attack the king by doubling the
+rooks on the g-line, but the e-file will be important. It will be difficult
+for White to protect all of the entry squares.} f6 26. exf6 gxf6 27. Kf2 Ne3
+28. Kf3 {Grandmasters and strong players can exchange one advantage with
+another. Black gives up his best piece, the knight, in order to eliminate the
+defender of the c3- and e3-squares. After that, he manages do dominate in the
+c-line and to win the game.} Nc2 29. Ra2 Nxe1+ 30. Rxe1 Rc3 31. Rae2 Rxd3+ 32.
+Kf2 Rh7 33. b5 axb5 34. Rb2 Kc6 35. Re6+ Kc5 36. Rb6 Ra3 37. Rxf6 d3 38. f5 Kd4
+39. Rb4+ Kc3 40. Rxb5 Rd7 41. Rc5+ Kd4 42. Rc1 Ra2+ 43. Kf3 d2 44. Rd1 Kd3 45.
+Re6 d4 46. f6 Ra3 0-1
+
+[Event "NED-chT 1718"]
+[Site "Netherlands"]
+[Date "2018.04.07"]
+[Round "8.2"]
+[White "Ernst, Sipke"]
+[Black "Andersen, Mads"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2553"]
+[BlackElo "2590"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "73"]
+[EventDate "2017.09.16"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[Source "ChessBase"]
+[SourceDate "2018.10.10"]
+[WhiteTeam "Groningen Combinatie"]
+[BlackTeam "BSG"]
+[WhiteTeamCountry "NED"]
+[BlackTeamCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 {Diagram #} 10. c5 $5 {The King's Indian Defense (KID) is a
+characteristic opening in which White makes a queenside attack and Black tries
+to checkmate White's monarch. If Black's attack fails or delays, then he's
+dead lost from the other side of the board. This is a critical moment for
+White because he has plenty of moves available. White's main strategical idea
+is to break through with the c5 move, which Ernst played immediately.} (10. a3
+$5) (10. Bg5 $5 {The idea is to delay the kingside maneuvers.}) (10. a4 $5) (
+10. b5 $6) (10. Re1 $5) (10. Qb3 $5) 10... f5 11. Nd2 {This is a typical
+regrouping move that fights for e4 outpost, prepares the f3-advancement and
+makes more solid the bone structure, and transfers the knight to the new free
+c4-square.} Nf6 12. a4 f4 13. Nc4 {We can see clearly now how White is
+improving his queenside attack by pressing the d6-pawn hardly. The computer
+gives clearly the advantage to White and, indeed, he has a strategic advantage.
+However, the attack against the enemy king is often very dangerous and, for
+that, KID is very popular for playing at any level.} g5 14. Nb5 {White continues
+pressing the same square, d6. This is a model game on how to attack with
+White against the KID.} Ne8 15. Ba3 {Even if this bishop looks closed, it has
+an eye on the d6-pawn. If you imagine that the d6-pawn is the opponent king,
+then you can develop your attack against that square more naturally, am I
+right?} Ng6 16. Bg4 {This is a very important strategic exchange because
+Black's light-squared bishop is an important piece on the attack. White has
+the advantage here because his attack is faster. After a long and fighting
+game, he manages to win it afterwards.} Bxg4 17. Qxg4 Rf7 18. f3 Bf6 19. Rfd1
+Be7 20. Rac1 h6 21. Kh1 Kg7 22. Qh3 Nf6 23. Qe6 Ne8 24. Rc2 Nf8 25. Qh3 Nf6 26.
+Na5 Qb8 27. cxd6 Bxd6 28. Rdc1 a6 29. Nxd6 cxd6 30. Rc8 Qa7 31. Rxa8 Qxa8 32.
+Qc8 Qa7 33. Nc4 Rd7 34. b5 axb5 35. Nxd6 N8h7 36. Rc7 Qe3 37. Nf5+ 1-0
+
+[Event "5th Isthmia Open"]
+[Site "?"]
+[Date "2015.08.25"]
+[Round "?"]
+[White "Skembris, Spyridon"]
+[Black "Gogolis, Alexandros"]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "2412"]
+[BlackElo "2238"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "81"]
+[EventDate "2015.??.??"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 a6 4. Bg2 b5 5. b3 Bb7 6. O-O c5 7. Bb2 Be7 8. d3 O-O
+9. Nbd2 d6 10. e3 Nc6 11. Qe2 Qb6 12. Rfd1 Rfd8 13. Rab1 Rac8 14. d4 Ba8 15. a3
+Na5 {Diagram #} 16. b4 $5 {Here you can see a critical position because White
+has plenty of options. During the game, White makes a very interesting
+breakthrough on the queenside.} (16. e4 $5) (16. Bh3 $5) (16. dxc5 $5) (16. d5
+$5) (16. a4 $6 bxc4) 16... cxb4 (16... Nxc4 $1 17. bxc5 dxc5 18. Nxc4 bxc4 19.
+Bc3 Qa7 20. Ba5 $132 {It is a difficult variation to calculate, and Black can
+end up with an isolated pawn. For that reason, Black rejects this variation
+and he doesn't play it even if it is looks good in home analysis with the
+computer.}) 17. c5 $1 {This was the main point on White's strategy.} dxc5 18.
+dxc5 {Black cannot recapture on c5, due to tactical reasons, as you can see in
+the sub-variations.} Qa7 (18... Rxc5 19. axb4 $18) (18... Qxc5 19. axb4 $1 Qxb4
+20. Bxf6 $18) 19. axb4 $14 {White has a clear strategic advantage now, thanks
+to his connected passed pawn, Black's weakness on a6 and his active pieces.
+Similarly, Black has lack of counterplay; thus, White wins the game afterwards.
+} Nc6 20. Bxf6 Bxf6 21. Ne4 Be7 22. Nd6 Bxd6 23. cxd6 Rd7 24. e4 Rcd8 25. e5
+Qb6 26. Rd2 h6 27. h4 Nxe5 28. Nxe5 Rxd6 29. Rxd6 Qxd6 30. Nxf7 Kxf7 31. Bxa8
+Qd3 32. Qxd3 Rxd3 33. Bb7 Ra3 34. Kg2 Kf6 35. Bc8 Ra4 36. Rb3 g5 37. Rf3+ Kg7
+38. hxg5 hxg5 39. Bxe6 Rxb4 40. Ra3 Re4 41. Rxa6 1-0
+

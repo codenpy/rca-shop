@@ -1,0 +1,164 @@
+[Event "WchT 7th"]
+[Site "?"]
+[Date "2010.01.13"]
+[Round "9.4"]
+[White "Firat Burak"]
+[Black "Mastrovasilis Athanasios"]
+[Result "0-1"]
+[ECO "C74"]
+[WhiteElo "2413"]
+[BlackElo "2510"]
+[Annotator "Smirnov"]
+[PlyCount "60"]
+[EventDate "2010.??.??"]
+[Source "CBM 134"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 {(Black wants to create an
+unbalanced position)} 6. exf5 Bxf5 7. O-O Bd3 8. Re1 Be7 9. Qb3 b5 $1 {(We
+should try to attack always, but in unbalanced positions it becomes extremely
+important)} 10. Qd5 bxa4 $5 {(Though it's a risky decision, black keeps
+playing maximally aggressively.)} 11. Qxd3 $2 {(When you play boldly, it often
+confuses your opponent. Then he starts making mistakes)} (11. Qxc6+ $1 Kf8 12.
+Nd4 exd4 13. Qf3+ Nf6 14. Qxd3 {gives white an advantage due to black's
+numerous weaknesses}) 11... Nf6 12. Qc4 Qd7 13. Qxa4 $6 {(White makes a lot of
+moves by his queen and ignores other pieces. In complicated positions an
+initiative (not a material!) becomes the key factor.)} O-O 14. d3 Nd4 $1 {(We
+should make forcing moves on the opponent's territory. Now white has to pay
+for his previous mistakes and undeveloped position.)} 15. Qd1 (15. Qxd7 Nxf3+
+16. gxf3 Nxd7 17. Kg2 Nc5 {and black saves an attack even in an endgame}) 15...
+Nxf3+ 16. Qxf3 d5 $1 {(In order to start a direct attack, we need to open a
+position first. We can do it by making pawn moves or positional sacrifices.
+Here black is using both methods together.)} 17. Rxe5 $2 Bd6 {(The positional
+sacrifice gave black a new b8-h2 diagonal for his bishop and the e-file for
+his rook. Of course it's more than enough for just a pawn)} 18. Rf5 Ng4 $1 {
+(We should focus attention on the opponent's territory and we need to consider
+all the attacking moves there (including the moves which seems impossible))}
+19. Qxg4 (19. Rxf8+ Rxf8 $19 {ALL the black's pieces are fighting against
+white's lonely queen}) 19... Rxf5 20. Be3 Re8 $1 {(Black is creating problems
+for white by his every move)} 21. h3 (21. Nd2 $2 Rxe3 22. fxe3 Rf1+ 23. Rxf1
+Qxg4 $19) 21... h5 22. Qd1 Rxe3 {(This positional sacrifice eliminates the
+only developed piece and creates weaknesses around the white's king)} 23. fxe3
+Qe7 24. Nd2 Qxe3+ 25. Kh1 Qg3 26. Qg1 Rf2 27. Rd1 g5 28. Nf1 Qf4 29. Nh2 g4 $5
+(29... Rxb2 $1 {in addition to black's attack he will gain a material
+advantage. This will guarantee a simple win}) 30. hxg4 hxg4 {It's very
+interesting that white resigned in unclear position!! After 31.g3 everything
+is not that simple for black.   Do you know why white player (2400+ player)
+didn't find 31.g3 move? It's because black was pressuring white's position
+during the whole game. Black disheartened White and gained a victory!} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.17"]
+[Round "?"]
+[White "GM_Aronian(R)"]
+[Black "GM_Gashimov(R)"]
+[Result "1-0"]
+[ECO "D10"]
+[Annotator "Smirnov"]
+[PlyCount "69"]
+[EventDate "2011.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 a6 7. Rc1 Bg4 8. f3
+Bc8 {(The pawn structure is symmetric and white needs to complicate the
+position somehow (if he wants to win!))} 9. g4 $1 {(Objectively it's not the
+best move. However, it makes the position unbalanced and creates problems for
+black)} g6 $6 {(Black makes a mistake right away! It often happens when you
+pressure an opponent)} 10. h4 {(After the black's move g6 white got some real
+attacking chances.)} h6 11. Qd2 $1 {(a very interesting and creative idea!)}
+Bg7 12. Qh2 {(White wants to attack the black's queen-side weaknesses also.
+Additionally the queen may work on the h-file if it be opened somewhen later)}
+e6 $2 {(Black has the weak squares b6 and c7; after the e6 move all the dark
+squares became weak.)} ({it's was better to play a normal development move} 
+12... Be6 {Now} 13. Bc7 {doesn't do much} Qd7) 13. Bc7 Qe7 (13... Qd7 14. Na4 {
+and Nb6}) 14. a3 {(We should mainly attack opponent's weaknesses. They are the
+easiest targets for our attack. Now white is going to transfer the knight to
+b6)} g5 $2 {(Black is making one more mistake)} 15. Bd6 Qd8 16. hxg5 Ng8 (16...
+hxg5 $2 17. Qxh8+ Bxh8 18. Rxh8+ Kd7 19. Rxd8+ $18) 17. g6 $1 {(This
+positional sacrifice keeps the black's king-side pieces out of game. In
+unbalanced positions we should mainly keep an initiative!)} fxg6 18. Bd3 Nge7
+19. Nge2 Kf7 20. Bc7 Qd7 21. Bb6 $6 (21. Na4 $1 {was very powerful}) 21... e5
+22. Bc5 Re8 {(The black's task is very hard, because he has to care about all
+the white's attacking possibilities)} 23. Bxe7 Qxe7 24. Nxd5 Qd8 {(Since Qd5
+is not a threat, white should keep attacking!)} 25. g5 $1 {(A positional
+sacrifice of a pawn is a pretty standard way to open lines and diagonals for
+your pieces. Such sacrifices are nearly always correct.)} Rh8 (25... hxg5 $2
+26. Bxg6+ Kxg6 27. Qh5+ Kf5 28. Qf7+ $18) 26. Bxg6+ Kf8 27. Nf6 {(we should go
+forward!)} Ke7 (27... Bxf6 28. gxf6 Qxf6 29. d5 {! a counterblow}) 28. Rxc6
+bxc6 29. Qxe5+ Kf8 {(All the black's pieces are on the last rank and white
+will win easily in all the variations)} 30. Qf4 Ke7 31. Nh7 Rxh7 32. Qf7+ Kd6
+33. Bxh7 Qxg5 34. Rg1 Be6 35. Rxg5 {White wins} 1-0
+
+[Event "ICC 25 10 u"]
+[Site "Internet Chess Club"]
+[Date "2011.03.13"]
+[Round "?"]
+[White "GM_Aronian(R)"]
+[Black "GM_Nakamura(R)"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[Annotator "Smirnov"]
+[PlyCount "106"]
+[EventDate "2011.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nc6 7. O-O e5 8. d5
+Nd4 {(we should go forward!)} 9. Nxd4 exd4 10. Nb5 Re8 {(a counterblow)} 11.
+Re1 Ng4 (11... a6 $5 {(we should calculate ALL the attacking moves, including
+the moves which look bad)} 12. Nxd4 Nxd5 {(a counterblow!)} 13. cxd5 Bxd4 $11)
+12. h3 a6 $1 {(one more counterblow!)} 13. hxg4 (13. Nxc7 Nxf2 $1 {(this game
+is dedicated to counterblows...)} 14. Kxf2 Qxc7 $40) 13... axb5 14. cxb5 Qh4 {
+(We should make attacking moves on an opponent's territory)} 15. g3 (15. f3 $2
+Be5 $40) 15... Qxg4 16. Qxg4 Bxg4 17. Bf4 {(White wants to play b6. What black
+should do? You need to realize your plan persistently and ignore an opponent
+as long as you can.)} Bf3 $1 18. b6 g5 {(You should always detect the
+attacking moves. It doesn't matter if you are under a threat or not)} 19. Bxg5
+Re5 {(This is the black's idea: Rh5-h1)} 20. Bh4 cxb6 {(Black's attacking
+moves solved the problem of a defense automatically!)} 21. Rac1 Rae8 22. Bb5 {
+(A counterblow!)} Rf8 23. Bd3 Bh6 24. Rc4 f5 25. Rxd4 fxe4 26. Rexe4 (26. Bxe4
+Rfe8) 26... Bxe4 27. Bxe4 Bc1 {(Black is attacking constantly)} 28. Rc4 Bxb2
+29. f3 Ba3 30. Rc7 Rf7 31. Rc8+ {(White avoids the exchange to save a
+counterplay)} Kg7 32. g4 Rxe4 33. fxe4 Rf4 34. Rc7+ Kg6 35. Kg2 Rxg4+ 36. Bg3
+Rxe4 37. Rxb7 Rb4 38. Kf3 Rb5 39. Bf2 Rxd5 40. Rxb6 Kf5 41. Rb3 Ra5 42. Be1 Ra4
+43. Bf2 Bc5 44. Bxc5 dxc5 45. Rb5 Rc4 46. a4 Rc3+ 47. Ke2 Ke4 48. a5 c4 49. Rh5
+Rc2+ 50. Kd1 Ra2 51. Rxh7 Rxa5 52. Kc2 c3 53. Rh4+ Kf3 {Game drawn} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2011.03.23"]
+[Round "?"]
+[White "GM_Kramnik(B)"]
+[Black "GM_Ivanchuk(B)"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Annotator "Smirnov"]
+[PlyCount "63"]
+[EventDate "2011.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 Bb4+ 5. Bd2 Be7 6. Bg2 c6 7. Qc2 O-O 8. O-O
+b6 9. Rd1 Nbd7 10. Bf4 Bb7 11. Ne5 Rc8 12. Nc3 Nh5 {(These are all the
+theoretical moves)} 13. Bc1 f5 {(This prevents white from playing e4 and
+therefore this makes it difficult for white to make something active)} 14. Qa4
+Nxe5 15. dxe5 Qc7 {(When you are under an attack, you should ask yourself "May
+I ignore the opponent's threat?")} 16. cxd5 (16. Qxa7 $2 Ra8 $19) 16... cxd5
+17. Qxa7 $5 {(If you MAY NOT do someting - you should try to do it anyway!)}
+Bc5 {(Black is preparing f4 and maybe b5 moves)} (17... Ra8 $2 18. Nxd5 {
+(counterblow)} exd5 19. Bxd5+ $18) 18. Bf3 $1 {(white also makes attacking
+moves all the time. It's definitely the right idea in complicated positions)}
+f4 $1 {(first we should try to ignore opponent's threats and realize your own
+attacking plan)} ({there was another counterblow also:} 18... b5 19. Nxb5 Qd7
+20. Qa4 f4 $13) 19. g4 Ng3 {(go forward)} 20. b4 {(a counterblow! Both players
+makes attacking moves always. Actually it's much simpler to find the right
+move when you think ONLY about the aggressive possibilities)} (20. hxg3 $2 fxg3
+21. Qa4 gxf2+ 22. Kg2 Qxe5 {and then Bd6}) 20... Ra8 {(a counterblow!)} 21.
+Nxd5 Nxe2+ {(counter-counterblow :) )} (21... exd5 $2 22. Bxd5+) 22. Kf1 Rxa7
+23. Nxc7 Bxf3 24. Nxe6 {(When you calculate only forcing moves, you simplify
+your task. In this case you need to consider only 1-2 possibilities)} Nc3 $2 {
+(this is a move back. This rarely can be a good idea)} (24... Bxb4 $1 {(we
+should make forcing moves on the opponent's territory)} 25. Nxf8 Bc3 {(when
+you have an obvious move, you should ask yourself "what else I can do?")} 26.
+Rb1 Kxf8 {and black is totally dominating}) 25. bxc5 {(counterblow)} Nxd1 26.
+cxb6 Ra4 27. Nxf8 Kxf8 28. Rb1 Rxa2 {(black realizes his plan and ignores the
+white's ideas)} 29. b7 Rxf2+ 30. Ke1 Re2+ 31. Kf1 Rf2+ 32. Ke1 {It's a very
+instructive game. Both players were realizing their OWN plans and IGNORED an
+opponent. Both players made forcing, attacking moves all the time. This is how
+you should pressure an opponent and create problems for him!} 1/2-1/2
+

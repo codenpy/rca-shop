@@ -1,0 +1,42 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.12.25"]
+[Round "?"]
+[White "King's Indian attack"]
+[Black "Theory"]
+[Result "*"]
+[ECO "A08"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "20"]
+[EventDate "2013.??.??"]
+
+{In the course "The Grandmaster's Openings Laboratory" you've learnt 1 good
+system for playing against King's Indian attack. Now I'd like to show you
+another good line.} 1. e4 c5 2. Nf3 e6 3. d3 {Quite a lot of players use this
+way of getting King's Indian attack. However, it gives you an additional
+possibility. Here it's important for you NOT to have a knight on f6.} d5 4.
+Nbd2 Nc6 5. g3 {The main White's plan in this opening is to get a space
+advantage on the king-side by pushing his pawn to e5. After that White can
+develop his king-side attack.} Bd6 {The point of Black's plan is to get a
+strong control over e5-square and not let White to move his pawn there. In
+this case White will not have any active plans.} 6. Bg2 Nge7 {Black develops
+his knight on e7 with dual purpose: 1) Black can play f6 when necessary 2)
+Black can play Ng6 is required. Both ideas prevent White from playing e5.} 7.
+O-O O-O 8. Re1 (8. Nh4 b5 $1 {This is the most energetic way for Black. White
+does not have any real threats, and so Black should not waste time on defense.
+Instead Black can start his own attack, which will reach the goal much faster.}
+9. f4 c4 {Although it seems like White is expanding on the king-side, in fact
+it's very hard for White to create any threats. Most of White's pieces are
+standing backward and can't support his attack. If necessary, Black always can
+play f6 (or f5) and block White's pawns. At the same time Black should not
+care too much about defense, his own attack is going quickly. Black is ready
+to open up a position and to attack White's weaknesses.}) 8... Qc7 {Once again
+Black doesn't give White a chance to play e5. At the same time Black develops
+his queen.} 9. Qe2 (9. c3 Bd7 10. Qe2 f6 {is a transposition into the main line
+}) 9... f6 {Now we can see why it was important for Black NOT to have his
+knight on f6.} 10. c3 Bd7 {Black realized 3 main opening tasks, he has a very
+strong control over the central squares. Black's position is already slightly
+better. Most importantly, it's difficult for White to compose any real plan. 
+I recommend that you observe the games from the database "2 Instructive games".
+There you'll see typical middlegame plans and ideas.} *
+

@@ -1,0 +1,210 @@
+[Event "FIDE World Cup"]
+[Site "Khanty-Mansiysk"]
+[Date "2005.11.27"]
+[Round "1.1"]
+[White "Ivanchuk, Vassily"]
+[Black "Sibriaev, Aleksandr"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2748"]
+[BlackElo "2264"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "61"]
+[EventDate "2005.11.27"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2006.04.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qc7 8. g4
+h6 9. h4 Nc6 10. Nxc6 bxc6 11. g5 hxg5 12. hxg5 Rxh1 13. Qxh1 Nd7 14. Bd2 g6
+15. O-O-O a5 16. Qh7 Be7 {Diagram #} 17. f5 $5 {White is clearly better at
+this position thanks to his space advantage, better development, and pressure
+against the f7-pawn. He has many good continuations, but he chooses the most
+aggressive one: to open lines immediately with f5.} (17. Qg8+ $5) (17. Be3 $5)
+(17. Be2 $5) 17... Nf8 (17... exf5 18. exf5 gxf5 19. g6 $18 {This variation
+shows how dangerous is to open lines on the kingside because White has a very
+strong attack. The enemy king is in the center of the board.}) 18. fxg6 $1 {
+This is an amazing move, isn't it? White sacrifices his queen temporarily in
+order to promote his pawn.} Nxg6 (18... Nxh7 19. gxh7 $18 {White is winning
+here because he can create a new queen.}) 19. Be2 Ba6 20. Bh5 $18 {Black's
+pieces are on the other side of the board and cannot defend neither g6 nor f7.}
+Ne5 21. Rh1 O-O-O 22. Bxf7 Nxf7 23. Qxf7 Bf8 24. Qxe6+ Kb8 25. g6 Bc8 26. Qb3+
+Qb7 27. Rh8 Qxb3 28. axb3 Be6 29. Ne2 Be7 30. Rxd8+ Bxd8 31. Nd4 1-0
+
+[Event "Amber-rapid 04th"]
+[Site "Monte Carlo"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1-0"]
+[ECO "B93"]
+[WhiteElo "2715"]
+[BlackElo "2580"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "103"]
+[EventDate "1995.03.??"]
+[EventType "rapid"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "18"]
+[Source "ChessBase"]
+[SourceDate "1995.07.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Be2 Nc6 8. Be3
+e5 9. Nb3 exf4 10. Bxf4 Be7 11. Qd2 O-O 12. O-O-O Ne5 13. Nd4 b5 14. Nd5 Nxd5
+15. exd5 Bf6 16. Bxe5 Bxe5 17. Nc6 Bf6 18. Rhf1 Re8 {Diagram #} 19. Rxf6 $1 {
+One of the best ways to open up the enemy kingside is to sacrifice the
+Exchange. White has open lines and very active pieces that compensate the
+material.} (19. Bh5 $5) (19. Kb1 $5) (19. c3 $5) 19... gxf6 20. Bd3 {The
+light-squared bishop is one of the most dangerous attacking pieces because it
+can coordinate with the queen and deliver checkmate on h7.} Qb6 21. Kb1 (21.
+Nd4 $1 {This was a clever tactical resource: keeping the enemy queen outside
+of the action.} Qxd4 22. Bxh7+ Kxh7 23. Qxd4 $18) 21... Qe3 22. Qb4 $44 {Of
+course, when attacking, it's important to keep the queens on the board. White
+has compensation here and he managed to win the game afterwards.} Bd7 23. Qxd6
+Bxc6 24. Qxc6 Qd2 25. Rc1 Re1 26. Qxa8+ Kg7 27. a3 Qxc1+ 28. Ka2 Qa1+ 29. Kb3
+Rb1 30. Kb4 Qxb2+ 31. Kc5 Qxa3+ 32. Kb6 Re1 33. Qc6 Qf8 34. Qc7 Re7 35. d6 Re6
+36. Kc5 b4 37. Bxa6 Re5+ 38. Kb6 Re6 39. Kc5 Re5+ 40. Kc6 Qa8+ 41. Kb6 Qd5 42.
+Bc4 Qd4+ 43. Kb7 Qe4+ 44. Ka6 Re6 45. Bxe6 Qxe6 46. Kb7 b3 47. cxb3 Qxb3+ 48.
+Kc8 Qe6+ 49. d7 h5 50. Qc5 Qg4 51. h3 Qe6 52. Kc7 1-0
+
+[Event "BRA-ch"]
+[Site "Fortaleza"]
+[Date "1951.??.??"]
+[Round "9"]
+[White "German, Eugenio Maciel"]
+[Black "De Oliveira, Washington"]
+[Result "1-0"]
+[ECO "B93"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "1951.??.??"]
+[EventRounds "17"]
+[EventCountry "BRA"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Be7 9. O-O O-O 10. Qd2 Nbd7 11. b3 exf4 12. Bb2 Qc5+ 13. Kh1 Ne5 14. Qxf4 Ng6
+15. Qd2 Bg4 16. Rae1 Ne5 17. Nd5 Nxd5 18. Nxe5 dxe5 19. exd5 f6 20. Re4 f5 21.
+Rc4 Qxd5 22. Re1 e4 {Diagram #} 23. Rcxe4 $5 {This is an interesting tactic to
+continue the game. Black's problem is that Qd5 and Kg8 are on the same
+diagonal. However, it was better to play Rc7.} (23. Rc7 $1 {The problem wasn't
+only the a2-g8 diagonal, but the weakness on g7. After the powerful Rc7, it
+wasn't obvious how Black could parry both threats: Bc4 and Rxe7.} Qd6 24. Bc4+
+Kh8 25. Qxd6 Bxd6 26. Bxg7#) 23... fxe4 24. Bc4 Qxc4 25. bxc4 $14 Bh4 (25...
+Rad8 $8) 26. Qd5+ $18 Kh8 27. Qxb7 1-0
+
+[Event "ITA-SUI"]
+[Site "Venice"]
+[Date "1951.??.??"]
+[Round "2"]
+[White "Paoli, Enrico"]
+[Black "Lob, Paulin"]
+[Result "1-0"]
+[ECO "B93"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "53"]
+[EventDate "1951.??.??"]
+[EventRounds "2"]
+[EventCountry "ITA"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+[WhiteTeam "Italy"]
+[BlackTeam "Switzerland"]
+[WhiteTeamCountry "ITA"]
+[BlackTeamCountry "SUI"]
+
+1. e4 c5 2. Ne2 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Be2 b5 8. a3
+Bb7 9. Bf3 e5 10. Nf5 Nc5 11. Qe2 Ne6 12. fxe5 dxe5 13. Be3 Rc8 14. O-O Rc4 15.
+Ng3 Qa8 16. a4 Qc8 17. axb5 axb5 18. Nd5 Bc5 19. Kh1 Bxe3 20. Qxe3 Rxc2 21. Nf5
+Qd8 {Diagram #} 22. Nxf6+ $5 {White has a lot of options here because Black's
+king is in the center of the board and the b7-bishop is unprotected. During
+the game, he played a very forcing continuation to exploit these issues, but
+other variations were available as well.} (22. Ra7 $1 Bxd5 23. exd5 Nxd5 24.
+Qxe5 $18) (22. Rad1 $5) 22... gxf6 23. Rfd1 Qc7 24. Nd6+ {This move not only
+stopped Black from castling, but it increased the pressure on the b7-bishop.
+Now, he is ready to continue the attack with Qh6.} Kf8 25. Ra7 Nd4 (25... Nd8
+26. Qh6+ Kg8 27. Ne8 $1 {White is threatening checkmate on g7 and Nxf6 as well.
+Black cannot stop these threats.}) 26. Qh6+ Kg8 27. Ne8 {This is the key move
+that helps White perform the checkmate.} 1-0
+
+[Event "Wch Blitz 7th"]
+[Site "Khanty-Mansiysk"]
+[Date "2013.06.10"]
+[Round "26"]
+[White "Smirin, Ilia"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[ECO "B93"]
+[WhiteElo "2663"]
+[BlackElo "2717"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "137"]
+[EventDate "2013.06.09"]
+[EventType "blitz"]
+[EventRounds "30"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2013.06.25"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Nbd7 9. O-O Be7 10. Kh1 O-O 11. fxe5 Nxe5 12. Nd4 Be6 13. Nf5 Bxf5 14. Rxf5 Qd7
+15. Bg5 Nfg4 16. Qd2 Bxg5 17. Qxg5 Qd8 18. Qd2 Qh4 19. h3 Nf6 20. Raf1 Ng6 {
+Diagram #} 21. Rxf6 $1 {This is the best move because it destroys Black's pawn
+structure. White's threats can come first by Nd5. Similarly, he eliminates a
+potential attacking piece; so, Black cannot just go to h5 or g4 with the
+f6-knight anymore.} (21. Qe3 $5) (21. Kg1 $5) (21. Bc4 $5) (21. Qd1 $5) 21...
+gxf6 22. Nd5 Kh8 23. Nxf6 {White has a bishop and a pawn for Black's rook.
+Similarly, the d6- and f7-pawns are weak. Black doesn't have any potential
+attack on the kingside and the long a1-h8 diagonal is very weak. White has
+some attacking possibilities.} Rac8 24. Qb4 {White cannot play Qc3, so he
+tries for another route; Qd4 is on the cards. Similarly, the d6- and b7-pawns
+are under attack. Another attacking idea is Rf5 and Rh5; it's not working
+right now, but it's a potential attacking maneuver.} (24. Rf5 Rc5 $8) (24. Kh2
+$5 Rc5 25. e5 Rxe5 26. Bxg6 fxg6 27. Qxd6 $18) 24... Nf4 25. Qxd6 Nxh3 26. Qh2
+$18 {White stopped any attacking possibilities and now, he is winning material.
+Smirin manages to win the game afterwards.} Nf2+ 27. Rxf2 Qxh2+ (27... Qxf2 28.
+Qxh7#) 28. Kxh2 Rfd8 29. e5 Rc5 30. Rf5 Kg7 31. Rg5+ Kf8 32. Nxh7+ Ke7 33. Nf6
+b5 34. a3 Rd4 35. Kg3 a5 36. Ng4 b4 37. axb4 Rxb4 38. b3 a4 39. bxa4 Rxa4 40.
+Ne3 Raa5 41. Kf4 Ra4+ 42. c4 Ra1 43. Nd5+ Kf8 44. Ke4 Rca5 45. Kd4 Rd1 46. Rg3
+Ra3 47. Rf3 Kg7 48. Nf4 Ra7 49. e6 Kg8 50. exf7+ Rxf7 51. Rg3+ Kf8 52. Nd5 Ra7
+53. Rf3+ Kg7 54. g4 Rg1 55. Ne3 Rd7+ 56. Kc3 Rc1+ 57. Kd2 Ra1 58. g5 Ra2+ 59.
+Nc2 Ra5 60. g6 Rg5 61. Kc3 Rg1 62. Ne3 Rc1+ 63. Kd2 Rg1 64. Nd5 Rg5 65. Kc3 Ra7
+66. Nf4 Re5 67. Rh3 Kf6 68. Rh7 Ra1 69. Rf7+ 1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1991.??.??"]
+[Round "6"]
+[White "Anand, Viswanathan"]
+[Black "Kasparov, Garry"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2650"]
+[BlackElo "2770"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "57"]
+[EventDate "1991.10.??"]
+[EventRounds "14"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "1992.02.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 Nbd7 8. O-O
+Qb6 9. Be3 Qxb2 10. Ndb5 axb5 11. Nxb5 Ra5 12. Rb1 Rxb5 13. Rxb2 Rxb2 14. Qa1
+Rb6 15. Bxb6 Nxb6 16. Qc3 Be7 17. Rb1 Nfd7 18. Qxg7 Bf6 19. Qh6 Ke7 20. Bb5 Rg8
+21. Rd1 e5 22. f5 Nc5 {Diagram #} 23. Rxd6 $1 {The position is very
+complicated because Kasparov sacrificed his queen for 3 minor pieces. The
+king's position appeared to be safe, but after this amazing sacrifice, the
+evaluation changed dramatically. Black cannot accept the sacrifice because the
+rook on g8 is unprotected, as you can see in the sub-variation.} (23. Qd2 $5) (
+23. Be2 $5) 23... Bg5 (23... Kxd6 24. Qxf6+ Kc7 25. Qxe5+ Kd8 26. Qf6+ Kc7 27.
+Qxf7+ Bd7 28. Qxg8 $18) 24. Qxh7 {Again, White's tactic is based on the
+unprotected rook on g8.} Nxe4 (24... Kxd6 25. Qxg8 $18) 25. Rxb6 {White has a
+winning position and he manages to win the game afterwards.} Rd8 26. Bd3 Be3+
+27. Kf1 Bxb6 28. Bxe4 Rd4 29. c3 1-0
+

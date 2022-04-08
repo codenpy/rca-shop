@@ -1,0 +1,186 @@
+[Event "Ch Russia"]
+[Site "Krasnoyarsk (Russia)"]
+[Date "2003.??.??"]
+[Round "5"]
+[White "Ulibin Mikhail (RUS)"]
+[Black "Malakhov Vladimir (RUS)"]
+[Result "0-1"]
+[WhiteElo "2586"]
+[BlackElo "2700"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "1k1r3r/pp2p3/2bp1p1p/6p1/1P2P3/5P2/P1P2BPP/RR4K1 b - - 0 22"]
+[PlyCount "155"]
+[EventDate "2003.??.??"]
+
+{Black has a little bit better position, because of the white's advanced pawn
+b4 (which creates weaknesses).   At the same time white has a well-protected
+position and it is very difficult for black to attack something really.   In
+such situations you should use "an endgame Master's style": play slowly,
+collect little advantages, make a lot of moves and create simple threats.} 
+22... Bb5 {(Black is preventing the move c4 and therefore is fixing the
+backward pawn c2)} 23. a4 Bc4 24. b5 Rc8 25. Rb4 Bf7 26. Rc1 Rc4 27. Rxc4 Bxc4
+28. Be3 Rc8 29. Kf2 Be6 30. a5 Rc4 31. b6 a6 32. h4 Bd7 33. hxg5 hxg5 34. Bd2
+Bc6 35. Ke3 Kc8 36. Kd3 Bb5 37. Ke3 Kd7 38. Be1 Ke6 39. Bd2 d5 40. exd5+ Kxd5
+41. Kf2 e5 42. Be3 Ke6 43. Bd2 Bc6 44. c3 g4 45. fxg4 Rxg4 46. g3 Bd5 47. Ra1
+Kf5 48. Be1 Bc6 49. Ra2 Ke6 {(Black doesn't hurry up. He tries different
+placing of the pieces. He tries to attack from different sides.)} 50. Ra1 Kd5
+51. Rd1+ Kc5 52. Rd8 Kb5 53. c4+ Kxc4 54. Rf8 Rg6 55. Bd2 Kd5 56. Be3 Ke6 57.
+Rc8 Be4 58. Bc5 Rh6 59. Ke3 Bd5 60. Rd8 Bh1 61. Rd6+ Kf5 62. Rd7 Rg6 63. Kf2
+Rg4 64. Rd1 Bc6 65. Rd6 Bb5 66. Be3 Ra4 67. Bd2 Ra2 68. Ke3 Ra4 69. Kf2 Kg6 70.
+Kf3 Kf7 71. Kf2 Ke7 72. Rd5 Bc6 73. Rd3 Ke6 74. Rd8 Ra2 75. Ke3 Rb2 76. Rd3 f5
+{(Please, pay attention on the fact that black makes pawn moves VERY carefully.
+A pawn stucture becomes very important in an endgame and that's why you should
+always think twice before moving a pawn.)} 77. Rd8 Rb3+ 78. Rd3 Rb1 79. Rc3 Rg1
+80. Kf2 Rg2+ 81. Ke1 Kd5 82. Rf3 Ke4 83. Re3+ Kd4 84. Ra3 Bb5 85. Be3+ Kd5 86.
+Bf2 Rh2 87. Ra2 Bd3 88. Ra4 Bc4 89. Ra3 e4 90. Be3 Bd3 91. Kd1 Kc4 92. Bd2 Rh1+
+93. Be1 Kd4 94. Ra4+ Bc4 95. Ra3 e3 96. Ra4 Rg1 97. Ra3 Bb5 98. Ra2 Ke4 99. Rh2
+Kd3 0-1
+
+[Event "It (open)"]
+[Site "Saint Vincent (Italy)"]
+[Date "2002.??.??"]
+[Round "4"]
+[White "Malakhov Vladimir (RUS)"]
+[Black "Komarov Dimitri (UKR)"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2560"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/2R4p/3n4/3b4/5BPP/r4PK1/1R2B3 w - - 0 31"]
+[PlyCount "130"]
+[EventDate "2002.??.??"]
+
+{Most of the players would agree to a draw here. An endgame expert would
+torment his opponent instead. It implies 2 main things:  1) make a lot of
+moves;  2) create simple threats.  Also it means that you should keep a
+tention and avoid unnecessary exchanges.    It does NOT mean that you should
+make something special to try to win the game by all means. Definitely not!   
+You should just play and torment your opponent.} 31. Kf1 Nf6 32. Rd1 Ra1 33.
+Rxa1 Bxa1 34. Be2 Nd5 35. Ba5 Ra8 36. Rc5 Ne7 37. Bd2 Rc8 38. Rb5 Bd4 39. Bd3
+Bc5 40. Ke2 Bd6 41. Be3 Rb8 42. Ra5 Bc7 43. Ra7 {(White avoids unnecessary
+exchanges and creates simple threats all the time)} Nd5 44. Bc4 Nxe3 45. Bxf7+
+Kxf7 46. Rxc7+ Kf6 47. fxe3 {(When you torment your opponent, there is a great
+chance that he will make a mistake)} Rb1 48. h4 h5 49. Rc5 g6 50. Kf3 Rf1+ 51.
+Ke4 Rg1 52. Rc6+ Kg7 53. Kf3 Rf1+ 54. Ke2 Ra1 55. Rd6 Rg1 56. Kf2 Ra1 57. Rb6
+Rc1 58. Rb2 Kf6 59. Kf3 Rf1+ 60. Rf2 Rg1 61. Kf4 Ra1 62. e4 Re1 63. Rf3 Re2 64.
+Ra3 Rf2+ 65. Ke3 Rb2 66. Ra6+ Ke5 67. Ra5+ Kf6 68. Kf3 Rb1 69. Ra6+ Kf7 70. Kf4
+Rg1 71. e5 Re1 72. Ra7+ Kf8 73. Ra3 Kg7 74. Re3 Rf1+ 75. Ke4 Rd1 76. Rd3 Ra1
+77. Kd5 Kf7 78. Rf3+ Ke7 79. Rc3 Ra5+ 80. Rc5 Ra3 81. Rc7+ Kd8 82. Rh7 Rxg3 83.
+Ke6 Rg4 84. Rh8+ Kc7 85. Kf6 Rf4+ 86. Kxg6 Rxh4 87. Kf7 Rf4+ 88. Ke7 h4 89. e6
+Kc6 90. Ke8 Ra4 91. Rh6 Rf4 92. e7+ Kc7 93. Rh8 Kd6 94. Kd8 Ra4 95. Rh6+ Kd5
+1-0
+
+[Event "It (cat.20)"]
+[Site "Linares (Spain)"]
+[Date "2005.03.09"]
+[Round "13"]
+[White "Vallejo Pons Francisco (ESP)"]
+[Black "Topalov Veselin (BUL)"]
+[Result "0-1"]
+[WhiteElo "2686"]
+[BlackElo "2757"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "r2r4/1b1nkpp1/p3p2p/1p6/3R4/1B2PN2/PP2KPPP/3R4 b - - 0 21"]
+[PlyCount "35"]
+[EventDate "2005.??.??"]
+
+{A majority of players would play Nf6 here, trade the the rooks and offer a
+draw.   However, you should not do that. Most players don't understand an
+endgame and don't know how to play here. (that's why they offer a draw).
+That's why you have a great chance to outplay your opponent. Torment your
+opponent and use ALL the chances for a win.} 21... Rac8 22. Ne1 a5 23. f3 Rc7
+24. e4 Rdc8 {(Black avoids unnecessary exchanges)} 25. a3 g5 26. Ke3 Ne5 27.
+R4d2 {(White doesn't know what to do! He makes pointless moves, while black
+improves his position gradually. Please pay attention on the white's rating -
+2686)} Ba6 28. Rd6 Ra7 29. R6d2 b4 30. axb4 Rb8 31. Ra1 Rxb4 32. Ra3 a4 33. Ba2
+Bc4 34. Bb1 Bf1 35. Ba2 Rab7 36. Nc2 Rxb2 37. Rxa4 Rc7 38. Kf2 Bb5 0-1
+
+[Event "?"]
+[Site "Alushta (Ukraina)"]
+[Date "2004.09.??"]
+[Round "6"]
+[White "Moroz Alexandr (UKR)"]
+[Black "Smirnov, Igor"]
+[Result "0-1"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "2krr3/1pp1b2p/pnn1R1pB/8/3p4/5N2/PPP2PPP/RN4K1 b - - 0 17"]
+[PlyCount "29"]
+[EventDate "2004.??.??"]
+
+17... Na4 {(In an endgame you should attack opponent's pawns. It is one of 2
+main endgame plans.)} 18. Nbd2 (18. b3 $2 Nc5 19. Re1 d3 20. cxd3 Bf6 $19)
+18... Nxb2 19. Nb3 d3 20. Bg7 Ba3 {(Black is exchanging the white's active
+rook (it is one of the ways to restrict an opponent's counterplay) and is
+fixing the a2 pawn.)} 21. Rxe8 Rxe8 22. cxd3 Nxd3 23. Kf1 Ncb4 24. Na5 b5 {(In
+an endgame your opponent has only a few pieces. If you limit their activity -
+an opponent's position will be totally passive.)} 25. Rb1 Nc1 {(now the rook
+is in the cage)} 26. Nb3 Nbxa2 27. Nxc1 Nxc1 28. Ne1 Rd8 29. Bc3 Rd1 {(white
+is totally paralized. You can see a power of a limitation in an endgame)} 30.
+g4 b4 31. Bg7 (31. Bxb4 Bxb4 32. Rxb4 Rxe1+ 33. Kxe1 Nd3+ 34. Ke2 Nxb4 $19)
+31... c5 0-1
+
+[Event "Match"]
+[Site "Habana (Cuba)"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Capablanca Jose Raul (CUB)"]
+[Black "Kostic Boris (USA)"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2550"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "4bk2/rn2bpp1/7p/1pp5/4B3/5N1P/1PP2PPB/4R1K1 w - - 0 28"]
+[PlyCount "117"]
+[EventDate "1919.??.??"]
+
+{White has an advantage, because of the black's advanced pawns on the
+quee-side. Also white has more harmonic position of his pieces.   At the same
+time the white's advantage is not very huge and black can keep a defense.
+Therfore white starts tormenting an opponent.} 28. Bb8 Ra8 29. Bg3 Ra7 30. Bb8
+Ra8 31. Bg3 {("make a lot of moves")} Ra7 32. Ne5 Nd8 33. b3 Ne6 34. Bd5 {
+("create simple threats")} Nd4 35. c3 Nf5 36. Bh2 b4 {(black is moving a pawn,
+which is a mistake for a defensive side.)} 37. g4 Nd6 38. c4 Ra3 39. Re3 Nc8
+40. Bb7 Na7 41. Bd5 f6 42. Nf3 Nc6 43. Nh4 Nd4 44. Nf5 Nxf5 45. gxf5 Bd7 46.
+Be4 Ra6 47. Rd3 Bc6 48. Bxc6 Rxc6 49. Kg2 Ra6 50. Kf3 Ra2 51. Bg3 Ke8 52. Bf4
+Ra6 53. Be3 Ra1 54. Kg4 Ra7 55. Kh5 Kf7 56. Rd5 Ra3 57. Rd7 Ke8 58. Rd3 Kf7 59.
+h4 Ra7 60. Rd5 Ra5 61. Rd7 Ke8 62. Rd3 Kf7 63. Rd5 Ra3 64. Bxc5 Bxc5 65. Rxc5
+Rxb3 66. Rc7+ Kf8 67. Kg6 Rf3 68. Rf7+ Ke8 69. Rxg7 Rf4 70. h5 Rxc4 71. Kxh6
+Kf8 72. Rb7 Rg4 73. f3 Rg5 74. Rxb4 Kf7 75. Rg4 Rxf5 76. f4 Ra5 77. Rg7+ Kf8
+78. Rb7 f5 79. Kg6 Ra6+ 80. Kxf5 Ra5+ 81. Kg4 Ra6 82. Kg5 Rc6 83. f5 Kg8 84. f6
+Rc8 85. Rg7+ Kf8 86. h6 1-0
+
+[Event "It (cat.15)"]
+[Site "Montreal (Canada)"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Spassky Boris V (FRA)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "0-1"]
+[WhiteElo "2640"]
+[BlackElo "2705"]
+[Annotator "Smirnov"]
+[SetUp "1"]
+[FEN "5rk1/1b1nr1bp/pp1p2p1/2P2p2/2P5/P1N2NPP/1P3RPK/1B3R2 b - - 0 22"]
+[PlyCount "41"]
+[EventDate "1979.??.??"]
+
+22... bxc5 {! (In an endgame you can totally restrict an opponent's
+counterplay. It is a very powerful idea, because it gives you a strategically
+winning position.)} (22... dxc5 {allows white to get some counterplay using
+the "d" file} 23. Rd1) 23. Rd1 Bxc3 {(White was going to place the knight on
+d5. You should exchange opponent's active pieces and leave him passive pieces.)
+} 24. bxc3 Rf6 {!} 25. Rfd2 Re3 {!} 26. Ng1 (26. Rxd6 Rxd6 27. Rxd6 Bxf3 {(an
+exchange of an active piece)} 28. gxf3 Ne5 29. f4 Nf3+ 30. Kg2 Rxc3 31. Rd5 Nd4
+32. Rxc5 Rb3 33. Rd5 Rb2+ $18) 26... Kf7 {!} 27. Rxd6 Rxd6 28. Rxd6 Ke7 29. Rd3
+Re1 30. Ba2 Rc1 {!} 31. Nf3 {(This knight is the only active piece in the
+white's position. That's why black exchanges it)} (31. Bb3 Ne5 32. Re3 Kf6 $17)
+31... Bxf3 {!} 32. Rxf3 Ne5 {(Now white has only passive pieces and the
+black's position is strategically winning - he can do whatever he wants.)} 33.
+Re3 Kf6 34. Bb3 a5 35. Ba4 Nxc4 36. Re8 Rxc3 37. Rc8 Ne3 38. Bb5 c4 39. Kg1 Rc2
+40. Bc6 c3 41. Bf3 g5 42. g4 f4 0-1
+

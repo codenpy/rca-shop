@@ -1,0 +1,290 @@
+[Event "Nice ol (Men) qual-A"]
+[Site "Nice"]
+[Date "1974.06.14"]
+[Round "8"]
+[White "Williams, Arthur Howard"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "E31"]
+[WhiteElo "2405"]
+[BlackElo "2700"]
+[Annotator "RCA"]
+[PlyCount "60"]
+[EventDate "1974.06.07"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 (4... c5 {Is the move order that I
+recommend. But more often than not, it leads to the same position.}) 5. Bh4 c5
+6. d5 d6 (6... Bxc3+ {Is more accurate.}) 7. e3 (7. Rc1 {White could have
+avoided doubled pawns with this move, but falls behind in development.} O-O 8.
+a3 Bxc3+ 9. Rxc3 g5 10. Bg3 Ne4 $17) 7... Bxc3+ 8. bxc3 e5 9. Bd3 e4 $1 {I
+like this concrete move. Black snatches space in the centre of the board and
+gets an outpost on the e5 square for his knight from d7.} 10. Bc2 (10. Bxe4 $2
+g5 $19) (10. Bxf6 Qxf6 11. Bxe4 Qxc3+ 12. Ke2 Qxc4+ $17) 10... g5 {Black
+should not be afraid to make this move in this variation. His king is, after
+all, not going to 0-0. And hence this move should be played without any fear.
+It helps to restrict the dark-squared bishop.} 11. Bg3 Qe7 {To defend the d6
+pawn so that Nbd7 is possible.} 12. h4 Rg8 {Avoiding any confrontations along
+the 'h' file.} 13. hxg5 hxg5 14. Ne2 Nbd7 15. Qb1 {This move keeps up the
+pressure on the e4 pawn and prevents Black from playing Ne5. But it's just a
+preventive move. On its own, the move Qb1 is not so useful! Now Karpov
+executes one of the most important manoeuvres in this variation.} Kd8 $1 {Are
+we out of our mind?? Well not really! This move helps us to safeguard the king
+on the c7 square. It is one of the safest squares in this position. From c7,
+the only way to attack is on the 'b' file. When White doubles on that file,
+Black plays b6 and meets a4 with a5. True, the b6 pawn is weak - but Nd7
+supports it and the light square c6 will be defended by the bishop. In short,
+the king will be totally safe on c7, giving Black the opportunity to expand on
+the king side with his pawns} 16. a4 a5 $1 {It makes sense to prevent a5 from
+White and also to render the light-squared bishop even more passive than
+before!} 17. Ra2 Kc7 {The king is well placed on the c7 square.} 18. Rh6 Ra6 $5
+{Karpov wants to activate his rook from the 'b' file. Though this was not
+obligatory, this move is pretty good as it also gives protection to the d6
+square.} 19. Qb5 Kb8 {The king now goes safely to a7, then maybe move the d7
+knight and push the queen away with Bd7.} 20. Rb2 Ka7 (20... Rb6 {Was also
+possible to win some material.} 21. Qxd7 $5 Bxd7 22. Rxb6 Ne8 23. Rhxd6 Ka7 {
+And Black is better - but Karpov never likes to give an opponent even one bit
+of counterplay.}) 21. Qb3 (21. Kd2 Ng4 22. Rh1 Nb6 {With the idea of Bd7 to
+give Black a good position.}) 21... Ng4 {Now Black starts pushing White back.}
+22. Rh1 f5 $1 {Black has achieved the maximum in this position. He has pushed
+White back and now his next aim is to make the f5-f4 break possible. Once that
+is achieved, Black will have a winning position. Look how Black's king is so
+safe.} 23. Kd1 Rb6 24. Qa2 Rxb2 25. Qxb2 b6 {The dark squares are controlled
+by the pawns and the light square by the bishop. Besides, the true weakness of
+the c4 square is shown now when the bishop goes to a6..} 26. Bb3 Ba6 27. Nc1
+Nde5 {C4 is super weak now.} 28. Qe2 Ng6 {The knight relocates to make the f4
+break possible.} 29. Kd2 Nf6 30. Qd1 f4 $19 {Total demolition by Karpov. His
+play can be described as follows: 1. gain space in the centre with e5-e4; 2.
+reduce the scope of the dark-squared bishop with h6-g5; 3. safeguard the king
+with Kd8-c7; make some preparatory moves on the queen side and safeguard the
+position on that side of the board; 4. and finally, switch to the king side to
+launch a decisive pawn storm.} 0-1
+
+[Event "Geneve"]
+[Site "Geneve"]
+[Date "1977.??.??"]
+[Round "2"]
+[White "Timman, Jan H"]
+[Black "Dzindzichashvili, Roman"]
+[Result "0-1"]
+[ECO "E31"]
+[WhiteElo "2590"]
+[BlackElo "2535"]
+[Annotator "RCA"]
+[PlyCount "128"]
+[EventDate "1977.04.??"]
+[EventRounds "13"]
+[EventCountry "SUI"]
+[EventCategory "12"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8. e3
+e5 9. f3 Bf5 $1 {I like this move very much! Its logic is very simple: White
+would like to play Bd3 without allowing the move e4 from Black - hence he
+played f3. But Black now develops his bishop on that diagonal, to d3. He is
+ready to exchange the bishops, after which the c4 pawn will become a potential
+weakness.} 10. Qb3 (10. e4 Bc8 {The bishop returns back. But look at the
+damage it has caused - the f1 bishop is totally passive now!}) 10... b6 11. h3
+{Somehow I am not able to explain this move made by Timman. Why did he have to
+play h3? If he wanted to play g4, he could already have done it.} Nbd7 12. g4
+Bh7 {Black is well developed.} 13. Ne2 g5 {As is usual in this variation, this
+move is nothing new.} 14. Bf2 h5 (14... e4 {Would be strongly met with...} 15.
+f4 $1) 15. h4 $5 (15. e4 {Would have been an interesting move. Now White's
+idea is to play Be3 and attack the g5 pawn.} h4 16. Be3 Ng8 $1 {Black now
+plans Nf8-g6; the position is quite equal.}) 15... e4 $6 (15... hxg4 $1 16.
+hxg5 gxf3 17. Ng3 Ng4 18. Bd3 Qxg5 19. Bxh7 Nxe3 $17 {Would have demolished
+White's position!}) 16. hxg5 exf3 17. gxf6 fxe2 (17... hxg4 18. Nf4 Qxf6 {
+Gives Black sufficient compensation.}) 18. Bxe2 Qxf6 19. Rxh5 Bg6 20. Bh4 (20.
+Rxh8+ Qxh8 {Gives Black a good position.}) 20... Qg7 21. Kd2 Bxh5 22. gxh5 Qg2
+{The main point in this position is that the 'h' pawn, with the two bishops,
+gives Black enough compensation. But Black will sacrifice his exchange back
+and then positionally White will be worse. This is the problem with White's
+position in general: even if he wins material, he is usually left with a poor
+pawn structure.} 23. Rf1 Rxh5 $1 24. Rf2 Qh3 25. Bxh5 Qxh4 26. Rf5 (26. Bxf7+
+Ke7 $19) 26... Ne5 {Black has a strong knight against White's not so strong
+bishop. In the game, Roman showed good technique and was able to overwhelm
+Timman in the endgame.} 27. Be2 O-O-O 28. a4 Rg8 29. Qb5 Qe7 30. Rh5 Qd7 31.
+Qa6+ Qb7 32. Qb5 a6 33. Qb1 Qc7 34. Rh6 Kb7 35. Qf5 Rg6 36. Rh7 Qe7 37. Qh3 Rg8
+38. Kc2 Kc7 39. Bh5 Qf6 40. Kb3 Rh8 41. Rxh8 Qxh8 42. Qf5 Qg7 43. Qe4 Qg5 44.
+Bd1 Qg6 45. Qc2 Qxc2+ 46. Bxc2 Ng4 47. e4 Ne5 48. Bd1 a5 49. Be2 Kd7 50. Kc2
+Ke7 51. Kd2 Kf6 52. Ke3 Kg5 53. Bd1 Nxc4+ 54. Kf3 f5 55. exf5 Kxf5 56. Ke2 Kf4
+57. Bb3 Nb2 58. Kd2 c4 59. Ba2 Ke4 60. Kc2 Nxa4 61. Bxc4 Nc5 62. Kb2 Nd3+ 63.
+Ka3 Ne5 64. Ba2 b5 {Dzindzichashivili's idea of Bf5 against f3 is worth
+keeping in mind. It puts White in a quandary whether to play e4 or Bd3, or
+play like Timman did - which is very risky!} 0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.06.03"]
+[Round "7"]
+[White "Jussupow, Artur"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "E31"]
+[WhiteElo "2660"]
+[BlackElo "2655"]
+[Annotator "RCA"]
+[PlyCount "120"]
+[EventDate "1995.05.??"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "17"]
+[SourceDate "2013.05.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 d6 6. e3 h6 7. Bh4 Bxc3+ 8. bxc3
+e5 9. Qc2 {This is quite an interesting move. It stops 9...Bf5 which Black
+would play in case of 9.f3. So we have to come up with a new plan.} Qe7 10. Nf3
+(10. Bd3 $6 g5 $1 11. Bg3 e4 12. Be2 {White has just lost a lot of time.})
+10... Kd8 $1 {Nigel Short shows that Karpov's idea of parking the king on c7
+can be executed even before developing the queen side pieces.} 11. Nd2 Kc7 {As
+always, the king is extremely safe here.} 12. Bd3 g5 13. Bg3 Nh5 {Not that we
+would like to take the bishop on g3. We may or we may not: we just keep a
+watch on it. Maybe some day we could also plan Ng7 and f5.} 14. O-O-O $5 {I
+have a belief that Black is simply better in this position. This is due to the
+fact that he had given up his bishop on c3. So we can say that the
+dark-squared bishop is White's prized possession for the queen side weaknesses
+that he has incurred. But that bishop is causing not even a little bit of harm
+to Black. Hence the pawn weaknesses remain, which will soon be counted in the
+endgame.} Nd7 15. Rde1 {Angling to break open the position with f4.} Ndf6 16.
+f3 {White would like to preserve his prized possession - the dark-squared
+bishop. But Black is having none of it: he takes the bishop off the board.} (
+16. f4 {Is not really possible now as Black plays...} Nxg3 $1 {This is what I
+meant when I said that the knight on h5 keeps an eye on the bishop on g3 and
+takes it at the most appropriate moment.} 17. hxg3 Bg4 $15 {White is saddled
+with pawn weaknesses and Black has his development in order. In short,
+advantage Black.}) 16... Nxg3 17. hxg3 Bd7 {Completing his development. The
+idea now is to play on the king side with the pawns on the 'h' and 'g' files.}
+18. Rh2 h5 19. Kb1 g4 {White doesn't have any active plans and Black is
+clearly pushing.} 20. Ka1 Rhg8 21. f4 {White had to make this move to protect
+his g3 weakness.} h4 $1 {A highly unexpected move! The point is that the 'e'
+pawn is pinned, as the rook on e1 is unprotected and the g3 pawn will support
+the rook on h4; so after Rh4 ef4, White will be in a situation as to how to
+recapture f4!} 22. Rxh4 exf4 23. gxf4 Nxd5 $1 {Black wins back the pawn and
+now exposes White's structure even further.} 24. Rhh1 Nb6 {The c4 pawn is now
+easier to attack with Be6.} 25. e4 Rh8 26. Rhf1 Rh2 27. Nb3 Rah8 28. e5 Bc6 29.
+Be4 Nxc4 30. Bxc6 bxc6 31. exd6+ Qxd6 32. Qf5 Qd5 33. Re7+ Kb6 34. Qxd5 cxd5
+35. Rxf7 Rh1 36. Rb1 Rxb1+ 37. Kxb1 Rh1+ 38. Kc2 Rh2 39. Rf6+ Kc7 40. Nxc5
+Rxg2+ 41. Kd1 g3 42. Rg6 Rd2+ 43. Ke1 g2 44. Ne6+ Kd7 45. Nd4 Rxa2 46. Ne2 a5
+47. Rxg2 a4 48. Rg7+ Kd6 49. Rg6+ Ke7 50. Ra6 a3 51. Nd4 Rb2 52. Nc6+ Kf7 53.
+Nb4 d4 54. Rc6 Nd2 55. Ra6 Nb1 56. Nd5 Nxc3 57. Ra7+ Ke6 58. Nc7+ Kd6 59. Ne8+
+Kc6 60. Ra6+ Kb7 {To summarize this game, the idea of Kd8-c7 at the earliest
+possible moment looks quite attractive to me. To keep pressure on g3 bishop
+with knight on h5 is very irritating for White and then to exchange it at the
+right moment and push the king side pawns is strategically very difficult to
+counter. All in all, I would say it's quite a joy to see 4.Bg5 on the board!}
+0-1
+
+[Event "pune rating"]
+[Site "Mumbai"]
+[Date "2007.05.11"]
+[Round "?"]
+[White "Chandrashekhar, Gokhale"]
+[Black "Sagar, Shah"]
+[Result "1/2-1/2"]
+[ECO "E31"]
+[WhiteElo "2354"]
+[BlackElo "2146"]
+[Annotator "RCA"]
+[PlyCount "64"]
+[EventDate "2007.??.??"]
+[SourceDate "2013.05.15"]
+
+{This was played six years ago when I was a relatively inexperienced player. I
+was facing a strong Indian IM, C.S. Gokhale, who is known to play the
+Leningrad system against the Nimzo. I looked at the Jussupow-Short game and
+was thoroughly impressed by Short's play, and decided to follow him. And I
+must say the game went off excellently for me!} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+4. Bg5 c5 5. d5 h6 6. Bh4 Bxc3+ 7. bxc3 d6 8. e3 e5 9. Qc2 Qe7 10. Nf3 Kd8 $1 {
+I decided to follow the footsteps of Nigel Short!} 11. Nd2 Kc7 12. Bd3 g5 13.
+Bg3 Nh5 {Keeping an eye on the dark-squared bishop.} 14. O-O {Unlike Yusupov,
+Gokhale decides to castle short, but I think this is worse as he will come
+under attack now from my advanced king side pawns.} Nd7 15. Rae1 {Planning for
+f4, which really is not possible as Black will just take on g3.} Rg8 $1 {
+Putting pressure on the 'g' file so that f4 is not possible.} (15... Ndf6 {Was
+another way to play; f4 really is not on the cards.} 16. f4 Nxg3 17. hxg3 Bg4
+$15) 16. a4 Ndf6 (16... a5 {Could it have been more prudent to follow Karpov's
+strategy and to fix this pawn here? Well, maybe it would have been, for
+example...} 17. Rb1 Ndf6 18. Qb3 Ra6 19. Bf5 Kb8 20. Bxc8 Rxc8 {I don't see
+much inherently wrong with Black's position. A word of caution: computers can
+hardly understand this position as they are unable to come up with a plan. You
+can play for a few moves and see how the computer's evaluation loses faith in
+White's position.}) 17. a5 Ng4 {A move just to provoke some reaction from
+White. On its own, this move is not threatening anything. But maybe we can
+raise the threat of f5 if the queen moves somewhere.} (17... Bd7 {Was another
+way to continue.}) 18. Qb1 Bd7 19. f3 (19. h3 {Could have been a more
+interesting choice, because now taking on g3 is bad as it opens up the 'f'
+file.} Ngf6 {But now Black can open up the king side position using advanced
+h3-pawn.} (19... Nxg3 20. fxg3 $16) 20. Bh2 g4 $40) 19... Nxg3 20. hxg3 Nf6 21.
+Kf2 h5 {Just like Short, I start my king side play. Black is definitely
+enjoying the more pleasant position.} 22. Rh1 Rh8 (22... g4 {Would have been a
+natural way to continue. I think White is under quite a lot of pressure in
+this position.}) 23. Bf5 Rag8 24. Rh2 g4 25. Reh1 Rg5 26. Bxd7 Qxd7 27. Rh4
+Rhg8 (27... gxf3 28. gxf3 Rhg8 {Would have given Black a strong attack.}) 28.
+f4 {Now White closes off the king side and is able to reach a safe position.}
+exf4 29. exf4 R5g6 30. Re1 Re8 31. Rxe8 Qxe8 32. Qf5 Qd7 {Here, before making
+the move, he offered a draw which I accepted! This position is equal, though.
+What I would like to take out of this is that my opponent - an experienced IM
+- had been playing the Leningrad system for years. I, on the other hand,
+prepared against it for a few hours and was able to hold him to a relatively
+easy draw! It just shows that Black really is fine in this position.} 1/2-1/2
+
+[Event "URS-ch24"]
+[Site "Moscow"]
+[Date "1957.??.??"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[ECO "E31"]
+[Annotator "RCA"]
+[PlyCount "82"]
+[EventDate "1957.01.24"]
+[EventRounds "21"]
+[EventCountry "URS"]
+[SourceDate "2013.05.15"]
+
+{This game might not help us much from the standpoint of the opening theory,
+but it is one of classics in this 4.Bg5 Leningrad system. It would be a good
+idea to know this classical game! The way in which Spassky saves this game is
+a sheer tribute to his talent, calculating ability and creativity.} 1. d4 Nf6
+2. c4 e6 3. Nc3 Bb4 4. Bg5 {Though this opening is not very popular, Spassky
+played 29 games with it and won 17, drew 11 and lost just one - against the
+great Mikhail Tal.} h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8. Qc2 d6 9. e3 Qe7 10.
+Nf3 Nbd7 (10... Kd8 {Our recommendation is to go to c7 with the king.}) 11. Nd2
+e4 $1 {Here Kasparov remarks in his book "My Great Predecessors": Black's
+solid bulwarks in the centre deprive the position of the dynamism which the
+White bishops so need and restrict any possible activity by White to
+diversions on the 'h' and 'b' files. Nowadays the soundness of Black's set up
+is known even to young players.} 12. O-O-O O-O $5 {With this interesting move,
+the battle flares up.} (12... g5 13. Bg3 Nf8 {With the idea of Ng6 would have
+been more normal.}) 13. g4 $1 g5 $1 {Black has a strong centre and hence must
+not fear the play on the flank, even if his king is located on that side of
+the board.} 14. Bg3 Ne5 15. h3 (15. Nxe4 $2 Nxe4 16. Qxe4 Bxg4 {With Bf3
+coming up.}) 15... Ng6 {Black has stopped White's activity with h4, as then
+the g4 pawn would hang.} 16. Be2 Re8 17. Rdg1 Bd7 18. h4 Rab8 {Kholmov felt
+that a6 was better here.} (18... Bxg4 $2 19. Bxg4 Nxg4 20. hxg5 hxg5 21. Bxd6
+$16) 19. hxg5 hxg5 20. Rh5 $1 Nxh5 21. gxh5 Nf8 {We might think - why had
+White given up the exchange? Is it because he wanted to attack on the king
+side? Well, it seems highly improbable with the strong pawn on e4. Spassky
+shows why he did what he did.} 22. Nxe4 $3 Qxe4 23. Qxe4 Rxe4 24. Bxd6 {
+Winning the second pawn for the rook.} Rbe8 (24... Rc8 25. Rxg5+ {Third pawn.}
+Kh8 (25... Kh7 26. Bd3) 26. Be5+ Rxe5 27. Rxe5 Re8 28. Rxe8 Bxe8 29. e4 Nd7 30.
+f4 f6 {But it is not possible for Black to win this position.}) 25. Rxg5+ {
+Winning the third pawn.} Kh8 26. Bxc5 {And the fourth! White now has four
+pawns for the rook and two strong bishops. What imaginative play by the former
+world champion!} f6 27. Rg3 b6 28. Bd4 Nh7 29. Kd2 Rg8 30. Rg6 $1 {White does
+not mind exchanging pieces.} Be8 31. Bd3 (31. Bxf6+ Nxf6 32. Rxf6 Kg7 $13) (31.
+Rxg8+ Kxg8 32. f4 $14 {Gives White quite a pleasant position.}) 31... Bxg6 32.
+hxg6 Rxd4 33. cxd4 (33. exd4 {It's funny, but maybe this was stronger.} Nf8 34.
+c5 bxc5 35. dxc5 Nd7 36. c6 Nb6 37. c4 $1 $18 {Unlike in the game, we would
+have this 'c' pawn coming down the board pushing the knight away from b6. Of
+course, while taking on d4 it's difficult to see so far ahead.}) 33... Nf8 34.
+c5 bxc5 35. dxc5 Nd7 36. c6 Nb6 {Now the knight is pretty solid on b6 and a
+draw should be the logical outcome of the game.} 37. e4 Kg7 38. Ba6 Kxg6 39. a4
+Kf7 40. a5 Na8 $1 (40... Nc8 $6 41. f4) 41. Bc4 Rd8 {A draw was agreed here.
+Some analysis can show that Black cannot break White's pawns and White cannot
+advance them. Hence the game is a draw! Wonderful, imaginative game by the
+great Spassky!} 1/2-1/2
+

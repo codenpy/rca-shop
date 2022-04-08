@@ -1,0 +1,40 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sicilian Defense"]
+[Black "Grand Prix attack"]
+[Result "*"]
+[ECO "B21"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "20"]
+
+{Grand Prix attack became pretty popular over the last few years. Actually it
+demonstrates that most players don't have a good chess understanding :) 
+(because it breaks base opening principles). Nevertheless, you should be ready
+to face it.} 1. e4 c5 2. Nc3 e6 3. f4 d5 4. Nf3 dxe4 5. Nxe4 {Which move
+should Black play here? We should develop knights before bishops. Thus there
+are 2 good options: Nc6 and Nf6.} Nc6 ({In the course "The GM's Openings
+Laboratory" I've provided this line for Black. It worked fine for years, but
+recently White players found a good reply} 5... Be7 6. d4 {after} cxd4 7. Qxd4
+Qxd4 8. Nxd4 {it leads to a slightly better endgame for White. It's not bad,
+but you can get more than that. That's why now I'm recommending you another
+move instead of 5...Be7.}) (5... Nf6 $5 6. Nxf6+ (6. Bb5+ Bd7 7. Bxd7+ Nbxd7
+$142 {leads to a completely equal position}) (6. Nf2 {is very passive and
+Black can continue his usual development without any problems}) 6... Qxf6 {now
+the f4-pawn is attacked} 7. g3 Nc6 8. Bg2 Bd6 {with an equal position}) 6. Bb5
+{White may play another move instead of Bb5, but Black's moves will remain the
+same: Be7, Nf6, 00 etc.} Bd7 7. Qe2 (7. O-O Be7 8. d3 Nf6 {and 0-0 with an
+equal game}) 7... Be7 {Immediate Nf6 is good, but Be7 keeps it simple for you.}
+({If you want to prevent sharp variations of the main line (although they are
+good for Black!), you may play} 7... Nh6 {The knight will be placed on f5, and
+later on can occupy d4-square. As usual, next Black's moves are Be7 and
+castling.}) 8. f5 {The only way to try creating problems for Black} Nf6 $1 (
+8... exf5 {is good as well. When you have a good development, you should not
+afraid of opponent's premature attacking attempts.} 9. Nxc5 a6 10. Nxd7 axb5
+11. Nde5 Nf6 12. Qxb5 O-O {Black is ahead in development and has the
+initiative position.}) 9. fxe6 Bxe6 {Black is ahead in development, which
+guarantees his secure position. White can make a few separate attacking moves
+but nothing more than that.} 10. Ne5 Qc7 {Black is ready to castle. After that
+he'll start an attack of White's undeveloped position.} *
+

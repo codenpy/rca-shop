@@ -1,0 +1,87 @@
+[Event "?"]
+[Site "Edmonton"]
+[Date "2013.09.20"]
+[Round "?"]
+[White "English opening"]
+[Black "base theory"]
+[Result "*"]
+[ECO "A18"]
+[Annotator "RCA"]
+[PlyCount "22"]
+[EventDate "2012.06.27"]
+[SourceDate "2013.08.30"]
+
+{This provides you with an overview as to how to play against the English
+Opening. At the same time, we also cover a lot of lines which can begin with 1.
+Nf3. So overall you get a repertoire for 1.Nf3 as well as 1.c4. The Catalan
+lines covered in this section from the 1.c4 move order show that even 1.d4 is
+touched upon in our repertoire. The main coverage is on meeting the three
+openings: 1. English Catalan (c4 Nf6 Nf3 e6 g3 d5); 2. Anti Nimzo-Indian (c4
+Nf6 Nf3 e6 Nc3 Bb4); 3. Mikenas Flohr Variation (c4 Nf6 Nc3 e6 e4 d5).} 1. c4
+Nf6 {Now White has three main choices: 2.Nc3, 2.Nf3 and 2.g3. Usually after 2.
+g3, White follows up with 3.Nf3, so they often transpose.} 2. Nf3 (2. Nc3 e6 3.
+e4 {The Mikenas Flohr Variation.} (3. d4 Bb4 {Leads to the Nimzo-Indian, which
+we have covered in depth.}) (3. Nf3 Bb4 {Leads to the Anti Nimzo variations
+which we have considered from the move order 2.Nf3 e6 3.Nc3 Bb4.}) 3... d5 {
+Now White has two options. to take on d5 or the main line of pushing e5.} 4. e5
+(4. cxd5 exd5 5. e5 (5. exd5 Nxd5 6. Bc4 Nb6 {Followed by Nc6 Bd6 and 0-0, and
+Black has an excellent position.}) 5... Ne4 {Following the principle of
+maximum activity.} 6. Nxe4 (6. Nf3 Bf5 $1 7. d4 Bb4 {And Black develops
+excellent play. It's important to remember that 6.Nf3 must be met with Bf5.}) (
+6. d4 Bb4 7. Qa4+ Nc6 8. Bb5 Bd7 {And Black has very good play.}) 6... dxe4 7.
+Qa4+ Nc6 8. Qxe4 Qd4 {Gives Black ample compensation for the missing pawn.} 9.
+Qxd4 Nxd4 10. Bd3 Be6 11. Ne2 O-O-O $44) 4... d4 $1 {The counterattacking move.
+} 5. exf6 dxc3 6. bxc3 (6. fxg7 cxd2+ 7. Bxd2 (7. Qxd2 Qxd2+ 8. Bxd2 Bxg7 $11 {
+Black has absolutely no problems.}) 7... Bxg7 8. Qc2 Nc6 9. Bd3 Bd7 10. O-O-O
+Qe7 11. a3 O-O-O {With a very interesting position.}) 6... Qxf6 7. d4 (7. Nf3 {
+The hypermodern way to play this line doesn't guarantee White any advantage.}
+e5 8. Bd3 Bg4 9. Be4 Nd7 $1 {This accurate move is important.} 10. Bxb7 Rb8 11.
+Bd5 c6 12. Be4 Nc5 13. Qe2 Nxe4 14. Qxe4 Bxf3 15. Qxf3 Qxf3 16. gxf3 {We must
+be well versed with this endgame, as is analysed in our illustrative game.})
+7... e5 $1 8. Nf3 Nc6 $1 {We have some fresh analysis in this line and,
+according to it, Black is doing really well. This move is stronger than the
+more popular move ed4. But it is razor sharp. So I urge the readers to be very
+well versed in the subsequent analysis.}) 2... e6 3. g3 {One of the most
+complicated systems to face as Black. But simple and solid play assures Black
+of a good position.} (3. Nc3 Bb4 {There are mainly three moves for White in
+this position: Qc2 - which is by far the main move; g4!? - which is the most
+aggressive option at White's disposal; and g3 - which leads to quite
+interesting positions as we immediately take on c3.} 4. Qc2 {The main line.
+And now we don't give White the chance to win our b4 bishop and play...} (4. g4
+O-O $1 {Level-headed play; main idea is to play in the centre.} 5. g5 Ne8 6.
+Qc2 (6. Rg1 b6) 6... b6 {Black's main idea will include breaking in the centre
+with d5 and c5, rendering White's g4-g5 pointless.}) (4. g3 Bxc3 $5 {To g3 you
+must remember to take on c3 and then counter White's fianchetto with our own
+fianchetto.} 5. bxc3 b6 6. Bg2 Bb7 7. O-O O-O 8. d3 {And now you must play the
+active move...} d5 $1) 4... c5 $1 5. a3 Ba5 6. g3 (6. e3 O-O 7. Be2 d5 $1 {
+Gives Black a fully satisfactory position. A point to note here is to play
+this before 7...Nc6. The reason is explained in the theory file.}) 6... Nc6 7.
+Bg2 O-O 8. O-O d6 {Setting up the pawns with d6 and e5.} 9. d3 h6 $1 {Stopping
+Bg5.} 10. e3 e5 11. Nd2 Bxc3 12. Qxc3 a5 {With a very nice position for Black.}
+) (3. d4 Bb4+ {Leads to the Bogo-Indian variations.}) 3... d5 $1 (3... a6 {Is
+a sideline which you can play when you are trying to outplay a weaker opponent.
+}) 4. Bg2 (4. d4 {Provides us with the additional option of giving a check on
+b4 and coming back to e7, so that later we avoid all the lines with Nbd2.} Bb4+
+5. Bd2 Be7 {All the lines with Nbd2 and e4 are avoided, as well as the b3 and
+Bb2 lines.}) 4... Be7 5. O-O O-O 6. d4 {The Catalan is the most sophisticated
+opening. We need to be very much aware of all the move order tricks, so that
+we can play against this opening confidently with Black.} (6. b3 {In this
+double fianchetto, our mantra should be simple: play the most natural moves.}
+c5 $1 7. Bb2 Nc6 8. e3 (8. cxd5 Nxd5 $5 9. Nc3 Bf6 {Also helps Black to
+equalise with ease.}) 8... b6 9. Nc3 Ba6 $1 10. d3 Qd7 {We put our rooks on d8
+and e8 with a fine position.}) 6... c6 7. Qc2 {This is the most popular move
+because it keeps all the options open for White.} b6 {Now there are three main
+setups you should be aware of: 1.Rd1 followed by Bf4 and Nc3; 2.Rd1 followed
+by b3 and Nc3; 3.Nbd2 followed by e4 or b3 Bb2.} 8. Rd1 (8. Nbd2 {When White
+plays this move, we must develop our bishop first because we would like to
+meet e4 with Na6.} Bb7 9. e4 (9. b3 Nbd7 10. Bb2 Rc8 11. e4 c5 $13 {With an
+extremely unclear position.}) 9... Na6 $1 {With this unusual knight
+development, we gain a nice position as we have the option of bringing our
+knight back to d7 if White plays e5.}) 8... Nbd7 $1 {Once White has put the
+rook on d1, we need to keep the option open of developing the bishop on b7 or
+a6. Hence first Nbd7 is a better move.} 9. Bf4 (9. b3 Ba6 10. Nc3 (10. Nbd2 c5
+{Also leads to very sharp lines.}) 10... dxc4 $5 {With an extremely
+complicated game...}) 9... Bb7 10. Nc3 Nh5 11. Bc1 f5 $132 {With a very
+interesting stonewall-like position. This makes Black's play in this opening
+quite easy, as he has a clear-cut plan to follow.} *
+

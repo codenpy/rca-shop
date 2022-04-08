@@ -1,0 +1,55 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch defense"]
+[Black "Theory"]
+[Result "*"]
+[ECO "A91"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "23"]
+[SourceDate "2011.11.02"]
+
+{Some players use the following plan against 1.d4, they play: f5, Nf6, e6, Bb4,
+b6, Bb7. This may give an active position for Black. A student has asked me
+how White should neutrlize this plan, and I'll show you a good way.} 1. d4 e6 {
+(Here white can turn the game into French defense after 2.e4)} 2. c4 f5 3. g3 {
+! This is the most precise order of moves. Now black can't play b6 nor pin the
+White's knight after Bb4.} (3. Nc3 {llows black to pin this knight after} Bb4 {
+then it will be simpler for black to occupy the e4 square with his knight.}) (
+3. Nf3 {gives black a chance to place his queen-side bishop to b7} Nf6 4. g3 b6
+5. Bg2 Bb7) 3... Nf6 4. Bg2 {Now black can't play b6. A move Bb4 makes no
+sense, because there is no white's knight on c3.} Be7 {this is a passive
+position for the bishop, but black has no better alternatives} (4... Bb4+ 5.
+Nd2 {in the future white can play a3, which will force black to exchange his
+bishop on the white's knight} O-O 6. Ngf3 d6 7. O-O {now Black's b4-bishop
+appeared out of a game. White is threatening to play Nb3 and then to capture
+the bishop by playing a3.} Bxd2 8. Bxd2 {White has an advantage thanks to his
+2 bishops and better development}) 5. Nc3 O-O 6. Nh3 {White wants to leave an
+open diagonal g2-a8 for his bishop.} d6 7. Nf4 {Black has a weak pawn e6 and
+the white's knight puts pressure on it} c6 {Generally black wants to play e5.
+However, first he needs to cover the d5-square, so that the white's knight
+can't go there.} (7... e5 8. dxe5 {! this is the most powerful continuation,
+which sets a sudden trap for black} (8. Nfd5 {!? allows white to trade
+opponent's bishop and to get a positional advantage in a calm situation}) 8...
+dxe5 9. Qxd8 Rxd8 {this natural move gives white a few extra tempos for the
+attack} (9... Bxd8 {white has a sudden trick} 10. Ne6 {!} Re8 (10... Bxe6 11.
+Bxb7 {winning material}) 11. Nxd8 Rxd8 12. Bg5 {white has a clear advantage.
+Next white can take on f6 or play Nd5}) 10. Nfd5 {attacking the e7 and c7
+squares, white gets the initiative position} Nxd5 11. Nxd5 Bd6 12. Bg5 Rd7 13.
+O-O-O {with a huge advantage in activity}) (7... Nbd7 $2 {is impossible
+because of} 8. Nxe6) 8. d5 {(Black was ready to play e5; White wants to break
+black's plans.)} e5 (8... cxd5 9. cxd5 e5 10. Ne6 Bxe6 11. dxe6 {gives white 2
+bishops and active position}) 9. dxc6 $1 {This powerful tactical idea makes it
+possible for white to move his knight forward.} bxc6 (9... exf4 10. cxb7 {
+winning material}) (9... Nxc6 10. Nfd5 {and White got an advantage thanks to
+his strong knight and black's weaknesses}) 10. Nfd5 {White moves his knight
+forward and is going to trade an opponent's bishop.} Be6 (10... cxd5 11. Bxd5+
+{with a double attack on Black's king and rook} Nxd5 12. Qxd5+ {and Qa8}) (
+10... Nxd5 11. Nxd5 {doesn't change much} Be6 12. Nxe7+ Qxe7 13. b3 {the
+position is quite similar to the main line}) 11. Nxe7+ Qxe7 12. b3 {After that
+White will play Ba3 and will put strong pressure on the black's central pawns.
+Of course White should castle and place his rook to d1. In all of these lines
+white can attack the black's center by playing e4, which is a good idea very
+often.} *
+

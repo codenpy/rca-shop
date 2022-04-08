@@ -1,0 +1,334 @@
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Rustemov - Goldin"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/5R2/2k2Pp1/p1Pp2P1/Pp1P4/8/3K4/7r b - - 0 1"]
+[PlyCount "15"]
+[EventDate "2016.??.??"]
+
+1... b3 {Black has huge difficulties in the position. White has two passed
+connected pawns and it seems like Black will lose the game. Black has a very
+interesting trick. Which is the best move for Black?} 2. Kc3 b2 3. Kxb2 Rb1+ $1
+{Black happily sacrifice his Rook because they are in the steel-mate. SO he
+would like to get rid of his Rook.} 4. Kc2 Rb2+ 5. Kd3 Rd2+ 6. Ke3 Re2+ 7. Kf4
+Re4+ 8. Kf3 Re3+ {And Black saves the game with the perpetual check.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "?"]
+[White "Martinez - Benzanilla"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "R7/3r2k1/5p2/4n1pp/1Q6/4N1P1/P4PPK/2q5 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "2016.??.??"]
+
+1... Qxe3 {This is an amazing move. Black is sacrificing the Queen in order to
+have the possibility to make a perpetual check.} 2. Qf8+ (2. fxe3 Ng4+ 3. Kh3 (
+3. Kg1 Rd1+) 3... Nf2+ 4. Kh2 Ng4+ {draw}) 2... Kg6 3. Qe8+ Kh6 4. Qxd7 $1 {
+This is a clever move because both of the Queens are hanging.} Nf3+ $1 {Black
+found the most forcing way to achieve the draw and this is perpetual check.} 5.
+gxf3 Qxf2+ 6. Kh3 Qf1+ 7. Kh2 Qf2+ {Draw.} 1/2-1/2
+
+[Event "Friendly Game, 3m"]
+[Site "Café"]
+[Date "2011.06.01"]
+[Round "?"]
+[White "Zio"]
+[Black "Kesaris"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "4Rr1k/6pp/p2Q4/1p4B1/8/P6P/1q4r1/4R2K b - - 0 24"]
+[PlyCount "12"]
+[EventDate "2011.06.01"]
+
+24... Rg1+ $1 {Black's turn. Black was in a very difficult situation but he
+found a cool and forcing move in order to achieve the draw by making a
+perpetual check.} 25. Kxg1 (25. Rxg1 Rxe8 $44) 25... Qf2+ 26. Kh1 Qf3+ 27. Kh2
+Qf2+ 28. Kh1 Qf3+ 29. Kg1 Qf2+ 30. Kh1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Dehler"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/p7/k3B3/P7/1B4P1/2P2p1p/3bb3/K7 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1912.??.??"]
+
+1. Bc8+ {White's turn. Black h3 and f3 pawns are very advanced and close to
+the promoting square.White found a brilliant way to force the draw by the
+perpetual check.} Kb5 2. Bd7+ Kc4 3. Be6+ Kd3 4. Bf5+ Ke3 5. Bc5+ $1 {Black's
+King run into the Kingside, however White's darksquared Bishop continue to
+give the checks. :-)} Kf4 6. Bd6+ Kg5 7. Be7+ Kh6 8. Bf8+ $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Neidze"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/8/8/6N1/6NK/8/8/5qk1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1964.??.??"]
+
+1. Nh3+ {White's turn. Knights are very tricky pieces. White found a very
+forcing way to achive the draw.} Kh1 (1... Kg2 2. Ne3+ $11) 2. Nhf2+ Kg1 3.
+Nh3+ $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Rinck"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/8/8/5R2/4N2K/5b2/2k5/3q4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1904.??.??"]
+
+1. Rc5+ {White's turn. White is in a very dificult positon but he manages to
+save the game by the miracle - by the perpetual check.} Kb3 2. Rb5+ Ka3 (2...
+Ka4 3. Nc3+ $11 {This is a double attack and White can capture the Queen.}) 3.
+Ra5+ Kb4 4. Rb5+ Kc4 (4... Kxb5 5. Nc3+ $11) 5. Rc5+ Kb4 (5... Kd4 6. Rd5+ Kxd5
+7. Nc3+ $11) 6. Rb5+ $11 {Thanks to the double attack on c3, Black cannot
+escape the perpetual check or capture the Rook.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Schinkman"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "r2NB2b/3Pk1N1/8/4B2b/3K2pr/8/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1929.??.??"]
+
+1. Nc6+ {White's turn. White performed some beautiful manouvers with his
+Knights. This is a really cool study by Schinkman.} Kf8 2. Ne6+ Kg8 3. Ne7+ Kh7
+4. Nf8+ Kh6 5. Ng8+ Kg5 6. Nh7+ {Black cannot do anything in order to avoid
+the checks. The postion is draw.} Kf5 7. Nh6+ Ke6 8. Ng5+ Ke7 9. Nf5+ Kf8 10.
+Ne6+ Kg8 11. Ne7+ $11 (11. Nxh4 {This variation also leads to the draw.} Bxe8
+12. d8=Q Rxd8+ 13. Nxd8 g3 14. Bxh8 Kxh8 $11) 1/2-1/2
+
+[Event "U.S. Championship 2013"]
+[Site "St. Louis, Missouri"]
+[Date "2013.05.04"]
+[Round "2"]
+[White "GM_Shulman"]
+[Black "FM_Sevian"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[WhiteElo "2570"]
+[BlackElo "2371"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/8/1k1rp3/2q5/QpP5/7P/5rP1/2R1R2K b - - 0 35"]
+[PlyCount "5"]
+[EventDate "2013.??.??"]
+
+35... Rxg2 $1 {Black's turn. There are no White's pieces on the king-side.
+Black used this situation for starting a sudden attack.} 36. Kxg2 Rd2+ (36...
+Qg5+ 37. Kh1 $18 {and Black's checks are over.}) 37. Kh1 Rh2+ $1 {Game drawn
+The next Black's move Qf2+ will lead to perpetual check.} 1/2-1/2
+
+[Event "Moscow ol (Men) fin-A"]
+[Site "Moscow"]
+[Date "1956.??.??"]
+[Round "5"]
+[White "Najdorf, Miguel"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "43"]
+[EventDate "1956.09.02"]
+[EventRounds "11"]
+[EventCountry "URS"]
+[WhiteTeam "Argentina"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "ARG"]
+[BlackTeamCountry "URS"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nf3 Nc6 5. O-O d6 6. d3 Nh6 7. Nc3 O-O 8. Rb1
+Rb8 9. a3 b6 10. b4 Bb7 11. b5 Na5 12. e4 Bxc3 13. Bxh6 Bg7 14. Bxg7 Kxg7 15.
+Nh4 e6 16. f4 f6 17. Qg4 Bc8 18. f5 e5 {White's turn. Black threaten to close
+the position with the move g5. Then White will have no attack and Black will
+have a break on the queen-side with the move a6. Black has a little better
+Bishop because his Bishiop is not limited by the pawns. Thus, White choose to
+sacrifice the Knight in order to achive imidiate the draw by the perpetual
+check.} 19. Nxg6 hxg6 20. Qxg6+ Kh8 21. Qh6+ Kg8 22. Qg6+ {This is a very
+clasical perpetual check mechanism. Black cannot make anything in order to
+escape.} 1/2-1/2
+
+[Event "Chicago blindfold sim"]
+[Site "Chicago"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Alekhine, Alexander"]
+[Black "Mezirov"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "47"]
+[EventDate "1933.??.??"]
+[EventRounds "1"]
+[EventCountry "USA"]
+[WhiteTeam "Argentina"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "ARG"]
+[BlackTeamCountry "URS"]
+
+1. e4 c6 2. d4 Nf6 3. Nc3 d6 4. Nf3 Bg4 5. Bc4 Nbd7 6. Be3 e5 7. dxe5 Nxe5 8.
+Be2 Qc7 9. Nd4 Bxe2 10. Qxe2 g6 11. O-O-O Bg7 12. f4 Ned7 13. Ndb5 cxb5 14.
+Nxb5 Qc6 15. Rxd6 Qxe4 16. Rxd7 O-O 17. Rd4 Qe6 18. Nc3 Rfe8 19. Re1 Nd5 20.
+Nxd5 $1 {White's turn. This is the most forcing way for White. Now he is
+threatening the move Knight to c7.} (20. Rxd5 $5 Bxc3 21. Red1 Bxb2+ 22. Kxb2
+Qxe3 {Black is a little better because he has more healthy pawns on the
+queen-side. However the position is aproximatelly equal.}) 20... Bxd4 21. Bxd4
+Qxe2 {It looks like White lost his Queen but now he have the perpetual check.}
+22. Nf6+ Kf8 23. Nxh7+ {Black cannot go to "e" line because he will lose the
+Queen with check. So the players agreed to the draw quickly.} Kg8 24. Nf6+
+1/2-1/2
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1935.02.27"]
+[Round "9"]
+[White "Ragozin, Viacheslav"]
+[Black "Levenfish, Grigory"]
+[Result "1/2-1/2"]
+[ECO "D48"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "79"]
+[EventDate "1935.02.15"]
+[EventRounds "19"]
+[EventCountry "URS"]
+[WhiteTeam "Argentina"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "ARG"]
+[BlackTeamCountry "URS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. O-O cxd4 13. Re1 Nc5 14. Bg5 Qa5 15. Nxc5
+Bxc5 16. Rc1 h6 17. Bh4 Be7 18. Bxe7 Nxe7 19. Nxd4 O-O 20. Qg4 Bb7 21. Re3 Rfc8
+22. Rce1 Qd8 23. Rg3 Qf8 24. Ne2 a5 25. Nf4 Kh8 26. Nh5 g6 27. Qh4 Rc7 28. Nf6
+Rac8 29. Rh3 Ng8 30. g4 Rc1 31. Rf1 Rxf1+ 32. Kxf1 Rc1+ 33. Ke2 Bg2 34. Kd2 Qc8
+35. Qxh6+ $1 {White's turn. White start the game very agresivly but Black
+managed to control the positon and start the counter-attack. Thus White found
+a perpetual check pattern in order to achive the draw by force. Indeed it is
+always cool to sacrifice your Quenn.} Nxh6 36. Rxh6+ Kg7 37. Rh7+ Kf8 38. Rh8+
+Ke7 39. Ng8+ Kf8 40. Nf6+ {Black cannot do anything to avoid the checks.}
+1/2-1/2
+
+[Event "NED Radio game"]
+[Site "Netherlands"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A44"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "56"]
+[EventDate "1934.??.??"]
+[EventRounds "1"]
+[EventCountry "NED"]
+[WhiteTeam "Argentina"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "ARG"]
+[BlackTeamCountry "URS"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 a6 5. a4 f5 6. f4 Nf6 7. fxe5 dxe5 8. exf5
+Bxf5 9. Bg5 Bd6 10. Nge2 Nbd7 11. Ng3 Bg6 12. Bd3 Bxd3 13. Qxd3 Qc7 14. Nf5 O-O
+15. Nxd6 Qxd6 16. O-O c4 17. Qxc4 Qb6+ 18. Kh1 Qxb2 19. d6+ Kh8 20. Rfb1 Qxc2
+21. Rxb7 Rac8 22. Rc7 Rxc7 23. dxc7 Ne4 24. c8=Q Nf2+ 25. Kg1 {Black's turn.
+Perhaps some players will give up here, but this was not going to happen with
+Alekhine! He found a brilliant way to open White's King in order to give the
+perpetual checks.} Nh3+ $1 26. gxh3 Qf2+ 27. Kh1 Qf3+ 28. Kg1 Qf2+ 1/2-1/2
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1981.04.??"]
+[Round "3"]
+[White "Portisch, Lajos"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[WhiteElo "2650"]
+[BlackElo "2625"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "98"]
+[EventDate "1981.04.08"]
+[EventRounds "13"]
+[EventCountry "URS"]
+[EventCategory "15"]
+[WhiteTeam "Argentina"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "ARG"]
+[BlackTeamCountry "URS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. a4
+Bg7 9. e4 Bg4 10. Be2 O-O 11. O-O Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3 Nd7 15.
+g4 Nhf6 16. f3 h6 17. Kh1 Ne5 18. Rg1 b5 19. g5 hxg5 20. Bxg5 c4 21. axb5 axb5
+22. Rxa8 Qxa8 23. Nxb5 Qb8 24. Na3 Qxb2 25. Naxc4 Nxc4 26. Qxc4 Nh5 27. Qc6 Rb8
+28. Qxd6 Be5 29. Qd7 Qd4 30. Qg4 Rb2 31. Rd1 Qd3 32. Qc8+ Kg7 33. Qc4 Qa3 34.
+Qe2 Qa4 35. Rb1 Ra2 36. Be3 Qd7 37. Qf2 Qh3 38. f4 Bc3 39. Bd4+ Bxd4 40. Qxd4+
+Kh7 41. Rg1 Kg8 42. d6 {Black's turn.} Rxd2 $3 {Black's position looks dead
+lost, however Black found something fantastic! This is the only apropriate
+word for this combination.} 43. Qxd2 Qf3+ 44. Qg2 (44. Rg2 Qf1+ 45. Rg1 Qf3+)
+44... Ng3+ $1 {This is a key move. Black had forseen it before the move Rook
+capture on d2. After this White cannot avoid the perpetual check.} 45. hxg3
+Qh5+ 46. Qh2 Qf3+ 47. Rg2 Qd1+ 48. Qg1 Qh5+ 49. Rh2 Qf3+ 1/2-1/2
+
+[Event "World Championship 35th-KK5"]
+[Site "Lyon/New York"]
+[Date "1990.11.05"]
+[Round "11"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2730"]
+[BlackElo "2800"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "54"]
+[EventDate "1990.10.08"]
+[EventRounds "24"]
+[EventCountry "USA"]
+[WhiteTeam "Argentina"]
+[BlackTeam "Soviet Union"]
+[WhiteTeamCountry "ARG"]
+[BlackTeamCountry "URS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 exd4 8. Nxd4
+Re8 9. f3 c6 10. Qd2 d5 11. exd5 cxd5 12. O-O Nc6 13. c5 Rxe3 14. Qxe3 Qf8 15.
+Nxc6 bxc6 16. Kh1 Rb8 17. Na4 Rb4 18. b3 Be6 19. Nb2 Nh5 20. Nd3 Rh4 21. Qf2
+Qe7 22. g4 Bd4 {Black's turn. Black starts the game very agressivly but Karpov
+consolidates the threats. Black's problem is that Queen is far away from the
+attack. Black found a brilliant way to bring the Queen into the attack,
+however this was only enough for the draw.} 23. Qxd4 Rxh2+ 24. Kxh2 Qh4+ 25.
+Kg2 Qg3+ {White cannot stop the checks.} 26. Kh1 Qh3+ 27. Kg1 Qg3+ 1/2-1/2
+

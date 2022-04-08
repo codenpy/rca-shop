@@ -1,0 +1,199 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1990.??.??"]
+[Round "4"]
+[White "Granda Zuniga, Julio E"]
+[Black "Ochoa de Echaguen, F Javier"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2485"]
+[BlackElo "2400"]
+[Annotator "RCA"]
+[PlyCount "97"]
+[EventDate "1990.09.??"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "1991.04.01"]
+
+1. d4 e6 2. e4 d5 {Reaching the French...} 3. Nc3 Nf6 4. Bg5 {Pinning the
+knight and threatening e5; also following the principle of maximum activity.}
+dxe4 {This move gives up the centre and White obtains a good position very
+easily.} 5. Nxe4 Be7 6. Bxf6 gxf6 (6... Bxf6 {Is a more solid alternative but
+6...gxf6 gives Black more counterplay.}) 7. Nf3 b6 8. Bb5+ c6 (8... Nd7 9. Bc6
+$16) (8... Bd7 9. a4 a6 10. Bxd7+ Nxd7 11. O-O $14) 9. Bc4 Bb7 10. Qe2 Qc7 11.
+O-O-O Nd7 12. Kb1 {This move is always useful in the 0-0-0 positions.} O-O-O
+13. Ba6 $1 {The only merit in Black's position was the bishop pair; after this
+move White exchanges one of the bishops, obtaining the advantage.} Rhg8 (13...
+Bxa6 14. Qxa6+ Kb8 15. Qe2 {It's very similar to the game...}) 14. g3 Kb8 15.
+Bxb7 Kxb7 16. Rd3 {The rook in the third rank has some interesting
+perspectives. So this move is very stimulating..} (16. Ned2 {With the idea of
+Ne4 directly is another possible idea...}) 16... f5 17. Ned2 Bf6 18. Rd1 {
+Bringing into play the least active piece.} Rge8 19. Nc4 {The knight here is
+excellently placed, keeping an eye on a lot of important squares and also
+provoking a weakening...} b5 $6 {The move White wants to force!} 20. Ncd2 (20.
+Nce5 $1 {Was better and more logical according to the principles move...})
+20... Nb6 (20... e5 $1 {Was the freedom move. I don't know what persuaded
+Granda to allow this and Ochoa to avoid it.} 21. dxe5 Nxe5 22. Rxd8 Rxd8 23.
+Nxe5 Qxe5 24. Qxe5 Bxe5 25. c3 f4 $1 {And Black has no problems in this
+position. The bishop compensates for the inferior pawn structure.}) 21. Nb3 Na4
+22. Re3 (22. Ne5 {Was a more natural and better move, simply using the
+principle of maximum activity.} Rd5 23. f4 $14) 22... Ka8 23. Ne1 {The
+manoeuvre of this knight to d3 is an interesting idea.} Qb6 24. Qf3 {Defending
+d4 indirectly.} Rd5 25. c3 $16 Qc7 26. Nd3 {The game is strategically decided.
+In this variation, White should normally try to avoid the freedom moves like
+e5 or c5. And exchanging the bishops with Ba6 is a good idea to keep in mind.}
+Rc8 27. Ree1 Be7 28. Qh5 Bf6 29. h4 Nb6 30. Nbc5 Rd6 31. Ne5 Bxe5 32. Rxe5 Nd7
+33. Nxd7 Rxd7 34. Rc5 f4 35. g4 Rd5 36. Qxh7 Qe7 37. Rxd5 cxd5 38. g5 b4 39.
+cxb4 Qxb4 40. h5 Qe7 41. g6 Qh4 42. g7 Qg4 43. Rc1 Rxc1+ 44. Kxc1 Qg1+ 45. Kc2
+Qxf2+ 46. Kb3 Qe3+ 47. Ka4 Qxd4+ 48. b4 Qd1+ 49. Ka5 1-0
+
+[Event "FIDE-Wch k.o."]
+[Site "New Delhi/Teheran"]
+[Date "2000.12.01"]
+[Round "?"]
+[White "Leko, Peter"]
+[Black "Volkov, Sergey"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2743"]
+[BlackElo "2554"]
+[Annotator "RCA"]
+[PlyCount "77"]
+[EventDate "2000.11.27"]
+[EventRounds "7"]
+[EventCountry "IND"]
+[Source "ChessBase"]
+[SourceDate "2001.03.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 {This exchange is
+favourable for White in the French Defence in general, because the pawn
+structure determines that the dark-squared bishop is more important for Black
+than for White.} Qxe7 7. f4 {To give extra support to the e5 pawn.} O-O 8. Nf3
+c5 9. dxc5 {This move is typical in this variation, when White give extra
+support to e5. Because now the d4 square becomes an excellent square for the
+knight.} Nc6 {The most flexible move: Black can then decide with which piece
+he is going to take on c5.} (9... Nxc5) (9... Qxc5 {Are of course possible
+options.}) 10. Bd3 f5 11. exf6 Qxf6 12. g3 Nxc5 13. O-O {This kind of position
+is usually very comfortable for White due to the weak dark squares in Black's
+territory and the weak e6 pawn.} Bd7 14. Qd2 Rad8 15. Rae1 Be8 16. a3 Bh5 17.
+Ne5 Nxe5 18. Rxe5 Bg4 19. Qg2 Rc8 20. h3 Nxd3 21. cxd3 Bf5 22. Rf3 (22. d4 {
+Looks solid}) 22... d4 23. Nb5 Rc1+ 24. Kh2 Rd8 25. Qd2 Ra1 26. g4 Bxg4 27.
+hxg4 Qh4+ 28. Rh3 Rh1+ (28... Qxg4 {Was another playable move.} 29. Rg5 Rh1+
+30. Kxh1 Qxh3+ 31. Kg1 a6 {With compensation for the piece.}) 29. Kxh1 Qxh3+
+30. Kg1 Qxg4+ (30... Qg3+ {Is a bit more accurate.} 31. Kf1 Qxg4 $1 {This is
+really strange: it's better to take on g4 without check, because the king on
+f1 is worse placed than on g1.}) 31. Qg2 Qxf4 $2 (31... Qd1+ 32. Kh2 Qxd3 33.
+Qg4 Kh8 34. Qxe6 $14) 32. Qg5 $1 $16 Qf8 33. Rxe6 {It's all over for Black.}
+Rc8 34. Nd6 h6 35. Qd5 Kh8 36. Nxc8 Qxc8 37. Qe4 Qc1+ 38. Kh2 Qc2+ 39. Kg3 {
+This game can be used to understand the importance of the dark squares in this
+variation.} 1-0
+
+[Event "HUN-ch (Women)"]
+[Site "Budapest"]
+[Date "1997.??.??"]
+[Round "8"]
+[White "Madl, Ildiko"]
+[Black "Kovacs Pinter, Marta"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2375"]
+[BlackElo "2230"]
+[Annotator "RCA"]
+[PlyCount "49"]
+[EventDate "1997.??.??"]
+[EventRounds "9"]
+[EventCountry "HUN"]
+[EventCategory "2"]
+[Source "ChessBase"]
+[SourceDate "2003.11.25"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8.
+Nf3 c5 9. dxc5 Qxc5 {As a general idea, when Black takes with the queen in
+this variation it's a good idea to castle queen side; and when Black takes
+with the knight it's a good idea to castle king side.} 10. Qd2 Nc6 11. O-O-O
+Nb6 12. Bd3 Bd7 13. Kb1 (13. Bxh7+ {Isn't very accurate, because after all the
+forcing line...} Kxh7 14. Ng5+ Kg8 15. Qd3 Rfc8 16. Qh7+ Kf8 {White can't play.
+..} 17. Qh8+ Ke7 18. Qxg7 {Because of the intermediate move...} Qe3+ 19. Kb1
+Qxf4 $17 {That's why Kb1 first is a better move.}) 13... Na5 $6 14. Bxh7+ $1 {
+A typical sacrifice in the French Defence.} Kxh7 15. Ng5+ Kg8 16. Qd3 Rfc8 17.
+Qh7+ Kf8 18. f5 $3 {Until here everything has been forced and now this move is
+the best way to obtain a decisive advantage; game over!} exf5 19. Qh8+ Ke7 20.
+Qxg7 Rf8 21. e6 Bxe6 22. Rhe1 Ke8 23. Nxe6 fxe6 24. Rxe6+ Kd8 25. Rxb6 {As
+regards this game: we should learn that when Black recaptures on c5 with the
+queen, 0-0-0 is an excellent option; and when Black takes with the knight, 0-0
+is better. Also the typical Bxh7+ sacrifice.} 1-0
+
+[Event "Wch U16"]
+[Site "Oropesa del Mar"]
+[Date "1998.11.07"]
+[Round "11"]
+[White "Vallejo Pons, Francisco"]
+[Black "Sebe Vodislav, Florian George"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2450"]
+[BlackElo "2235"]
+[Annotator "RCA"]
+[PlyCount "58"]
+[EventDate "1998.10.25"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1999.01.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+b6 {The idea of this move is to prevent the plan of dxc5 followed by the
+occupation of d4. I mean, retake on c5 with the pawn.} 9. Qd2 Bb7 10. Nd1 {To
+give extra support to d4 using the "c" pawn. White has a space advantage and
+it's really difficult for Black to look for active counterplay.} c5 11. c3 Nc6
+12. Ne3 f6 13. Bd3 O-O-O (13... O-O {Is safer for Black, but the advantage is
+on White's side.} 14. O-O cxd4 15. cxd4 Qb4 16. Qxb4 Nxb4 17. Be2 $14) 14. O-O
+$14 {This line is really easy to manage; as for the rest, simply seize more
+space on both flanks. This line shouldn't give any problems to White in any
+case.} Kb8 15. Rae1 f5 16. Bb1 cxd4 17. cxd4 Rc8 18. Rc1 a5 19. Rc3 h6 20. g4 (
+20. Bxf5 $1 exf5 21. Nxf5 $16 {This kind of sacrifice used to be very strong
+in closed positions.}) 20... g6 21. h3 Qg7 22. Kh2 Ne7 23. Rg1 Qf7 24. Bd3 Ka7
+25. Rxc8 Rxc8 26. b4 Nc6 27. a3 Nf8 28. Rb1 axb4 29. axb4 Kb8 1-0
+
+[Event "RUS-sf"]
+[Site "Briansk"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Mololkin, Andrey"]
+[Black "Karagodin, Vladimir A"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2430"]
+[BlackElo "2365"]
+[Annotator "RCA"]
+[PlyCount "117"]
+[EventDate "1995.??.??"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1997.11.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. dxc5 Qxc5 (9... Nxc5 10. Bd3 {Followed by 0-0. Against Nxc5 0-0-0 isn't
+a good idea, because of b5 followed by b4 with good attacking prospects on the
+queen side.} (10. Qd2 $6 O-O 11. O-O-O b5 12. a3 Nc6 {And Black has good
+prospects on the queen side.})) 10. Qd2 Nc6 11. a3 {Prophylactic move against
+an eventual b4.} b5 12. Qf2 $1 {Almost every endgame position in this
+variation is in White's favour, because of his good bishop and excellent
+prospects on the dark squares.} Qxf2+ 13. Kxf2 Bb7 14. Bd3 Rc8 15. Rhe1 Nc5 16.
+Ne2 $1 {A very logical manoeuvre; going to the d4 square.} Ke7 17. Ned4 h6 18.
+Nxc6+ Bxc6 19. Nd4 Bd7 {White has a stable advantage. Now White should simply
+seize space all over the board; Black has no plan and this variation should
+give you many problems as Black.} 20. Kf3 Na4 21. Rab1 Rb8 22. f5 Nc5 23. g4 b4
+24. Ke3 Rb6 25. axb4 Rxb4 26. Rf1 Nxd3 27. cxd3 Rhb8 28. b3 R4b6 29. f6+ gxf6
+30. Rxf6 Rg8 31. Nf5+ Kd8 32. Nxh6 Rg7 33. Nxf7+ Ke7 34. Nh6 Rb4 35. h4 Ba4 36.
+Rbf1 Be8 37. Rb1 Bb5 38. Rf4 Rxf4 39. Kxf4 Bxd3 40. Rc1 Kd7 41. g5 Kd8 42. h5
+Be2 43. Rh1 d4 44. g6 Ke7 45. Nf7 Rg8 46. Ke4 d3 47. Ke3 Bxh5 48. Rxh5 Rxg6 49.
+Ng5 Kd7 50. Kxd3 Kc6 51. Kc4 a5 52. Nf3 Kb6 53. Nd4 a4 54. bxa4 Ka5 55. Kc5
+Kxa4 56. Kd6 Kb4 57. Nxe6 Rg1 58. Rh4+ Kc3 59. Nc7 {About this game: you
+should learn that the a3 move is very useful in this variation; how to play
+the endgames with White; and that the endgame in this variation usually
+favours White.} 1-0
+

@@ -1,0 +1,171 @@
+[Event "Wch U16"]
+[Site "Menorca"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Gershon, Alik"]
+[Black "Halkias, Stelios"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2255"]
+[BlackElo "2330"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "73"]
+[EventDate "1996.??.??"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1997.02.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15.
+gxf6 Bf8 16. Rg1 h5 17. Rg7 Nd7 {Diagram #} 18. e5 $1 {This is an exciting
+position of the Nadjorf variation. White played very aggressively and oferred
+material. The black king is uncaslted and it is trying to find a safeguard
+behind his pawn shield and pieces in the center. However, this is a dangerous
+strategy, and White has a lot of tactical posibilities to open up the position,
+as he did in this particular game.} (18. Nxe6 $3 {This is another amazing
+attacking posibility in order to open Black's king position. The problem for
+Black is that he didn't manage to coordinate his pieces, and his rooks are
+unprotected in the corners.} fxe6 19. f7+ Kd8 (19... Ke7 20. Rg6 $1 {Another in
+credible move. White is threatening to sacrifice his rook on e6 to continue
+opening up Black's position.} Rh6 21. Rxe6+ Rxe6 (21... Kxe6 22. Nd5 $18) 22.
+Nd5+ Kd8 23. Nxc7 Kxc7 24. Qc3+ Kb8 25. Bh3 Re5 26. Rd5 $18) 20. Rg8 Rh7 21.
+Bh3 $40 {with a very strong attack. Black's pieces are totally disorganized.})
+18... Qb7 (18... dxe5 19. Ndxb5 axb5 20. Qxa8 $18) 19. Qe2 {In general, it's a
+good idea to place the queen opposite to the king. White is aiming to open the
+position and strike the e6-pawn.} (19. Qg3 $5) 19... dxe5 20. Nxe6 $5 {
+White continues opening up the position because the opponent king is there.
+The material isn't very important right now because Black cannot activate his
+rooks quickly.} (20. Bg2 $5 {This is another interesting move in order to win
+a tempo and develop the attack.}) 20... fxe6 21. Bg2 $18 {White has a winning
+advantage thanks to his very active pieces, Black's uncastled king and
+destroyed Black's pawn structure. He manages to win the game afterwards.} (21.
+f7+) 21... Qb8 22. Bxa8 Qxa8 23. Qd3 Qc6 24. Qg6+ Kd8 25. Rg8 Rxg8 26. Qxg8 Kc7
+27. Rxd7+ Bxd7 28. Qxf8 Qh1+ 29. Nd1 Qf3 30. Qc5+ Kd8 31. Qxe5 Ke8 32. Qb8+ Kf7
+33. Qd6 Bc8 34. Qe7+ Kg6 35. Qg7+ Kf5 36. f7 Qf4+ 37. Kb1 1-0
+
+[Event "Wch U16"]
+[Site "Menorca"]
+[Date "1996.??.??"]
+[Round "11"]
+[White "Mihajlovskij, Sergei"]
+[Black "Gershon, Alik"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "2245"]
+[BlackElo "2255"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "50"]
+[EventDate "1996.??.??"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "1997.02.01"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e3 cxd4 6. exd4 Nc6 7. Qh5 e6 8.
+O-O-O Bb4 9. Nge2 Bd7 10. g4 Na5 11. a3 Bd6 12. Bg2 Bc6 13. Rhe1 Qd7 {Diagram #
+} 14. Bxd5 $1 {Everything is ready in White's position; so, he took the great
+decision to open up the center. He had done this by sacrificing a piece. This
+was a correct decision in order to open up the game and lines for the
+remaining pieces.} (14. Nxd5 $5) (14. Ng3 $5) (14. Qh6 $5) 14... exd5 15. Nf4+
+{White will capture another pawn on d5 and Black's king is under check right
+now. By keeping the enemy king in the center of the board you don't allow him
+to finalize the development and the rooks remain unconnected.} Kd8 16. Nfxd5
+Bxd5 17. Nxd5 Nc4 18. Nxf6 {White managed to capture 3 pawns; so, we may say
+that he didn't make a sacrifice on d5 because he took the material back.} Qc6
+19. Qg5 $6 {White lose his main target of the game here. Unfortunately, not
+all the attacks lead to checkmate; thus, it was better for White to collect
+material by capturing on f7. However, he continues hunting the enemy king.
+This gives Black some time; so, he finaly manages to win the game!} (19. Qxf7
+$18 Nxa3 (19... Bxa3 20. bxa3 Nxa3 21. Re2 $18) 20. bxa3 Bxa3+ 21. Kb1 Qb6+ (
+21... Qb5+ 22. Qb3 $1) 22. Qb3 $1 Qxf6 23. Qxa3 $18) 19... Kc7 20. Nd5+ Kb8 21.
+Qg7 Rc8 22. Ne7 Qb5 23. b3 Bf4+ 24. Re3 Bxe3+ 25. fxe3 Qa5 0-1
+
+[Event "It (cat.20)"]
+[Site "Sofia (Bulgaria)"]
+[Date "2005.05.18"]
+[Round "6"]
+[White "Topalov Veselin (BUL)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "E15"]
+[BlackElo "2785"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "103"]
+[EventDate "2005.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 c6 8. e4 d5
+9. Qc2 dxe4 10. Nxe4 Bb7 11. Neg5 c5 12. d5 exd5 13. cxd5 h6 {Diagram #} 14.
+Nxf7 {A very beautiful looking move. White would like to keep the enemy king
+in the center. Black's pieces are disorganized and Black will not find time to
+secure the safety of his king. White has a very active position and performs
+strong threats with his pieces. This is the strategy you should follow: to
+have very active pieces and generate threats when you sacrifice a piece. If
+the enemy pieces are disorganized, then create threats in order not to give
+him time to consolidate his position.} (14. Bb5+ $5) 14... Kxf7 15. O-O-O {
+White almost finalizes his development, and it's extremely dangerous for Black
+to capture the d5-pawn.} Bd6 16. Nh4 Bc8 17. Re1 {Now we can start to see the
+first symptoms of the sacrificed piece. White's pieces are active and they try
+to attack and generate threats. Black only defends himself. Black's king isn't
+secure and it's always very difficult to play a game without a safe king.
+Black's rooks are inactive and Black needs some tempi in order to finalize his
+development.} Na6 18. Re6 {White continues the game very brutally! By such
+moves, you can gain a lot of new fans, am I right? Black cannot accept the
+sacrificed rook because the a6-knight will be unprotected.} Nb4 (18... Bxe6 19.
+dxe6+ Kxe6 20. Bxa6 $18) 19. Bxb4 $5 {The position remains complicated, but
+Topalov manages to win the game afterwards. He achieved that thanks to Black's
+disorganized pieces and his very strong threats.} (19. Qg6+ $1 {It was better
+to give a check on g6, bringing the queen closer to the enemy king.}) 19...
+cxb4 20. Bc4 b5 21. Bxb5 Be7 22. Ng6 Nxd5 23. Rxe7+ Nxe7 24. Bc4+ Kf6 25. Nxh8
+Qd4 26. Rd1 Qa1+ 27. Kd2 Qd4+ 28. Ke1 Qe5+ 29. Qe2 Qxe2+ 30. Kxe2 Nf5 31. Nf7
+a5 32. g4 Nh4 33. h3 Ra7 34. Rd6+ Ke7 35. Rb6 Rc7 36. Ne5 Ng2 37. Ng6+ Kd8 38.
+Kf1 Bb7 39. Rxb7 Rxb7 40. Kxg2 Rd7 41. Nf8 Rd2 42. Ne6+ Ke7 43. Nxg7 Rxa2 44.
+Nf5+ Kf6 45. Nxh6 Rc2 46. Bf7 Rc3 47. f4 a4 48. bxa4 b3 49. g5+ Kg7 50. f5 b2
+51. f6+ Kh7 52. Nf5 1-0
+
+[Event "TCh-FRA Top 16 Poule Basse"]
+[Site "?"]
+[Date "2008.05.29"]
+[Round "8"]
+[White "Nakamura H"]
+[Black "Ninov N"]
+[Result "1-0"]
+[ECO "B81"]
+[BlackElo "2509"]
+[Annotator "https://chess-teacher.com"]
+[PlyCount "111"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. h3 e6 7. g4 b5 8. Bg2
+Bb7 9. O-O b4 {Diagram #} 10. Nd5 $1 {An amazing and very typical piece
+sacrifice. White sacrifices his knight in order to open the e-line and start
+attacking the black king. With this sacrifice, White is protecting his e4-pawn.
+Black is facing problems on the e-line and the c5- and f5-squares.} (10. Na4
+Bxe4 $15) (10. Nce2 $6 Bxe4 $15) (10. g5 $5) 10... exd5 11. exd5 Be7 12. g5 {
+This move creates problems to Black's coordination of the pieces and doesn't
+give him time to finalize his development.} (12. Nf5 O-O 13. Re1 Re8 {
+Black feels comfortable here because his king is in safety.}) 12... Nfd7 13.
+Nc6 $5 {White continues his attack with venom and by gaining tempi from every
+move. You can gain tempi by attacking the enemy pieces. This is the correct
+strategy because it doesn't give much time to Black to organize his defense
+and complete his development.} (13. Re1 $5) 13... Qc7 (13... Bxc6 14. dxc6 Nb6
+15. c7 {Black didn't capture in c6 because his rook in the corner is hanging.
+The position remains complicated, but it could be a better try compared to the
+game continuation.}) 14. Nxe7 {
+White continues not giving time to Black to finalize his development.} Kxe7 15.
+Qd4 Kf8 (15... Rg8 {This was an alternative, but a very passive move. Black's
+king is still in the center and he faces problems.}) 16. Bf4 $44 {White has com
+pensation for the sacrificed piece because he is pressing the d6 weakness; he
+has a better piece development and cooperation. On the other hand, Black's
+rooks are not connected, there is not an obvious way to develop the b8-knight
+and he king on f8 is not sitting very well. The h8-rook is out of the game.
+White manages to win the game afterwards.} a5 17. Rfe1 Nb6 18. Re8+ Kxe8 19.
+Qxg7 Bxd5 20. Qxh8+ Kd7 21. Re1 Nc6 22. Qxh7 Nd4 23. Be3 Qxc2 24. Qh5 Bxg2 25.
+Bxd4 Qf5 26. Kxg2 Nd5 27. Qf3 Qxg5+ 28. Kh1 Rg8 29. Qxf7+ Kc6 30. Qf3 Kb7 31.
+Be3 Qe5 32. Rd1 Kc6 33. Re1 Rh8 34. Bd2 Qh5 35. Qxh5 Rxh5 36. Kg2 Kc5 37. Re4
+Rf5 38. h4 a4 39. Kg3 Nf6 40. Bxb4+ Kd5 41. Re2 Ne4+ 42. Kg2 Rf8 43. f3 Rg8+
+44. Kh2 Ng3 45. Rg2 Nf1+ 46. Kg1 Ng3 47. Be1 Ne2+ 48. Kf1 Rxg2 49. Kxg2 Nc1 50.
+h5 Ke6 51. Bd2 Nd3 52. b4 axb3 53. axb3 d5 54. b4 d4 55. b5 Kd5 56. f4 1-0
+

@@ -1,0 +1,42 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bird's opening"]
+[Black "Theory"]
+[Result "*"]
+[ECO "B20"]
+[Annotator "Smirnov"]
+[PlyCount "16"]
+[SourceDate "2013.12.24"]
+
+{Some players use the following system of playing with White pieces: f4, Nf3,
+b3, Bb2, e3, Bb5. It gives White a strong control over e5-square and good
+chances for a king-side attack. Here I'll show you the way to neutralize this
+plan easily.} 1. f4 c5 {Of course there are many ways to oppose Bird's opening.
+1...c5 move is only one of the options.} 2. Nf3 g6 {This is the most precise
+order of moves in order to prevent White's plan. Now White can't play b3 since
+Black's g7-bishop will start attacking across this diagonal a1-h8. Also it
+stops White from development of his light-squared bishop to b5 - there's no
+target for the bishop there.} 3. e3 (3. b3 $6 Bg7 {would force White to cover
+the long diagonal somehow. After that his b2-bishop will become passive.}) 3...
+Bg7 (3... d5 {would give White a chance to develop his f1-bishop to an active
+position.} 4. Bb5+) 4. Be2 {Once White developed his bishop to this passive
+position, Black is now free to play Nc6 and d5. Black hasn't played these
+moves earlier, because in that case White would play Bb5.} Nc6 {Black can
+develop his g8-knight to f6 or to e7-squre, while the queen-side knight should
+go to c6 for sure. Thus it makes sense to make an obligatory move first.} 5.
+O-O {Here black has 4 possible plans: 1) to play d5 getting a standard Dutch
+defense position. 2) to play d6 and e5 attacking the white's center. 3) to
+play d6 and Nf6. 4) to play d6, e6 and Nge7. All these schemes are good for
+black.} d6 6. d3 Nf6 (6... e5 {following with Nge7 is also a good plan for
+Black. In this variation Black is going to attack in the center afterwards.}) (
+6... e6 {this set up is also good and Gives black a harmonious position.} 7. e4
+Nge7 8. Nc3 O-O {Black is going to attack on the queen-side by playing b5-b4.
+If white tries to attack on the king-side - black always can block the
+position by playing f5.} 9. Be3 Nd4 {! the knight is strong in a center and
+also it prevents White from playing d4.}) 7. Nc3 O-O 8. Kh1 Rb8 {After that
+Black will play b5-b4 and will develop an attack on the queen-side. The
+Black's position is similar to the Dragon variation of Sicilian defense (and
+to Closed Sicilian).} *
+

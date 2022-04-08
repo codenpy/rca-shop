@@ -1,0 +1,49 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dragon Variation, b5 Gambit"]
+[Black "Theory"]
+[Result "*"]
+[ECO "B78"]
+[Annotator "RCA (GM Igor Smirnov)"]
+[PlyCount "34"]
+[SourceDate "2013.12.25"]
+
+{There's one interesting and relatively unknown variation in Dragon. If you
+know that your opponent plays the main line of Dragon variation for White, you
+can use this "secret weapon" against him. As we discussed in the main part of
+the course, you should be ready to play ANY opening in a certain particular
+game. Hence you may play this line of Dragon sometimes, even if you don't play
+it usually.} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7.
+f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O {This is the main line of the Dragon
+variation. Usually Black plays Rc8 here. However, you can suddenly use "a
+Benko-like gambit".} b5 {It is a positional sacrifice to open the lines for an
+attack on the queen-side. Additionally it gives Black several extra tempos for
+development of his attack.} 11. Bxb5 (11. Ndxb5 Ne5 {Black goes Ne5 after any
+move of white} 12. Bb3 Qb8 {Black is making all the moves with tempos.} 13. Nd4
+Rc8 {Now Black has quite strong concentration of his pieces looking at the
+White's king. Black is intending to play a5-a4 and Nc4 with a strong attack.})
+(11. Ncxb5 {this move doesn't change anything} Ne5 12. Bb3 Qb8 13. Nc3 Rc8 {
+and it is the same position}) 11... Ne5 {It is important for Black to save
+this knight, because it is going to c4-square, which is a really powerful idea
+for Black. From c4, the knight will attack a lot of squares in White's camp.}
+12. Be2 (12. Bxd7 {This move helps black to develop his queen and loses the
+defender of c4- square.} Qxd7 {Now Black wants to play Nc4, Rab8, Rfc8 with a
+strong attack. The Black's attack is more powerful than the White's attacking
+ideas on the king-side. That's why Black should ignore the White's plans and
+focus on his own attack.}) 12... Qc7 {connecting the rooks and preparing Nc4.
+The next black's moves are Rab8, Rfc8, Nc4 with an attack against White's king
+(using the open files).} 13. Bh6 {This typical move is a mistake in this
+position, because it moves away White's queen from the queen-side.} (13. g4 Be6
+{an important move: 1) Here the bishop looks onto White's castling 2) it
+provides d7-square for a retreat of his f6-knight 3) it covers d5-square.} (
+13... Rab8 {?} 14. g5 Nh5 15. Nd5 {now we can see why it was necessary for
+Black to play Be6 previously})) 13... Bxh6 {Black forces White to move the
+queen aside, where it is out of game.} 14. Qxh6 Rab8 15. h4 Rfc8 {Similar to
+Benko gambit, Black sacrificed a pawn to get open files on the queen-side.} 16.
+h5 Rxb2 {Counterblow! In Dragon you should always try to make counterblows;
+passive defense usually doesn't work.} 17. Kxb2 Qxc3+ {Now it becomes obvious
+why it was better for White to keep his queen on d2. White's king does not
+have enough defenders. White is lost.} *
+

@@ -1,0 +1,76 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.03.12"]
+[Round "?"]
+[White "2.Ne2 variation"]
+[Black "Advanced theory"]
+[Result "*"]
+[ECO "B20"]
+[Annotator "RCA"]
+[PlyCount "17"]
+[EventDate "2013.03.12"]
+[SourceDate "2013.03.12"]
+
+1. e4 c5 2. Ne2 $5 {Here is an idea I'd like to suggest. This move is suitable
+for players of all levels, for three reasons: 1. it's not inferior to 2. Nf3
+because in the worst case you can transpose to a normal line; 2. it makes your
+opponent use his time thinking in the second move! 3. has some particular
+lines that make this move even more interesting than 2.Nf3, in my opinion.} d6
+(2... Nc6 3. d4 cxd4 4. Nxd4 {Transpose to 1.e4,c5 2.Nf3,Nc6 3. d4,cd4 4.Nd4.})
+(2... Nf6 {This is the move order that d6 Sicilian players should use to reach
+the desired positions.} 3. Nbc3 d6 (3... d5 {it's another alternative.} 4. exd5
+Nxd5 5. Nxd5 Qxd5 6. Nc3 (6. d4 $5 {Is suitable for the players who like the
+gambit playing style. But Nc3 gives White more chances of gaining an advantage.
+} e5 (6... cxd4 7. Qxd4 {And White is slightly better (queen side majority and
+a little bit more of development) with no risk.}) 7. Nc3 $1 {Sacrifice a pawn
+for development - a typical idea in this line.} Qxd4 8. Be3 Qxd1+ (8... Bg4 9.
+Bxd4 Bxd1 10. Bxe5 Bxc2 11. Rc1 Bg6 12. Nb5 {With some compensation for the
+pawn.}) 9. Rxd1 {And Black's a pawn up, but White's endgame is slightly
+superior because of his development advantage and a lot of weaknesses that
+Black has in his position.}) 6... Qe5+ 7. Be2 Nc6 8. O-O e6 9. Re1 Bd6 10. g3
+O-O 11. d3 $14 {I prefer White's position because of the precarious situation
+of Black's queen and his better pawn structure.}) 4. d4 cxd4 5. Nxd4 {
+Transpose to 1.e4,c52.Nf3, d6 3. d4 ,cd4 4. Nd4,Nf6 5.Nc3.}) (2... e5 3. Nbc3 {
+And White's position is a little bit strategically superior: has a good square
+on d5 and two pieces developed, while Black has nothing.} Nc6 (3... Nf6 {
+Defends d5 but interrupts the f pawn, which is one of the chances for Black to
+complicate the game.} 4. g3 d5 {Otherwise White would simply play Bg2, 0-0,h3 
+(protecting the g4 square) and then f4, with possibilities on the king side.}
+5. exd5 Nxd5 6. Bg2 Be6 (6... Nf6 7. O-O $36) (6... Nxc3 7. bxc3 $36) 7. O-O
+Nc6 8. d3 Be7 9. f4 {With some initiative for White. The plan here is to play
+f5 (in case Black doesn't capture on f) and then put a piece on e4 and start
+advancing his king side pawns.}) 4. Nd5 d6 5. Nec3 $14 {Then White should
+develop his pieces using opening principles and look for a plan - maybe play
+f4 at some point. Or play calmly, using the d5 square while Black does nothing.
+} Be6 6. Bc4 a6 7. a4 Nf6 8. d3 Be7 9. O-O O-O 10. f4 $14) (2... e6 3. d4 cxd4
+4. Nxd4 {Transpose to 1. e4,c5 2. Nf3,e6 3.d4, cd4 4.Nd4.}) (2... a6 {Is very
+tricky because 3.d4 is now not very good for White after} 3. d4 $6 (3. g3 {We
+can use the same idea that we employed in the 2... d6 variation, because 2...
+a6 is not very useful for Black in these kinds of positions.} d5 4. Bg2 dxe4 5.
+Nbc3 $1 {Playing for the initiative, not for the material.} f5 {And
+practically no difference with the line 1.e4,c5 2. Ne2, d6 3.g3,d5!?}) 3...
+cxd4 4. Nxd4 Nf6 5. Nc3 e5 {Black gets an improved version of the Najdorf.} 6.
+Nb3 Bb4 7. Bd3 d5 $11) 3. g3 $5 (3. d4 {Simply transposes to the main line,
+and if white doesn't like the move 3. g3!?, can simply play this.}) 3... Nc6 (
+3... d5 $5 4. Bg2 dxe4 5. Nbc3 $1 (5. Bxe4 Nf6 {= Black develops a piece,
+winning tempo}) 5... f5 (5... Nf6 6. Nxe4 Nxe4 7. Bxe4 {Gives White a slight
+advantage with no risk. Look at that in this variation - Black hasn't Nf6
+winning tempo.}) 6. O-O {And White has a lot of development and positional
+compensation (the move f5 weakens Black's position) for the pawn. I consider
+this position slightly favourable to White.} Nf6 7. d3 $1 {Opening the
+position.!} exd3 8. Nf4 {Playing for activity, not just for material!} dxc2 (
+8... e5 9. Re1 Bd6 10. Nb5 Be7 11. Rxe5 Nc6 12. Re1 {And White's pieces are
+very active.}) 9. Qxc2 Nc6 10. Bxc6+ $1 {Otherwise this knight would be very
+unpleasant on d4.} bxc6 11. Re1 $36) 4. Bg2 g6 5. c3 Bg7 (5... e5 6. d4 $1 $14)
+6. d4 $14 {This is one of the reasons why Najdorf, Scheveningen, Classical and
+Dragon players should feel a little bit unconfortable against 2. Ne2.} cxd4 7.
+cxd4 Nf6 (7... e6 {Is another way Black can play. White's plan doesn't change:
+simply develop pieces and then start attacking Black's weaknesses with no
+hurry.} 8. Nbc3 Nge7 9. O-O O-O 10. Be3 d5 11. exd5 exd5 12. Nf4 {White is
+risk free and has a slight advantage for his more active pieces.}) 8. O-O O-O
+9. Nbc3 $14 {And White's position is superior. He should finish the opening
+tasks by playing h3 Be3 Qd2, bringing the rooks into the centre or into the
+"c" file; and it's very important not to hurry the advance of your pawn centre
+- it's better to keep it as a constant threat. I think every student should
+consider 2.Ne2 as part of his repertoire, because it's an excellent weapon.} *
+

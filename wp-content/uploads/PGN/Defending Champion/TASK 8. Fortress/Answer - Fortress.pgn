@@ -1,0 +1,304 @@
+[Event "Linares 16th"]
+[Site "Linares"]
+[Date "1999.02.23"]
+[Round "3"]
+[White "Leko, Peter"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2694"]
+[BlackElo "2700"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/5B2/1k6/p3p3/1p4P1/2P2P1n/1P6/1K6 b - - 0 41"]
+[PlyCount "25"]
+[EventDate "1999.02.21"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "20"]
+
+{Black's turn. It looks like that Black has one very bad Knight and with pawn
+dawn needs a miracle to save the game! First of all Black try to make a threat
+to the Bishop and f3 pawn.} 41... Ng5 42. Bd5 bxc3 $1 {If we defende in the
+endgame we need to exchnage the pawns. As less pawns are in the board so easy
+will be for us to achive the draw. Thus, the last move is very important.} 43.
+bxc3 Kc5 44. Bb7 Kd6 $1 {Black will regroup his pieces. Black's King will go
+to the queen-side in order to stop the very dangerous "g" pawn and the Knigh
+will go to c5. The White cannot do something to stop Black's plan.} 45. Kb2 Ne6
+46. Ka3 Nc5 $1 {This is a very powerfull fortress.White cannot come inside.
+The Knight is corporating exelent with the pawn pawns. Pawns are controlling
+the dark squares and the Knight is controlling the light squares.} 47. Be4 Ke7
+48. g5 {This is the last try, but Black can stop this pawn easily.} Ne6 $1 49.
+g6 Nc5 50. Bd5 Kf6 $11 51. Bf7 Kg7 52. Kb2 Kf6 53. Kc2 Kg7 1/2-1/2
+
+[Event "Rated game, 3m + 0s"]
+[Site "Engine Room"]
+[Date "2007.12.29"]
+[Round "?"]
+[White "Kesaris"]
+[Black "Zorbano"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/8/5P2/7R/1P6/3N4/1KPk2qp/8 w - - 0 55"]
+[PlyCount "13"]
+[EventDate "2007.12.29"]
+
+55. f7 $1 {White's turn. Thanks to the f pawn White can generate some good
+threats. Black should stop the pawn from the queening.} Qg7+ 56. Kb1 Qg1+ 57.
+Ka2 Qa7+ 58. Kb1 Qxf7 59. Rxh2+ $1 {The Rook is protecting very well the c2
+pawn and the Knight protects the b4 pawn. Black doesn't have any chances to
+win the game.} Kc3 60. Rf2 Qh5 61. Ka2 {Draw was agreeded because it is very
+dangerous for White to start pushing the pawns. I'd like to let you know that
+it was a blitz game, so players didn't have plenty of time to think. In any
+case the draw is a fair result.} 1/2-1/2
+
+[Event "6th Gibtelecom Masters Playoff"]
+[Site "Gibraltar ENG"]
+[Date "2008.01.23"]
+[Round "2"]
+[White "Bu Xiangzhi"]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2691"]
+[BlackElo "2670"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "3rr1k1/pp3qpp/2p3n1/4R1N1/3P4/8/PPQ3PP/4R1K1 b - - 0 24"]
+[PlyCount "89"]
+[EventDate "2008.01.22"]
+
+24... Rxe5 {Black's turn. Nakamura who is in a very difficult positon found
+the best move in order to continue the game.} 25. Nxf7 Rxe1+ 26. Kf2 Rde8 27.
+Ne5 $1 {This is a powerfull tactick which wins one of the Rooks.} Nxe5 28. Kxe1
+Nf3+ 29. Kf2 Nxd4 {Black manages to take the d4 pawn. Black's aim is to
+consolidate his position. The best place for the Knight is the d5 square.} 30.
+Qa4 Rf8+ 31. Ke3 Nf5+ 32. Ke4 a6 33. Ke5 Ne3 34. Kd6 Nd5 {Black achives his
+plan. The Knight is stanting perfectly in the center of the board.} 35. Qe4 g6
+36. g4 g5 $1 {This move secures the exchnage of the king-side pawns. White's
+King cannot attack any target and Black has a beautiful square on f4.} 37. Qe6+
+Kg7 38. Kc5 h6 39. a3 Rf7 40. b4 Re7 {Black's position is totally consolidate
+and White has no real chance to break the fortress.} 41. Qc8 Rc7 42. Qd8 Rf7
+43. Qd6 Re7 44. a4 Rf7 45. Qe5+ Kh7 46. h4 gxh4 47. Qh5 Kg7 48. g5 hxg5 49.
+Qxg5+ Kf8 $1 {Black's King is running to the center. The Queen alone cannot
+checkmate him.} 50. Qxh4 Ke8 51. Qh8+ Kd7 52. a5 Ke6 53. Qe8+ Re7 54. Qg6+ Nf6
+55. Kb6 Rd7 56. Ka7 Re7 57. Kb8 Rd7 58. Kc8 Re7 59. Qh6 Kf7 60. Qf4 Ke6 61.
+Qe3+ Kf7 62. Qh6 Ke6 63. Qg6 Rf7 64. Qd3 Re7 65. Qh3+ Kf7 66. Kd8 Re8+ 67. Kc7
+Re7+ 68. Kd6 $4 Ne4# {What a beautifull picture. Black was lucky at the end,
+but objectivelly the position is draw.} 0-1
+
+[Event "Estudio"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Chekhover"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "7r/p3k3/2p5/1pPp4/3P4/PP4P1/3P1PB1/2K5 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2004.11.10"]
+
+1. Kd1 {White's turn. White manages to find a beautiful fortress with the
+pawns.} Rh2 2. Ke1 Rxg2 3. Kf1 Rh2 4. Kg1 Rh5 5. f3 {Black cannot make any
+progress in the position because he cannot open any line and enter the White's
+position.} 1/2-1/2
+
+[Event "Biel-B"]
+[Site "Biel"]
+[Date "1988.??.??"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Costa, Jean Luc"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2555"]
+[BlackElo "2350"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "5bk1/5ppp/5n2/1p6/8/7P/2Q2PP1/6K1 b - - 0 34"]
+[PlyCount "130"]
+[EventDate "1988.07.??"]
+[EventRounds "11"]
+[EventCountry "SUI"]
+[EventCategory "8"]
+
+34... h5 $1 {Black's turn. Black faces some dificalties in the position but
+this is not the end of the world. :-) This is the best move because Black is
+trying to place the pawns to f7, g6 and h5. This is the best set up in order
+to exchnage all of the king-side pawns.} 35. f4 b4 {This is a passed pawn
+after all and something which White should worry about.} 36. Qc4 g6 37. Kf2 h4
+{Black is fixing White's pawns. If White tries to move the g pawn then he will
+break his structure.} 38. Kf3 Ne8 39. Kg4 (39. f5 Nd6 40. Qxh4 Nxf5 {It is not
+easy for White to break through.}) 39... Be7 40. Qc8 f5+ {This is a fortress.
+White's King cannot enter Black's camp.} 41. Kf3 Kf7 42. Ke3 Ng7 43. Qc4+ Ne6
+44. Qd5 Bd8 45. Kd3 Kf6 46. Qe5+ Kf7 47. Kc4 Be7 48. Kd5 Nf8 49. Kc6 Nh7 50.
+Qd5+ Kf8 51. Qb3 Nf6 52. g3 {This is an nice try but Black has the perfect
+blockate. Black achived the draw afterwards.} hxg3 53. Qxg3 Kg7 54. Qe3 Kf7 55.
+Qb3+ Ke8 56. Qe6 Kf8 57. h4 Ke8 58. Kb5 Kf8 59. Kc4 Ke8 60. Kd4 Kf8 61. h5 Nxh5
+62. Qxg6 Ng7 63. Kd5 Bh4 64. Kc6 Be1 65. Qd6+ Kf7 66. Qd5+ Kf8 67. Kd6 Bc3 68.
+Kd7 Bf6 69. Qc5+ Kg8 70. Qxb4 Kf7 71. Qb3+ Kg6 72. Qg8 Bh4 73. Kd6 Bf6 74. Qb3
+Bh4 75. Qh3 Bf6 76. Qg2+ Kf7 77. Kd7 Bh4 78. Qd5+ Kg6 79. Qg8 Bf6 80. Kd6 Bh4
+81. Qf8 Bf6 82. Kd5 Bc3 83. Qc5 Bf6 84. Kd6 Ne8+ 85. Kd7 Ng7 86. Qg1+ Kf7 87.
+Qg3 Bd4 88. Qb3+ Kg6 89. Qg8 Bf6 90. Kd6 Bh4 91. Qa8 Bf6 92. Qc6 Kf7 93. Qg2
+Be7+ 94. Kd7 Bh4 95. Qh3 Bf6 96. Qg3 Bd4 97. Kd6 Bf6 98. Kd5 Be7 99. Qxg7+ (99.
+Qxg7+ Kxg7 100. Ke6 Bf6 101. Kxf5 {Black will block the pawn on the darck
+squares. The position is draw.}) 1/2-1/2
+
+[Event "New York"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Em. Lasker"]
+[Black "Ed. Lasker"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/8/8/8/NK3k2/1p4r1/8/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1924.??.??"]
+
+1. Nb2 {White's turn. Please evaluate the position and find a way to defend
+yourself. White's position seems dead lost but it is not easy for Black to
+break the fortress. White should wait.} Ke4 2. Na4 Kd4 3. Nb2 Rf3 4. Na4 Re3 5.
+Nb2 {The King who will not move is attacking the b3 pawn. The Knight is the
+best blockator. Black cannot make any progress in this position, so he desides
+to go around with the King.} Ke4 6. Na4 Kf3 7. Ka3 $1 {This is an extremelly
+important move. White would like to lock out the Black's King.} Ke4 (7... Ke2
+8. Nc5 Kd2 9. Kb2 $1 $11 {Black is not ble to make any further progress.}) 8.
+Kb4 Kd4 9. Nb2 Rh3 10. Na4 $11 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chekhover"]
+[Black "Study"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/B1p5/2Pp4/3Pp1k1/4P3/5PK1/8/2q5 b - - 0 1"]
+[PlyCount "6"]
+
+1... Qf4+ {White's turn. Please evaluate the postion and find a fortress for
+White.} 2. Kg2 Kh4 3. Bf2+ Kg5 4. Ba7 $11 {White has a perfect blockate to
+light squares with the pawns and to darck-squares with the Bishop. Black
+cannot make any further progress.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Simkhovich"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "4K3/4Bp1N/2k3p1/5PP1/8/7p/b7/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1926.??.??"]
+
+1. f6 $1 {White's turn. It look like that White will promote the pawn into a
+new Queen. White found a brilliant fortress.} h2 2. Bf8 h1=Q 3. Bh6 $1 {The
+Knight is protected. The g7 square is the perfect square for White's King.} Kd6
+4. Kf8 Qa8+ 5. Kg7 $11 {Black cannot make any progress.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Dobrescu"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/R3N3/3q4/8/K7 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1965.??.??"]
+
+1. Kb2 {White's turn. Because of the double-attack Black cannot touch the Rook.
+} Qe2+ (1... Kxa4 2. Nc5+) 2. Kb3 $1 Qd1+ 3. Kb2 $1 {Again the same motive!
+The Rook can not be captured neither by the King or Queen.} Qe2+ (3... Qxa4 4.
+Nc3+) 4. Kb3 $1 $11 Qe3+ 5. Nc3+ Kc6 6. Kb2 Qd2+ 7. Kb3 {Black cannot make
+progress in this situation.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Nadareishvili"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "8/3NB2K/5p2/8/6k1/8/3p4/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1965.??.??"]
+
+1. Bxf6 {White's turn. Try to find the fortress.} d1=Q 2. Ne5+ Kf5 3. Bg7 $11 {
+Black's King cannot come closer, so the position is draw.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Nadareishvili"]
+[Black "?"]
+[Result "1/2-1/2"]
+[Annotator "http://chess-teacher.com/"]
+[SetUp "1"]
+[FEN "6K1/6BP/6k1/8/6P1/8/8/5q2 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1976.??.??"]
+
+1. h8=N+ $1 {White's turn. Fantasick resourse. White is creating the same
+fortress as in the privious example.} Kg5 2. Nf7+ {By these forcing moves
+White manages to create the privious fortress picture.} Kxg4 3. Ne5+ $11
+1/2-1/2
+
+[Event "Carlsen - Karjakin World Championship"]
+[Site "0:34:33-0:04:33"]
+[Date "2016.11.15"]
+[Round "4"]
+[White "Sergey Karjakin"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Annotator "http://chess-teacher.com/"]
+[PlyCount "187"]
+[EventDate "2016.11.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. a3 Qd7 11. Nbd2 Rfe8 12. c3 Bf8 13. Nf1 h6 14. N3h2 d5 15. Qf3
+Na5 16. Ba2 dxe4 17. dxe4 Nc4 18. Bxh6 Qc6 19. Bxc4 bxc4 20. Be3 Nxe4 21. Ng3
+Nd6 22. Rad1 Rab8 23. Bc1 f6 24. Qxc6 Bxc6 25. Ng4 Rb5 26. f3 f5 27. Nf2 Be7
+28. f4 Bh4 29. fxe5 Bxg3 30. exd6 Rxe1+ 31. Rxe1 cxd6 32. Rd1 Kf7 33. Rd4 Re5
+34. Kf1 Rd5 35. Rxd5 Bxd5 36. Bg5 Kg6 37. h4 Kh5 38. Nh3 Bf7 39. Be7 Bxh4 40.
+Bxd6 Bd8 41. Ke2 g5 42. Nf2 Kg6 43. g4 Bb6 44. Be5 a5 45. Nd1 {Black's turn.
+Carlsen has a very pleasant position with the Bishop pair advantage. His next
+move is a very bad one because White can achieve a fortress and Black cannot
+do anything to break it. Here is the critical position and a golden
+opportunity for Magnus to break Karjakin's defense. Indeed, Black has a lot of
+options like f4, capture on g4 and Be6. The best reply is Be6. This will force
+White to capture on f5 and Black can recapture with the King. After that,
+Black's pieces will be more active and he will be ready to start pushing his
+g-pawn with the help of the two Bishops. The g-pawn is not the only White's
+problem. Black has another interesting plan. He can use the g-pawn as a decoy
+in order to keep White's pieces busy, and after that, he can organize an
+attack on the queenside. He can try to capture all the queenside weak pawns,
+starting from b2.} f4 $6 {This is the critical mistake. After this move,
+Carlsen cannot win any more.} (45... Be6) 46. Bd4 Bc7 47. Nf2 Be6 48. Kf3 Bd5+
+49. Ke2 Bg2 50. Kd2 Kf7 51. Kc2 Bd5 52. Kd2 Bd8 53. Kc2 Ke6 {Black's problem
+is that he cannot enter in White's camp with the Bishops. Black's king is also
+restricted by White pieces, so the players agreed in a draw afterwards.} 54.
+Kd2 Kd7 55. Kc2 Kc6 56. Kd2 Kb5 57. Kc1 Ka4 58. Kc2 Bf7 59. Kc1 Bg6 60. Kd2 Kb3
+61. Kc1 Bd3 62. Nh3 Ka2 63. Bc5 Be2 64. Nf2 Bf3 65. Kc2 Bc6 66. Bd4 Bd7 67. Bc5
+Bc7 68. Bd4 Be6 69. Bc5 f3 70. Be3 Bd7 71. Kc1 Bc8 72. Kc2 Bd7 73. Kc1 Bf4 74.
+Bxf4 gxf4 75. Kc2 Be6 76. Kc1 Bc8 77. Kc2 Be6 78. Kc1 Kb3 79. Kb1 Ka4 80. Kc2
+Kb5 81. Kd2 Kc6 82. Ke1 Kd5 83. Kf1 Ke5 84. Kg1 Kf6 85. Ne4+ Kg6 86. Kf2 Bxg4
+87. Nd2 Be6 88. Kxf3 Kf5 89. a4 Bd5+ 90. Kf2 Kg4 91. Nf1 Kg5 92. Nd2 Kf5 93.
+Ke2 Kg4 94. Kf2 1/2-1/2
+

@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "2011.07.04"]
+[Round "?"]
+[White "New game"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q3k1/p1r1p2p/1p4p1/5p2/1P2nP2/P2Q2P1/1B2P2P/3R1K2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2011.??.??"]
+
+1. Qd5+ (1. Qd4 Nf6) 1... Kf8 (1... e6 2. Qd4) 2. g4 Nf6 3. Bxf6 exf6 4. gxf5
+gxf5 5. Rd3 Kg7 (5... Rc1+ 6. Kf2 Rc6 7. Rg3 Qe6 8. Qd8+ Qe8 9. Rg8+ Kxg8 10.
+Qxe8+) (5... Rc2 6. Rg3) 6. Rg3+ Kh8 7. Qd6 Rc6 8. Qe7 *
+

@@ -1,0 +1,61 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.10.11"]
+[Round "?"]
+[White "Scandinavian defense"]
+[Black "Base theory"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "RCA"]
+[PlyCount "23"]
+[EventDate "2013.??.??"]
+[SourceDate "2013.10.11"]
+
+1. e4 d5 {This is the Scandinavian Defence. It was not popular, ever, because
+after the simple move...} 2. exd5 {Black has to take a difficult decision: (a)
+take with the queen and allow White to win some tempos; or (b) play 2...Nf6,
+trying to retake with the knight - this also gives White a lot of time to
+organise a great position.} Qxd5 (2... Nf6 3. c4 $5 {The idea of this move is
+to transpose to the Panov-Botvinik Attack in the Caro Kann Defence. Here Black
+has two main options - 3...c6 or 3...e6.} c6 (3... e6 {The idea is to avoid
+the Panov-Botvinik. You can find a comprehensive analysis of this "Icelandic
+Gambit" in the opening repertoire for Black.} 4. dxe6 Bxe6 5. Nf3 Nc6 (5... Qe7
+$5 6. Qe2 Nc6 7. d4 Bg4 8. Be3 {These lines are analysed in the section
+"Icelandic Gambit" for the Black pieces.}) 6. Be2 Bc5 7. O-O Qd7 8. Nc3 {And
+white is a pawn up. Of course, Black has activity in compensation. Maybe there
+is a slight advantage for White.} O-O-O 9. a3 Nd4 10. Nxd4 Bxd4) 4. d4 cxd5 {
+And the Panov-Botvinik is reached.}) 3. Nc3 Qa5 (3... Qd6 {Is the main
+alternative to Qa5; used by Tiviakov.} 4. d4 Nf6 5. Nf3 {Now Black has two
+choices...} a6 (5... c6 6. Ne5 Nbd7 7. Nc4 $1 {Avoiding exchanges and
+attacking!} Qc7 8. Qf3 {Preparing Bf4!} Nb6 9. Bf4 Qd8 10. Be5 $1 {Defending
+d4 and putting the bishop in an excellent place. Obviously 0-0-0 doesn't work
+because of Bg4!}) 6. g3 {This move is not just to dispute the a8-h1 diagonal.
+Moreover, with this move White wants to play Bf4 at the right moment.} b5 7.
+Bg2 Bb7 8. O-O e6 9. Bf4 {Finally...} Qb6 10. a4 {Threatening a5 and, at the
+same time, trying to open the position and take advantage of his better
+development.}) 4. d4 Nf6 5. Nf3 c6 (5... Bg4 6. h3 {Attacking the most active
+piece of our opponent.} Bh5 7. g4 $1 {In this position, White is not going to
+castle on the king side. That's why this move is perfectly possible and even a
+very strong one.} Bg6 8. Ne5 {Putting the knight in an excellent location and
+threatening h4.} e6 (8... c6 9. h4 Be4 (9... Nbd7 10. Nc4 $1 {White has space
+advantage, so it's very logical to avoid exchanges and win a tempo.} Qc7 11. h5
+$1 {Winning the bishop pair.} Be4 12. Nxe4 Nxe4 13. Qf3 {Winning a tempo and
+preparing Bf4!} Nd6 14. Bf4) 10. Nc4 $1 {Attacking the queen and unpinning the
+c3 knight.} Qc7 11. Nxe4 Nxe4 12. Qf3 $1 {With the bishop pair and a very
+active position.}) 9. Bg2 {Threatening Bxb7.} c6 10. h4 {Annoying the bishop.}
+Be4 {Otherwise White plays Bd2 first and Black never has the option of this
+move.} 11. Bxe4 Nxe4 12. Qf3 $1 {Double attack.} Nd6 13. Bd2 {With advantage
+for White due to his better development and more active pieces.}) (5... Bf5 6.
+Ne5 Nbd7 $2 (6... c6 7. Nc4 Qc7 8. g3 {Following with Bg2 and Bf4 - with a
+good position.}) 7. Nc4 $1 {And Black's queen is in trouble!}) 6. Ne5 Be6 7.
+Nc4 Bxc4 (7... Qc7 8. Qf3 {Preparing Bf4.} Bg4 9. Qg3 Qxg3 10. hxg3 {This
+endgame is slightly better for White, due to the space advantage and the open
+'h' file. The doubled pawns are not really weak.}) (7... Qd8 8. Bf4 {With
+superior development and space advantage.} g6) 8. Bxc4 e6 9. Qe2 {Keeping the
+c1 bishop flexible. And against Bd2, Qb6 is not bad for Black. It's not
+necessary for White to sacrifice any material.} Nbd7 10. Bd2 {Now it's time to
+develop.} Bb4 11. O-O O-O 12. a3 {And White is going to get the remaining
+Black bishop. Besides, White has space advantage. The Scandinavian is really
+easy to handle. We should not become relaxed against it. But with good play,
+White should gain some advantage.} *
+

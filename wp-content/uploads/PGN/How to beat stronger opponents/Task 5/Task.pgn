@@ -1,0 +1,130 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p5k1/Pp1p2p1/2pP4/4Q1nq/8/1PP2P2/5RKB w - - 0 29"]
+[PlyCount "1"]
+
+29. Qg2 {black's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3ppp/1qnr2n1/3p4/5P2/1NPB2P1/PPQ2P2/R3R1K1 b - - 0 1"]
+[PlyCount "1"]
+
+1... Rfd8 {white's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/1pk1n2p/pNb1p1p1/2P2p2/3pP3/6P1/PP3PBP/2K4R w - - 0 1"]
+[PlyCount "1"]
+
+1. Re1 {black's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2rbk1/2q3p1/p1p1bn1p/1pP1p3/N7/1P4P1/PBQ1PPB1/2RR2K1 w - - 0 23"]
+[PlyCount "1"]
+
+23. Nc3 {black's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2ppp/5n2/4q3/4P3/2NB3P/PP1Q1PP1/R3K2R b KQkq - 0 13"]
+[PlyCount "1"]
+
+13... Bd7 {white's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp1n1bp/3pbnp1/3Np3/2P1P3/4B1PP/PP2NPB1/R2Q1RK1 b - - 0 14"]
+[PlyCount "1"]
+
+14... c5 {white's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/3n1pb1/3p1n1p/p2Pp1pP/Pp2P1P1/4BP2/1P1NB3/R2QK1NR b KQ - 0 16"]
+[PlyCount "1"]
+
+16... Nc5 {white's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/pbppqp2/1p3n1p/4p1p1/2PP4/2P1P1B1/P2NBPPP/R2QK2R b KQkq - 0 11"]
+[PlyCount "1"]
+
+11... d6 {white's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/2p2ppp/6b1/1p1pP3/pn1Pn3/4B3/PP1N1PPP/RB1Q1RK1 b - - 0 1"]
+[PlyCount "1"]
+
+1... a3 {white's turn} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p3ppp/1qn5/pB1p4/P2Nb3/2P3P1/1P3PP1/R2QR1K1 b - - 0 1"]
+[PlyCount "1"]
+
+1... Red8 {white's turn} *
+
